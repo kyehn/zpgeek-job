@@ -1,0 +1,61 @@
+{
+    "securityId": "c3c4WgtVibze6-q1URg8j-vqv0s4oa7TyFYIw7eeuzO5VCtl37xp_GUB_iMNGpfe-cfWZ9p3TF11wyAexpsR91SxEe_SUc-FBNKI5sB-p52OdkAicpl-",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230512/607f1f3d68754fd0be59643f30ebf72da8f588b57d0fb296600fcc05b62dd37d2b86213f6709f4ad_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "def3654f279ddd570n193ti1EFRZ",
+    "bossName": "李女士",
+    "bossTitle": "人力资源",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "feae777944faaa071Xx_29y5FFJR",
+    "expectId": 0,
+    "jobName": "服装设计助理",
+    "lid": "1fjMgOLnF4n.search.276",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "女装",
+        "男装",
+        "服装"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "大兴区",
+    "businessDistrict": "庞各庄",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 276,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.315542,
+        "latitude": 39.630937
+    },
+    "encryptBrandId": "03952dd98d277de81XN52Ni8ElI~",
+    "brandName": "北京汇青服装科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "服装/纺织",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "底薪加提成",
+        "五险一金"
+    ],
+    "industry": 101003,
+    "contact": false,
+    "showTopPosition": false
+}

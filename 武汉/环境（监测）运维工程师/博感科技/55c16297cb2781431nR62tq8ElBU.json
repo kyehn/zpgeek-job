@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "舒敏",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "环保",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200814/c6958a30631baca4f9dc13d64062d4e0e2f911fde2705159de7a8bdc78ef10e1.png",
+    "brandName": "博感科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ea5d87ead371952d1nV929i8GVFT",
+    "encryptBrandId": "632f31723da1b1c93nZy3tq_Ew~~",
+    "encryptJobId": "55c16297cb2781431nR62tq8ElBU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.454975,
+        "longitude": 114.406346
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101207,
+    "isShield": 0,
+    "itemId": 70,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "环境（监测）运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8sY3R63qMZm.search.70",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "Ob-N66vzdosIe-M1U_6WMWy0_U5R9fIygI0qRGgZ8DQDpB2LtBuybnoPOXdxcVno3aPpLZSgSFBYMSPu-WImxNc4GG19_8QD-Yn4gXvIU7TFuFPTaMYcr-Rwt1d043KAnL_rocEB9Z8pxQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "环境工程",
+        "污水处理",
+        "环保设备运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

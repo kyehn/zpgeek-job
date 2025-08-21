@@ -1,0 +1,62 @@
+{
+    "securityId": "AyFb7KY75Vhc3-J1YoHksaR0o2PUju0GKe-xE6Ov54U6Tyz8uylrwpgNZ84j0Qo4qR-qpd9Nw5MwmA0DgkaG7uKgdvTDk7b73u2BJWUnftFRb_eInDoF",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "942daa1334c90de90nR92dS9FlJS",
+    "bossName": "张先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "702f3f88db9957f01nB_39W_ElFR",
+    "expectId": 0,
+    "jobName": "实施工程师",
+    "lid": "3ua0DMFlw7d.search.208",
+    "salaryDesc": "6-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "弱电工程师"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "龙岗区",
+    "businessDistrict": "横岗",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 208,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.201197,
+        "latitude": 22.643497
+    },
+    "encryptBrandId": "cc81096d7cf435311nZy39y7FFI~",
+    "brandName": "天纬通",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210415/a3974b7f6c097c7cb2e0f13f0cb6827542f4394f0a776e0a74d115a501350ab0_s.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "住房补贴",
+        "通讯补贴",
+        "带薪年假"
+    ],
+    "industry": 100024,
+    "contact": false,
+    "showTopPosition": false
+}

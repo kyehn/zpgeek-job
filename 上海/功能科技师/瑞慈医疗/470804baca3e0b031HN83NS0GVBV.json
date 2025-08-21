@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "长宁区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "张嫚",
+    "bossOnline": false,
+    "bossTitle": "人力资源经理",
+    "brandIndustry": "医疗健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190505/fcf00d9245e998e7816740f5b9ed92bfa01b44068a08d7a40c8fa43dc9104f23_s.jpg",
+    "brandName": "瑞慈医疗",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "新华路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d5b35d59894272350nR_3NW7FlNX",
+    "encryptBrandId": "cc94ef20b16afee91HF43Ni8",
+    "encryptJobId": "470804baca3e0b031HN83NS0GVBV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.201913,
+        "longitude": 121.400919
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100006,
+    "isShield": 0,
+    "itemId": 22,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "功能科技师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2AJoNA0lVUI.search.22",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "ZpSOX9du2Ya1c-c1Fe27NMNDdcIPICutKExzmOjKZAmnjgGyqNEpRJ6y992ZtOuaj0iUkzIQuFk6X0xXNzyTn190p_NzZLNeVotyDRvJr2lDFHp2ElOoTmkIUYO1VITNrQ8xORA6vjPO",
+    "showTopPosition": false,
+    "skills": [
+        "体检中心"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "节日福利",
+        "五险一金",
+        "定期体检"
+    ]
+}

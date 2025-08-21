@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "陈书豪",
+    "bossOnline": false,
+    "bossTitle": "副总经理",
+    "brandIndustry": "工程施工",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "朗路检测",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d89a2fcb3c9fb6580n192tm0FlFT",
+    "encryptBrandId": "f7a84d5ef3ab88a11nd-39m5ElA~",
+    "encryptJobId": "357149c3c9913ba003Rz29i7F1dT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.13676,
+        "longitude": 119.979995
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100702,
+    "isShield": 0,
+    "itemId": 33,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "数据分析助理工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7Hv52ayV6Rv.search.33",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K·13薪",
+    "securityId": "55EUOu6tUltep-F1qYDjP3O-j6gsIBgSeMCpFcFV42Zlm7HhBSfiA6HBPaL5aCgTnBFOB-trZAxOQfBzyMZX4sAoDOP0BEiA9wKeyU817jONBggAg3a1WVu4paA_Ooi3t3ZrDz8x8OUxVYA~",
+    "showTopPosition": false,
+    "skills": [
+        "责任心强"
+    ],
+    "welfareList": [
+        "加班补助",
+        "定期体检",
+        "意外险"
+    ]
+}

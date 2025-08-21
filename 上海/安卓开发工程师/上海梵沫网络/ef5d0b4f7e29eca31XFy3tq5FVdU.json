@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "普陀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "赵娜",
+    "bossOnline": false,
+    "bossTitle": "产品",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201113/cffdf159b511b8e09b8acb180a7e8d794da182f1ff6d760a9f3aaae14a52a43b_s.jpg",
+    "brandName": "上海梵沫网络",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "梅川路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "442dffdafd6bf4e11nRy2dS-FlFQ",
+    "encryptBrandId": "88fc465a7aa7a87b1nZ-3dW_GFI~",
+    "encryptJobId": "ef5d0b4f7e29eca31XFy3tq5FVdU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.232719,
+        "longitude": 121.370357
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 84,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "安卓开发工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9b0DMZk1T5N.search.84",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "5Lf6nA98mWQLN-B1jK2lYNqdczGGES3I6Y28wHYxoz6tuv_Kv4qWAJRRUH4h1tYkKu8EKADEoCIGFZQxYmpL90vBDdXIWf_5V3HvIjZVJiGfdxj-BwOG5CFP2SGlZeVKahbV_Wak8xm6hS4~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Kotlin"
+    ],
+    "welfareList": [
+        "零食下午茶",
+        "五险一金",
+        "带薪年假"
+    ]
+}

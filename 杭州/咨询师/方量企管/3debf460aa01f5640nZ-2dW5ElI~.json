@@ -1,0 +1,61 @@
+{
+    "securityId": "pPZYTEheNJG56-k1TS19USg6D0nAaIo7eiELvqHq5zvi-6DTqrQoqMEmPsqsGgBXUzr7gwGR-kEpLreBmw413LtKATwMtghbttZXOI08EPn0FLhH",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "1c89e9ee36f2a07e0Hd63Ni7GVQ~",
+    "bossName": "郭女士",
+    "bossTitle": "行政",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3debf460aa01f5640nZ-2dW5ElI~",
+    "expectId": 0,
+    "jobName": "咨询师",
+    "lid": "1DPLNBCgdiO.search.117",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据分析",
+        "市场调研"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "拱墅区",
+    "businessDistrict": "上塘",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 117,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.159944,
+        "latitude": 30.337781
+    },
+    "encryptBrandId": "c2cea1228da4735003F63du-EA~~",
+    "brandName": "方量企管",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190520/4fcfbb5d78ea4161ed6cef01af77ad229989ef9448997023e42f33ed2ff70350_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "咨询",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "带薪年假",
+        "员工旅游"
+    ],
+    "industry": 100601,
+    "contact": false,
+    "showTopPosition": false
+}

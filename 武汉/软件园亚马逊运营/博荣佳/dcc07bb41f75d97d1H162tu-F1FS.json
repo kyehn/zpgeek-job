@@ -1,0 +1,63 @@
+{
+    "securityId": "R5jWzDw9kM4A6-L14ftIa_uTmVSgdCV4nO_YyfvbqvUyTO39HSAh_9HHisRXa4NegLcy1Sgs3FXDm6FnyN4jurdV4KE40vWT9qndjIR783Kjh3BlOB9Xg4b4Fm1DdkJw_3GFONC6coTmv74~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "36b0be33fd653c360nJ40928ElBR",
+    "bossName": "陈女士",
+    "bossTitle": "招聘主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "dcc07bb41f75d97d1H162tu-F1FS",
+    "expectId": 1030426395,
+    "jobName": "软件园亚马逊运营",
+    "lid": "1acjMWLcWQT.search.166",
+    "salaryDesc": "7-11K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "店铺运营",
+        "电商运营"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "洪山区",
+    "businessDistrict": "民族大道",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 166,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.402049,
+        "latitude": 30.476709
+    },
+    "encryptBrandId": "e201a3879bf706281HZ_3dW7FlU~",
+    "brandName": "博荣佳",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240220/7bf6f160950405e97e2841e636480e165b921435be5f8aaa653718c3b03610ea6eef0b56a42e05b1.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "绩效奖金",
+        "底薪加提成",
+        "节日福利",
+        "零食下午茶",
+        "有无线网"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

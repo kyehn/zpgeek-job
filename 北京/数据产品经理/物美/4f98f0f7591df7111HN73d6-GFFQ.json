@@ -1,0 +1,60 @@
+{
+    "securityId": "RgUPiCYyAfoeO-T1Du_RNKHej2G9cDDDjOAhcsq2mUo9AadlPCnDzQgL1MyXWrWhiho8tVUW0YPIspGq2Mj2E7-GiL9X6x2-r7UtgYO_niMGFppd",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210620/3b49c41d9e494c6cefdc5f7a6abfefd1acf2e63100662a5855f87ab2d273bd64_s.png",
+    "bossCert": 3,
+    "encryptBossId": "40066cfa24d6eef903d42tq1F1U~",
+    "bossName": "韦先生",
+    "bossTitle": "经营分析岗",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4f98f0f7591df7111HN73d6-GFFQ",
+    "expectId": 0,
+    "jobName": "数据产品经理",
+    "lid": "1jqHeUqon1k.search.211",
+    "salaryDesc": "9-10K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "中台产品"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "四季青",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 211,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.276416,
+        "latitude": 39.933315
+    },
+    "encryptBrandId": "c2eb58443a3851bc1nd92tW4",
+    "brandName": "物美",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160629/4f91f66eb9f0d8f8e2f3cc3b64d2d5b2d2128388a11d2a93a9b1e3cc3c6dec2c.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "生活服务(O2O)",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "节日福利",
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100007,
+    "contact": false,
+    "showTopPosition": false
+}

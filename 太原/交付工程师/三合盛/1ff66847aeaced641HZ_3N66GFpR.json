@@ -1,0 +1,62 @@
+{
+    "securityId": "-osP4mFyxovAP-c1X0vNDRsEJGpt8XS9kMrzpCfwFBDqpM-qgFSHpMi1vvngTNVfg8TznWtslk5Ddz9BsnQFnCwXT-SCbqnJbNCrp1WUn9WH0Mc1TjQ~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20210903/a2f3e71d9181a67b1000acd6511b37a35556f103ad4d2502b2212a76e5ebaa8d18ec1909a7b0fb84_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "e1ed4629c1dd1c040nR-2Ny0FlNZ",
+    "bossName": "梁女士",
+    "bossTitle": "行政人员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1ff66847aeaced641HZ_3N66GFpR",
+    "expectId": 0,
+    "jobName": "交付工程师",
+    "lid": "2vWiYc1Z0Nb.search.285",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "可适应出差",
+        "软件实施经验",
+        "PMP"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "太原",
+    "areaDistrict": "小店区",
+    "businessDistrict": "坞城路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 285,
+    "city": 101100100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.590106,
+        "latitude": 37.773035
+    },
+    "encryptBrandId": "81291a04036bfdaf0XFy39i-EA~~",
+    "brandName": "三合盛",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201016/0506c616d956214279cc0c4b4bbc3911b2212a76e5ebaa8d18ec1909a7b0fb84_s.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "通讯补贴",
+        "餐补",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,71 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250329/607f1f3d68754fd009614530c4ce37ef2c9e6af416fe2cf8c0dfc57b7f711639ec419f21d065f7e0_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "检测/认证",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220323/7bf6f160950405e9d2957bcb2b78cc247b4946073277b47363a8d29c6c9322a0ffbc394153b518d1.jpg",
+    "brandName": "广电计量",
+    "brandScaleName": "100-499人",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "84909a966bbdba251nV83Nm5FVdV",
+    "encryptBrandId": "76a78dcbc9d437901XRz29m_EA~~",
+    "encryptJobId": "9a1ecd13721204eb03B63dy9F1tU",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.744855,
+        "longitude": 116.499821
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100606,
+    "isShield": 0,
+    "itemId": 33,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "广电计量招聘质检员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8hnif9nZaka.search.33",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "4-5K",
+    "securityId": "4zLSs7DZ22sz3--1a-JV5leQT4dtaHJCT1JtjBc0haZ1RHuGB59nBe9hOZcl91SInhB_IzuAHB61EexH9gBmaoEx70jUng3TL9aE5hinLIjf5HlTHu0qpn-5Ts73Y9hH7PA4yJsyS1EP7bWxH3yLtYI~",
+    "showTopPosition": false,
+    "skills": [
+        "机械设备"
+    ],
+    "welfareList": [
+        "年终奖",
+        "补充医疗保险",
+        "节日福利",
+        "加班补助",
+        "带薪年假",
+        "交通补助",
+        "定期体检",
+        "五险一金"
+    ]
+}

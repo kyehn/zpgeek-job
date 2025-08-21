@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宽城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230920/607f1f3d68754fd032dbb82283e6ef46212a8704a54a106603b11d2e300fb6a78001009ae404402b_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "闫女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "机械设备/机电/重工",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201028/5cebaacead13e5e3bf54af7c996f2a3c03b11d2e300fb6a78001009ae404402b_s.jpg",
+    "brandName": "荣德光学",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "北湖",
+    "city": 101060100,
+    "cityName": "长春",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "67a1526ae4a595040nR_39--GFFW",
+    "encryptBrandId": "7b4f61a4bd90078a0Xd72t6_Eg~~",
+    "encryptJobId": "285f334cb6580e7d03Z539i9EFVR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 43.987658,
+        "longitude": 125.40681
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100901,
+    "isShield": 0,
+    "itemId": 178,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "电气工程师（软件）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "46UiWjJIHVd.search.178",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K",
+    "securityId": "jNfw4AdNCsrnw-p1qze1H3ppSo1W8We_gxjparhTz8rASq5g03SghYo_5E17rTWqcdKh_zoln7w0bGiHTZx7CyEJUTOo4db8eNi-IisbGSXI4byeQxumOytzEM_iywsGAEO9-HV2CjA7HQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "C++"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "kfiDLgY2obU44-y1f3qJutoVHrIzJcjJzdJI3-UqdvACLuUZAC0WaRtOPfwdqbk31OwTUZ_RoVx_S82y-1UvNoQspYG08-wBPOW4CsP1mEtFQLMtZ2A~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240130/607f1f3d68754fd006beb35e33e3403a8f407e904ba4741c216473d6a1fffa7a2017e607adeeb3b3_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "7b839c1c63fcf6870H163dm1GVQ~",
+    "bossName": "郭女士",
+    "bossTitle": "运营",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "69690e5e261de4701HB40tu_FFpQ",
+    "expectId": 0,
+    "jobName": "达人经纪",
+    "lid": "2xnujewW2WD.search.176",
+    "salaryDesc": "6-10K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "内容红人（非直播方向）"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长沙",
+    "areaDistrict": "芙蓉区",
+    "businessDistrict": "韭菜园",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 176,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.00272,
+        "latitude": 28.186547
+    },
+    "encryptBrandId": "9c1e9204b2df4ba71XJz2NW8FFc~",
+    "brandName": "洲上科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240321/7b5b554d84f9729c28303fdeaf33c9876d59bd9c696d1a5a216473d6a1fffa7a2017e607adeeb3b3.jpg.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "有无线网",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

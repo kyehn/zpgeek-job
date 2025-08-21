@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210407/aa994704526baec4056c7b1204b828cd4dfac8116cae7346cc2a22a7cdfcf40e_s.png",
+    "bossCert": 3,
+    "bossName": "陈远春",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210408/7c3390b5c9d5ca606b56b08b623980ec5c9e2596c89e27e7043d675d82440d7f.png",
+    "brandName": "首巢数字科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fcaf539dda1dea8f3nd73Ni9GFM~",
+    "encryptBrandId": "99272f575fa480721nF-3du8E1M~",
+    "encryptJobId": "ed436c402de0ba041XZ53tm9EFtR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.289703,
+        "longitude": 120.199288
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 32,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "数据库开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7HtBKMQv1UN.search.32",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "_2SqcWCRql4FF-Q1f5gLHUPl9kck7JOUfvkyk5i3gTfNGjoqb0-EEr2GcD-_tHI19mXHNINdsMnxpH5hHskjVk6dHSZfAVNlF-VXw8xpZ_E8RWsuR2hT-yepeEfQOVK1BOiSFw4KfyA_Sw~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "SQL"
+    ],
+    "welfareList": [
+        "年终奖",
+        "节日福利",
+        "零食下午茶"
+    ]
+}

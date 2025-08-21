@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "萧山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250409/607f1f3d68754fd09926d428c7d10241f5a5eee87393793a7e4068ce1668952994e9f4cca6ede569_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "陈淼",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "批发/零售",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "杭州艾诗塔信息技术",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "西兴",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "292291271e7a4d5b0nFy3dS4F1dS",
+    "encryptBrandId": "cac4cc2ff2e80cd01HR-3tu9EFs~",
+    "encryptJobId": "a455c0b2f8507e6e03d_2Nu0GVZU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.233735,
+        "longitude": 120.255057
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100503,
+    "isShield": 0,
+    "itemId": 86,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "会计助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "63nUwbOh3Ne.search.86",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "CHT8VeUrN7npZ-O1b6qEWd_I_N4Cs6q9USLX9b-Kp7V2XSxHduR5FqjHujiemhtn5FfDpujV154zofCP7r7Hzoi7Dl295nQ6m0jkpTBKdIB0cE5TFAumWfFoNjAVp_bXBn1u3H4nUAu2th0~",
+    "showTopPosition": false,
+    "skills": [
+        "线下零售"
+    ],
+    "welfareList": [
+        "五险"
+    ]
+}

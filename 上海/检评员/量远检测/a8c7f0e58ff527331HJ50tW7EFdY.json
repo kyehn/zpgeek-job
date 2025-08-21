@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231221/607f1f3d68754fd08d601a966897e1b07423bc19741cdf86a312c8f8fde993baf3ceff6c26d788bb_s.png.webp",
+    "bossCert": 3,
+    "bossName": "邹雨薇",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "环保",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "量远检测",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "吴泾",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c1621f86f3a20eb30nZ_09u6EFFR",
+    "encryptBrandId": "e00bd9c207bc74ef1nd_2N6_FVo~",
+    "encryptJobId": "a8c7f0e58ff527331HJ50tW7EFdY",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.063054,
+        "longitude": 121.433558
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101207,
+    "isShield": 0,
+    "itemId": 67,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "检评员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5SYFP6Lutup.search.67",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "CLNMjTbbra7GG-O1g0tS6HTULFH7sJ-wr5xalAhC-3tQVHUu5uiSD5ttPk7KnWj74jSGzWMyD50O0jhN1PUyMj37Geg3salqe7tSxSmljstrnwcALcNb",
+    "showTopPosition": false,
+    "skills": [
+        "职业卫生"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "员工旅游",
+        "五险一金"
+    ]
+}

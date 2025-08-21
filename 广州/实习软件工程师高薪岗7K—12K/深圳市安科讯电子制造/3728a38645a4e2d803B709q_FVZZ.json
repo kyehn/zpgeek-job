@@ -1,0 +1,69 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天河区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250424/607f1f3d68754fd0b471b04d30ea3c1d17c8e2ac370f39573e02120ebe2bf15d19a239df5f09d459_s.png.webp",
+    "bossCert": 3,
+    "bossName": "宋先生",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "深圳市安科讯电子制造",
+    "brandScaleName": "500-999人",
+    "brandStageName": "",
+    "businessDistrict": "天河北",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9fb2bd3f78e26efa0nd93du9EFtT",
+    "encryptBrandId": "eb48001f06c463741XB-396-GVY~",
+    "encryptJobId": "3728a38645a4e2d803B709q_FVZZ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.118294,
+        "longitude": 113.322753
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100026,
+    "isShield": 0,
+    "itemId": 32,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "实习软件工程师高薪岗7K—12K",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8iHZV9gG2BB.search.32",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "7-10K",
+    "securityId": "tFlT4F9OdumCk-n1HYxjzQulTtuE2YCTLTKVFMy-q3TgmKMJEmbYbKiTMe4RBqTEUKmZfLpNB7co9yz_x0B6yNTX5BLACvzaCwNmoPVyHHrvTIh-l3GX7BiPPh2ixkx9PEAGB52IjnhjOtnpcx0CUkio",
+    "showTopPosition": false,
+    "skills": [
+        "C++",
+        "C",
+        "Java",
+        "会C、C#、J语音任何一门",
+        "包吃包住",
+        "不用出差",
+        "上班可以带手机",
+        "实习工程师接收应届毕业本科生"
+    ],
+    "welfareList": []
+}

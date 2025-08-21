@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "移动互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190215/46d8c59a1eb5a0c6cecae75f86a3a66b850d1d42bf9454bf45a4818a7bcf0070.jpg",
+    "brandName": "益创时代",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "环球中心",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8449800d6fadcddd1nd60tW8E1s~",
+    "encryptBrandId": "c9dffac26729cec233F709u4",
+    "encryptJobId": "36c5c7157a3160a21XJ40tS7F1ZY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.56668,
+        "longitude": 104.061286
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100019,
+    "isShield": 0,
+    "itemId": 49,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维技术支持",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8t3IziUSQkB.search.49",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "SE1wswr7Jvj13-x1Q5Nfe8djkDFJfxM3L6SD0_-vceNVf1XjfxfozO4lNFJGm3F_fQ0m4BSVJyxORgn5a0gFjxFbpzi63DG-qGt_hWad_sa_YW4I91QRgFq5nNIZKPZz834JPbPPxPU~",
+    "showTopPosition": false,
+    "skills": [
+        "安全体系架构和研发",
+        "安全运维和保障"
+    ],
+    "welfareList": [
+        "团建聚餐",
+        "定期体检",
+        "五险一金"
+    ]
+}

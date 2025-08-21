@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "余杭区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180630/36a4676adb053f372fd180676ce83c1cd9cb59f167424a3fea73a10f8da6f431_s.jpg",
+    "bossCert": 3,
+    "bossName": "张明",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "移动互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200514/d85cd613ed4ab189002a128637dd0bd3d9cb59f167424a3fea73a10f8da6f431_s.jpg",
+    "brandName": "暄暄科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "A轮",
+    "businessDistrict": "仓前",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "bc1efee206e7a5a81HZ52du1FVY~",
+    "encryptBrandId": "6e2bec0d5296130703J72NS1",
+    "encryptJobId": "8b3c85a7917f34b50nRy3tq6FlI~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.270601,
+        "longitude": 119.965893
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100019,
+    "isShield": 0,
+    "itemId": 79,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4aXCsCxcmJF.search.79",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K",
+    "securityId": "JYBSwb97a7W9U-y1CkrO6f8N2QqNCEaQ5Y2c22frMAWYYO7FMlwtwlHg4sDIO9zOpOICtdTxtGXmvfL_Dx19w1V2j8o8U2b7PbLjKhOQohZ2GJK4Ejf3G8ql83-OYVxFBYhDkCMfqA~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

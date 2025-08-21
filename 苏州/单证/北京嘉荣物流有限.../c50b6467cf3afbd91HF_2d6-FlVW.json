@@ -1,0 +1,63 @@
+{
+    "securityId": "7Ibvbzjr5PJAI-x1EGnAoi0zC-1RWCBVrks8paeP4I1fBODl9VPKDCwWVBv0Tyh8D8l2sHLWvDMwvZcg0ojxwYn1F-_jknWEK2qDZ7occc_QxuzKzg~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190821/ae7708ff05fa7212f3bfe2e1cd853403cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "b0f9c9d6cd5d5ae30Hd509i_GFs~",
+    "bossName": "刘女士",
+    "bossTitle": "人事专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c50b6467cf3afbd91HF_2d6-FlVW",
+    "expectId": 0,
+    "jobName": "单证",
+    "lid": "31n0tpLVqK2.search.294",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "单据制作/审查",
+        "财务核销"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "虎丘区",
+    "businessDistrict": "科技城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 294,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.41219,
+        "latitude": 31.326737
+    },
+    "encryptBrandId": "e966789152f818830nN53NS7FQ~~",
+    "brandName": "北京嘉荣物流有限...",
+    "brandLogo": "https://c-res.zhipin.com/jrs/1b80f34762cfa3122afdb1cb5106501f.jpg",
+    "brandStageName": "",
+    "brandIndustry": "装卸搬运和仓储业",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "工龄奖",
+        "年终奖",
+        "包住",
+        "全勤奖",
+        "五险一金"
+    ],
+    "industry": 100510,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "bldBvyEe8psZK-v1RdBbBJM2rtndE5nvgEqAZpHPHBq0eM2SesZk7PFsObgGjdaS2g-Ylr-gmSs6r0YTuieponnu5R4_AkdwYRLKBzeevqshpK9r0CTgEmqOUYaixtzFiMQRneceO1ft80Q~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200805/2d7edf181b4321963fda51b85ea40dce3f632a4ad4d26cce2d2097c50387cf09_s.png",
+    "bossCert": 3,
+    "encryptBossId": "aa88e529576421051nV62Nu0EVJV",
+    "bossName": "柯女士",
+    "bossTitle": "招聘经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6b179c272346f0291Hxz2tW0FlFZ",
+    "expectId": 1030426395,
+    "jobName": "数据分析专员",
+    "lid": "2ayz7ByMFh5.search.20",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数学/统计相关专业",
+        "数据分析/挖掘经验",
+        "金融行业数据相关经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "洪山区",
+    "businessDistrict": "关山",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 20,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.412818,
+        "latitude": 30.493904
+    },
+    "encryptBrandId": "040f336d414e44a51HJ-2tW8EVo~",
+    "brandName": "铸山煮海(武汉)",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240806/7bf6f160950405e98add8a8c98cbcb729e620416ad11efe3b9809a2da0e7b20d8df2aab7d60705e8.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

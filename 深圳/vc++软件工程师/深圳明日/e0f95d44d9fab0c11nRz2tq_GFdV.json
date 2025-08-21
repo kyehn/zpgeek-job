@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙岗区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "王昕",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200506/8c573eda6028379df6b326c88b27f9e9d38cd43662d444287a9d6c94d96ab06c_s.jpg",
+    "brandName": "深圳明日",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "平湖",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "55a4093a19d1309d1nR_2NS4EFJT",
+    "encryptBrandId": "e0cc7c44e3a9b7d70nBy3ti1",
+    "encryptJobId": "e0f95d44d9fab0c11nRz2tq_GFdV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.649253,
+        "longitude": 114.117939
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 100,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "vc++软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "r5lXMjKDkC.search.100",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-11K",
+    "securityId": "6sSsKlibkpH6f-Q18gdgcSGSDHyM8FFW6JAq2_G79yJ6H1GX4ZWJCuVF7qwc732t_OJvwb6JnAOh0HsGA7tKIqH6oIQ6Xg1GiJZParEjv-mo-Y7mvWY1qulyFnpQ5JgjnYZej7h7mTY8",
+    "showTopPosition": false,
+    "skills": [
+        "C++"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "全勤奖",
+        "节日福利"
+    ]
+}

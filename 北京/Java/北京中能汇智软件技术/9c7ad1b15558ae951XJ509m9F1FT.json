@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220722/607f1f3d68754fd03afd946c5bb06fc6e6ecdccede3ee7374aaded782b8c67676d97d1664f5bf4a9_s.png",
+    "bossCert": 3,
+    "bossName": "赵振宇",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "北京中能汇智软件技术",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "朝阳门",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "588ba3fa42abe5180nF709y-EVNT",
+    "encryptBrandId": "e931e6b5fef8160a1XZ63N--GVc~",
+    "encryptJobId": "9c7ad1b15558ae951XJ509m9F1FT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.928123,
+        "longitude": 116.435844
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 90,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Java",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8gbmf9uuUCa.search.90",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "UcO8B4TkihYuK-Y1M9W_FQBZi9J2Whqu64KbZ7k3fS_ZmgOmpT-ndc1MnC-7feUR1dz9eORfOI5ULhfVvxCwXoPl8A_Naz5ZoDuHkr924tBsUMT0RDcAzAMI8G_hxG89Awftm0kBoCrWDqo~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "大数据处理经验",
+        "MySQL",
+        "架构师"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

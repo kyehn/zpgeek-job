@@ -1,0 +1,63 @@
+{
+    "securityId": "mKLMTZ2xLJ3eR-e1EVeCrJntoKcYYyd712g-WNr9aBZZBCNSXsNP2FXLxkYvt-seu5D0gMKgtilCWIqSaCH9udAuA0ZE_8qCEipkaOKkPfQOWwuQkbNO_5M2Ix-RICuDo87DPmm0YKM~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190718/ee7c419069d667e97c75b417d1f22bdbcfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "184473fbf221b26c1nV83NS5FVo~",
+    "bossName": "陈女士",
+    "bossTitle": "招聘经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "359aab280b40238c1H142ty1F1ZX",
+    "expectId": 1030426395,
+    "jobName": "【校招】运维工程师",
+    "lid": "30b4vp9HfwO.search.14",
+    "salaryDesc": "6-9K",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "实施交付运维"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "拱墅区",
+    "businessDistrict": "湖墅南路",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 14,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.159983,
+        "latitude": 30.274371
+    },
+    "encryptBrandId": "381ccd59728b6cbc1nZz0965",
+    "brandName": "金财互联",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20191217/e9d65446126a4f2c27bcf8a4bd43b79abe1bd4a3bd2a63f070bdbdada9aad826.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "互联网",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "节日福利",
+        "绩效奖金",
+        "加班补助",
+        "地铁上盖",
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

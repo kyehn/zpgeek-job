@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "贺荣仙",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "社交网络与媒体",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160506/cda3818a3b92f08bde6f9a11793d4f07bd023cfe01482db32f49975cda8cd0a0.jpg",
+    "brandName": "兴旅国际传媒有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "大望路",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4a7a1e0f50525ca40XV_39y7EFFZ",
+    "encryptBrandId": "802c734d52892db11XF_0tW6",
+    "encryptJobId": "632669254310cf031HRy3N20EVVY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.911168,
+        "longitude": 116.471305
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100003,
+    "isShield": 0,
+    "itemId": 198,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "展会项目经理助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5WBRAdI1iIX.search.198",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "EFbyIG2OuJONS-81shDXLmlIxyBWQLcQkpPNfcyRCTxUVX4RubkIGWu19MPfQfBRauinWLvt1ZuLuHsHnXQtU6O0U-MDfFiVtym1ZK4JmvnQmLFh65VpuIP5cO6HopBGRqpu_1mobvKO",
+    "showTopPosition": false,
+    "skills": [
+        "展会项目经理助理"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金",
+        "带薪年假",
+        "年终奖"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "黄埔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250408/607f1f3d68754fd0a0871e7cd0cf85a4e441c8648f19649cc48fb56bf4bcf1dec67d21de35862626_s.png.webp",
+    "bossCert": 3,
+    "bossName": "彭川",
+    "bossOnline": false,
+    "bossTitle": "项目经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201229/b631c28e2fe3efaaaa0539640083e5341788fd06cd368eb9a6b087e580b5e19c.png",
+    "brandName": "环波软件",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "南岗",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9fb111fc6c1797290nRz39m9EFpY",
+    "encryptBrandId": "cbb8c8ba54263e05331y3t-5GQ~~",
+    "encryptJobId": "11acc069869a958f1nFy39i6GFFW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.096522,
+        "longitude": 113.533414
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 73,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "网站开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7M6scyAikkS.search.73",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "30TIr2INAvsHM-Z1Rnm5GMPONmfUQu-DSKjhZEfKpziFJ8aKiYg1m7oiCZIMw0oFZ6wBCEWwut9YCcfJu09HfLRNO5MciNpJoWrJP0Xf7u2cc_yKF43XweztCe6UyyjlQj7Emcm6UfixcQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "Spring",
+        "全栈开发"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "年终奖",
+        "五险"
+    ]
+}

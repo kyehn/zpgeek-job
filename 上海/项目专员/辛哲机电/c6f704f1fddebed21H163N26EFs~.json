@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "松江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "bossName": "倪有巧",
+    "bossOnline": false,
+    "bossTitle": "总经理",
+    "brandIndustry": "原材料及加工/模具",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210719/736abcf8c802146b0eda46f94d9d17d6d21d2abff90c9e6f006f73b7ce283abd.jpg",
+    "brandName": "辛哲机电",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "小昆山",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6c17bf30caf9b8cc0n1929q6EVQ~",
+    "encryptBrandId": "a4fa773f73eb5c6c03V6296-Eg~~",
+    "encryptJobId": "c6f704f1fddebed21H163N26EFs~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.000391,
+        "longitude": 121.154569
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100903,
+    "isShield": 0,
+    "itemId": 266,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "项目专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2TKRSBoVaa6.search.266",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "orrz4S1hWOKNA-M18BNZ8IMx8-X1MjNt4dR30I8BRq3zi878xVBPgMt408U5FvK7KZqsvqYTFYgHSd_MEsr4t4J2ekcWAvFce6IeL8cgDFAIWCZPzmaUoe7oVJZ4ff81n6wTjos9mU8~",
+    "showTopPosition": false,
+    "skills": [
+        "项目管理"
+    ],
+    "welfareList": [
+        "住房补贴",
+        "年终奖",
+        "加班补助",
+        "餐补"
+    ]
+}

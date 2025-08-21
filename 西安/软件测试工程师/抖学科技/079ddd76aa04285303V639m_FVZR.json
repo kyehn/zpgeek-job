@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "莲湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201019/22e22ce4841b9ac50d608982f310c3101e1fd33d6789593457b27a7b39fedbc3_s.jpg",
+    "bossCert": 3,
+    "bossName": "王先生",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241217/7bf6f160950405e93a2fab6941cc168f45529e213d90f203f4756214af4bb92f19b1f4f7d57d24e8.png.webp",
+    "brandName": "抖学科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "土门",
+    "city": 101110100,
+    "cityName": "西安",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "bb370adca91719371nV53dS1E1dZ",
+    "encryptBrandId": "3f2e5c6f6f623c3f1HVy39S_GVM~",
+    "encryptJobId": "079ddd76aa04285303V639m_FVZR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.245389,
+        "longitude": 108.897703
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 42,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3wCvzkqDOpj.search.42",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "qdxTZuqhEXyI--Y1y3QBgShudoJibDKwkvqGN8mAWdA5hXMP50BtWhxkp275ehs2Y9HyEiJYyr17eRQAVKtD_SPhQyH-7VnXjikR3tDhKQSVTvfJlwok31DxYABVTPMAIiuO7tCqwMt0z0Q~",
+    "showTopPosition": false,
+    "skills": [
+        "性能测试",
+        "压力测试",
+        "功能测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

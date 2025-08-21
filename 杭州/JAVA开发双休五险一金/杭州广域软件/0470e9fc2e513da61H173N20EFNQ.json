@@ -1,0 +1,60 @@
+{
+    "securityId": "7tDYNGgFq2NWE-B1-9yW3gY8564jzfMhSu1q9YfdD1ChG1H6DSScu_QrYXAiMqZ-Dsm_Pdajzfu9Yamy4VkJPmgvSfIizATNOuQqN1bsrcvVZEe2qttRzV_8CWXk6opt6_X3hv9a8U0~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240821/607f1f3d68754fd0387b8ed467326067a84b19fddce8f780609af216e4553e5e09a27731427de1ad_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "6905388f2cdf41051nV_29u8GFU~",
+    "bossName": "吴女士",
+    "bossTitle": "HRBP专家",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "0470e9fc2e513da61H173N20EFNQ",
+    "expectId": 1014042683,
+    "jobName": "JAVA开发（双休/五险一金）",
+    "lid": "2B9WZalSjZ8.search.33",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "Spring",
+        "SQL Server"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "滨江区",
+    "businessDistrict": "长河",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 33,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.203273,
+        "latitude": 30.159857
+    },
+    "encryptBrandId": "dd8e68c56b0bace81nx60ti4",
+    "brandName": "杭州广域软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160531/d46aa3d9e3035a43fab56b1cef566f088e6879199c81418f8109a44d7b9c1c62.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "北林区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231114/607f1f3d68754fd0b7242cfd813c5a718359c6afd536b92acdbaa6533c90ff6f8a743435bb026f0f_s.png.webp",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "人力资源招聘主管",
+    "brandIndustry": "食品/饮料/烟酒",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240402/7bf6f160950405e963f4571b9719ee5c70b5c388be0fb53ecdbaa6533c90ff6f8a743435bb026f0f.png.webp",
+    "brandName": "黑龙江省华辰超市连锁",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "华辰商场",
+    "city": 101050500,
+    "cityName": "绥化",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a8975be9adf3d0dd1HB62N66FlI~",
+    "encryptBrandId": "57d75db7e9c787de1Hd729i5GVM~",
+    "encryptJobId": "b7670032cfedac8f03R73dy8GFFT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 46.636978,
+        "longitude": 126.993568
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101001,
+    "isShield": 0,
+    "itemId": 2,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3IZPXI7PdWn.search.2",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "f6VH3hzDj21WO-N1QDyzf-R4zCai0A8L7B2A45anWBBSYOsEP3zkNI6qBrQlCs-elEg3mvTFCxbXFXAstZ3lVT5r1j_7SMQ0Aah_8mfGgbDhKSyJrQaDa9WH7wcfD32LJaAJpxtCY9NIzA~~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "意外险",
+        "五险一金"
+    ]
+}

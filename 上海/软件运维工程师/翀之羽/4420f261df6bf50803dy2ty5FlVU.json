@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "静安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180426/8171f1234e2eb07d08125d9c68bc2f2033da0f8131a23c14e62dc9f908a6f4a3_s.jpg",
+    "bossCert": 3,
+    "bossName": "李玉如",
+    "bossOnline": true,
+    "bossTitle": "人事主管",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240702/7bf6f160950405e9d68ccd59dd4650c7e66578a6ac1f790308f8ae950d9753940e8b8f04f934e40d.png.webp",
+    "brandName": "翀之羽",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "汶水路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "18b7ec31867350f21nd52ty8ElQ~",
+    "encryptBrandId": "dd67a23520357f4e1HBy09-5EFs~",
+    "encryptJobId": "4420f261df6bf50803dy2ty5FlVU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.298444,
+        "longitude": 121.440194
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 4,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8QtqUOaProw.search.4",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "4OwDN8WRTcjYA-91OcwPS3g58aDf8kC-cqloQCsczNjP_yVTAvAD9CrEhD257Ri9q-bxABQs4HDaJLPxRbLmV2aardw6abBsn7cuenr1XBDcYmXpM2lNjzff_b_aCYFMKjlFLYIh_xpFa__YtZyQUirGOayTgcMhTEsMMiSfmx0SrwxJsg~~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

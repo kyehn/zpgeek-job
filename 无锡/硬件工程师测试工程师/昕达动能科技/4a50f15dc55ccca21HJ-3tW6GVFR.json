@@ -1,0 +1,62 @@
+{
+    "securityId": "f1ml9LKa8kSJR-K1hS417hTszPpeFgYxvnUen25WoAQcg9JVz7TxoPRzg-xAuXPUzBZxDiDzFwdubFYkV6579uyetvL659xl696KRF-VGf7i4VcEmdKa",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220816/607f1f3d68754fd003ef40347777213f38b8c247efdb302a2373012684fbe987c8b792d76f38f7ab_s.png",
+    "bossCert": 3,
+    "encryptBossId": "dede4c9fbc7874f80nF_3N-4GFdV",
+    "bossName": "周先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4a50f15dc55ccca21HJ-3tW6GVFR",
+    "expectId": 0,
+    "jobName": "硬件工程师，测试工程师",
+    "lid": "5LXkkToRVyM.search.236",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "智能硬件类",
+        "电池/电源类",
+        "自动化相关专业",
+        "机电相关专业",
+        "硬件测试经验"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "无锡",
+    "areaDistrict": "锡山区",
+    "businessDistrict": "锡北",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 236,
+    "city": 101190200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.446744,
+        "latitude": 31.670868
+    },
+    "encryptBrandId": "6f0ba730c607e0ac1XZ_2Nq-FlU~",
+    "brandName": "昕达动能科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100902,
+    "contact": false,
+    "showTopPosition": false
+}

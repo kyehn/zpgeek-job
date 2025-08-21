@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "姑苏区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210321/2dc0d6dd7afb49002407e84da4cabae5557919b5724a08c493ff2a3748b547c6_s.png",
+    "bossCert": 3,
+    "bossName": "钟女士",
+    "bossOnline": false,
+    "bossTitle": "人事助理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190220/de35e932de286fb04401a6b7946482856e650a2a728a5b6ee75de3a780fc8f8a.png",
+    "brandName": "苏信通",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "南门",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c578792635b0664f3nN-2960FFo~",
+    "encryptBrandId": "7bd0906384bd3d401HB_0tm6FQ~~",
+    "encryptJobId": "58225445a2e46eac3nBz2tu4GFc~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.279598,
+        "longitude": 120.632764
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 44,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件开发实习生",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8taB6dWTtHo.search.44",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "IvwhjEKs-h1r7-o11fKt7uBhdvTsIhNQUJWrT5wuvbV7pCDeUsCQEbUX08PqPBygAZ1tcCa0-Q1PIAJs-X5C57_wsJcOl_TMgySLxty91U7VLfQGDFs9G7egPvdsB6DOwI2vSZfa-bA~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

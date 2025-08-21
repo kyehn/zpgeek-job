@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "陆晨华",
+    "bossOnline": false,
+    "bossTitle": "总经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201021/b789ec591edaa37e31c9e7afb258fcaed31bf0ee86917b34f7d25b9a79d91a27_s.jpg",
+    "brandName": "禾元信息科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "洋泾",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2e1b738192d31f9b03dy2dy6EA~~",
+    "encryptBrandId": "10b21e3e1e8e541c331z2NW-GA~~",
+    "encryptJobId": "28c95c0ee78374351nZ43ty9FFFQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.230917,
+        "longitude": 121.555232
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 97,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "dLZgpaWMRI.search.97",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-9K·13薪",
+    "securityId": "ohruxeHLvmtxG-91oqgraywMP0kVAMd090kjbO-SlD8kN0vM_gI06Kcy9O9qq25wkheXUUs062HlzpK94ZIhzv_LgbdxyLnGoOfbeSoQpdi1pkvg-IvZhvroWifz5tFmxGp_bRIWG7U~",
+    "showTopPosition": false,
+    "skills": [
+        "软件测试",
+        "SQL",
+        "功能测试"
+    ],
+    "welfareList": [
+        "餐补"
+    ]
+}

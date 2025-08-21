@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "上城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240312/607f1f3d68754fd00ef5847398dc1e4c84eb4a87ec5fcad21a4771cff4f546b0c6732504b4c88d08_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "贾先生",
+    "bossOnline": false,
+    "bossTitle": "HRBP",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "浙江凡中乐",
+    "brandScaleName": "500-999人",
+    "brandStageName": "",
+    "businessDistrict": "望江",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b0345da42a899c730XJ_39y5ElA~",
+    "encryptBrandId": "8d1de5af75ce2fb31nx-0ti9EVE~",
+    "encryptJobId": "615684d41b65fc431HN-2tq_FVBZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.238735,
+        "longitude": 120.204659
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 79,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7PGozyUxOEd.search.79",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-12K",
+    "securityId": "WijkYBmWZ9daN-j1m3NT4G6lLnx8unoH3NH80dq10oKCC_IwajxmIZomT7kiwlRQ_by-LQ_7NgEXZGmIdB0rZQfiQPbqbDgOzQ_agT1gIxfAfLcc32ePld72btV8GKY5kcLy0kDwcGnYoA~~",
+    "showTopPosition": false,
+    "skills": [
+        "电子/电气/自动化相关专业",
+        "IDC机房运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250217/607f1f3d68754fd0174e9c9d0755742caf94201916395f7d57246c59bb9c7dcdee037f947c558cbe_s.png.webp",
+    "bossCert": 3,
+    "bossName": "熊先生",
+    "bossOnline": false,
+    "bossTitle": "人事部主管",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "一诺教育",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "光谷东",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0d8eb2593e651a5103J_3dy0Els~",
+    "encryptBrandId": "dd1b84885172af1f1nd83ty6FlA~",
+    "encryptJobId": "49e69b316fa01a1003d52Ny_ElVX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.491198,
+        "longitude": 114.51341
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 56,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试工程师短期到年底",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2vBxVpyCxLG.search.56",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "QQW7pFctu4hok-g1QojARtyE0M6GMKneg9PAqfRCVmAOOsgJZg7hf1oM2ifUZ2efXDFxKDxVLDFloZBlIQrRBCxzEcLJB9mBg22TOr8xxp4oCx9F9ao_D6ksoovBs_z9c6BPoDA74XXvlQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业",
+        "朝九晚六周末双休"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

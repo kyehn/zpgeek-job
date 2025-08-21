@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "涪城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190723/e4a2ac9a6a6d8c0b4a292f2c361b2c764ce77fc6fe759b09bc6601570d7f0cb6_s.jpg",
+    "bossCert": 3,
+    "bossName": "余蕾",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190315/b606be5e1c33d649f2f06a34372c4b80d6af8ea46c013773f7a0073dd26ab636_s.jpg",
+    "brandName": "领创数智",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "园艺山",
+    "city": 101270400,
+    "cityName": "绵阳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "be4913cc2ad12e0a1nZ83d6-E1s~",
+    "encryptBrandId": "a64dae3b78f935c21Hx42d-1GA~~",
+    "encryptJobId": "9cf585f11fc1bdb21XF42dm_GFpR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.477883,
+        "longitude": 104.718508
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 54,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1JpRKyYakM2.search.54",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "kz39mOmpuFvq8-P1Rf_aVLfP-RIB2XYnlH79sMAJxBLDEnTdg8OdNUGOYZD7biBrMiV_qGozDHnaVxFjeXZpUrJeyZzBUkwVtjX1rnEknjOHhSnJAlfUw-9pMowLQu0cQXWOeB-bwP1H",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业",
+        "PMP"
+    ],
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检"
+    ]
+}

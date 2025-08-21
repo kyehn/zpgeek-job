@@ -1,0 +1,63 @@
+{
+    "securityId": "6sTBD1rMgyisa-s1z3Wkm2RRPuxtQfRAJwSaR2SpSWrzDeg9a1DVu-fnGg0e8hW0s15wt04ktXdSDNi4N2FftGj5ojJDsBvHzHLW5bRbJm2ohJGEfgd4FEJ82t_Beeo2OU0Mo3DZ0J35",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200511/ba4f0dfdabd791b536e8f5fcf2f6860a5c8a6eef2052039485c226f84b77161c_s.png",
+    "bossCert": 3,
+    "encryptBossId": "fc192531925346711nRy2ty9ElZR",
+    "bossName": "秦美丽",
+    "bossTitle": "人事主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "56d893addcfe2c7e1nR93t-7FVZX",
+    "expectId": 1014042683,
+    "jobName": "软硬件实施工程师",
+    "lid": "2uWowc8B3Lx.search.286",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "实施工程师/顾问",
+        "售后支持",
+        "售前支持"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "包头",
+    "areaDistrict": "昆都仑区",
+    "businessDistrict": "茂业广场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 286,
+    "city": 101080200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 109.833496,
+        "latitude": 40.656543
+    },
+    "encryptBrandId": "bad28181019d3c2433Fz2Ny1",
+    "brandName": "云大互联",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "底薪加提成",
+        "绩效奖金",
+        "交通补助",
+        "工龄奖"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

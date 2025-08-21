@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230719/607f1f3d68754fd0a7166947758c23da78a4651274ab861d1c5d0a031e0c30a2e02bdd7165ffeb8e_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "蒋弘毅",
+    "bossOnline": false,
+    "bossTitle": "开发经理",
+    "brandIndustry": "互联网金融",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "众信普惠",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "",
+    "businessDistrict": "张江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "82e76d64facf14c31nV839i0GVc~",
+    "encryptBrandId": "6d12b7de76acc8aa0n1y3t27Fg~~",
+    "encryptJobId": "5ae8e43cfa05e0e503x60960GQ~~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.21067,
+        "longitude": 121.6285
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100206,
+    "isShield": 0,
+    "itemId": 126,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Java",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "gd4M9MiipN.search.126",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-16K",
+    "securityId": "tvi6hEFxQnrlw-c1gVRme-Ii1aI-ZytKcgOzPU5LMLd_KY0DBcd6_VEKGEMUI1vOraI_1W4P0JokyqZTCrih6DvCvoEK1E-tx82G0xvr4hIQUKIBalLuT3SlJlmWSjZo2CVQxG8IIw~~",
+    "showTopPosition": false,
+    "skills": [
+        "数据库",
+        "Java",
+        "Linux"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

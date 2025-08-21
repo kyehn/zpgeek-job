@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "石景山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "HRM",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210414/4b7e5bb6fc17e57cbd29ef438df728dcd5d33bf5c5c2be4558262023df941636_s.jpg",
+    "brandName": "科思诚",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "八角",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "23ec2b43bcde09971HFz0tS9EFM~",
+    "encryptBrandId": "b9af2d193f21cb211nVy0t6_EFE~",
+    "encryptJobId": "fd085cc83e569e341XV60tm5FVNT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.910372,
+        "longitude": 116.205836
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 85,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Java初级开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7HJjeY8XWB5.search.85",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "-8sr1gQwh14NN-F1eV6nPg8l1Y2mw2DNgiafQ4f3H0s0PB6_Awf71g0vHsGN6GmQX_H9Las2lQsWpXX4u4w0OmxGco91jnrjZt0mIFcYYbklQBBaQ_26i19NjSWS68NwwRHv0-62LcMpYw~~",
+    "showTopPosition": false,
+    "skills": [
+        "HTML",
+        "CSS",
+        "网络协议",
+        "Spring"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

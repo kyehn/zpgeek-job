@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210309/ee7178b83314a5b878405538e0a4908037c389077debd8d2df1d367ecae03768_s.png",
+    "bossCert": 3,
+    "bossName": "唐辛群",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "医疗健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191212/893ac9d32d398928ec8ed6419da298b2128fe2521373d48e4569b785ce6148ea_s.jpg",
+    "brandName": "四川智康",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "紫荆",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ff04c3095508eaca0nZ83Ni7EFY~",
+    "encryptBrandId": "f8b286987089d4931nR93ti1Fg~~",
+    "encryptJobId": "03a6e69ea0a0f6b81XRz3d-1GFdY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.620564,
+        "longitude": 104.041598
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100006,
+    "isShield": 0,
+    "itemId": 64,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "实施运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d5iBmLlPgN.search.64",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "J7r9itUhOjvYa-Z1Z-3U107-jMyBJ7s3xjoBrAk9TYq2QmPfHfpoHku4EwQNkBFTbeyLaIe5ezRwRIvQSAIWQSh6JB-n54QeGoHw-x_ewn7Ok1nuZMAiD2V7-NCf--3oG-PQUaLpb9I4",
+    "showTopPosition": false,
+    "skills": [
+        "Linux"
+    ],
+    "welfareList": [
+        "交通补助",
+        "包吃",
+        "五险一金"
+    ]
+}

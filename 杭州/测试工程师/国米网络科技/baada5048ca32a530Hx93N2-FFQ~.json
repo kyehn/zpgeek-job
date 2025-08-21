@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "bossName": "姚婷钰",
+    "bossOnline": true,
+    "bossTitle": "主管",
+    "brandIndustry": "在线教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170603/8d6662213a8315d4261132d909ca283e7d13a8f1995ea0ae8cb6869c7d7ba0cc.jpg",
+    "brandName": "国米网络科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "文二路",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "060bd6f8f3352fe70nJ539m9FVQ~",
+    "encryptBrandId": "e21b8e5a6fa146750XZ_3Nm4",
+    "encryptJobId": "baada5048ca32a530Hx93N2-FFQ~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.281322,
+        "longitude": 120.084008
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100012,
+    "isShield": 0,
+    "itemId": 45,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8iDOv9JIgsA.search.45",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "IPCb5FSKCGZIL-f1TTJyFRnfGGWBO-24C1KF8SjScVNDtuQeRaE_pqQLXrDYFnIF_WXL_1dKRl40L200hLgBmVL3fsWW6wELSEhshkW9Us1fvaFahw0qHUggbvoSe9BYtRNvZhPDuMP2i2CAYI9k2DPX8qskdkZR0C_TYtjV6uWEdw~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "软件测试",
+        "测试工程师"
+    ],
+    "welfareList": [
+        "节日福利"
+    ]
+}

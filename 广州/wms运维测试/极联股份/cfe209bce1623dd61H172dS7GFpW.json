@@ -1,0 +1,63 @@
+{
+    "securityId": "pzmlDmOive_yL-q1Kn_jbwTWbVVBH2h_dnJA-Kv14RWhXoQI6ne8FbCDa4EnA-6o8uToRlsODafQzd_dfUB-iq7wW_8gqiwkcdi67cQ-2vMicxpiwFoKchNmbfj0T7987EZZAONfM5Kh1g~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210525/92a63fafdcbaff0283a6efcc743e3aa0895221c7350c61608c7d68beb2010345_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "a4f16c6aed3337040nR72Nu5FVFW",
+    "bossName": "肖先生",
+    "bossTitle": "招聘经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "cfe209bce1623dd61H172dS7GFpW",
+    "expectId": 1030426395,
+    "jobName": "wms运维测试",
+    "lid": "1gMElNtz22Q.search.31",
+    "salaryDesc": "9-12K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "物流",
+        "wms"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "越秀区",
+    "businessDistrict": "北京路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 31,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.282658,
+        "latitude": 23.124495
+    },
+    "encryptBrandId": "3c3744194531a15f3nF43ti6Eg~~",
+    "brandName": "极联股份",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/2da60180f7b783a3581c02ce9d30b5e6cfcd208495d565ef66e7dff9f98764da.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "全勤奖",
+        "五险一金",
+        "节日福利",
+        "零食下午茶",
+        "带薪年假"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天心区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "戚博仁",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "专利/商标/知识产权",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210622/f20c9b64fd6006f5407b692ca972b35804208eaf1a88b2f57108a56248374a63.jpg",
+    "brandName": "中南知识产权有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "省政府",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "72b6b010063660cf0XN72d68FFs~",
+    "encryptBrandId": "b058ad2de62155e01nNy09y-EVo~",
+    "encryptJobId": "3d09d517f795a4111nx53di6ElJS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.094518,
+        "longitude": 112.973773
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100607,
+    "isShield": 0,
+    "itemId": 44,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "系统运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "26lZPszrKJJ.search.44",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "gJCyxkoH2H9Sl-_1YCGfilbTKdFkZNwWO1FQloROV43G1buiHLZ0eS5oqwhNq6sv23I3sYQcJNoIREyH4DAwq_GRMSqVLTMpcbgzE3VxiTE1JltscLJUSU8CiyPgEMgC1-g4FIGRq-fOGQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "技术支持"
+    ],
+    "welfareList": [
+        "全勤奖",
+        "五险"
+    ]
+}

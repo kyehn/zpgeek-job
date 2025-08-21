@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "张家港市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231130/607f1f3d68754fd05e700b5c1e86e8b7ba5b0c927c3310ecb5570035d75e6890195541a07596a6ab_s.png.webp",
+    "bossCert": 3,
+    "bossName": "余柔",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210318/f4a3950cca9597a10be191e5516a768d0692bee02e430e880969a7f6db2ed3c4.png",
+    "brandName": "纳百电子科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "城北",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f839b9308ded83060XZy2924GVNW",
+    "encryptBrandId": "a304e2347ec88abf1nd_2tu9FA~~",
+    "encryptJobId": "6eec93caeb1db31203B93ty0EFBT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.892206,
+        "longitude": 120.539978
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 16,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "桌面运维  张家港",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8ta6ByHiGjG.search.16",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "Log5ogDGnqxpk-D1T3aprf_yBVOpobnyRRHD1qQiBkbPjRYZMmOz7ceNTgKGafz_ma50uGrPl55tlmejRCoe0hoz9GWqYyAUr6WQOEIheiYxt5LK11wSVLjzNqaDka7fydDNe7aShIHO3A~~",
+    "showTopPosition": false,
+    "skills": [
+        "桌面运维"
+    ],
+    "welfareList": [
+        "五险一金",
+        "节日福利"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "黄埔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "杨女士",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "医疗健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181203/4f9ae9f11f355fd13a8ba94899dc934dcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "\t创芯国际生物科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "A轮",
+    "businessDistrict": "中心城",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "916d67f0a8bd7b1703R62tS-E1U~",
+    "encryptBrandId": "b6fe7732e178bd6a1XN82Nq-GA~~",
+    "encryptJobId": "f29a7534ba3fa35703d52dm5F1BU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.150838,
+        "longitude": 113.49648
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100006,
+    "isShield": 0,
+    "itemId": 91,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "自动化机械工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5KsxCXxOzra.search.91",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K",
+    "securityId": "WCs77GnbQeOCD-t1pd0w0JVvg0XFWOn133FpyDABtoxQ4htA2dpmzpX3_aiM8bMBx9JvPHhlobDuTfZ_JMjwWw3O72cLtEhKzA8Ne3FHawfYrgxhVGwLvojQ0vlEZR4RLNsHynB0er0k",
+    "showTopPosition": false,
+    "skills": [
+        "医疗器械",
+        "移液"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

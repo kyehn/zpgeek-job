@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "刘博",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "北京搜麦",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "天通苑",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b0916260a3c7136c1n1z3926GFo~",
+    "encryptBrandId": "005416e528a215ea0nB-2N68Eg~~",
+    "encryptJobId": "45c59581bcc9c6741nV83tu-E1RQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.064021,
+        "longitude": 116.411741
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 15,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Python+Django开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cOm9YS37Kd.search.15",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-12K",
+    "securityId": "LoRvljIgjLWsA-11vmu3qJIoyJj_vtEQ5c_AK0Nc-ye4EPd9cK52huBE6dRoQx6pgA85CRIuoHruQBpH1XDg9hlykHzC__o4UIx45CEarHmnAVTxhjFp4rFeamWhTR0RIXXSaFz563xa",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "Python工程师",
+        "Python算法工程师",
+        "Django"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

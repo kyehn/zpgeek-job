@@ -1,0 +1,61 @@
+{
+    "securityId": "UOv11Hat98a0T-E1mSTv8xomaDDuLSlfitjemr-O3IzGIlI_hxhAd0kSHz7eWmutYOc0bt3athdPHQ0ZpmghJUhmkklQ1nH-1aLNH_jQZ6ZurxONNGYMQ65O_jZXgdVF7yZY0J7rs6p-",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240320/607f1f3d68754fd0cb793815b678bdbaa7b4c34f4888cd4c95e26ddfa5e65d0239ce8126d3364548_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "88a4549f1c1016990nJy29W6FVc~",
+    "bossName": "张女士",
+    "bossTitle": "人才经纪人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3319ec33da67bc841Hx53di7FFJT",
+    "expectId": 1014042683,
+    "jobName": "数据运营",
+    "lid": "aSaBjp1urbY.search.111",
+    "salaryDesc": "8-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "业务数据分析",
+        "成本分析",
+        "费用管理"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "西湖区",
+    "businessDistrict": "西溪",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        3
+    ],
+    "itemId": 111,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": null,
+    "encryptBrandId": "8548fadc0b5c265403V93t61EQ~~",
+    "brandName": "滴滴",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20201205/25965fbe2c0440e760df2b6a6b81d7c2be1bd4a3bd2a63f070bdbdada9aad826.png",
+    "brandStageName": "D轮及以上",
+    "brandIndustry": "移动互联网",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检"
+    ],
+    "industry": 100019,
+    "contact": false,
+    "showTopPosition": false
+}

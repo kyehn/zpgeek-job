@@ -1,0 +1,63 @@
+{
+    "securityId": "6fbmH5SWTIgcz-N1nNmjVcP9TsDSmHvJZ4nRi_R8jOoOT0YWQg5M7xPEbtQyoaX7yaTwvFgqB5qfJXUX20m92ZlQoVzNPN3hby8Wm6EQ9E5fA6SvL34uxFauB3meOUImNukG7mF4KC8hBg~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "encryptBossId": "d4cbfebf9137895f0n1y09-7Flc~",
+    "bossName": "张郭川",
+    "bossTitle": "人事主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6f855c23054898bd1Hx93ty6ElFX",
+    "expectId": 1014042683,
+    "jobName": "运维工程师",
+    "lid": "3nO5ntsNDoW.search.291",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "IDC机房运维"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "张家口",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 291,
+    "city": 101090300,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 115.569157,
+        "latitude": 40.487731
+    },
+    "encryptBrandId": "ef1325f108e9a0191nxy2dS4FlM~",
+    "brandName": "中憬科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "加班补助",
+        "带薪年假",
+        "员工旅游",
+        "定期体检",
+        "通讯补贴",
+        "年终奖"
+    ],
+    "industry": 100024,
+    "contact": false,
+    "showTopPosition": false
+}

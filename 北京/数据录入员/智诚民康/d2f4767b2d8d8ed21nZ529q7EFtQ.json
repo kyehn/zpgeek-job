@@ -1,0 +1,63 @@
+{
+    "securityId": "qNn7KMlNF7uxl-C1VcqQ8pOr1qNr2oUgg_1PUEdkN8sNpHfzOgZj5067JLIdVzP68jLQ6lCtX2CB2jEk220RsqH49PywsXBglnTY0a7JZS1UzAbC",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210525/b5b0137b4d485753eea34c99286f05e5d80d098a6a7e96461b5ff17545e45700_s.png",
+    "bossCert": 3,
+    "encryptBossId": "d77fe53497e2af511XJ_3tu9EFA~",
+    "bossName": "金先生",
+    "bossTitle": "部门经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d2f4767b2d8d8ed21nZ529q7EFtQ",
+    "expectId": 0,
+    "jobName": "数据录入员",
+    "lid": "26bJTNy4B1k.search.183",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据录入",
+        "速录速记",
+        "全职"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "常营",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 183,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.612393,
+        "latitude": 39.929888
+    },
+    "encryptBrandId": "05f4a2ec98ef007e0nB83NS4",
+    "brandName": "智诚民康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170314/5d54226ef0b7b40825e8cfd2c9587556e96f0bab4451e4fc188f7410bebec001.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "医疗健康",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "节日福利",
+        "住房补贴",
+        "带薪年假",
+        "员工旅游"
+    ],
+    "industry": 100006,
+    "contact": false,
+    "showTopPosition": false
+}

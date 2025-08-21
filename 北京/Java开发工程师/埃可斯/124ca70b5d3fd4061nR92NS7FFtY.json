@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191010/f19f9f8c4a676605c43cdf4cddbee88ace7e260348a0ac68d01c031c6b62e499_s.png",
+    "bossCert": 3,
+    "bossName": "李春朝",
+    "bossOnline": false,
+    "bossTitle": "IT总监",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "埃可斯",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "十八里店",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "21e08653194abea50HB43Nu6F1M~",
+    "encryptBrandId": "e64c6bfaac98b4b203F82d6_GQ~~",
+    "encryptJobId": "124ca70b5d3fd4061nR92NS7FFtY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.834158,
+        "longitude": 116.477835
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 68,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6IGBoWNZOK.search.68",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K",
+    "securityId": "BoKSazP8wkEpF-g1T28WNXosLS2nBLv6Of7zUQa91ZRxrJhUsaUUjnvCoI4EqDcB9sgom1JlLQ9oBnJbO9NFHlpjjnuKDiNINbPlVGl8tn9QSz99a-JBYAuBp-nkXlJL8XuC5LXzVUh0",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "SQL"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ]
+}

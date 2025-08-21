@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "中原区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250422/607f1f3d68754fd00f0e5804f4577711f82e3a00088dad08c21ff3f77700f9c2d82bb58a7ea3314a_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "马女士",
+    "bossOnline": true,
+    "bossTitle": "经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250422/7bf6f160950405e973370ad6c0a19e11b34c0d29d53ebd8cc21ff3f77700f9c2d82bb58a7ea3314a.png.webp",
+    "brandName": "海颜丰科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "高新区",
+    "city": 101180100,
+    "cityName": "郑州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d90215f7482845af0HR53Nu9FFpW",
+    "encryptBrandId": "0860c635ca48033c03Ry09q1FlA~",
+    "encryptJobId": "5240f3e112c5730b03d839S9ElZS",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.806769,
+        "longitude": 113.562186
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 60,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "软件运维实施工程师应届生",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "89NLrLHmIQ9.search.60",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "wET8nzvkI8VX3-h16JNYV7wWpCP8ngaq1h9ka9K41bR17IbV03WoebUdVKfoTSXiIt5E1-Qon24wmG_DyPEAPfsYTQj751pHlPPxtufn0rHXdL8TWBJdc18UbCLhHVmM14dxucbVNyZN7UdNnXOCj03Z",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "餐补"
+    ]
+}

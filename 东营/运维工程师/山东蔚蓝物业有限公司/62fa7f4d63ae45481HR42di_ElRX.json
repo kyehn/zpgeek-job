@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "东营区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_16.png",
+    "bossCert": 3,
+    "bossName": "王文文",
+    "bossOnline": false,
+    "bossTitle": "人力资源经理",
+    "brandIndustry": "物业管理",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230911/7bf6f160950405e9b5f6be282971f5343e5dfdcabda2f8f2a3831949c1c19428e8da4dc2eb9b577b.png.webp",
+    "brandName": "山东蔚蓝物业有限公司",
+    "brandScaleName": "500-999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "东城",
+    "city": 101121200,
+    "cityName": "东营",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fb570e0e91a6b0ad0XV53t-0GVZU",
+    "encryptBrandId": "75d518add07343e31nNy3N25FFQ~",
+    "encryptJobId": "62fa7f4d63ae45481HR42di_ElRX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 37.440188,
+        "longitude": 118.727514
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100707,
+    "isShield": 0,
+    "itemId": 170,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1HZFBWzScPG.search.170",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "qH52rSHcaUqmJ-21H--h84IflBgQDTmL4tqaDQ1b1BKhjiCbV7RCcBV5B_vapu_LzytpjivXeanQlunqG9dtHznTSb9pntZ4UeBv2s_z_hHca-W2WTIzKEaeggrJQ81p9VdyMRH6SCYLUUw~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "MySQL/Oracle",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "定期体检"
+    ]
+}

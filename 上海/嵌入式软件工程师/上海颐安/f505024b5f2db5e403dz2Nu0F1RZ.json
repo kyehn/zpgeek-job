@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "孙女士",
+    "bossOnline": true,
+    "bossTitle": "人事",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180710/236d2f9c6a5df242092461af0d4ee864051b6a53c113dc6842a0f821ac8934fa.jpg",
+    "brandName": "上海颐安",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "89647a12a7faa6991nZ63dS5EVtZ",
+    "encryptBrandId": "2e39e35bc079c1011nF82Nq_FQ~~",
+    "encryptJobId": "f505024b5f2db5e403dz2Nu0F1RZ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.058832,
+        "longitude": 121.419863
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 6,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "嵌入式软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8eXsEyeNDoN.search.6",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "aYfKWS0HGUE9B-B1TqUCap_hIfQqovpmzYFJ1A0WjyHZfwu_VlM8J3h1HERfmTx8RbGImEBzkldABzcZ1606p_WjmcMP3ihb_OjPb5xwGgMnTYQ01Os8B9wCkhN1lxWSXmZ7t_UkdkjkL3xIQMC0Gyc~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检"
+    ]
+}

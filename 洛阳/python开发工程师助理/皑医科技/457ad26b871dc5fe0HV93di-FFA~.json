@@ -1,0 +1,63 @@
+{
+    "securityId": "uqpD-QomUI35Y-D16FdzSsJ2hTdf-Fzh4NB693LRr6jeeEbE3rVX6bkdR7IL6_vI20Mv6Oh_FQdszjU_ro3hTtTfhgdDooF56Id2C4FZtj7YH-JkDwixL-qFS1keh-0zHz88Z76-rQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181111/dd46c53467eb0e03274e31a136eb4b62cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "ad71f6a74a05ebee1nZ_2N-5EFs~",
+    "bossName": "罗坚诚",
+    "bossTitle": "CEO",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "457ad26b871dc5fe0HV93di-FFA~",
+    "expectId": 1014042683,
+    "jobName": "python开发工程师助理",
+    "lid": "2WK23XVPqKc.search.25",
+    "salaryDesc": "2-6K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python",
+        "网络爬虫技术",
+        "Linux"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "洛阳",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 25,
+    "city": 101180900,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.557387,
+        "latitude": 34.626471
+    },
+    "encryptBrandId": "a3a2ef3c2f0077383nZ_0t-4",
+    "brandName": "皑医科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181111/be09411c7d62bd26b0ff5092a68a2b6bcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "医疗健康",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "交通补助",
+        "全勤奖",
+        "节日福利",
+        "五险一金"
+    ],
+    "industry": 100006,
+    "contact": false,
+    "showTopPosition": false
+}

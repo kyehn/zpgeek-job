@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "徐汇区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "田女士",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "信投智科",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "漕河泾",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e4fa2c10a161f91f1HN739u5F1E~",
+    "encryptBrandId": "44bf13ab6961a2d21H1-0tS_Els~",
+    "encryptJobId": "baf5b013ef4ffeac1XFy0tS4FVNS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.169186,
+        "longitude": 121.408352
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 55,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "网络运维工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cKPsInea5A.search.55",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "QKWqXWdk9RVWb-l18IbhWU049kqyVibkT91L7WiezDal_ZomEZbPDgSjSI4tEe4yHu1_HWJpjsEcv3fmReADwLbZVXouO35JtvcorcZXYVJCVFw0wbylZgUhHAYu1tSNaY9CN2Xx6UlAEw~~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金",
+        "定期体检"
+    ]
+}

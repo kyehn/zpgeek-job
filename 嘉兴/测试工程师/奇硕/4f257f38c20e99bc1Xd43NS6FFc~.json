@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "平湖市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191105/514047d8e7704f20d60e6afd199c094f2c0886adb50a4875c607fa490c8154c0_s.png",
+    "bossCert": 3,
+    "bossName": "顾奇",
+    "bossOnline": false,
+    "bossTitle": "ceo",
+    "brandIndustry": "移动互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20161226/b3f93fc744aaf498dbc8c3f94600afde73b5a79d2a65cfff6d4c6248b0f013cd.jpg",
+    "brandName": "奇硕",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "吾悦广场",
+    "city": 101210300,
+    "cityName": "嘉兴",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1cf8e0d4c5483c7f1XR52NS0E1M~",
+    "encryptBrandId": "d10159622480fb3103d409m_",
+    "encryptJobId": "4f257f38c20e99bc1Xd43NS6FFc~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.678853,
+        "longitude": 121.023342
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100019,
+    "isShield": 0,
+    "itemId": 148,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5c1kvaM5TiW.search.148",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K·13薪",
+    "securityId": "NttChGKBzmaLm-m1pWukM-rjmjZmnNaznLbjsRB1yhEFbyY9PwsU2ErES-GhBH33b59XiRjpDz0q6-LZd4NUkvD8eR7N-Wt0SO_AkkErPHsb69--RBa7XLughxLlDPHRa6WfzDPPjg~~",
+    "showTopPosition": false,
+    "skills": [
+        "软件测试",
+        "功能测试",
+        "web测试"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假"
+    ]
+}

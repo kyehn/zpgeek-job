@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "裕华区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200318/13223ae7f3e9ebce11eb991d6d4a1700d327074a2b07974cafbb3f967999f189_s.png",
+    "bossCert": 3,
+    "bossName": "田伟欣",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200605/0117ef2656b01be5b1a472ad3f0287b7a246bab442e03f66ee7c5cd0f56bd8e8.png",
+    "brandName": "智恩",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "谈固",
+    "city": 101090100,
+    "cityName": "石家庄",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "af480a4eb3ca94f50nd43N-0F1Q~",
+    "encryptBrandId": "6f4614d17710d8ef1nBy0tW5Eg~~",
+    "encryptJobId": "521d812da024e9f9331z2tq4FVY~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 38.022152,
+        "longitude": 114.560106
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 8,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "初级Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2hglfmTiJtT.search.8",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "0M0UXH7XO2tCf-A1uEhxwx5ZkdU40-53mXfw7vgOydDEXOtodsrlONTu4vY5ccvQ0OLMfEpH0ISYJUXIUKgKVkIGCH5P6GZVUuUHFlhEW23WcdKTKd-D_1fKKb1tpAcV6NuditGVumU~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

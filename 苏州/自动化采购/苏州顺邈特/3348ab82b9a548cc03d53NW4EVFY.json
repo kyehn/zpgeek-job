@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "相城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "牛建",
+    "bossOnline": false,
+    "bossTitle": "运营经理",
+    "brandIndustry": "通用设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+    "brandName": "苏州顺邈特",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "渭塘",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e086d08702862a630XV42tq4EFJT",
+    "encryptBrandId": "cbbae8787b3f81681XR73dm_ElE~",
+    "encryptJobId": "3348ab82b9a548cc03d53NW4EVFY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.476252,
+        "longitude": 120.657225
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100906,
+    "isShield": 0,
+    "itemId": 79,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "自动化采购",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "28N7B5Bz2hG.search.79",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K·13薪",
+    "securityId": "jsEmVQBE8fufj-H1ff8PbUkju4koHqAFNUDFQqsuaB1k3wRaIpKRhVs0ADuXxxwjBAxg0FvB38eotIenEQOAl93WzMXQEY-V3470SMGd6OjeyOSpLfVxrXtoxCoN-vVAQ4uH9oVvkK64Ox0~",
+    "showTopPosition": false,
+    "skills": [
+        "国内采购",
+        "接受实习/在校生投递",
+        "机械制造品",
+        "零配件"
+    ],
+    "welfareList": [
+        "年终奖"
+    ]
+}

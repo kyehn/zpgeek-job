@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "渝中区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241229/607f1f3d68754fd0c26534a5431b80a5aceeb0a02b74977c034b2bb161e78c741b027232d36b8431_s.png.webp",
+    "bossCert": 3,
+    "bossName": "曾女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "重庆尖晶石科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "渝州路",
+    "city": 101040100,
+    "cityName": "重庆",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e20d020f6ef0820d1nR83Ny_E1RX",
+    "encryptBrandId": "e379ef4a6dea33241HR-3tS_ElA~",
+    "encryptJobId": "c71d7043fad7083e03Rz29-8GFZY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 29.542257,
+        "longitude": 106.510112
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 237,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5bPTAHbthYR.search.237",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "4AYx3QXu-2p5G-C1j7Ms0MHSodalN0LJHdFIMGby6VPANts0wlP1rCqnlykO-IZa8jXIXiXR8zcHbIFAH6QFhiUsxJSTChuWoD33ho45j24p_5FeeHDquqgfVjdRGVB9lc9rgyUz3hLIQZQ~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "团建聚餐",
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "TfuQFgAn_b41V-h1B0yUapWGwppfC_-xI6Ms-u7rja1iFj5LER7KXTwGpLklo0iIfUyO8MhyKxKM95N8mVEwpCdKdWotFY7GX84mSxMyDR5Jo_BpDFC1",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "7105be4a945e14540nR93du_F1dX",
+    "bossName": "夏先生",
+    "bossTitle": "技术副总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "42ae9642bd9cd8921HF62du9ElBY",
+    "expectId": 0,
+    "jobName": "华为云计算SA",
+    "lid": "1EZbqGdJU0m.search.296",
+    "salaryDesc": "8-13K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "云计算"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "西湖区",
+    "businessDistrict": "西溪",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 296,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.06718,
+        "latitude": 30.284158
+    },
+    "encryptBrandId": "3bc717a4596997ab1HZz2tW6GFc~",
+    "brandName": "上海勤网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "零食下午茶",
+        "五险一金",
+        "带薪年假",
+        "节日福利",
+        "团建聚餐",
+        "定期体检"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

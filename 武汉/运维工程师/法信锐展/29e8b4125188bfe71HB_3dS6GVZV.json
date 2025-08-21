@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "东西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "蒋琳",
+    "bossOnline": false,
+    "bossTitle": "HRBP专员",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "法信锐展",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "金银湖",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7dd794ef64df570f0nZ43967EFZV",
+    "encryptBrandId": "b55626f4e8c2f9f91nBy2di6FFU~",
+    "encryptJobId": "29e8b4125188bfe71HB_3dS6GVZV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.636973,
+        "longitude": 114.205825
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 84,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d4OtBU04tT.search.84",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "KSL1TJXZtijD1-51DFe7uga6Ki7O-VoGZa2IAkx08LO4iaxPbOLi6fEHJd35gOXEIfzSS9YTZX23WHSPTq9f8tOE_BUTjuHF0rQSvzcFc7s8CN-p_abnbZJyGguUJmqFPQnGfaOpemZozXY~",
+    "showTopPosition": false,
+    "skills": [
+        "安全运维和保障",
+        "计算机/信息安全相关专业",
+        "安全运维经验"
+    ],
+    "welfareList": [
+        "保底工资",
+        "五险一金"
+    ]
+}

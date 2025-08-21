@@ -1,0 +1,59 @@
+{
+    "securityId": "S0kCqmyubS4DJ-K1a8tTx4OCv3qxXsjLU1MWIxjBIuLQJlAIzzr01G3QoU9E7d1W_FzkGUF5eQ2Hr-2C4acSRDcjo6Qc4cs8syKw77DXD5zXEwXnyoIC",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "b26df14a66be77640nFz3tS8GVNX",
+    "bossName": "朱先生",
+    "bossTitle": "主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "dd234c75c9ea61c11XB82tW9E1dV",
+    "expectId": 0,
+    "jobName": "测试经理",
+    "lid": "2AJ5SgyukLj.search.234",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "自动化测试"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "西安",
+    "areaDistrict": "未央区",
+    "businessDistrict": "未央路沿线",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 234,
+    "city": 101110100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 108.946123,
+        "latitude": 34.324317
+    },
+    "encryptBrandId": "a8e7f7eee254aae81XZ92Nq8F1c~",
+    "brandName": "陕西佳禾鑫电子科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "底薪加提成",
+        "绩效奖金"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "6tGQ8EeshYztt-m170Yq8K5kTwwvzW5BYFpUg3jqjfJUiIadwLGCfORahbU1HIxbNcc7A0VWJqZUGEtprovG25c-z3kQz2zs3iVcVRJ-gZ6e8SUwcA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200906/fe066e5ef4ad0220573ec6d2cc504d0d2fd1e2316cb82da2b72783c2a332d381_s.png",
+    "bossCert": 3,
+    "encryptBossId": "909f4f2c664924f41nZ50tq9GFZY",
+    "bossName": "邓女士",
+    "bossTitle": "店秘",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ae98b698080639ae3nxy2dm1FlE~",
+    "expectId": 0,
+    "jobName": "数据专员",
+    "lid": "5Ju9VezjVhG.search.181",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据分析"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "柳州",
+    "areaDistrict": "鱼峰区",
+    "businessDistrict": "西江",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 181,
+    "city": 101300300,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 109.439578,
+        "latitude": 24.30176
+    },
+    "encryptBrandId": "d8cd98be6feffb6e1HB_2Nm0FQ~~",
+    "brandName": "恒基房产",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/tmp/20190423/9e37bfe3292dea0e8256349080f6c7bda278085f4ecd743f8df658c0838432f6.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "房地产中介/租赁",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "年终奖",
+        "全勤奖",
+        "五险一金",
+        "包住",
+        "员工旅游",
+        "带薪年假"
+    ],
+    "industry": 100706,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "雁塔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "张银娟",
+    "bossOnline": true,
+    "bossTitle": "人资经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "云图信息技术",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "电子城",
+    "city": 101110100,
+    "cityName": "西安",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "08bc902206babe401HR43d69F1A~",
+    "encryptBrandId": "2e38d1b54c93a0d61n1_09W8FFY~",
+    "encryptJobId": "e37be1b017cc91081n153tm5EVtT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.225244,
+        "longitude": 108.906979
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 114,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "GXqcJTtKpI.search.114",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K·13薪",
+    "securityId": "CibsZu8r59lrI-L1ZbqRN02l9IJ4n1TkE8RtFkqcfT0umbaKmji6lHWA-snJDcaiDn1k4XADMeERzABfhpDrrUJyr802opP8JttABoa73LVD5p91adyK0ScHi-FOaXBVIZWHtyBdJLRJSW__Y2nYs7xnKRn1yWmpmUPXESdyLmH5tgToAg~~",
+    "showTopPosition": false,
+    "skills": [
+        "中级软件工程师"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+    ]
+}

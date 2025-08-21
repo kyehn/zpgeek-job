@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "硚口区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "王赛文",
+    "bossOnline": false,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "武汉海翎光电科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "古田",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8b40df6b015660770XV809S5FFBV",
+    "encryptBrandId": "869cb34af9772c071X1z2tq0FFc~",
+    "encryptJobId": "b71a3ac680f6c4fc03R709i6FlNZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.60441,
+        "longitude": 114.195584
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100902,
+    "isShield": 0,
+    "itemId": 149,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rbcJDD9tL7.search.149",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "brUgPUWOZL_aI-Q1gPRU__qAXjJAu9wY6wiqCqTlMZEPVGr0XtOq3c-7YRwichBunAKnn_FpYYH3bBqkCyU1sosLdU3vr6no_y8r4C18VDnmHfjNeZHm3Wc2rhfY9JAwbGg8dXyPg2NuxtY~",
+    "showTopPosition": false,
+    "skills": [
+        "单片机设计经验",
+        "通信相关专业",
+        "电子相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241229/607f1f3d68754fd02dfd5c2285e623f4bf6ddd68eca53df068922de1589b6c898853b11877f6b2ff_s.png.webp",
+    "bossCert": 3,
+    "bossName": "俞文杰",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "汽车零部件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190730/c994f261c4383abb4ea3e46265fe99d8ffe27bf21942be8185b5ff815c887956.png",
+    "brandName": "天海",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101220300,
+    "cityName": "芜湖",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a6ba9a40449130590XR-3dW6EVNU",
+    "encryptBrandId": "82df4c37f47e19cb0nZ83tW9FA~~",
+    "encryptJobId": "2baded672891a3571HN439-9GFRT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.266811,
+        "longitude": 118.38172
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100802,
+    "isShield": 0,
+    "itemId": 200,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "IT（软件）工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5CXhd8auWJA.search.200",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K",
+    "securityId": "Qflqje6VLtcbs-i1ZgHcwjTEADfNvutNxFd0O-Ibe1GD6Nv8hrP2j9xHlmS-QZUPqO3kcRk_gUJVenk3i2Kbi7JJXYC8Cxbjx9feFTo7xGHdVmAcalDzkassO6ao_geL-ZbxoF8Rq2DfyQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "企业内部IT技术支持",
+        "Java"
+    ],
+    "welfareList": [
+        "提供免费住宿",
+        "五险一金",
+        "餐补"
+    ]
+}

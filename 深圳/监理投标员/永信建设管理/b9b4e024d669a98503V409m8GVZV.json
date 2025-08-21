@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "光明区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "罗挺宇",
+    "bossOnline": false,
+    "bossTitle": "执行董事",
+    "brandIndustry": "咨询",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230607/7b5b554d84f9729c0dd7543ab1685fb7bb994370ec73d4e9909e31ce1978a8ce00e0291128c9366b.jpg",
+    "brandName": "永信建设管理",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "光明",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fbdae5fd713d57cc0nd73du7E1RS",
+    "encryptBrandId": "404dd24186e6778d1n1y3dq9ElU~",
+    "encryptJobId": "b9b4e024d669a98503V409m8GVZV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.74865,
+        "longitude": 113.931693
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100601,
+    "isShield": 0,
+    "itemId": 62,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "监理投标员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8mUwm2ZGlBV.search.62",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K·14薪",
+    "securityId": "0IZLTkM5mK188-b1qMSC0mGI2G-8NmwINZL0Q5XDoKIXiSOxTZW1gogmRIHoOGba9aQRjNahuvenpCAGb0JUKfwc4XZKtm1RChXWa-0FOy_tbXfLddTWl-5MECSKVbWJ-T35Fu3A0DIAJQ8~",
+    "showTopPosition": false,
+    "skills": [
+        "监理投标",
+        "投标主管",
+        "工程投标"
+    ],
+    "welfareList": [
+        "底薪加提成",
+        "年终奖"
+    ]
+}

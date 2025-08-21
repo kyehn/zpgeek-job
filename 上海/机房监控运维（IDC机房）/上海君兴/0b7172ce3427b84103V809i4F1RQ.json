@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240306/607f1f3d68754fd0ef85cbfc3157b99b1eb8febfccbf30fd5e4536241ff6a4cba04a32f7ebd8e0fe_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "马艳",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "上海君兴",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "陆家嘴",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1eee222a2acaecf11Xx83960FVc~",
+    "encryptBrandId": "5f0daaa6a0030e9603J_39W-",
+    "encryptJobId": "0b7172ce3427b84103V809i4F1RQ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.22171,
+        "longitude": 121.529611
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 46,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "机房监控运维（IDC机房）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5SXFhmwzG6b.search.46",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "FwVqSvZI8HS1_-U17fXGp4ZEgq29nTjGe6N6kBJAXHO2OWkPfPuhwCg3hIQlrf-rk4sKBseEMHoyTcCnjuCrNgdJgt4hL45Tm4XiRt7dRgjT6u_c",
+    "showTopPosition": false,
+    "skills": [
+        "运维经验",
+        "IDC机房运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "ko0TcJrCl2KRX-N1z9yG1tVlagj8evPAe8Q253a68oJxso_OBJsBnmQsOiT9W6V712Um_qDDbvRCMlFhBo_t4kyph5P4wKdMA1X18FfmcGx0iMyb",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210908/607f1f3d68754fd0fc68a7cb3a0fbefc4bfab9179598a4de45bd6a12e867009bb6773f2480cb767d_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "b13b3a2d2632bdf03ndz39-4F1I~",
+    "bossName": "陈先生",
+    "bossTitle": "人事管理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b27acab54e2730d03nJ_3Nu-E1I~",
+    "expectId": 0,
+    "jobName": "主持表演老师",
+    "lid": "32jJLQLpQ1z.search.94",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "教师",
+        "主持培训",
+        "教研",
+        "教育培训"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "浦口区",
+    "businessDistrict": "大华家乐福",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 94,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.720738,
+        "latitude": 32.118862
+    },
+    "encryptBrandId": "9dd68b06d3e67f400HB82t25Fg~~",
+    "brandName": "亿屹教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "A轮",
+    "brandIndustry": "学前教育",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "全勤奖",
+        "节日福利",
+        "五险一金"
+    ],
+    "industry": 100301,
+    "contact": false,
+    "showTopPosition": false
+}

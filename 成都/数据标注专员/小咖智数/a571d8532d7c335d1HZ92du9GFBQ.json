@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191118/52e22da8424e5ab70a78a7062e1655084c8ad723bb8445b03e26038fe56b0c15_s.png",
+    "bossCert": 3,
+    "bossName": "曾先生",
+    "bossOnline": false,
+    "bossTitle": "项目管理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231223/7bf6f160950405e9e5295ed679895bb1630d5c57548f0ae1a743bec59d9e2903ec267b7471a62f30.png.webp",
+    "brandName": "小咖智数",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "双楠",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "59fd050ad5fa8b1233Vy0tW_ElE~",
+    "encryptBrandId": "02bd985f5a36fd8d1HVz2965F1Y~",
+    "encryptJobId": "a571d8532d7c335d1HZ92du9GFBQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.628844,
+        "longitude": 103.973051
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 20,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "数据标注专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7NLtiSavp4C.search.20",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "f4YjYyJM50FWM-G1GjWQycjVZo_rnVE7rjWwhHI0xiSQ4Q7JgwlPWoUNNh8hAue4nM6h9EkPNggweupGWMO_VGjwyLvtmPAZCIoCP-k8XWMgjCBCh-fwmKVBOThQIbKoxRvseCqUhhsM4Q~~",
+    "showTopPosition": false,
+    "skills": [
+        "不接受居家办公"
+    ],
+    "welfareList": [
+        "节日福利",
+        "全勤奖",
+        "节假日加班费",
+        "绩效奖金"
+    ]
+}

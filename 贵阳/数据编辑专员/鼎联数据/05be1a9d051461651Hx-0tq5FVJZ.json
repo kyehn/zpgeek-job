@@ -1,0 +1,59 @@
+{
+    "securityId": "i0ZrB7UcFmQdU-w1NX30GssCX_Sia2hmUr_orxEtQAX2eLGvTJJVKcXQydXjh4jnXn2SvOT3KaaPCz6BGLec6Vodp-BbQ2vI9TjQ0fdTZpBIn-aWAEPgOGpN6SV9dDF8AntqynLaYAUbrsY~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "encryptBossId": "ce81240818acd7d90Xdz09u8F1pR",
+    "bossName": "廖女士",
+    "bossTitle": "项目主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "05be1a9d051461651Hx-0tq5FVJZ",
+    "expectId": 1014042683,
+    "jobName": "数据编辑专员",
+    "lid": "2x60OLtCHvR.search.238",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据标注"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "贵阳",
+    "areaDistrict": "观山湖区",
+    "businessDistrict": "长岭南路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 238,
+    "city": 101260100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 106.648439,
+        "latitude": 26.621407
+    },
+    "encryptBrandId": "f29bdd04dc3bf59b1HZ_3d64F1E~",
+    "brandName": "鼎联数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240228/7bf6f160950405e990ad4262c9de6fd24abd7193e7e08460f3eb4365d809476a97c3b3f075fe7c30.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "人工智能",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100028,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "长宁区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210517/c81da81e8d03ecbaf89e5cd6779cb31476ff34f2b106ff7a7238765760a4a65a_s.png",
+    "bossCert": 3,
+    "bossName": "王先生",
+    "bossOnline": false,
+    "bossTitle": "QA lead",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240828/7bf6f160950405e9178479fc4775c2ca8134fd20ab98f88fe2e9c10dc24fdd8414e0dd0957748306.png.webp",
+    "brandName": "拼多多集团-PDD",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "娄山关路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d2753c6a085692f51XFz2N-5Elc~",
+    "encryptBrandId": "ea9c5680f57d53d71HV90ty5",
+    "encryptJobId": "78a5d736b30fb6dc1X1z29-_E1VQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.208967,
+        "longitude": 121.402635
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 65,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2AC6tGoe3sl.search.65",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K·16薪",
+    "securityId": "vPhFWZtWEWoZn-B1Vz_M_EYbvf2cNwLMMvL_Igeb2JN9Kcpl9j6zE757yuGVq1pvfJo8IM20rduexFDZNr-OfpWx3hpejzwAnJL8s5sq6kKA0X7omrez1yU63M_74-C2qhGTnXxDg9g~",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试",
+        "功能测试"
+    ],
+    "welfareList": [
+        "节日福利",
+        "全勤奖",
+        "定期体检"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240206/607f1f3d68754fd0a101ae23b0a4e13caaff24e816867f8a64633b6fb5980e50afbcbd2e0f23d88f_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "杨女士",
+    "bossOnline": true,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190617/af50eca50dee4f36b46ba574bf08cdd1526eb4f3a7594c770ed9342adaceedcd.jpg",
+    "brandName": "北京新微科技有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "太阳宫",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3656394122b629320XZ929y_EVRV",
+    "encryptBrandId": "af00871ac14cff491HF_09i_EA~~",
+    "encryptJobId": "3c550d65c88eaacb03F_0tW6EVVQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.961517,
+        "longitude": 116.46462
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 26,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维（it驻场）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8kmmKI8Ns8b.search.26",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "p0BrJSsEMILkz-713Z8gIfL68TTo2molibaX-g3LusYxg2TMneBADgYG-jOcgaZgleSE7gzokqV2TwLgQBELnoTzsxOS4fefkjNF9Zzs9GviFhk8OLqDIQ9y6TeiwGnxzgi3ziGpgPYIt9uslEH2ezeDxuA2q9dbI1aR6fhg_MInEB3cuw~~",
+    "showTopPosition": false,
+    "skills": [
+        "桌面运维"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "餐补"
+    ]
+}

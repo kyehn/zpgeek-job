@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "历下区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190607/4892cff93fe86e10aae48caba2cdb53ae8b14635ae66215df3db5f150168c285_s.png",
+    "bossCert": 3,
+    "bossName": "盖先生",
+    "bossOnline": false,
+    "bossTitle": "总经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "新鸿数字",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "济南高新区",
+    "city": 101120100,
+    "cityName": "济南",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "acf27fe83b1fbd3e0XBz2961Elc~",
+    "encryptBrandId": "47bc84610800e66b1n192929FlY~",
+    "encryptJobId": "6ab6471fdab6574403Z90tm_GVNS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.673351,
+        "longitude": 117.1295
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 122,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "全栈工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3pqTvVc0voH.search.122",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "hazlMCmMn10zB-I1RWAEbrDHC4wVGCzl0gzjKfCeSXvORtVkgQT_5FmID-PoXAUeD7BourLJ3QK8qw7v6SU_JuLojv8KdPf_QxS2lTB6aemD_DBo_QNZD5wjKQNdnC6TtBWn6pMIlPR8Nw~~",
+    "showTopPosition": false,
+    "skills": [
+        "全栈侧重前端"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "餐补"
+    ]
+}

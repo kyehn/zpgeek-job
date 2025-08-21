@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "黄埔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220824/607f1f3d68754fd0e7b2796eaba57ffabd62a4464f5ef49ae0b3dc54d53d31665dd4c01af3cc10d3_s.jpg",
+    "bossCert": 3,
+    "bossName": "郑女士",
+    "bossOnline": false,
+    "bossTitle": "招聘人员",
+    "brandIndustry": "检测/认证",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210624/82b34b0bca893a4efc14e393bd09642601341ca1f0ccf54698e9f32dca3d9fd7.jpg",
+    "brandName": "华盈检测",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "开发区东区",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "60085d99697c258d0nF809i0E1pU",
+    "encryptBrandId": "526f5532125155a81nF-2Nm1ElI~",
+    "encryptJobId": "8bbe02ad23bb30291HB52ty7FVRY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.140065,
+        "longitude": 113.528729
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100606,
+    "isShield": 0,
+    "itemId": 72,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "检测员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cRTTJQikHI.search.72",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "8NkH_4lRjcSqL-k1CXZbuTAH9p3a7hNG4gVuuw3Qp-676-VJOVQ3CMULJcIh7HVxTOZ2qnwn-7y0WAv1F3HUhqg9O-z9tjtRpSvLVNObUpkdY34HvGqKtgOMoL6AmwzQkAp8UOd1FpzPiI8~",
+    "showTopPosition": false,
+    "skills": [
+        "环境检测"
+    ],
+    "welfareList": [
+        "五险一金",
+        "绩效奖金",
+        "节日福利",
+        "工龄奖"
+    ]
+}

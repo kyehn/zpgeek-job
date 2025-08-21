@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "东西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240405/607f1f3d68754fd0df0b049171012252ef48c390a8fb282cff3e05d0c459ddff53bebcc0b617b949_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "HRBP",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191021/4901f89faac32e151a9730242b7469666ebe1c1909b780ed77274a67157ae546.jpg",
+    "brandName": "瑞得软件",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "径河",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "be52de4d23321eb81XN93NS5GFQ~",
+    "encryptBrandId": "4877ca03b3fa2e570n1y2NW8",
+    "encryptJobId": "afdc6bc7f752e7c61Xdz2tS8GFBU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.679454,
+        "longitude": 114.137877
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 90,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "基础驻场运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "r8v0XhFQoR.search.90",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "lPoJWmwRcPr0Y-j1huwWgkZ8bx02G4UuXt3C7Cn53wRzPp-jPpUSwrXSQOE7NjT-qrbBoaPqf3rnHPA5cyonYgeVSg533lK_Dt8ha6aByYhAveAUx9HAIer7TKs6QGMyem9khYfcJ_k~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维",
+        "系统运维"
+    ],
+    "welfareList": [
+        "五险一金",
+        "员工旅游",
+        "餐补"
+    ]
+}

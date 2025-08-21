@@ -1,0 +1,60 @@
+{
+    "securityId": "o7SD72Ro9OOsn-x1TmAj1tPzgZtenqyNHsEzIBQ1mVY_czQxXRCPBYQgqyNlB2VaJOJH4pik5ZXJwBmH3ktXo7mSmM47f5-5WZuNE5S5kgtayKS7w-I~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210925/607f1f3d68754fd0a86d12fe9b0c601a727958cdba079c7b96106acc0b773c646fae495b5cdb8791_s.png",
+    "bossCert": 3,
+    "encryptBossId": "6201fc1ad77467010HN62dW8FFM~",
+    "bossName": "李先生",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "5045149d5fdbc1161nx73t--FlpX",
+    "expectId": 0,
+    "jobName": "机械工程师",
+    "lid": "3nnaxuJmnGT.search.54",
+    "salaryDesc": "4-5K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "非标",
+        "solidworks"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长沙",
+    "areaDistrict": "岳麓区",
+    "businessDistrict": "麓谷",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 54,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.855401,
+        "latitude": 28.235359
+    },
+    "encryptBrandId": "824792217a1230d01nxy2N68FlY~",
+    "brandName": "格润",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "加班补助"
+    ],
+    "industry": 100902,
+    "contact": false,
+    "showTopPosition": false
+}

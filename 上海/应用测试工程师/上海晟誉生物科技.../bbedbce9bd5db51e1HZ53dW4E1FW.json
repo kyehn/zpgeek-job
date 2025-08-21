@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210112/31c1408ea604fbb7efec6edb8271dfab01c8959ead8724658e3c4c836916fb6a_s.jpg",
+    "bossCert": 3,
+    "bossName": "黄女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "生物/制药",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210407/52b8bed2fd88c67ebf02508599102f6d01c8959ead8724658e3c4c836916fb6a_s.jpg",
+    "brandName": "上海晟誉生物科技...",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "周浦",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9e2a9fab29b593dd1nZy2dS5GFc~",
+    "encryptBrandId": "387c498af68040bf1HN809S8EQ~~",
+    "encryptJobId": "bbedbce9bd5db51e1HZ53dW4E1FW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.090562,
+        "longitude": 121.577743
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100401,
+    "isShield": 0,
+    "itemId": 78,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "应用测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2AC6tGoe3sl.search.78",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K·13薪",
+    "securityId": "s523nCm1aKbUK-A1VGRGBD6SjYIlWgxC6JF6R7tljnxGO8KNjNdVymK0-zytzhon1Ygs0rOwJCO4iborouC1Lk67r0Wf6Bhy3lQYitWWsUAdnQks5HVstX28nfPzzRMUZTdhiiCrOJFm",
+    "showTopPosition": false,
+    "skills": [
+        "生化试剂盒",
+        "生物酶",
+        "生命科学仪器"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

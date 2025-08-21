@@ -1,0 +1,63 @@
+{
+    "securityId": "EJDOq6io_fAzt-G1m14xJImwoCs16ZyKGo3DBaRuS0YO04xSE_GMmW2fSqFWaWFWD_BFv_vbHb9UEO10dztTwUiwX5EelquyPt1nYguMduuDsPYKEjKamY79FRJbi_u0xy83QzS2FXnBDQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210726/8e25f0346f6611ff72364e36f0fdd49c4e8b9dc9bbb15d9c4683fc6790e4d61d_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "7142fb490c22f43d1HJ53du0EFA~",
+    "bossName": "韩江",
+    "bossTitle": "人事/行政",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6f879ace349899391HNz2dW6E1FZ",
+    "expectId": 1014042683,
+    "jobName": "情感分析师",
+    "lid": "19yrEHkR3qp.search.227",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "有销售性质",
+        "线上咨询",
+        "婚姻及家庭咨询"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "武昌区",
+    "businessDistrict": "中北路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 227,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.355486,
+        "latitude": 30.570912
+    },
+    "encryptBrandId": "bae4fb4096e1330e1Hdz3Nq7FVM~",
+    "brandName": "武汉迈鸽",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240421/7b5b554d84f9729c5a486fb3131a2de1b931d61d29b1a18b4e8b9dc9bbb15d9c4683fc6790e4d61d.jpg.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "文化艺术/娱乐",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "节日福利",
+        "团建聚餐",
+        "保底工资",
+        "年终奖"
+    ],
+    "industry": 100104,
+    "contact": false,
+    "showTopPosition": false
+}

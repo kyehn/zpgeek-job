@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "嘉定区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "大区HRG",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210121/8fb6313906856cdb0d7266000988ff2a727e7e8e34a037604db8e4ba9030afc5_s.jpg",
+    "brandName": "美菜",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "D轮及以上",
+    "businessDistrict": "江桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "dc5587330ed3f30f1H142dy6GFQ~",
+    "encryptBrandId": "308b65efbdf6400a1nd92N-8ElM~",
+    "encryptJobId": "3eda34177c7b39601X173tm6FFNR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.241987,
+        "longitude": 121.333558
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 33,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "数据分析",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8Qu4f9OgeRb.search.33",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "l5WTEFxzEGNf7-h1Qoe6ZGwYBOPAlqL0jOPuAzmiG4Bih25OLtwGM8o5u83k-y9QgJFyyW3f8esOsWACPjwu5gyF920ID3YF-r701nEsN3_U6zcnFBDnT7DuJ6rFoy73Dnf5exi23NTgJw~~",
+    "showTopPosition": false,
+    "skills": [
+        "GMV增长",
+        "数据分析",
+        "经营分析"
+    ],
+    "welfareList": [
+        "意外险",
+        "五险一金"
+    ]
+}

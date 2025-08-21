@@ -1,0 +1,60 @@
+{
+    "securityId": "M0khKYDXsp1uY-i14ub4ly73V69sV4tIzUKhh1Fa7HPe0-LMAJQciVf-Y_DS19a5Tr7-y4DpvVcLkeWrsTlp53bl2f7y8cEDgVFXqydglZHkUkWu",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231229/607f1f3d68754fd0bca4bd8dc8cbd7b1fde38631f3637457e19de38bc4d7571373729c47843d6827_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "1700a8d0b5f402a21nV43ty_",
+    "bossName": "蒋先生",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "5f9e562fa8750b191nR83ti_GVZR",
+    "expectId": 0,
+    "jobName": "Java开发工程师",
+    "lid": "5FBfVSJD532.search.243",
+    "salaryDesc": "8-12K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "PHP",
+        "C#"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "仓前",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 243,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.00487,
+        "latitude": 30.292227
+    },
+    "encryptBrandId": "f336defafdf3be5c1nV82ty9EVA~",
+    "brandName": "斑橙科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200903/0bef4e135af1d977d6c80cad08776f8ae19de38bc4d7571373729c47843d6827_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "股票期权"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

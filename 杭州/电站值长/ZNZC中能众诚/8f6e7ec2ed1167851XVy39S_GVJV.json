@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "余杭区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "刘升浩",
+    "bossOnline": false,
+    "bossTitle": "行政人事专员",
+    "brandIndustry": "光伏",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191117/42072987202bae8548593fd78fbb00227c2eba4429064475cfbb3e186f3b58d9.jpg",
+    "brandName": "ZNZC中能众诚",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "五常",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b102e36ad3626c961XV829W7E1A~",
+    "encryptBrandId": "26b007b66d479dac0XF50tm-Fg~~",
+    "encryptJobId": "8f6e7ec2ed1167851XVy39S_GVJV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.240512,
+        "longitude": 120.028547
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101208,
+    "isShield": 0,
+    "itemId": 89,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "电站值长",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7m9xZ5hRI4d.search.89",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "P5eC3qM0M2k20-L1ltOOaGsbdvPZ2Efho8IwinlLkxox68lfFeWZXpWQl5mmLogyRSGtzPfTe1EjQO4gtA4Lb9AKrp0Y6E6gyUqmqzb16AB3vgQRPIr9XFErOo-epnrb2VpZZ1J262yk",
+    "showTopPosition": false,
+    "skills": [
+        "光伏电站运维"
+    ],
+    "welfareList": [
+        "餐补",
+        "带薪年假",
+        "五险一金"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180904/63057538b070c3d781d42eae1a9cdec23d28fb205e0ee44bc51f710748bf4dbb_s.jpg",
+    "bossCert": 3,
+    "bossName": "王美丽",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180811/2cc142cb6d123e41df35cb9df3154e31cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "中置科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "三元桥",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "83294cfe886bd6b103F-0tS4E1U~",
+    "encryptBrandId": "5f0cf4338d8d60f01Hd539S7",
+    "encryptJobId": "f7df158dbaadc70a1XFy39-7E1o~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.958472,
+        "longitude": 116.449153
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 76,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "JAVA开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "eShI5Rklu.search.76",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-14K",
+    "securityId": "favZsWlAv0NPh-F1NmmBi1lrFE2XT9xO074zvpCtfJ8J3kb-aNi8YFqk3Ntrr8fJHTKMxT0ORNPv0ajviBpGb9banPhT5yaIQztphegO7R2tz_7Slw0VHWm4malmY5Vk1lqsXtd82A~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

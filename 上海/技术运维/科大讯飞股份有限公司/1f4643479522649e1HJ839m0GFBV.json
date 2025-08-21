@@ -1,0 +1,63 @@
+{
+    "securityId": "i0zeSr_DgoNcP-w1tjjb-woDQnIWA3yW4LUr7kwVv-JtisT71aMMR2jO6nlk2SwX4LPs6cYRomMk3B4MnycsOb7Q4wo-Tti47vpFjFgD9LPjiRqIHOHozu6GQZ3G69Zt_mBKoia9T9U0",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200524/5c453a53f2038b8be83ce170ddff6c5fe736f268c7546b24c4e611d71c370300_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "7bafda15ba19ace80nJ-39u8GVo~",
+    "bossName": "吴女士",
+    "bossTitle": "人才经纪人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1f4643479522649e1HJ839m0GFBV",
+    "expectId": 1014887466,
+    "jobName": "技术运维",
+    "lid": "1fx6LkUsypY.search.17",
+    "salaryDesc": "5-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "系统运维",
+        "计算机相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "长宁区",
+    "businessDistrict": "新华路",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        3
+    ],
+    "itemId": 17,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": null,
+    "encryptBrandId": "407f0b5b8513a4681Xx42925Ew~~",
+    "brandName": "科大讯飞股份有限公司",
+    "brandLogo": "https://c-res.zhipin.com/jrs/3_c862f0ddedce9a4bdc00f1ea55e30484.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "互联网",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "餐补",
+        "五险一金",
+        "年终奖",
+        "免费班车",
+        "交通补助",
+        "带薪年假"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

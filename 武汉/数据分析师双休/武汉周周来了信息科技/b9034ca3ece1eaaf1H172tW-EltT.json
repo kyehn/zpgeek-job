@@ -1,0 +1,60 @@
+{
+    "securityId": "7n7sJRXMdQMxl-H1QaYxYBLXurc5_Z0MrK9V7t0CO_wrrqw79WKiSdXSGcdh-ovUFbjJ4AnoFYFpjbMi0vEClDnW_eXUe-ToyMWRPpBfA5K0_ta_iI80q9KG2gQQnT5Jm-WjM5HKU7APzTI~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240724/607f1f3d68754fd09c7e73b7618986707c2243d39a6f2332e981a54023d001f502b117c0931312fc_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "6a3c5d3ec6675a660nNz39i0F1RV",
+    "bossName": "官女士",
+    "bossTitle": "人力资源",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b9034ca3ece1eaaf1H172tW-EltT",
+    "expectId": 1030426395,
+    "jobName": "数据分析师+双休",
+    "lid": "2ayz7ByMFh5.search.15",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据分析/挖掘经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "硚口区",
+    "businessDistrict": "汉正街",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 15,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.250019,
+        "latitude": 30.568682
+    },
+    "encryptBrandId": "071d495c6161089d1XB83tq4F1c~",
+    "brandName": "武汉周周来了信息科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "团建聚餐",
+        "员工旅游",
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

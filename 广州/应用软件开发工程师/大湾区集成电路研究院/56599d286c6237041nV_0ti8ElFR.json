@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "黄埔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190919/b902f95aa70bbd20cc2b2c86dc2cae092d005b969bdfa298311c7b12abd3f3cd_s.png",
+    "bossCert": 3,
+    "bossName": "陈妙苏",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "半导体/芯片",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+    "brandName": "大湾区集成电路研究院",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "中心城",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "29f2a31c8929c7740HJ529y9FlI~",
+    "encryptBrandId": "98baf3c5eb8d3d1e1nd539y_ElU~",
+    "encryptJobId": "56599d286c6237041nV_0ti8ElFR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.154445,
+        "longitude": 113.507235
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101405,
+    "isShield": 0,
+    "itemId": 79,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "应用软件开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5KoniKPB7y1.search.79",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "MA3558gZZWd9A-D1Dg9X_EQynA8ZGR0GzaRlRgREvZb6iaK9NusJjNsz0m6185WxdEX3-FvASD1Cco6mHD9BH7rXSvmmTDGuJwP2G4OVQXSWqWnzQ43vBTMZ7RZMV8k13Lsvfh2OJ95RKw~~",
+    "showTopPosition": false,
+    "skills": [
+        "应用软件开发工程师"
+    ],
+    "welfareList": [
+        "餐补",
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

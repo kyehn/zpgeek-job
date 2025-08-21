@@ -1,0 +1,62 @@
+{
+    "securityId": "dxyKeOoxSdrGC-X1HjeiWRUknTPZAg6ZlVrTlJ46hC9rpgqKNQcnziP-FhLmVtzy7FTA3zNeRMQOKyMTq9xQnN_gzfar7CKlAaJLmx4XprAymBgBtA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240419/607f1f3d68754fd0aca1b60c7dcdfdd91da1dbaedc07627090649be6dd11f2470c34d7700ecd9712_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "68f4d05240e88cc90XV82d64Ew~~",
+    "bossName": "康先生",
+    "bossTitle": "产品总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e4f91d2e1ed1f7ac1nJ70tq1GFpT",
+    "expectId": 0,
+    "jobName": "PHP",
+    "lid": "1fjMgOLnF4n.search.283",
+    "salaryDesc": "4-7K·13薪",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C#",
+        "后端开发",
+        "ThinkPHP"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "劲松",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 283,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.467163,
+        "latitude": 39.885062
+    },
+    "encryptBrandId": "9cd5d7dcda879e1a1nB50tW5EVQ~",
+    "brandName": "乘月科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "团建聚餐",
+        "绩效奖金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

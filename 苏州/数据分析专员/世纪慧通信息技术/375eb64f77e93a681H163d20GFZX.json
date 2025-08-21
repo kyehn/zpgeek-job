@@ -1,0 +1,63 @@
+{
+    "securityId": "zqFAiBevr4iNW-O14x-RaoDvoYh-Wnp_NYkKGw5f5W6ERzaZlAb80rt295awd0cFwfXI-6Wnok2QtGwanJzdOCTgmIpJFCTSiAcT29HkOQ1lJB2z5R2WD3-BSO41IX2a9PgFgLB6KPAHrUw~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "dea9d75697fcf2a50XNz29q9EFpQ",
+    "bossName": "朱正",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "375eb64f77e93a681H163d20GFZX",
+    "expectId": 1014042683,
+    "jobName": "数据分析专员",
+    "lid": "1hzOV4vTCIf.search.233",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "R",
+        "SPSS",
+        "数学/统计相关专业",
+        "数据分析/挖掘经验",
+        "教育学 心理学"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "苏州",
+    "areaDistrict": "姑苏区",
+    "businessDistrict": "阊胥路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 233,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.604251,
+        "latitude": 31.296719
+    },
+    "encryptBrandId": "6aeb9b28f85de19d1HN939u7F1Y~",
+    "brandName": "世纪慧通信息技术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "节日福利",
+        "五险一金"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,59 @@
+{
+    "securityId": "jc5HMx0vlqy48-P1SW6dWCu3_Cv4dSAs8E3Gdky419TZjS8z3cFn2W6-UeBxC0ockrObE2LxmdP18Fgw9oRtp22uSsWr5cFKArd0PqNPlOQ-kxx_3B8LjSczODksw5FV6V6GusTkcGHUGzbafvaKNioFMehQ5FBEaOC_cPOLoWSqIRMD",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230413/607f1f3d68754fd044047e8a0dbf128c8d69d32ce7ff0bf78e251f27ca9e0b36ff24e5e4eab5f1a8_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "7cc23310696f9ced1nVy0tS9FVtU",
+    "bossName": "郭凡",
+    "bossTitle": "猎头顾问",
+    "goldHunter": 1,
+    "bossOnline": true,
+    "encryptJobId": "858edf31374138031HFy09-1E1ZY",
+    "expectId": 1030426395,
+    "jobName": "软件测试（汽车）",
+    "lid": "1r5sI81fMzC.search.96",
+    "salaryDesc": "15-25K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "汽车",
+        "APP",
+        "新能源汽车"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "anonymous": 20,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        8
+    ],
+    "itemId": 96,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": null,
+    "encryptBrandId": "",
+    "brandName": "某汽车研发公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "汽车研发/制造",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100801,
+    "contact": false,
+    "showTopPosition": false
+}

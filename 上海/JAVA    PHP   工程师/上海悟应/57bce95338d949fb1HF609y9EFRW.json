@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "青浦区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200427/812fa2d904e691e715ce080c1fb4002675546f0f3ce566e6ad817eed1bd15c56_s.jpg",
+    "bossCert": 3,
+    "bossName": "戴太康",
+    "bossOnline": false,
+    "bossTitle": "行政总监",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200327/cf62d3eefddbabbd998700219ba9b0f8d90ce44d642b8fed74c6004a09ffd2e7.jpg",
+    "brandName": "上海悟应",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "赵巷",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5b60b72a05b572371n1y3d24GVA~",
+    "encryptBrandId": "1584e60c026bb53e0HF50t-5GA~~",
+    "encryptJobId": "57bce95338d949fb1HF609y9EFRW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.160649,
+        "longitude": 121.153558
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 43,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "JAVA    PHP   工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cJLBnhYj0b.search.43",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "NRASIeGvzPPcN-y1HXtItaqqFTowPzbscl96341u_E0SgchTlrRReu8WC9vMP6KZfIUBb6l5nyRX9GamF3Ay0nH1BQ8yuRJ2FEDgCcp4t3NNAU1o1jik2m1232dpWNYiNZevz6YmE68W",
+    "showTopPosition": false,
+    "skills": [
+        "PHP",
+        "PHP开发经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "餐补"
+    ]
+}

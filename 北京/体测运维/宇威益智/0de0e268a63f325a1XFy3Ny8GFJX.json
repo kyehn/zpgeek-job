@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "顺义区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "付京川",
+    "bossOnline": false,
+    "bossTitle": "综合行政专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230807/7bf6f160950405e9d2605d7688306a4904e960aba95c5a4df7f6c49621f82b0afe3156bc1c8f133f.png",
+    "brandName": "宇威益智",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "后沙峪",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c0f5260686dda23f0nF93NW0FFBY",
+    "encryptBrandId": "7f817ce34bd4da8d1XZ82Nu5E1s~",
+    "encryptJobId": "0de0e268a63f325a1XFy3Ny8GFJX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.088051,
+        "longitude": 116.549713
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 61,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "体测运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cPQG9ziPWL.search.61",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "yQ4D4Mc4C8z5H-P1-IJkHOwGqs0xQStBbR1O1XtMflKOlqFaqqsqD9qC81SjvFXGtu1gFOVSomVV52zjA6bIU_wzgGiN4iywyop3qTeFMQDKrQNS4p7U1U-gosqeZamrMI6E1cgib_7R784~",
+    "showTopPosition": false,
+    "skills": [
+        "可适应出差",
+        "五险一金",
+        "双休"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

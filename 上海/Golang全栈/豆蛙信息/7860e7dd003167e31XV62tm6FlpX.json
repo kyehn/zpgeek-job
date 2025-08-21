@@ -1,0 +1,63 @@
+{
+    "securityId": "VvOp2yOLsgo6D-z1D9SLPwAK_rjPf-9KsidOj7K6Ve83ibSlX9mV52BqkMD7sI0X_6sR0ksBeDD0V4v8FLZ7efzkfkBQqj9GBMNp57KKYKLos4xQ",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161128/1a20d269f787ef0c4f3facd65ea8dcec9c73e9b6cbb1b691c59f3dd042d42b3b_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "f4a708c8957a39250HV83tW8Ew~~",
+    "bossName": "吴先生",
+    "bossTitle": "产品总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7860e7dd003167e31XV62tm6FlpX",
+    "expectId": 0,
+    "jobName": "Golang全栈",
+    "lid": "2v9d0auuvsU.search.264",
+    "salaryDesc": "5-8K·13薪",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "后端开发",
+        "Golang",
+        "Vue"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "临港",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 264,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.915695,
+        "latitude": 30.874378
+    },
+    "encryptBrandId": "32f7123d2a4226421nR43du7FQ~~",
+    "brandName": "豆蛙信息",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180426/1cb15ee729d923feec6d19dfd7fb03a8598a9ab65b6f13711e2138134f60e1f9.jpg",
+    "brandStageName": "A轮",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "交通补助",
+        "五险一金",
+        "餐补",
+        "年终奖"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

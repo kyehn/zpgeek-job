@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "管城回族区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241107/607f1f3d68754fd00487a9651f58c2880dd775ee2c0624bc1770a19c1f98568f95fd69734088fb60_s.png.webp",
+    "bossCert": 3,
+    "bossName": "左女士",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "其他生活服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "河南吉之浦信息技术",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "东大街",
+    "city": 101180100,
+    "cityName": "郑州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "dadfd38d594a39f60nd43t6_GVRS",
+    "encryptBrandId": "3d0605a8b6f47b0103R72NW8FFQ~",
+    "encryptJobId": "a34af969a555257003Z53ti8FFVT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.746486,
+        "longitude": 113.69511
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101106,
+    "isShield": 0,
+    "itemId": 51,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "Python开发+提供食宿+单双休",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6RP87HOmvfM.search.51",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "DgZsT0mLXN3G8-k1MGRiQJw85WTqNXFUZylprdzo9SSePt466Pq7DYWBQxzQzzODaPV_Pcx-bb3c_Aj0wLGoHUYrIwRk1ow9WkGM2SafVgFvHXnunS73_0_q_uUfZTBfD_mU74ZUYwxkK-M~",
+    "showTopPosition": false,
+    "skills": [
+        "PyTorch",
+        "Python",
+        "TensorFlow"
+    ],
+    "welfareList": [
+        "全勤奖"
+    ]
+}

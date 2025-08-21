@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "普陀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231015/607f1f3d68754fd0dbea68da286d875be742eb09bc6b606ef339454a1b60b4698a606c8958205683_s.png.webp",
+    "bossCert": 3,
+    "bossName": "安女士",
+    "bossOnline": false,
+    "bossTitle": "hr",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240105/7bf6f160950405e9763d940637ab43c1b6bf9ec44707a6cd04c5cab85daa86eb9e7e03c57e4518bb.png.webp",
+    "brandName": "卓越际联科技有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "梅川路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a7c3843af7cc2cda0nx43tS5FVVU",
+    "encryptBrandId": "9a80334346a8f4661XR73Ny1F1Q~",
+    "encryptJobId": "3343c8b1f0157b3603B_0tS_EFZU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.232548,
+        "longitude": 121.381728
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 54,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "数据产品运营",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7HDo9l2N4SP.search.54",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "bkknqi6dKm6oq-31Pp6zJxHAzfUjHaFYFbcgD2sctx3rvt9xE8satVjiecW_6y35rGUn1MbbgTipgFPka5nhFiss7niq8TlokDdhbChi_SPCuL4wpoTpp47UzcspnsNIy0PczQXbYYPgC38~",
+    "showTopPosition": false,
+    "skills": [
+        "业务数据分析",
+        "投放数据分析",
+        "数据分析/商业分析经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

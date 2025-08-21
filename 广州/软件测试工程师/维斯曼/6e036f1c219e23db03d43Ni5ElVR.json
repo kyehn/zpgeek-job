@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天河区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211222/607f1f3d68754fd03a46c26e4a6317e0b9f7cc79b304fe49681a9a8cdca537fe7e4f511629b7ed29_s.png",
+    "bossCert": 3,
+    "bossName": "林传馨",
+    "bossOnline": false,
+    "bossTitle": "招聘主管",
+    "brandIndustry": "咨询",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230725/7bf6f160950405e9d2da1ab85cf81ea92372b62f9e4cd149b37a31690210499c5ca3020b2e1a9ca3.png",
+    "brandName": "维斯曼",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "石牌",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f4d536b4648d443e1nd609m5FVs~",
+    "encryptBrandId": "f58a6e9ec6d710491XF_3dS1F1I~",
+    "encryptJobId": "6e036f1c219e23db03d43Ni5ElVR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.11911,
+        "longitude": 113.343779
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100601,
+    "isShield": 0,
+    "itemId": 224,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5cq0HpNnsAv.search.224",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-13K",
+    "securityId": "zw2ZQQxh0t3rf-r1pT50VNuQqXGEeubaWdcWDcUFQ978Xx7tF2A72TT8s-q9n-SXhDau9TVIodj2nsQK-cWjBFAgSPemejqNlIDYT18tcUoEZjmIRf4kf7p7a7XWE8D7i2jHFSlQCU6-kQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "LtqapkH35MTYU-51z8XJInwrFBcRe1XSCTtJ5QtYSSISiGtwSlbPIxQciH08RBbAJ0F69t6ZGjj_3Bid6feR17Vs5kigBZlWeZyKxq3HbH1e7AnBzTM~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240312/607f1f3d68754fd01ce6c47b97fba7693661715157957617ab4798571f9b279e96e204b73db74307_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "fe9a95becb6f341c03163t-6GVQ~",
+    "bossName": "孙先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f07c2d9f4de1a41c1HBz3ty5F1ZV",
+    "expectId": 0,
+    "jobName": "少儿编程",
+    "lid": "3rAvezlfQYe.search.170",
+    "salaryDesc": "6-11K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "少儿编程"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 170,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.22538,
+        "latitude": 23.429015
+    },
+    "encryptBrandId": "1ae36685fef6268b1HZ82d27ElA~",
+    "brandName": "广州市花都区花城...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "全勤奖",
+        "加班补助",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

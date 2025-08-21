@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "bossName": "杨先生",
+    "bossOnline": false,
+    "bossTitle": "研发总监",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160425/cb6cf73a13f0dd14a1fae5c6f239ec7a674fc29ce053700261a2325cea056462.jpg",
+    "brandName": "列丰科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3c5925cadea6d47e03F_2dm_ElA~",
+    "encryptBrandId": "d37d27da69306fc61XZ52ty1",
+    "encryptJobId": "5033bad0acafbbf83nJz2dq8ElU~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.056013,
+        "longitude": 113.385904
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 53,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4Qg6fsQhEX2.search.53",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "gMF34bqZGChoD-r1WqA8wvpTcFCcTwl6JpOWXgYUS2un6DdASoB61THg71jZAWOL4f4F6PjePl9uMdcp1p943ajAlwB-f_iDIJr13bZ4USNfq_XMO7b_fiCDlQqSN0X5RHJVCXgngQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "普陀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220720/607f1f3d68754fd01307a69c2136a75ac29ab189b60c5b05acd9e173100d9a90c74c83287d33c515_s.jpg",
+    "bossCert": 3,
+    "bossName": "赖尾清",
+    "bossOnline": false,
+    "bossTitle": "操作主管",
+    "brandIndustry": "生活服务(O2O)",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170426/2f495ca97782e2faf01745574c18e96683bd1142273cd4e3535b03a64bb7ccf9.jpg",
+    "brandName": "中宝国旅",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "长寿路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "105d75684841d0cd0nF72dW4FFpT",
+    "encryptBrandId": "bf3e359c8ad099e80XZz39y5",
+    "encryptJobId": "adddf3717de3a1701XF629q-EVdT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.240811,
+        "longitude": 121.441948
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100007,
+    "isShield": 0,
+    "itemId": 154,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "java高级开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2TJgRk2k2YV.search.154",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "sug9apegdjCYm-z1maNBhkZLYfRBBKPQ5nmCvx4VHIiMtZmtWxn4vZMgIgPEsH4YhkO8rYHSGyHH61jhfDB_ZE8zBFEX8VVWEb6Lau3zzv4kntC5kEv1KENgcscrpyjUa4PRBDLFQhFl",
+    "showTopPosition": false,
+    "skills": [
+        "Java开发经验",
+        "Java",
+        "后端工程师",
+        "计算机/软件工程相关经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

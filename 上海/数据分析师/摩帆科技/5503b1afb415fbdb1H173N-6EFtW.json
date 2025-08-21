@@ -1,0 +1,61 @@
+{
+    "securityId": "AYKpdAtyE7rXM-P1da5sC-O5weMKQP4x4IKFY1-HrzpQSg0G1kh6iJzD7fSekBQWyuOvcN_yli0PR-8EJ8rg733f_RO8o_UIj8RdONoJYSBRbJW4lkm5-QlRyzIOV9-rd5ftdLBdbyjnAA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240819/607f1f3d68754fd0d77a73a81934a0810018790de0a5647959280e1e4cc756d1bb31a4074b414961_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "4873d73262a23a3b1nV83t28EVc~",
+    "bossName": "胡女士",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "5503b1afb415fbdb1H173N-6EFtW",
+    "expectId": 1014042683,
+    "jobName": "数据分析师",
+    "lid": "3mDMYHxjiWU.search.14",
+    "salaryDesc": "8-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数学/统计相关专业",
+        "计算机相关专业",
+        "数据分析/挖掘经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "闵行区",
+    "businessDistrict": "虹桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 14,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.312829,
+        "latitude": 31.212309
+    },
+    "encryptBrandId": "3ba90581b8818e0f1HBy0ti7GFs~",
+    "brandName": "摩帆科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240516/7bf6f160950405e961bd4683f74d3d486ebea278a27211e259280e1e4cc756d1bb31a4074b414961.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "物联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100030,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250701/607f1f3d68754fd0303138f8483b6916200b7709bf096c930c81b6d2b2ee516d19d35fbb746a5a41_s.png.webp",
+    "bossCert": 3,
+    "bossName": "王先生",
+    "bossOnline": true,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "上海思芮",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e2658942d38bb9d70HRz2dW6FlBX",
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "encryptJobId": "aa3b4d6d6f21444a03F62tS9GFtW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.266791,
+        "longitude": 120.742447
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 17,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "实施工程师（c#）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7SOtlIydgZC.search.17",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "-to5F6OvhLIwK-j1vWGzzW2x3yFF4rEdIm_KIzqvVfvQrj8hVph8LSdXQnDJYIdXhK6akKmxT7UJjf_mK_1wRtZxp83GEDmU88dmvX-tKqhZiO4eN7Hw0pJZCvANIz47sXS3wCNbpIThDpcyHuUD49GShWQ9bJraq1mhd9ppHfFxo1U4",
+    "showTopPosition": false,
+    "skills": [
+        "HIS",
+        "c#"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

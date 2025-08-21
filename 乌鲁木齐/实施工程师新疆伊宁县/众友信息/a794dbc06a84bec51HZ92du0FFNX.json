@@ -1,0 +1,60 @@
+{
+    "securityId": "_6iSqHywgjPGW-s1D_kJQE7tS6kBrkREmOoKtixURK8KNHUSXztVHrlXBALHP17ENTKUvpvr9tW40ZkojYprtOS6c_ZMwCS2XHg2FlHcz0XK-NIQyo07",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231206/607f1f3d68754fd0c4ad948aa7bb4b1293eb093b536a5ea03de51bf3008dd98ed28484ae7c2f1fdb_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "dd7808ef22e56b700XZy3dm4E1FX",
+    "bossName": "史女士",
+    "bossTitle": "招聘主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a794dbc06a84bec51HZ92du0FFNX",
+    "expectId": 0,
+    "jobName": "实施工程师（新疆伊宁县）",
+    "lid": "2BV6STxav7y.search.177",
+    "salaryDesc": "6-8K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "可适应出差",
+        "软件实施经验",
+        "计算机相关专业"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "乌鲁木齐",
+    "areaDistrict": "沙依巴克区",
+    "businessDistrict": "克拉玛依东路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 177,
+    "city": 101130100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 87.555062,
+        "latitude": 43.816427
+    },
+    "encryptBrandId": "e34dd966001c85461nB93N28FFQ~",
+    "brandName": "众友信息",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

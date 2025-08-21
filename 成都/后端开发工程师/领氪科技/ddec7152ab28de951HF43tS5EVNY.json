@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+    "bossCert": 3,
+    "bossName": "冯先生",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200720/1e51e18b31f6286f7459c87ae40dceb370ab899729e7822799432971fb3e5b12_s.jpg",
+    "brandName": "领氪科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "中和",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7cf0b6466acba2640Xdz09-5EFJZ",
+    "encryptBrandId": "53e01fee0f0fa6993nRz3Nu6EA~~",
+    "encryptJobId": "ddec7152ab28de951HF43tS5EVNY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.568744,
+        "longitude": 104.063403
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 24,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "后端开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2ftQ6DedWO5.search.24",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "7nUrzLGo2J5bN-V1uxV_JXtl0fZcN1uY4_Y_e9mHfhNNhI1a_0w2ck_uFLQDgTEprJI8E9AZrzvcSvmV_c857VRMtIq8Q63-eTAOm1GeHNGdrkXYw4J9nBgae6oMdyyPs0mO67SvzUvgYw~~",
+    "showTopPosition": false,
+    "skills": [
+        "PHP",
+        "Python",
+        "Golang"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "kVQLkNj50rVRf-x1DDji-5M7FoMYLYIjXG-eCzkqDmrVqFmz4QV9wb3mFr51jSiadJq3-9P3ueYsUWu-zijQeQUqW6nIV6f9yvQXMiV0r4u7Ki53EEevFig8tO6rW-AYgw7I5OgrCeadIEn9H8JwgY6OLMLlrKckcrk_ltAdJCc7JyF2Iw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240625/607f1f3d68754fd085a9feb3843474722649a0a7ac473d4bd5b7dbb89cb0344281068068db028d66_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "d35cb5f57d288ceb1nZy0tm7EFI~",
+    "bossName": "林先生",
+    "bossTitle": "人才经纪人",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "5b7cc89acd5933ea1HNz3d60F1VR",
+    "expectId": 1030426395,
+    "jobName": "Java（docker容器）",
+    "lid": "1qV88SQYZST.search.173",
+    "salaryDesc": "11-20K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "docker"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "西城区",
+    "businessDistrict": "德胜门",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        2
+    ],
+    "itemId": 173,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": null,
+    "encryptBrandId": "8f4401cc3bd605211XBz3dy0GVY~",
+    "brandName": "科蓝",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230209/7b5b554d84f9729cb1348e86a8fe764c6faf85012b7704510f5b7841e833c5dc214a0aa6d56122d5.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "广告营销",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "底薪加提成",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100004,
+    "contact": false,
+    "showTopPosition": false
+}

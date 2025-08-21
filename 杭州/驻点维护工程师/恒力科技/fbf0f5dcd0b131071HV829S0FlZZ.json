@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "拱墅区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img2.bosszhipin.com/mcs/useravatar/20160303/ebfd3e47c16a856933987f05505017c0c179720e2c563f510c365fcde6f8969f_s.jpg",
+    "bossCert": 3,
+    "bossName": "王建胜",
+    "bossOnline": false,
+    "bossTitle": "企业经理",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220211/7b5b554d84f9729cd1c7cd75f8a66a2ed958d25a958e6389808cbd405a792dc4a358352e2ebec4b6.png",
+    "brandName": "恒力科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "万达广场",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e457add407e84bcd0XZ629i-EA~~",
+    "encryptBrandId": "6df3ea705a21c0161nV72dm-FFQ~",
+    "encryptJobId": "fbf0f5dcd0b131071HV829S0FlZZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.336177,
+        "longitude": 120.109542
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 70,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "驻点维护工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9aUIj7UyLBI.search.70",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "SPFLSnMP-6jr4-K124qlpFPLFwHRSVZQwklUnbLwVPlzEwT8UU0DmTNRxC_hKtHbRn0zmi0xqNeY1Jq_tOR3rEA7rRNBNmAzze9kxq2oyZF82GL6jeaOkAgSHfSosW9Khx1YF8Zq_OP-",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维"
+    ],
+    "welfareList": [
+        "年终奖",
+        "员工旅游",
+        "餐补"
+    ]
+}

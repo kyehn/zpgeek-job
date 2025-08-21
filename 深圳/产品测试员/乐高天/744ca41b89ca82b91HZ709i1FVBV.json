@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宝安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231116/607f1f3d68754fd01cecb6269fc9b2f3937e75b33654cccc89bb255c77dea43ca56f00632e9f5c86_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "郭先生",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "社交网络与媒体",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "乐高天",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "沙井",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c2842bb60e7f9b210HJ92du6FlE~",
+    "encryptBrandId": "a8f2a9476dd4a0f133R53ti8",
+    "encryptJobId": "744ca41b89ca82b91HZ709i1FVBV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.709045,
+        "longitude": 113.788105
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100003,
+    "isShield": 0,
+    "itemId": 63,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "产品测试员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5wETGHu5QRU.search.63",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-7K",
+    "securityId": "8jfFtsW4xQGE9-W121xVBj93A9SYtabK2vt7iIJ0_32fBGxzFjyQ9SsMTKJwX_ERRPLYt0L3zI7byrN_QSswBhXSBPXHndGKJZRny6tST-lUnmO2USONQ6qEFT1g-GCgzJERg-pIKcU~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试经验",
+        "测试工作经验",
+        "掌握软件测试理论和流程"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "vOxbVH9qbDVNc-A1yaRrK-61qV72yX2F6H_o9ydjLx_rLx1McxYJMz18_k1Or2tBJVg6DyzmhlwaGE845zjhZREQ9i1bl00equJJ_6tGLF5ptDety1ddcn09R8m2zC0LReZxa9sFfdTTSg~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "5de8a36a228c11f70nF83tu-GFA~",
+    "bossName": "孙超",
+    "bossTitle": "hr",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c9fd4c04b01d500a1XB72dm9FVNT",
+    "expectId": 1014042683,
+    "jobName": "数据挖掘",
+    "lid": "3nzlZTWaozl.search.6",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "大数据处理经验",
+        "机器学习经验"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "济南",
+    "areaDistrict": "章丘区",
+    "businessDistrict": "章丘",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 6,
+    "city": 101120100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 117.485559,
+        "latitude": 36.666386
+    },
+    "encryptBrandId": "458e6495d258222a1nx72N64GFQ~",
+    "brandName": "辰全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210705/9b4b6210235e7a90d32dd46ac4908cb803b2d215ba7f1ce83daa19855fa988e8.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "餐补",
+        "住房补贴"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

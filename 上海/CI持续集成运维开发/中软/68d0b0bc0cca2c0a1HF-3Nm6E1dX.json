@@ -1,0 +1,61 @@
+{
+    "securityId": "jPOvN72rktB9w-j18XqnL6eP-TbS3a6S85top2ppb_c16C1utjInaA098AmDaM6olWBUITq22eHJZ2vSwo905tZESYcCKenZNaFPVNOpznJgosOnW_bGue7Ee1UasOSik07lE8-nrgWCjVzvmYA~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210128/76219f8dc8b080b6f71027821dd45bb71c9d3a84d3bc1fb3822486f7bb32cfcf_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "c521dd9c63b161621nZ-2NW-FVo~",
+    "bossName": "李女士",
+    "bossTitle": "招聘主管",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "68d0b0bc0cca2c0a1HF-3Nm6E1dX",
+    "expectId": 0,
+    "jobName": "CI持续集成/运维开发",
+    "lid": "17VeBbuWvJL.search.177",
+    "salaryDesc": "9-14K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "运维开发经验",
+        "python",
+        "持续集成"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "金桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 177,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.626803,
+        "latitude": 31.256862
+    },
+    "encryptBrandId": "d985b196b4cdda1c1HB90t0~",
+    "brandName": "中软",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/34790.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

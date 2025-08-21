@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210428/e32fae2189d5429bf8efede6695dfb9d5fbd6908203abbc8add0d9d8858a20bf_s.jpg",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "人资专员",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201231/7e96f6e1e23e34a70ce650a4a9bc9668943587bb29b320f787e42a83c172f8e1_s.jpg",
+    "brandName": "国瑞能源",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "西溪",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e18571162c8ccbbc031z0tq6FFI~",
+    "encryptBrandId": "24e10f67d4eace553nJ709y0Ew~~",
+    "encryptJobId": "04d8f383be4b65e303Vz3dm-FVdU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.268725,
+        "longitude": 120.137136
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 53,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9aZcmxEpsfA.search.53",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K·13薪",
+    "securityId": "TQDkpNcbAnnbq-b1g6l6rrlnJRFGQtrwq90Z2ySSs87_wRZQZXobiySClpmaEW5mPZsWevvA1Sk_Z5Bule4jaAk8iU5A1E_r2g_SXr0UiW7wmmFcfZ6D5t_g64fqvNXBctF-5y60lN1l",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "餐补"
+    ]
+}

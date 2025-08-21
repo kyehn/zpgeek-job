@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昆山市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220706/607f1f3d68754fd0db4165378b593f0c4f4f429ccccc4575cc363d0107f2d07bbff0bffc2c69a69a_s.jpg",
+    "bossCert": 3,
+    "bossName": "吴女士",
+    "bossOnline": false,
+    "bossTitle": "资深招募专员",
+    "brandIndustry": "电子/硬件开发",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190124/5d39843e31fd5bf0cf743e0dc845c35ecfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "昆山厚声",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "前进东路",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "25ece8d27b52baac0nB92t-0GVVV",
+    "encryptBrandId": "4f3118cc5c598f691HR82d-9FA~~",
+    "encryptJobId": "8b9ab6d2b3cb52491HJ70t25EFZX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.388955,
+        "longitude": 121.071963
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101406,
+    "isShield": 0,
+    "itemId": 90,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "sap实习生",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8taB6dWTtHo.search.90",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K·13薪",
+    "securityId": "fJh5D83pw8kmM-61QcA4UtIk-7V9ckvndB809iqQHEoPyHx_Mrw5407iyxXkAV_AX8JXmVaVkMlN1s2Ahi7u2S-IFi01mLTa9D0AfE_QDf3ZKXoxcXmpK8tRyv1yCnOC6sAfzZh_mqxEpg~~",
+    "showTopPosition": false,
+    "skills": [
+        "ERP",
+        "CRM",
+        "SAP",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

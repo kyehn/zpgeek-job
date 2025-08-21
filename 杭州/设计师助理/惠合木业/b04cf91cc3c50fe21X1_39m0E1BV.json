@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "临平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220823/607f1f3d68754fd0547e5dfe101479de5a7842ca9701717cd84ea22fa60ca7990515ce3c9d6af2e2_s.jpg",
+    "bossCert": 3,
+    "bossName": "冯月萍",
+    "bossOnline": true,
+    "bossTitle": "人事行政",
+    "brandIndustry": "家具/家居",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210413/922469a0f7818a599f4a9cf34f5485c2dd09d92bacecdce7d6ddb8ca983820bc.png",
+    "brandName": "惠合木业",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "临平",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8a4164ccbd4a7b110nF50t29GVJS",
+    "encryptBrandId": "17c1bee4cf2215051HJ82dq8GQ~~",
+    "encryptJobId": "b04cf91cc3c50fe21X1_39m0E1BV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.430482,
+        "longitude": 120.241942
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101009,
+    "isShield": 0,
+    "itemId": 35,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "设计师助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "63oyZN3u8Gl.search.35",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "DZcePg6TiMHid-o15ZLJjDYpwnbhYg92cfYKBwqKV-BOloTcBczGBYrtifr0dIgSA7ebGz_pmLHpRGHD2tT8yCx79Hili_u24y-uOTus3TV5FYFLOsOyrBQ3MG6vv-5FyL0euJMXhP7MHtt9GPx2LSimfnOA7qJUoPJQMPbTm7b3SHg9BA~~",
+    "showTopPosition": false,
+    "skills": [
+        "不接受居家办公",
+        "家居/家具设计"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ]
+}

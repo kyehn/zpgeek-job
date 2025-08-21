@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "杨浦区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "李翌",
+    "bossOnline": false,
+    "bossTitle": "副总经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "上海顺翼",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "四平路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0dd83defd5da5c841X1_3dW4E1s~",
+    "encryptBrandId": "62a944f839cba3e533Zy3t-6",
+    "encryptJobId": "296b4b3a6cd485f01n1_3ty7FFs~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.28019,
+        "longitude": 121.4995
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 90,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "数据采集",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7HDo9l2N4SP.search.90",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "Qaoykk84mrkZ6-c1EeX5UwkKIHfM3SV6N91l_7slRXppYJty5pOn1_LLq4ra9qvKrFxs-Kl507vWDVonKup404D31H-KY5zmzlVsRBrE8QqI9fZOZwUT1X46kkQXowNShZIJxQJyPg~~",
+    "showTopPosition": false,
+    "skills": [
+        "数据传输",
+        "网络爬虫",
+        "Python"
+    ],
+    "welfareList": [
+        "保底工资",
+        "五险一金"
+    ]
+}

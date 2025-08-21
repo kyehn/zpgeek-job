@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "赵播",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210820/7bf6f160950405e9f5d060b82aba03f76118d5be68cc1c38bcd3258420c24ba8122ca2cb4904e1d8.jpg",
+    "brandName": "瀚瑞德公司",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "27cb48814febbc1b0XN_2dW9EFdU",
+    "encryptBrandId": "973660f7d497729a1nxy0ty0EA~~",
+    "encryptJobId": "187f1c3e4ce098d41Hx_39m5FFZS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.087488,
+        "longitude": 116.200016
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 82,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "运维值班员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4KoEd7YBKlP.search.82",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "NiwGEp7ESFD2r-V1bXNpTcqTYo00u6oxZ9hiNrzDs8EfVpgkr2rQ0mTDyivTD9x_RD-iN3V5r3GS0dlxlgteh8LO2w0xb0zPc7p7qdMTDVFcAbWr6tb7sLN2_q4_XasqXtebR_0yRJPAcA~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维",
+        "电子/电气/自动化相关专业",
+        "运维经验",
+        "IDC机房运维"
+    ],
+    "welfareList": [
+        "餐补"
+    ]
+}

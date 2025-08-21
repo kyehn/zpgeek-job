@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180418/1df9431a8669dc4d95a9f7e37cb9c4fccfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "bossName": "吴婷婷",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180418/0b691c15dce9ef42fd6aad7f68d11421cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "全拓",
+    "brandScaleName": "20-99人",
+    "brandStageName": "B轮",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "735c30ec5a83a3571HN82du7EFE~",
+    "encryptBrandId": "5963fe552799f6441nJ-2ty4GQ~~",
+    "encryptJobId": "2127e3f9749ba7e41XV739-8E1tS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.349827,
+        "longitude": 120.190701
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 246,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "前端开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2C28LzgfIFD.search.246",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "Cj-GWFiOHUJ5g-v1divnlMIpxeyaH71R2fDQP_U4fmb3gtt2u2izN7_PipGGdl6rmQbAJN0HJqqKjhHVLbk4y2jdPEVQDwQmOBHZw2uwBukA9lwsCOaGNKogQ3AswYfNRwXtCLfoWrTm",
+    "showTopPosition": false,
+    "skills": [
+        "HTML",
+        "MVC开发"
+    ],
+    "welfareList": [
+        "五险一金",
+        "员工旅游",
+        "节日福利"
+    ]
+}

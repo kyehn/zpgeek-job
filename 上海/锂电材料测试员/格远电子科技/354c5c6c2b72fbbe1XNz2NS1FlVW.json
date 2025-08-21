@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250413/607f1f3d68754fd0d61637949132d184f00f50f99b71214f800411e432823ca5357ab2421a0cc5aa_s.png.webp",
+    "bossCert": 3,
+    "bossName": "方玮",
+    "bossOnline": false,
+    "bossTitle": "人事部副部长",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "格远电子科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "迪士尼",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ff14a16dd81f7b420nV93du8ElZS",
+    "encryptBrandId": "606b5ff084c621ad0XRz2NS0GA~~",
+    "encryptJobId": "354c5c6c2b72fbbe1XNz2NS1FlVW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.028622,
+        "longitude": 121.699962
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100902,
+    "isShield": 0,
+    "itemId": 23,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "锂电材料测试员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2AdYei9zFxC.search.23",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-9K",
+    "securityId": "EKj1RYpyBdBnH-W1CtWOTb4YlvP_WlryKUTGgO_osp0lAXeBLM6tTKGl4PMfJvndfMP26C6Tm4M7eovLpsQ_s_6W6GgmdqkWN8_H91pW_sWKl0aFDjdPqlNSYPyVsuhFAVulnWStOxlU-w~~",
+    "showTopPosition": false,
+    "skills": [
+        "电池，材料测试"
+    ],
+    "welfareList": [
+        "包吃",
+        "员工旅游",
+        "带薪年假",
+        "五险一金"
+    ]
+}

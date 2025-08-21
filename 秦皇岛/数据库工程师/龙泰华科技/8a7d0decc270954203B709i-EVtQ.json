@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海港区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190918/eb470355d8f4e8016d26627a10589820f72b3dfccbff464c56744e38ad2987d9.jpg",
+    "brandName": "龙泰华科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "红旗路",
+    "city": 101091100,
+    "cityName": "秦皇岛",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3c40752d3e1c87ee0Hdz2d6-EFI~",
+    "encryptBrandId": "c9b0e947bae2cdc60nF_09i0Eg~~",
+    "encryptJobId": "8a7d0decc270954203B709i-EVtQ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.941321,
+        "longitude": 119.582918
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100902,
+    "isShield": 0,
+    "itemId": 15,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "数据库工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8G1P9LVbr1J.search.15",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "R03DsKFiGh0A3-X1XHPImhn8OKZleXB9dGYzIBbnVIwuw1Pjm06DkUxsmFszxE-ZXZr3ZSuhKrRUVfewRRp1eAMaByHk_U5cV7O1WvC7ySE8FSPC8Q~~",
+    "showTopPosition": false,
+    "skills": [
+        "接受无数据开发经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "节日福利",
+        "定期体检",
+        "加班补助"
+    ]
+}

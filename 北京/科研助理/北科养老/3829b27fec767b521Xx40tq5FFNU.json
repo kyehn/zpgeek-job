@@ -1,0 +1,62 @@
+{
+    "securityId": "Hui9fVj7pZn40-O1iCd8xTcvjLEpbJzCKDv5dDMrSNV0OXkLU5Zx2Jknpr6-l0tvoLWCDZb36K8Y_Jppvqe8jLw5WfFj5Hny3OY_Ntr26hus0eYV",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200116/285a09dcd09c21c00225456d3a329bc1d42d95881c97d2d651bb2d504669e31f_s.png",
+    "bossCert": 3,
+    "encryptBossId": "403b04b17b92f8080HZ43N-5EFA~",
+    "bossName": "辛女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3829b27fec767b521Xx40tq5FFNU",
+    "expectId": 0,
+    "jobName": "科研助理",
+    "lid": "3vsgtf29iiX.search.272",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "实习生"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "西城区",
+    "businessDistrict": "西直门",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 272,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.356185,
+        "latitude": 39.93555
+    },
+    "encryptBrandId": "b6b4a5ee29e4a16903F72NS5",
+    "brandName": "北科养老",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220831/7bf6f160950405e95739d007dec55ed6b34a58d7b4339efd6b5610c4892e085837d86e2daad4744e.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "医疗健康",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "生日福利",
+        "五险一金",
+        "节日福利",
+        "带薪年假",
+        "餐补"
+    ],
+    "industry": 100006,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "AczFUGzj58fYs-419z0dlq86THg66MYPj-AZnFOajfQmqf5YCUUTWA2Hq_nL27bPniRXGI4I2W4aR6xhds1WMAmewNDSl3m9m7Ilz7JMcaAO58WayEQ~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240222/607f1f3d68754fd0eabe702417935f22f9a9fb88951013d2553dfb07d5c4328ada90f3f06c99ecfd_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "6d522d7d345d8d4f1HB63Ni_Flc~",
+    "bossName": "吴女士",
+    "bossTitle": "服装设计师",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f2c25a4e81d6fb7a1nZy2dW6EFRS",
+    "expectId": 0,
+    "jobName": "主播",
+    "lid": "3pZfrtkwdSl.search.247",
+    "salaryDesc": "5-10K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "服装主播"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "硚口区",
+    "businessDistrict": "汉正街",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 247,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.278868,
+        "latitude": 30.572881
+    },
+    "encryptBrandId": "0d4e08f75e52d2071nR839q5EVs~",
+    "brandName": "武汉虎狼服饰有限...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230418/7b5b554d84f9729c34999d3a552e87be954109453c90db20dc4b7771514ebf1578b6af3c5950404f.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "服装/纺织",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "工龄奖",
+        "餐补",
+        "绩效奖金",
+        "底薪加提成"
+    ],
+    "industry": 101003,
+    "contact": false,
+    "showTopPosition": false
+}

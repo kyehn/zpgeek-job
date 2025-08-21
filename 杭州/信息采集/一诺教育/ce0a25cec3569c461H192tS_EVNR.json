@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "高俊",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "一诺教育",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "西溪",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3ebe43ca13a918b70nZ429S8F1ZU",
+    "encryptBrandId": "dd1b84885172af1f1nd83ty6FlA~",
+    "encryptJobId": "ce0a25cec3569c461H192tS_EVNR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.275405,
+        "longitude": 120.127984
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 57,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "信息采集",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7Hu5tQ8VQAz.search.57",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "TOpyIRN85GJJl-K1EgzUwWg-pveJvbXFyJ57U4o6Ls1HvJplTgO31VLCqsfqRCzbjag0gU7peIfmW3DLfu4Qd5af3hM6PmwV9Uc7mIZFqDDkzn51uW1hyuKii453h9N5HJ1A7k55KY588-0~",
+    "showTopPosition": false,
+    "skills": [
+        "数据"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

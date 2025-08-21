@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江夏区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+    "bossCert": 3,
+    "bossName": "袁聪",
+    "bossOnline": false,
+    "bossTitle": "数据部经理",
+    "brandIndustry": "咨询",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190219/5cc19c31dee9562fc51a147466976bcb222bfb3c148fbd7ed2c095792c10ceef.png",
+    "brandName": "湖北英奥资讯有限...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "光谷",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e45fba885fd4217e0nNy39i0FVVX",
+    "encryptBrandId": "01dde999bfd8ca851HZ-2dm6Ew~~",
+    "encryptJobId": "d713d8e408d3a21f1Xx439u7GVJV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.491194,
+        "longitude": 114.430024
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100601,
+    "isShield": 0,
+    "itemId": 20,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "数据处理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3Q233KHr9aK.search.20",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "p8y7YmttyuwFh-e13vA4VRQmxQa-IqrLxgh31meil_rXgSA4V2EzAo5EI4CBTvnLYr09AQ92k3wbV0A0VX3hONIUkMP7oGGAHMbAP5aiJZ2epuzHAyCZ1N5mux8NwWhJWRLaItxgsgTT3A~~",
+    "showTopPosition": false,
+    "skills": [
+        "SQL",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "餐补"
+    ]
+}

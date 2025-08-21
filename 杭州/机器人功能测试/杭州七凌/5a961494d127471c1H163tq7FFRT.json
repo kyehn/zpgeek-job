@@ -1,0 +1,59 @@
+{
+    "securityId": "eNNb9cPXiXSXc-i1rFFEYHqi78-wpNkGu8x4jgOl94rlt1VKCXHfinM5OfOwJpLj8zKKFhRVxxvEUVhf4eQqnXZQvUFpKODM3n6k0AjFnZnu7EMJIaYC2r6AvqtpSEAVUZ51cFueYvryJw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230720/607f1f3d68754fd0d590f075999812e21e684bf340937cd5eb74e210729bb78564dc92e454eb047b_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "03d8f6a47dc65d1b031z3t65F1A~",
+    "bossName": "李女士",
+    "bossTitle": "人事专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "5a961494d127471c1H163tq7FFRT",
+    "expectId": 1014042683,
+    "jobName": "机器人功能测试",
+    "lid": "2Al1BHOkb2x.search.1",
+    "salaryDesc": "8-9K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "功能测试经验"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "滨江区",
+    "businessDistrict": "长河",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 1,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.190941,
+        "latitude": 30.18635
+    },
+    "encryptBrandId": "aa23359c2fa1edbf1nFy2Ny0EVo~",
+    "brandName": "杭州七凌",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210803/46d39d412614f3688fcd1da74696605dc572b45e47fc5613c59c5a5de380bf2a.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

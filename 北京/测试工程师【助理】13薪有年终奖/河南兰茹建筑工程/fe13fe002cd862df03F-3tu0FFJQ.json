@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "张艺",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "土木工程",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250602/7bf6f160950405e952ce1c300efe08572f615e0a28dcdedf0f7f9f5e862607ae85dc4a70435f01a9.png.webp",
+    "brandName": "河南兰茹建筑工程",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4d50e07284e9c85e0HV_39m5GVVT",
+    "encryptBrandId": "8a6b48932440aa9603Vy29y6ElU~",
+    "encryptJobId": "fe13fe002cd862df03F-3tu0FFJQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.915044,
+        "longitude": 116.657902
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100709,
+    "isShield": 0,
+    "itemId": 5,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "测试工程师【助理】13薪有年终奖",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cNnNcR1MCH.search.5",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-12K·13薪",
+    "securityId": "Pu5XYsRmN4udv-61knG5rbCP4AkTmWmURCXeRade5P4ZHz_XciYVPYVxT__koO51GvxCsqBqTG0CXbjLSEozCMEtF36E2yXdJLn4Y_p4DlI9HSaTQduwD9L1jNWLVGaN4cUjoMIY6WNfdM4w7Lme9-iS3vaNKujbqa_xAdpOnI21PjNTKzE~",
+    "showTopPosition": false,
+    "skills": [
+        "入职五险一金"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+    ]
+}

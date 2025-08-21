@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180424/808cfb95bd8d6b172e59d7ffecc2cb4b2d9943cf925acb8a8791a526455a1968_s.jpg",
+    "bossCert": 3,
+    "bossName": "蒋先生",
+    "bossOnline": true,
+    "bossTitle": "行政人事",
+    "brandIndustry": "家具/家居",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180425/30657235401e0a000d4b74ed88bb75022d9943cf925acb8a8791a526455a1968.jpg",
+    "brandName": "上海朴诚家具",
+    "brandScaleName": "100-499人",
+    "brandStageName": "C轮",
+    "businessDistrict": "浦江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "814e613fa0589b751Hd92Ni5EVs~",
+    "encryptBrandId": "438ee264e0fbbeb21nx70tS5Fg~~",
+    "encryptJobId": "58495469030042721XV62d20F1JZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.085181,
+        "longitude": 121.522855
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101009,
+    "isShield": 0,
+    "itemId": 74,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "外贸业务员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8ebcxALbo7V.search.74",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "3HWCclNBhVM73-h1k3Jv3Iosecv_4fN2hxAL2rktbxj3w562oo7G3zBB_LMgWbFtV8trXpZDBDDg8pO2SpJjGQOe50YdAieUP2k4Y6SvFcSn2eXL61nhNXIzPw1gfq3SMPFIlrsTTdVTlWhAUJ6-8B1h82-PS6In47MvcCpbRSXnkdHS",
+    "showTopPosition": false,
+    "skills": [
+        "个人客户",
+        "企业客户",
+        "直销",
+        "渠道销售"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

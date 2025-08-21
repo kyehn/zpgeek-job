@@ -1,0 +1,63 @@
+{
+    "securityId": "dS-GUPiUN60b3-Q157MynLfhDMsSqC6sRwoAFHxe55AyGFjgDXQb9Pk8JuDmXJqLWkObglIVcZSZ41dGqagPonyQSGhwyAYltso2HwiJnQwdWzrimsLJ",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240924/607f1f3d68754fd0e11f4af8c51b5d6f0efedd44d97557ac44f2be4695b07afc3b544325d74047e3_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "1e210c87c65a6a510nd-2t-6EltX",
+    "bossName": "付先生",
+    "bossTitle": "基金经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "cad163a7c5940b371nNz2NS4FVVW",
+    "expectId": 0,
+    "jobName": "证券分析师",
+    "lid": "5IEcaVNuw3U.search.276",
+    "salaryDesc": "9-12K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "基金从业资格证"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "成都",
+    "areaDistrict": "武侯区",
+    "businessDistrict": "新会展中心",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 276,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.064978,
+        "latitude": 30.55528
+    },
+    "encryptBrandId": "deb4178815ff811e1nN50tW1GFE~",
+    "brandName": "进化(海南)私募...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210821/7b5b554d84f9729c214ede6e447a24843dd6e86b49a5d40444f2be4695b07afc3b544325d74047e3.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "证券/期货",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "员工旅游",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "零食下午茶",
+        "五险一金"
+    ],
+    "industry": 100203,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦口区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "汪铖",
+    "bossOnline": false,
+    "bossTitle": "技术总监",
+    "brandIndustry": "交通/运输",
+    "brandLogo": "https://c-res.zhipin.com/jrs/4902e8d2e903ab7d3f0ceb4decdd22f2.jpg",
+    "brandName": "南京兴鼎升",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "江浦",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a322dfa7db0672430nV62dq4E1tR",
+    "encryptBrandId": "ec56afdf5114bdfd1nd409q-EFE~",
+    "encryptJobId": "73a0f8c5d0ff3f0c1nV_2dy5EVFQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 32.078653,
+        "longitude": 118.666258
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100501,
+    "isShield": 0,
+    "itemId": 89,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "应用软件开发工程师（Qt方向）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "27dfO07FGBK.search.89",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K·13薪",
+    "securityId": "lMiiSIhGO4rAN-f1fEPl6Q58BtDrej0kfQrEYQXJDIWDNb143GeEzBpj8B5a09XhXzywoIWcM9sCQ2-xAxlj9La9ZRkxK3_8nM_rLZysLswBeAO59n-sYv49KyQh4zo8x6ZEP6X4FJj-5eg~",
+    "showTopPosition": false,
+    "skills": [
+        "C++"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "全勤奖"
+    ]
+}

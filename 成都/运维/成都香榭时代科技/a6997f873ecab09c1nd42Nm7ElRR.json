@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "成华区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200819/c59e07c5004af9ba933381715edbfabb8abac0f19061e459c5422d2d308f28dd_s.jpg",
+    "bossCert": 3,
+    "bossName": "刘建英",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "计算机硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "成都香榭时代科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "龙湖三千集",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d1577f26c21e72bf1nZ43d64GVNZ",
+    "encryptBrandId": "e782c9f9b91bda9d1nV42NS8ElM~",
+    "encryptJobId": "a6997f873ecab09c1nd42Nm7ElRR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.674992,
+        "longitude": 104.109616
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100022,
+    "isShield": 0,
+    "itemId": 51,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7NJWOJ7zBnQ.search.51",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "u20CVyiqt9krT-G1PhFcZxNSURLP81nhq_YDC6cUcXEf0DUkMtSMfH0bEXwQc3rCrSBd4m4ylBhepfcIWs1N4HKiC6qzJQqzSVPa2We59XbAV8IXtJ_KgOy_3jEjqvxhVHFsifzeelHzDO0~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "安全运维",
+        "桌面运维"
+    ],
+    "welfareList": [
+        "定期体检",
+        "加班补助"
+    ]
+}

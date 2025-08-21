@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙岗区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220216/607f1f3d68754fd0a9575a591de45265fb1f582406e49b9feae66cdf685a93eea532d3f5d09870c3_s.jpg",
+    "bossCert": 3,
+    "bossName": "张永水",
+    "bossOnline": false,
+    "bossTitle": "管理部经理",
+    "brandIndustry": "移动互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201010/d869ea074f14b6085abe8e00bc03a8f6eae66cdf685a93eea532d3f5d09870c3.jpg",
+    "brandName": "煜森传媒",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "横岗",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "baef935175c3386003Z83ty5FlY~",
+    "encryptBrandId": "9e108d86e3d6c0d51Xd43924Fg~~",
+    "encryptJobId": "0a1aba78c955ad1a1X1509W9Els~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.64583,
+        "longitude": 114.2085
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100019,
+    "isShield": 0,
+    "itemId": 36,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "PHP程序员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cYTEHgH7WA.search.36",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "UJHvCEkzfu1n3-X1wJA-jz5HJJfjOLZZbkHBgX_ovFQNq-eu5U9YgHquoLqTFHuFAVRgyGvmq726ydI_1rkYUnEPrta29wpl-QqkmjAFhZiOedN94a-cBUTR7wLmCim3w9ReFVQ5SvI~",
+    "showTopPosition": false,
+    "skills": [
+        "后端开发",
+        "PHP",
+        "数据库"
+    ],
+    "welfareList": [
+        "五险一金",
+        "全勤奖"
+    ]
+}

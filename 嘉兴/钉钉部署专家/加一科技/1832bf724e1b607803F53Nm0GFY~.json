@@ -1,0 +1,59 @@
+{
+    "securityId": "QzIBCA8A636i3-_1O9L-SIccPCI79iIxgTf1fOHT4mhNyRtFZKr0DQ9taj37j5ZGQmjQAvzYQzPIubqdVgZP1OVczL_XaN8kQ-_2Z2Y1SXrr188-qwdCiaVhnBtiteYJamD2FjHPe9g~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "fd2fa568e2b8791e0XVy3Nu4FlI~",
+    "bossName": "计冬夏",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1832bf724e1b607803F53Nm0GFY~",
+    "expectId": 1030426395,
+    "jobName": "钉钉部署专家",
+    "lid": "2ZDBdXaIoB2.search.198",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "语言表达强"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "嘉兴",
+    "areaDistrict": "嘉善县",
+    "businessDistrict": "罗星",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 198,
+    "city": 101210300,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.875341,
+        "latitude": 30.822589
+    },
+    "encryptBrandId": "1050a4cc68ca59181nVz3NW9Fw~~",
+    "brandName": "加一科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180905/243b077b3bd37c4358f331ab85e10b66cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "B轮",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

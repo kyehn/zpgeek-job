@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/banner/20171031/84ade9701fd02a77fedb6675600a134f33d208e8d6fc287973c46e5cb5346f06.png",
+    "bossCert": 3,
+    "bossName": "乔女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "利丰智能",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101130200,
+    "cityName": "克拉玛依",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "06a1d5b20d7cdb821HZy2921GVA~",
+    "encryptBrandId": "c07f217af481a5780HN909q0EA~~",
+    "encryptJobId": "c11dbc49e6cd6a101HVz29W5F1FZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 44.328094,
+        "longitude": 84.88697
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 210,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1I8wLIpFQ2A.search.210",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "9D5WOMCEZLlZF-U1UHMVXPdiXJGUw1tfdgZJoh8Hu8qwuCosbCmpXVnOWkqWpWWs84cwUt8IiLuSEoJ8Kh35GdHaar291c_8GUGsIPurwNrngt0Bf5oYK31O3TIkkr4hHqpcdWezsZ3P",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维",
+        "桌面运维"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "节日福利"
+    ]
+}

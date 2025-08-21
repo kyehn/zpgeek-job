@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "芙蓉区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230713/607f1f3d68754fd03d72d516af9cfa86d87441b232ed5d524bcf7176cca497802c18f19eb61b1810_s.png.webp",
+    "bossCert": 3,
+    "bossName": "刘华君",
+    "bossOnline": false,
+    "bossTitle": "行政主管",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230717/7b5b554d84f9729ca8ede132add0467370f0920e9ef134624bcf7176cca497802c18f19eb61b1810.png",
+    "brandName": "湖南送悦科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "马王堆",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e2f103985ed338460XV639m9GFdS",
+    "encryptBrandId": "1addbd97e47f42c21XJ43Nu0GFU~",
+    "encryptJobId": "e010e07bcf10f9101HR-2NW8FVBS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.188491,
+        "longitude": 113.018649
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 75,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "中高级JAVA开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "24gxDyTwZS2.search.75",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "xX1j24wQfLYTQ-m1e9-BZFv_4K6IfBZsrQ95FPp9_lxXbcplHPhjggynMHedjjd5Df7aLoPW5M6Men1kJhb7i0ItnAHCOvd7qW0jUQOUlkqs_tLbskileH5d1Z7-qlvlC3Z2EXFpLmkk-lk~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "保底工资",
+        "绩效奖金"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "Fy5xWYQgKwgc--Y1XvtbadQHrhLzworM_eRNzAeLR6m0aEQrZLnT750-ErOue_A_ckOT2VXyE_HJjTv1Hmr_gKoJ_ZPfl6T_RMVFMZx9Hyp-CZpNZg~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190919/88eae80f563576c284681e5ba36ad4d16f48bcb121896f21c60ae54ae180cf91_sg.jpg",
+    "bossCert": 3,
+    "encryptBossId": "cf76243d77aa7d2a0HJ43t64GVM~",
+    "bossName": "杨先生",
+    "bossTitle": "部门经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "88149dcc7de8f72b1XV_2Ny6FFBY",
+    "expectId": 0,
+    "jobName": "Python",
+    "lid": "2DmaDFDjEc9.search.234",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "算法基础"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "信阳",
+    "areaDistrict": "平桥区",
+    "businessDistrict": "市政府",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 234,
+    "city": 101180600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.084585,
+        "latitude": 32.145132
+    },
+    "encryptBrandId": "9baa13c77ec9d0250n153Nm-GA~~",
+    "brandName": "禾马优创",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210528/0425128076e0ed5e3fc76a13ae6714d64f1826328ee0e95ea2d683a08271f71e.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "股票期权",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶",
+        "住宿"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "J05ux2Feu8QN7-B1zudgINcyNBfESdUqnHWlznHArFeLvVRe9D5y5fs87nUkaZXblH3sApME82rvWZqHu5NJTO5rR0YSYQwRafCRsdTgE_PRZUiIWop5HQyzfMKXGc97VSR3FfudpNdhQC8~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210519/57e79e963ec7819dca3344b273fb7c9d247f929f213bf5bac4d79d619d43d890_s.png",
+    "bossCert": 3,
+    "encryptBossId": "c4d7520d504386460nd42Nu-EVdT",
+    "bossName": "杨永钦",
+    "bossTitle": "技术总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "2eb707cb956c13871HJ80tW8EFVY",
+    "expectId": 1014042683,
+    "jobName": "中级Java开发工程师",
+    "lid": "2aWTObepmz1.search.24",
+    "salaryDesc": "8-12K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Redis",
+        "Spring",
+        "SQL"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "硚口区",
+    "businessDistrict": "汉正街",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 24,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.249097,
+        "latitude": 30.568647
+    },
+    "encryptBrandId": "587f480c976198d31HV539S-Elc~",
+    "brandName": "但莫科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "保底工资",
+        "五险一金",
+        "绩效奖金",
+        "定期体检"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

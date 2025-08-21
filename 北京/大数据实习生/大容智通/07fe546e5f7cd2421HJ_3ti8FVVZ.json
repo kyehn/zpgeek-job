@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "丰台区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "bossName": "赵航",
+    "bossOnline": false,
+    "bossTitle": "项目助理",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230423/7bf6f160950405e99b8149fb5eb7cff5cee7ea677180f4f62e9030d404de8080d49d20d0bf6da69e.jpg",
+    "brandName": "大容智通",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "六里桥",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4be212272c0e56d70nx43t20F1FU",
+    "encryptBrandId": "ff65de07f3c3acc41XF629S_Ew~~",
+    "encryptJobId": "07fe546e5f7cd2421HJ_3ti8FVVZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.866701,
+        "longitude": 116.322087
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 42,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "大数据实习生",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7M1Zd7IFT1t.search.42",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "2NBtCrnqxmYmG-91zsDB619FPII524NkDUXvK0bBvLD4nbaQPMtug-StcIIkmnpJ8V0nOYGxdb_E05un-pqC6OyPgEMqMD1JCfisavv47AZaxheYO4mMJ5xCgtOxjQ0Rvg3SgmZO0XBjtw~~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假"
+    ]
+}

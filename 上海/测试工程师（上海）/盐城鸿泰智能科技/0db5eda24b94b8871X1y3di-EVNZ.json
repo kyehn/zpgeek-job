@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231112/607f1f3d68754fd09406ece5d66cba5941001c76a792df6df22bec3052dad2b47b69a7bb20f3e2a2_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "郑女士",
+    "bossOnline": false,
+    "bossTitle": "行政",
+    "brandIndustry": "自动化设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230808/7b5b554d84f9729ce43622de34e52f3afba09bad02d28d35f22bec3052dad2b47b69a7bb20f3e2a2.jpg",
+    "brandName": "盐城鸿泰智能科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "颛桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e226986cd55c37580nd62Nq5GFVS",
+    "encryptBrandId": "03abb518dc8d60f11Xx729W4FlI~",
+    "encryptJobId": "0db5eda24b94b8871X1y3di-EVNZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.025626,
+        "longitude": 121.436882
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100914,
+    "isShield": 0,
+    "itemId": 237,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师（上海）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2TFpTgGv3YE.search.237",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "m6-qn6UoXCr6O-h1uKCg3zrnp7eR_7DCgWFHkJbH-CukJImhapPz1OgRcddQ9diSg_ddaoZHIOnL2MkVHbkhc8oXx75WrMFLDYQNxaRuhQM3-EMpnr2p4L_P8M10Dpj14C2niO8LPeAg1Vg~",
+    "showTopPosition": false,
+    "skills": [
+        "电池、储能、新能源",
+        "储能系统、技术服务"
+    ],
+    "welfareList": [
+        "包午饭",
+        "节日福利",
+        "有无线网"
+    ]
+}

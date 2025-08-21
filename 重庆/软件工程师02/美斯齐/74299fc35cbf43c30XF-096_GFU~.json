@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江北区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "田野",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "文化艺术/娱乐",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190924/009a5bd2d4c2fdb511c56e0742b3590fcca9c1efe879d454ffdfef537b27b6d4_s.jpg",
+    "brandName": "美斯齐",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "鸿恩寺",
+    "city": 101040100,
+    "cityName": "重庆",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8b0050758ea4ae990Hdy09m9EFY~",
+    "encryptBrandId": "464fd10decc35cc20nJ509W0FA~~",
+    "encryptJobId": "74299fc35cbf43c30XF-096_GFU~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 29.568917,
+        "longitude": 106.511637
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100104,
+    "isShield": 0,
+    "itemId": 61,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件工程师02",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6Sxtqtc7S5C.search.61",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "Ht9cpGa16Mid6-f1tM9-Z1RbZoa81hD3vtxWpEGYO_L_cg1vHwvUSRDQM9KKm1eSdNUUaishym9sKAXvsv9Ey1IRclB_iNvOr-H_hIqDcmeE_aBwsJraNw2toxrfJaxRrZE6pFRokg4~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "五险"
+    ]
+}

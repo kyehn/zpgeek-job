@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230814/607f1f3d68754fd00ff854ed5f72a09be67bc0a0ccb28f825979f10a88d8a4b7385b07118af3d5ef_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "卢女士",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "新能源",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "易动力电子科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101230700,
+    "cityName": "龙岩",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "bd7a115ff939d9ea1H1y0tm9E1c~",
+    "encryptBrandId": "f8b0a61f437c2d261nJ_0ti0FFo~",
+    "encryptJobId": "3c7e898f5095dcd71nJ83dm-FVNW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 24.958044,
+        "longitude": 116.882859
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101206,
+    "isShield": 0,
+    "itemId": 169,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5Cj2hjJpxCd.search.169",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "7anEYKKctHnlF-81oKNd-uRcjFRunXlAatvRNZ01o6JjLUyfNTdVDHV2kAEz0RfNaEEqfpBwTylkXHsvLbGqhZYUCC9GSbc7flVxPt5iL_fRvuEe54A05L1OVW1Xc7jnKDLrBv8FgO5ufw~~",
+    "showTopPosition": false,
+    "skills": [
+        "硬件测试"
+    ],
+    "welfareList": [
+        "餐补",
+        "带薪年假",
+        "免费班车",
+        "节日福利"
+    ]
+}

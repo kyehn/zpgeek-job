@@ -1,0 +1,63 @@
+{
+    "securityId": "akqnX04ZwoDFw-P1ZMsvcLm9RoMlLePS-FGr3dxuwb0v32hTqTJQi3rBedaALgIB0p3VqJLyuJER_0pBetk6ZNC8Smfskthf4-SHlaYWnJevbAmPiBRF1o9s8I54VYdKrcLUVeVHiKUBrFM~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210105/1f125c601ffa2e7e7a3f017d81e314fdc8a86f26420b985e42a9bd3d931e74e9_s.png",
+    "bossCert": 3,
+    "encryptBossId": "25f9ddd857c63ef80nV43t-4GVBQ",
+    "bossName": "张胜利",
+    "bossTitle": "执行总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "23d6dc014cacfcb41nVy2Nu5E1VQ",
+    "expectId": 1014042683,
+    "jobName": "金融大数据架构师",
+    "lid": "2bd9CvlOKF4.search.108",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "大数据"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "颐和园",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 108,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.267514,
+        "latitude": 40.008699
+    },
+    "encryptBrandId": "e6168a98628193441nd_3di8FVQ~",
+    "brandName": "众鼎博达",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "",
+    "brandIndustry": "医疗器械",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "加班补助",
+        "补充医疗保险",
+        "定期体检",
+        "五险一金",
+        "全勤奖"
+    ],
+    "industry": 100403,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220920/607f1f3d68754fd068beb2f1d8573d25ccbd6dad2d0419cd5afd2f6a1696606576ccd088dd60a493_s.jpg",
+    "bossCert": 3,
+    "bossName": "杨佳俊",
+    "bossOnline": false,
+    "bossTitle": "hr",
+    "brandIndustry": "装修装饰",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250613/7bf6f160950405e9185dd459ff594f373c5d9d2a548735e039eddf91d9ecf3b430828e0d92b17f21.png.webp",
+    "brandName": "必竟(成都)",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "浙大紫金港",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d4080416f77cde5a1Hd63Nu_EVo~",
+    "encryptBrandId": "6c75439c9d1c8abe1nNy3dS5GVc~",
+    "encryptJobId": "d4b13258346e60781XN42t-9GFdZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.313872,
+        "longitude": 120.096938
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100704,
+    "isShield": 0,
+    "itemId": 56,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "人事行政专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4xVvhT6H9eY.search.56",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "GC1TFtmoUtTo3-s1GtvperMXvOiobCEX9YKQYHtd_CLS9GZ4CpK5FYWnmCiPo6P3laPjO1SAfeGqTgMRwpXJa5zrWpnx17AZNBjPd7XawqK-Dbvbpl89N5vc2lSMDDqr9bId7IiYHcUUQw~~",
+    "showTopPosition": false,
+    "skills": [
+        "招聘与配置",
+        "人力/财务/行政/法务"
+    ],
+    "welfareList": [
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+    ]
+}

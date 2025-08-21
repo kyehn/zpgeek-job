@@ -1,0 +1,63 @@
+{
+    "securityId": "lR1AMx-PPHuoM-L1Ohv-Nsrq4kO9divMLfrTb_LfL9rnqA2RTgxxMnB6uxn97fAq2k_qBTgvW_O4-rj8HJhG9OcvwNlXBqqH88we8HsGQ5Lt",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_11.png",
+    "bossCert": 3,
+    "encryptBossId": "3672ddb83e5b540e1XFz2ti8",
+    "bossName": "李女士",
+    "bossTitle": "产品总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3a0a9749b34ae0c01XR-3967EFVZ",
+    "expectId": 0,
+    "jobName": "产品助理/项目助理",
+    "lid": "2cf65M35hop.search.240",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "需求整理",
+        "需求分析",
+        "理解能力"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "海珠区",
+    "businessDistrict": "琶洲",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 240,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.367498,
+        "latitude": 23.095658
+    },
+    "encryptBrandId": "a9abb929cd5c179e3nxy2dk~",
+    "brandName": "中杰科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170912/b88ef3eb6a920517b20fed3dcf45af95cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "节日福利",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

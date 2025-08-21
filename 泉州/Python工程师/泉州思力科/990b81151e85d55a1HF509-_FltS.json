@@ -1,0 +1,62 @@
+{
+    "securityId": "y16ouvTd5J9vO-21P1QaucAWkohBfno1DZdh13DRCbLPI6riyhVyEUV7VpN6nc-XQY3kplegQsQgr3rGF-9DbxYVVjc_PWfWYKD9NPwPTSBr-yzzJg~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "dd0a4588e198580a1HJ63dS0FVc~",
+    "bossName": "曾女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "990b81151e85d55a1HF509-_FltS",
+    "expectId": 0,
+    "jobName": "Python 工程师",
+    "lid": "1IFNuv4Rm4A.search.7",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python",
+        "Flask",
+        "Pandas",
+        "PyTorch",
+        "MySQL"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "泉州",
+    "areaDistrict": "晋江市",
+    "businessDistrict": "池店",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 7,
+    "city": 101230500,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.58049,
+        "latitude": 24.861947
+    },
+    "encryptBrandId": "473b671d0ad4c8ea3nB-2dy8EQ~~",
+    "brandName": "泉州思力科",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100026,
+    "contact": false,
+    "showTopPosition": false
+}

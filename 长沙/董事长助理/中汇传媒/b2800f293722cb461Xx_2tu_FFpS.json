@@ -1,0 +1,62 @@
+{
+    "securityId": "oQkoVxFLe8Cy5-c1sicADx1dEM0_Pv3pTt986NEcIr58cI1a-K9vsUWZq6gzjYpQJzQVPbVUbtIpBg9K8X1Soh2T-QD5g1EVSQnVZkdEmCJ3gg9H0nEt",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "encryptBossId": "9308ebc6d1f62db50nx52dq7GFpY",
+    "bossName": "李女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b2800f293722cb461Xx_2tu_FFpS",
+    "expectId": 0,
+    "jobName": "董事长助理",
+    "lid": "1DN4zuDOWrm.search.230",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "企业文化  文秘"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长沙",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 230,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.902142,
+        "latitude": 28.077265
+    },
+    "encryptBrandId": "5e890a2c3ecd4e261XJz3Nq5GFQ~",
+    "brandName": "中汇传媒",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230426/7b5b554d84f9729cd7a1ed17c07ab05a08e580fba15f8623d862bca7c6fb35311837d1b1dd5be0f8.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "其他生活服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "通讯补贴",
+        "餐补",
+        "底薪加提成",
+        "五险一金",
+        "交通补助"
+    ],
+    "industry": 101106,
+    "contact": false,
+    "showTopPosition": false
+}

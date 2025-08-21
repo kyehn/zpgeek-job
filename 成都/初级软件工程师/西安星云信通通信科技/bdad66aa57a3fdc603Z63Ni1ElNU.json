@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "岳虹",
+    "bossOnline": false,
+    "bossTitle": "综合部",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
+    "brandName": "西安星云信通通信科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "机投",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9cfc8c1d6f1827a90X1709i5F1pT",
+    "encryptBrandId": "3bfad90209bfca7c1XBz3Nq7FFc~",
+    "encryptJobId": "bdad66aa57a3fdc603Z63Ni1ElNU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.633997,
+        "longitude": 103.977298
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 9,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "初级软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3oy6zHJNqm1.search.9",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "Get7MQE0oyhni-O18E1wQWuuBPy3Rq-UTrg1tv2JQOwP_4n-39TosGXwnvh8XSTDJ91FZJksSeZ3FWQxNjPUyxHKkkgsgJZB94H5eXJakQQNDNIb-vN317WkG5N4YCB2CQEJblo2gvtqgKk~",
+    "showTopPosition": false,
+    "skills": [
+        "C++",
+        "Linux开发/部署经验"
+    ],
+    "welfareList": [
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宁江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "黄旭辉",
+    "bossOnline": true,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "深圳乐巢时代科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "油田商圈",
+    "city": 101060700,
+    "cityName": "松原",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d913ce1b760e59160XZy3du5GVJY",
+    "encryptBrandId": "e840cd21fec9e2b41XF93tS4EVA~",
+    "encryptJobId": "f2c0f6e7871cb8861Hdz2tq0EFRY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 45.147041,
+        "longitude": 124.806614
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 7,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件测试（14薪 全额社保 大厂）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9ay9t7loVU4.search.7",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K·14薪",
+    "securityId": "rmYQc5AcIBgIu-m16vlTG6DpDDMW-K-t_eMfQuZzAEDknNm0FMoYndaPPDdKIKVAWgpiCU827uUvL7_Cb8gO1Qj8MpB_Btow75N6EVqGdyDPiuaRxMtUjMo4aXCGX-Anho-3WCagF0459C_jbta00k4MXsk4A9_N5EmoESJuqhPA6LKbww0~",
+    "showTopPosition": false,
+    "skills": [
+        "测试工作经验"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

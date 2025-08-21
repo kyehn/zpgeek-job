@@ -1,0 +1,62 @@
+{
+    "securityId": "AmxPJrQFqfWoq-X1qZzZ-omyeIxjbfhsXrhCHYhZjf1CP2VQy97tXH07mdC4GW6ypbkgBfG-tBRinsnoTdwMCDDTShg9UZsgbZ2HGB7UbTwpC5pgmX41fxcKIyMcHWu7BCtK4mrYwKwZ",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "f7a0a16a12ecdf8003Nz0tW_E1I~",
+    "bossName": "余女士",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8593b121d373b51b1HNy3tq7EVRQ",
+    "expectId": 1014042683,
+    "jobName": "弱电项目经理/售前技术支持",
+    "lid": "3mSVH7OXwUp.search.236",
+    "salaryDesc": "8-12K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "CAD",
+        "方案",
+        "弱电工程"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "萧山区",
+    "businessDistrict": "北干",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 236,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.257505,
+        "latitude": 30.180844
+    },
+    "encryptBrandId": "c6e7c90c7a2940281HZ839u1GA~~",
+    "brandName": "卓奥网络",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190225/55e27198c62a0d32f0dbdbf9b67819bd5e811f71401dabfbaa68dc826df5a593.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "加班补助",
+        "年终奖",
+        "员工旅游"
+    ],
+    "industry": 100024,
+    "contact": false,
+    "showTopPosition": false
+}

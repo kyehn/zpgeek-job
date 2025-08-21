@@ -1,0 +1,62 @@
+{
+    "securityId": "KyN3E4EHjNLnD-A1s436Kn2B1TuEiQHBYU2fhg3VQ880BjayeoWnSOhyNhqrq_ysksGedO9Om6u59SZOlk33asU8DoZfJkAgoFI449S1vzHq2wnQLAY~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "encryptBossId": "9676e7fe0d29365e03dy39q-GFM~",
+    "bossName": "江先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "69bf808625fec01a1HN42d25F1pY",
+    "expectId": 0,
+    "jobName": "Java",
+    "lid": "5FBfVSJD532.search.14",
+    "salaryDesc": "6-7K",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "Spring",
+        "MySQL"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "拱墅区",
+    "businessDistrict": "崇贤",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 14,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.167798,
+        "latitude": 30.368494
+    },
+    "encryptBrandId": "3d500a9cd778ae951XZ43dq8FVU~",
+    "brandName": "杭州众昌供应链管理",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "进出口贸易",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险",
+        "有无线网",
+        "全勤奖"
+    ],
+    "industry": 100504,
+    "contact": false,
+    "showTopPosition": false
+}

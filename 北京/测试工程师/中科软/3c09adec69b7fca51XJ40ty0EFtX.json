@@ -1,0 +1,28 @@
+{
+    "areaDistrict": "大兴区",
+    "bossName": "张琦玮",
+    "bossTitle": "测试经理",
+    "brandIndustry": "计算机软件",
+    "brandName": "中科软",
+    "brandScaleName": "10000人以上",
+    "businessDistrict": "马驹桥",
+    "cityName": "北京",
+    "contact": false,
+    "encryptJobId": "3c09adec69b7fca51XJ40ty0EFtX",
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobName": "测试工程师",
+    "salaryDesc": "7-12K",
+    "skills": [
+        "自动化测试经验",
+        "Java",
+        "寿险",
+        "测试工作经验",
+        "保险",
+        "MySQL",
+        "功能测试",
+        "LoadRunner",
+        "掌握软件测试理论和流程",
+        "接口测试"
+    ]
+}

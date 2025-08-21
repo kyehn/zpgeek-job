@@ -1,0 +1,62 @@
+{
+    "securityId": "bRypAKMdSf0Jn-i1MVY2AVONCjEP0yPDZWy_J7cLiUYWe8j0w0xCjBlAyl2GSU91e5Q0plELa49B0qRitWW_DL3pa3v4FpS8KKS1dj-JSdwgxRgOPNc~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220824/607f1f3d68754fd0822b3072f03355091854f3dea6404139c01eb8e5472f52c85b942f0ad111697a_s.png",
+    "bossCert": 3,
+    "encryptBossId": "ae1870938995cb5b0nV83ti-FVpU",
+    "bossName": "梁女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e4e9e2789e0bcb8b1HFz3tW0EFVX",
+    "expectId": 0,
+    "jobName": "驻场实施工程师（懂C#）",
+    "lid": "5EcUmXfBsmm.search.224",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C#",
+        "SQL Server"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "海珠区",
+    "businessDistrict": "江南大道",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 224,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.272285,
+        "latitude": 23.081285
+    },
+    "encryptBrandId": "906915e09d0a8fb503d43dS8GQ~~",
+    "brandName": "佛山兰软",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200810/a40720ce0100598a405f06b36381b6ba189c527adc2d83e2e91a71203c963b51.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "包吃",
+        "节日福利",
+        "五险一金",
+        "全勤奖"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

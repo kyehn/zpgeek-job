@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "临平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "bossName": "张超",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "金属制品",
+    "brandLogo": "https://c-res.zhipin.com/jrs/8_2db718311d7c1cae83e183a1368c632a.jpg",
+    "brandName": "杭州力鑫展示制品",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "塘栖",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d76deefc811922690HR70tu-FldW",
+    "encryptBrandId": "e0693e0b5ceebc3e1XF43t-5FFo~",
+    "encryptJobId": "955ebfaaf496b48903By0tq8EFZT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.463662,
+        "longitude": 120.16691
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100909,
+    "isShield": 0,
+    "itemId": 71,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "机械制图员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8bSM7Ggin1O.search.71",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "8VAnr2ZkA4K5f-61Wp7fiVwKZQeNLxXPFvGpNl6Al56yRxjBrAv1W1jYBT476-YO-lqHwakkw_021qsmVR6iMmJQGzXLfDM36rkEHE-WC-SIM511qtuhWHR3Mp_MvSVm3fh88zDqs1g0j2o~",
+    "showTopPosition": false,
+    "skills": [
+        "不需要出差"
+    ],
+    "welfareList": [
+        "加班补助",
+        "年终奖",
+        "生日福利"
+    ]
+}

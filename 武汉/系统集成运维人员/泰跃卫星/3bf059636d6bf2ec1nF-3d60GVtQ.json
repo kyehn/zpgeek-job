@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_11.png",
+    "bossCert": 3,
+    "bossName": "晁研睿",
+    "bossOnline": false,
+    "bossTitle": "行政",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220222/7bf6f160950405e9b833eb04056ef1bcebad3f038677d5a1a079dd9587297bf7501c8d866dea23e2.jpg",
+    "brandName": "泰跃卫星",
+    "brandScaleName": "100-499人",
+    "brandStageName": "C轮",
+    "businessDistrict": "珞狮南路",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "476356e9e56489271H1739m0EVo~",
+    "encryptBrandId": "43aebbd8da52e95203Ry2925GQ~~",
+    "encryptJobId": "3bf059636d6bf2ec1nF-3d60GVtQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.4697,
+        "longitude": 114.32387
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 69,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "系统集成运维人员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8sY3R63qMZm.search.69",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "xwuqtjYWrnguS-B1UMt-Q4MPNyN7cyVztW7vAoPar7El_of0N8wOsV6RjvRqnHoDRiVA457kPyHiGh6plG_DJ41-vxw98WZtOp3KPza1DzDRNnhz7CvixyNauI1Vf4lTdFoReB718s3A",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "安全运维"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "加班补助"
+    ]
+}

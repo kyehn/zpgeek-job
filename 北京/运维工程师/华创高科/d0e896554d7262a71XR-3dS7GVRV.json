@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "人资经理",
+    "brandIndustry": "计算机硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "华创高科",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b4ac72ee8daf9f320nZ50961FVRZ",
+    "encryptBrandId": "4e0b037aad34c4551nF62Nq0GFQ~",
+    "encryptJobId": "d0e896554d7262a71XR-3dS7GVRV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.953772,
+        "longitude": 116.229155
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100022,
+    "isShield": 0,
+    "itemId": 22,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cPk6tN68Iw.search.22",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "aNsi90WdHFB2I-c1lH9ZjXwQH3nAgWc4yZspYXQCg-XFWCeW9-idOd7vO9S8EVfayFMPcGrH2Qn-QPMAAMd9V3uC3ixc1WSS_GC8-HhnDRQccPcDvm-e_iPtwvp-UIt1Eq9XuIoRcL55ETc~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

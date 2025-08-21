@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "余杭区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220217/607f1f3d68754fd0ba4afab32d8f68fa3820df2e070b70b5fa1734a9f41aac6e504364f0e974c880_s.jpg",
+    "bossCert": 3,
+    "bossName": "王先生",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190307/5a2acecdc134c8667a405039849d2b0cfa1734a9f41aac6e504364f0e974c880.jpg",
+    "brandName": "粟海信息",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "仓前",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4af1564ae053024f1nV_2Ny_E1U~",
+    "encryptBrandId": "1ef23a1cb4e3c4291XZ52tq6EQ~~",
+    "encryptJobId": "54770b1d77a1250303d83dy_EVpT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.27056,
+        "longitude": 119.965839
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 18,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4bYP6ISswjv.search.18",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "OK7U6FEGYkMmz-T1G8nUY_pWi107klJHGTt7tbs9WVH1TmfW9fN_mdNHkwAp9vsviiA56dNmWQQcWRy7K-3Lhocqni-lV9CcXoKzmzSWDuNWljCYM_oQhO1A6VoqFtq5LQ8CGJSKpk8JeYty13uIFqBBzdN7it8BbnPB3Eaj6rXJHUMb",
+    "showTopPosition": false,
+    "skills": [
+        "实施",
+        "项目管理",
+        "系统维护"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

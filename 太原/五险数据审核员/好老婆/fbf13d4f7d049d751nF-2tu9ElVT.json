@@ -1,0 +1,61 @@
+{
+    "securityId": "RGbC3pysou5UG-V1LEptaxFXH4ckQBw-yWG9Z435oKndrjZIBmFbo64ipgiWre05Pqw3aEPBu_B4zvEuqfHJej1i13UvIZqw-Jg6mO58JMZ8kPAUL2g~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210408/fc2f03c1e2598951e0c728a12e7f5508ec7095693cb33a77a0d6e5c9f753d29a_s.png",
+    "bossCert": 3,
+    "encryptBossId": "1466279392c0ed3f0nV82tm-EVdT",
+    "bossName": "佟先生",
+    "bossTitle": "人事专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fbf13d4f7d049d751nF-2tu9ElVT",
+    "expectId": 0,
+    "jobName": "五险 数据审核员",
+    "lid": "5Ju9VezjVhG.search.8",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "太原",
+    "areaDistrict": "小店区",
+    "businessDistrict": "北营",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 8,
+    "city": 101100100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.603839,
+        "latitude": 37.801365
+    },
+    "encryptBrandId": "27fd0ae89181b6571XRy2d-8Ew~~",
+    "brandName": "好老婆",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "全勤奖",
+        "包吃",
+        "补充医疗保险",
+        "节日福利"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

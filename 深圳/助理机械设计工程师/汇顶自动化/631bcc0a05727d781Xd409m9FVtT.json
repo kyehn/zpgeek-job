@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙华区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "戴慧丹",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "汇顶自动化",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "观澜",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3b880117da4c93fd0n1509-6E1Y~",
+    "encryptBrandId": "fc586d477fda048a1nN929u4EFA~",
+    "encryptJobId": "631bcc0a05727d781Xd409m9FVtT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.725888,
+        "longitude": 114.083564
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100902,
+    "isShield": 0,
+    "itemId": 63,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "助理机械设计工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7Mn0xmQKS6K.search.63",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "a1hYh3n8gagal-H1eQz9pxgmheSBAC4Fcyp3tSq8uxGt2aHurTHtSMwcQSHQ7CBNrFA01vcIjJb6EucK-TwLIdojAej_HDBU5QzLpNKYyo6pU9HxdXr85m9IPYW9KQd2AMSZ20__03VM4Q~~",
+    "showTopPosition": false,
+    "skills": [
+        "CAD",
+        "SolidWorks"
+    ],
+    "welfareList": [
+        "保底工资",
+        "绩效奖金"
+    ]
+}

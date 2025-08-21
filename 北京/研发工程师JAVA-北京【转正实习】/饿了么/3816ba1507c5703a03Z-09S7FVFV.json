@@ -1,0 +1,78 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "秦女士",
+    "bossOnline": false,
+    "bossTitle": "校招HR",
+    "brandIndustry": "生活服务(O2O)",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221215/7bf6f160950405e9b708a65f8d8e4b7f7a59c09ad80309c2d9f75fb95824e8a8a42e8932ab8f5039.jpg",
+    "brandName": "饿了么",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5010896486651cfe1nV42t69EVZW",
+    "encryptBrandId": "12e92393bff967950HNy3w~~",
+    "encryptJobId": "3816ba1507c5703a03Z-09S7FVFV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.999944,
+        "longitude": 116.486784
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 100007,
+    "isShield": 0,
+    "itemId": 25,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "研发工程师JAVA-北京【转正实习】",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8gbHYskAd2S.search.25",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "a6kg1BAFQjJDN--1SWNQ1Dw-gu0XY7rO7P7OykZCFbrTjxbWZIsPww_7PYKE8ijRN0F4YChsiqbWL5LRH9EzrA1Y04CQE38aJ_PaE46R3hcNQBPs1TlclTwrLXn536xDBncGLwwwpA~~",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "包吃",
+        "通讯补贴",
+        "员工旅游",
+        "年终奖",
+        "公司团建",
+        "交通补助",
+        "餐补",
+        "零食下午茶",
+        "带薪年假",
+        "定期体检",
+        "补充医疗保险",
+        "免费班车",
+        "五险一金",
+        "股票期权",
+        "节日福利"
+    ]
+}

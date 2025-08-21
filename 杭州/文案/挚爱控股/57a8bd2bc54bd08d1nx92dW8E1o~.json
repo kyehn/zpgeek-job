@@ -1,0 +1,63 @@
+{
+    "securityId": "ElSfpJ_hRx34s-O1BW4N78IplrpjK5rP329kehxhkg1sKAc4uWujJwrsYLvjdIChuRlWfqRmsCBAhHV_zn7lW23CWizrr-u67B2aPo9UoRliaWU~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180410/7a52d7eaa7e65e5fe66d9a70940ed1cd4a0b1f7ba6d18e1d077e9bd5f300a87b_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "93c5535ac195554d1HZ53ti4E1I~",
+    "bossName": "陈女士",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "57a8bd2bc54bd08d1nx92dW8E1o~",
+    "expectId": 0,
+    "jobName": "文案",
+    "lid": "1JZJNSJNHU9.search.249",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "广告创意",
+        "品牌",
+        "文案"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "滨江区",
+    "businessDistrict": "滨江区政府",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 249,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.2213,
+        "latitude": 30.20741
+    },
+    "encryptBrandId": "1b644985597e34e40X152dW8",
+    "brandName": "挚爱控股",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170526/c392bc8590aedb9db2f185d29040765026364d5b9f44bea6c543e6f18b3145d3.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "O2O",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "节日福利",
+        "员工旅游",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100008,
+    "contact": false,
+    "showTopPosition": false
+}

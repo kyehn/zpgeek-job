@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "雨花台区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250220/607f1f3d68754fd0b650c02b69cc2746e01159b0e398709b5b873b75d8fbd6a44f76edba078df2f9_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "梁洁",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210913/7bf6f160950405e9f251464d5bbfc5f8c61926ba34776acec8f2cf3c324512555b260e30ba91ad61.jpg",
+    "brandName": "中兴软件技术有限公司",
+    "brandScaleName": "500-999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "安德门",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7e4949c39b8798cf0nx-3d66GFA~",
+    "encryptBrandId": "6eb59359b1754c1d1H1509-5",
+    "encryptJobId": "7dc386ac7d1f16ba03d729y9GFZU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.975492,
+        "longitude": 118.786175
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 23,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "27CZa8nKWgd.search.23",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "N7XaKMntaVELY-z1dB2MQSnhoQH1CKhfB672KOfI3sKOkyx5vyvgQ4JhsqYOSSJhkW-7pypDVC3UqMscnyRLhZ6kvRuer6eWWiQkAvI28v2YMQ94EJvSfh6s5oorLfWtRIp-IO3WeF8~",
+    "showTopPosition": false,
+    "skills": [
+        "二三层组网技术",
+        "Linux"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "节日福利"
+    ]
+}

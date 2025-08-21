@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "赛罕区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240608/607f1f3d68754fd01f2c8b320288cbfc532bfe2d4d31f1359e06ac645da123efc7df1c09b515a525_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "汪女士",
+    "bossOnline": true,
+    "bossTitle": "人事",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "双元小兔",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "大学东路",
+    "city": 101080100,
+    "cityName": "呼和浩特",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ddc58d70c168d5160nZ40tm5FlJX",
+    "encryptBrandId": "459bfddcc37462651nJ43ti4FFA~",
+    "encryptJobId": "af0c11f6cb45e15403B50tq4FlBX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.825591,
+        "longitude": 111.701644
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 58,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Hadoop大数据开发运维及实施",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "72nCUh6QXma.search.58",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "XKrIGGsYSU4dM-o1_W0CvcGNPriCGmDoujzUMnd5okCOP9nP02h6ByZ5HygOjqnt9CkG6syNoHW29aOnU0_WaxCFphMRTM3-6nSfyvFzjK22BijgYBc-J8qBwvMlpiLF16MfKG5SEH_FLI2TwKBl2kI-7ozbe-rsKwhnfaqPoV7RUPKY-qc~",
+    "showTopPosition": false,
+    "skills": [
+        "大数据运维经验",
+        "DBA",
+        "hadoop"
+    ],
+    "welfareList": [
+        "节日福利",
+        "五险一金"
+    ]
+}

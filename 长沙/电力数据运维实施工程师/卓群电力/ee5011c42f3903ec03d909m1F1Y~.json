@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "岳麓区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190531/81fe9a80958f31a4942c50710e98f34def7795361267883f3632eab67f4a0dca_s.jpg",
+    "bossCert": 3,
+    "bossName": "钟启智",
+    "bossOnline": false,
+    "bossTitle": "部门经理",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200323/d6daa43727c28c3b9cc240c2b1278e29adb78e13e4349bb29bd6bd64c8edaed2_s.jpg",
+    "brandName": "卓群电力",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "洋湖垸",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "53e69c91f26bc1020XB43dS4EVs~",
+    "encryptBrandId": "7214e01103149b670nN92920",
+    "encryptJobId": "ee5011c42f3903ec03d909m1F1Y~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.131992,
+        "longitude": 112.948021
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 63,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "电力数据运维实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "26skeGv94V3.search.63",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "ryBFNrx3GUtM--b1dg8cB66iLUiBSUIJ9gapDvOnmqTuKEZTS_w4MQhItC7Q8guawYCIZIZ7eSjZAa1TQNY_Uj0uanHCIcc85z-kQFHlBUliVPE6RoIXq56EutVsilSvXffq6yRCCQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "数据处理",
+        "系统运维",
+        "系统管理员"
+    ],
+    "welfareList": [
+        "年终奖"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "CHqRUv6xWd6mT-D1pm6VKtMam4etgrPElYKi_c-m9OHvR9Onj8aYXWXsdhQ2hSu8favwd5x66OObK6PDzrcpeyATTulloh-72NsYrvGuUie-AEPOBEkJ",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "a09464f0f94c01200nN50928F1BR",
+    "bossName": "曹先生",
+    "bossTitle": "教学老师",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "819f54ea03d53bb51XJ709S9F1pU",
+    "expectId": 0,
+    "jobName": "python少儿编程老师",
+    "lid": "5LXkkToRVyM.search.157",
+    "salaryDesc": "3-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "少儿编程",
+        "代码编程",
+        "Python"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "保定",
+    "areaDistrict": "满城区",
+    "businessDistrict": "满城县中心城区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 157,
+    "city": 101090200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 115.30964,
+        "latitude": 38.960113
+    },
+    "encryptBrandId": "cdb1a57f305ecc711n1-39i7EVA~",
+    "brandName": "耀创",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "餐补",
+        "员工旅游",
+        "全勤奖",
+        "加班补助"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

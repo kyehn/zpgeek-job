@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190413/24c5b7548484d164c64fcc3341e4aeaecfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "bossName": "曾女士",
+    "bossOnline": false,
+    "bossTitle": "人力资源经理",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200423/8765852fd58c8be66eb42f36a27af7977f985cda94177b1cf0533a0417169e12_s.jpg",
+    "brandName": "搜雪",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2572005bdc52fe5d03Bz3Nm1FlI~",
+    "encryptBrandId": "116b28218edcc3ae1XJ72tm9EA~~",
+    "encryptJobId": "d50690b20ebff8751XZy3Nm-FlpW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.171375,
+        "longitude": 120.204317
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 135,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "JAVA工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "HY4qlldFyd.search.135",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "Ut-45tNOAq8v_-M1ypS5spycp6DJaR2C-V5lE2bV5WleCJlCSMw36247P9cXvCL2yLsMpPt9qvGbQewOH9sNhv-6id1Em4KJqCfNeyJBpwm5vVnWpe9AbP6p_SZM1hRUcfMrJTiIPM0q",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "节日福利",
+        "年终奖",
+        "股票期权"
+    ]
+}

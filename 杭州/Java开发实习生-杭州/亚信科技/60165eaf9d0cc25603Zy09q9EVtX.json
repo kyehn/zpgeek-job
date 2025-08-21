@@ -1,0 +1,79 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210719/a9926880376bf25cd3f1eeb7b399794c9b30ebc9999c76295fe490c8f00369c1_s.png",
+    "bossCert": 3,
+    "bossName": "郑成鑫",
+    "bossOnline": true,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/logo/fd4dec0def92d935a12c6b44716ddbd6be1bd4a3bd2a63f070bdbdada9aad826.png",
+    "brandName": "亚信科技",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a39edb43dc4d16b003Fz3Ny-FA~~",
+    "encryptBrandId": "d063e597d01c108b33Z50g~~",
+    "encryptJobId": "60165eaf9d0cc25603Zy09q9EVtX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.222724,
+        "longitude": 120.121288
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 24,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "Java开发实习生-杭州",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8HrVPpzrmU4.search.24",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "yjU2mjfAOqTzJ-g1qk5ngZWwqImUI0JfB_6_IOvDsmNfbWim5anaDuWaYz3rBnKTofm7xnbWLTSt1BMkS580sIDQMGb36xum840cinvqwm38cHeffcas9Y83a5Wq34DKaFVw2zWCMVD3upHk898v4KiP2MjZpk3Z8oY9SzLCMM8~",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "股票期权",
+        "定期体检",
+        "补充医疗保险",
+        "带薪年假",
+        "餐补",
+        "交通补助",
+        "生日福利",
+        "团建聚餐",
+        "年终奖",
+        "加班补助",
+        "免费班车",
+        "定期体检",
+        "节日福利",
+        "五险一金",
+        "通讯补贴"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙华区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230306/607f1f3d68754fd00e8a1191bea0ca7b6a56d5344035fde53a34259a97f01e14bd2588138ed2f1db_s.jpg",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "助理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230609/7bf6f160950405e996ba9f94e6268426df3f89649b8edf9585e51c53f7ec0cdcec6afe2d572330f0.png",
+    "brandName": "九有技术",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "民治",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ff55d7e9909447360nF73Ny0FFVU",
+    "encryptBrandId": "ceb6b68d78b550c41XB62di5FVc~",
+    "encryptJobId": "e6d9012984053bf303Z_29y5GVVU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.621763,
+        "longitude": 114.035249
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 106,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "数据库与人工智能开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "r2lf7GDqvU.search.106",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "ITxeclmTDHEZn-f1POla2Uv_74dwDIQWYphii48HJWMDrgtontALd50-7C14RFpLJFbNC8CAOHOr2QraphyGD309CQL3KVpVM_HfWDqCEHcAvvnP2JjD4_GHzETreMLA46m6EwJ3zIKwU5Q~",
+    "showTopPosition": false,
+    "skills": [
+        "C",
+        "Python"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

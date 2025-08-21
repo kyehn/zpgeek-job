@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "长沙县",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "杨丽娟",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "检测/认证/知识产权",
+    "brandLogo": "https://c-res.zhipin.com/jrs/6_398487934899d2c6298e0deb3506d50f.jpg",
+    "brandName": "长沙南信资安科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "榔梨镇",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a6697901b8d112fa0n143Nq7FlpR",
+    "encryptBrandId": "869199bd5d478c5f33N42Ni1Fg~~",
+    "encryptJobId": "2e7b94c9771df63c03Rz0t-4ElJX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.201173,
+        "longitude": 113.118026
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100609,
+    "isShield": 0,
+    "itemId": 56,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "安全业务运维专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "26lZPszrKJJ.search.56",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "eFa0xNhalBsv2-X1hwUMIbLmUhrMuWg76uYfzIcZh3skxjy2sKq5ZpFurVTPJTvxbZFca3XEqMCia66mCEdzYzT8qC7SBMq8ZXrnVPbR4_GIM5jPrRIinKDzWJw526cZwwsMQ81JPt4aJA~~",
+    "showTopPosition": false,
+    "skills": [
+        "数据",
+        "安全",
+        "化工"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "五险一金"
+    ]
+}

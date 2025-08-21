@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "刘舒钰",
+    "bossOnline": true,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240105/7bf6f160950405e9763d940637ab43c1b6bf9ec44707a6cd04c5cab85daa86eb9e7e03c57e4518bb.png.webp",
+    "brandName": "卓越际联科技有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "中和",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ef1fbd7d3d73cd5f0nN72ty6GVFS",
+    "encryptBrandId": "9a80334346a8f4661XR73Ny1F1Q~",
+    "encryptJobId": "91e64f18756e72ab03Z52dy_FlRY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.541607,
+        "longitude": 104.061277
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 21,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试开发工程师（外包）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8hG59cmX4v8.search.21",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "xar1wkjE_oRpO-_1q7zG6d6yAT-bD-VNF5tiwz2tCqOgec6O9ttENvMgEsAHhXzsGUz3oWaE2ekFOK0EAxAVUt_ynPQHwBhJiqhuMiIQyFSqXp34MeCfp4j6OyKSNel8f4kR1tvYxzDdR9mJVdCBoualLOu7eBSSR0ykoX0OEltLDfB5pUQ~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "TestNG",
+        "软件开发经验",
+        "Python"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

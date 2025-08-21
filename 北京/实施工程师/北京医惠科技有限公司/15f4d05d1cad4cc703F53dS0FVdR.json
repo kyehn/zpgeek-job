@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "野先生",
+    "bossOnline": true,
+    "bossTitle": "项目经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "北京医惠科技有限公司",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "西直门",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c10ff73792253d830XJ53tq5ElRU",
+    "encryptBrandId": "a9a3cb2e2a300bd91H1-09u9FVQ~",
+    "encryptJobId": "15f4d05d1cad4cc703F53dS0FVdR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.939609,
+        "longitude": 116.353016
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 42,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7QcpZgKYyHO.search.42",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "Pouo0Z2P44ZNM-c1GGENiX56JpWTbqCKhNxg09ouLqMrycRrC4_YLz96oEwXEmukTRU2UQEEB2hBW2n1Eby1KxFMZA-2LwE2JqndB-anKjlr1DhOyMAslXutnYD0LzPIGxvptXTeShEYR6frn42b5AWybkK4a0UqQjHMW4DyFb7D1c-Izl4~",
+    "showTopPosition": false,
+    "skills": [
+        "软件实施经验",
+        "可适应出差"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "五险一金"
+    ]
+}

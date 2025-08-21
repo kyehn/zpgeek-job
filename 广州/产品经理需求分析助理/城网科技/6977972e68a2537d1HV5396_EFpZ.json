@@ -1,0 +1,62 @@
+{
+    "securityId": "ywE317SVHSGBh-T1SQ68eTqAJSL7V7nrEe7yLasOvo4bnCQ6YH5h8ZdwGBvMUxA7VFkB-MyetiQ-WiBmfd8ES2OKgoN1AIzCXyYAXHqyv7gKDSQ51dk0",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "f7a4fe9e3df604270XR72ti1FVVW",
+    "bossName": "卢先生",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6977972e68a2537d1HV5396_EFpZ",
+    "expectId": 0,
+    "jobName": "产品经理（需求分析）助理",
+    "lid": "2ZL38frwumL.search.115",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Visio",
+        "Axure",
+        "计算机/软件工程相关专业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "越秀区",
+    "businessDistrict": "华乐",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 115,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.286017,
+        "latitude": 23.140828
+    },
+    "encryptBrandId": "e13cc94e89898fad1XNy3Nm1F1M~",
+    "brandName": "城网科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230912/7bf6f160950405e9c662a6795eddc67da5bc3f725f128b238d3b413a8f8394796b8c65964d99668f.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "保底工资",
+        "绩效奖金"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

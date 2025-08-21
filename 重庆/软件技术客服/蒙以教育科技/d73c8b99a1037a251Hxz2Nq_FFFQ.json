@@ -1,0 +1,62 @@
+{
+    "securityId": "pQ-dVsHFGxotZ-m14uxVDbzkdAqjJRt2HL8IwumYWf1hYYQjXgm9UKrbq7aO_0-GBoWAa47lYC7WmWUCXD9m_B0HTk14cTaXjdPnB87Hi9kIf48R77RK0-EQfeCvFGCcnJ6kVW_npeQl",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20191111/299ec65ae806026d8ebb541e7b712497cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "b0dd319a4ff0f0e80nd72Nu1ElM~",
+    "bossName": "蒋朝华",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d73c8b99a1037a251Hxz2Nq_FFFQ",
+    "expectId": 1014042683,
+    "jobName": "软件技术客服",
+    "lid": "2wq76clQbML.search.19",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "IT技术支持经验",
+        "售前/售后技术支持",
+        "计算机/通信相关专业",
+        "售后支持/客户响应经验"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "重庆",
+    "areaDistrict": "南岸区",
+    "businessDistrict": "南坪",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 19,
+    "city": 101040100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 106.561083,
+        "latitude": 29.527803
+    },
+    "encryptBrandId": "16485bf805f1a3071HB-2Ny9FA~~",
+    "brandName": "蒙以教育科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191018/d21636e5266e72a2d6db165eaa01536cd91c5fc9a2c5ca57b37fc7405e3a3f23_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "通讯补贴",
+        "五险"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

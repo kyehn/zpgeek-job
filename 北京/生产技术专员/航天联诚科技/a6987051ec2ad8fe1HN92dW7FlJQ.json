@@ -1,0 +1,63 @@
+{
+    "securityId": "pLX0n4npIqQ0i-A1RfIQhoUPoEVKtJCU1R6AzW-WlGM_--QANUYggYvwOSrT8LjvnlXHetsb9mquOr1KEE1PziypNNDHvQ7I6tximMSiD-xxBA16zgfuJFlTIU6k_7rUooJswV48c7ZJwtc~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240923/607f1f3d68754fd095e9391800d94d048bcb2d2f19af8168db72aab84f685a203cd86396ac48d896_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "53906cb9a9910f260nJz2dS8FVVX",
+    "bossName": "井洪月",
+    "bossTitle": "hrbp",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a6987051ec2ad8fe1HN92dW7FlJQ",
+    "expectId": 1014042683,
+    "jobName": "生产技术专员",
+    "lid": "1e3UqTFcdy7.search.62",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "顺义区",
+    "businessDistrict": "马坡",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 62,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.574925,
+        "latitude": 40.168267
+    },
+    "encryptBrandId": "b8152dd907a93a501nV72t-4ElM~",
+    "brandName": "航天联诚科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200922/8b1a3110063b05794902a9788249c475d50236ae82003703e72a8415536f5089_s.jpg",
+    "brandStageName": "天使轮",
+    "brandIndustry": "计算机硬件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "节日福利",
+        "零食下午茶",
+        "年终奖",
+        "定期体检",
+        "员工旅游",
+        "五险一金"
+    ],
+    "industry": 100022,
+    "contact": false,
+    "showTopPosition": false
+}

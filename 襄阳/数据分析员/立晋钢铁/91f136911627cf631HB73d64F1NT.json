@@ -1,0 +1,60 @@
+{
+    "securityId": "mnFkgH4ZFrHxf-n1AdmnVypBJsxMN3gcpKmeEnaC_tWLXMj7WZudUKaH7GrJajZ5_jsVRTLez0WNtHz2z_p_cMq5tju416yvsUpsCuhcyWj0G67acNoZGeFgg3P_jS6fk9Az-oWLa03S1N0~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240309/607f1f3d68754fd0355fed657d20cd6c3b0f45f5f20cd8a46fadce9be92c2c1f7a11c48e31ca2bcd_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "e071daaae9d15f3c1nV83Ny-GVtS",
+    "bossName": "吴龙",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "91f136911627cf631HB73d64F1NT",
+    "expectId": 1014042683,
+    "jobName": "数据分析员",
+    "lid": "3nzlZTWaozl.search.82",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "数学/统计相关专业",
+        "大数据处理经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "襄阳",
+    "areaDistrict": "枣阳市",
+    "businessDistrict": "新华路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 82,
+    "city": 101200200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.723294,
+        "latitude": 32.127652
+    },
+    "encryptBrandId": "2fca24eb7f5004791nB63tS1E1o~",
+    "brandName": "立晋钢铁",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240314/7bf6f160950405e91e8198d8c4baacbb04c673bb30fb16b66fadce9be92c2c1f7a11c48e31ca2bcd.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "汽车零部件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "节日福利"
+    ],
+    "industry": 100802,
+    "contact": false,
+    "showTopPosition": false
+}

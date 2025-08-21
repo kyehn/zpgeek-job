@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "谢韶华",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "信息安全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180716/82ad4ae222035c6c3f8acf98704fc660a661a8a1d9a834a58c4fda86b972e6ca.jpg",
+    "brandName": "零平数据",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "四惠",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "eb6d0b1a5a9d335d1XN929y6F1s~",
+    "encryptBrandId": "179ef0c10523297833x-0t25",
+    "encryptJobId": "360c8a00276862e233143ti7GVo~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.908773,
+        "longitude": 116.495467
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100016,
+    "isShield": 0,
+    "itemId": 49,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "linux资深研发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2zDAPa1zpjN.search.49",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "KRq5tnHCrp-wP-u1E8cLkN0Z992UTIQdmvVzlpyCRa_wNHSuuWb-68IZ5HpqcfU1bKbER6God1MGcgZ8sfOQwnxCnW1P7x8_e89ZLDUw1AeP_6Rxg27z2bHob8N3bWjdhWdnK5Vglg~~",
+    "showTopPosition": false,
+    "skills": [
+        "Shell"
+    ],
+    "welfareList": [
+        "五险一金",
+        "股票期权"
+    ]
+}

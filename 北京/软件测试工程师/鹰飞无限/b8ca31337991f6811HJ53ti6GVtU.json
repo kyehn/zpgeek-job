@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240626/607f1f3d68754fd096ac684479b4c9af0289747868b168e1d693593e03c1dca6d9abde03bf9f76b8_s.png.webp",
+    "bossCert": 3,
+    "bossName": "吴女士",
+    "bossOnline": false,
+    "bossTitle": "副总经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230212/7bf6f160950405e93ce0be7c8dd9150e03c3891b2e997479569f3177069f49ead5e4b7c927b4b3db.jpg",
+    "brandName": "鹰飞无限",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "上地",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fb141337e4423d2e1XR73dy8Fls~",
+    "encryptBrandId": "981625679d5aa7291XF63di9ElE~",
+    "encryptJobId": "b8ca31337991f6811HJ53ti6GVtU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.044416,
+        "longitude": 116.297196
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 4,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2zfaUSVKxtb.search.4",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "0N8Sr40OJQ-8P-K1ty8d1ywUNoOYWxytYcDeEVY68zKELIMvWJWX7fSEH47V_mU2vZI2fgHapvgm1eStOQvPjB5segsFo-0gCe76UoVDZm84otlyIBlSZOlwP41SXNaSW0HdQ4f2l9k2zw~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

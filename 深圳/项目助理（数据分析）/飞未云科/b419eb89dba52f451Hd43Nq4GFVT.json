@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211227/607f1f3d68754fd04bfeb0429d6353e2fd5ce5f176675832af2f889824f4152f981757803cab4aef_s.png",
+    "bossCert": 3,
+    "bossName": "杨女士",
+    "bossOnline": false,
+    "bossTitle": "HRBP",
+    "brandIndustry": "咨询",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231129/7bf6f160950405e9b743dfbf997568d033f20572ff2f0ef43c2b2318701d2e8460952ebd543eeee4.png.webp",
+    "brandName": "飞未云科",
+    "brandScaleName": "500-999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "前海",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "034a7e151a1ac3ca1Xx829-8GFU~",
+    "encryptBrandId": "bfe189a30c92be761HV_3Nu5GVU~",
+    "encryptJobId": "b419eb89dba52f451Hd43Nq4GFVT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.52609,
+        "longitude": 113.891894
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100601,
+    "isShield": 0,
+    "itemId": 73,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "项目助理（数据分析）",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8mUcx4vu9sX.search.73",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K·13薪",
+    "securityId": "qsvC7ba0tjOmm-61TOz3NEMJMrPZkqt8AbexpfalgP3RSIitg2KCGN8pin0itwEq2ihYKZ74SfDSnmLCMvRaj7VDvU8_IoC5TIn0zpDVH60VIAx9hQkDOaQRrduDk9etZjbVLpXruSODMA~~",
+    "showTopPosition": false,
+    "skills": [
+        "电商/零售行业数据相关经验",
+        "SQL",
+        "数学/统计相关专业"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

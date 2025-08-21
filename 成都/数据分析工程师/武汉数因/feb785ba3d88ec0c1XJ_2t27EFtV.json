@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "胡先生",
+    "bossOnline": false,
+    "bossTitle": "CTO",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "武汉数因",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "桂溪",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f28d01e06746e6871nZ53dq4ElJW",
+    "encryptBrandId": "30693e99182fc6a01nV-3dy4EVs~",
+    "encryptJobId": "feb785ba3d88ec0c1XJ_2t27EFtV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.586642,
+        "longitude": 104.068799
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 71,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "数据分析工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rgW5Y2HY6T.search.71",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "aPR9amrZX7kDj-k168zn1xeLu0f8wxqCHAWWEEL--Q_hamgp9SqCKljvfA4qC9XKP6hhh9BK5A7OO6MSvtjES_mS93DT3CTbsWQbx7TLrmSmWxDGhC9lZxNU7ZTMtIwowXVlHaYytdVplU0~",
+    "showTopPosition": false,
+    "skills": [
+        "SQL",
+        "数学/统计相关专业",
+        "计算机相关专业",
+        "数据分析/挖掘经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201225/51a11ab5121a9b9333ee061aad33749ac1920f61043a5b75c3ff19856443acff_s.png",
+    "bossCert": 3,
+    "bossName": "李海",
+    "bossOnline": false,
+    "bossTitle": "总经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210309/ab5ba3cd2be9dd942ada820e5880cfa4c1920f61043a5b75c3ff19856443acff.png",
+    "brandName": "上海企威",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "虹桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8eb0de46f248418a0nV73ty1EVtQ",
+    "encryptBrandId": "6841108faf6c05203nB-3Ni0FQ~~",
+    "encryptJobId": "0ff94c33185ad0d91XR43tq6GFdS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.201031,
+        "longitude": 121.311287
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 90,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Android软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7HEpbNVBLzi.search.90",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "pPbANDcknOIhT-C1FKSaXoLHTJiDjTeh2W274wP335l5Mzdq01r24_9dafF-qPONXEMvfJwdpIS6z3ko5PfHC-jb1oDAd-7iONPfYAZU-WU0Lvb2aBqIgWk4EhMoBjXUP1w6AcIImOuydQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "Android"
+    ],
+    "welfareList": [
+        "加班补助",
+        "五险一金",
+        "员工旅游",
+        "年终奖"
+    ]
+}

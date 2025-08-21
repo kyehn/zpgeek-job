@@ -1,0 +1,62 @@
+{
+    "securityId": "29YV6OmdmsFnB-913hoH9gr2BpYpNFvA-rTR7nR-gVhd3CB-ESrXmTT_MhJPZY2p61Z4nNM2IlEDr1-DL6PZJc2Lg9PdLOo6mTeCmAaLxP2-ttNd0jFtXGT0gM3YMHm1t8q49FrMAepu",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "da7e93d55012e6a703Jy3N-7F1o~",
+    "bossName": "张军奇",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6bea84d9c17a40061Hxy09W8ElVW",
+    "expectId": 1014042683,
+    "jobName": "技术服务工程师",
+    "lid": "1esGvViVkaj.search.169",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "实施交付运维",
+        "电子/电气/自动化相关专业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "将台路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 169,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.5186802842882,
+        "latitude": 39.98015380859375
+    },
+    "encryptBrandId": "316e5b36cf55f0131HJ-3dq8Eg~~",
+    "brandName": "鹏辉通达科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "餐补",
+        "年终奖",
+        "意外险",
+        "五险一金"
+    ],
+    "industry": 100902,
+    "contact": false,
+    "showTopPosition": false
+}

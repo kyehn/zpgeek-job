@@ -1,0 +1,76 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": true,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/1xz4cuon4o1734430084565.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221231/607f1f3d68754fd0c13348eef648a4c87df07af2c67201a996e87531fc76a883b89fd7a9e36247c7_s.png",
+    "bossCert": 3,
+    "bossName": "徐书蕾",
+    "bossOnline": false,
+    "bossTitle": "综合管理部",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230609/7bf6f160950405e91a11a3f0d0e6c6831c09dab30592bee1ff009660a4b798d9d425c2ff976ee6e0.png",
+    "brandName": "中化学数智科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e546d4b4f4f0a5010nB43di5EltV",
+    "encryptBrandId": "8c5778601aa7d2771XN83du1GVA~",
+    "encryptJobId": "5790afc9a19a7fb01Hx73tm8ElJW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.940254,
+        "longitude": 116.431159
+    },
+    "iconFlagList": [
+        17
+    ],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 67,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "bmVAdx76g5.search.67",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "t7DhcVl4ARk4s-L1mzwCqHVQarEvn7HXUSzs97L-zXaR3LcAT2Ww0dmGg0fddoYfHVghN1578GqC0RbJKEBg5QHxOOPvDwNh5KbTaY-ALPUC50LLpZACh0yabqeSHiv_zyecPerRqnajaRY~",
+    "showTopPosition": false,
+    "skills": [
+        "应用系统日常运维管理"
+    ],
+    "welfareList": [
+        "五险一金",
+        "包吃",
+        "定期体检",
+        "节日福利",
+        "团建聚餐",
+        "通讯补贴",
+        "绩效奖金",
+        "交通补助",
+        "免费工装",
+        "补充医疗保险",
+        "高温补贴",
+        "意外险",
+        "生日福利"
+    ]
+}

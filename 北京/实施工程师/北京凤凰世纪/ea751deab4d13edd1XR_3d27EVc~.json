@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180210/09d351249c24143a2ac472aa3448ae5bdcaa44353f4a539e268e7d346809630d_s.jpg",
+    "bossCert": 3,
+    "bossName": "柴卓志",
+    "bossOnline": false,
+    "bossTitle": "项目经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180515/a67f283d2d97a39e57186104e4e61fbddcaa44353f4a539e268e7d346809630d.jpg",
+    "brandName": "北京凤凰世纪",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "北太平庄",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5fb64ffae50143551X152ti6EFU~",
+    "encryptBrandId": "4df06f4627d45fc01HJy2dm5",
+    "encryptJobId": "ea751deab4d13edd1XR_3d27EVc~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.97303,
+        "longitude": 116.3653
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 64,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cLQq76TzBP.search.64",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "690jJugpXbiOH-T149quq5Mj72-4hK4VDQ35Z0LxyB5BWWh7DnikYSoj992XlHT5HiOcpUTLDMyfLNzvMrgPOvXh0cx8Cnd8DNxNFMdWEl6csYnEDZ0VRiNNuLBxveSaSFU7RNPY8Q~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施",
+        "文档",
+        "数据库"
+    ],
+    "welfareList": [
+        "五险一金",
+        "餐补"
+    ]
+}

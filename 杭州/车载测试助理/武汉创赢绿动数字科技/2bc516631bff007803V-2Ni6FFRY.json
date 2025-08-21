@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250116/607f1f3d68754fd0daaaa8ee9e33c674bf62a19501bee06e65b6f264dbe249ca2671c1ab050619d0_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "何晓霄",
+    "bossOnline": false,
+    "bossTitle": "招聘HR",
+    "brandIndustry": "汽车零部件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "武汉创赢绿动数字科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2dc4e7b14d679e940nB93d68GVdT",
+    "encryptBrandId": "44d6f26d531290b91XRy2N67E1E~",
+    "encryptJobId": "2bc516631bff007803V-2Ni6FFRY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.137391,
+        "longitude": 119.983166
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100802,
+    "isShield": 0,
+    "itemId": 236,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "车载测试助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2C4CdToa6XT.search.236",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "efPKfSYapdYoG-t1xyUpQlAdHuK1UHt6wDoilfoPhxz1e9efz0RiMhy3qAK8LJijzMiJfCYDljgxolTWHwhnA72MJ0tV8sP7BoKaQJopTIkkdCq7S3GQ6hQh8ddmRM2odw7TuHFGxPGJb_Q~",
+    "showTopPosition": false,
+    "skills": [
+        "参与测试",
+        "资产管理",
+        "QA经验"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

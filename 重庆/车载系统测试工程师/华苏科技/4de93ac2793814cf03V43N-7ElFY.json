@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "渝北区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211111/607f1f3d68754fd0a1ae1cb422f7d1455c7f3b56485cd8123e00afec9c5de0320ffca6e8c7b41683_s.png",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160713/98c003eb5224503231518a69dca5d134d0148a6b6fdb73576ab3057f87ebd668.jpg",
+    "brandName": "华苏科技",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "空港新城",
+    "city": 101040100,
+    "cityName": "重庆",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3566ade94895f83d1nR509S4EVZZ",
+    "encryptBrandId": "a59bc37f1252d3b41nx72ti4",
+    "encryptJobId": "4de93ac2793814cf03V43N-7ElFY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 29.658034,
+        "longitude": 106.763292
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 135,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "车载系统测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5CGEC5i12b7.search.135",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "kE3zyr0GBZ08Y-C11o0AKXy-5vzu65VnCefo7nG88v1wjJUPtB65wc2DB0VmdtqDTzGSAyRT_-fGhzQuENZY2NATbGbpylgsHJXWW34t8qkHrPQK8AT6gvYLoR35ygOH10IE81MT42aI",
+    "showTopPosition": false,
+    "skills": [
+        "掌握软件测试理论和流程"
+    ],
+    "welfareList": [
+        "定期体检",
+        "带薪年假",
+        "五险一金",
+        "节日福利"
+    ]
+}

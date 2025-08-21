@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230904/607f1f3d68754fd0f4c85b6ea68c4c3dded0051887c14811233fb3c99de3182f65d3c2a26fea83de_s.png.webp",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "武汉东博",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "徐东大街",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6dbef3f638568e0e0nZ73d28GFdW",
+    "encryptBrandId": "99b0c6dc935b01e6031809S9Fg~~",
+    "encryptJobId": "ed41e331577016df1n192968EVVW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.59273,
+        "longitude": 114.346782
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 64,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "实施顾问",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d0mL38IV2Z.search.64",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "v9j5P6OLc8wdi-f19XpUu1GxCg2yrQyZUadzFHk-H0u356mXuS3gpOyPL_KAGXtOB3juLf77qZlic69qwtydEwzZ0D9LzmKubHwxgWde11_swiDAr3WnzitCywNbzjMLD5EoKBkxTyuQ8w~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施工程师/顾问",
+        "软件实施"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

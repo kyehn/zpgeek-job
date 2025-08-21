@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "钱智慧",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "南通东华软件有限...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101190500,
+    "cityName": "南通",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "de5369b1b9ffec751HF439y0FFs~",
+    "encryptBrandId": "cd6f64740c54ee6003F53N20EQ~~",
+    "encryptJobId": "6f9923b5124dd7621X180924ElJW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 32.530415,
+        "longitude": 120.525663
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 61,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "sQdC0zCaR0.search.61",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K",
+    "securityId": "Pm-rm3gHAH2nJ-n1lerhtznV4-6AL-P8uOjzz2lvtj0Co0xevg-V08bQ49XrgL3NzxE5NUj-PGiB278QpIgvfEsm2fzBb7MZXvEOm9hD7nIvVpj1EOqUI-iZeN35Hra0S3lqDjQopsSy",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金",
+        "补充医疗保险"
+    ]
+}

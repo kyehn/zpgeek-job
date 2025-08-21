@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210118/bbbb5bcc03f1d771590c9d36c7dd32df391117ef5f14c497ed967643f70331af_s.jpg",
+    "bossCert": 3,
+    "bossName": "朱先生",
+    "bossOnline": true,
+    "bossTitle": "招聘主管",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240105/7bf6f160950405e9763d940637ab43c1b6bf9ec44707a6cd04c5cab85daa86eb9e7e03c57e4518bb.png.webp",
+    "brandName": "卓越际联科技有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "中和",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d127b6683ef1ca4d1Hd-09m8FlI~",
+    "encryptBrandId": "9a80334346a8f4661XR73Ny1F1Q~",
+    "encryptJobId": "6a4a7e256206edbb03F_2Ni-EVJT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.541293,
+        "longitude": 104.064463
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 4,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试-外包大厂",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7SNVTIu2S9L.search.4",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "lvkyz360Vfkbs-f1AxfEik9JTiEMPuXoMCH2QRSi4B-XJhKulQC7it_1D3xsfOT89qntGvADzhq6UdspeCUFwOgrd1Q08QzG-gitJapzVwWXSjGDoObyyEM6JO75RLHkd5xG-D4v-zX8zSvuy4NmKNzgtofaqPutuGZwuZqAN_ZU1x_FOA~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "自动化测试",
+        "Python"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

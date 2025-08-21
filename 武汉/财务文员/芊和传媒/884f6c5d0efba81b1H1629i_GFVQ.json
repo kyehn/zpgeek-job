@@ -1,0 +1,60 @@
+{
+    "securityId": "3ES71dC9Id_CY-4101PF_HR_NAy-xJwKYh3LKW3cE3nTxfQ2MXo_3HUrWeZsw9WW5STY7MZqAWg8U123m-0pOKq_-rvNZZWOZcL_MGvTpKBp-_xyRD-BI36J7JIA8wiK1TjQ56qQZZ_nscs~",
+    "bossAvatar": "https://img.dianzhangzhipin.com/dz/static/2023/84e3fh1mzd1701311107659.png.webp?x-oss-process=image/resize,w_200",
+    "bossCert": 3,
+    "encryptBossId": "1687862c3806870d0nJ_2ty6FFBS",
+    "bossName": "王文花",
+    "bossTitle": "人事专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "884f6c5d0efba81b1H1629i_GFVQ",
+    "expectId": 1030426395,
+    "jobName": "财务文员",
+    "lid": "2al2kmgataP.search.32",
+    "salaryDesc": "2-4K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "文员，财务"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "江岸区",
+    "businessDistrict": "百步亭",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 32,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.292082,
+        "latitude": 30.653853
+    },
+    "encryptBrandId": "f9ffb33e1e1cf1b31XF_2Nu1Flo~",
+    "brandName": "芊和传媒",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "其他行业",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "团建聚餐",
+        "带薪年假",
+        "年终奖"
+    ],
+    "industry": 101304,
+    "contact": false,
+    "showTopPosition": false
+}

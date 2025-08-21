@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210512/395783834e0c21af3d6996f5394b38de86d1fcc157ee84d8a18460ca8842836b_s.jpg",
+    "bossCert": 3,
+    "bossName": "郑丽",
+    "bossOnline": false,
+    "bossTitle": "人力资源主管",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191015/df9682949789368b1621ce5a11b9bf56cb9fc1745b0a198c399a23cf009a6ab8_s.jpg",
+    "brandName": "欧睿oIBP",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "龙柏",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "36871e8262fe21771XJ_2NW6E1Y~",
+    "encryptBrandId": "99c3c1c411441bcf33xy0tu0",
+    "encryptJobId": "c18965206acae14f1nJ93dW7EFFX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.170391,
+        "longitude": 121.369192
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 89,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "助理项目顾问（上线测试方向）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8PBeLdAJjF8.search.89",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K",
+    "securityId": "Oxh4U2jeYNWXz-716IVrREMt9T7HKzcZQ5_a4LbO0nx_QmRmrg4R5BA3fEnMAPDiVOey8Zz0A5_sl29dR6ZCrGymfD64sUhCFQH3BCfjlF2lfv0JR6olGegPdu6RAeJUFeI2x0_Rjfc~",
+    "showTopPosition": false,
+    "skills": [
+        "实施工程师/顾问",
+        "软件实施"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "带薪年假"
+    ]
+}

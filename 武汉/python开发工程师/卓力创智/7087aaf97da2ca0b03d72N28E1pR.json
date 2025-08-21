@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武昌区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "魏先生",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230615/7b5b554d84f9729c37438b8a63ac41ca1bfa2b71cb75078f1bcef00d325b1d418dd49aea4d86ecf1.png",
+    "brandName": "卓力创智",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "水果湖",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4f636e9f60fbefd21nZ43tS9FVc~",
+    "encryptBrandId": "c6597f8bef14da771n193Ni5GFE~",
+    "encryptJobId": "7087aaf97da2ca0b03d72N28E1pR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.542648,
+        "longitude": 114.353042
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 43,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "python开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8sXx7YL9R8Q.search.43",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "4ExYo1OFkNdll--1PJreNh0fTgWK6KRskIt5j5FGKyBC0dXpxsRewQXWYr2MHjattoOMZoQogXO_6BodBp3FJ1AOj1SnDYIpeTaqncmtClGOHv85ao4Xplszto7alF5VfIPzwCXUMZXNW_9B2SKfCmygxEgollcz-UoYBHV2byIhywi75w~~",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+    ]
+}

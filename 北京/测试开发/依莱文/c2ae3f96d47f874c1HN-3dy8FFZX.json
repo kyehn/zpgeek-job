@@ -1,0 +1,59 @@
+{
+    "securityId": "EFLJ4MU2y88A6-61_wS6FWKlDNDqpLUQdlfPPELccdBTHxv-pFTjBc-b6d2UHaiyIDZyEqQtjDbwXi9JZYaCSRUBJu0tHnMmzsgbv6wrbajtGDfwj6DzIlW2toBwY5z07DFWgAzatk8bmQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240313/607f1f3d68754fd0096dd338e0575a88140e79dcc3600274ec9e00ebec72ae069d9f7e9a3498fe82_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "a42d2ea5d1233a0b1HR_3N68Flo~",
+    "bossName": "许女士",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c2ae3f96d47f874c1HN-3dy8FFZX",
+    "expectId": 1030426395,
+    "jobName": "测试开发",
+    "lid": "2bUGSofxWJE.search.203",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "统本，寿险经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "丰台区",
+    "businessDistrict": "六里桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 203,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.333883,
+        "latitude": 39.866322
+    },
+    "encryptBrandId": "dccddc32c964056d1nx539-5GFU~",
+    "brandName": "依莱文",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "人力资源服务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100014,
+    "contact": false,
+    "showTopPosition": false
+}

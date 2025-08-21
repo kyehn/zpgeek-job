@@ -1,0 +1,63 @@
+{
+    "securityId": "H7epvihrG6ofU-O1KqPXe0bcmROOFa6nkVrwjIlOy0PiHRoFCeFfP_saCQLYqwqMQsC1YoknvVj8E-75SfuH1Liglt4gpRO3kZLSLHbf2ODgGfTwaYeEW2ri-Jv3w8GfcDU34-Ri54Ip",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "80650cfb594cb4da0XN90ty1EFo~",
+    "bossName": "王女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "840cae510ad4c71f1Hxy29u0EFZU",
+    "expectId": 1030426395,
+    "jobName": "B/S系统软件开发工程师",
+    "lid": "2ZtyVRWby17.search.251",
+    "salaryDesc": "5-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "BS架构",
+        "软件经理",
+        "本科及以上学历",
+        "BS开发",
+        "BS后端",
+        "2年以上经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "郑州",
+    "areaDistrict": "中原区",
+    "businessDistrict": "高新区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 251,
+    "city": 101180100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.566895,
+        "latitude": 34.81189
+    },
+    "encryptBrandId": "a1977cd355067b17031-3dS6FA~~",
+    "brandName": "河南郑大水利科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240924/7bf6f160950405e94e44b3be73d5d96f0c8b43c785eb57a7797a30a3efea05c72dd2d4894a48346d.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

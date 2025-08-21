@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "徐汇区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210617/b741534e221a8c3170e35cbf08a674459087dce244868fbe3d9ca366d5b3e5bf_s.png",
+    "bossCert": 3,
+    "bossName": "曹晨丰",
+    "bossOnline": false,
+    "bossTitle": "人事经理HRM",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241209/7bf6f160950405e94835fd027342d2901ad6b0f0eb5172be9087dce244868fbe3d9ca366d5b3e5bf.png.webp",
+    "brandName": "凝聚元界",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "漕河泾",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f48fe32813747e2f33B72NS_Flo~",
+    "encryptBrandId": "a7063492d243dde61Hd43d27FlI~",
+    "encryptJobId": "c153c5c1d2fe28941HJ539i4FVZT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.178655,
+        "longitude": 121.409593
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 59,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9aXHX118xSm.search.59",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "lFITqGLcHmiPt-r1eqFEOQ3cTwB1Q3DD-8V8wv8x7OpkTyyBK_v_xIJe1uUc_vbQxvn15qXPoghgqDFLSRupcDJzA2LREQxEJ_vtxgYbJlDAMTnBykUsBQgyZ4ZkBLIYFMkPEFPmUsh9AA~~",
+    "showTopPosition": false,
+    "skills": [
+        "性能测试",
+        "功能测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

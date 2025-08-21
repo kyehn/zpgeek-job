@@ -1,0 +1,61 @@
+{
+    "securityId": "LU3jVMdBbzsvg-N1m--sGyA-Q1oXbCp1STN5G_yYqsACP6CWZFJAb3h5m90EtcpjDVhdyJI9FkItfE6RQYSk0skzdgtD9lNY_CddRXerB9xhADBgl_I~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+    "bossCert": 3,
+    "encryptBossId": "ae1af1dd5fc988410nV-29u8EVI~",
+    "bossName": "林先生",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4fc69841a8d05a541HZ_2dy-E1RX",
+    "expectId": 0,
+    "jobName": "网页重构工程师",
+    "lid": "5HB9VRL0vsa.search.295",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Vue",
+        "HTML5",
+        "JavaScript"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "宝安区",
+    "businessDistrict": "时代城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 295,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.866046,
+        "latitude": 22.567722
+    },
+    "encryptBrandId": "b5f1dd9c5ac53dc41nd_2dm_GFQ~",
+    "brandName": "奥库",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210104/41ec2eefefefac123937bbfa4d4adcb2cfa3baa1aa66fcac2eafb8a64570d5a9_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "广告营销",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "节日福利"
+    ],
+    "industry": 100004,
+    "contact": false,
+    "showTopPosition": false
+}

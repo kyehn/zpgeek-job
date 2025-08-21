@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241221/607f1f3d68754fd0af1450ec48ad3ea8b8944d56bf4e9f18b741552497bd03695e932e4e6a72a8f3_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "人力招聘专员",
+    "brandIndustry": "装修装饰",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240702/7b5b554d84f9729c2ffe300d4bf2be43b46c3e3905e318b6b741552497bd03695e932e4e6a72a8f3.jpg.webp",
+    "brandName": "鸿发之佳",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "天桥",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8c1cea53338acc8b0nNz39-0FFNT",
+    "encryptBrandId": "aee7d7dce55b977c1nJ42Nq-EVM~",
+    "encryptJobId": "6e33c6bb8636b29603F-39-5E1ZR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.883176,
+        "longitude": 116.392692
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100704,
+    "isShield": 0,
+    "itemId": 14,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "装饰装修预算员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cPQG9ziPWL.search.14",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K",
+    "securityId": "tLaaMaOhbbhX6-J1tqeoAWLBrTHIt8Lty_FMy4YTE9aJ6GxIS5aVvlY7V5YRk-xHvOkuHhSnskaNEP3-cVejqNggsYsh9UJhdvpp0sJ5t4zKEqdHCpnnFNUXZu92rscYaytCDqiH5kkITlo~",
+    "showTopPosition": false,
+    "skills": [
+        "精装修预算员",
+        "酒店装修预算",
+        "广联达"
+    ],
+    "welfareList": [
+        "有无线网",
+        "包住"
+    ]
+}

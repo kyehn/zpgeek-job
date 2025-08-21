@@ -1,0 +1,29 @@
+{
+    "areaDistrict": "钱塘区",
+    "bossName": "胡女士",
+    "bossTitle": "HRM",
+    "brandIndustry": "计算机软件",
+    "brandName": "柚凡科技",
+    "brandScaleName": "100-499人",
+    "businessDistrict": "和达东东城",
+    "cityName": "杭州",
+    "contact": false,
+    "encryptJobId": "817d665d7fcfab4803d50t-1GFFX",
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobName": "数据开发工程师【双休+六险一金】",
+    "salaryDesc": "4-9K",
+    "skills": [
+        "要求数据开发经验",
+        "PostgreSQL",
+        "ETL开发经验",
+        "MySQL/SQL Server",
+        "BI报表开发经验",
+        "非外包类",
+        "计算机相关专业",
+        "数据仓库开发经验",
+        "SQL",
+        "Python",
+        "数学/统计相关专业"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220207/607f1f3d68754fd05d014465f27ede399241ff0151b1cae357b96e37e5ca5132371b4ddf123a7d5d_s.jpg",
+    "bossCert": 3,
+    "bossName": "李宁",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "华清云",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "新会展中心",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "62d0a37ea599832b1XJ_3N2_FVY~",
+    "encryptBrandId": "ee5df55192f3e2f71nZ52N-0GVo~",
+    "encryptJobId": "1e533e3140ffc0c41XRz29m_EVZQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.548976,
+        "longitude": 104.066442
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 3,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2fPTIxmjQN7.search.3",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "8KFjABd5lFQ9Y-O1OKoXhUFCsf-XPiYtVAdke3J7fdjcey5uVpw_1c-lUzXAqSal9rEyw4V01GcjZQz1ZhgGS5GO6rPUz8E9kRu3UeCkWlrCL3Hp3fnQgE-XV1GMhA2dT7w_93Ka6MSIWg~~",
+    "showTopPosition": false,
+    "skills": [
+        "软件测试",
+        "APP测试",
+        "禅道"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

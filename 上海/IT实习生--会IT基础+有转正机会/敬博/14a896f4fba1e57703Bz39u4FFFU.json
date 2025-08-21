@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "杨浦区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240302/607f1f3d68754fd0762b5a1d49900b080e43ba78a708e6bf94b052bc6e350539a536f6f06791a6bd_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "封霄",
+    "bossOnline": true,
+    "bossTitle": "招聘总监",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240221/7bf6f160950405e92cc98006676693cd17a2c801e7d9c4200b0e824f987c19804497672f64efaad9.png.webp",
+    "brandName": "敬博",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "五角场",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "adf877e09037df0f1HNy2t64FlQ~",
+    "encryptBrandId": "6d1733c70cfd274c1n1_0tq7EVI~",
+    "encryptJobId": "14a896f4fba1e57703Bz39u4FFFU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.274253,
+        "longitude": 121.547627
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "IT实习生--会IT基础+有转正机会",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cKPsInea5A.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "WMLQGE19lLIVe-Z1d25mxmiXKPAw43cl0pZVpApYauEbghMnb4-Y1XE-vKP36z8cpMdkzB06BAWFSpz6yWt86qpKP49z21ubbEBJUnqQKtArSaklE8_QuBIFMvafJGuO593yDU79IJM9-HR9hsMPzUwrs_yvUD4oczLffkpYmI56vrBF2w~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "MySQL",
+        "SQL Server",
+        "Spring"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

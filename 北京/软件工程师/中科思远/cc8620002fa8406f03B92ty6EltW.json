@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "顺义区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "丁女士",
+    "bossOnline": false,
+    "bossTitle": "市场经理",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220926/7b5b554d84f9729ca919092162c983d012a8ec912a530d4c4ba41f50f3e9f77e01fc45b8b4cab347.jpg",
+    "brandName": "中科思远",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "天竺",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "498b479779ea4a8e0XJ90t60F1RY",
+    "encryptBrandId": "2522b8586cce47510HFz0920Ew~~",
+    "encryptJobId": "cc8620002fa8406f03B92ty6EltW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.095568,
+        "longitude": 116.554235
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100902,
+    "isShield": 0,
+    "itemId": 89,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7M2X0yR4CyA.search.89",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "dK1oJj6DqJcwA-F1IWjVI5HayLacLG40b7zkFpkNJaRuRH_C5g6XMeF1BitEWEDbBXQoBLfiz3E_cIveYBNa267gK5HOC7Ido9FnWJwzu4TH_wr4j5A-EkGpzUu21KbCk9PQFBBoIyDStw~~",
+    "showTopPosition": false,
+    "skills": [
+        "机械设计制造相关专业",
+        "计算机相关专业",
+        "电气电气/自动化相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

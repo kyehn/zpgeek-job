@@ -1,0 +1,62 @@
+{
+    "securityId": "peuP_wJa0XasB-T19A9u3XkUMEmLSMOvU6WivClQp5tNmqCeE69_HwsOXpiBFiowso1-fYqN_6WncmcR44V30XQ__Uet-kocTQrCgJA4iehPV1x7gwga",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230129/607f1f3d68754fd0d2c4a8a2ea9be9b7f8a30aa734dc067e02d82d897058f567219561f6851bbff5_s.png",
+    "bossCert": 3,
+    "encryptBossId": "229937ddac0b4cc00nR_39u5EldR",
+    "bossName": "王先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3bac0b603069479d1XN729q7FFZX",
+    "expectId": 0,
+    "jobName": "python讲师",
+    "lid": "5K3acD7ciUx.search.127",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C++",
+        "Python"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "晋城",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 127,
+    "city": 101100600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.852322,
+        "latitude": 35.489975
+    },
+    "encryptBrandId": "6603c4d13c130fb11nd83tu0EVQ~",
+    "brandName": "小图灵创客编程教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "绩效奖金",
+        "保底工资",
+        "底薪加提成",
+        "全勤奖"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "x7L0umFUV3mEn-t1SiSYVbWr055Khx8jsdj2QBSiOSWMss7HggVIRiR7IHXEiJ8pkHDunaFOTyunsKtoKn-qG1Mpbx-cLH33l_-ObF3F_XeH2O1WIBmh9Ime5mdY7HsC8SCipPz5Wx0Z",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210214/18004a76aef231cf6d91510c468f716f5cca7b0d180debc9df2dbe6497ea4303_s.png",
+    "bossCert": 3,
+    "encryptBossId": "294007d54c1ac9500nV_3Ny5FVpY",
+    "bossName": "徐宁",
+    "bossTitle": "高级招聘顾问",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "158d760f8ef032281Hx-3di4FlVY",
+    "expectId": 1014042683,
+    "jobName": "嵌入式开发",
+    "lid": "1aP61W9PPQk.search.273",
+    "salaryDesc": "6-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "江夏区",
+    "businessDistrict": "流芳",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 273,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.4429,
+        "latitude": 30.488129
+    },
+    "encryptBrandId": "7e2181b1cd739d211nV709u_",
+    "brandName": "南京迈特望",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170330/37a0df3df5e30741fce363286c9bcab72f2e37f88f4a22cfed6fc841193fb3c3.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "意外险",
+        "节日福利",
+        "五险一金",
+        "补充医疗保险",
+        "生日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

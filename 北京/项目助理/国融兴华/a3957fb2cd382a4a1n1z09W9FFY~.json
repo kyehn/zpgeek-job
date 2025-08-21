@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180504/10f8f7bd593db3dc07aaeea396f1e8223369f069293aef5ec338dcf217e34b82_s.jpg",
+    "bossCert": 3,
+    "bossName": "廖建伟",
+    "bossOnline": false,
+    "bossTitle": "副总经理",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/7ad3feb25634693b0f656285cc7e2ae3.jpg",
+    "brandName": "国融兴华",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "月坛",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "49456386a98e065f1Hx40tu7EVA~",
+    "encryptBrandId": "35e0e7e2002d01eb1XR43Nu4",
+    "encryptJobId": "a3957fb2cd382a4a1n1z09W9FFY~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.91721,
+        "longitude": 116.3456
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 113,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "项目助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2SZgVGu5xFO.search.113",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "0Xb6i6mE6XDHY-Q1yPTungi_L8egnp3o-gPr3X9UW5d57Uuc4JQwo-9ANWnazRBPjIx08BoI0P7GpK-S1hpdoOTuKdCyhFT8zJHWkB7lyne0pQaJ8u2_C3Xko46i4CYA3luJXLRkEw~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施",
+        "文档",
+        "敏捷"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ]
+}

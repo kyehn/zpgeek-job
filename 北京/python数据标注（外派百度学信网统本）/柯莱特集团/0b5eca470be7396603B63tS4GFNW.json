@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241211/607f1f3d68754fd0ebcc8b06c294a25d4823a3cfded7de972913c926c1b047c0ac474b4f674ba61e_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "赵玉朦",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "柯莱特集团",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "上地",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "633d64204ac7d2f81nd42Nm9EVs~",
+    "encryptBrandId": "879cece58f6a7e7d1XR929W0",
+    "encryptJobId": "0b5eca470be7396603B63tS4GFNW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.043453,
+        "longitude": 116.273585
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 24,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "python数据标注（外派百度/学信网统本）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7pSDj94oHwE.search.24",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "-R2P-wvE2LyqO-m1yymPvAJi1HyO6pgSGOwVkuuUv_h43W-xa8DsJc_ohO11RyOnYrL1YROY9-MPbI-ftvw03E1019kmmsjik3raSfksyjc4CW417t0Zem_aMjZhg0l53WJV_-w3ZsHy-yUGfIreRP32ekU6kBFrvfyQKI6oYejuIok~",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "python"
+    ],
+    "welfareList": [
+        "节日福利",
+        "五险一金",
+        "交通补助"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "Oye20Z8a4P1DT-E1gBFK7di_7d2OZ_NcgvTiYwFqTZyLUvLzC5AYyNIVhVuJToK7it-ca5FQAdm5k4S3UT8tJj6YGtbN2pTPtTMpArYaWToD9GNsBIs~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "974741be98a29ad51nV_2N-6E1JR",
+    "bossName": "戎女士",
+    "bossTitle": "人事行政",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "91450dcf37ea46df1nZ9292-FVNR",
+    "expectId": 0,
+    "jobName": "C/C++ 研发工程师",
+    "lid": "5IKBK9gO6Ly.search.253",
+    "salaryDesc": "9-14K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据结构",
+        "计算机软件"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 253,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.120453,
+        "latitude": 30.336953
+    },
+    "encryptBrandId": "387018d7d989e44f03d93NW0FQ~~",
+    "brandName": "明和科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "定期聚餐等",
+        "五险一金",
+        "定期体检"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

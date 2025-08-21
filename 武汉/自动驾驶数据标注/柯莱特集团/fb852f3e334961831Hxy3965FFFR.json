@@ -1,0 +1,63 @@
+{
+    "securityId": "N9rCrVGT8vhUE-W1xjPStWQntk0Ruomr1coq2LAq_Zc_X88m2Mu9RKUFhXLwRMSbmD_Y5WF-AirofycM-zw8NQ5ZPq6DBeXZi_PJNkwoWeRA3P7SaDMu0DN_CY9biXgWGje5IupwUHI~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181107/0b8775336486064106dac2bc1d8426f467f701e645a3aee7f5fd0c40a67df516_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "d7d33cc08462cf6e1XR62924FFE~",
+    "bossName": "孟维雪",
+    "bossTitle": "招聘经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fb852f3e334961831Hxy3965FFFR",
+    "expectId": 1030426395,
+    "jobName": "自动驾驶数据标注",
+    "lid": "2ayz7ByMFh5.search.158",
+    "salaryDesc": "6-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据标注",
+        "不接受居家办公",
+        "点云",
+        "标注数据分析"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "洪山区",
+    "businessDistrict": "光谷",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 158,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.502021,
+        "latitude": 30.491589
+    },
+    "encryptBrandId": "879cece58f6a7e7d1XR929W0",
+    "brandName": "柯莱特集团",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金",
+        "交通补助",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "Ccvu3gV1cRavg-P1aI6O18k-Dw6hsaJ9nNDSc7e2cXwx1Y8GOMSWoqE103aE28oJPlpXdlcA6kaMcUoIJXbaagfbl993DaN77GvWPKvkZvXikx5UbQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240516/607f1f3d68754fd0628f1a66f6d480562025f3885d8db7aa427af3461114b8fc05cbe3851ae9062d_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "f502b69f69303c630XB439-9E1o~",
+    "bossName": "李女士",
+    "bossTitle": "人事行政专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8d8fdb2983e9be601XF40t21EldT",
+    "expectId": 0,
+    "jobName": "优氏乳业招聘机修工",
+    "lid": "5F8A45nYpO6.search.188",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "电工机械维修",
+        "基础机械维修",
+        "包装机械维修",
+        "月结",
+        "包吃住"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "宁乡市",
+    "businessDistrict": "金洲大道",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 188,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.562703,
+        "latitude": 28.299287
+    },
+    "encryptBrandId": "f4dbca3ab250883a0nZz0tW5EA~~",
+    "brandName": "优氏乳业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220119/7bf6f160950405e9567d479ed4e121fe50882a736db2dcb883fad451c59e7069b4295fc0c53dc8fc.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "食品/饮料/烟酒",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 101001,
+    "contact": false,
+    "showTopPosition": false
+}

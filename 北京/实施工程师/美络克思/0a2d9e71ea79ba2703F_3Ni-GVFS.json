@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "曹女士",
+    "bossOnline": false,
+    "bossTitle": "人资招聘",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://c-res.zhipin.com/jrs/c7dfe6abd4b178d6f77e2128c37098f3.jpg",
+    "brandName": "美络克思",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "北七家",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "eba083cd37d92c7d0XZ83tm_FldY",
+    "encryptBrandId": "c2acff5e2a3128b43nd839m4",
+    "encryptJobId": "0a2d9e71ea79ba2703F_3Ni-GVFS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.10152,
+        "longitude": 116.453987
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cLjFYj2XfE.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-11K",
+    "securityId": "JWL0BgvDadW6W-g15i5cU1Se8Ai-JSZU5eUerxvLyn8OxMscJilH7giVnU4ZyLgJaMz4FsU6sbeOnZ2uZLOJYzMehYNs-K3q1GYOUhGdf05ej-8gZXyo8zOZnsPJWvbrdzvPeU4Cwzvd",
+    "showTopPosition": false,
+    "skills": [
+        "软件实施经验"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "带薪培训",
+        "带薪年假"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "花都区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201125/1aa0a1b336bd5a26e540ea39a1730918b467e3ec2837f90eae804dd8774fd52f_s.jpg",
+    "bossCert": 3,
+    "bossName": "邹先生",
+    "bossOnline": false,
+    "bossTitle": "HRBP",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "世佳物流",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "狮岭",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5f20d12d96cc1fb80nRy39u9FFs~",
+    "encryptBrandId": "1b57d11ee89e023a1nV63d-0GVs~",
+    "encryptJobId": "b666dfa54ea2b1631nR_39q9EFRU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.477449,
+        "longitude": 113.226678
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 123,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "数据统计员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "qZdTjbKpSh.search.123",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "OzeryRlSeC9AI-P1ymuaH0jrmXcCUEpQqJp0PBzpQeVCp3jz2Hezo-x_QYV3V9grVXHZCcY165AfFNqz4u1zattjClmDelOHdu_-ZpkFROMW0RcBtZAZNMfeffP5QXKPGDSD_KWDa4CASA~~",
+    "showTopPosition": false,
+    "skills": [
+        "数据分析"
+    ],
+    "welfareList": [
+        "全勤奖",
+        "带薪年假",
+        "包吃"
+    ]
+}

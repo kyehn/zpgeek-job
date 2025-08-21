@@ -1,0 +1,62 @@
+{
+    "securityId": "gB90v4zqBA-w2-w1cCBl9VK8t5_CnnvYfzbAXT2SSN0cbDpp4q-TvhtXngsQjrVornyDjlMxU1jRVqvkxfWxttHw5qySP4DrBftIMZ6JkOcfqMvuAXOLiGE09gQ68Ugrf_QQOpd5O23N",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201120/9ac42780bbc9d1d86ebf5dd47a2c4d454498f957930af91d8cc9fed8fc92dc83_s.png",
+    "bossCert": 3,
+    "encryptBossId": "27f589802d7324700nRy29q7ElpX",
+    "bossName": "张女士",
+    "bossTitle": "招聘hr",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4f6ec933a6219caf1H173t64GFZW",
+    "expectId": 1014042683,
+    "jobName": "bsp测试工程师",
+    "lid": "2aQo1f8Lq60.search.276",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "防护测试/全量测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "江夏区",
+    "businessDistrict": "光谷东",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 276,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.538741,
+        "latitude": 30.492563
+    },
+    "encryptBrandId": "71bcdc1198f6c83703J70tq8",
+    "brandName": "武汉佰钧成技术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/39330dfb0bc7d6cad2158722dd7d37fecfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金",
+        "定期体检",
+        "节日福利",
+        "带薪年假"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

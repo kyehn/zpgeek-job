@@ -1,0 +1,62 @@
+{
+    "securityId": "qGJoI9JfXF-uY-k1pX8W_J2MhqMZlTLlsfuxjnLpWVsRc070fGykmFoKchIp3tK9Ys5Y0hLx5F2eHTvRn3mSlWbn9SC5wyv8-3qRVHVJmqhvoZ1YOgvy",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "8c6db25541c9d9d00nV92di6E1pY",
+    "bossName": "牛先生",
+    "bossTitle": "项目助理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "521437c6d470f1951nJ82tm1E1ZU",
+    "expectId": 0,
+    "jobName": "ETL开发工程师",
+    "lid": "1a7kevHNfHJ.search.138",
+    "salaryDesc": "8-10K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "hive",
+        "SQL"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "黄浦区",
+    "businessDistrict": "人民广场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 138,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.477366,
+        "latitude": 31.238151
+    },
+    "encryptBrandId": "5c447a9a0814dc971nVy0tq6FFU~",
+    "brandName": "众景科技",
+    "brandLogo": "https://c-res.zhipin.com/jrs/9df50510657dc16702f67552ef14dd8d.jpg",
+    "brandStageName": "",
+    "brandIndustry": "批发/零售",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "零食下午茶",
+        "五险一金",
+        "节日福利",
+        "带薪年假"
+    ],
+    "industry": 100503,
+    "contact": false,
+    "showTopPosition": false
+}

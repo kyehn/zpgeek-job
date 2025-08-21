@@ -1,0 +1,62 @@
+{
+    "securityId": "6Pu6jzY5Hxh88-R1m8MuhN-gXp4cYwAWa1JhFBYuP3dIEiybTpeGdi46AHhSo54-1VM2eR6S6KmjTS39uO_bfj5oom_4Ap6SQIoQwZPcdZc4GlI~",
+    "bossAvatar": "https://img2.bosszhipin.com/mcs/useravatar/20150804/8c10366c127bc2881b6f74462a6ceae38c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "e8d9a2840194ef0c1XB93ti8",
+    "bossName": "王先生",
+    "bossTitle": "技术负责人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "78a613946432419b1HFy09S-EltT",
+    "expectId": 0,
+    "jobName": "数据技术全栈工程师（委培）",
+    "lid": "2uQqj0piF5l.search.13",
+    "salaryDesc": "8-9K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python",
+        "计算机相关专业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "徐汇区",
+    "businessDistrict": "漕河泾",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 13,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.3958,
+        "latitude": 31.17326
+    },
+    "encryptBrandId": "8af8527dc55aa9921nF40ti_EQ~~",
+    "brandName": "盈尺网络",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180304/75b669685f0779a1011d3244cb50984bbe437e40c2da407ff64d9288dde4f0fb.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "大数据",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "员工旅游",
+        "五险一金",
+        "带薪年假",
+        "绩效奖金"
+    ],
+    "industry": 100005,
+    "contact": false,
+    "showTopPosition": false
+}

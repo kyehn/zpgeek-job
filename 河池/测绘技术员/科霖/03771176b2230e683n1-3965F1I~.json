@@ -1,0 +1,59 @@
+{
+    "securityId": "RldfloEtSHcw1-X1eygjBqLlaKXfsNwXXgSTKDcrbocmL87x5KmyUeO4czREul5tT_s-F-99ZHNbxbKFWCjGMARPYu9PaSKr08DaHqE67sUzKxAd",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190307/6e6ca20204360bd085db7a1f394062de2e4dae1b8f1afeb93273242090713262_s.png",
+    "bossCert": 3,
+    "encryptBossId": "9be7d4b4a96b36cc0nJ_2d-8GVM~",
+    "bossName": "覃先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "03771176b2230e683n1-3965F1I~",
+    "expectId": 0,
+    "jobName": "测绘技术员",
+    "lid": "1Iuc6NtUgaS.search.285",
+    "salaryDesc": "2-5K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "测量/测绘工程师"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "河池",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 285,
+    "city": 101301200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 108.102504,
+        "latitude": 23.939964
+    },
+    "encryptBrandId": "82eea0ba33a03e251HN82t25EA~~",
+    "brandName": "科霖",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190308/96e30e01c91c8e3941084b6453bc81f92e4dae1b8f1afeb93273242090713262_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "其他专业服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险"
+    ],
+    "industry": 100608,
+    "contact": false,
+    "showTopPosition": false
+}

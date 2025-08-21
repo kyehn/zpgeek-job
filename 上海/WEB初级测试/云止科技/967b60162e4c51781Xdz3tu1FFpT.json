@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "嘉定区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240327/607f1f3d68754fd0b09896651b25ae5c6a111c622525f382e74919ea81fb75e778eb6123849e2fe8_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "何女士",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20221116/7b5b554d84f9729c25b130fc07202a9dc060ece6991ee6e1e74919ea81fb75e778eb6123849e2fe8.jpg",
+    "brandName": "云止科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "江桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "688c9690228449180nR-29m1GVRY",
+    "encryptBrandId": "7afe9c75e3195dc51nZ52t--EFs~",
+    "encryptJobId": "967b60162e4c51781Xdz3tu1FFpT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.237359,
+        "longitude": 121.332452
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 9,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "WEB初级测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9aZFMi2Fx8q.search.9",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-10K·13薪",
+    "securityId": "6GdN0bxTt1B0g-H1dLTrvu11GXVQ3YK_Ywvdi-G5RTYQB3kXCuLF7KR5rhO2BrdQtPFXoSNt4JZ-bZDqE-4bCq4Ths3sD05eOt096c9MJQCo-UVPQ0EiWAjGYKvWutBtkfCZiXEp-ZmAK3E~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试"
+    ],
+    "welfareList": [
+        "员工旅游",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+    ]
+}

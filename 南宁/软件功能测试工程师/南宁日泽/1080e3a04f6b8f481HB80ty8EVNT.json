@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "青秀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "向柳波",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://c-res.zhipin.com/jrs/8_2ef3b9873ef519db497b04dcc076eea7.jpg",
+    "brandName": "南宁日泽",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "东葛路",
+    "city": 101300100,
+    "cityName": "南宁",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "45d165db5725a1f303N_3du4FVs~",
+    "encryptBrandId": "3ba291b429fe280f1nx-3d24GVc~",
+    "encryptJobId": "1080e3a04f6b8f481HB80ty8EVNT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.8287,
+        "longitude": 108.36059
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 101,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件功能测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "170Gv3CplnZ.search.101",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "vu1I6KX9TRDGG-L1qnIL4LRCL7e81RSV6C_nohvHNodsFBpe9FV0b7GfPmPWodfGSGzUVHPIppJ7CW9E8sz3I8IFno3h3E-AnQiEpzYmfLD3ygKxqBGzAApA6VHoYqV71SKdiyt300Pl_Q~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "压力测试"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
+}

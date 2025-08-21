@@ -1,0 +1,63 @@
+{
+    "securityId": "ywGUGuhorncGA-G1_FlOwJXzX-JZJXtlmGvGhAFKVrxYnKpOMgA_lbmVi-ctcA2e1R8kFIjx6R80ZYru5r0LoVcTwRCoaDCPsv1ZSl7EbPUglm0~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180705/1978c484eb4d1712bc882ef2221f2c179337d5dc221e1af46b7ffea7761761b7_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "8324536538db5c661nVz2dS6Els~",
+    "bossName": "楚先生",
+    "bossTitle": "招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "307293e06e0d27b60Hd_09W4GVs~",
+    "expectId": 0,
+    "jobName": "测绘技术员",
+    "lid": "Mtr0OuAonu.search.215",
+    "salaryDesc": "6-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "测量员"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "雨花区",
+    "businessDistrict": "云塘理工",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 215,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.021718,
+        "latitude": 28.07391
+    },
+    "encryptBrandId": "a21f46dc357628990HF_09-7",
+    "brandName": "博通信息",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170908/a0beef9296496b323abcd500ade94d6c44d3d3b2299f079cc2d3665754f41d2f.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "土木工程",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "全勤奖",
+        "通讯补贴",
+        "节日福利",
+        "包吃",
+        "带薪年假"
+    ],
+    "industry": 100709,
+    "contact": false,
+    "showTopPosition": false
+}

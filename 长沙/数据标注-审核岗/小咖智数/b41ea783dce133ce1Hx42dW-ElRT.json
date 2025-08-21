@@ -1,0 +1,63 @@
+{
+    "securityId": "MzToZ1dE7y2zC-D1sRY74_r4ANSYSrFWrMX1SlI1rpyeH5UOgNze12XjT_bpwK10dxsDWmpwa72Da4YrgTG_I8dk_UpSFg33HMuiSo_8NAUZwy7R5f6nHoEp988M2fTgMgsQOvkeH8OCvFk~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "5da56596bff405940XZ739q8GVpR",
+    "bossName": "左军",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b41ea783dce133ce1Hx42dW-ElRT",
+    "expectId": 1030426395,
+    "jobName": "数据标注-审核岗",
+    "lid": "Mihr2igIzp.search.168",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据标注"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "芙蓉区",
+    "businessDistrict": "韭菜园",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 168,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.983921,
+        "latitude": 28.195653
+    },
+    "encryptBrandId": "4732623bfb1b51711XFz2t25GVA~",
+    "brandName": "小咖智数",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "保底工资",
+        "五险一金",
+        "意外险",
+        "绩效奖金",
+        "底薪加提成",
+        "全勤奖"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

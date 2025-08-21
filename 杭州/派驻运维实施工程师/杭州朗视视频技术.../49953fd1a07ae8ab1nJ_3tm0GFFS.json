@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "余杭区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20220211/a2f3e71d9181a67b287ef159c4aa3c96c61195715718b33b7ec21a92989f77c3dbecd4e9ab551687_s.jpg",
+    "bossCert": 3,
+    "bossName": "钱先生",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220211/7bf6f160950405e91b7dee88856eaea31ca191ca881002c47ec21a92989f77c3dbecd4e9ab551687.jpg",
+    "brandName": "杭州朗视视频技术...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "仓前",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0e30265b55a07f690ndy39S-FlQ~",
+    "encryptBrandId": "ca055edfde4dbcff1HV709m-GQ~~",
+    "encryptJobId": "49953fd1a07ae8ab1nJ_3tm0GFFS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.273708,
+        "longitude": 119.979911
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 6,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "派驻运维实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7PPsqtyK1Li.search.6",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "duuW0COD6EA0Y-c1M2uSDx6cJxAPHRu3YDCiyZxfnhCPc7bog5Tl0yU2NH26hEcehb0sbxCZ94Ldl4NqxT4fDL07UJYnBSLwXquVjmwxAlvGuTMPaczAgFyduSz1sRE8QNDc4BqIutA6",
+    "showTopPosition": false,
+    "skills": [
+        "SQL Server"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

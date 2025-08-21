@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180325/95d61f315544043c5057b7a65b954b36027df9addeb0024ab1266b5da198d28e_s.jpg",
+    "bossCert": 3,
+    "bossName": "沈亚群",
+    "bossOnline": true,
+    "bossTitle": "CEO",
+    "brandIndustry": "移动互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180419/2caf448492f3eec4d7a99f5313524316027df9addeb0024ab1266b5da198d28e.jpg",
+    "brandName": "加油吧科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "百子湾",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "09c31796ab8971f81HJ_3t61EVU~",
+    "encryptBrandId": "10830e69eb11ad491nN809m8Fg~~",
+    "encryptJobId": "b9e9f0af8bd1151b33dz2tq1Fls~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.894789,
+        "longitude": 116.495475
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100019,
+    "isShield": 0,
+    "itemId": 41,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "应届毕业生技术储备人才",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7pQI4i4ODEb.search.41",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "tH2i8YcMNmC96-v1uHlBvTTvZ8EfzhuQcHRvxIEFeIBskD9I1rYGL-LANQIakEulervGqlQXctmIqMgmI4eY5xrvOVnB2l6MHsE3intQcQhG4ZP2Gs01EtvmeBQvKr-vaVvHsoKJzwyj6RUHl36cBeL2vxWfqa7BGh3igjhmsPENXPY~",
+    "showTopPosition": false,
+    "skills": [
+        "网络协议",
+        "容器技术",
+        "物联网",
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

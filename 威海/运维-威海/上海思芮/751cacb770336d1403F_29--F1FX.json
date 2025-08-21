@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "环翠区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_12.png",
+    "bossCert": 3,
+    "bossName": "张嘉仪",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "上海思芮",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "银座商城",
+    "city": 101121300,
+    "cityName": "威海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9d36bd7e8aa30f4e0Xd50969FVpS",
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "encryptJobId": "751cacb770336d1403F_29--F1FX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 37.502967,
+        "longitude": 122.124662
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 13,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维-威海",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7wcDZqfo0pJ.search.13",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "ozmdje8ahnqcn-w1E1opMmxJtnDFa2YCY5tR14D1DIUDu9d8zEncQ-LAQTbCpuhuT2E8P4SgtdxX1USgLZ4SpOuqT2ezHyA5R-qkfcRMqoqW8dm1FxYZI6V_fw3VsUtfAILaQN1RXsDCEbyXA-4zl7jxJVBGVZF6A4ppxR_iryCtMlh0",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业",
+        "运维经验"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

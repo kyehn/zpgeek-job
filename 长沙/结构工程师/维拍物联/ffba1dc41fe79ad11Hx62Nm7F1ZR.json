@@ -1,0 +1,62 @@
+{
+    "securityId": "gM5Pxz3K0qYPu-x1Dmua5Y6rdvhZvHpzLVtjB-wB8yS3Y8fxpT9UHg9uYJGWQO0Y_7d00r0Av3_dwqu0nYI3NgkFCaFSsWChlqXD2CNquy0mZyna40IQ",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240725/607f1f3d68754fd02da4ce844382477130f12f87056c3858e5da050d8959d83e17029f49960de4a5_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "e70ca7eb08e13f110nB_2d28FlRS",
+    "bossName": "龙女士",
+    "bossTitle": "行政专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ffba1dc41fe79ad11Hx62Nm7F1ZR",
+    "expectId": 0,
+    "jobName": "结构工程师",
+    "lid": "5DZoIxWEFVM.search.268",
+    "salaryDesc": "8-10K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "3C"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "岳麓区",
+    "businessDistrict": "望城坡",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 268,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.89626,
+        "latitude": 28.216789
+    },
+    "encryptBrandId": "d87c9787b206e14a1HB509W8FFE~",
+    "brandName": "维拍物联",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240619/7b5b554d84f9729c2bc4fd827710e19a4c0b38ecdb5be775e5da050d8959d83e17029f49960de4a5.jpg.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "智能硬件/消费电子",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 101401,
+    "contact": false,
+    "showTopPosition": false
+}

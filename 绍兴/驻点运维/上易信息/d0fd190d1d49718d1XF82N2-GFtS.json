@@ -1,0 +1,60 @@
+{
+    "securityId": "1DUeRmk4xuOZ0-z1TEMfI-UvO6Y-udcow0tOhr5W6JHxvfpUweGY_N_tdFXv-Nv0Qe7H4ql_6bJjBuSXH0wc6ymMJlp_8F7J5VLqoIHLOcpB5JIurYo~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "encryptBossId": "48348ee30099fc421HZy39m0F1Q~",
+    "bossName": "张先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d0fd190d1d49718d1XF82N2-GFtS",
+    "expectId": 0,
+    "jobName": "驻点运维",
+    "lid": "2Df72LBkNYO.search.218",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "系统运维"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "绍兴",
+    "areaDistrict": "越城区",
+    "businessDistrict": "镜湖",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 218,
+    "city": 101210500,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.579108,
+        "latitude": 30.059465
+    },
+    "encryptBrandId": "7dbdfdaf47a72d031nd-2N--ElI~",
+    "brandName": "上易信息",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220129/7bf6f160950405e9f05d33a9d597f00917d702d859a7629ac09898bc51e3ec338b0b9b3dfd07eb1c.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "年终奖"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

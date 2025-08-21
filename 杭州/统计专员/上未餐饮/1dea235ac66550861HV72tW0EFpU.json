@@ -1,0 +1,63 @@
+{
+    "securityId": "Yt02Gcc6FRhjQ-V10_TTBipy9M6KGK6CmdgD8V8Qt5fyO5CQgP5OFW4goTERO0GNeDtwwg0vnWV778h61WFrkgsyw2uxF3IE0TEWZ7V5Ir2jlBOYbtI~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190414/035be6dd31cbd53e45f17dd5e0d054530134556bd36ae6a665a2d14185747d42_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "6a3bebfaad3e09190XR73d66EVM~",
+    "bossName": "袁女士",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1dea235ac66550861HV72tW0EFpU",
+    "expectId": 0,
+    "jobName": "统计专员",
+    "lid": "2y91zXMRBE2.search.238",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "财务统计"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "滨江区",
+    "businessDistrict": "长河",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 238,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.236494,
+        "latitude": 30.231755
+    },
+    "encryptBrandId": "5686fd88a7dec17a1HR-29i1FFQ~",
+    "brandName": "上未餐饮",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231206/7b5b554d84f9729ca7970e60d60070c3f7a07324dd8feac8b7a0c396cf76e8588654d9b3c8b215e0.png.webp",
+    "brandStageName": "",
+    "brandIndustry": "餐饮",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "生日福利",
+        "免费工装",
+        "有无线网",
+        "宿舍有空调",
+        "包住",
+        "包吃"
+    ],
+    "industry": 101101,
+    "contact": false,
+    "showTopPosition": false
+}

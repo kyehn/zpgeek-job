@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "雁塔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "温先生",
+    "bossOnline": false,
+    "bossTitle": "主管",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://c-res.zhipin.com/jrs/2_419335a7a73c5fdd65bab07fe84be2d3.jpg",
+    "brandName": "爵特西安",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "枫林绿洲",
+    "city": 101110100,
+    "cityName": "西安",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ebe1f6c0e1afcafa0nV43dy_FVY~",
+    "encryptBrandId": "c85b6530f1f4b60d1XN62NS1EA~~",
+    "encryptJobId": "0c5550e01111dcba1XFy3dy0ElVS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.216087,
+        "longitude": 108.886282
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 169,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "对日软件开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4WEKCUz75QT.search.169",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "clsEAhPmnvnpf-V10VwT6T0xauRqNRXlDFkTb3lmJtmL3vvuVJuXCfdP7siPmrrTKi6Uky-yAGEnbFrJYqnL8ikV6jEfMcVRCBumJ1VToGyu9VMrRkcOgHJAvNZaRwB-T3Jx4wDE6xba",
+    "showTopPosition": false,
+    "skills": [
+        "全栈工程师"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

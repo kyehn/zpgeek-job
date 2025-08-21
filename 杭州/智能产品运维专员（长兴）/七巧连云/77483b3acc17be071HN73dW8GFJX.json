@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "章佳丽",
+    "bossOnline": false,
+    "bossTitle": "行政人事",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220303/7bf6f160950405e9a1834b873f20c8021da5346e9701a368f8ab6991983004e420d028e13285de4c.jpg",
+    "brandName": "七巧连云",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "75b99e6e4bfd6d0103Fy3968FFc~",
+    "encryptBrandId": "6ea4c228b996a6e31XR82dW5FVM~",
+    "encryptJobId": "77483b3acc17be071HN73dW8GFJX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.200758,
+        "longitude": 120.203853
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 67,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "智能产品运维专员（长兴）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7PPsqtyK1Li.search.67",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "X9bcux0t6rkqJ-i1gVtwK6oVIOCOIBcnRrOQ5lGnkLDnlHgBE-mLetxmofwMbX5eXFcICVAl1hKZ4fMIkRtvJQ0BhQtL2Thwh13QvSEp-HetEfQA4DYXr6QqxefU81-HZ0Gxv1cy-8UN5w~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维"
+    ],
+    "welfareList": [
+        "节日福利",
+        "年终奖",
+        "五险一金"
+    ]
+}

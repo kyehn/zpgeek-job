@@ -1,0 +1,61 @@
+{
+    "securityId": "XlAjwesKfgWwL-71z9tIioipmMV96wrganYGP0eYC_S2pzhQAgAeX75HHAUK5v-GeS5z_bXh5TT6Yrfb_sMCyIWR94zs13BE8ROeFTHMx223GLdUlAk~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231019/607f1f3d68754fd050664ebd9c1932ba735dae15fe6048016d60a6d3a37b727d7e9803dfda6c3a32_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "4f9b7df92ae1b2c533B929S1ElM~",
+    "bossName": "彭女士",
+    "bossTitle": "人事HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6bf2ac771997e9441Xx609q5ElZQ",
+    "expectId": 0,
+    "jobName": "数据统计",
+    "lid": "31JCOJRqlBk.search.22",
+    "salaryDesc": "5-10K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据敏感"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "秦淮区",
+    "businessDistrict": "常府街",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 22,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.804421,
+        "latitude": 32.036421
+    },
+    "encryptBrandId": "b91c805993977fcf1XZ43dq0ElU~",
+    "brandName": "江苏玖生环境",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220805/7bf6f160950405e9ae89bb8114e763aad42ae1c7efab09e96d60a6d3a37b727d7e9803dfda6c3a32.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "团建聚餐",
+        "零食下午茶",
+        "定期体检",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

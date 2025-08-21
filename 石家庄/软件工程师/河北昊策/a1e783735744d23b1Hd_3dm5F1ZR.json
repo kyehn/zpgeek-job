@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "桥西区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230914/607f1f3d68754fd0486104f3bf39a3117a5e3427a09d4b652b34b704ac462ca591db3f82123c232a_s.png.webp",
+    "bossCert": 3,
+    "bossName": "郝女士",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "其他专业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230524/7b5b554d84f9729c243b2d05723c94bf460677f45119cd130f7c374d232ca3e0fe7e17ec145d456d.png",
+    "brandName": "河北昊策",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "维明",
+    "city": 101090100,
+    "cityName": "石家庄",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "60aad7b3d5d7cb380XVz29m5EVRV",
+    "encryptBrandId": "af5a6ece20ca9b2833N509S6FA~~",
+    "encryptJobId": "a1e783735744d23b1Hd_3dm5F1ZR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 37.995956,
+        "longitude": 114.459912
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100608,
+    "isShield": 0,
+    "itemId": 90,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "zFNMR8Yta0.search.90",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "QqLfc54yz3HsR-E15Y53Mo14fug7favm0xYN4cUB1A2hPokRdt70RxYGBZBEk9zfkkjyfgworb32NxC68WxXPUwlxxs0j2Wyk5LU0V8A5sT6enF_a-tNcCVHYs_I5V7vpl2doik6_EXsBg~~",
+    "showTopPosition": false,
+    "skills": [
+        "双休"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "保底工资",
+        "底薪加提成",
+        "团建聚餐"
+    ]
+}

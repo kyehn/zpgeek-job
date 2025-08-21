@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210407/93364ee7c2c075504d4141be3806547f1c3a38848ba023aad51332fb23ec4ecc_s.png",
+    "bossCert": 3,
+    "bossName": "许先生",
+    "bossOnline": false,
+    "bossTitle": "人力资源总监",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "盛名",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "环球中心",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f3d68fbc7af91cc90nF_2NW0ElM~",
+    "encryptBrandId": "f017ee395ec17f101nB53tq0GVY~",
+    "encryptJobId": "9b9311beb6c947701nN73d25EldT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.568951,
+        "longitude": 104.060951
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 43,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "ERP实施顾问",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d5iBmLlPgN.search.43",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "iqoVCPTfYDWhb-K1egLP1HjGvLQpnae9uEZhbPkP4aIx84Sc2ssuYNtZo8YpSAM7_krYqwgj05SUKxIza7KkeFdMqv6zzwV1iwdxPUWanQaHj8aeXQBbYRCI1qNqhgOdvaUTirn-5Upudg~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施工程师/顾问"
+    ],
+    "welfareList": [
+        "五险一金",
+        "全勤奖",
+        "带薪年假"
+    ]
+}

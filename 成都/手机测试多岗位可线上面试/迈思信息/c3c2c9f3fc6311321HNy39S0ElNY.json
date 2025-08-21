@@ -1,0 +1,62 @@
+{
+    "securityId": "oJYsESjLYnGnQ-P1O9dCK3nb_Cyf-xlvlmd2Ei-1hoykS25flzB-M3cRDjm5TC--AgViCc0clL-AHoHWkyQ5gzf1Odws_TEoRvIyzZwvxxxdBtIjmA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240624/607f1f3d68754fd08ff1eb6fead5ae130bb7dd51f430cc7b5d824bf5a421eca85248a4b3b3042bf7_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "1c8216809ca4958e0XV52NW4EVZW",
+    "bossName": "黄女士",
+    "bossTitle": "招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c3c2c9f3fc6311321HNy39S0ElNY",
+    "expectId": 0,
+    "jobName": "手机测试（多岗位，可线上面试）",
+    "lid": "2blBsYnPkPR.search.294",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "BSP"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "武侯区",
+    "businessDistrict": "桂溪",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 294,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.063568,
+        "latitude": 30.578369
+    },
+    "encryptBrandId": "d7f93a518301e06d1Hx52tS_",
+    "brandName": "迈思信息",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/81384644a148e978fe2ea9a41c67cb62cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "移动互联网",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "定期体检",
+        "零食下午茶",
+        "带薪年假",
+        "通讯补贴",
+        "五险一金"
+    ],
+    "industry": 100019,
+    "contact": false,
+    "showTopPosition": false
+}

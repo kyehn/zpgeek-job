@@ -1,0 +1,62 @@
+{
+    "securityId": "dFBxFw2s0A0wy-y1onnAhjNcIdgPh664-Ilkb9UoyG64oH_TsOTE8PAyuS9Tl58VmFgf9Y2KCziC_THDwq_YdVuBuPDe70gbvPotwUvgZ09u3dsu1TtY",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "encryptBossId": "52d6de5d6485c3e41nV92ty6EFBY",
+    "bossName": "柳女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "95e3321fceefdec11Xxy2dS-FVdZ",
+    "expectId": 0,
+    "jobName": "OA软件设计开发（杭州余杭区）",
+    "lid": "1JZJNSJNHU9.search.87",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "金家渡",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 87,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.092699,
+        "latitude": 30.342993
+    },
+    "encryptBrandId": "d733860d0f88b9481XR93Nq1ElA~",
+    "brandName": "浙江科特地理信息技术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220422/7bf6f160950405e97ab2533e3627287516d56af1516eb1c11bd2c82dc4811ebdac1ca73010005f0c.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "工程施工",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假",
+        "餐补",
+        "节日福利",
+        "提供住宿",
+        "五险一金"
+    ],
+    "industry": 100702,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "北辰区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "bossName": "刘卫东",
+    "bossOnline": false,
+    "bossTitle": "技术经理",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "天津瑞芯源",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "小淀",
+    "city": 101030100,
+    "cityName": "天津",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3f84de97a53268fb0nZ939S1EVBW",
+    "encryptBrandId": "b5bfc87cc7a5f2390HN63tm5Fg~~",
+    "encryptJobId": "fa266983bd3825bc1nx82tq5EFJR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.224744,
+        "longitude": 117.279183
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100902,
+    "isShield": 0,
+    "itemId": 128,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3pqNdYplERl.search.128",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "LNgHz3MFLC7fa-D1AEdU3SU4GAMA0AQ61RdoU2jzYkFMRShWrjigr6raW6HdFQvt2f-Y8aDrqsiOd3po_NmbXIi1kDLtg0her38lUrnuyCxjRUm9086JWQQyESsnYJcuFOKeVwO5hsB4pQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "SQL",
+        "MySQL",
+        "SQL Server"
+    ],
+    "welfareList": [
+        "员工旅游",
+        "五险一金"
+    ]
+}

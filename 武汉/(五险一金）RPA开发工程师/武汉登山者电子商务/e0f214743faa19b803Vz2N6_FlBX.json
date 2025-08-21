@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江夏区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220310/607f1f3d68754fd0d7ba88da0a718db509c11ba10edcf41090e19cd24341b9d69aebca8b10b94890_s.png",
+    "bossCert": 3,
+    "bossName": "赵女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "武汉登山者电子商务",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "流芳",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "41735ccd20e83e330nZz29i1FFdV",
+    "encryptBrandId": "d4a65b3db47223851HN92N-8FVU~",
+    "encryptJobId": "e0f214743faa19b803Vz2N6_FlBX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.456014,
+        "longitude": 114.398083
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 34,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "(五险一金）RPA开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7SKZ6e4uo2N.search.34",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "hXwMdS6SyqgLJ-n1QZDl3wr7CgKH4Y9dfUjFTYgUcPlkx2w5sqWKqIUxhFLUnLBYnllwpAw6DnbfhsewQJPDtdw4dE1MfcXz0Atuu3kBiAQ0-ksOXD-WPq0ckkz4ijAk95o1Y1bdS5TpCNw~",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

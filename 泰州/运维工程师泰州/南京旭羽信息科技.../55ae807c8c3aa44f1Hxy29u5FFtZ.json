@@ -1,0 +1,62 @@
+{
+    "securityId": "JVy5ZjHp8zu8W-B1SdhffOrCYUS0IX7KWp17eQZILEQUtzQaEkq2ye39HUQJjha5r9cP9e9vZELp-wlLNlYaw8HaAh-goI1eitEogf_yPGD7GZLzGE8L6TRzDlcBxJOtSGoe9twmtpD2TUo~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240124/607f1f3d68754fd051230545be2d0dc87e6884eeba1aae5c9945f8a207b62b5a0e4b5799f4adad17_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "905b2ba8639524700nd82t-9ElRX",
+    "bossName": "郭女士",
+    "bossTitle": "招聘",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "55ae807c8c3aa44f1Hxy29u5FFtZ",
+    "expectId": 1030426395,
+    "jobName": "运维工程师（泰州）",
+    "lid": "LYtXdKZfi9.search.101",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "网络运维",
+        "LINUX系统",
+        "window",
+        "IDC机房运维"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "泰州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 101,
+    "city": 101191200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.042201,
+        "latitude": 32.912703
+    },
+    "encryptBrandId": "36d706f12ca0bcb01nB409S5GFI~",
+    "brandName": "南京旭羽信息科技...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

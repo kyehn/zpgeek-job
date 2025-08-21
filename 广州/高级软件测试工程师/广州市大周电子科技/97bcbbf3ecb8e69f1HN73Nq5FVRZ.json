@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "越秀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221214/607f1f3d68754fd05e296aeebb99cecdb4acb48dc9c6eab26437526fead272afa2a5d4031f12ea0e_s.png",
+    "bossCert": 3,
+    "bossName": "关戈",
+    "bossOnline": false,
+    "bossTitle": "技术总监",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230912/7bf6f160950405e91e86b0531c00f4ebb1cbe5f8e392fb589e76e2688b0f70c2c0e3343f6335b56d.png.webp",
+    "brandName": "广州市大周电子科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "五羊新城",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3bbb8da069d75f520nN72N69FVVV",
+    "encryptBrandId": "aceead46d56f9ef81Xd_39i-FFE~",
+    "encryptJobId": "97bcbbf3ecb8e69f1HN73Nq5FVRZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.12761,
+        "longitude": 113.308637
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 32,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "高级软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8komVYL8TNK.search.32",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "AgoPR3DIHUEPa-Z1mN9Vt_Ga00xBm2vDZcqq4dbpUWjGJ9cM3N2TaU9K23arsnpSa1nLypO2uIfZXubYCS4vkbXvVkUHp_dpCKf7HhXrVR2TUc40shgLDGC7Ejl3MMxTT71sZc7IS23gEvg~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "压力测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

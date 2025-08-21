@@ -1,0 +1,62 @@
+{
+    "securityId": "nzzTW1SKlBFiB-71A0q2lO8ZQ2hkurwhucVMprd-_hPUNKaftrgEVBRY6eEWBihnDQkTvgQ6UQWH3jiIhTwN51wTBbBGGaEeX13N_SV1_wUDV6-mrE3-",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "4c7a4aa8679bcf8a0nR42d25ElpZ",
+    "bossName": "陈先生",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f59cc96313d859051nN73Nu6GVNZ",
+    "expectId": 0,
+    "jobName": "幕墙设计师",
+    "lid": "3mqg9C5I3Zp.search.294",
+    "salaryDesc": "6-11K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Revit",
+        "公共建筑",
+        "综合体",
+        "幕墙设计"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "垡头",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 294,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.529579,
+        "latitude": 39.850959
+    },
+    "encryptBrandId": "2d2e272544e8c0711nZ629i_FlA~",
+    "brandName": "策力",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "",
+    "brandIndustry": "建筑设计",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "餐补"
+    ],
+    "industry": 100703,
+    "contact": false,
+    "showTopPosition": false
+}

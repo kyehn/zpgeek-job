@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宝山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191226/c4adada0af85082c6a5c1091a6e696fe38998a2c06d89700547d49ae9d0286f6_s.jpg",
+    "bossCert": 3,
+    "bossName": "刘女士",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "新零售",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190401/49edb9a28a5e001cb8b69b6bd65890bf185b38e2db20e8399d4f4d054476144a.jpg",
+    "brandName": "上海长生",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "友谊路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "69d60b69879685ec1XR43Nm8FlA~",
+    "encryptBrandId": "ac661dd0634116d31X183t2-Ew~~",
+    "encryptJobId": "00af683c937fc0ef03R43N20EFRY",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.38156,
+        "longitude": 121.467461
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100017,
+    "isShield": 0,
+    "itemId": 76,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "数据分析专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5SYlIkDKRyf.search.76",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "LBTDWv8Sv2kK5-e1-8Qp7fwo-VNeNvi6cqMwN004afjUZyOJS8Z8Ge_Rn-i0_NC61knThOzmRQOPhvQg9943oMCU3V_M2-4grYt7mCL-jn4WbaVDDg~~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业",
+        "接受实习/在校生投递"
+    ],
+    "welfareList": [
+        "五险一金",
+        "节日福利",
+        "零食下午茶"
+    ]
+}

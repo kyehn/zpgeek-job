@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191119/797c44fe698ff1a5a4d45e12133723fc51b014be5aa528007fa1d5ba7d0eb389_s.png",
+    "bossCert": 3,
+    "bossName": "曾小雨",
+    "bossOnline": false,
+    "bossTitle": "人事行政专员",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "汉德瑞",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "220382cac02bda0b33Z62Ni8GVI~",
+    "encryptBrandId": "b4e2118d2fd0e81c1nZ83ti8GFY~",
+    "encryptJobId": "14562cfc6f3991781Xx609W_EFtR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.136876,
+        "longitude": 119.990699
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 69,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "python工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7PJ6jcjgqva.search.69",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "nqIolo27OXCg7-N1ylNv_y8byUVImOWUIssfOsmhgxAArmr-T_ag6KZJwLx9Ila4AyNW5sHy4NhIlHlzNvOxlymjNIGDTpqKAMS3rhv9mk-fUcm37awfZzz9ldEfEhh5ucsHTK7xzLtrXg~~",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "全勤奖",
+        "定期体检",
+        "五险一金"
+    ]
+}

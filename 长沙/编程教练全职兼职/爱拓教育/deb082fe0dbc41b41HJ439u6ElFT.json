@@ -1,0 +1,62 @@
+{
+    "securityId": "Bzg320TumBArU-I1cTWBl_jhOFJXH4bUG_9BcnJEzWvGHXlwmf6AtWDen7C2GDULzt1wgwvQi1fVNshJ2r4Vk6ZInj0QMCPsh59JrMtiuMgx0kd__w~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230505/607f1f3d68754fd037459e30f433a0a25a0a655bfec21842177cd765d6edb684374f8449d211c632_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "bf03802e79e058ba0ndz09W-FlM~",
+    "bossName": "方先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "deb082fe0dbc41b41HJ439u6ElFT",
+    "expectId": 0,
+    "jobName": "编程教练（全职/兼职）",
+    "lid": "2zFDOUZu0rk.search.247",
+    "salaryDesc": "5-10K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "编程"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长沙",
+    "areaDistrict": "望城区",
+    "businessDistrict": "月亮岛",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 247,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.902382,
+        "latitude": 28.283606
+    },
+    "encryptBrandId": "e5f892f85bb1a9981nd63d-9GA~~",
+    "brandName": "爱拓教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "在线教育",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "加班补助",
+        "五险一金",
+        "节日福利",
+        "带薪年假",
+        "全勤奖"
+    ],
+    "industry": 100012,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙岗区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "环保",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230324/7bf6f160950405e94707ff0634608df2b6065e60a374d2e99a7b002f9e793be1caea8e667e0df53a.jpg",
+    "brandName": "中志环境",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "横岗",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b1dc78d80dc9a9491nVz2N27E1dR",
+    "encryptBrandId": "b8aaaf7cbdee78443nB929m5GA~~",
+    "encryptJobId": "76cc387b2585034d33170tS9EVQ~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.684871,
+        "longitude": 114.229863
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101207,
+    "isShield": 0,
+    "itemId": 39,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "项目实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cVUdJoUjaW.search.39",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "kNDKOk1R5wnPj-x19PiAF466cmuiCqjHE8MsqImyD6EVyiFoMGQK-zuQkHdcgB5GiTzCIOOVYeImt59owLBvgb-F-HRWpKfOpcvb0P-4TAWI49NBHpJKqQ5MSfC1zvJKwCgBCb5pBtrk",
+    "showTopPosition": false,
+    "skills": [
+        "环境 监测 项目工程师"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

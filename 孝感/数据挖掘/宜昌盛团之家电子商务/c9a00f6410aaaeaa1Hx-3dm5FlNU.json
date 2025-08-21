@@ -1,0 +1,61 @@
+{
+    "securityId": "aAyMPwR8y9H9b-61xiANd77EqU99Gtb9JT2FM0eyVn35IaJK50kZ1jmiBKOEniTJZTp1iWNP8txaFJl_EViBGJc7ktRV9VLA35qOWR9qd81cGnY2hHj03W0jCaTtLw3g3faH8FJXo0TCWc8~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240901/607f1f3d68754fd05a1bf3288650016c1f04d674fa2b004c6fc559159f438ceb3c6d4448bb92f8dd_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "c1c177f492f3b7c30XN-39-5GFtS",
+    "bossName": "许良坤",
+    "bossTitle": "HR人事部门",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c9a00f6410aaaeaa1Hx-3dm5FlNU",
+    "expectId": 1014042683,
+    "jobName": "数据挖掘",
+    "lid": "3nt8cpU3TBC.search.7",
+    "salaryDesc": "6-7K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "大数据处理经验"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "孝感",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 7,
+    "city": 101200400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.956819,
+        "latitude": 30.900716
+    },
+    "encryptBrandId": "d4dd0e34f3df7a881HJ-3t24GFE~",
+    "brandName": "宜昌盛团之家电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240822/7b5b554d84f9729c2aa885a1dd5a888728c75789dec699284e416d52eab735cdc6002770d15e32bd.jpg.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "有无线网",
+        "股票期权",
+        "绩效奖金",
+        "意外险"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "bossName": "张先生",
+    "bossOnline": false,
+    "bossTitle": "副总",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170304/39aa048fbe2dfca1dcff81e788d0e7e08f8e4fa35a6226449f7ba09c12cf5f61.jpg",
+    "brandName": "上海畔游",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "张江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "eb2908ec1d13f41e1HR609m-GFQ~",
+    "encryptBrandId": "627007093933f10d0nZ_39y-",
+    "encryptJobId": "11fde9383c0a88641XV62d20ElBS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.222964,
+        "longitude": 121.630915
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 18,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Java工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7HzvIm6dzMb.search.18",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-13K",
+    "securityId": "lpPgHjLi6V8MN-V1i8dDlcrfRBRddRsB0pNf_1G_L2FqS4r0ajQ165S9_rPnEjYgiNns1uRdlVdrOQT3ID9TutLuVhkyrLUu7OMvHLvC7oUtNEqrFvOEZXicNbWi0gTpN8uGmFlOa7E~",
+    "showTopPosition": false,
+    "skills": [
+        "Hibernate",
+        "服务器配置",
+        "SQL Server"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

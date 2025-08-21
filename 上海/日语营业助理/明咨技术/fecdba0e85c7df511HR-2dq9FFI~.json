@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "普陀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "徐女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "明咨技术",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "长风",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d25816ee3a04a27703B93NS1F1E~",
+    "encryptBrandId": "33a8e445a756366c1XFy2tS0EQ~~",
+    "encryptJobId": "fecdba0e85c7df511HR-2dq9FFI~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.2265,
+        "longitude": 121.3932
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 136,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "日语营业助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7ya6ANFk3Z.search.136",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "15GlOdmO7siFL-51F1kUoiCRkmX8i4AQD0e37aGFEU9dmE5ogUQPHfRYFmdA2gWHJpRSjeZxNOx-SemfbCtwmVM7O1IMlBFCFN5YNp_pKmNnKU8OI5HdyBNIM8bqDJh62s3mxnH5fRg~",
+    "showTopPosition": false,
+    "skills": [
+        "口译"
+    ],
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "年终奖"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "iVw3NmYb1EHyo-F1vgqpyMIWnIw6jF9TAqN4-ATHX7RLqbucOekb36-FMvzrG7fgardeaB4KLbEqcS4E0oJsTuZsaUatDw2Lak7iPdAYnflMPFqtOiBULGXJRnI9nZlrFEIQDBklRboNg84V7LatxUI4eUZqKoKVqsNDdBszV3UTlMg~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210603/adf2a0890378932fcbcc5a5d9638c29f2ad1a2fd670dbd103fdb45e64d01fd2a_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "2a9660b9d6d937731XV_2927GVA~",
+    "bossName": "谷志彬",
+    "bossTitle": "招聘主管",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "88d9c8bbe62f73fc1Hx43dm5FFJY",
+    "expectId": 1014042683,
+    "jobName": "口腔医助---顺义店",
+    "lid": "1e9yqAMborE.search.224",
+    "salaryDesc": "2-3K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "口腔科"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "顺义区",
+    "businessDistrict": "仁和",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 224,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.67083,
+        "latitude": 40.126755
+    },
+    "encryptBrandId": "a65472db18b62f631HJ609W7",
+    "brandName": "欢乐口腔",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171123/4e4c32f8c4269849811a4342e6292a7d79d0f2866b2a7672ad211496bd9b6cb1.jpg",
+    "brandStageName": "B轮",
+    "brandIndustry": "医疗健康",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金",
+        "餐补",
+        "定期体检",
+        "员工旅游",
+        "带薪年假"
+    ],
+    "industry": 100006,
+    "contact": false,
+    "showTopPosition": false
+}

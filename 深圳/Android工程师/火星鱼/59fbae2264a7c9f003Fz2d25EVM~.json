@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宝安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180611/b486c323f8e40a9734c889792f4641abcfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "bossName": "陈曦",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181208/db7d68470f5ee3b405d7c1faccf06bfc5a02a6f3a37b3f5f331e04889f375276.jpg",
+    "brandName": "火星鱼",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "新安",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "63b1544b6ffa189303R73t61FVM~",
+    "encryptBrandId": "646ec9e06f8878d51XR93NS_Fw~~",
+    "encryptJobId": "59fbae2264a7c9f003Fz2d25EVM~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.583427,
+        "longitude": 113.917743
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 86,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "Android工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7MhgH1mGHez.search.86",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "IB3s4Mwye9H1t-W1cF6WJPmfbIuYVEexRQIdGfu5Rzl8-frfrroNcRzXz8LO3ypTeUA7rToqO1JwOSNCT9VZxBgADW68O5wXJURqJ5mTuwyiatQm_iLnHPyZoTe7fidt6iRPSNkG-2M~",
+    "showTopPosition": false,
+    "skills": [
+        "Android SDK",
+        "Socket",
+        "java"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

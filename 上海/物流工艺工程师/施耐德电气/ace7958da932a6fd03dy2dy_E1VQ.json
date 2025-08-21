@@ -1,0 +1,72 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220725/607f1f3d68754fd0a2ac8bc6bcdfa8a3b1e21a813d481f3fdc773d32e82925cb5d298f433dade299_s.png",
+    "bossCert": 3,
+    "bossName": "贺女士",
+    "bossOnline": false,
+    "bossTitle": "TA Specialist",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/ae3b569de4a83d8149045db63a9b481a.png",
+    "brandName": "施耐德电气",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f0eb8f72c28592b00nV-09i5GVVU",
+    "encryptBrandId": "5564ed2c1573e28f03Z53d61",
+    "encryptJobId": "ace7958da932a6fd03dy2dy_E1VQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.265234,
+        "longitude": 121.367889
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 62,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "物流工艺工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cJLBnhYj0b.search.62",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "94lp_SLIokr1F-41VL1FSlP3yXjrKMi1mgxKAiwyLkBnXTgxJtK7dg7dHVRuvLLbH8a6enrVHVzz87w8-B7BxRz21VS-hvYQNhbVSnhlK4yM94LbYPH16Osc8le0bXFnPNH28P_CYzPu",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "股票期权",
+        "通讯补贴",
+        "带薪年假",
+        "定期体检",
+        "补充医疗保险",
+        "年终奖",
+        "五险一金",
+        "免费班车",
+        "节日福利"
+    ]
+}

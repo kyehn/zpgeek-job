@@ -1,0 +1,83 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 1,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "蔡女士",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某500强上市公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0bb61c222b566ece0nN52tq8E1VS",
+    "encryptBrandId": "",
+    "encryptJobId": "a4189057d0ed431f1HFy3t65FVtW",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.466663,
+        "longitude": 114.417198
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 15,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试工程师（双休&五险一金）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8o6Fs0yZrNU.search.15",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "8-11K·13薪",
+    "securityId": "LPNcdOuBr1_XD-a1yDMQp58oxjdvMOSXh50RktL02qyFBTEDmMcrhejJtNnUl5PoTlJBn2q3DGaoPYaKHoOUeeuNvJCT8yM1F_kZjGDB61d8lpjx",
+    "showTopPosition": false,
+    "skills": [
+        "性能测试",
+        "自动化测试",
+        "功能测试",
+        "Selenium",
+        "Postman",
+        "JMeter",
+        "计算机相关专业",
+        "自动化测试经验",
+        "掌握软件测试理论和流程",
+        "APP测试",
+        "H5测试"
+    ],
+    "welfareList": [
+        "股票期权",
+        "补充医疗保险",
+        "员工旅游",
+        "年终奖",
+        "节日福利",
+        "定期体检",
+        "加班补助",
+        "五险一金",
+        "餐补",
+        "带薪年假"
+    ]
+}

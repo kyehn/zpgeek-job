@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "增城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "李思琦",
+    "bossOnline": false,
+    "bossTitle": "行政经理",
+    "brandIndustry": "其他专业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201028/4cd5084b651cffc6535a1844d838d8c1e77dd554c2d9cadf05c5119a4fab58a2_s.jpg",
+    "brandName": "几何智慧城市科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "新塘广场",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2bb7cb44656519520nF42N-6FlpT",
+    "encryptBrandId": "f452957ef48c08ec0Hd_3du4Fw~~",
+    "encryptJobId": "107b67e7f7d209d21Xd93Ny7EVBT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.102119,
+        "longitude": 113.568313
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100608,
+    "isShield": 0,
+    "itemId": 93,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "qYH1AyVYzI.search.93",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-7K·13薪",
+    "securityId": "RNkoB6hdBjsGL-H1qI8dBH8PFJCsBlZQ7df4uPFLIw412t-WdSWdREvIoNJUqWlgBXinUmRlm-c2raW4rxF6an_a2Kz8q9ghtpH6urcACCwaRay_gSHuI2y7F6bwzMJMDHZZQaTUWN0Xnw~~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维"
+    ],
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "餐补",
+        "节日福利"
+    ]
+}

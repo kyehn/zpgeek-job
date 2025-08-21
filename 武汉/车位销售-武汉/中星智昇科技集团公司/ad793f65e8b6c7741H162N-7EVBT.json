@@ -1,0 +1,63 @@
+{
+    "securityId": "7oe78ryjMQVdf-01pViLAhl8AmV_IuDcKj60sbqwg-xGbITqaDgAJMgav_Ay6rwXuyuqIcJDD7A8Le6Yn6KXy4kQxnbh-cvgdl7HmfE7JaE6XwN7yKG1zZcKSLjlfMkibARwsy-BcT4-yA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230921/607f1f3d68754fd01f3319eb51b13c8a630c3cce20d8be493cdf8111fecae5c44803e0d62d7a5e5f_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "d9049f451e7e3a1b33Z63d-7ElA~",
+    "bossName": "白女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ad793f65e8b6c7741H162N-7EVBT",
+    "expectId": 1030426395,
+    "jobName": "车位销售-武汉",
+    "lid": "2azI143RF1k.search.119",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "房地产"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 119,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.483841,
+        "latitude": 30.472698
+    },
+    "encryptBrandId": "69f4171870240df31HN60tm-E1c~",
+    "brandName": "中星智昇科技集团公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240903/7bf6f160950405e92123e1b3fb9ea5fe5c864fc560a22d6e3cdf8111fecae5c44803e0d62d7a5e5f.png.webp",
+    "brandStageName": "",
+    "brandIndustry": "投资/融资",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "带薪年假",
+        "工龄奖",
+        "节假日加班费",
+        "加班补助",
+        "绩效奖金",
+        "五险一金"
+    ],
+    "industry": 100207,
+    "contact": false,
+    "showTopPosition": false
+}

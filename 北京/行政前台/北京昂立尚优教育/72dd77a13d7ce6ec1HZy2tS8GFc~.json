@@ -1,0 +1,63 @@
+{
+    "securityId": "a5n1wHqhG9sUB-I1RAGD3jdqlRNkNICyw-FF7LhV42pJ4kWS0SnBkOKMon84ygCBkZOWFOXyziqdTZ2gSE_dfIJHSXGKxyLEpazG_84nj2qUF8HSlrgAitieBKzo4nvE6xqHSbL6YdM~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240817/607f1f3d68754fd07a58537050be6147cfb9bf0537b9ea6982c555f43460df2f15b3f8b2b7fa1e4c_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "c72830ad0fccd1630nV90tq7GVM~",
+    "bossName": "刘女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "72dd77a13d7ce6ec1HZy2tS8GFc~",
+    "expectId": 1014042683,
+    "jobName": "行政前台",
+    "lid": "2bEB7wDPDqa.search.282",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "前台",
+        "行政"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "房山区",
+    "businessDistrict": "长阳",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 282,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.1608,
+        "latitude": 39.75522
+    },
+    "encryptBrandId": "e64e9a227f45689c1Hd40tq0FA~~",
+    "brandName": "北京昂立尚优教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201215/1510045730fe076a6d62f4ccc99c3bbf82c555f43460df2f15b3f8b2b7fa1e4c_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "年终奖",
+        "节日福利",
+        "五险一金",
+        "零食下午茶",
+        "带薪年假"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

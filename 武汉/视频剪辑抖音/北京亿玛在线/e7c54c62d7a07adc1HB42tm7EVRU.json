@@ -1,0 +1,61 @@
+{
+    "securityId": "8kjjkLDTlVitE-a1rxhpQF1lm5LLr09RaZd5SKpe8_4akfMRyAxBx2Rosuj7EW6_9psBOmOGH8x6Ad7pN869alytUqI6YyUDzGq4z2KraTUUr9yrl1Rv8s_4WSfvmjWIf-V3nWN2tjXwTxKtyQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211203/607f1f3d68754fd0bc9a260afe84a4762a28ce0804ef9b7ffd29aff162677d35342ef85b15cc2438_s.png",
+    "bossCert": 3,
+    "encryptBossId": "873a059d3c7167961n1z39q1GFE~",
+    "bossName": "汪先生",
+    "bossTitle": "人事HRBP",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "e7c54c62d7a07adc1HB42tm7EVRU",
+    "expectId": 0,
+    "jobName": "视频剪辑（抖音）",
+    "lid": "3pZfrtkwdSl.search.263",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "剪辑"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "洪山区",
+    "businessDistrict": "关山",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 263,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.411124,
+        "latitude": 30.484036
+    },
+    "encryptBrandId": "418edea720c258d21nV83A~~",
+    "brandName": "北京亿玛在线",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20190907/27c88dde5b8bf69f762d2c865d5b4036be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "互联网",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "带薪年假",
+        "餐补"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

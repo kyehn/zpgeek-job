@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天河区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240606/607f1f3d68754fd02f7716e8c3078645eca2d7f34cbc52209e258faf7ecf2ceb119e23c01593ea18_s.png.webp",
+    "bossCert": 3,
+    "bossName": "罗先生",
+    "bossOnline": false,
+    "bossTitle": "项目交付经理",
+    "brandIndustry": "人力资源服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230214/7bf6f160950405e9c19e513513f0320974b2049944ddd37336c7ba2ae31fb637c07f44ce77e923f7.jpg",
+    "brandName": "铭思软件",
+    "brandScaleName": "500-999人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "车陂",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c3c4f0aa0debca591HN73t25E1Q~",
+    "encryptBrandId": "9c1cdd6d6363a4231XBz39q4EVU~",
+    "encryptJobId": "ad786b39807df7a603F-3tu9ElJS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.164993,
+        "longitude": 113.402735
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100014,
+    "isShield": 0,
+    "itemId": 48,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "广州-外包运维交付工程师-双休",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "88Tg31MIjXu.search.48",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "FuBsYZET2e_4v-K1lMErCo_GL8EVJwVBoBW0r7TlQAVd6_LBq9C3t5dhpKWJA176Qnfxf8ZWk297rVg7emLT_UwzFJcsB0UOVrC3OKjgP57QxmtmIE8Ln9k4vku0lWmez0Q0P53GsmvnCA~~",
+    "showTopPosition": false,
+    "skills": [
+        "运维开发经验",
+        "Python/Shell"
+    ],
+    "welfareList": [
+        "节日福利",
+        "年终奖",
+        "五险一金"
+    ]
+}

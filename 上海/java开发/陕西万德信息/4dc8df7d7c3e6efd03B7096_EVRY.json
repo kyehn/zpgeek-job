@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "杨浦区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "寸女士",
+    "bossOnline": false,
+    "bossTitle": "高级招聘专员",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/2be36519da50956c4d0678482b927093.png",
+    "brandName": "陕西万德信息",
+    "brandScaleName": "500-999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "江浦路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c9592461eca81e671HJ62Ni4F1E~",
+    "encryptBrandId": "ec1f891848b320511nZy2tW0EQ~~",
+    "encryptJobId": "4dc8df7d7c3e6efd03B7096_EVRY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.26002,
+        "longitude": 121.514133
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 43,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "java开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8PzaKHQ9CxN.search.43",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "Ap9sup-4hiLH3-010wytKK13TurqrR7tEunD29l9Bwv6IUhTgarYdQKC6QoxdgGg9y69zsZNweYSrB6Zfw9FkCkl9emQn9bzdIOv0iT0wW8CUGDJ-7sCPq5w-wcXVz6tqUG3ST9bvk4U",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Spring",
+        "MySQL"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
+}

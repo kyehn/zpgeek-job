@@ -1,0 +1,63 @@
+{
+    "securityId": "0IBj8k1xZMOwe-h1QwlCKYyTCDN0lz2c0cGO72QCkmGVrYfneQ9iWI0n5ZETr9YA2gF28LlQMNXNkq4pr96IisJvn7SGMsTjwbGQAEvH69EceV_gwTT7",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230214/607f1f3d68754fd03132b3b29f4a629df443f311e08ffe737045af09e797c3a5dbb750d8685205c1_s.png",
+    "bossCert": 3,
+    "encryptBossId": "3175da397fe9fdce0nx639i4GFNZ",
+    "bossName": "陈先生",
+    "bossTitle": "销售经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ca7648269a8de5841XJ809S4FVBX",
+    "expectId": 0,
+    "jobName": "软件学徒",
+    "lid": "5LdwqaJR7zr.search.131",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "软件技术支持经验",
+        "软件实施经验",
+        "可适应出差"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "台州",
+    "areaDistrict": "临海市",
+    "businessDistrict": "大田",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 131,
+    "city": 101210600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.220137,
+        "latitude": 28.911397
+    },
+    "encryptBrandId": "30c74cb6576c49381XF72d24FFs~",
+    "brandName": "中瑞软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "底薪加提成",
+        "加班补助",
+        "员工旅游"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

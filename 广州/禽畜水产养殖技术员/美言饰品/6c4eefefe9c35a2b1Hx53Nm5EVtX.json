@@ -1,0 +1,62 @@
+{
+    "securityId": "VQi2jxPDKWok7-61jjEu36uEeAZb5Sb8BT1bJDJx1rCCUJXhR-DvyRTy9sIL47JgIlg2ztsM8xpsxpzu2LIPmBwFUG8sORy_KwPAUJbSoXmXa92kvaaQjBEPzZHXxss6xlmrlpK5AJ1NtYc~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230130/607f1f3d68754fd02b80d19a0d79ff9aabbd1c8dd935e3e540d2f081692ab362c8996627594902b7_s.png",
+    "bossCert": 3,
+    "encryptBossId": "9cb8ccc9ed47f2030nRz3N27F1BV",
+    "bossName": "徐丽燕",
+    "bossTitle": "董事长&总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6c4eefefe9c35a2b1Hx53Nm5EVtX",
+    "expectId": 1014042683,
+    "jobName": "禽畜/水产养殖技术员",
+    "lid": "1gdtApw5RgB.search.182",
+    "salaryDesc": "2-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "接受无养殖技术员经验/技能",
+        "渔场"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "从化区",
+    "businessDistrict": "江埔",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 182,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.589152,
+        "latitude": 23.504941
+    },
+    "encryptBrandId": "3380d64c6ccdb3111nJ72d61GVY~",
+    "brandName": "美言饰品",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210430/79abe4691f9be31d1f7e56f12e37b1f54cb409cb68b4245bde8d7011ee103f44.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "珠宝/首饰",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+    ],
+    "industry": 101006,
+    "contact": false,
+    "showTopPosition": false
+}

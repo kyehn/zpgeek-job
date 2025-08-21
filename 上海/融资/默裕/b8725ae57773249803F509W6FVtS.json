@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240302/607f1f3d68754fd03c1394760693c7bf5254b25556959469275fb4eefcc432669291a96c5452ff5a_s.png.webp",
+    "bossCert": 3,
+    "bossName": "王先生",
+    "bossOnline": false,
+    "bossTitle": "CEO",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230511/7b5b554d84f9729cd72e2f4a5d8d268dad3796c225bfb473275fb4eefcc432669291a96c5452ff5a.png",
+    "brandName": "默裕",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "陆家嘴",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1300095f9167486b1HZ_0ti7FlA~",
+    "encryptBrandId": "fe7bad7f799eda8a1HJ-0ty-GQ~~",
+    "encryptJobId": "b8725ae57773249803F509W6FVtS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.226575,
+        "longitude": 121.525488
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 68,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "融资",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7HDSi2K8m3c.search.68",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "KY7dtNuWKZiSG-L1aJNis2NETLu90fUheNE5f2jtZlw6w-j_6wfOLjgW4Ct0WdKCLzz7tHVuANlaOG1jW32q5mZAnrL9Jg16UcYQI1J75_aJ7ygQMX26Q2qJq2uMiygte3VWV5M75Yxj",
+    "showTopPosition": false,
+    "skills": [
+        "一般类型企业（非金融机构）",
+        "为个人/小微企业提供融资服务的相关职位"
+    ],
+    "welfareList": [
+        "零食下午茶",
+        "全勤奖",
+        "员工旅游"
+    ]
+}

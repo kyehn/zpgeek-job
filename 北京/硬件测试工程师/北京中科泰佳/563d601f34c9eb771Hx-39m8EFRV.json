@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "高新雷",
+    "bossOnline": false,
+    "bossTitle": "工程师",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "北京中科泰佳",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "回龙观",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2f45427a8d1e154b0nZ52d21EVVQ",
+    "encryptBrandId": "05ae11a6e6f40f881nBz39u1EFA~",
+    "encryptJobId": "563d601f34c9eb771Hx-39m8EFRV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.101036,
+        "longitude": 116.370227
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 211,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "硬件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2TaKKo4cOpx.search.211",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-9K",
+    "securityId": "ZqNWczgAcW2BT-l1FP3gdzzI_MON0wiMAp2vcqncm_hfL9Tc5j1l40vlp_NVo3kYaYuOhibt_lU5qLDEH4Cj81nUW13nWQo14ir1dw2ClXpaVVrVeQ5Xw3FJZa4opsamNQYe4zpWLnZUCsI~",
+    "showTopPosition": false,
+    "skills": [
+        "通信设备类",
+        "电池/电源类",
+        "硬件测试经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

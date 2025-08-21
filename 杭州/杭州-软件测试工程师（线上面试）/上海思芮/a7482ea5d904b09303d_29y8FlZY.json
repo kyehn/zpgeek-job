@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240620/607f1f3d68754fd0add8763a754a63af8c96d08c7225ca1a5d8b56b610776a5e655a482394cce607_s.png.webp",
+    "bossCert": 3,
+    "bossName": "吴女士",
+    "bossOnline": true,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "上海思芮",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8100cc2535fd76210HR80tu0FQ~~",
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "encryptJobId": "a7482ea5d904b09303d_29y8FlZY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.180827,
+        "longitude": 120.222563
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 6,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "杭州-软件测试工程师（线上面试）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3kxEbwPbvYc.search.6",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "v9MU91UeP1vNy-U1zu34hyV4i3Mt9Vsw4_BT2F_I_SB8WF0GqhHdxswS2eLnLd4r2jEpI1HlksOidzGiyuhgihDcGH5jpH5AnTO_LZRqLo38j7yrCKUQ_N0ouYVlUpJt5wC516Zf7tnpmsOuud2wQ2bajPIw1wjoVX0VlUY4-TUrfg~~",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试",
+        "测试工作经验",
+        "自动化测试经验"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

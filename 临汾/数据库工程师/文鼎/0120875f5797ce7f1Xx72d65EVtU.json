@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "尧都区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191114/30f7c603b54a7a0e9ee1b5e5e9f2ab4e0b188f4c69effb870d6bd648c57fa8b8_s.png",
+    "bossCert": 3,
+    "bossName": "魏伟",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191114/a8c252dcb0d507eb76b18188e60c60fa0b188f4c69effb870d6bd648c57fa8b8.png",
+    "brandName": "文鼎",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "平阳南街",
+    "city": 101100700,
+    "cityName": "临汾",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c5354077ee26fcfc1X172dq8FVM~",
+    "encryptBrandId": "baeac80fec9966d90XF93NS9FA~~",
+    "encryptJobId": "0120875f5797ce7f1Xx72d65EVtU",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.070893,
+        "longitude": 111.521367
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 59,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "数据库工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8G1P9LVbr1J.search.59",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "H580NpjygjK6m-D1zxZ0Kg6wFl50iTZZZTrvc172xcaMi2YNqZfEFQPiJtTb-k6fzqTo5mtnjONmhrcd_3WW79XlUDHctI-o7f2Rbuwuyqx0w6zsLg~~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业",
+        "SQL"
+    ],
+    "welfareList": [
+        "加班补助",
+        "全勤奖",
+        "年终奖"
+    ]
+}

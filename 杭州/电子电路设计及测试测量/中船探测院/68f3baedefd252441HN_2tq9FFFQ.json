@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "建德市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220725/607f1f3d68754fd01ceb13850e99cb4c51aea3a6af04355b4a8e034cc96d0118321885503dafa7d7_s.png",
+    "bossCert": 3,
+    "bossName": "朱女士",
+    "bossOnline": false,
+    "bossTitle": "人事HR",
+    "brandIndustry": "铁路/船舶/航空/航天制造",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220707/7bf6f160950405e98cc0b927721ed35672a6318c9e7cd01b4a8e034cc96d0118321885503dafa7d7.jpg",
+    "brandName": "中船探测院",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "新安江",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8c0c8addb8f2eede1XRy3dq4F1Y~",
+    "encryptBrandId": "7c9bd352facf525e1XV839-1FFE~",
+    "encryptJobId": "68f3baedefd252441HN_2tq9FFFQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 29.476129,
+        "longitude": 119.248315
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100905,
+    "isShield": 0,
+    "itemId": 235,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "电子电路设计及测试测量",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2CUxp3CVGjs.search.235",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K·13薪",
+    "securityId": "PuUq8kqmWquhm-F1qqlCPOgnpmncAEdRUyF6LByXrSQDD1SX0i91tq-sxbiAhBYxzamuFozCI8wWHEiBTby9rAvQ88-lJci3xh0vXg-WIFT1Z0wPdhyFxLqZPbOwXgu8cEQapDdAOegZog~~",
+    "showTopPosition": false,
+    "skills": [
+        "电路设计"
+    ],
+    "welfareList": [
+        "定期体检",
+        "交通补助",
+        "五险一金"
+    ]
+}

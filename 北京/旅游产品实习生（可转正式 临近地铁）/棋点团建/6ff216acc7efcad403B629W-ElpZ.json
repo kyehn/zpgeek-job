@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250506/607f1f3d68754fd0f3af374dca70d88ac058da95c105b268423ed91f01ee0128a2c9142f10c1258b_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "王宁",
+    "bossOnline": true,
+    "bossTitle": "招聘主管",
+    "brandIndustry": "人力资源服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210218/d39b61724edff40f06a1415ae9b6c071a02b05c2c8b3926da7311251d8e68066.png",
+    "brandName": "棋点团建",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "回龙观",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d30157dc635fc2f60XJz2925EFA~",
+    "encryptBrandId": "dacc348159b55a041XFy3Nu8FA~~",
+    "encryptJobId": "6ff216acc7efcad403B629W-ElpZ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.09886,
+        "longitude": 116.291214
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100014,
+    "isShield": 0,
+    "itemId": 7,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "旅游产品实习生（可转正式 临近地铁）",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8hnif9nZaka.search.7",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 4,
+    "salaryDesc": "4-9K",
+    "securityId": "aj1E4bTBeufAL-H1uLhV4ine2FrHnoqxxomgybenX8Y2ww06NMZPJ8M2w1lGcy6A_nwA-g9fBfgFU0LWaFc9yHLxJuGiy237d4Lzbh_Cd_MBcorQRJ9ETh7pZgxrNxQYSWKROcp5mX48RKQ7PIn4Dw~~",
+    "showTopPosition": false,
+    "skills": [
+        "境内游"
+    ],
+    "welfareList": [
+        "五险一金",
+        "通讯补贴",
+        "节日福利",
+        "加班补助"
+    ]
+}

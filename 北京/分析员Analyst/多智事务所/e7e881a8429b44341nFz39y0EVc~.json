@@ -1,0 +1,62 @@
+{
+    "securityId": "9TDEc9iRKNRge-W1JArm64gHSf7EhyEkr5GDHqW3t8yBy9rtNAGM4aGd3yteOkj3c4McGt9_E63dROjSeAaajeCxuXr8FOWznQa_sM8ZwT6WMKpNqeA-JsYzJ_wPwJ6-Q8-mGorfP0c~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190508/5b07bcece5a502207af3e9a125c197d4cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "69b1b5757c9c60a01HZ43Nm9ElA~",
+    "bossName": "李鹏",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e7e881a8429b44341nFz39y0EVc~",
+    "expectId": 1014042683,
+    "jobName": "分析员Analyst",
+    "lid": "2bd9CvlOKF4.search.120",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "发散性思维",
+        "敏感性"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "大望路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 120,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.476967,
+        "latitude": 39.907335
+    },
+    "encryptBrandId": "4bc04f093fbed4001nZ63d-4Fw~~",
+    "brandName": "多智事务所",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171117/91e40d9b66d3b76bae517788c3bfb528cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "企业服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "全勤奖",
+        "带薪年假",
+        "节日福利"
+    ],
+    "industry": 100015,
+    "contact": false,
+    "showTopPosition": false
+}

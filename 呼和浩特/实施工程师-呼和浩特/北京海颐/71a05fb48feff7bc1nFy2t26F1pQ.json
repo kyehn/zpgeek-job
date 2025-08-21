@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "赛罕区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "初绍飞",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190409/5fad0bafc1f34697e83fce9a3275b08abcba571b38a389205987e074f472d4de_s.jpg",
+    "brandName": "北京海颐",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "金隅时代城",
+    "city": 101080100,
+    "cityName": "呼和浩特",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "be565b57cf71b7d31HF93tq5FFA~",
+    "encryptBrandId": "f3aa67896b5ebfb31XRy0tm0FQ~~",
+    "encryptJobId": "71a05fb48feff7bc1nFy2t26F1pQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.811945,
+        "longitude": 111.75453
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 140,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "实施工程师-呼和浩特",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "13WckQbO7Ui.search.140",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "xOLY0CqXRwcy7-417VQN8cDw9gW_KF1iiiv_c9No3VOQkb_5BAPngnsmTypu5hiPS_XXb6-DYHVrDvq0HT4baBVxulbXYSvstgCXZzkpQvHHR_DS97XNmS_jpZbdu6LjlU_k9XEZdnjJ",
+    "showTopPosition": false,
+    "skills": [
+        "MySQL",
+        "实施工程师/顾问",
+        "软件实施"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

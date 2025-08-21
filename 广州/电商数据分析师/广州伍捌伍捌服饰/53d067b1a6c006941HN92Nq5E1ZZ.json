@@ -1,0 +1,63 @@
+{
+    "securityId": "6bGa4YqGwpky1-a1uWDJbn_rwWtj6fB6Pu6UZuJjRdFyB6ZSTKbR1iv3evxxv-Y99Sptjk_OeW7Kfaec_nzFH2R5IbAVBG3fjdrcSzdCpGc-p7N1-5D3",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240429/607f1f3d68754fd093201e2528d31954d6df27d942015a80dbabb901ab7130cc4fa3611c27e7a35e_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "933c799a4793cc4c0nd-2Ni_FlRR",
+    "bossName": "蒋女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "53d067b1a6c006941HN92Nq5E1ZZ",
+    "expectId": 0,
+    "jobName": "电商数据分析师",
+    "lid": "2azWJVad8yo.search.121",
+    "salaryDesc": "8-12K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "SQL",
+        "服装",
+        "电商"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "海珠区",
+    "businessDistrict": "广州大道南",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 121,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.299355,
+        "latitude": 23.077054
+    },
+    "encryptBrandId": "86c2e717d6fe65d71XZ_2du_EVQ~",
+    "brandName": "广州伍捌伍捌服饰",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230202/7bf6f160950405e9abfa4cce7a86349b51ef925079af4f735587e35015a3dc053b5d1ffe102f3352.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "服装/纺织",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "节日福利",
+        "包住",
+        "底薪加提成",
+        "绩效奖金"
+    ],
+    "industry": 101003,
+    "contact": false,
+    "showTopPosition": false
+}

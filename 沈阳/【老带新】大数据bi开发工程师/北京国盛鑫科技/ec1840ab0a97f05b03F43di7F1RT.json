@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "大东区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220714/607f1f3d68754fd0372c787a6f8879c2a406b24c08b146ddb32ae0113aaaec1c8caac404211e6318_s.png",
+    "bossCert": 3,
+    "bossName": "姬女士",
+    "bossOnline": true,
+    "bossTitle": "人事经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250620/7bf6f160950405e9035571698b0e76c261e917c8bc90a174b32ae0113aaaec1c8caac404211e6318.png.webp",
+    "brandName": "北京国盛鑫科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "中街",
+    "city": 101070100,
+    "cityName": "沈阳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a7d58270429ea2eb0nR93ty1EVJV",
+    "encryptBrandId": "fb6065837116618003Z63d25GFc~",
+    "encryptJobId": "ec1840ab0a97f05b03F43di7F1RT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 41.80801,
+        "longitude": 123.487249
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 53,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "【老带新】大数据bi开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4oePLJowuF3.search.53",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "-qM164_959u3n-p1EkwE3lmngP9eAPDDs_reIaehPcbBygF-9Ui21rrbfcwDruYUDdPEuPPfTZZK2qF1PvI_EyufRaOtqCxyjfs1FF_YJsUwk6yCljP11s46oY9K-Q0KP-yoB_8Ta9alZMCKVi6wDtOBjzVtNFSZdReZyA544MqcmHxzQbg~",
+    "showTopPosition": false,
+    "skills": [
+        "接受无数据开发经验"
+    ],
+    "welfareList": [
+        "底薪加提成",
+        "保底工资"
+    ]
+}

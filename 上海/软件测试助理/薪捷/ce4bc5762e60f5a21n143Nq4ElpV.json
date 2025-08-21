@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "徐汇区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+    "bossCert": 3,
+    "bossName": "毕胜喜",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210518/d429286b46119887f366ff3a8c1eff28d162148a0f7c4d35b7fcb7b454279772.jpg",
+    "brandName": "薪捷",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "徐家汇",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "24f8c0d19b39e69903x-29m6FFY~",
+    "encryptBrandId": "f631d3a6787640aa1nd-2Ny4ElA~",
+    "encryptJobId": "ce4bc5762e60f5a21n143Nq4ElpV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.1957,
+        "longitude": 121.432375
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 26,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件测试助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9aXHX118xSm.search.26",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K·13薪",
+    "securityId": "K8tnAvzEmTh50-S1RyZYiupLC9TooglIam96iKx7_kS42SQDqGKMZqX9vjTLftpc6bFc05v1Fefv89KPz2dWYmZSSxRR2fzQ3MF2vTo-XUYqWhB3hXFNcwc_8DYVMIztA9y6ptY5uzDFTA~~",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试",
+        "性能测试",
+        "功能测试"
+    ],
+    "welfareList": [
+        "五险一金",
+        "全勤奖"
+    ]
+}

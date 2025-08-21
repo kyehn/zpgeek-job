@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "官渡区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200415/0364afeedb51bfdb4280973c8fe7ee1933ce1f02f0d9a6df860ec708f4fb12b4.png",
+    "brandName": "祺为",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "关上",
+    "city": 101290100,
+    "cityName": "昆明",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7c281d81eb7655cd03V-09i6FlA~",
+    "encryptBrandId": "4a81ea0b179d1e6a0HBy3N66GA~~",
+    "encryptJobId": "a6ea0d89a13755a51nN60tm6FVRT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 25.00509,
+        "longitude": 102.73785
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 37,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7PEFArfsChl.search.37",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "p4jQgOf1JEGyk-Z1V462R3du4sK92kK7WSkyNKY96nopifJpRYNi4sND5Nr8g2eQHCMcxLm0Y2bPjffwZaNMg8pgBxIrWb-PMnn1WQAvOC8Xvomiv_dMjxCZXKlfJ97-yAZ9tT3xSDGq",
+    "showTopPosition": false,
+    "skills": [
+        "SQL"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "节日福利",
+        "五险一金",
+        "加班补助"
+    ]
+}

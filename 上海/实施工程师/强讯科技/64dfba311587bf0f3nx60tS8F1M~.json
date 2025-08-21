@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "徐汇区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181106/bd6b5a02223476c3391abb5365b083f3cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "bossName": "蔡女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171218/fd3f6be8d2fc98c363e8fe6f2aef5a7fcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "强讯科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "漕河泾",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5f015c2321aaabcc1HF739q_GVA~",
+    "encryptBrandId": "dab9b97da635c4621nd43dy-FA~~",
+    "encryptJobId": "64dfba311587bf0f3nx60tS8F1M~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.172261,
+        "longitude": 121.402932
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 16,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2BnUTDad13b.search.16",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "IxyqgUsdNDrHJ-y1xxw84E9j0UXWDcJFioadJjqY0gHpdYxqDQN8hIlXmijTxL6RZNI0TUyX1e89Rr48ijp4S__aXUIxszd2wabt4w-xg0Z2BPMp7UyTD7znimbdavGTpyy_MVFAoIM~",
+    "showTopPosition": false,
+    "skills": [
+        "SQL",
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "餐补"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250620/607f1f3d68754fd09ebe5c121ef2135a92c042f58d989035af8d5b8303d3ef6965d478d3cdf35441_s.png.webp",
+    "bossCert": 3,
+    "bossName": "李婷婷",
+    "bossOnline": true,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "上海思芮",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "中和",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "788468e32a90bd7f0H1-0ty1GFQ~",
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "encryptJobId": "1b5cdbfb20c02ec703F52Ni9GVFR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.549092,
+        "longitude": 104.066204
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 24,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "桌面运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7STPtJrddTC.search.24",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "ZWQ8SjpO4CS6q-r1AP3jrjjwE6J_deFMC9n2CNlRYBoukka20tVI1XUN7qvnNuvbBCdnYWxeDgLJnKWBlzlf5qpMpHbH1ohFbx-EUgPZCKUV2cpqca1kVZSbiAa-cEowsvHTMOCRaplxPk3v1A1U2fopSjOjdQtZs56bpirAlTwF20g~",
+    "showTopPosition": false,
+    "skills": [
+        "桌面运维"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "XqeAGSpB-NF1c-q1D-tj3Hfs3EoVo-DetWLpzl86M6AQgadFZcPJBDszpDgGIB8C-i0Nd2bLuJGFC9ErRlcGVPYP9DJfNv2mjZu53qaTnyIsevGe",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230922/607f1f3d68754fd0c982d01f4ce624bdb6815cafd586276ce838725c93d3cc9d104a81f64eeac4e1_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "293968cddac3da7503N_3Ny4ElE~",
+    "bossName": "王女士",
+    "bossTitle": "招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "bc57d60221c231941HJy3dS4GVBU",
+    "expectId": 0,
+    "jobName": "联合运输有限公司招聘调度员",
+    "lid": "Nz3PU3ZYyG.search.220",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "现场管理",
+        "货运车辆"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "宁乡市",
+    "businessDistrict": "金洲大道",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 220,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.609176,
+        "latitude": 28.281217
+    },
+    "encryptBrandId": "726df71fc3bd74f91HF53N6-",
+    "brandName": "联合运输有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220207/7bf6f160950405e992d94277094d28be09c32ac15b7b44c2ab23fbf11a7866d6407b1edcafa03b28.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "公路物流",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "包住",
+        "节日福利",
+        "带薪年假",
+        "全勤奖",
+        "绩效奖金"
+    ],
+    "industry": 100507,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "bossName": "乔战强",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190505/ed63476a3d02875d1a0cb8546800a7547ef42a823f31b7fefea605d8462d913a.png",
+    "brandName": "维曼显示",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "西三旗",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "04f59cf93a5c00330XV90t6-EVA~",
+    "encryptBrandId": "6925efa149c1422003d_296-Eg~~",
+    "encryptJobId": "776dcefac91a1bad03F92tm5GVQ~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.061259,
+        "longitude": 116.373462
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100022,
+    "isShield": 0,
+    "itemId": 111,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "项目专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2SZgVGu5xFO.search.111",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "rp01Nj7mWkxqX-O10dBDX8kCAYnFwpAotyFZkX5SlQX8eo8xPXpbdwnLzhWw2xYWwGGh2L3z-99XJD47R_IVLDe8ZCAmdPqIIX1iWRCiIsnZVudEnERH2vzU6O5gVyVkjPwZ5Rgu8Gg~",
+    "showTopPosition": false,
+    "skills": [
+        "实施",
+        "解决方案",
+        "过程管理"
+    ],
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险"
+    ]
+}

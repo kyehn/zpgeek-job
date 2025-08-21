@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "上城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230215/607f1f3d68754fd0c2829aa06aceb877c6a801db8125bbe43aa4fce9fa2bc5fe7ff76df6c18efa14_s.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "HRBP人事主管",
+    "brandIndustry": "互联网金融",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "智汇期讯",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "望江",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a5b058619d13fb8303x-2Nq6E1M~",
+    "encryptBrandId": "6ef918147157332103V62tW4GVY~",
+    "encryptJobId": "b6fb14111acd0db503d82Nq_FlVW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.230366,
+        "longitude": 120.193548
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100206,
+    "isShield": 0,
+    "itemId": 50,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "数据采集",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7Hu5tQ8VQAz.search.50",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "lvLwgezDiriVP-f1jxDTyf6w5SVg5OyRN0QvrJvaFiMTzSzRwZBaq1qTmQMoIgoJ1wzVAly_XzkmnHHSDhj2xQmOYnu3pJRbCKePPCV6971PPiRkNDNbJzb951RX5aPY-7HP7M4nKDNokw~~",
+    "showTopPosition": false,
+    "skills": [
+        "EXCEL",
+        "SQL",
+        "互联网金融"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "五险一金"
+    ]
+}

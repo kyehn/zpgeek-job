@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221109/607f1f3d68754fd0e0f1b6560380820ca7b0e7c183665cac4f09e28118688573e146250b32093a61_s.jpg",
+    "bossCert": 3,
+    "bossName": "瞿琪",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220815/7bf6f160950405e92f8743078b1b3f59f0b329a05df96a72c326e474e019d8a7c1cd46a99b8684cc.jpg",
+    "brandName": "复运科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "cb8f0a8b3c51eadb1HF53tu4Fls~",
+    "encryptBrandId": "fc31ef300f0331e51XR43di5FFs~",
+    "encryptJobId": "9b5ca92f2ac41ccb1XJ40969FFRZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.22678,
+        "longitude": 121.389237
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 18,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7PQmDnTYOkY.search.18",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "z2MYmzFwxyRtK-q1qIHwoYLsvrH2TRK3feeZzd19yrmEtxvVuzyQjHx_2Uos5no-69YQCVwmuJ1gcYCDeVCB0wz79q3UFLltcwYm2TlFnSqDcBbp5bh-5ebtTrj9N-_zCZ55IYgbnJYNeA~~",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试",
+        "功能测试"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
+}

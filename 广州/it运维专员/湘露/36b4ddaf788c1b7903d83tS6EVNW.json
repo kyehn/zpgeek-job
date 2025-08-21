@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "白云区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240823/607f1f3d68754fd0385682da1a76829983029414d0b96c84100da366eca8dcc4518ef9d3b327dd38_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "资必庆",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "批发/零售",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210426/90976363b46193d5d1b2c0c2a1eb96fe1a885a6cc2bce30f06b2ffca819db1cc.jpg",
+    "brandName": "湘露",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "嘉禾",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6ee3d6652b0cfb100XN52tW1FFVV",
+    "encryptBrandId": "d1c4363eb64410a51nd73tu-ElQ~",
+    "encryptJobId": "36b4ddaf788c1b7903d83tS6EVNW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.247187,
+        "longitude": 113.267347
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101011,
+    "isShield": 0,
+    "itemId": 75,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "it运维专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4RGbNuUIdGO.search.75",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "3yrgwr1MlNbI3-Q1YUTfy0VlzxG6HduhyXFYWTitFUDR6b20viAOF9GDdBK0aUKlXus2CWw9MnFknvjRQWakbKJ2zOezicCj5El0fKnRmK5gT9rwWQ0Yhbn3F-BkiM0DBQtwHY-NV_7weu4~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维",
+        "系统运维"
+    ],
+    "welfareList": [
+        "节日福利",
+        "包吃"
+    ]
+}

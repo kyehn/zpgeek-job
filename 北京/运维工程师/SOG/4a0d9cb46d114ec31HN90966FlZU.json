@@ -1,0 +1,63 @@
+{
+    "securityId": "jsnxtfpWteR2H-716ZmrV9o8qd5enx23KYoFUNqNMKsgbkjhgrFA39y089EA7BWuLb0cUQdUiMOea5-QdGXVSWikjJl1FTIVnLdSll5W6Ns1EXB8",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210710/38e6c1f0bd63078476bf512757fe51aafcd9840bf7d9e498dcf9c14018e41f2e_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "517299671961e2690nV_39S4GVU~",
+    "bossName": "林女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4a0d9cb46d114ec31HN90966FlZU",
+    "expectId": 0,
+    "jobName": "运维工程师",
+    "lid": "3vSIAHV6PiU.search.213",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "桌面运维",
+        "计算机相关专业",
+        "运维经验",
+        "helpdesk"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "高碑店",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 213,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.514224,
+        "latitude": 39.905392
+    },
+    "encryptBrandId": "c5beb4619c5b09e033d92964",
+    "brandName": "SOG",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190625/2642b40ac9502afcc131072fd6499af233bfb241fb986cb09edc633bc913bc73.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "企业服务",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假"
+    ],
+    "industry": 100015,
+    "contact": false,
+    "showTopPosition": false
+}

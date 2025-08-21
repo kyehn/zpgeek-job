@@ -1,0 +1,63 @@
+{
+    "securityId": "c9Gl0sY6IMgzN-n1ho_r4zBvMRNQZygVgh5CAZYuOUIZwXV1VCHuP86gmDoYWtwCSUnvcym6VOmPJeR4_NS-9K0pPkiznIF4g96TuC0QWi4e_eitfDsPYRKp-buN8aXbGmOuoodNTxJPAA~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "f4d8319e2f02c7cd0XZ82dW9EVBU",
+    "bossName": "吴女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d12f128609bdbc9e1Hx43tq9F1pZ",
+    "expectId": 1030426395,
+    "jobName": "售前技术支持",
+    "lid": "1af4JIbyY56.search.74",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "售前技术支持经验",
+        "机械/电子工程相关专业",
+        "可适应出差"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "江夏区",
+    "businessDistrict": "流芳",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 74,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.385322,
+        "latitude": 30.443765
+    },
+    "encryptBrandId": "bedcd105bb6b0f831HJy2Nu_FA~~",
+    "brandName": "众幻智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190308/e16c4353d3980e04315f1a70c81bde7c74ab12462f1498661b481cbfb78aceb7.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "餐补",
+        "交通补助",
+        "五险一金",
+        "员工旅游"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

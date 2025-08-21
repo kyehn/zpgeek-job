@@ -1,0 +1,61 @@
+{
+    "securityId": "dw_DpgQvaxS3u-F1FzAtbB3--076_yOGsfpqbCwJU5kvkTOGdp9SECc53wohyUHI0NXYK4Jy2LXxTO-BxRQ3EUX5uwt8FbGnfV7HNfToQAy3oa_Q",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240911/607f1f3d68754fd076b8564f2f11b6b37b980020e06580b004aabad89cacc31f09988fd4843a3ba3_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "90cfd35381738c341nV_29S8ElI~",
+    "bossName": "李女士",
+    "bossTitle": "人事主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d051b982c3d99bcf0XF_29m6E1U~",
+    "expectId": 0,
+    "jobName": "服装设计师",
+    "lid": "30FKWOEtjfm.search.153",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "潮牌设计",
+        "款式设计",
+        "服装拍摄",
+        "打样/制版"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "苏州",
+    "areaDistrict": "常熟市",
+    "businessDistrict": "东南开发区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 153,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.772114,
+        "latitude": 31.595402
+    },
+    "encryptBrandId": "bd1881b118cc44280XV63t61Fw~~",
+    "brandName": "晟超",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191005/7eade22334473866178d041d42bc1ebbfd92fffda10ad629ccfe227e6db93c1a.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "服装/纺织",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖"
+    ],
+    "industry": 101003,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "张店区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20220803/a2f3e71d9181a67bfe898f271ed6a7e2322b5822432f265dab90bea50a9a3b2705f55cb0d3cdbd6d_s.jpg",
+    "bossCert": 3,
+    "bossName": "王娟",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181207/9ebe71f60051394b8264545868bfcb5a183bf83a8221f78fe6df88c522f8d1e6.jpg",
+    "brandName": "山东双百",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "中润大道",
+    "city": 101120300,
+    "cityName": "淄博",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "25a9d30d9523dbaf0nBy29u9FlZZ",
+    "encryptBrandId": "fbd029eabb0eef2733R63t6_",
+    "encryptJobId": "e0ac100565c2f85303Zz0t61FVFV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.842262,
+        "longitude": 118.051129
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 141,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1ISOibdAasr.search.141",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "obTmQk7CVdkDz-j1ivMQJk5LYoSXoLfVg3vBrcwCHj3F45DJ-eZkDSZDipr78oMsEDmH9zepXRVGbmi_zLYVKF55fIgVmbF80Qqo9zcze9-42joRI1sraTf5W2nJn60A7A-DtP-RYO-c",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业",
+        "通信相关专业",
+        "电子/电气/自动化相关专业",
+        "运维经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230303/607f1f3d68754fd0070c02d9893317cb6fb80bea27c61e7762198d308de5a444da3c2a438302b700_s.png",
+    "bossCert": 3,
+    "bossName": "姬先生",
+    "bossOnline": false,
+    "bossTitle": "收银",
+    "brandIndustry": "其他生活服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200317/e190c44d112d65a3990deea0061270be05b3650ed953bacc106c4939ccc149c4.jpg",
+    "brandName": "五颗星网络会馆",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6bb9d351079467540nVy3tm6FFRR",
+    "encryptBrandId": "70c2f79b6195cf1a0HRy3di9Ew~~",
+    "encryptJobId": "296d5efa3b239e971XN73dy9FVFS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.351894,
+        "longitude": 114.31563
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101106,
+    "isShield": 0,
+    "itemId": 47,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "数据开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d3PBqTr9gA.search.47",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "nnDqqw9YjF6pb-i1RgWK_9FfJMmtrobHGk5kBwjqqN4KPEM0AquuZITqse-YKeQYpDV0P4kW2h6vo_idHnPOo-Pdf2rRWrmdn7awj7HJdhE5QnHrVEpqlnSAKAt-rIgu75hJq1ZYCpQUtw~~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "年终奖",
+        "餐补",
+        "全勤奖"
+    ]
+}

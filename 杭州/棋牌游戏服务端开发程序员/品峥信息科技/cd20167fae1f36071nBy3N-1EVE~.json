@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180305/966c30068fef857a204da591a0596806f45140e18814cdf4a4f7401492241a93_s.jpg",
+    "bossCert": 3,
+    "bossName": "郑女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "游戏",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20161201/ed69c367dfe890a6c3293904557e9f7af70693f499a7b1c0f495e531d400ad4b.jpg",
+    "brandName": "品峥信息科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "浦沿",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0e1e1e926738ea421Xx42Nq7ElE~",
+    "encryptBrandId": "909a1b040d1d63b103Z_2Nq8",
+    "encryptJobId": "cd20167fae1f36071nBy3N-1EVE~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.179094,
+        "longitude": 120.154598
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100002,
+    "isShield": 0,
+    "itemId": 144,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "棋牌游戏服务端开发程序员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2C28LzgfIFD.search.144",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "vkF1kvjE_uixU-T1zac4xHYI3cA4UtuTRqJJZEdQ29H381f2G8aNzQ2aSWq-7XUTxOUQOGL9IVUq4xdqG56dEIUzc_6kUX3O28uZ4alyo7DKXOhLBvEyVMzQUcckAooTBWCkyoJFkw~~",
+    "showTopPosition": false,
+    "skills": [
+        "lua"
+    ],
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "全勤奖"
+    ]
+}

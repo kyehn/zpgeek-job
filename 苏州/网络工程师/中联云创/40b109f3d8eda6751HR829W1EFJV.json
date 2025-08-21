@@ -1,0 +1,62 @@
+{
+    "securityId": "hJ910LCQwH7uk-N11BYW-wU_CAokESPUcRCX02yRBIRfdXIqVnkekN8vDOFy5WtpbbvVBdeT68M6p_B6P3EqK6Az8DIAM9SV0uh5GDnfJcJKTEFnH-g~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "7e6d6c7d9e7e59b533F72968Flc~",
+    "bossName": "孟女士",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "40b109f3d8eda6751HR829W1EFJV",
+    "expectId": 0,
+    "jobName": "网络工程师",
+    "lid": "2XQQFt8P8KR.search.273",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "网络建设/系统集成经验",
+        "HCIE"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "吴中区",
+    "businessDistrict": "木渎",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 273,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.539798,
+        "latitude": 31.255367
+    },
+    "encryptBrandId": "4a55c3280d001aca1nF_0t-_FFU~",
+    "brandName": "中联云创",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "通讯补贴",
+        "餐补",
+        "全勤奖",
+        "五险一金"
+    ],
+    "industry": 100024,
+    "contact": false,
+    "showTopPosition": false
+}

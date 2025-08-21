@@ -1,0 +1,60 @@
+{
+    "securityId": "Ht2X9Ncm1IYxe-519jI0ffvn5K9Ppc5AusrQ8goF9NLkFSlgO6p8w7rATy3jNX6edwLnqrA1RALZceqevObcOtYMDHavP9a6RXedDvz3LzpgSVolUNk~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211220/607f1f3d68754fd0dae649ae808dbbb6d7fb6a35620ac0e30aa64c76fb0f2f8d6215c50c0af36d8e_s.png",
+    "bossCert": 3,
+    "encryptBossId": "799a0d2c7a2aa75103Z43N61E1A~",
+    "bossName": "岳先生",
+    "bossTitle": "人事经理HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e7ee2858af5fd7121HV82t68FFZZ",
+    "expectId": 0,
+    "jobName": "药品调研员",
+    "lid": "27KpSMFXv1h.search.130",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "全职",
+        "公司内部岗位",
+        "药剂师"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "武侯区",
+    "businessDistrict": "紫荆",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 130,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.066581,
+        "latitude": 30.590701
+    },
+    "encryptBrandId": "f0dc646fbea26ea31XN52Ny-FVc~",
+    "brandName": "四川三甲互联网医...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240301/7bf6f160950405e9b227dfcfd5de8f2ba0e711e302e357780aa64c76fb0f2f8d6215c50c0af36d8e.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "底薪加提成"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

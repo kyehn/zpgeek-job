@@ -1,0 +1,61 @@
+{
+    "securityId": "LQJncQxGAIC04-D1mgSB3lVEBPeczWrF4FqjV6w7ePJPzXneN6w3UdHCb7__SBCVTWd8oeir1EZ1xbiYaaQWc1vtOjiH9rS9WXGt0X8ZxmlnkgmrHOvMRerUh0WAwZih7X5BNY2bZIA~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180102/1e19c0c51f5107483e36207cea86f4f3bc0f8418bfc54dfb9f65679dea55f64c_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "e4dc4665e44c2dcf1Hd_3d-9EVU~",
+    "bossName": "武先生",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e67a1db4478b139f3nV70tu4FlQ~",
+    "expectId": 1014042683,
+    "jobName": "招聘PHP程序员、PHP技术开发",
+    "lid": "2bktRUCW7G9.search.219",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "CSS",
+        "HTML",
+        "SQL"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "立水桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 219,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.413686,
+        "latitude": 40.050227
+    },
+    "encryptBrandId": "0a027475deea55191nd82ti1Eg~~",
+    "brandName": "思睿鸿途",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181220/7a07124f61d454313cc285707188f3f6cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "全勤奖",
+        "节日福利"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

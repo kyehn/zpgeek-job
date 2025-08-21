@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220224/607f1f3d68754fd0d19466f39c8b6791c410116583ba3caa87d4ccb8b31a9baeb01f7f1026e933e3_s.png",
+    "bossCert": 3,
+    "bossName": "俞女士",
+    "bossOnline": true,
+    "bossTitle": "招聘组长",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240105/7bf6f160950405e9763d940637ab43c1b6bf9ec44707a6cd04c5cab85daa86eb9e7e03c57e4518bb.png.webp",
+    "brandName": "卓越际联科技有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "万柳",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3a5cb50c31b630b21n193Nq1EVA~",
+    "encryptBrandId": "9a80334346a8f4661XR73Ny1F1Q~",
+    "encryptJobId": "86d3f5737870818603B70tW8FlBQ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.956382,
+        "longitude": 116.320824
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "初级前端开发工程师（统招/考虑大连）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8hmDNwXeYrI.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "PFVdX2sYM9nrT-V1mIVh2Pv9Hw1XDEGavyfLay85-9-iydTwcTiQlQ9cYpgDysPel_zNI2aR4SEL8UmvfSzdp2Qh2OVrZqyzRNr4UUtlt5HfLM0atZuzHOYZtfFHcWKxGyGKYeiz5GR66UZ0tFkRDMQ~",
+    "showTopPosition": false,
+    "skills": [
+        "React",
+        "Vue"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

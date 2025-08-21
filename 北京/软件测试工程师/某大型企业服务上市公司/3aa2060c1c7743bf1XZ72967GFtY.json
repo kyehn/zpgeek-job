@@ -1,0 +1,62 @@
+{
+    "securityId": "HM5lHQ9j_Hx1u-r1F2LUj6w_5ziud03VipAOpgidbJjqERLLMfodu12qr7uXJXxQuf6z7VWahYUPiF6BVxbEZV_e7knxfXmkLWHjWwwlqSFmP7X4vG2ZwDpmipWbvrX1APLyA11C9-s~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210720/c066b921a21a38f0c5dae4610170e128a3163dbaead5e9d9aba1909a50cb46f6_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "184e275e8bf9b0981nRy3tq0FlZZ",
+    "bossName": "张康",
+    "bossTitle": "猎头顾问",
+    "goldHunter": 1,
+    "bossOnline": false,
+    "encryptJobId": "3aa2060c1c7743bf1XZ72967GFtY",
+    "expectId": 1030426395,
+    "jobName": "软件测试工程师",
+    "lid": "1qyj1GAJ34j.search.193",
+    "salaryDesc": "20-28K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Shell",
+        "Linux",
+        "系统测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "anonymous": 20,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        8
+    ],
+    "itemId": 193,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": null,
+    "encryptBrandId": "",
+    "brandName": "某大型企业服务上市公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandStageName": "已上市",
+    "brandIndustry": "企业服务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "带薪年假",
+        "节日福利",
+        "五险一金",
+        "工作居住证"
+    ],
+    "industry": 100015,
+    "contact": false,
+    "showTopPosition": false
+}

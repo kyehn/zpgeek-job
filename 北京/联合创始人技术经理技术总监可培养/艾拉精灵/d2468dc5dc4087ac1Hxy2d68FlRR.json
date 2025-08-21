@@ -1,0 +1,59 @@
+{
+    "securityId": "HmDy70HCu4Q9u-i1gl0B4b9RR8OZzyNt7lrt7aDgemAgheBTvkm1uvvhM9n4EW0H2ASXQtPPHX56XsMKlbpfE7BhoucMdCGUDGqS910kKYjv6uhhdLc8u9dJc-8w7DtlXFNH3ZB81ZWYiuY~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "42fcb4d17cd60ef80nx-3NS8GFtX",
+    "bossName": "侯先生",
+    "bossTitle": "项目经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d2468dc5dc4087ac1Hxy2d68FlRR",
+    "expectId": 1014042683,
+    "jobName": "联合创始人/技术经理/技术总监/可培养",
+    "lid": "1e3UqTFcdy7.search.95",
+    "salaryDesc": "3-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "前后端开发"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "丰台区",
+    "businessDistrict": "科技园区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 95,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.30383,
+        "latitude": 39.82499
+    },
+    "encryptBrandId": "8f44b107e0511cbd1XR-0t-6F1Y~",
+    "brandName": "艾拉精灵",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "保底工资",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

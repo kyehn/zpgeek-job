@@ -1,0 +1,63 @@
+{
+    "securityId": "ot3EdDSJ9ffRr-p1WopugqdjH-MYPH2R37uY4Ds7PGJWu7Qywr1RmieInD-Qxp-795VILhEE9eUsYVtG00ZJPxjMX8Q7wpe4rGVRmmwuUYRXv-urdTI~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "a6095113e6cc93171nZ70tu0EFFQ",
+    "bossName": "张先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "29b4481afb50859e1HNy3d60FVtW",
+    "expectId": 0,
+    "jobName": "直播助理/场控",
+    "lid": "2ZhYiXPR4vj.search.196",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "教育直播",
+        "带货直播"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "武侯区",
+    "businessDistrict": "成都高新区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 196,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.067792,
+        "latitude": 30.54576
+    },
+    "encryptBrandId": "b6e5da1d1be6ca710nZ70tS7EA~~",
+    "brandName": "云漾天下",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191107/9af1d0fb70a1ce85f2de7bc80577a9c1571800f21471a5be84a34623b9f705d0.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "零食下午茶",
+        "团建聚餐",
+        "生日福利"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

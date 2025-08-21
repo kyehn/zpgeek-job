@@ -1,0 +1,79 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241230/607f1f3d68754fd02c3e24ca542f7bfb131f7999588b45cb1dfae6364dd1c5b8d0a9b78bef891895_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "王梦琪",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/logo/fd4dec0def92d935a12c6b44716ddbd6be1bd4a3bd2a63f070bdbdada9aad826.png",
+    "brandName": "亚信科技",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8d2f3ab59e28462a0Xx90ti4E1FQ",
+    "encryptBrandId": "d063e597d01c108b33Z50g~~",
+    "encryptJobId": "dc6863c87b77de8c03d-3tq7GVVS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.992873,
+        "longitude": 116.310918
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 33,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "Python开发实习生-北京",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8FimPTwu4m7.search.33",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "xXqoS4HVPKroT-S117gVoONWQYOeHWjauFJYKMwyyuaweY9BgYh1RYM-yNtyy-VTtU8TG3d7TlVrQuYUKD1WYFrb8DZUNKU9SBct9yXxePie-X5KHaqc00bl_L8Wk_Nsw6fE_Bcjcg~~",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "通讯补贴",
+        "加班补助",
+        "免费班车",
+        "绩效奖金",
+        "年终奖",
+        "餐补",
+        "补充医疗保险",
+        "股票期权",
+        "定期体检",
+        "生日福利",
+        "五险一金",
+        "节日福利",
+        "带薪年假",
+        "定期体检",
+        "交通补助",
+        "团建聚餐"
+    ]
+}

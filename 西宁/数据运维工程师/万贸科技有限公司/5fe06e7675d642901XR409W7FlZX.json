@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "城西区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "张然",
+    "bossOnline": false,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b9013b4014ba5e340c010ca97c246e97cfcd208495d565ef66e7dff9f98764da.png",
+    "brandName": "万贸科技有限公司",
+    "brandScaleName": "500-999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "海湖新区",
+    "city": 101150100,
+    "cityName": "西宁",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "638b0539cdb01b5f1nR63di5FlVS",
+    "encryptBrandId": "4561f9fc83c864f7031-2tm0",
+    "encryptJobId": "5fe06e7675d642901XR409W7FlZX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.646073,
+        "longitude": 101.708582
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 73,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "数据运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4a47xhIWrri.search.73",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "9m9I-uJOT7YMf-D1LZU94edLupMhBznMZJi7jlhbf6B1SC9DUZSYxxdYVGbaNPWCP8BAqxZ91_P1Jr_P-2ADQLRM2hxEtoagmtyFfTfB-vyWRfsUSMwaRgY--NXyeXMeCTphZ4Rw3XWZ",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Python",
+        "SQL"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假"
+    ]
+}

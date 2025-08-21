@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "市中区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190723/e4a2ac9a6a6d8c0b4a292f2c361b2c764ce77fc6fe759b09bc6601570d7f0cb6_s.jpg",
+    "bossCert": 3,
+    "bossName": "余蕾",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190315/b606be5e1c33d649f2f06a34372c4b80d6af8ea46c013773f7a0073dd26ab636_s.jpg",
+    "brandName": "领创数智",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "梅西百货",
+    "city": 101271400,
+    "cityName": "乐山",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "be4913cc2ad12e0a1nZ83d6-E1s~",
+    "encryptBrandId": "a64dae3b78f935c21Hx42d-1GA~~",
+    "encryptJobId": "ffa1228f1280f0d41XR43tq0GFJY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 29.58198,
+        "longitude": 103.760528
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 53,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "运维测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8bKX5GX9ZLM.search.53",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "N7LS2TC4h7Kpu-W141jdwgycTlAAKiO7KlwQZSho4Y8oCGDUoyWYHUmfDauwZS-TgYilm16BpWrcsshUsxwAUxcimr__935ZwQdBEJNklZwRbM9xpnEoKHjWLBwltn_Op6_FVx95Gdyb",
+    "showTopPosition": false,
+    "skills": [
+        "五险一金",
+        "网络运维"
+    ],
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检"
+    ]
+}

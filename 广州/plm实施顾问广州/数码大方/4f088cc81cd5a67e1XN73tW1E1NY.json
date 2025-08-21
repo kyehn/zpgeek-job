@@ -1,0 +1,63 @@
+{
+    "securityId": "WFJYtKC6jfUD--O1pOLWHuIkIYIuXqVpLLgJ7KnovF-SvkiJdhreL1iZ0ODHovTqc9ceoyogNs7RBzND3uQZdzMIdy0RcdJQE6oIwww2EmdzvYyT",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201221/8b780c77822936b29f7e8bfe8c712a1e8b142cefaaf9b006405a1c3515a95fdf_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "0be8e00aef7ff0a60nV72ti4EVpQ",
+    "bossName": "邢先生",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4f088cc81cd5a67e1XN73tW1E1NY",
+    "expectId": 0,
+    "jobName": "plm实施顾问（广州）",
+    "lid": "29yie9jWJU8.search.182",
+    "salaryDesc": "7-12K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "PLM",
+        "软件实施经验",
+        "可适应出差"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "南沙区",
+    "businessDistrict": "东涌",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 182,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.405367,
+        "latitude": 22.887415
+    },
+    "encryptBrandId": "1511c626d24137d81nN-0tk~",
+    "brandName": "数码大方",
+    "brandLogo": "https://img2.bosszhipin.com/mcs/chatphoto/20160113/32d851ee3514ac2f16752ecb97a1d86da0844ecce342088c9fb783ebd214a1dd.jpg",
+    "brandStageName": "D轮及以上",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "通讯补贴",
+        "年终奖"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "双流区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210516/1f2515b3bf5c35f55eb23cd73074fae0dc9424c362603930d096867a3e338166_s.png",
+    "bossCert": 3,
+    "bossName": "陶仕亮",
+    "bossOnline": false,
+    "bossTitle": "项目经理",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200814/fb72b78b958ef2e5505a6d0ae14407c471e3a06b729bf6d9582000ac6cbdb36c.png",
+    "brandName": "网诚科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "万安",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "577be7d9312da2ec1nZ42tm-GVQ~",
+    "encryptBrandId": "b6652ece91e585241XF6396_Ew~~",
+    "encryptJobId": "6da24a7808e1e17f1nF83du-E1dY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.47906,
+        "longitude": 104.104825
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 67,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "网络运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7NJpgrNj5od.search.67",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "pxUdFjppr3_8k-i1hue_GALJzRxsnBL2idcX_Pld_OE1zr6CW1RXbTQBtpniZ36XcvHPpJc1wAdLuznu-sd_LWjMg5FXfeBbOz-DlX7uSdsNmkjJYCzrbgx2xRfLn9kZnlrl_FJkMLyb",
+    "showTopPosition": false,
+    "skills": [
+        "故障处理",
+        "交换机配置",
+        "路由器配置"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "节日福利"
+    ]
+}

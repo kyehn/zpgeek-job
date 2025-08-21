@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190723/d4deaf92f2bd24d02d54f24f207b20f68e71fe14a1be5d0674f5e1dcc9190dc5_s.jpg",
+    "bossCert": 3,
+    "bossName": "荣女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "文化艺术/娱乐",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190723/cafd21ba8305a49dec18502a3a0fe15e8e71fe14a1be5d0674f5e1dcc9190dc5.jpg",
+    "brandName": "梨园梦",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6c9b1e11376f721d0HR83tu_GFA~",
+    "encryptBrandId": "6372bc36e85b45ee0nVy09q6EA~~",
+    "encryptJobId": "e08c2601ae97b29f1H192t66FldZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.197524,
+        "longitude": 121.436603
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100104,
+    "isShield": 0,
+    "itemId": 64,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7PLPXN1IsNZ.search.64",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K",
+    "securityId": "KimoFXuclZsPv-n1IO5bz4R0Z5IYD8n-LFfV0tHmDfbHPQAbK18ebobj9tgyt-dnt1gulXpXWuzzYBoxujyQrvJXiHV1rivF6LAp58_TUIzDcPcYDzUyL5B2no1MPZ0Ny2GULx3wBut3",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "测试工作经验"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "优质平台",
+        "五险一金"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "张一峰",
+    "bossOnline": false,
+    "bossTitle": "总经理",
+    "brandIndustry": "电力/热力/燃气/水利",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "杭州中葳数字",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fbc5911a3571e2070XN72Ni7EFpY",
+    "encryptBrandId": "789e5294301e7a9c1nFy2t-5FVA~",
+    "encryptJobId": "3d1ce9136fc20efd03Z-3Nm-FldZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.18506,
+        "longitude": 120.180734
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101205,
+    "isShield": 0,
+    "itemId": 51,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "售后技术支持专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7VUFSrwyEPu.search.51",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "YrbejsKatRBfF-11gloNNrAamMNRiQr9OtLZXu_j_d5-N5BReEzd59YLGlAmiHzDSjLQlyP9MdunHq9NiUueUIZTtQ6qfeQH3nLYLMqG6_QG9yFwAS5sYjcnuD0mfSDsf9wigaBD2NGXotU~",
+    "showTopPosition": false,
+    "skills": [
+        "储能/新能源"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "年终奖"
+    ]
+}

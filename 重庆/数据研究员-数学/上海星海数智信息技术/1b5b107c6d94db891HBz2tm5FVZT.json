@@ -1,0 +1,61 @@
+{
+    "securityId": "lefw3krUOv-bo-h1LTWFGMYKcAPrJ95vrzbJwJUuo38lvyvepEPNbxzM4sPNBeyjSwzLQ6x9t0Jbo4JPoNbPXToR1rmPEBPzA2Rn59i-Em8syxeGrs_4oRg-Hy6xwFqior6wd3oB_TxOWOo~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240828/607f1f3d68754fd0351415e687452d1413adff0e9b719faa06e0b3bf481923fc8e981d1ab7088f59_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "d4696e6d69476cd61nV72di5EFtS",
+    "bossName": "王女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1b5b107c6d94db891HBz2tm5FVZT",
+    "expectId": 1014042683,
+    "jobName": "数据研究员-数学",
+    "lid": "3nzlZTWaozl.search.250",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数学",
+        "算法"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "重庆",
+    "areaDistrict": "永川区",
+    "businessDistrict": "兴龙湖",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 250,
+    "city": 101040100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 105.949321,
+        "latitude": 29.354773
+    },
+    "encryptBrandId": "e46186f0ae98c3ca1HV43du6FFc~",
+    "brandName": "上海星海数智信息技术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240428/7bf6f160950405e933ea3be04d0356061f7e1e2cc6ec480806e0b3bf481923fc8e981d1ab7088f59.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机硬件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "加班补助",
+        "五险一金",
+        "团建聚餐"
+    ],
+    "industry": 100022,
+    "contact": false,
+    "showTopPosition": false
+}

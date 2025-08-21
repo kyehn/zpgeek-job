@@ -1,0 +1,62 @@
+{
+    "securityId": "-Q9JZpDPsni75-51eZbSuWroXIhxHDv5Qxls9vAzgf5mCrmJVdKLhEe1BJ5ohALMdrHLlsAB72jO5j8KZfyh62D4j7gcpvsfhn2BCcV8gHfrw4XUH80~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "encryptBossId": "44be68731af388740HB839u-FFQ~",
+    "bossName": "姜先生",
+    "bossTitle": "渗透测试工程师",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "593327e8c6b03f891HJ439u6FlJY",
+    "expectId": 0,
+    "jobName": "漏洞挖掘工程师",
+    "lid": "1jqHeUqon1k.search.19",
+    "salaryDesc": "7-12K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "渗透测试经验",
+        "Cnvd"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "丰台区",
+    "businessDistrict": "花乡",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 19,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.301706,
+        "latitude": 39.826436
+    },
+    "encryptBrandId": "9f199219aa3d01531nB939S7E1o~",
+    "brandName": "有略测评",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "信息安全",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "交通补助"
+    ],
+    "industry": 100016,
+    "contact": false,
+    "showTopPosition": false
+}

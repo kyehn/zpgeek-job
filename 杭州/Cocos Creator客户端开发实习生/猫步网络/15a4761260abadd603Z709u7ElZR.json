@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "林静晨",
+    "bossOnline": false,
+    "bossTitle": "前端主程",
+    "brandIndustry": "游戏",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200512/45d0b717097849e4d936e32e1a0939baad39ed374522764aa430ba22d5c223a1.jpg",
+    "brandName": "猫步网络",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "星光大道",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a4bee6ff6a5264361nV50966GVVU",
+    "encryptBrandId": "c46a9ef80b59aa610ndz3Nu1EQ~~",
+    "encryptJobId": "15a4761260abadd603Z709u7ElZR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.21101,
+        "longitude": 120.207885
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100002,
+    "isShield": 0,
+    "itemId": 132,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "Cocos Creator客户端开发实习生",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "xmRXkABBOU.search.132",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "pnFuTfW9ee6Yd-E1PoQal7EF44u7of0kfbq3jmHcTCw45mk14RqH5L_ObilupVbQWkIpw0cS4Wy60lEoJ73zVctZlSSjvtL1fn29ayhLJeNfF-mHUVOK2U9e9DwVISKng4T0MtOXLsu0Lg~~",
+    "showTopPosition": false,
+    "skills": [
+        "Cocos Creator"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "游戏分红"
+    ]
+}

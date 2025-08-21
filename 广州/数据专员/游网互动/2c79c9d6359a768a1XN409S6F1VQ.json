@@ -1,0 +1,62 @@
+{
+    "securityId": "ISXX-rTw8oEQt-B12C_hyaEHeBhmMWEdMR0vlw6bREexq12asvz0Y7xecX_lfTs4n4haTf2T6xbVwNY4tZ-N_yjZ5jQHzbaD0am1DB076rvKM8W3LQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210616/426ca25ff6b5cdef2ba0a1a8186dfd0eb376493ee63385fdf2ffc629db35f856_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "f33d9db75e2a50c61XN-3tW-E1Q~",
+    "bossName": "陈先生",
+    "bossTitle": "执行总裁",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "2c79c9d6359a768a1XN409S6F1VQ",
+    "expectId": 0,
+    "jobName": "数据专员",
+    "lid": "2azWJVad8yo.search.36",
+    "salaryDesc": "7-9K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Power BI",
+        "数据分析",
+        "数据专员",
+        "power query"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "海珠区",
+    "businessDistrict": "琶洲",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 36,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.366889,
+        "latitude": 23.095655
+    },
+    "encryptBrandId": "360f6b455cedf3a71nBz0965FQ~~",
+    "brandName": "游网互动",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/ff3aeefac3ff0c96fe62ffb6bea93267cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "广告营销",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100004,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240715/607f1f3d68754fd0df061d7ab693b841278f3ba4b4d1c4d03f92aba8ec2908f144dbb232dc90fbc9_s.png.webp",
+    "bossCert": 3,
+    "bossName": "金昱珂",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240705/7bf6f160950405e95949ea46b313fccd8ac35e6c2f03ae317d16eb110254b8234c6a50e5d3852c10.png.webp",
+    "brandName": "安泉数智",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2afe2071e959dfe70XZ60ti8GFI~",
+    "encryptBrandId": "9ab9f5bf692dbe431HR-2d66ElI~",
+    "encryptJobId": "eeae0f68fc25f49c03B-3Ny7EFVX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.212875,
+        "longitude": 120.220394
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 62,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "产品经理实习生",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9b097iOVS1T.search.62",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "KutUlvTtqUzNE-v15vixxxQ4_k2hrl48vGVnBBiVGFAb6qX88-i0qKe-OFAPAfyk8IRF5e7JYnHlL2urPO6yd0jTWTk8auZVuD_PkexnvTGtB4Th6-IWCMykpjXQY3X5D7dp8Zv-R-jUJQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "G端产品/政务产品"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "五险一金"
+    ]
+}

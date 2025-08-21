@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "马永良",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "其他生活服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180529/14a7015bb72153dbc100615c779cc5e03d68ea427ed6692ddf1d2aa8c524c34a.jpg",
+    "brandName": "K歌达人",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "莘庄",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a1fa51cc396b161e0HR9396_GFBW",
+    "encryptBrandId": "623f46f2f0d2659d1nJy3t60Ew~~",
+    "encryptJobId": "d7ce634f33fdbd2403B73tm5EFFX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.125519,
+        "longitude": 121.366364
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101106,
+    "isShield": 0,
+    "itemId": 70,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8eaSGOVqn4p.search.70",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "w37gnANQuNQlm-01BOQvnYO0EF4tszOwCK7AqSvCZjtFk89U0urNWBln4yGGwTo9Wv5c6Q5Mui5fhwEgq0CsZQOgw1zkc8jepzASpCHxuao8gSnx6iSziFV_0Bon_CxW4SAPTwxT9hRHaQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "零食下午茶"
+    ]
+}

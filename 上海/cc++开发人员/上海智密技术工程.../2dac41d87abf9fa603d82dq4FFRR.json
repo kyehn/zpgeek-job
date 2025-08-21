@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "徐森",
+    "bossOnline": false,
+    "bossTitle": "综合部",
+    "brandIndustry": "电气机械/器材",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250113/7bf6f160950405e92359453b4123306e33435b7bc9867637c0929cf34219ffb2dd816794e050f7f5.png.webp",
+    "brandName": "上海智密技术工程...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "老闵行",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2f00bd292104f1f00XF63N64GFRX",
+    "encryptBrandId": "c6429307567b413d1HB_3dW8E1U~",
+    "encryptJobId": "2dac41d87abf9fa603d82dq4FFRR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.036977,
+        "longitude": 121.395071
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100908,
+    "isShield": 0,
+    "itemId": 141,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "c/c++开发人员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7lKXqkiX2X.search.141",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K",
+    "securityId": "e2mZQDGxT9Fqe-x1RsqlUVHkKZiaxoh78Qx7o1Pul7L_P_RF_BM0aGyqN8q7jdSdcFu5UZusFYVcLqp1JcRG_AlWnCKu2HxH-n9Owxc9UvY-NwP2DpmTMQkAw8ZJ5J3V2FiTLFJA1Wrv-F4~",
+    "showTopPosition": false,
+    "skills": [
+        "C++",
+        "C",
+        "MySQL"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

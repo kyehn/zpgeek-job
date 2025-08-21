@@ -1,0 +1,71 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200903/3c957b4127b76d80a8dbc13f1a117f30cd376857791c43ebf0b347504645661d_s.jpg",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160505/11a8b52befd0c2bdc09cf7c56920a4989aea4656f649763cd92d1abb173d60e6.jpg",
+    "brandName": "百思特",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "张江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "864c4269b1197a531nZ-39u9FVBZ",
+    "encryptBrandId": "080f0292817385df1XF729m7",
+    "encryptJobId": "4155f6a14b4d8eff03dz39y1E1RS",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.181818,
+        "longitude": 121.614245
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 6,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "周末双休200/天数据采集接受小白",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5SYFP6Lutup.search.6",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "4-5K",
+    "securityId": "th3NFM0yROY26-S19fQjnv9s_511U3rlX89xtOENMQ00j1m3cTzCD80lFxuEUfYjl0grGU4pOeaIuMPVSzNAhjPOEce855oEKipjvQox9RX9VFVX9Re38lj9OF4-EELduEIktYUgMKlIuoY-pIHykg~~",
+    "showTopPosition": false,
+    "skills": [],
+    "welfareList": [
+        "免费住宿",
+        "补充医疗保险",
+        "餐补",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "全勤奖",
+        "五险一金",
+        "零食下午茶"
+    ]
+}

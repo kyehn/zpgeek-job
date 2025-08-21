@@ -1,0 +1,63 @@
+{
+    "securityId": "lhvypAF0NQApr-W1VMVfnmGqH1yezYHPiINP-zHx66nUjlvHdAXOLvO-mTYPIehtziL7in29WCFv0nl-4mhIO_u8vO2423hDCN76iID3x-XypdXp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230314/607f1f3d68754fd068dc3cd6523da17409726392f0e59eeec6eb9f06cde7a771ffc57c9d6cec5a47_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "2e547762463dcf090nd53dS7GVQ~",
+    "bossName": "骆先生",
+    "bossTitle": "IT经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "421ef25e9b0b8e350nZ42t-6FlU~",
+    "expectId": 0,
+    "jobName": "数据工程师",
+    "lid": "3pZfrtkwdSl.search.12",
+    "salaryDesc": "6-9K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "商业分析",
+        "数据建模",
+        "数据挖掘"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "蔡甸区",
+    "businessDistrict": "沌口",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 12,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.163617,
+        "latitude": 30.506971
+    },
+    "encryptBrandId": "828a3f386f8c71190nV639W9FA~~",
+    "brandName": "灵枭科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190715/00999d93f59b7b493a0000d2604d943ec6eb9f06cde7a771ffc57c9d6cec5a47.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "带薪年假",
+        "五险一金",
+        "节日福利"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

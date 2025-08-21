@@ -1,0 +1,73 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250310/607f1f3d68754fd061fca9400fd7eeffe352ecf4a18cd8153c7e586ed6034694962df1e9550e762b_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "周先生",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "智能硬件/消费电子",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/eccf87304cf817c6d52b80861b29f56bcfcd208495d565ef66e7dff9f98764da.png",
+    "brandName": "Anker",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "549f131d3f710bef1Hx52Ni7FVU~",
+    "encryptBrandId": "57325b9cf168bd441XB72d61",
+    "encryptJobId": "600b5cc8063925a003Z_2Nu9E1FW",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.569204,
+        "longitude": 113.953341
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 101401,
+    "isShield": 0,
+    "itemId": 48,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "(A218350)助理java开发工程…",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8kLKe1tcnIx.search.48",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "fab8O6ajvqJqu-k1VzGKKGljs_DP9hezLsEhcmtZfforpRyJgDgLM2QBahst-_MIi3r9Ig6O5zJIWKlzdUwzbjdYfD94fSM4CANzxdtBcH7EUHKM",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "五险一金",
+        "企业滴滴打车",
+        "年终奖",
+        "定期体检",
+        "零食下午茶",
+        "节日福利",
+        "包吃",
+        "员工旅游",
+        "带薪年假",
+        "补充医疗保险"
+    ]
+}

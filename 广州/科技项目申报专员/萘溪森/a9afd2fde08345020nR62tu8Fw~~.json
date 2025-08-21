@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天河区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160426/9e09afb0b18d4c5f947a3dc26ff19fa18c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "bossName": "胡娟",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160427/1ab2d2df92cd6a4b0d86a9b7210f8c1f4e2e7b44c031ea06ed3dcc9461e4a0df.jpg",
+    "brandName": "萘溪森",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "沙东",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "433112c7dca0239a0Hd_3dq-Ew~~",
+    "encryptBrandId": "540bcde33e72afb51XB_2Ny9",
+    "encryptJobId": "a9afd2fde08345020nR62tu8Fw~~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.16252,
+        "longitude": 113.3209
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 106,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "科技项目申报专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "qYwqOwl9Uf.search.106",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "pEjY7rCbR2Tz7-J1ghXzDOII3RP2BVLb5sGCavkUgzkPOtJAmGWU0b8hu1rXfgo1--nsVpeWe2alR4MA0sZLcIOou7UL5-GdgAy3do8abT9RubernL66X-p0Os2fiJTnWetWdzI~",
+    "showTopPosition": false,
+    "skills": [
+        "项目管理",
+        "文档",
+        "实施"
+    ],
+    "welfareList": [
+        "餐补",
+        "全勤奖"
+    ]
+}

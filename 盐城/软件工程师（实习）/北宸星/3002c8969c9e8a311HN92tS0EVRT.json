@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "盐都区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230707/607f1f3d68754fd080d527795c92059f51b55fbaf39ba470c42581e1124b0467ffe7f21e79d36306_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "柏女士",
+    "bossOnline": false,
+    "bossTitle": "行政人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210330/c8a08b9f32d9ef8426a25d81134548214e5d4ec08fb786932aac8b7af6bdb9c3_s.jpg",
+    "brandName": "北宸星",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "世纪大道",
+    "city": 101190700,
+    "cityName": "盐城",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "70b3785e20e7e0f40nF739S_GVVZ",
+    "encryptBrandId": "b5f372b0148093161nRy3N67FVY~",
+    "encryptJobId": "3002c8969c9e8a311HN92tS0EVRT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 33.321384,
+        "longitude": 120.109325
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 44,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "软件工程师（实习）",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7wm1mY5vEgu.search.44",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "ukVajikjLdzJP-71wy-NcSMxLoCVPRVqYWNaNO2MRJDhwBhlW6Jd6CwCr9VO4RfyGNSP-TW_6MGOax94HiKvOQRYP6osHh7VRiTdZXhw3c6ee94K04oyCBq3875CHA53iDkJ05TjhDsFbbA~",
+    "showTopPosition": false,
+    "skills": [
+        "C#",
+        "计算机相关专业",
+        "C#开发经验",
+        ".NET开发经验"
+    ],
+    "welfareList": [
+        "节日福利"
+    ]
+}

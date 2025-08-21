@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200820/e7e2b7c67f1686d97e3987efe31004e1b6ee5ec642f3fe9f9578e756f69e40a5_s.jpg",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": true,
+    "bossTitle": "HR",
+    "brandIndustry": "社交网络与媒体",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20170325/625d96b17231ae2e163d69980e5cf9a7bb4a091536666c9e90ca4d3377bb9b0a.png",
+    "brandName": "北京若森数字",
+    "brandScaleName": "100-499人",
+    "brandStageName": "B轮",
+    "businessDistrict": "回龙观",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "885e65db5bc8f76e0XZ72tS1EFc~",
+    "encryptBrandId": "d601f5f91995cc171XB63N24",
+    "encryptJobId": "3b7271254a7ec6a31nVy3tq4EFpZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.080104,
+        "longitude": 116.348592
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100003,
+    "isShield": 0,
+    "itemId": 88,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "桌面运维师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8kmmKI8Ns8b.search.88",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "VZ541ftqVMtqp-X11P3Y3G41UI8X95mY9v3D7GDx0auBrd-mxV6m2ZDe6EP_Wngk1rUgGoeCxfuFCC6Uk-t6r9XTvuv2ySM2NJjj4FScSYNa4XMXYMDmHjqWXu5qrl4u0A3_eN4EszennhNXsCTZDBr9Suw3rmi7dZurdoWXhnZNvh4~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "桌面运维"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金",
+        "节日福利"
+    ]
+}

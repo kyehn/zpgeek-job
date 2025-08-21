@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "拱墅区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "薛先生",
+    "bossOnline": true,
+    "bossTitle": "人事",
+    "brandIndustry": "咨询",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210924/7bf6f160950405e97107fd1f330720bfa819967d53fb922dffd2488bc7cc5589e5db1b55542520d1.jpg",
+    "brandName": "杭州盛锋管理咨询",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "莫干山路",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "32d1754d21f096df1nZ939u9FFE~",
+    "encryptBrandId": "878c700f1a4371990nZ_0t24Eg~~",
+    "encryptJobId": "679ddb630150b1e6031z3NS-E1E~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.296041,
+        "longitude": 120.141296
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100601,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "助理数据分析师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7macjauXK8u.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "Vr2xDIIxWAMyP-71IMA4aVkhFrUnDkbhPrWl1HkrIvxY6W0rHaXZOvkHe8K0u_RbpBCFuSpvark1lop8CLy-8-oS_mMqW42_TISbKCW6orvSRB0n2LqnT7l8tjPLS3pfFU52dsLcEsV_Ek2uE-EPh4J0JNX9dH1zJxySmgcHhu996YQ~",
+    "showTopPosition": false,
+    "skills": [
+        "数据分析",
+        "EXCEL",
+        "交通"
+    ],
+    "welfareList": [
+        "节日福利",
+        "零食下午茶"
+    ]
+}

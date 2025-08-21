@@ -1,0 +1,61 @@
+{
+    "securityId": "ghqLeZjWFpAF1-k1g6c79rMXYzaLH9btMCylsvH4NG46LOuT42rk4i-Kj9_OiIX1KzNxker_UJM7uB4N56cXs0DiqO39lxGtDHfwL811A_-ppelz1tY~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200819/44aa31abed0646c9372d8f16a185c1ea3d1db81092df403988a4f59de3aa66bb_s.png",
+    "bossCert": 3,
+    "encryptBossId": "b296523c193776301nZ43d60EVpQ",
+    "bossName": "李女士",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "931254554dac6b581Xx40tS1FVNW",
+    "expectId": 0,
+    "jobName": "数据中心项目经理",
+    "lid": "2azWJVad8yo.search.117",
+    "salaryDesc": "5-9K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "机房工程",
+        "综合布线系统",
+        "数据中心"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "番禺区",
+    "businessDistrict": "大石",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 117,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.305661,
+        "latitude": 23.002814
+    },
+    "encryptBrandId": "ee0c6cb614f7a9ff0HB_2dm6FQ~~",
+    "brandName": "因佩科",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "工程施工",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "节日福利"
+    ],
+    "industry": 100702,
+    "contact": false,
+    "showTopPosition": false
+}

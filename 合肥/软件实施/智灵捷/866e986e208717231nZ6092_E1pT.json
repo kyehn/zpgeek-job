@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "瑶海区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210123/40d554d863b45551a490ba144615e982d9b95ac68e3e6f57d0e14d230abf82b5_s.jpg",
+    "bossCert": 3,
+    "bossName": "杨女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "机械设备/机电/重工",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210326/115355ab87176320cf4019be6ecbeeb4b1d8bfbc095cc7615343f928c9d5c64d_s.jpg",
+    "brandName": "智灵捷",
+    "brandScaleName": "500-999人",
+    "brandStageName": "D轮及以上",
+    "businessDistrict": "磨店",
+    "city": 101220100,
+    "cityName": "合肥",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7a6930fc255a6ecb1nR_0t2_FFpV",
+    "encryptBrandId": "89b872243df42e4b1nd939-1FFI~",
+    "encryptJobId": "866e986e208717231nZ6092_E1pT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.911701,
+        "longitude": 117.363789
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100901,
+    "isShield": 0,
+    "itemId": 260,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件实施",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5bWEtaLzlNw.search.260",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "RDnsy67gh4lJj-119wN9pUviGFpYDW7ciFb6ebwEGDNALsZcJSxBvsbjqP9B0rCIHVKMZcoIz8ZRdEg3cGDDQ-gxTO0tDVbAntzwqrtUbI-liNy0Zvq4S-fIuKXKLywDQGq5QW0ENDSzlYQ~",
+    "showTopPosition": false,
+    "skills": [
+        "软件实施、调度实施"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "定期体检"
+    ]
+}

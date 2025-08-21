@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "蒋鑫",
+    "bossOnline": true,
+    "bossTitle": "技术总监",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220210/7bf6f160950405e956ff53907905316b1053224906b5ccbfda9cfab905a968306184761b993eb7bd.jpg",
+    "brandName": "领目科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "B轮",
+    "businessDistrict": "金桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "75018d114a1267520nB43968FVc~",
+    "encryptBrandId": "8eae7a196185bcad1HB72tW8FQ~~",
+    "encryptJobId": "5fc5f576c63c98ec1Xdz2NS0FFpQ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.265225,
+        "longitude": 121.630599
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 58,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "算法组软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8eXsEyeNDoN.search.58",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K·14薪",
+    "securityId": "HoyztEmHoD2Ca-T1i9lgaDroBNVSZ49bvLzS8Up5r3xzC6yzp2Kw8VNaVR0Y-urxVe3tSXAZWS8YLowuSdpUj5ysgmssUy35Q6IvjP_WhpIDBI3VLuBnd4ROOE7jkG87JmeFqCYCupX64VJIDnt14g~~",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖"
+    ]
+}

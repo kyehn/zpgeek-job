@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "顺义区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+    "bossCert": 3,
+    "bossName": "张瑞",
+    "bossOnline": false,
+    "bossTitle": "人力资源总监",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "智创联商",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "仁和",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9d63f0741f0678621nV60ti9FltR",
+    "encryptBrandId": "a5a1ebaa25e568c41Xd93Nu9F1M~",
+    "encryptJobId": "947249cde53ee7b003F70ti_FFRV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.139781,
+        "longitude": 116.620736
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 42,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "实施工程师（信创）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cMSbk2Dp4G.search.42",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "fiFT4BLweu10d-o1V_oPaUVyX05o0iDO8rAOSY6T1lN8LUqix9MViSos1SbHEaZqpcs0xsd3pLt1dQQ1llOR4Tf6C8fw_-ZVyKwib8-5gz-PCgZedcGlsZK78Kk6byBEIVdXQjljlYIilJE~",
+    "showTopPosition": false,
+    "skills": [
+        "信创终端",
+        "实施"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ]
+}

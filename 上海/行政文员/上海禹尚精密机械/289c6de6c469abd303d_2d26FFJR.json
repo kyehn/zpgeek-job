@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "松江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240611/607f1f3d68754fd04b5a6cefb36c09d7e2d217c91ac92d2ec08950a1e8877710677cfece8df9642a_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "顾艳华",
+    "bossOnline": true,
+    "bossTitle": "人事招聘",
+    "brandIndustry": "铁路/船舶/航空/航天制造",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "上海禹尚精密机械",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "石湖荡",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "09c48d432ceea2b70nJ_2di6FlNT",
+    "encryptBrandId": "3cececec473323251HV82Nq-GFQ~",
+    "encryptJobId": "289c6de6c469abd303d_2d26FFJR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.974813,
+        "longitude": 121.180739
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100905,
+    "isShield": 0,
+    "itemId": 243,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "行政文员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2TaRq8AsWcW.search.243",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "wtgC4kpkhvi6k-71ISeC4hUZGgBsZlub-BdAiNV2A4_nCBH8WmnLe1Am_f7aoUJCVltFFEufzqbcpTzgY4AoSFb6jSbMgNWiqwi7qMExiuCY2f7Os8wWrEjCTgxGXfLWRkwOwjvSO6lPh0eqRToWl0kh6rPhCcTduedlqfjT7UxwykW2QXg~",
+    "showTopPosition": false,
+    "skills": [
+        "档案管理",
+        "物品采购/领用"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

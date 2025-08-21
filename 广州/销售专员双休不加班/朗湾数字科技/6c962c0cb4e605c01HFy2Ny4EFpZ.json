@@ -1,0 +1,62 @@
+{
+    "securityId": "8IyLKs-aut7PI-91m-FBoeicw0rHRo-ok7X7bBw91q5Y7LAK5xt0Eg2MeWdulmpE49SGM1wIYN2oKpOPTFIrL6jubRXvwAWmWVS26dkBRTEDF05Vk1M~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230314/607f1f3d68754fd02d32c6f74dbad7b89ddb5eaf66264c5901c257fe4a33f0c6f12850902cdc32c8_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "48a020ce99a22e7b1HV83tu_FlQ~",
+    "bossName": "赖女士",
+    "bossTitle": "HR顾问",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6c962c0cb4e605c01HFy2Ny4EFpZ",
+    "expectId": 0,
+    "jobName": "销售专员（双休，不加班）",
+    "lid": "5I3eMNS3Sy0.search.237",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "对企业/机构（To B）销售经验",
+        "企业（To B）"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "天河区",
+    "businessDistrict": "体育中心",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 237,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.31729,
+        "latitude": 23.126776
+    },
+    "encryptBrandId": "93d607490ec07f771HF629-4ElI~",
+    "brandName": "朗湾数字科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240521/7bf6f160950405e9f8b7c35e8db9665250831161201027f02d440f96654ffcc9c23fa51dee11b5d3.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "带薪年假",
+        "团建聚餐",
+        "五险一金",
+        "法定节假日三薪"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

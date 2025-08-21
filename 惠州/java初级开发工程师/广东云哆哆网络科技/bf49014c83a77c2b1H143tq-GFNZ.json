@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "惠城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230803/607f1f3d68754fd0f5bbaed386ecdca5a4ca04fa43883303eb2733726cd7545f8ef3b4ceeb8bb779_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "任志鑫",
+    "bossOnline": false,
+    "bossTitle": "助理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "广东云哆哆网络科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "江北",
+    "city": 101280300,
+    "cityName": "惠州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6e73166b99905ce60XV629y_FFBQ",
+    "encryptBrandId": "ad512f72085bf5411HN-39-8GVE~",
+    "encryptJobId": "bf49014c83a77c2b1H143tq-GFNZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.102247,
+        "longitude": 114.417014
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 202,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "java初级开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4WEKCUz75QT.search.202",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "7A4zKTl5bPF3R-J1t1VrFI5lCy1mLgPPrxySm4hoiCC1eYsXo9nEeV9tfvHE-1f7japFy5tBueSuGl78A_Zh80M8j5b-7PtU-Fy-Tip_Y87dJJLUsW4lXIjhjCjF2kfBlpgGcHgK-FQLk04~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Tomcat",
+        "MySQL"
+    ],
+    "welfareList": [
+        "员工旅游",
+        "底薪加提成"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "j2rUgvzTqxihE-41i4XHruB804obXL7oI1pMgKZrUh_EZyREWYXL85YvrrwOqqmmlrXtCjKAxrl4saKBTp3YS75IDc9MuRG5vegFb4VZgsd5bwaDnexz1EPhUTNgIvgu-H5j-nYLnuIrWW4~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "08fb4b13140631730nZ_3Nm7GVJS",
+    "bossName": "马女士",
+    "bossTitle": "行政人事专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "28c971602b4e29af1Hx929-1F1JW",
+    "expectId": 1014042683,
+    "jobName": "亚马逊客服",
+    "lid": "1b3a2JuMNnp.search.94",
+    "salaryDesc": "4-6K·13薪",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "英语客服",
+        "亚马逊"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "江夏区",
+    "businessDistrict": "光谷",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 94,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.421785,
+        "latitude": 30.453917
+    },
+    "encryptBrandId": "88318b1edaca3cc21nB-3dW-EFo~",
+    "brandName": "熠舟科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210520/bf63f0b529846288397dce9230e7166fea92a2eb673b57dad73318f24691c132.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "带薪年假",
+        "节日福利"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

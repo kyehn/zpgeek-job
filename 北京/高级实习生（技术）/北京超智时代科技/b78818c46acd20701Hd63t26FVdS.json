@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "吴小璟",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240105/7bf6f160950405e9d29d49f76570d839390438f390c83d24284e4316520edc996ee2e80ee8cdf9a3.png.webp",
+    "brandName": "北京超智时代科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "db91949364cc51830XZy2t65GVFQ",
+    "encryptBrandId": "4dc4c5eda664796e1HV909S_FVM~",
+    "encryptJobId": "b78818c46acd20701Hd63t26FVdS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.041607,
+        "longitude": 116.354442
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 136,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "高级实习生（技术）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "b2kFIavjDa.search.136",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "8qk6WvPyWzCEN-D1BjAL16WT1swMHisAVm7b5BuzPkGwiXUsw2eOhFeZhzbv77toi-vZE8IShi6S58SXvk_VlQOayUbvZL9DJPBQ-p2Y3YnBNfXfBYufFHo4CqDPE_4s7HnBbMBuMOsxBZ4~",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "PyTorch",
+        "机器学习经验",
+        "开发"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

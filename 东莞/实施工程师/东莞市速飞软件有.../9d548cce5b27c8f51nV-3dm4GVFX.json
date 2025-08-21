@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "长安镇",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190707/382882ad702bfa1b0c5002fabf9af0d4ca65f969c6b1fa71eec9aba6fe67ab1a_s.jpg",
+    "bossCert": 3,
+    "bossName": "盛先生",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190707/ee44fa14f80741d396aa7f2e278141dcca65f969c6b1fa71eec9aba6fe67ab1a.jpg",
+    "brandName": "东莞市速飞软件有...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "长安镇区",
+    "city": 101281600,
+    "cityName": "东莞",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "89685d60a8b316100Xx40tq4GFM~",
+    "encryptBrandId": "afb454f920fd95750nR73dm5EA~~",
+    "encryptJobId": "9d548cce5b27c8f51nV-3dm4GVFX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.816212,
+        "longitude": 113.79702
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 36,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "13WckQbO7Ui.search.36",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-9K·13薪",
+    "securityId": "vUyXYFiYMK8zF-51Y50lF5n0twxY2uy4iIi2dEZl1iyGaXyF8O5QCnNf2ZErmtaFKAWmz5_snJ9G9PWfcEEMJHgxsl4hMii7vqwb-BDWNU3ScZ5LhVLy1GgevhJxJuyN7XT56qMaiCIU",
+    "showTopPosition": false,
+    "skills": [
+        "实施工程师/顾问",
+        "ERP"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

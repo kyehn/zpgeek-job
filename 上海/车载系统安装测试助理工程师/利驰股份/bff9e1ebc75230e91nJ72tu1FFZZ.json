@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宝山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "徐先生",
+    "bossOnline": false,
+    "bossTitle": "行政人事主管",
+    "brandIndustry": "物流/仓储",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181106/7b0dc83b07c38e554252af2d04b9055037f781e0d8afe1577513c3e84100ffec.jpg",
+    "brandName": "利驰股份",
+    "brandScaleName": "20-99人",
+    "brandStageName": "C轮",
+    "businessDistrict": "淞南",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "09812622694f5de90nd40t66E1dV",
+    "encryptBrandId": "7ce43c0a9f376c331XB53Ni-",
+    "encryptJobId": "bff9e1ebc75230e91nJ72tu1FFZZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.353643,
+        "longitude": 121.497517
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100502,
+    "isShield": 0,
+    "itemId": 242,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "车载系统安装测试助理工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2TG5RfOJAjb.search.242",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "ADOhC854pTGYU-F1JI7qXmUvf-JBHS9OGpAdyOMYIG_MMlkRvhUsXvlTUwVf_nIYJLkvri3qM4YJy0gwLEg9c4CqTgqB3y698Q0j7-nmFrvfYhS3rUmkUkkgJT5aI_o6vpfEvV7qRU9d",
+    "showTopPosition": false,
+    "skills": [
+        "测试开发",
+        "车载设备安装"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假"
+    ]
+}

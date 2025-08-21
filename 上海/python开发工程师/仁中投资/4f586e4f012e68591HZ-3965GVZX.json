@@ -1,0 +1,62 @@
+{
+    "securityId": "5n2owcY3D1FQS-91dvZYd5-fZpPpVaCVMrzfc8-rkidjj1GyjTz-blMyfXl3BhskHtjFQW5Svjw55NR3s1UHafq0uYvZri0WIDkkvQbHjjr9Mh4S5rUK",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "encryptBossId": "626eadb4ab532c920XZ93dm7GFtX",
+    "bossName": "彭先生",
+    "bossTitle": "运营总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4f586e4f012e68591HZ-3965GVZX",
+    "expectId": 0,
+    "jobName": "python开发工程师",
+    "lid": "1a7kevHNfHJ.search.26",
+    "salaryDesc": "9-14K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python",
+        "Numpy",
+        "MySQL",
+        "量化交易开发经验",
+        "架构设计经验"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "陆家嘴",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 26,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.505613,
+        "latitude": 31.235276
+    },
+    "encryptBrandId": "5112ca9882c58a5a1HV929q1F1E~",
+    "brandName": "仁中投资",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "证券/期货",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100203,
+    "contact": false,
+    "showTopPosition": false
+}

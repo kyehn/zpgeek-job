@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "杨女士",
+    "bossOnline": false,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250312/7bf6f160950405e9bbd4312c33a918e21b5a0cb12fcaf8f65dd10470222becaafc9e1532bd19ee74.png.webp",
+    "brandName": "职正科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "前进大街",
+    "city": 101060100,
+    "cityName": "长春",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f63f0528f6d479f81H183d-7FFA~",
+    "encryptBrandId": "4642e59ac824135a1HV-3ti9ElE~",
+    "encryptJobId": "4a0d8b657e0a216303Zz2tq1ElNZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 43.830414,
+        "longitude": 125.275585
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 145,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "吉林省软件实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5d68V0swbZg.search.145",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "KD_uR7-rk3qPR-e1_qoYXxMFwiXeka3nBmls7ONzwXmU07NEHrNZ7nzLzFn6yWlK1CMgtdNcD677uqeYxl-zr4QYs_sjm4pjqUbDnjO7YLJCh63CS-Tjj8c5_B1svlDbLQfESIvF5g7jhg~~",
+    "showTopPosition": false,
+    "skills": [
+        "软件实施经验",
+        "PMP",
+        "可适应出差"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
+}

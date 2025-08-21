@@ -1,0 +1,63 @@
+{
+  "anonymous": 0,
+  "areaDistrict": "宝安区",
+  "atsDirectPost": false,
+  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240829/607f1f3d68754fd063c4825dd7cb4295876be12c8bcac33d3b28a2918d557c1f8e057dd5440aeb78_s.jpg.webp",
+  "bossCert": 3,
+  "bossName": "邵女士",
+  "bossOnline": false,
+  "bossTitle": "资深招聘顾问",
+  "brandIndustry": "计算机软件",
+  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190305/42e1413ae2cff3071a6f7d8f6490bfe492d42e7538eef35e23c500873c9129ba.png",
+  "brandName": "易诚高科",
+  "brandScaleName": "500-999人",
+  "brandStageName": "不需要融资",
+  "businessDistrict": "西乡",
+  "city": 101280600,
+  "cityName": "深圳",
+  "contact": false,
+  "daysPerWeekDesc": "",
+  "encryptBossId": "7e71d800537f3e401nR70tu7F1ZX",
+  "encryptBrandId": "d1b59e94099ec1c61HB92dS6FlY~",
+  "encryptJobId": "ebb1651cc3c31eb01HN_2d24FVpY",
+  "expectId": 0,
+  "goldHunter": 0,
+  "gps": {
+    "longitude": 113.916647,
+    "latitude": 22.581336
+  },
+  "iconFlagList": [],
+  "iconWord": "",
+  "industry": 100021,
+  "isShield": 0,
+  "itemId": 252,
+  "jobDegree": "大专",
+  "jobExperience": "1-3年",
+  "jobLabels": [
+    "1-3年",
+    "大专"
+  ],
+  "jobName": "web测试",
+  "jobType": 0,
+  "jobValidStatus": 1,
+  "leastMonthDesc": "",
+  "lid": "4aDcyhzrYT9.search.252",
+  "optimal": 0,
+  "outland": 0,
+  "proxyJob": 0,
+  "proxyType": 0,
+  "salaryDesc": "9-10K",
+  "securityId": "oqH3wm6x2jMnK-F1AxBERYsiVCg5-AX1u7zS8AAFwZ56lhWS2b-Hmxk543mXAusfmtuS5EmRhWlD1yw1fn7aYdHbLdYqT21evCBHWnj24LqL-sqIsOxI",
+  "showTopPosition": false,
+  "skills": [
+    "web"
+  ],
+  "welfareList": [
+    "五险一金",
+    "定期体检",
+    "带薪年假",
+    "年终奖",
+    "节日福利",
+    "加班补助"
+  ]
+}

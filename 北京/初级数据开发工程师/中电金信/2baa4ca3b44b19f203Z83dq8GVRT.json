@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180817/0af63ad939b5107c9aa33cd6bcf06552cb7ceca0788410f193c5913302881e5f_s.jpg",
+    "bossCert": 3,
+    "bossName": "许博",
+    "bossOnline": false,
+    "bossTitle": "PTA",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "中电金信",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "B轮",
+    "businessDistrict": "西直门",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1f5feb8aa7d5744203B_3NW6GVs~",
+    "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+    "encryptJobId": "2baa4ca3b44b19f203Z83dq8GVRT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.939133,
+        "longitude": 116.350598
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 15,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "初级数据开发工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7M1Zd7IFT1t.search.15",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "bUMv3ocp_DQYW-G120FjQD1Mj10fpnLzpQdh0ycUCACo5B8GDTNsxSozSRugepbDh7eriIUhrJ4nuihX2mUjQwcTPXZUdEi_01kAdupLKFbUykBJLhRrx9HADvdIfQ5vbVFxeyMZJvYTQw~~",
+    "showTopPosition": false,
+    "skills": [
+        "接受无数据开发经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "节日福利"
+    ]
+}

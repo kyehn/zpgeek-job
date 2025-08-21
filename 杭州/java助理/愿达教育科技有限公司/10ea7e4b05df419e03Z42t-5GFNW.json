@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "上城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250224/607f1f3d68754fd0ebc9543ea46626f303b883ccb0d54db429f85a078e30d9340a64925482ba39d2_s.png.webp",
+    "bossCert": 3,
+    "bossName": "吉胡彝拿",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "学校/学历教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "愿达教育科技有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "南星",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "688f34a556c24d9a0ndz29y-EFpT",
+    "encryptBrandId": "86ba827655f4ce9b1HJz3ti8EFU~",
+    "encryptJobId": "10ea7e4b05df419e03Z42t-5GFNW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.230864,
+        "longitude": 120.196321
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100302,
+    "isShield": 0,
+    "itemId": 13,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "java助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7wqyLEJ7qLd.search.13",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "7lWXP25YfxcNt-k1Msbqn7wH-XfjLZaLsnR634OSE3NvqRUeM1F9flTFCZDBzg_rG7CDnQkQ9kMlwxew8JBrr1KT7fGtojZZFVJYzACkQb7rvn8WJqXh_w9tQv48phPINHw-hh08OPyvf3KcpUVviJFMlAf2h7Awry15pP2XpidIbJlwlO8~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "C++",
+        "不接受居家办公"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

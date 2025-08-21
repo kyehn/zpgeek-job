@@ -1,0 +1,58 @@
+{
+    "securityId": "M91JwVYkYf7BX-b1sbbEkeDaXdi5dA6oYj1EeYbt4O9cToex8to6mK4FGbPjKHrnBTbj5MEKBq9J6rLh3TxlYBRcFZSe0v-lsusx7bnJB1wmQ-zc",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180224/c3614d1fbc85b649ad997728ba9507b1cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "33cccac74b9f21d91HB83928E1U~",
+    "bossName": "位先生",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "cdd47bea79f1a3ea1XJ63d20EFc~",
+    "expectId": 0,
+    "jobName": "数据分析员",
+    "lid": "R4sXEiStPS.search.158",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据分析"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "洛阳",
+    "areaDistrict": "老城区",
+    "businessDistrict": "丹尼斯",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 158,
+    "city": 101180900,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.4658,
+        "latitude": 34.67237
+    },
+    "encryptBrandId": "49de647a1babe0131XN609-0Fw~~",
+    "brandName": "河南聚蓝环保科技...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "环保",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 101207,
+    "contact": false,
+    "showTopPosition": false
+}

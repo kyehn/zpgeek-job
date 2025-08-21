@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "雁塔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "寸女士",
+    "bossOnline": true,
+    "bossTitle": "高级招聘专员",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/2be36519da50956c4d0678482b927093.png",
+    "brandName": "陕西万德信息",
+    "brandScaleName": "500-999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "紫薇田园都市",
+    "city": 101110100,
+    "cityName": "西安",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c9592461eca81e671HJ62Ni4F1E~",
+    "encryptBrandId": "ec1f891848b320511nZy2tW0EQ~~",
+    "encryptJobId": "28480d8beb1c84b61HN6096-GVNY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.190389,
+        "longitude": 108.870057
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 16,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "BpUXtfI7fk.search.16",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "OgIKoRsgbGFPW-m1fFM5WRc9Gf5cR3fJqpaYYWSIj41QPlrniYChdkn9yOgkfDp32-s3jYpegBvRDJKalD-lERE00MaReJgoMOK4BSCp4nBIfZHFR-eAkm7oF4NVkOf37faAvXFqO2pxGRVVcr-mztTGXT40v1L3spRlpt4aDljWTJ0f",
+    "showTopPosition": false,
+    "skills": [
+        "运维部署"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
+}

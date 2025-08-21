@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160907/e6b19e2269ebda57982fd725af42fb368c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "bossName": "王晓哲",
+    "bossOnline": false,
+    "bossTitle": "交付经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "中电金信",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "B轮",
+    "businessDistrict": "唐镇",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "09d77758945e96fd1nd72dm5FVc~",
+    "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+    "encryptJobId": "902560195b3e7fbc33d609i-EVU~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.246092,
+        "longitude": 121.672201
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 54,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "JAVA开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2zVre2fQXVB.search.54",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-11K",
+    "securityId": "e42k5N2NB8KHq-W1Lgq_AfUr2Tu-7wjPjMFjtZfHrcLdg1sCX569bUT_Ww7uCM5ZsZKeiIHINgDsrAO7bqjYrYpyftP77tyhQxhewy1e8tlh7A3klxlbpNBY3ROdHxBVXP2Q2S6V5Aks",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "节日福利",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

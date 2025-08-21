@@ -1,0 +1,59 @@
+{
+    "securityId": "5SRF7UO1uLGxG-o1hYRz1piWl9impVgRHE0oMxO8iAVjnUBSnMQRyyyRYoJXBcxL8HahxjI3b9m9HuZBQdsLwpv8XKB4Q5q9TIUTunBcF6PVvg7mfzPjZ2iKmCHteDcgsVwslueRgZI~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "encryptBossId": "eb9e27a96784635003F_29i8EFA~",
+    "bossName": "廉永海",
+    "bossTitle": "副总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "11eca2b96b3b07ee3nN729m9F1o~",
+    "expectId": 1014042683,
+    "jobName": ".net ，c#软件开发实习岗位",
+    "lid": "2bktRUCW7G9.search.71",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C#",
+        ".NET"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "万寿路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 71,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.295444,
+        "latitude": 39.915028
+    },
+    "encryptBrandId": "f88574fddd3d9d671XJ90t-7Fw~~",
+    "brandName": "易道同人",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "番禺区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250527/607f1f3d68754fd0339972f49097b04fb81431da80ff1590267f7ac42cc5ff7aa4f3d0d0efaea196_s.png.webp",
+    "bossCert": 3,
+    "bossName": "吴思敏",
+    "bossOnline": true,
+    "bossTitle": "HR",
+    "brandIndustry": "自动化设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250501/7bf6f160950405e997ef9d25f54cb940b79089f44d91225f744b2e01756720faaf5644d34ed3110d.png.webp",
+    "brandName": "广东全象智能科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "大石",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "781d37afe3c186630nV-3NW-GFdV",
+    "encryptBrandId": "94a0155f559e356f1Hx43du6GFs~",
+    "encryptJobId": "5a0f84b3c8cbb0a903F53NS8GFRZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.983794,
+        "longitude": 113.257295
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100914,
+    "isShield": 0,
+    "itemId": 59,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "机器人实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7QhbVpmScz9.search.59",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "TBflO2WRv20uW-31IE9BuhNYC_Hbo3OPNuteGHBa6BzOmyg9LIwkG1Dtt4DDMHI_Am32-JFGkvTW2bejHkI52zm8fYqWrXQAtq3ENDgV3EYAzq3-DtsdVtc14RJGc3wcpGXLtWEyJffxEfUklyGTfKJvojoGKW4j2dFPs9Si4VYst3goPnA~",
+    "showTopPosition": false,
+    "skills": [
+        "通信相关专业",
+        "机械设计制造相关专业",
+        "电子电气/自动化相关专业",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

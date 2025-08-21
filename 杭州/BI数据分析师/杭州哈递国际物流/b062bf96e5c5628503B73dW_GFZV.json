@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "严女士",
+    "bossOnline": true,
+    "bossTitle": "人事经理",
+    "brandIndustry": "跨境物流",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "杭州哈递国际物流",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "三墩",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7c8d6ca8770ca0b70XFy3Nq-ElpT",
+    "encryptBrandId": "5213574b47514d441HJ82N28EFM~",
+    "encryptJobId": "b062bf96e5c5628503B73dW_GFZV",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.315361,
+        "longitude": 120.066895
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100509,
+    "isShield": 0,
+    "itemId": 38,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "BI数据分析师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8bElwo38xGF.search.38",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "stBzuvFXIGCTo-w1PAT4m5Nqplm6qqxyL3Xg9e3R0RIJ1w3QTDx5aTwXZh3Eb5gpEJqAfIqMuAB8ZEv_GhgPV3umONozzOT3juQdJ_KLAF21GRR9duIbMFj21RmfCcSBRCcToDEp1Hr8bmEAfu8GuE3p",
+    "showTopPosition": false,
+    "skills": [
+        "数学/统计相关专业"
+    ],
+    "welfareList": [
+        "团建聚餐",
+        "带薪年假",
+        "五险一金"
+    ]
+}

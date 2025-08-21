@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "侯秋水",
+    "bossOnline": false,
+    "bossTitle": "行政主管",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "武汉胜鹏信息",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "鲁巷",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "874967549f57ccef0XZy3d-8EFc~",
+    "encryptBrandId": "7a4fd9b81037f01b03J_0tW-FQ~~",
+    "encryptJobId": "1dd34afd1f385df81n1z39y8EVVR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.51524,
+        "longitude": 114.401084
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 21,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "业务顾问",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3Q0u35t7Ywc.search.21",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "iqVyimhQ-9Iw--N18SREBPRSHmfA4yXNsmktS0ZHxbvxB_pn7A3iWCqmH-GFnSQ1lRpoPUxrhqoqOc-l8AIF_lSyJmuPkrBCm07mNKLoyaeEjch7RMLvENBRGTHbQ6NnAllimF14ETcv",
+    "showTopPosition": false,
+    "skills": [
+        "实施工程师/顾问",
+        "软件实施"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "2VfGYHXg_CTAh-E1X_c7awfIs4ajx0fYq3NQgS5wQCzYwha2zCFQzrIRx0m6uLuP6GxfwG-4JbdyQn5XAw3xxwHGVly7sGmwqgWOYZFTEn6cR6w~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240610/607f1f3d68754fd09c6a97342af4e37d4ccbde379631ae52e62d211a30e92c3197809078a7f8bd19_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "6951ec4320b517401XV83Nq9Fls~",
+    "bossName": "张先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ebe19240a3e3c5291HN609m7FFI~",
+    "expectId": 0,
+    "jobName": "iOS实习生",
+    "lid": "3nCXOaL7LWM.search.263",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "应届生",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Xcode",
+        "iOS SDK",
+        "Objective-C"
+    ],
+    "jobExperience": "应届生",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "大兴区",
+    "businessDistrict": "林校路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 263,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.315631,
+        "latitude": 39.712403
+    },
+    "encryptBrandId": "e023f70196690e370nZ-3tS_",
+    "brandName": "大文明时代",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190124/0741dc577323f1a7b884c8f6383f510ee62d211a30e92c3197809078a7f8bd19.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "移动互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "员工旅游",
+        "五险一金",
+        "带薪年假",
+        "年终奖"
+    ],
+    "industry": 100019,
+    "contact": false,
+    "showTopPosition": false
+}

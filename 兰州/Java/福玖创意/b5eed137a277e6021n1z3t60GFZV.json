@@ -1,0 +1,61 @@
+{
+    "securityId": "5yxRnaFWQpHZT-D13YsiP0UfsCgIecrAnXZN1wuLAZdM-pJcwX3gL4wBGAeaeCSl5JOXc96_6_4x--hrC8SK0OY9C3Q0vMoV8N7buoCXWa1vdIqwbQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231113/607f1f3d68754fd048073ab9245f2f61fb28348b766eae61a9007f0a217f31ea132ada907ff339e8_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "72b3107bb0b489041HZz39S1ElQ~",
+    "bossName": "赵先生",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b5eed137a277e6021n1z3t60GFZV",
+    "expectId": 0,
+    "jobName": "Java",
+    "lid": "1JmTyAOBBJt.search.167",
+    "salaryDesc": "9-14K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "后端开发",
+        "中级软件工程师"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "兰州",
+    "areaDistrict": "安宁区",
+    "businessDistrict": "费家营",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 167,
+    "city": 101160100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 103.687559,
+        "latitude": 36.111956
+    },
+    "encryptBrandId": "59c2a438c45fa1d91nZz2ty1Eg~~",
+    "brandName": "福玖创意",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171204/6f346e69ad34c7470d64c34c85e4336da9007f0a217f31ea132ada907ff339e8.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "音乐/视频/阅读",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "员工旅游"
+    ],
+    "industry": 100011,
+    "contact": false,
+    "showTopPosition": false
+}

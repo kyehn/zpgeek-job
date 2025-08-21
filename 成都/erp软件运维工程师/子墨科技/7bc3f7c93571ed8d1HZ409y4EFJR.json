@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "青羊区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210616/f78555b4c0917b9dee9e4e3c37a3a58da7c72f02056c680d72e459c56b464058_s.png",
+    "bossCert": 3,
+    "bossName": "倪女士",
+    "bossOnline": true,
+    "bossTitle": "人事行政",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201010/ba92a3edd55ecf537e9611c732763fe2e51919a3f6cd938e84e733de8f1ab3c0_s.jpg",
+    "brandName": "子墨科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "中坝",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8d1b7a096bd04ca31nV83N--FFpV",
+    "encryptBrandId": "4201a2c62020f6cf0HRy3967Fw~~",
+    "encryptJobId": "7bc3f7c93571ed8d1HZ409y4EFJR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.676959,
+        "longitude": 103.957123
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 4,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "erp软件运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4oevOo5EpXe.search.4",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "YuAX0IlC_2a8W-21I31sJL2YNjUUmAu3UfocyuKWnZMjVELKEG8apXQOhwm3glyyamVufn2_C49H_68xTTPVVpoIzxrosEG1oDjgEn8c2mhcidIOPlrVZwpK1GeUGIUJA_4G6KxLPXf4d8jis-6AFMGxjbJ4vwSDxIsxuty-hsVIkIUP2A~~",
+    "showTopPosition": false,
+    "skills": [
+        "细心",
+        "责任心强",
+        "系统运维"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险"
+    ]
+}

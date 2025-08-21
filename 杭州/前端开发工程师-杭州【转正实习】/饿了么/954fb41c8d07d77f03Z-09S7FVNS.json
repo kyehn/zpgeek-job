@@ -1,0 +1,78 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "秦女士",
+    "bossOnline": false,
+    "bossTitle": "校招HR",
+    "brandIndustry": "生活服务(O2O)",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221215/7bf6f160950405e9b708a65f8d8e4b7f7a59c09ad80309c2d9f75fb95824e8a8a42e8932ab8f5039.jpg",
+    "brandName": "饿了么",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5010896486651cfe1nV42t69EVZW",
+    "encryptBrandId": "12e92393bff967950HNy3w~~",
+    "encryptJobId": "954fb41c8d07d77f03Z-09S7FVNS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.28337,
+        "longitude": 120.023164
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 100007,
+    "isShield": 0,
+    "itemId": 74,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "前端开发工程师-杭州【转正实习】",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8HqEmFrdAFq.search.74",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "wXDkuIGpyjbv9-U1fhWLSmlM5GKdJJByJ-Ge6i8mce9GqQ3Kuh6lZuZf1_Pnpu2oqptmRyvnPcuF9qFRIE2pa8vwL5XdwKXO0_N6wASr8HujFL2z4CAbhSPn4RgP0xk_vWaOQVIoPg~~",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "年终奖",
+        "免费班车",
+        "餐补",
+        "员工旅游",
+        "股票期权",
+        "五险一金",
+        "定期体检",
+        "公司团建",
+        "节日福利",
+        "零食下午茶",
+        "带薪年假",
+        "通讯补贴",
+        "补充医疗保险",
+        "包吃",
+        "交通补助"
+    ]
+}

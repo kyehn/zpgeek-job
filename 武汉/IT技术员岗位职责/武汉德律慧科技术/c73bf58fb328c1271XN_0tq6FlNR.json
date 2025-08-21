@@ -1,0 +1,62 @@
+{
+    "securityId": "BWkEz55Gebepv-J1zhMl-X9zvQq3prGgLKxSYVJqVxf_flf32ysIqpfzXK5nj5iKVH_Kjssx79Mjv-2t5TwNaSfOONW6WZE0NqnPYGjQyuJTm_X4RjwU",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "e9ab8e85368cbed80n162t69FlZZ",
+    "bossName": "姚女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c73bf58fb328c1271XN_0tq6FlNR",
+    "expectId": 0,
+    "jobName": "IT技术员岗位职责",
+    "lid": "3s1OaQrShCE.search.236",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "洪山区",
+    "businessDistrict": "街道口",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 236,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.358527,
+        "latitude": 30.524644
+    },
+    "encryptBrandId": "14c452694a9eebb21XJ42dy9FVs~",
+    "brandName": "武汉德律慧科技术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "绩效奖金",
+        "年终奖",
+        "保底工资",
+        "五险一金",
+        "底薪加提成"
+    ],
+    "industry": 100024,
+    "contact": false,
+    "showTopPosition": false
+}

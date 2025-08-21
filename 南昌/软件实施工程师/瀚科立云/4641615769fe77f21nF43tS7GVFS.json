@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "东湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "bossName": "朱倩倩",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "瀚科立云",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "阳明路",
+    "city": 101240100,
+    "cityName": "南昌",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "338ca96e157c18950nZy2dy7EFJY",
+    "encryptBrandId": "8e92d306adf0ca1f1nF90ti4E1M~",
+    "encryptJobId": "4641615769fe77f21nF43tS7GVFS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.688172,
+        "longitude": 115.908064
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 183,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1I82x2CMvIO.search.183",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "KyymMWNHMaiew-01JdoH07Ccrkf1AASRjTVfjPxzo3OxrnhydCtU6M_Sg1JE9rci_mzmVsLmulA2IZyDx5lgHLwvKVm531INgIdZrr7rgtcrrPwQvqqBJ1U80nYEs8ztBMXdLmsnhJ014ZU~",
+    "showTopPosition": false,
+    "skills": [
+        "实施工程师/顾问",
+        "软件实施"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

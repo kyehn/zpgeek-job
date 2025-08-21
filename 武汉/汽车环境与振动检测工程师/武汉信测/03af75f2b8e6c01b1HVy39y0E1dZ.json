@@ -1,0 +1,63 @@
+{
+    "securityId": "XTShBYCSw4ic4-Q1oBqEYFrX1uS29E8YvWqVTWaMqGxyOBr2ZTL_3Ea3s9w_UFhKyDALPp-s-tnPYzx5qZgwY2Y3xAkh2C3Fr5cWgdGoed28Q580qA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220426/607f1f3d68754fd00fc9406c74fc23da49495eb247b9ecc31a493ec87905bd871b21c3e52b84448f_s.png",
+    "bossCert": 3,
+    "encryptBossId": "4c96436b0d1893320nR80tm1EFtZ",
+    "bossName": "栾女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "03af75f2b8e6c01b1HVy39y0E1dZ",
+    "expectId": 0,
+    "jobName": "汽车环境与振动检测工程师",
+    "lid": "3rMVxvgKE4v.search.272",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "检测"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "硚口区",
+    "businessDistrict": "古田",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 272,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.219098,
+        "latitude": 30.591165
+    },
+    "encryptBrandId": "dea7a9df46b01ad41HB-29i5",
+    "brandName": "武汉信测",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160812/00c86166b931d1fba84bd641443a05153f6639771d9ab0274d7a70e539a23dd2.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "汽车研发/制造",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "年终奖",
+        "加班补助",
+        "员工旅游",
+        "带薪年假",
+        "五险一金",
+        "餐补"
+    ],
+    "industry": 100801,
+    "contact": false,
+    "showTopPosition": false
+}

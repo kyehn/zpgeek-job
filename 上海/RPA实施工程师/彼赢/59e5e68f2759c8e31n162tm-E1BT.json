@@ -1,0 +1,58 @@
+{
+    "securityId": "O5p8EHobZ2bs8-J1yWH6SEwzRe0p3pxtMdTgwFKehKjM7cpQwIT2_eUjIt6EjVlDExjF2zvWXGCZZAudEQSjXJSJ2Gd9_XaEamjlhL0hmz3nWPhibuo~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190918/9f3b9da02bd4b5027f3bfb006ab9a0c54e71b631b4e841eb2fa9d6b84607c0fe_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "43b67b3bf89450001nZ42tq0E1M~",
+    "bossName": "周女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "59e5e68f2759c8e31n162tm-E1BT",
+    "expectId": 0,
+    "jobName": "RPA实施工程师",
+    "lid": "3mvA5AUuhLm.search.34",
+    "salaryDesc": "8-12K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "实施工程师/顾问"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "普陀区",
+    "businessDistrict": "光新",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 34,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.431993,
+        "latitude": 31.248789
+    },
+    "encryptBrandId": "32e3e385dea956b71nx-0tW6EVI~",
+    "brandName": "彼赢",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211029/7bf6f160950405e9e8e2e4629b7c17e8513c151af3d411f64e71b631b4e841eb2fa9d6b84607c0fe.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "大数据",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100005,
+    "contact": false,
+    "showTopPosition": false
+}

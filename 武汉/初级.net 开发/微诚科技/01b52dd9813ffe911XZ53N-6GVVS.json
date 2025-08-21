@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江夏区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "bossName": "赵先生",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180423/6f72a10324715aa8d7afef250ad55502cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "微诚科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "光谷",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "527758e2e3499f181HN43tq9EFY~",
+    "encryptBrandId": "c59347c9dd3c07b21nN_2ty_GQ~~",
+    "encryptJobId": "01b52dd9813ffe911XZ53N-6GVVS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.484315,
+        "longitude": 114.422457
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 39,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "初级.net 开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d3PBqTr9gA.search.39",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K",
+    "securityId": "Lc799qQemwMui-611fRRPmQRWS7PxROz4X_QirA0KY2HGBU0UaWAC5F67-K_qsEmSdYA1wJkc7TmEYBYeWiLGWe0fDPx98Xih5njD0s51GMpAEntn9KYSy5rkYsBXxVEDehqTAIE5RRz",
+    "showTopPosition": false,
+    "skills": [
+        ".NET/C#",
+        "BS"
+    ],
+    "welfareList": [
+        "加班补助",
+        "带薪年假"
+    ]
+}

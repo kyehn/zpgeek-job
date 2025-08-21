@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190913/19b95034b832df1fe1ab49c8e389dcc99e295ae4137cd58b5f0c27e6da20a1bc_s.jpg",
+    "bossCert": 3,
+    "bossName": "王华",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230827/7b5b554d84f9729c61f5cabb7ac56b180c6b5f02de49cc47765343ed6d71ad1b87d394330f3e1126.png.webp",
+    "brandName": "北京鼎爵数据科技公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "小营",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "91943bbceb1f30b80Xx42dm9F1Y~",
+    "encryptBrandId": "3ce3cd1079bb825c1XBy39u1FFE~",
+    "encryptJobId": "c89505ec025335821XN63d-5GVJR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.996103,
+        "longitude": 116.4177
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 65,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "软件实施",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3PomRlztGuo.search.65",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "_CkblmR0Kny0x-I1Q39WZ9ZmDeGDE029aYRaDUPEaKkCV_CrQVe7LCj_9xkuPWe5MUnO5-yqNg1oBXGCkgQ7izFxFCcH7tMyzma8DD8fa4zjKb_evucf9RPdpvgo8W8jdJBNN3ttA8fk-Q~~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业",
+        "软件实施经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

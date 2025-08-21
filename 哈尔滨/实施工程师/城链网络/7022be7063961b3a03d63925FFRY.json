@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "松北区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240320/607f1f3d68754fd09524e5791b5af7461d9309ce398406669785b9d15dc1720ebedcbcdce5d8b8c3_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "李淑敏",
+    "bossOnline": true,
+    "bossTitle": "人力资源部经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "城链网络",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "世茂大道",
+    "city": 101050100,
+    "cityName": "哈尔滨",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4c0462f4a6e9204d3nx70tq9GFo~",
+    "encryptBrandId": "1b71c377f7091c1d1n1_09-1FVA~",
+    "encryptJobId": "7022be7063961b3a03d63925FFRY",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 45.828868,
+        "longitude": 126.550879
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 87,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8G0wbQ5go2Y.search.87",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "baGT3K3LgjnuI-c11hBSQFsU3q9--_06slPBjXOr7FuEXYd1bZNr0BZ2QzAwSaIUEvhEycrE63UeqrcquaYsY1sbczn29oVWGXFDflvGOJTOF6LVINM2eG8gHl8hSSApZ7OAWMsVdt-mQWfGER4PdNY~",
+    "showTopPosition": false,
+    "skills": [
+        "ERP",
+        "OA",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "有无线网",
+        "年终奖"
+    ]
+}

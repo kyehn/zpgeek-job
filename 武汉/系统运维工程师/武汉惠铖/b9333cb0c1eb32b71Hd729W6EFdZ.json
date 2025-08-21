@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220701/607f1f3d68754fd0ead58a3354c0fd6e9cfeca92fda561e5192ab2f82eab2e1d6215aa258844a78e_s.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "武汉惠铖",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "徐东大街",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "369e3f062376f2a30nB82N68GVtS",
+    "encryptBrandId": "24dfc5a0c6cc93891XJy292_GFo~",
+    "encryptJobId": "b9333cb0c1eb32b71Hd729W6EFdZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.583281,
+        "longitude": 114.355767
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 51,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "系统运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8oFXzMtpnog.search.51",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "phuGsbvHHt4Ei-01mpd0cXIlNDV1nHERDbRykXHHVQ1ZERsTstZ-jziSawoYu6wWP3xLxnVv3DnQaK2KhP40xJYucQ8HHPO11LWeCC5dLBHyqxKfvjXnUu3z7JkzIGUTng2OB3HxzpEQioI~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维"
+    ],
+    "welfareList": [
+        "年终奖"
+    ]
+}

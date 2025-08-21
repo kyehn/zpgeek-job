@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200423/a65f7b710134a2f86d47c5233dd2c2fafda6ae915d1751d4a538e2b32080b124_s.jpg",
+    "bossCert": 3,
+    "bossName": "徐萌",
+    "bossOnline": true,
+    "bossTitle": "hr",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "中电金信",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "B轮",
+    "businessDistrict": "上地",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "431e47a22570bc701nR_3N28GVtS",
+    "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+    "encryptJobId": "29def63e30dfc1b303Vz39i_EVNV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.053665,
+        "longitude": 116.299322
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 20,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "初中级测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4JJzSKQxZUu.search.20",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "HI20PTiPahJFa-r1XuosULJrkvWM2Vc_Fa2g9Q5XUvC-vIoAQquauHCjPptXHyphFswLzyUW2yfZtuAAC4H5NEUp5o-7tSqZ1nUTQH3YYHOm06gCPXMx3aH3yYPM9xd8njMftPOav4EmjTQvrh_pzx56XMeWRkMgcWGUqptLyVVWU9latvE~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试"
+    ],
+    "welfareList": [
+        "节日福利",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

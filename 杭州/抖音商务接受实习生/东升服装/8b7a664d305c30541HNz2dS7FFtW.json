@@ -1,0 +1,61 @@
+{
+    "securityId": "jdE2cRModLUn6-i1gNG-lJzAYdT3XJgA8O3TSBUw_MiYe8NLqcFBeTIrHqqJjWZTzs8hWo1mgyqLz3Mm-sn7hh86EsjN3VEbuvkoWUy73NqwxpQgow~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230517/607f1f3d68754fd0df98d47c226b5b4ba65bafdafcc1d9e9a21b73d1895150281cb8e7ab944c190d_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "277002b38310624c1HR-29S5EFY~",
+    "bossName": "谢先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8b7a664d305c30541HNz2dS7FFtW",
+    "expectId": 0,
+    "jobName": "抖音商务（接受实习生）",
+    "lid": "3oX1VJ1Poux.search.118",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "电商/直播商务"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 118,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.203573,
+        "latitude": 30.276378
+    },
+    "encryptBrandId": "4186f8134601d32933180tm9EA~~",
+    "brandName": "东升服装",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "",
+    "brandIndustry": "玩具/礼品",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "全勤奖",
+        "年终奖",
+        "员工旅游",
+        "餐补"
+    ],
+    "industry": 101005,
+    "contact": false,
+    "showTopPosition": false
+}

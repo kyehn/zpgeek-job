@@ -1,0 +1,62 @@
+{
+    "securityId": "dpGq14iTEeVJB-F12D2ZN46-6hk7Zzsz1-1vfXZYL5vpQUi_CIRuTj5GGM6514F34_bz9PsQ8AUN9sD6KXdJxg4bcC1abjAHz9bm2FetlP6LTmmhNJzQmM4QlpWZ17rw6V68atEwvDf8IFl3im5QxcbR",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220518/607f1f3d68754fd0a713a2f903117947ecac2cb221488258bbc6f6067ac85c095dcc66e005e44d82_s.png",
+    "bossCert": 3,
+    "encryptBossId": "473dcdb53c3633280nRz2Nq-EldU",
+    "bossName": "李先生",
+    "bossTitle": "产品经理",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "314c407e5c6ac2f81HN-29i8EFtZ",
+    "expectId": 0,
+    "jobName": "新媒体运营专员",
+    "lid": "3oemqcLV4EX.search.201",
+    "salaryDesc": "6-10K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "矩阵营销",
+        "策划热点事件",
+        "PS/AI",
+        "后期剪辑"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "长沙县",
+    "businessDistrict": "黄花镇",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 201,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.152223,
+        "latitude": 28.200663
+    },
+    "encryptBrandId": "bce08376d9c41faf1HF73Ni-EVE~",
+    "brandName": "湖南善诺贝儿健康管理",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240822/7bf6f160950405e924265ac307b77472e37599f524571fddbbc6f6067ac85c095dcc66e005e44d82.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "其他生活服务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 101106,
+    "contact": false,
+    "showTopPosition": false
+}

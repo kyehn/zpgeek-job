@@ -1,0 +1,21 @@
+{
+    "areaDistrict": "海珠区",
+    "bossName": "黄伟苑",
+    "bossTitle": "人事助理",
+    "brandIndustry": "通信/网络设备",
+    "brandName": "广州汇智",
+    "brandScaleName": "20-99人",
+    "businessDistrict": "南洲",
+    "cityName": "广州",
+    "contact": false,
+    "encryptJobId": "d8b360afaf0678391XB83Ny0F1A~",
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobName": "软件开发工程师",
+    "salaryDesc": "6-7K",
+    "skills": [
+        "Android SDK",
+        "Android UI",
+        "Android Studio"
+    ]
+}

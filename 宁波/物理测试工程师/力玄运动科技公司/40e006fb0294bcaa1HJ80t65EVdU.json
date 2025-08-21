@@ -1,0 +1,60 @@
+{
+    "securityId": "KfmqIyY7P6gn1-W1YqDHgnjz-6d5Bdai3wF8luTDr0XnEVaTs8ARXv3cZ7Yk1Ev5-7uIDmKoPZX-Pbs83nUP0wPT6DpioGmVgiVckSp70-U_ThGoPA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231007/607f1f3d68754fd0bbd0c71e193396ab4a3721983a5c98503dbb17831b705046b50510c1f0be90f0_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "3915fc3af6d0fd3b03R-3Ny5EVs~",
+    "bossName": "陈女士",
+    "bossTitle": "人力资源经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "40e006fb0294bcaa1HJ80t65EVdU",
+    "expectId": 0,
+    "jobName": "物理测试工程师",
+    "lid": "OPl4gnZ5rU.search.170",
+    "salaryDesc": "6-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "测试工作经验",
+        "性能测试经验"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "宁波",
+    "areaDistrict": "慈溪市",
+    "businessDistrict": "宗汉",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 170,
+    "city": 101210400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.205081,
+        "latitude": 30.231579
+    },
+    "encryptBrandId": "05d7103b030c5d180XJ53tW0Eg~~",
+    "brandName": "力玄运动科技公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "电气机械/器材",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100908,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天河区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170525/8ddc21720d0ef8abe7107c5138e8c482d8499d7ca82a6c6db55b645eba5f86c2_s.jpg",
+    "bossCert": 3,
+    "bossName": "邓伟君",
+    "bossOnline": false,
+    "bossTitle": "综合部总监",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "未来信息",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "天河公园",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "354a95caf46aee5903R_09S6FQ~~",
+    "encryptBrandId": "635179a5868d47db1nN_2NW_FFI~",
+    "encryptJobId": "a22c4cdf518a47371nV92d67ElA~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.125839,
+        "longitude": 113.368077
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 81,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4QhtxNni6ap.search.81",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "t7Q8d8bvONs8M-y1j7MKk5C34-SGeBKLS2-yY4rpHqCAdyRRiIdL97quk_SwrBNgzNQYOZQwsBf_Mh7P3wd0w3AlUdX6fF8XD5g5SfL_EWXLfqZWMIX5P5sG6zItfIsBcJ97iKKFgqQ~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Javascript"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

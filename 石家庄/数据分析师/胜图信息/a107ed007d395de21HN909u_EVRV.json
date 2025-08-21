@@ -1,0 +1,63 @@
+{
+    "securityId": "k0TqKQLDTpI8_-z1IfTmK9qMZlyX0Eahr0r0Ci8F6wwNQK3HZ8yTKViLBhBSLn8Q4cBchcPkhFheJhAYiox0de6v7QjmfC6ZS-_bnVLF3UxN95LubR1-",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230613/607f1f3d68754fd06cab8977fbb567100590167161abd19e093387f1067ed69bb37567a7a516a268_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "7332a658fe79783f1nVy29i_EVJT",
+    "bossName": "宋女士",
+    "bossTitle": "人事主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a107ed007d395de21HN909u_EVRV",
+    "expectId": 0,
+    "jobName": "数据分析师",
+    "lid": "1I2Q9pPkFfv.search.9",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "石家庄",
+    "areaDistrict": "桥西区",
+    "businessDistrict": "新石北路",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 9,
+    "city": 101090100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.441434,
+        "latitude": 38.018384
+    },
+    "encryptBrandId": "99b7605a10aad8821nd73NW4EVE~",
+    "brandName": "胜图信息",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210724/6d8277713b05867b75cc142ba828b7a8e5e2fe160c72ddb6c77167a50b3e4ce8.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "大数据",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "员工旅游",
+        "加班补助",
+        "定期体检",
+        "节日福利",
+        "意外险"
+    ],
+    "industry": 100005,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "吴中区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "徐先生",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "苏州简希文化传播",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "南门",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fa94df80890ca2940XN829i8E1tR",
+    "encryptBrandId": "44bad7b8bce2986b1H183929FFU~",
+    "encryptJobId": "0bac7f44385c7ef603d-2tm5EFJU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.254494,
+        "longitude": 120.614107
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 56,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "自动化测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7NNWwfJ7BJK.search.56",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "JFWhuGBsNx4N7-Y1JksU65ftHPINX3svGhnBLVJipHRQC9cNfRtRHBxkN72mZQ9lNNbo0bnV2S2ZYdl66OLj7my4UgvdEmsh1fp3enUhVTPmzd0FckJBSp8u4zwrt08071j9gDj-cI0K-3I~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业",
+        "自动化测试经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

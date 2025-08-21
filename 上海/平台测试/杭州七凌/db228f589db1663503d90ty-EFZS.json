@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "杨浦区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250513/607f1f3d68754fd0bf83577254e1b9e4e55ee81352bcde0f1d1a6a9c1199a29fb0ae334b96dc8660_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "魏先生",
+    "bossOnline": true,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210803/46d39d412614f3688fcd1da74696605dc572b45e47fc5613c59c5a5de380bf2a.jpg",
+    "brandName": "杭州七凌",
+    "brandScaleName": "500-999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "五角场",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b62168f2f81573b80nd53Nu5FlFR",
+    "encryptBrandId": "aa23359c2fa1edbf1nFy2Ny0EVo~",
+    "encryptJobId": "db228f589db1663503d90ty-EFZS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.310041,
+        "longitude": 121.508796
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 42,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "平台测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8ebvcisQLBT.search.42",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-9K",
+    "securityId": "pytouaJExD1BJ-U1XCRj_e2q3OUQ1avgLGlB6VUNiHonKAJBaGc2f4kzkpUwBRv0BR3e4xF4eLH3nDVUQxkS0-qXcs0Gc2ik3q848BiO-WH85xdqqMX0MKk9feZXq4YWDWfFqjT-6FaTTvj9W02KXdRd8hVieTxd5XVbEuefwRWLMf684Kk~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "测试工作经验",
+        "游戏行业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

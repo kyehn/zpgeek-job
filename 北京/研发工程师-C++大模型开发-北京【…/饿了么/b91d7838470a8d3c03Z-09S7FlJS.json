@@ -1,0 +1,78 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "秦女士",
+    "bossOnline": false,
+    "bossTitle": "校招HR",
+    "brandIndustry": "生活服务(O2O)",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221215/7bf6f160950405e9b708a65f8d8e4b7f7a59c09ad80309c2d9f75fb95824e8a8a42e8932ab8f5039.jpg",
+    "brandName": "饿了么",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5010896486651cfe1nV42t69EVZW",
+    "encryptBrandId": "12e92393bff967950HNy3w~~",
+    "encryptJobId": "b91d7838470a8d3c03Z-09S7FlJS",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.999944,
+        "longitude": 116.486784
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 100007,
+    "isShield": 0,
+    "itemId": 23,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "研发工程师-C++/大模型开发-北京【…",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8hkC69wA8ek.search.23",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "SlHrMjBeepbb_-413GQv8oeTrTA8kFjARlcVBVbH_VjxbuEsVBqpKunI5q7n_u1Ary-GlC9FykSJh_8rQ0FafaJTqIGzdTQJMTA-9caqwKipecg~",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "包吃",
+        "补充医疗保险",
+        "通讯补贴",
+        "股票期权",
+        "免费班车",
+        "定期体检",
+        "节日福利",
+        "五险一金",
+        "带薪年假",
+        "公司团建",
+        "年终奖",
+        "员工旅游",
+        "零食下午茶",
+        "交通补助",
+        "餐补"
+    ]
+}

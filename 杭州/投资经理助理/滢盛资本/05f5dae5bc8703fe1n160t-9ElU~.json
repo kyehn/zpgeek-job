@@ -1,0 +1,62 @@
+{
+    "securityId": "AVR1xIMc22n8Y-B1aKmkNUs7LTOsAU5PlVXB_AJtmlPYXA_Ow5D7NGGHIUyGIv8jyGSozZjTnZ0pAEVZX16kwUWL8BM1HXf37X7snsdChE9YKfo~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180919/a36abfb9f570e54b282240d2eda4e44cd42a5ad44dc7a827b4bb1163898ea855_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "0be8a3ca1c973fa01Hd529-_FlI~",
+    "bossName": "高先生",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "05f5dae5bc8703fe1n160t-9ElU~",
+    "expectId": 0,
+    "jobName": "投资经理助理",
+    "lid": "2y91zXMRBE2.search.112",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "投资",
+        "VC",
+        "创投"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "滨江区",
+    "businessDistrict": "星光大道",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 112,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.208685,
+        "latitude": 30.208151
+    },
+    "encryptBrandId": "a3af5a71fbb824da3nRy2dy-",
+    "brandName": "滢盛资本",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240901/7b5b554d84f9729cb45b6a412b41d83306874c4ce32e03c8d856f56b5a218dc32fb97eb2f77f7a1c.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "基金",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "股票期权"
+    ],
+    "industry": 100204,
+    "contact": false,
+    "showTopPosition": false
+}

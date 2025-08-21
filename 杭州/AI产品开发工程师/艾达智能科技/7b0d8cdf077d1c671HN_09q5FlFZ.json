@@ -1,0 +1,62 @@
+{
+    "securityId": "tOKzbEbCtcnyp-g1Ok14LJxW00lT0PdIUt1XuX9MzcWTP2WkXOaXbXq8BAtqfd6DV5Q8P9N8_bJYFq6Bx6J7396KkQBIhBERPzvDzN5aCSm3wfsJgLI~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210316/16e9a871fe6a5d2b3d5220ce21e1458adf0926e68c83bb29e170d7cd89e52708_s.png",
+    "bossCert": 3,
+    "encryptBossId": "bac874e91fb2c0c70nR92d60GVRX",
+    "bossName": "于先生",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7b0d8cdf077d1c671HN_09q5FlFZ",
+    "expectId": 0,
+    "jobName": "AI产品开发工程师",
+    "lid": "1KZfo5gpe2n.search.72",
+    "salaryDesc": "7-10K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python",
+        "Flask",
+        "MySQL",
+        "Redis"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "滨江区",
+    "businessDistrict": "长河",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 72,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.18263,
+        "latitude": 30.18893
+    },
+    "encryptBrandId": "98d581937b5a56db1XV909q-GA~~",
+    "brandName": "艾达智能科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210316/16e9a871fe6a5d2b3d5220ce21e1458adf0926e68c83bb29e170d7cd89e52708.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "智能硬件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "加班补助"
+    ],
+    "industry": 100018,
+    "contact": false,
+    "showTopPosition": false
+}

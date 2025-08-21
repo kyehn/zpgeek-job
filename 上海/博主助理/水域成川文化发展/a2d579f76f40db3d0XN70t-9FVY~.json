@@ -1,0 +1,63 @@
+{
+    "securityId": "NzfRZXnh-p3Nc-T1apO4dYkAOTAONlYdNyNp_22uzp5OiNNMfeRi1X_PiZmaHFl0q6GQhgLfSvqoMYOAv5xDpgeI6DVgJf0MGWE7KZbHQWuvXwYN",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180109/2598897819e1f053f165ac2a55813e5ed19e60e96722c0893d0a2a6314e2d3ff_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "a3bfe325812d3b2e1Hd92N24GFI~",
+    "bossName": "王女士",
+    "bossTitle": "运营经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a2d579f76f40db3d0XN70t-9FVY~",
+    "expectId": 0,
+    "jobName": "博主助理",
+    "lid": "5Mm5KktIlJQ.search.242",
+    "salaryDesc": "4-8K·13薪",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "社交平台",
+        "KOL"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "黄浦区",
+    "businessDistrict": "打浦桥",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 242,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.473094,
+        "latitude": 31.205476
+    },
+    "encryptBrandId": "26d033e5f68f7e591nd839W4EA~~",
+    "brandName": "水域成川文化发展",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180416/fedc4fb14bb96f3788fd856e5980811cd19e60e96722c0893d0a2a6314e2d3ff.jpg",
+    "brandStageName": "天使轮",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "员工旅游",
+        "节日福利",
+        "定期团建"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

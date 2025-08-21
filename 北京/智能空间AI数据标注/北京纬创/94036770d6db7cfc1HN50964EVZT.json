@@ -1,0 +1,63 @@
+{
+    "securityId": "32AbkberQUV8b-71rtJFuyJaNfA11C0cbLKCvs2sOq7QO62GnyrLv3ik7V6qlZ_BKjTjb5O5ORXpuj12msu_oTVsElZD_arjO9Qeth2WrK1ApCyazNY72IjLZWDbT43WrtS1eDYMkX9n",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240114/607f1f3d68754fd02dd383bce1684069813dff489f115bb8911c8377a28969634b4a1469d207b390_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "45c9ca929a19f20303Vy39q4FlI~",
+    "bossName": "张宁宁",
+    "bossTitle": "高级招聘经理HRBP",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "94036770d6db7cfc1HN50964EVZT",
+    "expectId": 1014042683,
+    "jobName": "智能空间AI数据标注",
+    "lid": "1eaRqvm8qWn.search.164",
+    "salaryDesc": "7-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Excel"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "顺义区",
+    "businessDistrict": "马坡",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 164,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.57979,
+        "latitude": 40.169037
+    },
+    "encryptBrandId": "a3ff305faae8963a1XRy3tu6EA~~",
+    "brandName": "北京纬创",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180613/b7f898a719b8167123e2075f57a5c37ccfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "带薪年假",
+        "节日福利",
+        "五险一金",
+        "员工旅游",
+        "定期体检",
+        "零食下午茶"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

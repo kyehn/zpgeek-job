@@ -1,0 +1,62 @@
+{
+    "securityId": "nf6RxAYSrrd9--O1B-5FEH74_S18zU786RwNdKCDmVL2hqf4_Rec1bzM8CjHEmir5_0IXqxkC-NBlmIzZsjgrlyrJnT7E6q75RvGo9sIG2SmhYVF",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170122/2d4385866bd3848bab04da7fd2fcac548c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "6b4706ba0cdfb0521XR92Nm8F1Y~",
+    "bossName": "李先生",
+    "bossTitle": "董事长",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "2ab1dceabbcae5a41n1z2dq7EFBX",
+    "expectId": 0,
+    "jobName": "南京内放疗治疗技术支持(物理师)",
+    "lid": "35gy5E0WJXX.search.299",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "医学影像科",
+        "影像诊断"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "南京",
+    "areaDistrict": "鼓楼区",
+    "businessDistrict": "湖南路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 299,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.77622,
+        "latitude": 32.072367
+    },
+    "encryptBrandId": "8ac87cef006ab4f403J82ti0",
+    "brandName": "北京启麟科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171020/3dd38d80c12b317ca03b084ec098ad38340c280e727a440b19e8d8158f87a62e.jpg",
+    "brandStageName": "天使轮",
+    "brandIndustry": "医疗健康",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "股票期权",
+        "员工旅游"
+    ],
+    "industry": 100006,
+    "contact": false,
+    "showTopPosition": false
+}

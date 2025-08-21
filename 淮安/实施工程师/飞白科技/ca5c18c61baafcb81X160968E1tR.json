@@ -1,0 +1,63 @@
+{
+    "securityId": "cSOvoE-eeCUbB-71mu71NeK12et_dWXZQxhjDM0Gnx9YbCuzhEDU_Ipd9s0YZVPPxyP5Usy_Q-ZOmDmkaMlbcHqPDEXh9gjCY7bG_XNvVKnB6WSMQXA~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "encryptBossId": "ee1c2b771557d3360nN72tS7EFY~",
+    "bossName": "刘先生",
+    "bossTitle": "部门主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ca5c18c61baafcb81X160968E1tR",
+    "expectId": 0,
+    "jobName": "实施工程师",
+    "lid": "2D4AM2kFJ7h.search.6",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "可适应出差",
+        "软件实施经验",
+        "熟练掌握SQL语句"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "淮安",
+    "areaDistrict": "清江浦区",
+    "businessDistrict": "淮海北路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 6,
+    "city": 101190900,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 119.025166,
+        "latitude": 33.59493
+    },
+    "encryptBrandId": "4b3595081cc0230e1XN50tS9E1U~",
+    "brandName": "飞白科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230515/7b5b554d84f9729c79f793ce37b2a66a41cd6a3892bb52e78f8ec099a1d967c8d92f76ddfb22e5aa.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "团建聚餐",
+        "五险",
+        "全勤奖"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

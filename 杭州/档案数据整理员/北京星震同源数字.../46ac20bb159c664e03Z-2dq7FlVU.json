@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "黄女士",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190517/4a915a19c35d50e793139cbfebe163fb2dd01daa32920b3f2c24562725c183dd_s.jpg",
+    "brandName": "北京星震同源数字...",
+    "brandScaleName": "500-999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "西溪",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a3fbdc458f81422c0nV609W1FVZR",
+    "encryptBrandId": "6de6beaec3c0592d03d60t2_EA~~",
+    "encryptJobId": "46ac20bb159c664e03Z-2dq7FlVU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.304209,
+        "longitude": 120.104103
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 87,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "档案数据整理员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5ulxeQqdrWu.search.87",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K",
+    "securityId": "baCEj0J4fCFJK-M13msVjV3zfzA5H69xz_9Ip4GWr04dahc8djITpJZ_U4J1GZX6NxexSUQtAzq-C_W2TgT1GJOwZQulPrxavRxC1GY0EoVr-b0IPddFX3ke9CwXcYSFwdrz9UPfN00Apg~~",
+    "showTopPosition": false,
+    "skills": [
+        "数据核对",
+        "阅读"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "全勤奖",
+        "五险一金"
+    ]
+}

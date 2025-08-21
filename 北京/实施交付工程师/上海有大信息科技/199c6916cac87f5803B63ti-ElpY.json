@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241205/607f1f3d68754fd052a282fb286156bb36c4e9c46bc075155f4de0f92fd1c5b9f9633fd4884cd916_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": true,
+    "bossTitle": "人事专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220210/7b5b554d84f9729cd34f3f546acf043f17dd68c6a6057ea0f3fd850e674f53811a29e400bd0594b6.png",
+    "brandName": "上海有大信息科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "88732da7d43fad150Hd80ty5F1M~",
+    "encryptBrandId": "0c866304610f3e2a03N_09u6",
+    "encryptJobId": "199c6916cac87f5803B63ti-ElpY",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.943686,
+        "longitude": 116.35001
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 31,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "实施交付工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8hkZphoUZ1t.search.31",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "RRQxxN188iPUj-m13MLF9vkoyIZLUAE0KEhJzq3cX1X8jE7VUZirGBX09VUqNNBQeNb2CPTPEdCWSW_n95ZjLL2oJeZVdLfaYKFdXEoTqwoVinpLGjwj0D1QO5ty5p629671ibFTafElshQPD2G5",
+    "showTopPosition": false,
+    "skills": [
+        "证券"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

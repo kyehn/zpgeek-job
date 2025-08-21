@@ -1,0 +1,60 @@
+{
+    "securityId": "p09PSAVsiLNJc-Z17CpIA_vayM-61sAZUezd1-7q-KGCggbqQvvYhhRDhmhLCdxgoyzP_e1ryonYup4Y5tzusiIPO01PR3FOz_LLnjg1oklj549W",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180615/5f6a415627acc09d3e00cc10a75cf354cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "97df65432f25dea503R5092_E1E~",
+    "bossName": "李先生",
+    "bossTitle": "技术总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "48cad25c0766aa361XVz2NW1GFE~",
+    "expectId": 0,
+    "jobName": "PHP开发工程师",
+    "lid": "24wf0d6GUzm.search.283",
+    "salaryDesc": "6-8K·13薪",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "PHP",
+        "后端开发",
+        "系统架构"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 283,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.291534,
+        "latitude": 40.059854
+    },
+    "encryptBrandId": "648d2e112e22e3211XV62Ni6FQ~~",
+    "brandName": "北京天地益星",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200623/bad9ea0cfa45deaa42a45bc109e0962ad3b4e2a2b4deb65dd90183e4a070288b_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

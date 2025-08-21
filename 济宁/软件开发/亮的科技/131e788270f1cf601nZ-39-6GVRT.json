@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "任城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "李国强",
+    "bossOnline": false,
+    "bossTitle": "技术主管",
+    "brandIndustry": "医疗健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "亮的科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "洸河路",
+    "city": 101120700,
+    "cityName": "济宁",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2f8b0af6290bc60b0nV93Nm8GFRT",
+    "encryptBrandId": "141f685cae66975a1nNy2N-6FA~~",
+    "encryptJobId": "131e788270f1cf601nZ-39-6GVRT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 35.422505,
+        "longitude": 116.595189
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100006,
+    "isShield": 0,
+    "itemId": 122,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1Ihfyfvc10N.search.122",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "LplMlbiHkXNcJ-o16TjJwgE-VCCya3_HK20sCEwDt6bNv-PIsbyfNViR4KdfAprlidH8ffC4f6NkjfcCg-SK1sf7FX9z4aZ6VKCnNR5oEw5YxOC9oc1EJwtpBcGI2iKmb9mMfoG71UHygw~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "SQL Server",
+        "MySQL"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ]
+}

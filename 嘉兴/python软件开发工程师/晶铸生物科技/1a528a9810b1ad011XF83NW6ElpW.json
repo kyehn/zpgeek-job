@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "嘉善县",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "金女士",
+    "bossOnline": false,
+    "bossTitle": "总工助理",
+    "brandIndustry": "医疗器械",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221130/7bf6f160950405e90e2b3418285047f1eadbbfcbd0597b5c531742b2a0193379e6bd64a2afc4c0e6.jpg",
+    "brandName": "晶铸生物科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "魏塘",
+    "city": 101210300,
+    "cityName": "嘉兴",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "bac6b390f496e69f33B53du9E1o~",
+    "encryptBrandId": "5cac01fccc5e30fa1XV_3Nq_FFY~",
+    "encryptJobId": "1a528a9810b1ad011XF83NW6ElpW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.85032,
+        "longitude": 120.955299
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100403,
+    "isShield": 0,
+    "itemId": 112,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "python软件开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "sQpz2wqMeK.search.112",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "5tQO-6-IkfBzc-_1u2kjdZu7TCdEtH7UWjDSrxAB3pRW2lgsUjhX4pG9gguFHr6kEwfu1TuBkw4KhP_PNFvPQlLzAqAbD4kR4X1peiwak5Er-HG1d-08jpA5do6Ze4fxVFKSlMAYco5kng~~",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "MySQL"
+    ],
+    "welfareList": [
+        "餐补",
+        "年终奖",
+        "五险一金"
+    ]
+}

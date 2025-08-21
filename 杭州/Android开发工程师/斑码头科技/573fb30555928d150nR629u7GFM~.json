@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160928/e18ed2e9a0eaaacabd16c9735f7e37f7a83ad10c660280b1025731414d7c059a_s.jpg",
+    "bossCert": 3,
+    "bossName": "陆开怀",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "新零售",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181211/4c5e5b30900b6bac0f8f639d55712f2df52789f44cd3d279eae4932018b268be.jpg",
+    "brandName": "斑码头科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2a6fedbfab6d173b1n1539y_E1s~",
+    "encryptBrandId": "d146f0a8555fc3e81HVy3tS6Eg~~",
+    "encryptJobId": "573fb30555928d150nR629u7GFM~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.182337,
+        "longitude": 120.19552
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100017,
+    "isShield": 0,
+    "itemId": 58,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Android开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "HYOybPnEnM.search.58",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "hUwGd9d1mT9Ya-H1kYCr7RxgdYfYOr99ctQHeTsRD8FjUS42wWVBCxv2__RvuKtSl3tF-Qen1e1-ukK_gwh4YAu78yFPa-D_kIVJX8eoCU66Jaj1QsdWvoH03olmaKW1rn5VSmwpaBg~",
+    "showTopPosition": false,
+    "skills": [
+        "Android SDK",
+        "androidStudio",
+        "java"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

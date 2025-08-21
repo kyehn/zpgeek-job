@@ -1,0 +1,62 @@
+{
+    "securityId": "1nclyYWQ7mqTS-t11tMsgsoByyuhpz16s0GFkax43kpdtoWTs5O2lLHZ1DIVSGN2xYXUYVnp1DaMOuNST671UUvy0UJZJeBJq96Zuz9VwUu1c49a80Fsc84rm961CPNyqXKkH3fbHssJ1Q~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180630/8b7e73a1e9d21bd1348952e9c5d3c5197af3705f2e57e8e104ad11621386da86_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "fe387feda40d957d03V_3di7F1M~",
+    "bossName": "周女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ad8ee9ee331083621HZ93tq8GFpZ",
+    "expectId": 1030426395,
+    "jobName": "数据标注专员",
+    "lid": "Mihr2igIzp.search.135",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "全职工作",
+        "数据标注",
+        "图片标注"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "泰州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 135,
+    "city": 101191200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 119.977404,
+        "latitude": 32.168035
+    },
+    "encryptBrandId": "6a7b583130e985e01Xx_3960ElI~",
+    "brandName": "泰州历帆",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假",
+        "年终奖",
+        "节日福利"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

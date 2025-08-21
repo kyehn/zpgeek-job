@@ -1,0 +1,61 @@
+{
+    "securityId": "HaX36YdCmFOCr-n1ogPJSev3pKSC6cxa4s6MhQ_0Ypq2PmtwLFdF-3332LNFmGqWIMp8PKV0frEGuh9_iPQglDDVRIA-X3vS_xKiz5LKA9oEKJBSig~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231104/607f1f3d68754fd03f15e2104072ff1299fa1d366d2aebb4e2e9c10dc24fdd8414e0dd0957748306_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "8797a9b24c2eca990nZ70tS-FFdY",
+    "bossName": "张女士",
+    "bossTitle": "招聘hr",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "433a1f2d80216eac1HVz3di1FFBX",
+    "expectId": 0,
+    "jobName": "招聘实习生",
+    "lid": "3uXKld8I1qn.search.148",
+    "salaryDesc": "2-3K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "公司人力资源部门",
+        "COE"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "长宁区",
+    "businessDistrict": "仙霞",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 148,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.402662,
+        "latitude": 31.208938
+    },
+    "encryptBrandId": "ea9c5680f57d53d71HV90ty5",
+    "brandName": "拼多多集团-PDD",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240828/7bf6f160950405e9178479fc4775c2ca8134fd20ab98f88fe2e9c10dc24fdd8414e0dd0957748306.png.webp",
+    "brandStageName": "已上市",
+    "brandIndustry": "互联网",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "全勤奖",
+        "定期体检",
+        "节日福利"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

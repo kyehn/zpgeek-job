@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "津南区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240226/607f1f3d68754fd04b6ce196f52a36a860f509621d520f3b4b170b4ee9e92de397389c34cf553660_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "郝瑞杰",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230221/7bf6f160950405e99aa6a10898c7f0659465cdd098e66374a91c9b9cdafde1ff585631ca4db2e3c7.jpg",
+    "brandName": "天津师苑科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "辛庄",
+    "city": 101030100,
+    "cityName": "天津",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9ef2c39a7fec2fa303183NW9F1E~",
+    "encryptBrandId": "23ecfc89187d46201n1z3t29FlI~",
+    "encryptJobId": "0eaba109cf722cd31H150tS1FlBY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.017926,
+        "longitude": 117.376938
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 59,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "软件实施专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5DW7OF3WbMJ.search.59",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "Ibxg3I8JLR7RD-t1IP2XFzqYMqaOkwDwmFSOa7yQdP4GyuCGyhpsInljs3Ax20iJ0Ppfz-7meqGn6pVGhf8CY1mbuIGqcratMtdZZPt53Q3hWqD-75-eXfpfe_p3PYWeh1Ut2EA_0XsE5A~~",
+    "showTopPosition": false,
+    "skills": [
+        "软件实施经验",
+        "可适应出差"
+    ],
+    "welfareList": [
+        "法定节假日三薪"
+    ]
+}

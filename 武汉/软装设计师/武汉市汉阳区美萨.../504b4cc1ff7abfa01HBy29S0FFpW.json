@@ -1,0 +1,59 @@
+{
+    "securityId": "WXAAm6BunYUWz-Y1bjkNpRLAOe30w_KXvMbACk5mhQ4Pi1dRjMpX0zSof_UELgQjbOrJKYeCevP7tzkV2CdcHKzInteUqV4RM7gMUfFdz8Fa_sdCwxT9",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240406/607f1f3d68754fd0b15d7ca0f65b0b1eee79de3c079891d65fb0083c42511a6d714efc9ea7560cef_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "a88e03841eeb148c0XB83dy0GVtQ",
+    "bossName": "余先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "504b4cc1ff7abfa01HBy29S0FFpW",
+    "expectId": 0,
+    "jobName": "软装设计师",
+    "lid": "1eoboHqPOB1.search.161",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "门窗设计师"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "武昌区",
+    "businessDistrict": "岳家嘴",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 161,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.363318,
+        "latitude": 30.575501
+    },
+    "encryptBrandId": "efa0d73d36b99a371HB629S5FVE~",
+    "brandName": "武汉市汉阳区美萨...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "装修装饰",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "底薪加提成",
+        "保底工资"
+    ],
+    "industry": 100704,
+    "contact": false,
+    "showTopPosition": false
+}

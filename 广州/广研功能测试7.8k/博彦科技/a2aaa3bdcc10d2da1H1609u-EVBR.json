@@ -1,0 +1,63 @@
+{
+    "securityId": "ndxnctYZLeQft-f1pccrYUefwL7bYu5n0qo-B5FUO5StgsMA12hFFxujw-mqhTaN-WvOURyESMtzMou-5WCVA5xTMnPYHrCstOO0C3g3XArqufou",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201212/3512b647fe137e50f14424216db21cfe2e4b910b70dc0c3af8adc818b600c655_s.png",
+    "bossCert": 3,
+    "encryptBossId": "ab8d35b03acd341303dz39q0FFU~",
+    "bossName": "廖女士",
+    "bossTitle": "招聘HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a2aaa3bdcc10d2da1H1609u-EVBR",
+    "expectId": 0,
+    "jobName": "广研功能测试/7.8k",
+    "lid": "28E650dtkyq.search.174",
+    "salaryDesc": "7-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "海珠区",
+    "businessDistrict": "琶洲",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 174,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.314828,
+        "latitude": 23.099018
+    },
+    "encryptBrandId": "e715aa1be4283fc21nd62tq5",
+    "brandName": "博彦科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/eb7c416aa1c228b43cbae35dbf1e6990cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "定期体检",
+        "节日福利",
+        "年终奖",
+        "免费班车"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

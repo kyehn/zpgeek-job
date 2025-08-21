@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "清城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221021/607f1f3d68754fd0804a7385f63d5442456f228d07ae24dd25348bd2d660a5ef647eac0193da5b73_s.png",
+    "bossCert": 3,
+    "bossName": "杨先生",
+    "bossOnline": false,
+    "bossTitle": "招聘老师",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191202/39c27756d5a17400a7f44093bb3e5101c2cc55733a56d82232d44ee1d0cd53bd_s.jpg",
+    "brandName": "Testin 云测",
+    "brandScaleName": "500-999人",
+    "brandStageName": "D轮及以上",
+    "businessDistrict": "东城",
+    "city": 101281300,
+    "cityName": "清远",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e726483d48bb1efb0n1z09u5ElM~",
+    "encryptBrandId": "ceb246cf881c752f33d939g~",
+    "encryptJobId": "ef6794c83673ae551HV90tq_ElZS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.72021,
+        "longitude": 113.103126
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 31,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "软件测试实习生",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9ayF4RPqkhr.search.31",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "IxU4pVe7TQIRm-V1Z0vsaLvS7VfWVagiosaaFATARoE2q40J6tMHh4YsNdz5KiLf9t23pMGr902Ze8eJVV4nwKk8gmp5cyO06Qqaz0kS_pMK-ebXNgRZZdJNbtJnghQ6HaxLo5tJ2w~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "带薪年假",
+        "五险一金",
+        "节日福利"
+    ]
+}

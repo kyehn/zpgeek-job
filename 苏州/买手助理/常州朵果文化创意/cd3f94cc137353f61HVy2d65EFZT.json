@@ -1,0 +1,63 @@
+{
+    "securityId": "RVFUqlGFG1g5D-X1FUOo3GIsWUZ-Of2h69igKwO3d6G_AxcJrClCg6QDEOfOd9CnV6XGTc5zFu0sokJBnb35jdIqj6PxA6dd2NmvsNPtqtWmLJoqb_8~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "2d616f8a7d6d5a3e0nF62924ElU~",
+    "bossName": "钱先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "cd3f94cc137353f61HVy2d65EFZT",
+    "expectId": 0,
+    "jobName": "买手助理",
+    "lid": "29wJeeSYiFr.search.167",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "全职"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "苏州",
+    "areaDistrict": "吴中区",
+    "businessDistrict": "木渎",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 167,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.552505,
+        "latitude": 31.24944
+    },
+    "encryptBrandId": "e0f709be11ec5a101XB70tu5GVc~",
+    "brandName": "常州朵果文化创意",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230803/7b5b554d84f9729c18d6435b73e77c57233b7df09c99d45dfdb2d5894b0b18fa6a9f0d1bd2b2c411.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "批发/零售",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "全勤奖",
+        "绩效奖金",
+        "带薪年假",
+        "五险",
+        "法定节假日三薪",
+        "团建聚餐"
+    ],
+    "industry": 100503,
+    "contact": false,
+    "showTopPosition": false
+}

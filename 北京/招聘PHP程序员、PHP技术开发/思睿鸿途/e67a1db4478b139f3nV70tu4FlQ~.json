@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180102/1e19c0c51f5107483e36207cea86f4f3bc0f8418bfc54dfb9f65679dea55f64c_s.jpg",
+    "bossCert": 3,
+    "bossName": "武先生",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181220/7a07124f61d454313cc285707188f3f6cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "思睿鸿途",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "立水桥",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e4dc4665e44c2dcf1Hd_3d-9EVU~",
+    "encryptBrandId": "0a027475deea55191nd82ti1Eg~~",
+    "encryptJobId": "e67a1db4478b139f3nV70tu4FlQ~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.050227,
+        "longitude": 116.413686
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 89,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "招聘PHP程序员、PHP技术开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8kkPqMAnDwM.search.89",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "W79evBZ8jiW3v-K1VRky5QLk0mbTdZwNmPKI54KUqp9d0jTPX2Vqa5EfAP8CzTOmtCS8odcs53XUoMeukB7WyXsAACSzwtUBiIdcTyAOHUg4P15PdiLDA_ErGdANQ2XLblbEZlxTJc4~",
+    "showTopPosition": false,
+    "skills": [
+        "CSS",
+        "HTML",
+        "SQL"
+    ],
+    "welfareList": [
+        "全勤奖",
+        "节日福利"
+    ]
+}

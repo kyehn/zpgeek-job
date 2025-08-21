@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "小店区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "梁钰容",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250107/7bf6f160950405e9b2f8ef9d0ecd39b753d5b0ef3630df898f20588b4388d2b8675036a2da905137.png.webp",
+    "brandName": "普源生科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "学府街",
+    "city": 101100100,
+    "cityName": "太原",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "de11a76b319ae94d0Xx909i0GVo~",
+    "encryptBrandId": "2599df6a92c2d9851HZ439u8FlA~",
+    "encryptJobId": "7343b3c63ac6959303V63tq1F1NW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 37.789278,
+        "longitude": 112.558148
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 26,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6Sxtqtc7S5C.search.26",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "k8t8QDJAM5hQd-c1JVSNhY03GWe9Q3ZEVw2V7Xk80H37j-NGR7_l3wJxBepGxGqrW_p3JiweShZxiQp1wpwuHT9v0GNJJVRGmMk8AEMd0pJ338dVMZQXWH-eB41YfWYPmH6Bp7XMY1jCMA~~",
+    "showTopPosition": false,
+    "skills": [
+        "C++",
+        "团队管理经验",
+        "MFC"
+    ],
+    "welfareList": [
+        "节日福利",
+        "团建聚餐"
+    ]
+}

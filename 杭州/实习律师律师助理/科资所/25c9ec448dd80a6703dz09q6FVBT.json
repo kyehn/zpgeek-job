@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "上城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190624/e4e43b37e8d660c520b52d7526503c1bf8ed71d2de42f5b3631eb20bd724457e_s.jpg",
+    "bossCert": 3,
+    "bossName": "方雳",
+    "bossOnline": false,
+    "bossTitle": "主任",
+    "brandIndustry": "法律",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190625/4ada1793b7bea33b69241bc24d48adf4f8ed71d2de42f5b3631eb20bd724457e.jpg",
+    "brandName": "科资所",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "南星",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0a356cb3524b33db0XJy2Nq_FFQ~",
+    "encryptBrandId": "21e10bf32f821ed71n193t-1Fg~~",
+    "encryptJobId": "25c9ec448dd80a6703dz09q6FVBT",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.216698,
+        "longitude": 120.177239
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100602,
+    "isShield": 0,
+    "itemId": 75,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "实习律师/律师助理",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8bCW9ZQwWKg.search.75",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "T3DJKms5B5_01-J1q7chB52Ndx8UlrlOadbKWbS_0-EeUx6T4ejp-tfRG-6snnwgEJUZsClA-51Y654EYki8H1oacb1rOk_PS-WEpWdinSHGbr5DBw~~",
+    "showTopPosition": false,
+    "skills": [
+        "营销岗方向"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "员工旅游"
+    ]
+}

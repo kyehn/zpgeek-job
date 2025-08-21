@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "岳麓区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "赵鑫",
+    "bossOnline": false,
+    "bossTitle": "人事总监",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190819/e662449615de7307d0e036da165fe63bad13eac57fefdbf0f0ab552cb1b904f4_s.jpg",
+    "brandName": "广州瑞友",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "观沙岭",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d70056fb906ec0940nV639y9FFdZ",
+    "encryptBrandId": "70b6b2b7b6904d801Xd72tu9EQ~~",
+    "encryptJobId": "fc70f87fdb0a475b1nV_09q8FlZZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.235688,
+        "longitude": 112.962355
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 82,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "银行业财务实施顾问",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "26AQtvNsbue.search.82",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-11K",
+    "securityId": "GR2oTX-lnUxQr-I1RLjJqKDzHLaqEHgmK1kkzgZXLeHD5GZUMEqHoZqu6NrC5MoQv_U4qbZmcZAmXwHJno83e7kjOXks_Cf-x2LI_giByGr3fTchGe5ymUHLpaU7ODEReVV9y1ET9VSPfQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "ERP",
+        "实施工程师/顾问",
+        "SQL",
+        "Shell"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

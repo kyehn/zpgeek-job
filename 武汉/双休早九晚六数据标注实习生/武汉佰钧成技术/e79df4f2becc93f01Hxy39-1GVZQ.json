@@ -1,0 +1,63 @@
+{
+    "securityId": "_VyBaQgRiQ7mx-z1makj4tXH0lSMa47f-tXO9gXhFelIvdLUeGOcZ3pxXwQhc-ym3DOnLKP2h-PFgrouWiQ9pkBUDpnwY5MaN-0YCrANCME5xIVo_RkF5XHUlkeIj2dMuEYbC7S22xc~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240304/607f1f3d68754fd0e214bc52a85740d0584d70a56469a20ae6cab5fd3a1ff7212c4b9315ba5571dd_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "20845061b200553b1Hxz2tW-Fls~",
+    "bossName": "张莹",
+    "bossTitle": "招聘ssc",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e79df4f2becc93f01Hxy39-1GVZQ",
+    "expectId": 1030426395,
+    "jobName": "双休早九晚六数据标注实习生",
+    "lid": "2al2kmgataP.search.115",
+    "salaryDesc": "2-3K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "标注",
+        "审核"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "江夏区",
+    "businessDistrict": "流芳",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 115,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.425,
+        "latitude": 30.456
+    },
+    "encryptBrandId": "71bcdc1198f6c83703J70tq8",
+    "brandName": "武汉佰钧成技术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/39330dfb0bc7d6cad2158722dd7d37fecfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "带薪年假",
+        "五险一金",
+        "定期体检",
+        "补充医疗保险",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

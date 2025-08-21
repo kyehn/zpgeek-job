@@ -1,0 +1,63 @@
+{
+    "securityId": "b88DLPgAIsOrv-21HvSLDnqPDm3AihWfP0BmWl8OT7vbuPjiJStTWl647zVSmnxTpWeF4X7vxnYZQUzcmK57DMdHkYTEG2ckjRTHwIMWFTjxLqQRJ9RqeVaIIbIVI9MvTpUJssGqumBZ0aU~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "83781ea716ecdb140nZ83dW5ElpV",
+    "bossName": "惠女士",
+    "bossTitle": "项目管理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "52b98aa16a5646fc1HN62NS_GVtW",
+    "expectId": 1014042683,
+    "jobName": "实施经理",
+    "lid": "2WLlanEUmQW.search.160",
+    "salaryDesc": "5-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "软件实施经验",
+        "PMP"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "福州",
+    "areaDistrict": "鼓楼区",
+    "businessDistrict": "铜盘",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 160,
+    "city": 101230100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 119.288688,
+        "latitude": 26.105133
+    },
+    "encryptBrandId": "56488896e3ccff7f1nFy3t65ElA~",
+    "brandName": "颐标",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230604/7b5b554d84f9729cf6122cfde52d65b9b6e7ab8a3ec83486e7a034f0ef9bb48b77b14e0a17eeb138.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "股票期权",
+        "五险一金",
+        "带薪年假",
+        "员工旅游",
+        "年终奖"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

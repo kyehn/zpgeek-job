@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "虎丘区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "刘兆邦",
+    "bossOnline": false,
+    "bossTitle": "研发经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190827/02e64a9c3c2396b222cd62046432c1202f667892b6c3da2bc98a69fb88d3cdfc.png",
+    "brandName": "斯玛维",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "科技城",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e319a5edb0be24510Hdz29W1FlY~",
+    "encryptBrandId": "31a82b3bd09840a90nJ-2tm8GA~~",
+    "encryptJobId": "9c2d40cd7e0944d60nd_3tS6Flo~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.325708,
+        "longitude": 120.418944
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 51,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rn5CJX42aH.search.51",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-9K",
+    "securityId": "5vNyCmuArDvpH-91h1ZvFtOye_fcEreJSN2bgAuGk3-ZhpwMpXrI_8yokdLE_mgcOeEhOosJ80jHPbSRo7xOqW81vubKPtbSkVf5Le6w_k-mar_RCjumw-NnpJxmF7IArG2gvYjS7z4~",
+    "showTopPosition": false,
+    "skills": [
+        "C/C++",
+        "QT",
+        "OpenCV"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

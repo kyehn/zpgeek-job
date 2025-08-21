@@ -1,0 +1,62 @@
+{
+    "securityId": "XgR13LruFqK9s-21gWGHz8yurnojZNZ4lq8Xq4O3i9F-lw0UtWy3nAq9Fp9qJatlI27OEK_Jk7mWmPNVh29x2NKjFttpxsmsUZBhQn2e6FMsBxXPxLM~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "bf96b3e86329acf41HR63NS6F1c~",
+    "bossName": "武先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e1a4e6c03fe715f71HF72929FVJS",
+    "expectId": 0,
+    "jobName": "不出门坐办公室的网络销售",
+    "lid": "29wJeeSYiFr.search.138",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "客户关系维护",
+        "微信营销",
+        "电子商务"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "吴江区",
+    "businessDistrict": "松陵",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 138,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.656013,
+        "latitude": 31.138195
+    },
+    "encryptBrandId": "2e19f2a42dee329b1nx_29S5FlQ~",
+    "brandName": "冰城科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "节日福利",
+        "零食下午茶",
+        "五险一金"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

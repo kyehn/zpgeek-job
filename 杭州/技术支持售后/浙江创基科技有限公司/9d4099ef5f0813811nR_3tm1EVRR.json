@@ -1,0 +1,62 @@
+{
+    "securityId": "16o00s7blXrhE-91yFghFj1bFBZg2dPWJIIddQLeMUx-LKlbaje8KTqU_3ENtbf9_7mxWeJ9OtEzAbvFcU7Wuz2NleIx9-230MK6xaXr-NbR7JoKZw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190611/859e03c7b8971eee3e431698046e58b2cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "cf319cb44d7130510XF43N-1FlA~",
+    "bossName": "华女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "9d4099ef5f0813811nR_3tm1EVRR",
+    "expectId": 0,
+    "jobName": "技术支持（售后）",
+    "lid": "1JZJNSJNHU9.search.124",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "技术支持  "
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "金家渡",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 124,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.115403,
+        "latitude": 30.340872
+    },
+    "encryptBrandId": "4b764608f20b1f3303N539S_Eg~~",
+    "brandName": "浙江创基科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190611/fb6628456a11acf376e38a31e094d542f56bac08064b42b119cd8b5b9b4c3219.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "节日福利",
+        "住房补贴"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

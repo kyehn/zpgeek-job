@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "东胜区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200224/e632e113348f4840153f31b77278f2d66732eb3192d901e2ca9dc1341005ba7d_s.jpg",
+    "bossCert": 3,
+    "bossName": "张三小",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "电力/热力/燃气/水利",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "云谷电力",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "万正广场",
+    "city": 101080600,
+    "cityName": "鄂尔多斯",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2b937ae2bb649a4b0nd_29W_F1E~",
+    "encryptBrandId": "8d66a18db836dfda1nx429y5E1U~",
+    "encryptJobId": "6cec49c81b37ede903V83ti7E1RW",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.811337,
+        "longitude": 109.981639
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101205,
+    "isShield": 0,
+    "itemId": 84,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维人员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8FZOMkz5ujQ.search.84",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "P33vX8cV4AAVP-t1otLNvjq6UdJsJfLyUcgH8S6DqG-l0DtM0EAUsr7aGQpIeLOPiNuIS4H_2rRswZQOQT4etiKiml7eOIHFYY0cx-6vhLD2fwVD0EQ~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "计算机相关专业",
+        "电子/电气/自动化相关专业",
+        "运维经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宛城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201202/e67452043399928a4b170dd14cf0aaa42aa54ef655be7381b76d82fab9275dae_s.jpg",
+    "bossCert": 3,
+    "bossName": "连正治",
+    "bossOnline": true,
+    "bossTitle": "hr",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201202/31277e030ad7c4f835515744bee31eaa2aa54ef655be7381b76d82fab9275dae.jpg",
+    "brandName": "上海安秉信息",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "独山大道",
+    "city": 101180700,
+    "cityName": "南阳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b29371fcf106a94a1XR73dS8E1M~",
+    "encryptBrandId": "c6f32115f55387b80HB_2di1",
+    "encryptJobId": "c9173df9372fc9261HB72du7F1dR",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 33.014387,
+        "longitude": 112.577034
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 55,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件技术支持",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "89PpxSsuJYD.search.55",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "OxzVtBZ7lpEPN-N1m0v8Gy_nMgnCwdF5XE1q7noVJOJDDs-ABdkhOEj4sxsByQ1US4pgj3F5ZhvA1SRQPcR_6Kovs5V0pvqSXfwT2fdi3uAd0DFPvi9n6W5-K5aPalcd5FMJmfe6ysJbvd7_fIje",
+    "showTopPosition": false,
+    "skills": [
+        "IT技术支持经验",
+        "售前/售后技术支持",
+        "MySQL/Oracle",
+        "计算机/通信相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

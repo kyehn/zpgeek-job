@@ -1,0 +1,61 @@
+{
+    "securityId": "FmgTYDxLRkjup-r1KoANWK5LOcUmwhI7bHS6oqixSeJPjiYESHaUIzP4vOfR5ftg3wOszr2h0oimfQ3-fwstrhICyPGcTg6TDPt9JCVaDrZo1N9KXQw~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241008/607f1f3d68754fd07e9ed5b45b4f708534d491667cc20a13a1fab8770904bef3144c1c8cb9998a18_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "1620aeffaa718c8203B73ty1E1A~",
+    "bossName": "赵先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "945413a3a83ef44b1XR82NW5E1tV",
+    "expectId": 0,
+    "jobName": "需求分析工程师",
+    "lid": "2xXoet49V6d.search.217",
+    "salaryDesc": "9-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "需求说明"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "汉阳区",
+    "businessDistrict": "四新",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 217,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.199788,
+        "latitude": 30.531011
+    },
+    "encryptBrandId": "f38d696e0330947d1n1629S6E1I~",
+    "brandName": "悦天明电子产品经营部",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "已上市",
+    "brandIndustry": "批发/零售",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "节日福利",
+        "年终奖",
+        "全勤奖",
+        "五险一金"
+    ],
+    "industry": 100503,
+    "contact": false,
+    "showTopPosition": false
+}

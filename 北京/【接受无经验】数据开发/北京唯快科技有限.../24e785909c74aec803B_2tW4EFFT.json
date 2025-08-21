@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250605/607f1f3d68754fd07b985daa864252019751317784c2a2267daf220d83302733917c0b2607e2e067_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "王先生",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
+    "brandName": "北京唯快科技有限...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "劲松",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6770c40fe219774c1nV82dS5FFU~",
+    "encryptBrandId": "3504afa7aa40c68d1HVy3N-_GQ~~",
+    "encryptJobId": "24e785909c74aec803B_2tW4EFFT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.883929,
+        "longitude": 116.462352
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 2,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "【接受无经验】数据开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7M1Zd7IFT1t.search.2",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "-3wv7ck4ono4G-l1MI8kavHH8ZINrMfN2xCJz84yqhpCTrzt7iZxFp1mDwOka6L2yizBTrPRfkGNshQ9cdg36ZFV9V6CtZZL7dda4QxnJm-z_OqH_ZO40cJ_yXYFcgNlUa20g3gSZho8",
+    "showTopPosition": false,
+    "skills": [
+        "接受无数据开发经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "员工旅游",
+        "零食下午茶"
+    ]
+}

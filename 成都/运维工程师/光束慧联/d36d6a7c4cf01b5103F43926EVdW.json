@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250207/607f1f3d68754fd01b015fdfbca26f66d5268a0956963db9bf5d338a5c072abedcaa45ff0af55b64_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "杜秋君",
+    "bossOnline": false,
+    "bossTitle": "项目总监",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210402/4b412428eeef5dbb8c7652d54db1c0794e38871e22950aa4cc35e4d2a30a9ad0.png",
+    "brandName": "光束慧联",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "404dd44267c636340nFz2tW6EVNV",
+    "encryptBrandId": "3477f8cb974623ec33Zy3Nm6GA~~",
+    "encryptJobId": "d36d6a7c4cf01b5103F43926EVdW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.612783,
+        "longitude": 103.966451
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 32,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8t5mOM03LNr.search.32",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "su5A6qrktkU9r-y1n581EvW6wkDTrbHzn2agQDJSUzQuAyQ7nMa5hYhzIrQE3rQzIPBQMQcz2kYu8r_4sOYWw6RgnTRe8GFVLzgnFqXRF15xOFVfi817iEh9eRVoAFdFwSZw8WVbIpgEMw~~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

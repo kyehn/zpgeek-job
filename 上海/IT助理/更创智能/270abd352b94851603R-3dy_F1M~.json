@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "虹口区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180418/6d0b978ebbe2a33515bfc4e7e8c60f95cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "bossName": "方毅",
+    "bossOnline": false,
+    "bossTitle": "总监",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190308/502bba6822116c962cf78886b309f78ee85a7e4e227e6b892bc73b64fdf7ca34_s.jpg",
+    "brandName": "更创智能",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "周家嘴路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "43926a15f86f08fc1HN82Ni4E1M~",
+    "encryptBrandId": "de5e24bccd25ea4a1nNz2NS-EA~~",
+    "encryptJobId": "270abd352b94851603R-3dy_F1M~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.260842,
+        "longitude": 121.51336
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 131,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "IT助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "ft1zrdv5zx.search.131",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "1uim7Ux792f2Z-j11TF3s-UUEUUYgnoVeHEdrPgo8Gyu4ry-Za2r1PUiYk-w0axY5GGHcrvuRwxAVmfH0mCnP9sA3dsgwFo0iMzBdoc0Uk2MnoeJH2BGYCK3nTcsBLTvKyS8GDIwVp8~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "IT支持"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "长安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_12.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": true,
+    "bossTitle": "人事",
+    "brandIndustry": "自动化设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201102/6203826785d7a666ce168872f47c8f643492aca39e28731c121b1b9f53d93813_s.jpg",
+    "brandName": "河北新大地",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "桃园",
+    "city": 101090100,
+    "cityName": "石家庄",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fe092a53053602450n1529--EFc~",
+    "encryptBrandId": "2355e107a603a9e01HJz0tu6Ew~~",
+    "encryptJobId": "6d24fee0ea46f3131nN_0ty4FVdU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 38.085554,
+        "longitude": 114.517047
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100914,
+    "isShield": 0,
+    "itemId": 29,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件实施项目经理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9ax08umXLmH.search.29",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "Qi-ms6yJmAGqE-g1U-j-jcIZ85wi7FN5tDCbYEAODHe5-HWpgeplhp_sjxd32WnNyALdfMED0CXnNgjIbJxTT31oJyp_94albvcQRs2sWDoClrCCUVjuRCE2BUdBcvK7K2dZlKHTYtzNR40K1Y7_bEr2C7Rwq-aVS0ZObH5Edek2OS2O",
+    "showTopPosition": false,
+    "skills": [
+        "软件实施"
+    ],
+    "welfareList": [
+        "免费班车",
+        "餐补",
+        "五险"
+    ]
+}

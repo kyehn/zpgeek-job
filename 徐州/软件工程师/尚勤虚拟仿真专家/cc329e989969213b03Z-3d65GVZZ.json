@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "泉山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "王先生",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "尚勤虚拟仿真专家",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "矿业大学",
+    "city": 101190800,
+    "cityName": "徐州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "bc06864940dcc4631nZ72dy0ElRY",
+    "encryptBrandId": "76b6b64e67e74b9d1nRz3dS8FFc~",
+    "encryptJobId": "cc329e989969213b03Z-3d65GVZZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.223773,
+        "longitude": 117.198051
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 105,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3pVROUps8EB.search.105",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "XpElH5pQxUM3j-71BItNcfrZnltNfJzCPo_M9TUex36RIRf1T4oxwhdEWIQb2E9U6PkcaW0p1s3XuwI_c8U7EZ0weN7vq13-D8kRauV8NQq8KFCbee-0DK0m98zk1r-s_yr4EEsyM_XQ0uU~",
+    "showTopPosition": false,
+    "skills": [
+        "C++"
+    ],
+    "welfareList": [
+        "餐补",
+        "底薪加提成",
+        "有无线网",
+        "年终奖"
+    ]
+}

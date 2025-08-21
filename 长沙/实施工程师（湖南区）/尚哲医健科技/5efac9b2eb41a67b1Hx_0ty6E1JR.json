@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "开福区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "医疗健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211223/7bf6f160950405e9129c3482b5891a9610c54652191fe123d585e6c78f981e0599743eba393dd91d.jpg",
+    "brandName": "尚哲医健科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "开福万达",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e88ff1a33ef26ffa03J-3NW6FVU~",
+    "encryptBrandId": "d3902c5add30faff1HJ92Ni0FA~~",
+    "encryptJobId": "5efac9b2eb41a67b1Hx_0ty6E1JR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.198692,
+        "longitude": 112.970044
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100006,
+    "isShield": 0,
+    "itemId": 91,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "实施工程师（湖南区）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "26AQtvNsbue.search.91",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "dru65JHHIdHES-M1QCUkn9s3FZT5ZMT208BrfCxWqbHvlHcJMZfPbfrDwyQmi3Qsd6-01LyYP3q4nFa6yRP-2Cl5UIv0E_wcE2FC2KWJw0TA-Wkfv1tBoo3dEBwGi1K-Ezg4T5IG61qO",
+    "showTopPosition": false,
+    "skills": [
+        "软件实施经验",
+        "计算机相关专业",
+        "可适应出差"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

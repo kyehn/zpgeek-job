@@ -1,0 +1,63 @@
+{
+    "securityId": "eaSp-zaJJ9wc_-k12doTW_mXbmz6n6RhzZstSBIuQHA2f-zPTMHd0Pj_nMGu31MpUjGayxRGIdrwMWA-zGUqb-4k53Z233jzGj7vdvxfVlAXR-QwAdYHzjBize7w42owp7oqkspy3fQ~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230628/607f1f3d68754fd01c379c93042ded4dadfe6b0eb0f8971b8f8b2656bab7d82a80b210871ff5f647_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "0714e11e6bf2a32c0XR529S5F1s~",
+    "bossName": "漆先生",
+    "bossTitle": "高级招聘经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1a9c3197a5b950b91H172dy1EVFU",
+    "expectId": 1014042683,
+    "jobName": "驱动协议测试工程师（武汉）",
+    "lid": "1bevKcfdQvz.search.178",
+    "salaryDesc": "5-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "驱动",
+        "协议"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "洪山区",
+    "businessDistrict": "光谷东",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 178,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.541834,
+        "latitude": 30.489537
+    },
+    "encryptBrandId": "71bcdc1198f6c83703J70tq8",
+    "brandName": "武汉佰钧成技术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/39330dfb0bc7d6cad2158722dd7d37fecfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "节日福利",
+        "补充医疗保险",
+        "定期体检",
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

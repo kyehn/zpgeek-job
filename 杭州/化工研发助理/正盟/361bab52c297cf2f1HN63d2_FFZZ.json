@@ -1,0 +1,62 @@
+{
+    "securityId": "OXmcJJ27ZF1r6-D1afv_g7Sr8bv4gVybDe0ymP3rQZlmPMK2tqy_N3ALPArjxdEDnPqhEgfv2JIghz6FzJPhx_XHEWCM5VFfoEFmuIKIVxjuw-_-HNM~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230331/607f1f3d68754fd03c8bfcc6c0a4bdb17e5f5ffaf26618087c3fe33e5f8fcf370aad2c53bbeaf963_s.png",
+    "bossCert": 3,
+    "encryptBossId": "4319f59acd33cfb90nR63Nq9EFtX",
+    "bossName": "梁先生",
+    "bossTitle": "生产经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "361bab52c297cf2f1HN63d2_FFZZ",
+    "expectId": 0,
+    "jobName": "化工研发助理",
+    "lid": "1HzzGfanOe1.search.188",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "环保行业",
+        "日用化工",
+        "精细与专用化学品",
+        "英语可作为工作语言",
+        "化工工程师证"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "临平区",
+    "businessDistrict": "塘栖",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 188,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.254829,
+        "latitude": 30.468352
+    },
+    "encryptBrandId": "31c7799fc60fb9a30HJ83dW7GA~~",
+    "brandName": "正盟",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200331/6d5b77149a57989aad231382f091bc727e09f5747a32f08aa3caee4a1654190a.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "化工",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 101202,
+    "contact": false,
+    "showTopPosition": false
+}

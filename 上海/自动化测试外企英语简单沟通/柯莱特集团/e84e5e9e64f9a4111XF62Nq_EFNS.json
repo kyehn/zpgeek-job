@@ -1,0 +1,63 @@
+{
+    "securityId": "TQmWv2eqnZBW4-W1DpX66mDsLpBQo6HyXGRfdMiCWIRuK5DjO3klhunDBnCa2Dn67dSvfCyV4aUmLnTNxQCML337xWMxlbKRLECngxuj9jGiU__T0iUb99_LnV_gcqSRCtdiJECWByc~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170510/35388e0d69ce49d332528e0fa43b7b528c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "8a4ea4cde61599bf1XV809S-E1s~",
+    "bossName": "林艳娟",
+    "bossTitle": "招聘经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e84e5e9e64f9a4111XF62Nq_EFNS",
+    "expectId": 1014042683,
+    "jobName": "自动化测试（外企  英语简单沟通）",
+    "lid": "2AFWwAk6ujS.search.83",
+    "salaryDesc": "8-9K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Postman",
+        "测试工作经验",
+        "自动化测试经验",
+        "英语"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "张江",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 83,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.600965,
+        "latitude": 31.209046
+    },
+    "encryptBrandId": "879cece58f6a7e7d1XR929W0",
+    "brandName": "柯莱特集团",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金",
+        "交通补助",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

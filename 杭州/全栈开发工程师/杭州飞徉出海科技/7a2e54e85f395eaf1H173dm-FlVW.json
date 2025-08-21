@@ -1,0 +1,61 @@
+{
+    "securityId": "uulQb1O5WcsjE-s17LaK5niggRbs7koed1QOb3aKuCqYinPLQKHiPs7nD2qKX4Yfh_CU0I1hQvSFvZXXh_e22ZAtZ2s6WpirveRFwMRebHLOhXm3SvRi04i4mXbenzh73rNWrgRJYvEcQBk~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241003/607f1f3d68754fd0dba7556cf989af26e2266f7aa434a36ed1c1fa9db3b7ea8f95fb2f8659264350_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "87cb62df5cd264791nV_2tS9GVBY",
+    "bossName": "李甲龙",
+    "bossTitle": "人力经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7a2e54e85f395eaf1H173dm-FlVW",
+    "expectId": 1014042683,
+    "jobName": "全栈开发工程师",
+    "lid": "2DqOWoNLQzv.search.62",
+    "salaryDesc": "6-11K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "全栈侧重后端",
+        "全栈项目经验",
+        "python"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "钱塘区",
+    "businessDistrict": "工业园南",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 62,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.368496,
+        "latitude": 30.303821
+    },
+    "encryptBrandId": "50fcdc378334e30e1HN42N-6FVE~",
+    "brandName": "杭州飞徉出海科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "底薪加提成",
+        "保底工资"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

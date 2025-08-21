@@ -1,0 +1,63 @@
+{
+    "securityId": "DVl4c0wNsWGbX-U1XsNpkTNW1KPQlZs6a0Da1jQ4zhpESrwx_z7FYnb0pQQAwpUCsnkS6-BLAj-0c7O4XNRa4YMrGysPDWao5zAwZuFOBzyQ1Nx-i5mT",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "encryptBossId": "bd24075d53b7c8690nVy2dm-FlJT",
+    "bossName": "黄先生",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e8a65689707894f11n1z39S9GFpZ",
+    "expectId": 0,
+    "jobName": "Java开发工程师",
+    "lid": "5NaImlpto7C.search.70",
+    "salaryDesc": "6-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "后端开发",
+        "全栈开发",
+        "JAVA",
+        "VUE"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "茂名",
+    "areaDistrict": "茂南区",
+    "businessDistrict": "高凉南路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 70,
+    "city": 101282000,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 110.945301,
+        "latitude": 21.642852
+    },
+    "encryptBrandId": "5675fd0267da25601n1z2tu6EVM~",
+    "brandName": "小蜂嗡嗡",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211202/7bf6f160950405e9986da55c9e5bec952d98c3b9fdb146f329d240ed94755783e26772728c3ab494.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

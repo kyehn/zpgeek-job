@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "硚口区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250425/607f1f3d68754fd0a07d4ac43f84e953fcf3c8807a3f8f58c39f65959a9a9be07401390bddbf8da0_s.png.webp",
+    "bossCert": 3,
+    "bossName": "刘先生",
+    "bossOnline": true,
+    "bossTitle": "人事专员",
+    "brandIndustry": "社交网络与媒体",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "乐慧信息咨询有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "汉正街",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ac5a0c0b2b45642d0HR_2t68ElJU",
+    "encryptBrandId": "5dd0278eabb25f411HNy3tm0GVE~",
+    "encryptJobId": "1d465f0d5ec318bd03B62NS_FVNZ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.568682,
+        "longitude": 114.250019
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100003,
+    "isShield": 0,
+    "itemId": 1,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "大数据开发/双休五险一金/无责5K",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8G1vsRaShVK.search.1",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "tTn937B2KyZjs-81qMvwI_mGupxcaIAKvjeTDcmdkcgM9-vMePYMms9L-yWcFxKhjp9b6V2HQEFA3nhv7bUo-HzhEdwD2sUb8yAjyP0uaSzpKLEZSnD6SiIxbuQJaNVu4wZmPi8oSyo_n7SaK-YbFViZ",
+    "showTopPosition": false,
+    "skills": [
+        "接受无数据开发经验"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "五险一金",
+        "交通补助",
+        "带薪年假"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "um7XbZ9sUgcnX-11z4rb3PMk07Z4idJmp3oSNS1nESYxaCf8vI45wzn0IdqwybsTo3H0KhpaeVFt9pyW1ovrLI3PgUW01y96dN5h5lPOgwJ-atO9bgM~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240715/607f1f3d68754fd0ab9415d4d20bb70c86791203e3f18b7824687cc6acf914c334120f1e901cbb73_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "df3775cbf84822cf1XV939-9Els~",
+    "bossName": "汤女士",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "31e1c50e370b8e581HN609-1E1RX",
+    "expectId": 0,
+    "jobName": "直播星探经纪人",
+    "lid": "5EslFCm1uen.search.175",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "直播主播",
+        "娱乐主播"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "岳麓区",
+    "businessDistrict": "麓山路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 175,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.937737,
+        "latitude": 28.15162
+    },
+    "encryptBrandId": "b58e2b600f90cdc81XVy29S9Elc~",
+    "brandName": "湖南牧宸文化传媒",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220927/7b5b554d84f9729c82803a5b529f03fe5b0c2d0234d49446a76380402b5958a9544237b7f0cbdfe1.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "文化艺术/娱乐",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "生日福利",
+        "零食下午茶",
+        "全勤奖",
+        "节假日加班费",
+        "五险一金"
+    ],
+    "industry": 100104,
+    "contact": false,
+    "showTopPosition": false
+}

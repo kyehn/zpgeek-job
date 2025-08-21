@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "通州区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "任女士",
+    "bossOnline": false,
+    "bossTitle": "政务云部门经理",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190620/d9e01d3b979f579248b4dda6c20a4d86b081d270eb84b0c8af0ef90030f20097.jpg",
+    "brandName": "首信云",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "潞城",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f1e584f0277f9ae50nR93d--FlJU",
+    "encryptBrandId": "93cf54bde2cc69b503x73di5Ew~~",
+    "encryptJobId": "6c556063bfb338cb1nV439q6GFJX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.903547,
+        "longitude": 116.726622
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 238,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维项目经理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2SN31MH8Luc.search.238",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "bDtzDdGbMfuUd-s1s1fi79fyQsRvtFb6Yed4CO9pB4t1hgaHnxGs6KR-JbEnW24zAiMAW0xdvnSRB2A1Go9sLNGZxDpp65WJWkhdneHBaOc-cH2GZJHIL_vM2J89QFwceGYUmXtm0GJqUA~~",
+    "showTopPosition": false,
+    "skills": [
+        "音视频编解码",
+        "流媒体技术"
+    ],
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检"
+    ]
+}

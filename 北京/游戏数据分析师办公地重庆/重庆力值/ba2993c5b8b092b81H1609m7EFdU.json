@@ -1,0 +1,63 @@
+{
+    "securityId": "VUR8PguLZQuSE-51zqDW0clzXYIbapOUik9m6OjQEdgUrwoLQKc1k4d7tlfItmM_4S9XHM0eLVHk4j6P9Epn6qtATp-4drkJYG6mAdorFM_b8wlzGPXgRtp6y8tvSG0T2EouB5Vc-J6rZvc~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231206/607f1f3d68754fd0793ac0a03c1dff64db1350bb6eebc35d981830b89f9bda85e778755e015c4071_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "418f5eb4237643a30nd43Ni_EFNT",
+    "bossName": "黄女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ba2993c5b8b092b81H1609m7EFdU",
+    "expectId": 1030426395,
+    "jobName": "游戏数据分析师【办公地重庆】",
+    "lid": "1bRleZuTgnQ.search.246",
+    "salaryDesc": "5-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "文娱/游戏行业数据相关经验",
+        "游戏",
+        "SQL",
+        "第三方数据平台"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "朝外",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 246,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.455083,
+        "latitude": 39.915008
+    },
+    "encryptBrandId": "f821f51b1d308fcc1HN-2t61EVY~",
+    "brandName": "重庆力值",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240920/7bf6f160950405e97171b9b28ba00e9aa01ebff3fe42ef8d07e410715e308a10b2801adf83ef5698.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "广告营销",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "零食下午茶",
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100004,
+    "contact": false,
+    "showTopPosition": false
+}

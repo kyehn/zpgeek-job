@@ -1,0 +1,61 @@
+{
+    "securityId": "JOITLN0djZFjf-n1WX44BEVCaMD3yEPwI8Ko3M2pfD9Fa_ODtM7C-O6Iiu8amHOlouILI34rdZSd73mz-VZIV4ogejfZZ7hNvp8wMpOpOZuCYmLWQeGu_e4nG6BmiHbtWn5UBsSjG4QoUQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_11.png",
+    "bossCert": 3,
+    "encryptBossId": "e7d883d3ecaa9d410nF-3t25FFpZ",
+    "bossName": "董女士",
+    "bossTitle": "行政",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e5bfb1aa623c2b0b1Hxz2N29GVVR",
+    "expectId": 1030426395,
+    "jobName": "病理技术员",
+    "lid": "1af4JIbyY56.search.288",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "病理技术员"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "江夏区",
+    "businessDistrict": "光谷东",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 288,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.528805,
+        "latitude": 30.484004
+    },
+    "encryptBrandId": "e56c24e3bfa2dca30HJ939S_GA~~",
+    "brandName": "明理医疗",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230110/7bf6f160950405e9f45813d398bc4d37f18e3834a87f7a5370eb09c3ffb7f870d6fb774685552d56.jpg",
+    "brandStageName": "B轮",
+    "brandIndustry": "医疗器械",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "员工旅游",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100403,
+    "contact": false,
+    "showTopPosition": false
+}

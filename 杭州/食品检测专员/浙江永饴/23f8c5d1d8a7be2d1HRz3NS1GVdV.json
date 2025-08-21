@@ -1,0 +1,62 @@
+{
+  "anonymous": 0,
+  "areaDistrict": "余杭区",
+  "atsDirectPost": false,
+  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230912/607f1f3d68754fd077056007d47e9086fe358f55fbd3e82dd3c0670f26efd6a1a8c355ea7d759d3a_s.jpg.webp",
+  "bossCert": 3,
+  "bossName": "李女士",
+  "bossOnline": false,
+  "bossTitle": "化验室负责人",
+  "brandIndustry": "食品/饮料/烟酒",
+  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230913/7b5b554d84f9729c3648faf364c05e96cf09943659e09914d3c0670f26efd6a1a8c355ea7d759d3a.jpg.webp",
+  "brandName": "浙江永饴",
+  "brandScaleName": "20-99人",
+  "brandStageName": "",
+  "businessDistrict": "瓶窑",
+  "city": 101210100,
+  "cityName": "杭州",
+  "contact": false,
+  "daysPerWeekDesc": "",
+  "encryptBossId": "2a1b842e283a1ffd0nBz39--EVFY",
+  "encryptBrandId": "c16c36e8677df4381HR439u5E1M~",
+  "encryptJobId": "23f8c5d1d8a7be2d1HRz3NS1GVdV",
+  "expectId": 0,
+  "goldHunter": 0,
+  "gps": {
+    "longitude": 119.995279,
+    "latitude": 30.371509
+  },
+  "iconFlagList": [],
+  "iconWord": "",
+  "industry": 101001,
+  "isShield": 0,
+  "itemId": 161,
+  "jobDegree": "大专",
+  "jobExperience": "1-3年",
+  "jobLabels": [
+    "1-3年",
+    "大专"
+  ],
+  "jobName": "食品检测专员",
+  "jobType": 0,
+  "jobValidStatus": 1,
+  "leastMonthDesc": "",
+  "lid": "6E86Cb9RPRf.search.161",
+  "optimal": 0,
+  "outland": 0,
+  "proxyJob": 0,
+  "proxyType": 0,
+  "salaryDesc": "4-5K",
+  "securityId": "fQHlegnXjScmG-O1Qw8LTjfekokMCXueiH9pTCeyRDTs5mOOwOMsXYU3riPsf5PGAsee6CS51AhKh-vgMW7tU8ZnrGEdWHMkNJ2UIFGNYF2pO2DMr2Vt",
+  "showTopPosition": false,
+  "skills": [
+    "食品相关专业",
+    "食品行业"
+  ],
+  "welfareList": [
+    "包吃",
+    "加班补助",
+    "年终奖",
+    "五险一金"
+  ]
+}

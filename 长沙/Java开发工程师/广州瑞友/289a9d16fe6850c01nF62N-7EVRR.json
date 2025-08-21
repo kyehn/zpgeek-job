@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "岳麓区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "陈先生",
+    "bossOnline": false,
+    "bossTitle": "总监",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190819/e662449615de7307d0e036da165fe63bad13eac57fefdbf0f0ab552cb1b904f4_s.jpg",
+    "brandName": "广州瑞友",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "观沙岭",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "cde4703850cb5c9e0HZ70tu9FVQ~",
+    "encryptBrandId": "70b6b2b7b6904d801Xd72tu9EQ~~",
+    "encryptJobId": "289a9d16fe6850c01nF62N-7EVRR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.23568,
+        "longitude": 112.9628
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 68,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "24gHK6Vb1Qz.search.68",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "XC6uKdictYO33-o1IpaMTv_W7sEF5C8Nd4KreauVmXZgcq4BHh_LuVIzIy1TXwcx29ZNS7TsIud0hr9mYwQEW21kcfPZOR-RjG6zFoobvO95YxCgMDgSA2ircuN12XaKjkCHYdh8EH-a",
+    "showTopPosition": false,
+    "skills": [
+        "MySQL",
+        "软件工程师",
+        "企业级应用开发"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

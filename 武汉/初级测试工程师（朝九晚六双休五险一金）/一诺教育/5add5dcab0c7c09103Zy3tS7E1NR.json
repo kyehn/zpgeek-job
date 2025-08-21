@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230411/607f1f3d68754fd0a26638e162f31ee83f47635cbba918fbfe61dee87fe2e0f37c3ff603c36a81f9_s.jpg",
+    "bossCert": 3,
+    "bossName": "姜女士",
+    "bossOnline": false,
+    "bossTitle": "人事招聘专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "一诺教育",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "光谷东",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a25aee04d285552a0nd829i-EVJW",
+    "encryptBrandId": "dd1b84885172af1f1nd83ty6FlA~",
+    "encryptJobId": "5add5dcab0c7c09103Zy3tS7E1NR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.491198,
+        "longitude": 114.51341
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 55,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "初级测试工程师（朝九晚六双休五险一金）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3PJiVVBoq0f.search.55",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "OBlm9Q7wDBMkH-91aS9jmtF6tyZfjWac6h43mbzeNTUyssl8Uu2QVyCjpVwqAlVI-5_fCLq4SAK_7vEo7NBZ0JfyKcoS-rNwT1WJPI-Wy5VebMu4t-xt105iOyXcof3F0gfbonwoVwDWJQM~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

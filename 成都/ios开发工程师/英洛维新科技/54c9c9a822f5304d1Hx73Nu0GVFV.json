@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "双流区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240606/607f1f3d68754fd0aa84864f0b5d0d7a4587d8e34abf501cc005f7acb2f8a3f49c3f60073bdf60ee_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "胡钰",
+    "bossOnline": false,
+    "bossTitle": "项目经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240328/7b5b554d84f9729cf66393dec2c97f261eac8e433d596641ed56671f0bf360d07f8d6d3525f1cef1.jpg.webp",
+    "brandName": "英洛维新科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "华阳",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "085886c437048aae1Hx80ti4FFI~",
+    "encryptBrandId": "0cf1a0760305d36e3nZ73N6-Fg~~",
+    "encryptJobId": "54c9c9a822f5304d1Hx73Nu0GVFV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.487486,
+        "longitude": 104.016349
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 146,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "ios开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rhrsPjPjj4.search.146",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "0sPsoL2NYXAEg-x1bsAgltdpbcs703aFjdoEO7Lw6ttV-TQJMD2VIzh43JJqwm3W5kmwOoXSMVndMCfqlBrw2ki58DbNcG7t5EkX5vMGazadnul1NuLkVDOPWbBFqKuKBwKvK-HSJOx1",
+    "showTopPosition": false,
+    "skills": [
+        "计算机/软件工程相关专业"
+    ],
+    "welfareList": [
+        "餐补",
+        "节日福利",
+        "年终奖",
+        "员工旅游"
+    ]
+}

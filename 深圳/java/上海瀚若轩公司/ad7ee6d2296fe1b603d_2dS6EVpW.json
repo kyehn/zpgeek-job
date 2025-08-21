@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250318/607f1f3d68754fd00f472b54ff76c8ef4f8443e6a82baba9552a1631401b4d1bc595c8940eb67db6_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "米女士",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "上海瀚若轩公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "40b128f22f73cb180nZ_3Nq9E1NU",
+    "encryptBrandId": "878a2f8f0554a10e1XN92di9EVM~",
+    "encryptJobId": "ad7ee6d2296fe1b603d_2dS6EVpW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.703343,
+        "longitude": 114.35879
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 90,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "java",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2wBasAHG0l5.search.90",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "fgIg1RlKU0Ijs-x1qNvcCO2ghOCBnhvEGIqj7lI_6Z5riaUwll4DrONK8jm9BSjmpzgaTQTkyvqfCNrpLB88-NgC1dE9RuaCwG83seUqraaL4vYezDV0KuhIa3q81M5htltxoDhJaWX7-64~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "SpringCloud",
+        "MySQL"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

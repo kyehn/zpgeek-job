@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "石景山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+    "bossCert": 3,
+    "bossName": "张晓桥",
+    "bossOnline": false,
+    "bossTitle": "技术",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "普汇润泽",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "苹果园",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e43dca95861207dd0nd93tu8E1dU",
+    "encryptBrandId": "15e72a454b5a57190HZ62d--GA~~",
+    "encryptJobId": "94fec8bcfb8f48f71nJ53dW_EFtR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.93949,
+        "longitude": 116.193661
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 82,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Python",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7pSDj94oHwE.search.82",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-7K",
+    "securityId": "6E97lFbiExF1u-e1D_kv70rCo5Y5A-oBNxYmSUTGI_SdzXLP2fpzTLYhcuOK6PMhYYyMLwQ4tg0by8I5UaRW0H0--1Jr9HSd2ZwV3DdkwN5zFFPAwXF5f2SZk9lTVde0MzDd2ApOvYmfUQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

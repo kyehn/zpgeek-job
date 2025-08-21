@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "房山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210813/3594307ab28591eb8c117de85f22af59699eab88d30e64bb16d8c66d7c8f8495.jpg",
+    "brandName": "技捷信通",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "良乡",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "56ee9f9610588feb03F63dS4GQ~~",
+    "encryptBrandId": "6c0714fbbf14f6051nx83dm8F1E~",
+    "encryptJobId": "a815f86bb39db0eb03d709i_ElNQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.659681,
+        "longitude": 116.108936
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 160,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "数据中心--暖通电气运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5WLDzOSEATc.search.160",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "-C-loEjZyqIBI-911mXCO3CKNYJIGFTFi8xsO0ENfMprZxp4urvFwMxnzQQiJrORGV-mHGvewGcFPaVIAppMb_0RKdyiO1PjsJQcy4uBWZsGQjr4M30ZRk2HLLD2jtexdFDBIQw29nGj",
+    "showTopPosition": false,
+    "skills": [
+        "IDC机房运维",
+        "数据中心运维",
+        "暖通电气设备运维"
+    ],
+    "welfareList": [
+        "意外险",
+        "五险一金"
+    ]
+}

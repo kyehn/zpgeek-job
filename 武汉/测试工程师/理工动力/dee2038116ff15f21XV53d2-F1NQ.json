@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "曾女士",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "新能源",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "理工动力",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "光谷",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "091379f46abd9f850XB60tS-F1c~",
+    "encryptBrandId": "8fac3b37fa0869841XR-09W4Fw~~",
+    "encryptJobId": "dee2038116ff15f21XV53d2-F1NQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.445762,
+        "longitude": 114.396521
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101206,
+    "isShield": 0,
+    "itemId": 3,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2vzCXhVEg9h.search.3",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K·13薪",
+    "securityId": "4WJr23UOMqBcN-i1cSOxDvFbyqApMR2m0JfLfl8L1mdRJ9Wz6_JbfRgiXg_95ggzahyluTM6xFkWM6qo14fkbmCdUEAaqdEvmse57LXyF6HM-sBqCg9WNnHzpef6vB-rO1kcVH3-drSj",
+    "showTopPosition": false,
+    "skills": [
+        "软件测试",
+        "硬件测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

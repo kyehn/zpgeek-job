@@ -1,0 +1,60 @@
+{
+    "securityId": "XFQK0hyPzFvre-s1jveVCVcQYkCpVPO0LCDJgilQilznq5RmRhAyo7VHEvczcysemnSx815nzGxShEEtRabwzjmn8JDGCd3Qi5BHRe-ktXUY-pM8pkO9XJ9CTez7YZMvJmY95PPicHyalA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210520/13f2b727acf360769a8013f77e4636b5752cfd647ff7e28a3b656dfa5b0e2dde_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "c693127aee3db51e1HJ8392_FFM~",
+    "bossName": "李强",
+    "bossTitle": "主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6b4be46bbf5f1f0d1X192Ny-GFJY",
+    "expectId": 1014042683,
+    "jobName": "python",
+    "lid": "2WK23XVPqKc.search.15",
+    "salaryDesc": "2-7K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "松原",
+    "areaDistrict": "宁江区",
+    "businessDistrict": "奥林匹克文化公园",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 15,
+    "city": 101060700,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 124.842259,
+        "latitude": 45.12181
+    },
+    "encryptBrandId": "9e6cda9f5b9a2c6b1nB_3tW4EFY~",
+    "brandName": "乐博机器人编程",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210310/e7e7bd677e4298b745b90c1f74a49be4752cfd647ff7e28a3b656dfa5b0e2dde.jpg",
+    "brandStageName": "",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "全勤奖",
+        "年终奖",
+        "节日福利"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

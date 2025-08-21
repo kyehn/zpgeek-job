@@ -1,0 +1,63 @@
+{
+    "securityId": "KlxtYTni1NrBk-f19ebVT_GXS9aNxjNnpnL97UxxMqp-ek-5DMEtihbTc03bS3Uc2ei_LuWSX-e0S5x574DkoO7AY2d27rA44hd1b40Ae5DseHKzNJAnC-K7NIGphLPnS4IaISbcq4evh6M~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "encryptBossId": "db892b38264e36520XVz09q4GVdZ",
+    "bossName": "陈莉",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "005eca140a546c931HF72tW4FlVR",
+    "expectId": 1014042683,
+    "jobName": "数据分析",
+    "lid": "2wF0e3JkAKq.search.266",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "电商运营",
+        "活动运营",
+        "数据运营"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "徐州",
+    "areaDistrict": "云龙区",
+    "businessDistrict": "新城区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 266,
+    "city": 101190800,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 117.285338,
+        "latitude": 34.208279
+    },
+    "encryptBrandId": "14264fe1004b38391nV93Nu7EVc~",
+    "brandName": "江苏蕲臻堂",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201210/5bed45eb956f06dc82ce430e1faa2ddad9d8aaf8b4220b0ec9900ff00e4056ad_s.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "批发/零售",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "员工旅游",
+        "节日福利",
+        "零食下午茶",
+        "五险"
+    ],
+    "industry": 100503,
+    "contact": false,
+    "showTopPosition": false
+}

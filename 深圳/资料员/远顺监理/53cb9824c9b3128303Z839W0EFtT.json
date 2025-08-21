@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙岗区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+    "bossCert": 3,
+    "bossName": "曹庆",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "土木工程",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200401/d5ce3e2b4d44316bab1cf396ac78ae88094048e1011c3a6e396511fcecf7c85f_s.jpg",
+    "brandName": "远顺监理",
+    "brandScaleName": "500-999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "横岗",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e0de555f12dd85401nZ52ty-FltT",
+    "encryptBrandId": "7170333adc232a590HJy39y6Fg~~",
+    "encryptJobId": "53cb9824c9b3128303Z839W0EFtT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.699673,
+        "longitude": 114.211606
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100709,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "资料员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8mTSOhgDehs.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "mfbXR9jDhyC3d-S1U-1xXE4iZjCznGwymywtcPsRNupHdy99tePWYteuU8KyTR6McyfulZGl-_JGRWfdN5NzhY-uIMQ0txTMRwSEwGaheoa0yeR7ovB5cz25P05ZTpUYwEWzBQu3XA2OkV0_EpxdnFzHsbHnMT87cQ9Y8bxUzsSUDT1zDw~~",
+    "showTopPosition": false,
+    "skills": [
+        "工程资料员"
+    ],
+    "welfareList": [
+        "包吃",
+        "带薪年假",
+        "五险一金",
+        "餐补"
+    ]
+}

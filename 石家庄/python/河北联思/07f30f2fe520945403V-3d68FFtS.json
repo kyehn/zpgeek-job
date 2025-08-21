@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "桥西区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221009/607f1f3d68754fd0637d0074cc1387db4dab27041ec336d817c7db3a30426e64764b0c311fb628d9_s.jpg",
+    "bossCert": 3,
+    "bossName": "刘女士",
+    "bossOnline": true,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "河北联思",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "新石",
+    "city": 101090100,
+    "cityName": "石家庄",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a9d729763aa4a00503B-09S4FVM~",
+    "encryptBrandId": "13ce0352d1766d0f1nRy09m8EVM~",
+    "encryptJobId": "07f30f2fe520945403V-3d68FFtS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 38.025307,
+        "longitude": 114.442204
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 17,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "python",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8Fi2Iu9Amyy.search.17",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "HKGD1NRXVR4Oq-n1Sy5bBIDqK4gJOI3Hjr8lOpATGYEdOSMQRSH-veAtZA0A5q4RI1nIDjEgKledSVMFAEomDtRX4OgoDMetZq2_vUg2K8zpxRnuDI6HN_SEBoJHnco-uF6XJRTlZ5Jo31ekZGfEvhIsgv4ZweRMCMgbzGEa2kt8W4Qf9w~~",
+    "showTopPosition": false,
+    "skills": [
+        "Scrapy",
+        "MySQL",
+        "Python"
+    ],
+    "welfareList": [
+        "节日福利",
+        "五险一金"
+    ]
+}

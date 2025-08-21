@@ -1,0 +1,59 @@
+{
+    "securityId": "YlUhBcQJPMrck-11fOLKKxbNPYkE2WrgBYZ4fuGEpn7M2SUNVZzAjUOj-WjHD7mHeuqBY9U6HqYlR_lVDj1YK7RiAkud02OYT4DOyGHgKrLAQWUc4X0k",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230130/607f1f3d68754fd0dd0bfb0f7e5d9b113c7359f866a96ca940c310b7f66b3f2f147160babc2c2164_s.png",
+    "bossCert": 3,
+    "encryptBossId": "d8183167e2165fd80nN_3dW4FFVQ",
+    "bossName": "何女士",
+    "bossTitle": "商务",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6ed4c526c863f0341XN72NS6EVBZ",
+    "expectId": 0,
+    "jobName": "经纪人",
+    "lid": "3q3fjKnkTyM.search.215",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "内容红人（非直播方向）"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "武昌区",
+    "businessDistrict": "汉街",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 215,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.335882,
+        "latitude": 30.558409
+    },
+    "encryptBrandId": "7b3b7185b19d2efa1nxy0tq_GVY~",
+    "brandName": "热极",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210907/7bf6f160950405e96723b01b9adcec7fd1a9d7a0fb4afe33c41a3921cd0da907bae50d15b0feba37.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "文化艺术/娱乐",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "全勤奖"
+    ],
+    "industry": 100104,
+    "contact": false,
+    "showTopPosition": false
+}

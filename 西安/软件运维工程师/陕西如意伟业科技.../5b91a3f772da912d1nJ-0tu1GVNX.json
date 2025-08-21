@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "雁塔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210628/8d48f85202b2feba59c7a343c2e8be69920057d146ef823cd39d6f3dd4bd25d4_s.png",
+    "bossCert": 3,
+    "bossName": "张红涛",
+    "bossOnline": false,
+    "bossTitle": "运维工程师",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190427/a67eb36d89ac695e3bcc8881312f232069b40a4c7ee2c15274b579cdc18149ad.jpg",
+    "brandName": "陕西如意伟业科技...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "高新软件园",
+    "city": 101110100,
+    "cityName": "西安",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "30f0a04c57c24bdc0nd92t60EVRR",
+    "encryptBrandId": "eb969767fec2b8111Hd80ty5GA~~",
+    "encryptJobId": "5b91a3f772da912d1nJ-0tu1GVNX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.222117,
+        "longitude": 108.885231
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 99,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "软件运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "v5ccmgS7q6.search.99",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "kFKpoSjaxGsR9-h1-5jd9dJV-e5DDaoWFAB9kZF6RCS8jSeEHl7AMO6783u6vJtwHrGSQsu1rjln3NnKMRnno4GnIlEHex_8B66gI6OU469LWlZ-Bq2gxT_qpEPvtXFX1A0lLO8Z98ioKw~~",
+    "showTopPosition": false,
+    "skills": [
+        "软件运维"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "补充医疗保险",
+        "五险一金",
+        "定期体检"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "JUxrTpYFWvekB-K1vnTg_7yV5RoQY9k04JAPevL0_Y-GZMjECA6cAFInnkxGNKWN6TD13qq-LNGrG4wYmZuBEEkaaQbF7tGvWMqoRZG_BiCAV81KoGkZjEG7tjzNTkzoGjUlI1uVh6KK",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230509/607f1f3d68754fd05289a0f658382ea2da4a3ab1d85d878706038ee526a50745bda3fed662be5ee1_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "ae8e3034676546571nV60tW7FlJZ",
+    "bossName": "郑女士",
+    "bossTitle": "hr",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8c15fd3c4f2b5f021H1709u7EVtQ",
+    "expectId": 1014042683,
+    "jobName": "测试工程师（日语读写能力）",
+    "lid": "3o1bjUEvzUa.search.227",
+    "salaryDesc": "8-10K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "日语读写能力",
+        "对日保险/云平台项目"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "杨浦区",
+    "businessDistrict": "五角场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 227,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.513741,
+        "latitude": 31.30633
+    },
+    "encryptBrandId": "879cece58f6a7e7d1XR929W0",
+    "brandName": "柯莱特集团",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金",
+        "交通补助",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

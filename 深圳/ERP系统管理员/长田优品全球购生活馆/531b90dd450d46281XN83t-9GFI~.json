@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "福田区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240408/607f1f3d68754fd0c53337d6cb6a8272ea8ce7f41cc6874d7f17356bef03eea691eca37ea63e454f_s.png.webp",
+    "bossCert": 3,
+    "bossName": "杜怀秀",
+    "bossOnline": false,
+    "bossTitle": "人力资源部",
+    "brandIndustry": "生活服务(O2O)",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180601/b4c7e5fb430163bbcfd8927c3d01a268cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "长田优品全球购生活馆",
+    "brandScaleName": "100-499人",
+    "brandStageName": "A轮",
+    "businessDistrict": "下沙",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2ae93e4367b3701c1HB629u7FVE~",
+    "encryptBrandId": "282f30bdc14d56951nB72tu8EA~~",
+    "encryptJobId": "531b90dd450d46281XN83t-9GFI~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.530019,
+        "longitude": 114.024459
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100007,
+    "isShield": 0,
+    "itemId": 20,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "ERP系统管理员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cZSzLaKn32.search.20",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "870w9cmV1hSsr-k12Ci_U_18ZBI-l5Ofy_rV5KdctLMA7HNkIU_2wtrK8SN0bAIA_3teulc7T0CBD6tvBFDPj2yAz-UAivZyDpJ6ZfSngfkqO9o90Cv5XaRZIGQrIs4Yisu44A6ZzFg~",
+    "showTopPosition": false,
+    "skills": [
+        "运维",
+        "系统运维",
+        "系统管理员"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

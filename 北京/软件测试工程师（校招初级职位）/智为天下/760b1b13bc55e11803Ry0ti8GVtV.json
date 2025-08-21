@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241119/607f1f3d68754fd079549493a08ec6446419b4bcfcfb76726987ab413d72734aa2cfad0ac47ec7b3_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "邹小祥",
+    "bossOnline": false,
+    "bossTitle": "CEO",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "智为天下",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "亚运村",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5df60e60897b86540nB629i-FltY",
+    "encryptBrandId": "aef6b7949e5eccd91nd82Nu1FlY~",
+    "encryptJobId": "760b1b13bc55e11803Ry0ti8GVtV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.002137,
+        "longitude": 116.406352
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 51,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "软件测试工程师（校招/初级职位）",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3PmdJzEEcGX.search.51",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K·13薪",
+    "securityId": "UnPhNMFKoxu5i-i1LFncx52GrKssVcQmWcGv9fDFgHdlb0UjXZKp4DOXbK1--_fE4YHrItxFAc5GnSYHnzzBdJOmB9wf_9gy5u-y_Jlhmz0Dr9J7jvczYPA3QjYGsS7PmIdk0HjCCtgSGQg~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "计算机相关专业",
+        "测试工作经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

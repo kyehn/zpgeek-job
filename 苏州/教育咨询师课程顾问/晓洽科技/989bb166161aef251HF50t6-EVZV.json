@@ -1,0 +1,62 @@
+{
+    "securityId": "1NqpkxQtUkVCm-C1eQ-Li_H6t8m8R5MRu-p3oaBXFBKKmshz_zNfLkIvGRUMYNsxx3pf1I2WRlLP-JDZj0vO9h9ktHOyglwq_OPiamUtYIwsN-rhGfK5",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "d1ac3c6c390fb9dd0nx939-1FVJV",
+    "bossName": "季女士",
+    "bossTitle": "招聘经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "989bb166161aef251HF50t6-EVZV",
+    "expectId": 0,
+    "jobName": "教育咨询师/课程顾问",
+    "lid": "2Yw3tuSJvHF.search.107",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "线下教育"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 107,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.558958,
+        "latitude": 31.292524
+    },
+    "encryptBrandId": "d283707fac54f4a41HR_3NW8FVY~",
+    "brandName": "晓洽科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240412/7bf6f160950405e94fed47a5354997491e78bd9523b2122c3da975d61eaebb3e59d4fb1c5f903449.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "定期体检",
+        "底薪加提成",
+        "节日福利",
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

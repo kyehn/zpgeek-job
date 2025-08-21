@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "余杭区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "章女士",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250407/7bf6f160950405e9c81cdd207078120edf3f8f456a7c4410c305fa2946f34a102565d86c09012014.png.webp",
+    "brandName": "紧数科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "未来科技城",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f201126b3a6b475e0nx_29q0GVo~",
+    "encryptBrandId": "07e652563f2ac1f603R83Nu0EFI~",
+    "encryptJobId": "2ed92a949eb14dd503d72d-0GFFQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.275777,
+        "longitude": 120.027769
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 268,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "数据建模工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4WxeweCqtM7.search.268",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "_6j31CalvQDx--61aplsNniaj82X-2lYa4t2NoS4qn7NGVIIsqNlPcoJe2UkYq5jsKYyM-VXA3bziuElWX_L_EbrwsNE72RgECCQxHWqfjgtxXbqMFQUtl-_9tcVNJ-OZ0-ZMftzfNMF-g~~",
+    "showTopPosition": false,
+    "skills": [
+        "效果图",
+        "AutoCAD",
+        "SolidWorks",
+        "有CAD绘图经验/技能"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

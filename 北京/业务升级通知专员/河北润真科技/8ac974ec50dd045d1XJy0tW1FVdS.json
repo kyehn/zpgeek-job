@@ -1,0 +1,59 @@
+{
+    "securityId": "izcdmqir_QBiP-H1EnOYD3ravCClXvEowwQRZ558VCxgdyJ_ev6PeBYqx493LiipA4exyYnicgMFagKzgbDMdYO389vqUpElzZyh_emXBLTKSYphXUXjtZTZKPlF6Fnf7K3-RCk71QLX8Ps~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "2260dfc464337b4f0nN42d6-FVJR",
+    "bossName": "魏腾飞",
+    "bossTitle": "市场经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8ac974ec50dd045d1XJy0tW1FVdS",
+    "expectId": 1014042683,
+    "jobName": "业务升级通知专员",
+    "lid": "1ef2EeYp1MQ.search.284",
+    "salaryDesc": "3-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "光传输",
+        "光通信"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "东城区",
+    "businessDistrict": "工体",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 284,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.441838,
+        "latitude": 39.936607
+    },
+    "encryptBrandId": "46432bf498be23211XB53ty1EVY~",
+    "brandName": "河北润真科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221227/7bf6f160950405e90fe3b651b0f262c18e20182611389d4b175749394d0ef7e6b50b091d06dd1807.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100024,
+    "contact": false,
+    "showTopPosition": false
+}

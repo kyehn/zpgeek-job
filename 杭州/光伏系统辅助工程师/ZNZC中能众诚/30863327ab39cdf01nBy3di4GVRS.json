@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "余杭区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "陈屹",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "新能源",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191117/42072987202bae8548593fd78fbb00227c2eba4429064475cfbb3e186f3b58d9.jpg",
+    "brandName": "ZNZC中能众诚",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "五常",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1a65a27f90750eb80nZy2dy4EFNS",
+    "encryptBrandId": "26b007b66d479dac0XF50tm-Fg~~",
+    "encryptJobId": "30863327ab39cdf01nBy3di4GVRS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.240512,
+        "longitude": 120.028547
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101206,
+    "isShield": 0,
+    "itemId": 167,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "光伏系统辅助工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2C4F4lOZ42u.search.167",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "bkhyTTzy10uLy-s1U9Z-d4b844inz6-3ukNXR3jgo3_kmsVajdbp3tTI7ZVG5rsw7MZr5ps34Cp84wljZs8_f1h359wHBj8baCt5gewZHyOBuIbCxTZyLrr57rz4ESJIkjmKjZ6htU6SnA~~",
+    "showTopPosition": false,
+    "skills": [
+        "光伏系统"
+    ],
+    "welfareList": [
+        "餐补",
+        "带薪年假",
+        "五险一金"
+    ]
+}

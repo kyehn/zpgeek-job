@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江夏区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241128/607f1f3d68754fd0069e7eb74f3f649121fb0a08cc3e0e4eb93bf3503af131902b58f92cf22e9f37_s.png.webp",
+    "bossCert": 3,
+    "bossName": "李玉萌",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170217/db49d14693a28ac5754f63fa6a4a0bc535b3e231435430e56fa34cd09577ecc7.jpg",
+    "brandName": "佰钧成技术有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "光谷东",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "616066328c4498e80XV93t6-E1VZ",
+    "encryptBrandId": "b65c0b5de50e5f2503J429S6",
+    "encryptJobId": "add6ffbba46ea5dc03d729W6F1BZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.492563,
+        "longitude": 114.538741
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 78,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "H66009岗软件测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "raGTTxD9k2.search.78",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "1SFboVGezQm4h-H1ERJgbSWAp5osFRhRvdlQgM4wuFB9kz-uPAf43hTOYYWpzyOBV_tVObXXRrV5LLDdWrRscFlYft_jT-4CG-PNUoJ09hVo6tJn3dapS7mqPERt9etvyKJmj0obZcco",
+    "showTopPosition": false,
+    "skills": [
+        "测试工作经验",
+        "掌握软件测试理论和流程"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "节日福利"
+    ]
+}

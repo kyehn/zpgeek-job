@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武昌区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "杨磊",
+    "bossOnline": false,
+    "bossTitle": "主管",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201207/d22ef9c97c48f526df401c7e6714744c2b28a278112bd19b59cddaec6145b4d2_s.jpg",
+    "brandName": "铁维智行",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "司门口",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b2373fc2e6ae499233F82dq0Elo~",
+    "encryptBrandId": "488747afd140a6540Xx93Nq-FA~~",
+    "encryptJobId": "34db8f64675ddc5f0XN53NW9EVA~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.548053,
+        "longitude": 114.318745
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 44,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "智慧停车场运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d4j4GBywtV.search.44",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "utoaQqZVRlPks-01uGM9eqSLC357e05X7gM6JggMAK7hiM8r0PCZDPZV51fS5nV1CRarg1okXTzFYHc_bUkbKa6SHytreu9mmOC19U6ZL3ESY0XHIWikwtujYclE75oeXcGfZqEgoLM~",
+    "showTopPosition": false,
+    "skills": [
+        "运维工程师"
+    ],
+    "welfareList": [
+        "底薪加提成",
+        "五险一金",
+        "通讯补贴",
+        "餐补"
+    ]
+}

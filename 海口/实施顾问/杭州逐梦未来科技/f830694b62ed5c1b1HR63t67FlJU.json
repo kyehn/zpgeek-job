@@ -1,0 +1,61 @@
+{
+    "securityId": "g30LqAPN0ZyCG-513ssQEgwads9tFmw3dAXzki3nPL4RKTAir_WFM08tAq_spW3hNHHS5G5JWdJn9wTTT0diWOUz1D_-2hWRIUbgeUfe80iAva92uNQ~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230426/607f1f3d68754fd09e08b6d71da1772e9950f0839073a44feefbeb13503d00f2b334eb30f3627307_s.png",
+    "bossCert": 3,
+    "encryptBossId": "da335cbbd19c68521Xx82ty0E1A~",
+    "bossName": "周先生",
+    "bossTitle": "运营总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f830694b62ed5c1b1HR63t67FlJU",
+    "expectId": 0,
+    "jobName": "实施顾问",
+    "lid": "2AJrXCPXELR.search.105",
+    "salaryDesc": "6-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "ERP",
+        "计算机相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "海口",
+    "areaDistrict": "美兰区",
+    "businessDistrict": "博爱",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 105,
+    "city": 101310100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 110.328588,
+        "latitude": 20.064238
+    },
+    "encryptBrandId": "593f54c5dbd7bdda1XJz2dy0FFQ~",
+    "brandName": "杭州逐梦未来科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

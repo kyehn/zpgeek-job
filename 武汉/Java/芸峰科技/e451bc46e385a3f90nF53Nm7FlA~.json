@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180601/4b07f6f99cdfbc8a1a4f9ca73c449c4befffe4a6a8fc2f0f828733222d480d06_s.jpg",
+    "bossCert": 3,
+    "bossName": "陈涛",
+    "bossOnline": false,
+    "bossTitle": "总经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190729/4959d9fa83397966797c0ce8ae6cc19eefffe4a6a8fc2f0f828733222d480d06.png",
+    "brandName": "芸峰科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "光谷",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "383c36c77a1994f91H183NW4FVo~",
+    "encryptBrandId": "77cbc9c278b506e41XR42Ni6EQ~~",
+    "encryptJobId": "e451bc46e385a3f90nF53Nm7FlA~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.503974,
+        "longitude": 114.424647
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 138,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Java",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "r5GBOAzFWE.search.138",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "GNB47fPKdY0r4-g1bqBZCqmRY9id33j7JOQGz54GDyE_Qt8pL7X_M4wTPlGMPj5xSIM0BordlUFMdaPZszD125twt4txD8sLHNT3LZhaKBBeE_qFFmmkArnZfdWSeIMhwLpJ-CXhaKQ~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "数据库",
+        "系统架构"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

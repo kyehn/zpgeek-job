@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230211/607f1f3d68754fd010330427d0c8d844985db023e7d924516cee794a007f4295beec678f24a0dd1d_s.png",
+    "bossCert": 3,
+    "bossName": "刘女士",
+    "bossOnline": false,
+    "bossTitle": "解决方案专家",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221028/7bf6f160950405e994fb46683d4148a26bb92eed7d93fc37500b414842239751bba02abff49932d9.jpg",
+    "brandName": "北京德风新征程",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "C轮",
+    "businessDistrict": "北七家",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b389a959424ca2010XZ93N-7EFA~",
+    "encryptBrandId": "8d4e04df563791370nF_2dm1GQ~~",
+    "encryptJobId": "247fce21cd06c7af03Vz2NS_EFZT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.10575,
+        "longitude": 116.475653
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 46,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维工程师(服务)",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8kmmKI8Ns8b.search.46",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-7K",
+    "securityId": "Danyg2dHsYn0o-C1TJFE1hsIBFHL-KvjWvJAmlG27YwwIVhp8xxGoulpD9o8wR5S4j8wbnRlnR_JINaOJjTq_Q3Ok1E9vPAWF7WsZUyqqXJp_DG5EUBNWAY60S49RD8OfsmfheNBYYAZ",
+    "showTopPosition": false,
+    "skills": [
+        "运维经验"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "铁东区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "bossName": "胡成伟",
+    "bossOnline": false,
+    "bossTitle": "高级软件开发工程师",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "辽宁瑞丰",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "山南",
+    "city": 101070300,
+    "cityName": "鞍山",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "bdcd1fee3ac7dd230nJ-2tW5EFtQ",
+    "encryptBrandId": "338f88896ca0081b1nJ42dm9Els~",
+    "encryptJobId": "a83e0fc6ba68b4891X1_3d20GVFR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 41.096997,
+        "longitude": 122.980885
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 49,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件开发运维岗",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9aSz5n7Vl0k.search.49",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "iGEc5E2BIIsKr-_1bXrien4gc0mmjfwYTVR4fhox6Ua9Kjibfs-ExJw72YneTl2FDCQikaeZ2t2x-_gBoqjAGcq1PmFzBADMqye7g5BlPMHLzpYlDo_QqfnoXaFAGobKkX4kw76wnqSp5Ag~",
+    "showTopPosition": false,
+    "skills": [
+        "全栈工程师",
+        "Java",
+        "计算机/软件工程相关经验"
+    ],
+    "welfareList": [
+        "五险"
+    ]
+}

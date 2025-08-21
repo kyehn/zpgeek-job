@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "碑林区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240821/607f1f3d68754fd04f9c33f75fddac9def5c5460b9091e1dc21a18b07779121e23aea5f9dfbcb2e6_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "杨女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170302/bf1385078e85aee692ba29fd06b26eb0c8e78e72e224be83e8fc0fe51604f283.jpg",
+    "brandName": "陕西金色科技有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "黄雁村",
+    "city": 101110100,
+    "cityName": "西安",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c53e6586579ececa0HN82924GVA~",
+    "encryptBrandId": "ca90693c8e3fc3bd03J63NS6",
+    "encryptJobId": "cad673d1a9caf48e0HVy2di7Elc~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.244076,
+        "longitude": 108.922841
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 87,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "v5SFEpgGTI.search.87",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K",
+    "securityId": "JYcubSCPf5zuF-F1lCaaiGPAaQigT7n1AfCs3omUGO86NDqIpGxGDp_ZUkRmE6EVfezfc83bVOJ1TAi6WreD2IPhuBvUC2yxGoIhGf3ExOKKv2NVppWEs-wNLNb_WQX9FobHRnbb1A~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "法定节假日",
+        "五险"
+    ]
+}

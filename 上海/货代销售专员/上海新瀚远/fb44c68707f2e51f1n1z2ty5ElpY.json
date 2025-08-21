@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "虹口区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_12.png",
+    "bossCert": 3,
+    "bossName": "金女士",
+    "bossOnline": true,
+    "bossTitle": "HR",
+    "brandIndustry": "进出口贸易",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210428/7c2623870a4f4b5cf7722e09ed56a5061db8c85e86a50fda09ead8fb76b5af98_s.jpg",
+    "brandName": "上海新瀚远",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "江湾",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8cc34b808b45f9a51nV83d-9FlFY",
+    "encryptBrandId": "22593b151decf7cf3nZ53tq_FQ~~",
+    "encryptJobId": "fb44c68707f2e51f1n1z2ty5ElpY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.253916,
+        "longitude": 121.499068
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100504,
+    "isShield": 0,
+    "itemId": 59,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "货代销售专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7QaS5P2Xvkc.search.59",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "gQ45kZLijZ7rp-c1A9nCn6Fo8qCmGkKahwgXVVGJHAjwy0H2TJ39i_WMPJLeMXLRmnGbo03iqPbn905LSVrn8bHOXHo-sqnqFUnMC-qd0b25T0UCAs02V0RSg3yxKm0eoJlMS0hJAtlZhkcE5nqEYNCa_FMPUDkBECkVoXAwrRa8097qqQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "货运代理",
+        "企业（To B）"
+    ],
+    "welfareList": [
+        "节日福利",
+        "加班补助"
+    ]
+}

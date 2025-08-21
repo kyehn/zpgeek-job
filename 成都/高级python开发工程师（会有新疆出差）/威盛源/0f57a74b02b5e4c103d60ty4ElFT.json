@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.dianzhangzhipin.com/blueapp/header/images/image/20210124/3cdc63487c78b238f91e4b5affc4bc63.png?x-oss-process=image/resize,w_200",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "电力/热力/燃气/水利",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "威盛源",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "中和",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1ba72af2b826d1371XRy0t-0ElFS",
+    "encryptBrandId": "249a4408593c2d371Xxy09u-FVc~",
+    "encryptJobId": "0f57a74b02b5e4c103d60ty4ElFT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.55351,
+        "longitude": 104.068036
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101205,
+    "isShield": 0,
+    "itemId": 9,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "高级python开发工程师（会有新疆出差）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3okvE27WLNp.search.9",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "eJqSpA4CDGcpA-i1mNCCD3pye73h7vdxGAyTpf8E_XWSMeWK-yCcpAhfCmeJv3seqWHbwIcJ2WMwOXJ6urtAQiUsOyfdsO2CEsFDrQXSk0Jqnc5PRU35TxjG7C_8Eejh6J26KbTPpfP91dk~",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "MySQL",
+        "PostgreSQL",
+        "运维开发经验"
+    ],
+    "welfareList": [
+        "加班补助"
+    ]
+}

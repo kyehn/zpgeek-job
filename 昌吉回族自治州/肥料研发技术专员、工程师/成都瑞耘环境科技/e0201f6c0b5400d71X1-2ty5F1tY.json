@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌吉市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "陈军",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "环保",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240221/7bf6f160950405e903c059181fe135c9f5a4efcb8b8e3144f1f6b38e62c52ff9d9c8b563326a5b68.png.webp",
+    "brandName": "成都瑞耘环境科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "健康东路",
+    "city": 101130300,
+    "cityName": "昌吉回族自治州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5de91b276f7c75910XR52d2_E1RS",
+    "encryptBrandId": "f9961e51f8e93d551Xx72di1Elc~",
+    "encryptJobId": "e0201f6c0b5400d71X1-2ty5F1tY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 44.021112,
+        "longitude": 87.328389
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101207,
+    "isShield": 0,
+    "itemId": 26,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "肥料研发技术专员、工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5cPCeW3zvnA.search.26",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "WaM3md6lVVniv-w1LCh3S3-P7PP3i8gJ0l0mkHFOhbk66x9FVUWMFLKG5M5FfZ90hDAfbPyHdL7FIBYictZjFbA6X-nzVNJbTh-vTet_A_anAi0tmcjc8a2gXe81qw-TJ7SZL0RfLI6wk4w~",
+    "showTopPosition": false,
+    "skills": [
+        "五险一金",
+        "法假三薪",
+        "个人绩效"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

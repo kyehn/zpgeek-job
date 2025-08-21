@@ -1,0 +1,79 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210719/a9926880376bf25cd3f1eeb7b399794c9b30ebc9999c76295fe490c8f00369c1_s.png",
+    "bossCert": 3,
+    "bossName": "郑成鑫",
+    "bossOnline": true,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/logo/fd4dec0def92d935a12c6b44716ddbd6be1bd4a3bd2a63f070bdbdada9aad826.png",
+    "brandName": "亚信科技",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a39edb43dc4d16b003Fz3Ny-FA~~",
+    "encryptBrandId": "d063e597d01c108b33Z50g~~",
+    "encryptJobId": "cd756f351a146b8903Zy09q9ElFW",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.222724,
+        "longitude": 120.121288
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 10,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "C/C++开发实习生-杭州",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8bFk0E2ggfu.search.10",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "m4zu3eLEIQyx1-w1Tsauc0YTWw34YpL6Jm1IZwVPN-9UVIaar-pnoeRtf8ZVliLZ7q_VRZrdYIXvTEX882veWwzoCgnRnApeYfncR4oLQdJ-kLmrwTFNzwWohn7a-JN_JUeExECHfnPduEKq",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "加班补助",
+        "绩效奖金",
+        "交通补助",
+        "定期体检",
+        "股票期权",
+        "补充医疗保险",
+        "五险一金",
+        "生日福利",
+        "餐补",
+        "节日福利",
+        "定期体检",
+        "免费班车",
+        "带薪年假",
+        "通讯补贴",
+        "年终奖",
+        "团建聚餐"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "QA8nbWn4K8-qd-D1Kbm34pkxLzve4Qqn-6Tc-j4AwoI-vVeI7lIcCOp_mzuNX2jS8LUkDXaRdHnAn3C9e9U7jsMIHL87i3dC34FZ9kRgMdDa2sNOvxvdvbDHkQCaQqkwArkw0FUCL7NhGYc~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230207/607f1f3d68754fd051963e0585eeaf45d61aaccf9ddb77d5b8cc6d2df952b359cd8e6449fdcdef2f_s.png",
+    "bossCert": 3,
+    "encryptBossId": "b33527af06d1f3f41nVy2dy0GFRW",
+    "bossName": "罗冠浩",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "61692cee00decf071Hxz2t28EFZX",
+    "expectId": 1014042683,
+    "jobName": "业务经理",
+    "lid": "2bEB7wDPDqa.search.206",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "个人（To C）",
+        "面销/陌拜"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "通州区",
+    "businessDistrict": "马驹桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 206,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.547682,
+        "latitude": 39.725509
+    },
+    "encryptBrandId": "244a5013c70ee8e01XR42dq8EVY~",
+    "brandName": "永得租赁",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240306/7b5b554d84f9729c8c9a1e89103705fec0a0a90732a9203ab8cc6d2df952b359cd8e6449fdcdef2f.jpg.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "通用设备",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "绩效奖金",
+        "包住",
+        "宿舍有空调",
+        "底薪加提成",
+        "有无线网"
+    ],
+    "industry": 100906,
+    "contact": false,
+    "showTopPosition": false
+}

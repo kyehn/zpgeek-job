@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "李磊",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "家具/家电/家居",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200915/f79d42a5a0446b8f430c5ddbb9b98975208dbdd2371549af50bb55a3e221b9b3_s.jpg",
+    "brandName": "佰争",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "三林",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9d6a8edff4e7217e0HJ52tW_FVU~",
+    "encryptBrandId": "b9df9872f2f3600b0n1-3dy5FA~~",
+    "encryptJobId": "5dbdac9f3d99c1fe1Xd-3t6-EVJR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.166689,
+        "longitude": 121.529075
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101004,
+    "isShield": 0,
+    "itemId": 104,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "智能家居安装工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7CZMWaxDSW.search.104",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "RE5KSsIrQe_XC-q1OA297ZyrL3d7a9-WE9Vye159YcZIiVTlZGT2OCXDGtqFZ2klh5-HtbyGeJnfpZ04xACNrBJXeopCb2gJZ6GwIxdGjhRYMn0yVrzQN55dOuiK5_bonOvPTx7iCFTF",
+    "showTopPosition": false,
+    "skills": [
+        "软件实施",
+        "实施工程师/顾问"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

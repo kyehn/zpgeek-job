@@ -1,0 +1,60 @@
+{
+    "securityId": "BnJEc4l9ZsnS--d1gJU_Hvsq1I1IJ6KkfYDImvTIL3reY1ViNiWHlOmX0k6p6s_fI2Y7VjDzpOquPIMqk22s3soQlGMexgXB67xlFK3UnMUJJX6UJ7Rnsmj5fwVxru98ZD5pHqxd4keGAIA~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240408/607f1f3d68754fd0733f5ba0c96c211e039ecfbc3d1a55852291d8803a5c629e198a0b16e3efa7e5_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "60ab01373e4810930XB80tq_E1BW",
+    "bossName": "谭宝惠",
+    "bossTitle": "招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "0f596cb395ab72b11Hx809-5GVpY",
+    "expectId": 1014042683,
+    "jobName": "交付工程师",
+    "lid": "2WLlanEUmQW.search.9",
+    "salaryDesc": "8-13K·14薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "软件实施经验",
+        "java"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "太阳宫",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 9,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.473004,
+        "latitude": 39.993306
+    },
+    "encryptBrandId": "6a0aed84d49f64d11HB62tu7F1E~",
+    "brandName": "橙岛电子商务有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

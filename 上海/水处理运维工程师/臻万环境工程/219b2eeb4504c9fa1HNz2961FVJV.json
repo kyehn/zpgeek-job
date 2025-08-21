@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "赵琢玉",
+    "bossOnline": false,
+    "bossTitle": "人事助理",
+    "brandIndustry": "环保",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231030/7b5b554d84f9729c775253f92209414ff98e8ae56547a7559da0281dc07e16c4b96bd9527979915b.jpg.webp",
+    "brandName": "臻万环境工程",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "浦江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f099491712c9713f0XFy09m5F1A~",
+    "encryptBrandId": "c09e0674a9b61c8c0Xd63tu5FQ~~",
+    "encryptJobId": "219b2eeb4504c9fa1HNz2961FVJV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.092824,
+        "longitude": 121.492287
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101207,
+    "isShield": 0,
+    "itemId": 203,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "水处理运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2Ugb1Y9LwcM.search.203",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "jO27qI_grhrUj-l1Mqz31_vAe3pZkBKAHDe8xluY2K66dpTYIprEZJWTo_B4d8YwVv4_4bhHMxU-BDhmmt5Ky55Lru8teP_BXt8LkE45KWJjbiphzlVUir_4chy8HCUiNlZYOXMjCGMt",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维",
+        "系统运维",
+        "运维经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

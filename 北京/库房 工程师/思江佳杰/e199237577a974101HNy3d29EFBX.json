@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "孙孝文",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "思江佳杰",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "西北旺",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2a00e03a7a9455de0nZ42dm-E1tY",
+    "encryptBrandId": "015ea64270e435291nN_0tm8F1Q~",
+    "encryptJobId": "e199237577a974101HNy3d29EFBX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.048571,
+        "longitude": 116.240361
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 34,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "库房 工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7M3rN5FVuDX.search.34",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "k9YSy8qIACey_-_1lHIFagd5vyoMH1coYp-4FSrfMwsgxoaruoXI0VuWN_p6YvIe7W-Zhj0cTdsWPtk-DAhq6oHGlwJFO8Mf2nMia-v19By0pg-NioDf92dn8c9PtASMC4IWSFbaRDaqYt4~",
+    "showTopPosition": false,
+    "skills": [
+        "手机/电脑/通讯终端"
+    ],
+    "welfareList": [
+        "全勤奖",
+        "通讯补贴",
+        "节日福利"
+    ]
+}

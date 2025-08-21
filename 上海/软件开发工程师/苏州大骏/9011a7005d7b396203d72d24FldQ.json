@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211013/607f1f3d68754fd03e72eeb0941ee5f6c12241f4ee91fb663992a381e8873618987595be90d055c4_s.jpg",
+    "bossCert": 3,
+    "bossName": "王诗梦",
+    "bossOnline": false,
+    "bossTitle": "招聘主管",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190527/d282329a01d389caff663c43c86626f73992a381e8873618987595be90d055c4.png",
+    "brandName": "苏州大骏",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d96cd6dd53e123111XN52NS6GVI~",
+    "encryptBrandId": "5ec2a28a4213b9631Xx63du5Fw~~",
+    "encryptJobId": "9011a7005d7b396203d72d24FldQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.226736,
+        "longitude": 121.549936
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 70,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6WwEoJJwYs.search.70",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K",
+    "securityId": "nv-F4WNUNXTit-21Kace6ok-ilOueBcscWb0gC5iSub2WUwPOeByflSVIpEKMMgSVlW4A3TfssLmqei16QPdENSp3qYGBAY1MFGvyUY4CLbvbVrE5UyAMRxzoXYXT6_HQ59vKousC4PO",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "MySQL",
+        "Spring"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

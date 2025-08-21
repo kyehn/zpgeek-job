@@ -1,0 +1,61 @@
+{
+    "securityId": "jorLIpUh6fDUN-m1uSvtZEAud99SfA8x363t2k0xG49wZT_9xjjyHCw94oL6J3OGUx7VuZxTn4iDuL7VshTl5gTp-q5f8gJz4NSemiGVA8lalJtejBE~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200927/9cbeb2eca28a9ff64371969afc3d08d0afa8ce24633f073adf1ce2cd2fc21c5c_s.png",
+    "bossCert": 3,
+    "encryptBossId": "6eb76a3c5add77c90nR43dS4GVBW",
+    "bossName": "黄女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "eb4e60832234cdc51HZ_3t25ElBW",
+    "expectId": 0,
+    "jobName": "招投标专员",
+    "lid": "1eoboHqPOB1.search.180",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "招投标管理"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "蔡甸区",
+    "businessDistrict": "沌口",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 180,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.185559,
+        "latitude": 30.492213
+    },
+    "encryptBrandId": "87c698eae031f8a90Xx63Nu1Eg~~",
+    "brandName": "湖振煜",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221014/7bf6f160950405e9ed1bc855db2b2366256d93705ceb553202ea7319fb7cc7adf17a99845da7e28b.jpg",
+    "brandStageName": "天使轮",
+    "brandIndustry": "环保",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "零食下午茶",
+        "交通补助",
+        "股票期权",
+        "年终奖"
+    ],
+    "industry": 101207,
+    "contact": false,
+    "showTopPosition": false
+}

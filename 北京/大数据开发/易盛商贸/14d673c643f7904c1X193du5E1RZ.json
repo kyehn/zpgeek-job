@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "杨治云",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "易盛商贸",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "龙泽",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c0228c3822b7c98c0n1z3N27FFJS",
+    "encryptBrandId": "a30524612cce30d71XN82Nu1GVM~",
+    "encryptJobId": "14d673c643f7904c1X193du5E1RZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.074141,
+        "longitude": 116.318473
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 41,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "大数据开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7M1Zd7IFT1t.search.41",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "cQO8lvBSfOblu-t1qw-fu2FrgIyLkKlakKwxgUuX2jnsaiTLhiYLPnqeKZO9Yeg3_gUCR2bO2djwAERo_Inn1EtIh7GuMGcLM3rHgV2dgbo5U3F2u-pFFhf5uUVGBmjZEvdataacQkU2RIg~",
+    "showTopPosition": false,
+    "skills": [
+        "大数据开发经验",
+        "数仓建设经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

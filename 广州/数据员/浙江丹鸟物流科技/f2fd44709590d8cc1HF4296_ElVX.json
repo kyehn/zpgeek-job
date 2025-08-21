@@ -1,0 +1,63 @@
+{
+    "securityId": "nhaR8sv3beSBG-F16vzaUzoMELQY2cr5nxEYElEalCSmsEavUKeaW8smS4XooeWJsHDe8kE6cXQXidw6-3md9cp9G2P6I_ZBv-JpP8QhM769MlLN3Rw~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240901/607f1f3d68754fd00d486908e2e4aa349e3bb2a9bcbbd270c2ce85dff2b16f70c5c5b07858031ab1_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "de4303c73dd6faf00nx709W_FlA~",
+    "bossName": "李女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f2fd44709590d8cc1HF4296_ElVX",
+    "expectId": 0,
+    "jobName": "数据员",
+    "lid": "2azWJVad8yo.search.265",
+    "salaryDesc": "5-6K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "货物运输",
+        "货物配送",
+        "仓储管理"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "增城区",
+    "businessDistrict": "沙埔镇",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 265,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.659121,
+        "latitude": 23.190485
+    },
+    "encryptBrandId": "bc79083c384923391XZz09q8GFI~",
+    "brandName": "浙江丹鸟物流科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "物流/仓储",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "包吃",
+        "全勤奖",
+        "绩效奖金",
+        "五险一金"
+    ],
+    "industry": 100502,
+    "contact": false,
+    "showTopPosition": false
+}

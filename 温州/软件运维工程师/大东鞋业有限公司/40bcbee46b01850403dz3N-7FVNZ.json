@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "瑞安市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240829/607f1f3d68754fd028e3e57f39ec245d12ce10fee8acfd6931dd4cf3206a6723f14bfac26d0b5ab3_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": true,
+    "bossTitle": "人事",
+    "brandIndustry": "生活服务(O2O)",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170602/3ac88c27cc46467b29b0d3478d8de1e81c4716fb4ca65a2a7cbcfad34604edb2.jpg",
+    "brandName": "大东鞋业有限公司",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "D轮及以上",
+    "businessDistrict": "塘下",
+    "city": 101210700,
+    "cityName": "温州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ad7b3bda2d9b61090nZ73964FFFV",
+    "encryptBrandId": "7eaf057d634b46510HR93dW5",
+    "encryptJobId": "40bcbee46b01850403dz3N-7FVNZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 27.847129,
+        "longitude": 120.674989
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100007,
+    "isShield": 0,
+    "itemId": 29,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7P7aLIvHG99.search.29",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K",
+    "securityId": "Sjyeqw3eAv9A4-k1BVLJEJu4ig1gOa8A3D0kjEv_ikNegwIqQ3kaGOgOKOweIZAb23lhxU52dIIT0e4WrImHlD2ETtXXFuOpYdKvxz7GpPiaJCJLqprergwHVQm8vrlH2aEUZ71ZxeIW6kwj9pAIrF8q451jDCaFOGChzpF2x6R0nyLh",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "计算机相关专业",
+        "运维经验"
+    ],
+    "welfareList": [
+        "节日福利",
+        "五险"
+    ]
+}

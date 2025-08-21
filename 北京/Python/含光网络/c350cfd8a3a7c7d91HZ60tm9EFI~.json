@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200330/a43da808b00e92e52bb5f59e2b83e813559d0a72ededd251c774900a8d074812_s.png",
+    "bossCert": 3,
+    "bossName": "丁飞",
+    "bossOnline": false,
+    "bossTitle": "技术总监",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181003/a565efc56c89b8b3fa99747ae5f46b21559d0a72ededd251c774900a8d074812.jpg",
+    "brandName": "含光网络",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "知春路",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e8c20495068e7e8303J52t-5FVE~",
+    "encryptBrandId": "16266d9b2068cd930XFz0tm-",
+    "encryptJobId": "c350cfd8a3a7c7d91HZ60tm9EFI~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.981809,
+        "longitude": 116.347325
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 21,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Python",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cOPJ0GXpIl.search.21",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "vGdlfA9TCT_lX-S1N4zjCw7FjIHx27-fOcOwmoTfa7KsURTm_4SyzfaGdc1NrHyqHvkrr0elfnZCItcV3p9v3XbbI-m7SCe-zA6haGIawvR72uZ03uJRdqqtagpygaNkOhg0LHe9mQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "C/C++",
+        "python爬虫",
+        "需求分析"
+    ],
+    "welfareList": [
+        "股票期权"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "单先生",
+    "bossOnline": false,
+    "bossTitle": "人事总监",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230302/7bf6f160950405e92e52f7610546cd9fdce7a717c1bbe9476a917d28d18784bd1d4c718a2a83783f.jpg",
+    "brandName": "ifunk",
+    "brandScaleName": "100-499人",
+    "brandStageName": "D轮及以上",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0a6df4c8024f23a50nR92tS_GFY~",
+    "encryptBrandId": "954ff2867447d6ca1nNy2920FQ~~",
+    "encryptJobId": "62af58b09d80cab51HF83dW1F1BR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.186102,
+        "longitude": 120.208893
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 47,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "数据分析师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7VUFSrwyEPu.search.47",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "UqUBdKsEjbQ61-615R8AU4ImIl2ZWgTJm5A7e158R0PToewkF0IsXADxhWqX2dYtROjcD0S_a8AXJ31qxggN4ShChPJyaeUxCqhzxmlIFJzv1urIOGOFxN97ZoIswWILbdanagpag8XI",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "全勤奖",
+        "节日福利",
+        "带薪年假",
+        "餐补"
+    ]
+}

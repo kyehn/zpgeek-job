@@ -1,0 +1,59 @@
+{
+    "securityId": "yYGt6BpyXETVm-N1A4FgSyO1TgBNISBX5Fb5eYu3lxKXCPGxcKsoAk4kOhSP_7-3Pk1e7oNnqTUXiYWLtuMp94yhMwmTuibkf7ZaY7Z2_9dHjcfl1WOWRc9R3S62UBEcT8HGVpV2QUlQ",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231225/607f1f3d68754fd0b5c0a77f6cae23069c8d617ba6cfaf64711652bbc6f82508a7b9e4f060afd9ab_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "e86bad54929e33a50nV-2t-5FFNT",
+    "bossName": "朱先生",
+    "bossTitle": "Hr",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "0155145d998306b91H1609S6GFdW",
+    "expectId": 1030426395,
+    "jobName": "数据分析经验",
+    "lid": "1bRleZuTgnQ.search.137",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据分析/挖掘经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "大望路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 137,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.4915,
+        "latitude": 39.922075
+    },
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "brandName": "上海思芮",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

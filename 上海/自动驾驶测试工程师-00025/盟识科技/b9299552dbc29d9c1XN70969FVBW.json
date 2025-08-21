@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210419/358091ff5ca081a4f40ce7cdbadc46996e04a2ff2c7c932ef6d9d3214cfa8801_s.png",
+    "bossCert": 3,
+    "bossName": "朱女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240618/7bf6f160950405e9b45f1b01a46cdf1654c07c5c6b304c996e04a2ff2c7c932ef6d9d3214cfa8801.png.webp",
+    "brandName": "盟识科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "浦江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ef62e32cb3f48bf61HF63tq6EFo~",
+    "encryptBrandId": "ab52718f8efee56e1HF63tm8FVM~",
+    "encryptJobId": "b9299552dbc29d9c1XN70969FVBW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.101077,
+        "longitude": 121.512145
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 32,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "自动驾驶测试工程师-00025",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8PBeLdAJjF8.search.32",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K",
+    "securityId": "xQG5tSSkGqUVP--1s4_m_THkInEjp7wgmExfS5L8Ju2koFs-QGsEZnWVxAMFwPwwIgKQenjrHt_wO1czXi_uc5e58EBEKyPkd6m5VWHmzewV2ev5FonTyr0WawTEIAZEew_9LkMHS6bRrw~~",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "自动化测试"
+    ],
+    "welfareList": [
+        "节日福利",
+        "定期体检",
+        "五险一金"
+    ]
+}

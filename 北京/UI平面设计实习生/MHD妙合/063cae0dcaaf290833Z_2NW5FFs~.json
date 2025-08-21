@@ -1,0 +1,59 @@
+{
+    "securityId": "C49IE5KkMQklz-21dMA3zX6WtLodIeJdX5gqObPaMTiBNJPNzrGtp64u7em_jwH5FHZYcOxscP5fUWQruSbZgtutW4WN5KNsOPNQb9Nbl2SmYx1W",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20200721/5bb667873375491a8ed726a9f45d6d3dd930ada2a505b6dcf38e71aefd51a366_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "9931b32e22c288f41XV82Nq8GFQ~",
+    "bossName": "乔先生",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "063cae0dcaaf290833Z_2NW5FFs~",
+    "expectId": 0,
+    "jobName": "UI/平面设计实习生",
+    "lid": "3tgQOrHcrPd.search.225",
+    "salaryDesc": "2-4K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "网页设计",
+        "平面设计"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "高碑店",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 225,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.520888,
+        "latitude": 39.905959
+    },
+    "encryptBrandId": "4772340947793a373nF42tm-Fg~~",
+    "brandName": "MHD°妙合",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200721/ba76f7e8295f14ab4e83d24d065b7c05d930ada2a505b6dcf38e71aefd51a366_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "广告营销",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "带薪年假"
+    ],
+    "industry": 100004,
+    "contact": false,
+    "showTopPosition": false
+}

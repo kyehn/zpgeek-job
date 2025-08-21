@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200612/1b9111c3c0a39cf60552080be37c66ec82bd92d1ca7f0b0be015b42170a3d547_s.png",
+    "bossCert": 3,
+    "bossName": "章女士",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "中电金信",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "B轮",
+    "businessDistrict": "张江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2b91a99fe235fc441HZ53tu0FlI~",
+    "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+    "encryptJobId": "e8d200afafaab9661HVy09y5E1tW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.232657,
+        "longitude": 121.665364
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 11,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "监控运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1NGbx4UEqek.search.11",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "flAvLlHzwyb4D-s13wc1CPB2GexA12fM6XstLE_LRblD-5Qhh1_SMldaB2vllJ5WrZjzoOiNdTqBVHIJMciNcTq6x_mSLQj8gDJU27Fc-s48qMWo7En4fq3KRwkgX_HsneNEBPZkYs3kXA~~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "节日福利",
+        "定期体检",
+        "五险一金"
+    ]
+}

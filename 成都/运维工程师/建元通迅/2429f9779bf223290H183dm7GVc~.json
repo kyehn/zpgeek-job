@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "成华区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "庞瑜",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180721/3b7548fb3882675bd2d4d44dc8493b341f9b8a97c02ee5b8143dacb2d12f98dc.jpg",
+    "brandName": "建元通迅",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "青龙场",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a81baef1b25f91270X1z2tS1Fls~",
+    "encryptBrandId": "3627484230a2beba0H163dm8",
+    "encryptJobId": "2429f9779bf223290H183dm7GVc~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.703331,
+        "longitude": 104.102058
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 132,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rev04hEqX3.search.132",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "-J3bJ2lef47ls-H14E7nu6qAuuCMj8D1-L5fn-zJvFJeNJzIuwObs9GIAao9-pmS85ct9s73zMqjYnex6n8HuCRaFO2bLCQ4BxcZnqKggCaKQjXjspmyAgQlfJwu5JMvZIGhTqSuKw~~",
+    "showTopPosition": false,
+    "skills": [
+        "网络维护"
+    ],
+    "welfareList": [
+        "加班补助",
+        "带薪年假",
+        "六险"
+    ]
+}

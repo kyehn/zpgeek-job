@@ -1,0 +1,63 @@
+{
+    "securityId": "U8LEg8aObWylN--1GVCjx_hCX54_dbUDTNv78Wqvse20gDALMEuBdJeJbtWAqkd0YSjEguY0ggNRyhrqoLQtk4kMoEAd2Vkg3dPvhVhlYmkI2mB4M1tpuEE4d5oPT2wATXZazOvikPpKfA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230401/607f1f3d68754fd092f8fb95ce34ae586f4b65ae931194c41f06709e9a66f021fce44f5bb21e8a01_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "44396453949a9a500nB90ti_EFBV",
+    "bossName": "冯女士",
+    "bossTitle": "人才经纪人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "faef24e51c4fad741Hd92d-9EVdZ",
+    "expectId": 1014042683,
+    "jobName": "实习生-数据方向",
+    "lid": "4AEqjHmuhBn.search.122",
+    "salaryDesc": "2-3K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据标注",
+        "金融类专业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "合肥",
+    "areaDistrict": "蜀山区",
+    "businessDistrict": "井岗",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        3
+    ],
+    "itemId": 122,
+    "city": 101220100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": null,
+    "encryptBrandId": "407f0b5b8513a4681Xx42925Ew~~",
+    "brandName": "科大讯飞股份有限公司",
+    "brandLogo": "https://c-res.zhipin.com/jrs/3_c862f0ddedce9a4bdc00f1ea55e30484.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "互联网",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "交通补助",
+        "免费班车",
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "餐补"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

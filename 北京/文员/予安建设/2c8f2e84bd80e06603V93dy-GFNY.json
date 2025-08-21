@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240709/607f1f3d68754fd0b69ceedabe0b57f28a7b8e14aadd8dbabe9f8cc6f8150a02557e915bad76c052_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "谷鑫",
+    "bossOnline": true,
+    "bossTitle": "行政",
+    "brandIndustry": "房屋建筑工程",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "予安建设",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "马池口",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c1094e5b297fb3220nNy0tu-E1NY",
+    "encryptBrandId": "a43c81363bb36bbe1XF-2tS0GVA~",
+    "encryptJobId": "2c8f2e84bd80e06603V93dy-GFNY",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.202755,
+        "longitude": 116.192809
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100708,
+    "isShield": 0,
+    "itemId": 60,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "文员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8hlXAnNiVMM.search.60",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "w4y49rZGotSAH-g1AAjfHswVvD44k5BSWLEs0xx0KaPnDa17oy_y1GnPJhPonINpkNtwAiL4ihBABY1DaDhEbrocvLq_R5B6BdF8_SNKvVS0yvmPXYMLADFEyW00QCI-ciaygwJVq08hKDNoxmAa0kJ0",
+    "showTopPosition": false,
+    "skills": [
+        "管吃住"
+    ],
+    "welfareList": [
+        "有无线网",
+        "宿舍有空调",
+        "包住",
+        "包吃"
+    ]
+}

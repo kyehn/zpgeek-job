@@ -1,0 +1,63 @@
+{
+    "securityId": "xMkowEqespuH--x1n9R3Y6EHJMNDT5qKwAtD_Kf0lj_FypbOntlmQSi2CPzRuKQEtjuPesY7Y4_-fiFqRaQcXR_fCOicXEboazy_hIyax-w-osgbWA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180515/0d3864db030f1f4d5228319e44dd3e10cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "4543edfaab6773401Hxy2Nu9GFo~",
+    "bossName": "薛先生",
+    "bossTitle": "招聘经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c935fc4bb91caec61HN52Nq1F1RV",
+    "expectId": 0,
+    "jobName": "研发工程师（防爆电器）",
+    "lid": "30exMOpcSCy.search.277",
+    "salaryDesc": "9-14K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "研发",
+        "防爆电器",
+        "防爆取证"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "苏州",
+    "areaDistrict": "吴江区",
+    "businessDistrict": "松陵",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 277,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.681115,
+        "latitude": 31.125253
+    },
+    "encryptBrandId": "30ccb8848b9f5dbd1n140tS6FA~~",
+    "brandName": "eurocrane",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200703/7fde4e7e2830509bfbac34d7e8434ef05e430d627c36a257ca271d73d7cf23ef_s.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "电气机械/器材",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金",
+        "包住",
+        "年终奖",
+        "带薪年假"
+    ],
+    "industry": 100908,
+    "contact": false,
+    "showTopPosition": false
+}

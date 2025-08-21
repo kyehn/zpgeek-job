@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "苏州工业园区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230518/607f1f3d68754fd0e3804b8fd01d8146cb40f0e749db0963e0376e502b036583ae666211c70c8925_s.jpg",
+    "bossCert": 3,
+    "bossName": "彭女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "餐饮",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230920/7b5b554d84f9729ca067346b362949043693fb47ec6d9a66e0376e502b036583ae666211c70c8925.jpg.webp",
+    "brandName": "柠檬森林",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "湖东",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0c4e8f62132a891d1HN_2d-6EVI~",
+    "encryptBrandId": "bf24c8cabc0052d01XFy3ty_Flo~",
+    "encryptJobId": "fdbd34343898371b1HRy0t-5FlNZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.32166,
+        "longitude": 120.717217
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101101,
+    "isShield": 0,
+    "itemId": 61,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "研发助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "28MVC7PETHt.search.61",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "xxkw_IPPUXYVW-X1kS--H9Wtso8y_AVhCLn5QgZhPuiod0uCLUBvJZfHjw_1cl7pnBN0bSVmZ0wfsCd8wf9R5wOVFFq0gXsTDuzMeYB-KnbymRxz-L7vfh8NpfFpQrA75iqAozG7B55how~~",
+    "showTopPosition": false,
+    "skills": [
+        "饮料",
+        "茶及茶制品"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

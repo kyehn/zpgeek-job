@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "相城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231122/607f1f3d68754fd0152df06bbb92faf7bfcfee3a418cde0d9a1f655c90cfd0e498237d8a473f8b3a_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "李丹丹",
+    "bossOnline": false,
+    "bossTitle": "人事部",
+    "brandIndustry": "环保",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "尚清环科",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "元和",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0326bcb4ab7da0cc3nB-3NW4E1E~",
+    "encryptBrandId": "83fab7a9a21e508b33N80964Fg~~",
+    "encryptJobId": "1f0e7a3663cc450e1nRz3NS8GVBY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.412013,
+        "longitude": 120.630632
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101207,
+    "isShield": 0,
+    "itemId": 56,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "项目助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7NNt79yZOhd.search.56",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "ppRPys3pRv_YJ-F1BnUfrcqB5IZZTvLZd6AtHF3isIKU0LaUOE3d3QTm-AsQ4KuQItisHBFq7blzz-Li3catcu-6uYMXH2HrUDmkg0xA6wms-9Gpt_klOIaeFz54reYhjaALjnc8mhfQ",
+    "showTopPosition": false,
+    "skills": [
+        "项目助理"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金",
+        "加班补助"
+    ]
+}

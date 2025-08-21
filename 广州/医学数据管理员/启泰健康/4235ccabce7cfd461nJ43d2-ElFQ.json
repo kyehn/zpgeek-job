@@ -1,0 +1,62 @@
+{
+    "securityId": "kB_hYX4V7c_ey-H13TRMtxmbicGOUCoNw5a1dfmMjtobHvYpkKFZ1IP2D63y5VhzGRTwd_yR3rGMJGgFZWstsazPlNhlKy0BaOsyJEEvxI6IhIhkCdE~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210423/b1dd471cc229a924c613cc659d8a6fb417c02ec9929bad0cfcd5545ae9fbccca_s.png",
+    "bossCert": 3,
+    "encryptBossId": "9cb2151006fa16390nZy09S7FVRT",
+    "bossName": "曾女士",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4235ccabce7cfd461nJ43d2-ElFQ",
+    "expectId": 0,
+    "jobName": "医学数据管理员",
+    "lid": "28egioljp6K.search.29",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "临床研究"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "白云区",
+    "businessDistrict": "白云大道",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 29,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.293741,
+        "latitude": 23.224807
+    },
+    "encryptBrandId": "ee2f126d49b02de31nN53NW1Ew~~",
+    "brandName": "启泰健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180424/765ddc997700ea4d1bcf790cb241d16bcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "医疗健康",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+    ],
+    "industry": 100006,
+    "contact": false,
+    "showTopPosition": false
+}

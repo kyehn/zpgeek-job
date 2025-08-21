@@ -1,0 +1,62 @@
+{
+    "securityId": "GP3bGLJTwrFgw-t1aEZ7-KvV9O-c63MPe86_9S7fgVwbfF1FUtof9CjpRJG8UZB-WbWwEbyfzxRlvCSU65PuC9YMDkPSPSUa0q4Z9WJl_0uVEugTx13M",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220219/607f1f3d68754fd0798de32a6f18ef95f25b7a1b3d6e4cc8f971caf62474faf673ab73e24d9f1076_s.png",
+    "bossCert": 3,
+    "encryptBossId": "055021dc4d9d29460nVz3t21FVVU",
+    "bossName": "汪先生",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "031adc3f6be85d161XZ_3Ni0F1RR",
+    "expectId": 0,
+    "jobName": "电商运营",
+    "lid": "3p3jzZIlGFw.search.137",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "医药"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "汉阳区",
+    "businessDistrict": "王家湾",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 137,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.195796,
+        "latitude": 30.54447
+    },
+    "encryptBrandId": "4b0f31e3f3215b6c1nB-2d28EVY~",
+    "brandName": "小君医药",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220513/7bf6f160950405e911763ff720f6e73d830c244e318a2d51f971caf62474faf673ab73e24d9f1076.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "医疗健康",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "餐补",
+        "包吃",
+        "底薪加提成",
+        "保底工资",
+        "加班补助"
+    ],
+    "industry": 100006,
+    "contact": false,
+    "showTopPosition": false
+}

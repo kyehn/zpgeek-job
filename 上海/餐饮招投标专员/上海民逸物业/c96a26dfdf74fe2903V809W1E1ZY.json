@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宝山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241122/607f1f3d68754fd08b75953a2f3a96acacc53c13db0bfb05830a313f20167d65352f03817c50b0f3_s.png.webp",
+    "bossCert": 3,
+    "bossName": "苏海冬",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "物业管理",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230411/7b5b554d84f9729cead3e3a2934751b75d487ca145f5d049830a313f20167d65352f03817c50b0f3.jpg",
+    "brandName": "上海民逸物业",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "顾村",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "88547baedd7bd5321nR539u8FVtX",
+    "encryptBrandId": "883ef92583eff9ba1HR_3ti_GQ~~",
+    "encryptJobId": "c96a26dfdf74fe2903V809W1E1ZY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.351096,
+        "longitude": 121.382606
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100707,
+    "isShield": 0,
+    "itemId": 45,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "餐饮招投标专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cKPsInea5A.search.45",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "sL0b_scIvipU8-o1lkPEOplNvNRyKCxyJO7h7TCSQJTF4F163Vl85ZQZ2AfJsmQ61jNFOqg9EvFzqUCia81Dy8jOw_QhLqoCnJTHTWmWytVaNb_diiFwt2U_UYpB_XBNDKLfxCo8Cl7bww~~",
+    "showTopPosition": false,
+    "skills": [
+        "投标"
+    ],
+    "welfareList": [
+        "免费工装",
+        "年终奖",
+        "意外险",
+        "五险一金"
+    ]
+}

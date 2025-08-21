@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "顺义区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240721/607f1f3d68754fd042cc87c02899d4c7f03654837bd138bab216cc0e8971d3c94ac7afbb18d3b5c0_s.png.webp",
+    "bossCert": 3,
+    "bossName": "闫女士",
+    "bossOnline": false,
+    "bossTitle": "hr",
+    "brandIndustry": "计算机硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240725/7bf6f160950405e95630cf06111e16b169d88a3ed2bb5405b216cc0e8971d3c94ac7afbb18d3b5c0.png.webp",
+    "brandName": "一零六八",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "天竺",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "584d388054277fe01nV_0tW6FlE~",
+    "encryptBrandId": "153401f1025886811HB_3Ni1FFo~",
+    "encryptJobId": "8377daf4b984380b1Hxy2tu_GFZV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.090263,
+        "longitude": 116.562323
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101404,
+    "isShield": 0,
+    "itemId": 132,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "长白班运维值班员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "dy4NrVJgWF.search.132",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "3DpMuni1t5xNR-Q1PuNrPGpM5HI7i-KvlrzQ1DpXEpKI0ikbMkkirKjLNTaKXtrOzjyKWEOcOqIbEqSIbOBgj8NkEceO-vU25ssGk3i3XsqtDv-lfzaNCPHaJ1Q2WK6UxWfhgKBacYdV_w~~",
+    "showTopPosition": false,
+    "skills": [
+        "基础设施运维 非it运维"
+    ],
+    "welfareList": [
+        "夜班补助",
+        "五险一金"
+    ]
+}

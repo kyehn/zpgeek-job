@@ -1,0 +1,62 @@
+{
+    "securityId": "30DkAnF6dsSxm-P1LISz9VFZ_09n8WoBiDSj8wVEmBkHiEeG7_5SOcdC7TzCDFNXcgASJbcZFZyfqbusqnqWa7a5Lzoa-6QOkEv4jIUwJ1rUvC38NZo3",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210324/be0756836313bf756f08bcfd03160b01a017f8cc7d0fdb90d634de3ea0c92761_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "0526bd92e2f140c00nRz3929FFtX",
+    "bossName": "陈先生",
+    "bossTitle": "CEO",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e1cccb001ae8e4d51nF62tm1F1ZQ",
+    "expectId": 0,
+    "jobName": "数据分析师",
+    "lid": "5Ju9VezjVhG.search.16",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据挖掘",
+        "数据分析",
+        "数据收集"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "玉溪",
+    "areaDistrict": "江川区",
+    "businessDistrict": "江川区中心城区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 16,
+    "city": 101290400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 102.753612,
+        "latitude": 24.285045
+    },
+    "encryptBrandId": "d125936f964993e51nd73d29EVQ~",
+    "brandName": "朝芙",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "全勤奖",
+        "节日福利",
+        "零食下午茶"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

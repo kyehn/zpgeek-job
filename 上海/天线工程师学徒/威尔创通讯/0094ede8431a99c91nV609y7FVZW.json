@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "静安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250408/607f1f3d68754fd017b9cd83616d2622862137d24fafb11bf7493661326653af581d97f61339818d_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "肖金铃",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://c-res.zhipin.com/jrs/1966608055efdc8e1d84adc78488c2cd.jpg",
+    "brandName": "威尔创通讯",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "上海长途汽车站",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d8faebe218af317d1nV62N65ElVS",
+    "encryptBrandId": "1b2e5e1f0b44d3ae1nZy3di8E1c~",
+    "encryptJobId": "0094ede8431a99c91nV609y7FVZW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.263059,
+        "longitude": 121.447669
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 49,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "天线工程师学徒",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8Qv0LnF8o1u.search.49",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "2p0FXuJA7ihrk-r1wxdlRFVhkNHgQNEsujpfzTqxs5KJAmHDCRuJASjlO_Uf9wO4carWULWaN6mbEMNXCVmzHht4d_Yf60mQzH4_QarSrjXbE0wIWn3s1_90sIMkX_3455RyLdOcBUg8vwU~",
+    "showTopPosition": false,
+    "skills": [
+        "通信",
+        "无线通信工程师",
+        "天线工程师"
+    ],
+    "welfareList": [
+        "全勤奖",
+        "员工旅游"
+    ]
+}

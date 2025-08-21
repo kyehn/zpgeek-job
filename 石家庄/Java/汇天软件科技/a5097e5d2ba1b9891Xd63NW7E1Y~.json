@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "长安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "邢女士",
+    "bossOnline": true,
+    "bossTitle": "行政人事",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190213/250f7fec8bc5b76da0b966720d01162b57701caec51e77f23f5c8063002477bc.jpg",
+    "brandName": "汇天软件科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "体育北大街",
+    "city": 101090100,
+    "cityName": "石家庄",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c19365c37c6998ad1HB-2du6FlM~",
+    "encryptBrandId": "aed5b6b25666c6940H182du8",
+    "encryptJobId": "a5097e5d2ba1b9891Xd63NW7E1Y~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 38.052794,
+        "longitude": 114.530803
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 41,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Java",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7sJfOyFjf4U.search.41",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K",
+    "securityId": "qlSolPOtHisuE-m1OWXmtK7pPJgno8NfZdh8IGTiUVdBLLzLGqGHb-nHypxWRjJ5nxZgzmf0Fd7HjDFN1HRQ4Y3J-ectnXUaBMZ1JtfjlbR6JJJl8V6Y_BzEtql9d_0KvPPbUIqAEdKgMBV8yYXnURL85rgkgGkcGzfdsxpjde0v_g~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "节日福利",
+        "五险"
+    ]
+}

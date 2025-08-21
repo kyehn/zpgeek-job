@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "七星关区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250307/607f1f3d68754fd08806e003777af5774b56ce25e194b0620f37ebe5291634186b4ba41a984075f1_s.png.webp",
+    "bossCert": 3,
+    "bossName": "赵晓倩",
+    "bossOnline": false,
+    "bossTitle": "市场",
+    "brandIndustry": "电力/热力/燃气/水利",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "天一由你想",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "滨河西路",
+    "city": 101260500,
+    "cityName": "毕节",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "bd5323f12b992ef10X193t69FVJV",
+    "encryptBrandId": "45ff3c219f741b281HF839i6E1U~",
+    "encryptJobId": "9f595626c9e2643603Z50t6-GFtU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 27.281355,
+        "longitude": 105.313236
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101205,
+    "isShield": 0,
+    "itemId": 28,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "java",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "88XwEcQ5d58.search.28",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "1k8M8rrCB2PzO-K1s2QDceufJwu1kYgQ8qnG7Cl3Auf5VGNytfjAlG3hNfaYTIi6ekNvGuWL4iXvhbSv5gdgiEKo9s78xWYhc-Oo5GIfpPZ90LfbKIhDhW8t7z1Go4YE0HvW-iTBfr11iFo~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "物联网经验",
+        "不接受居家办公"
+    ],
+    "welfareList": [
+        "绩效奖金"
+    ]
+}

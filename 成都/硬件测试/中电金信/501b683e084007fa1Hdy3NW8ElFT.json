@@ -1,0 +1,62 @@
+{
+    "securityId": "7zeqx40j-PFqQ-01oz1GEVHJMB-YINvK4QpG42nG5ymchIZ1461QDaY813e1g1OYgC0Erg0QoYTWtnyI6pyKPtB1fNXob24DjmJAasrcAs--eR-RzGk~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240719/607f1f3d68754fd082a7cd4ccc60e5c45fba595c200e23d31fe43378bb4bba406b0903d63b1d0c50_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "596144eb83fe3c6f1HJ939q5FFs~",
+    "bossName": "胡先生",
+    "bossTitle": "招聘",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "501b683e084007fa1Hdy3NW8ElFT",
+    "expectId": 0,
+    "jobName": "硬件测试",
+    "lid": "5I1o8cGp7rP.search.207",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "服务器",
+        "GPU"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "成都",
+    "areaDistrict": "双流区",
+    "businessDistrict": "华阳",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 207,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.068334,
+        "latitude": 30.538133
+    },
+    "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+    "brandName": "中电金信",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "B轮",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "节日福利",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

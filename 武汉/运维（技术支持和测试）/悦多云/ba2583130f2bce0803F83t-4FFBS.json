@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+    "bossCert": 3,
+    "bossName": "程先生",
+    "bossOnline": false,
+    "bossTitle": "HRM",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231128/7bf6f160950405e96de9bd6fcff74c773afcbef8d7799a0924176b0261c93890565ff13b98386486.png.webp",
+    "brandName": "悦多云",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "关山",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3bf369871e7e9f4e1nZ42Nm9E1BV",
+    "encryptBrandId": "326c502d3c71ba9f1XBy39q_FlM~",
+    "encryptJobId": "ba2583130f2bce0803F83t-4FFBS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.483392,
+        "longitude": 114.411083
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 7,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维（技术支持和测试）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d4j4GBywtV.search.7",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "lCT6cqXEHy8ok-b11QE7YX_ONsXo0WRghYtqXu6FvUCFtFBIpdtvdEEAM-YZAYLnULFgQPehRFdCRrmCRGFkDacjdYyPobvG19hUm-dhbgxEB-aAhI6ln_js2dOj0rQBqloHKRokbsCG-I0~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "团建聚餐",
+        "零食下午茶",
+        "五险一金"
+    ]
+}

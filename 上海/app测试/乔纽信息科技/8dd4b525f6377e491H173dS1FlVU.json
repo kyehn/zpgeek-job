@@ -1,0 +1,60 @@
+{
+    "securityId": "ORXLSDFTIWzld-x1JuknriG7ngafYPGxfuMyMoxNRD33U_yksIvt3QXOqVp7_M3XPvpho5KJrlBiKQVBTb7_FdEheSZbhg3ufJYY1gKUh5zh31UNsOSNXg6iskBap13S15F9va81NICx",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210715/3f02cca45fdf9c8a244e5c9754c0ee3bbffabfc8e3305b9aa8cf4e4cb3b1327d_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "f4ee363d3d6b3f7e1nZ43d29EFNQ",
+    "bossName": "王卫强",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8dd4b525f6377e491H173dS1FlVU",
+    "expectId": 1014042683,
+    "jobName": "app测试",
+    "lid": "5E1pDFvNMRF.search.247",
+    "salaryDesc": "8-12K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "测试工作经验",
+        "iOS/Android测试经验",
+        "功能测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "张江",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 247,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.580904,
+        "latitude": 31.199077
+    },
+    "encryptBrandId": "abb1ab1e209748de0Hd93dm8",
+    "brandName": "乔纽信息科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210422/1c618978de8e16241a0fd5a9daaef7ddec0a43fc155f0145dc429a4ecffe6ab1_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

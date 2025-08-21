@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250108/607f1f3d68754fd0fb5cffa11d655a1708c14f20cad676c2f1372d2cf61139c0e84b39b0cdf01d2b_s.png.webp",
+    "bossCert": 3,
+    "bossName": "孙才俊",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "职业培训",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "上海宏延企业管理服务",
+    "brandScaleName": "500-999人",
+    "brandStageName": "",
+    "businessDistrict": "康桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fbdfae2a0ff5bf7f0Xxy3NS5ElJR",
+    "encryptBrandId": "ece963fb0f3eea871H1439u6GFM~",
+    "encryptJobId": "a1a3bc4ac2daea3503V839-5FlRS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.129475,
+        "longitude": 121.539087
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100305,
+    "isShield": 0,
+    "itemId": 84,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "技术助理",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5SfwHSVdJAe.search.84",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "tVNpSDi1lp5LZ-g19rG3-3y0hiYNiNopBQ_xxZFNaD8YbL4NKJmZFALYaX6sJR-7NhFtD4fXM4giIfJksh5-u_hSSxuhAdP1Hh1V3cLe8Oz9P0eDn7ql2q6PX6I38CE3ndeQIj9P29H3Pxk~",
+    "showTopPosition": false,
+    "skills": [
+        "音视频经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

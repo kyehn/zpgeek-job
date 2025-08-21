@@ -1,0 +1,63 @@
+{
+    "securityId": "2z0g9SyEQOm5b-k1Siqti2sVJ2FXmbZHlC9KHjqbHZVF2qaetdU5nlfgUJlsiGO6MDt1gQIef9tLUTTGke-d6CQdDkymdmm6pVFyAoQLeokFRI6kHGrYBdrc2sN6edPIX1v7K3J8R5AihQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231230/607f1f3d68754fd00f3a3f8f5f5f292516c771a03c23b2e157151ada82bc40e0edc76a32ec8bcb31_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "c77d3d728be457031XJy3dW6GFE~",
+    "bossName": "夏伟添",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3ad55e043946da381HR63t69GVZR",
+    "expectId": 1014042683,
+    "jobName": "python开发工程师",
+    "lid": "3nIx88c8QUh.search.146",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "后端",
+        "机器学习/算法工程",
+        "Python"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "大庆",
+    "areaDistrict": "让胡路区",
+    "businessDistrict": "让胡路商场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 146,
+    "city": 101050800,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 124.86755902536144,
+        "latitude": 46.66248092564001
+    },
+    "encryptBrandId": "af1b9e324d9c9fca1XR83dW_EFA~",
+    "brandName": "焱盛科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220612/7bf6f160950405e93b19a67a0fc7b7e5cb4dc960e6963f2757151ada82bc40e0edc76a32ec8bcb31.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "智能硬件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "节日福利",
+        "工龄奖",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100018,
+    "contact": false,
+    "showTopPosition": false
+}

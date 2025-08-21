@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240626/607f1f3d68754fd096ac684479b4c9af0289747868b168e1d693593e03c1dca6d9abde03bf9f76b8_s.png.webp",
+    "bossCert": 3,
+    "bossName": "吴女士",
+    "bossOnline": false,
+    "bossTitle": "副总经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230212/7bf6f160950405e93ce0be7c8dd9150e03c3891b2e997479569f3177069f49ead5e4b7c927b4b3db.jpg",
+    "brandName": "鹰飞无限",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "上地",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fb141337e4423d2e1XR73dy8Fls~",
+    "encryptBrandId": "981625679d5aa7291XF63di9ElE~",
+    "encryptJobId": "165ce38c6d16467a1HJ43du4GFFZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.044416,
+        "longitude": 116.297196
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 128,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "数据采集工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "dyrwCNj0o5.search.128",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K",
+    "securityId": "-1OJn2p4OUzXo-W1TSOY0_LoDiGL5FNNg5uzc4YyN9K5wrflX3XgLesE3-CJTMBX-Y_aR6fZRXmvQx9L1RGs8TUwle9xjJBUZQ0MWkv_4HDrQ-qWEWTIoYM2aZuxS2yPF9FMLLFQUSedUQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "反爬虫",
+        "爬虫"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

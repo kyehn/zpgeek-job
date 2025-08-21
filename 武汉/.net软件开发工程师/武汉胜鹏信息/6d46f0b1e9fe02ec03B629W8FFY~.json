@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "侯秋水",
+    "bossOnline": false,
+    "bossTitle": "行政主管",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "武汉胜鹏信息",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "鲁巷",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "874967549f57ccef0XZy3d-8EFc~",
+    "encryptBrandId": "7a4fd9b81037f01b03J_0tW-FQ~~",
+    "encryptJobId": "6d46f0b1e9fe02ec03B629W8FFY~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.51524,
+        "longitude": 114.401084
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 172,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": ".net软件开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1HZnYQDIdXA.search.172",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "ghxmWfSlIjo6C-01TbrUeCmOE2h2VoPA_CV5OF2ybgxHdy2Amvqxo7ImlGMcnzRVvOl8CC9gbUG9RK7vgMNbutkSDR7iy7znzf6zF0zZW4pc9CW2YHR0tpMa72ot77v84fSGN1GwKzg~",
+    "showTopPosition": false,
+    "skills": [
+        "数据分析",
+        "数据处理",
+        "系统运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

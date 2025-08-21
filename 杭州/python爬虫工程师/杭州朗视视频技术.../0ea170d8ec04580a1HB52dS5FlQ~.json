@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20220211/a2f3e71d9181a67b287ef159c4aa3c96c61195715718b33b7ec21a92989f77c3dbecd4e9ab551687_s.jpg",
+    "bossCert": 3,
+    "bossName": "钱先生",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220211/7bf6f160950405e91b7dee88856eaea31ca191ca881002c47ec21a92989f77c3dbecd4e9ab551687.jpg",
+    "brandName": "杭州朗视视频技术...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "文三路",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0e30265b55a07f690ndy39S-FlQ~",
+    "encryptBrandId": "ca055edfde4dbcff1HV709m-GQ~~",
+    "encryptJobId": "0ea170d8ec04580a1HB52dS5FlQ~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.278772,
+        "longitude": 120.146325
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 82,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "python爬虫工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7PMJSqW1Uwz.search.82",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "yPS9LqbA36X3l-b1VBdsd08aUvrj59ToCN4gMDqYXdOYq0gY6Lfu6CT__7lf1N3IHsb9TmzbK2U8E1VL7pxitl7p3zFAAvOwAPvrIXDOV9M7Ntckrl7_ONre472yJ3eTZWrjahIlOpA~",
+    "showTopPosition": false,
+    "skills": [
+        "HTML5",
+        "Python",
+        "Javascript"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

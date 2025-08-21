@@ -1,0 +1,60 @@
+{
+    "securityId": "RFLJDoHa6VIgv-y1RCYC1zOqnshEspbTrNa-8yxqTWG1ND9mDEDANcg2iBQ6DvOs8V8vGci3IIVG9tUAoaKs9UjIDO5lYuzO7w3Mnef-B61dETEjDUc~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "17b55af2c734aa3d1X1_2ti5E1Q~",
+    "bossName": "郭女士",
+    "bossTitle": "COO",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b3fe8718207424961HZ_3tm_ElZY",
+    "expectId": 0,
+    "jobName": "全栈工程师",
+    "lid": "2zFDOUZu0rk.search.270",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "全栈侧重前端",
+        "HTML",
+        "前端开发经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长沙",
+    "areaDistrict": "开福区",
+    "businessDistrict": "四方坪",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 270,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.02978,
+        "latitude": 28.230295
+    },
+    "encryptBrandId": "bffa9319fca2abb31HV83t27E1U~",
+    "brandName": "长沙未来盒子",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231123/7b5b554d84f9729c54ae1d41902273a64f1e4cc9e22474b3d76781ad13870290380109ee8d964bdd.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "绩效奖金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武昌区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190724/90012e0429d238104d7dbed8d1248c22035a2f72b173d74f4d552b49d5f3867a_s.png",
+    "bossCert": 3,
+    "bossName": "张迎",
+    "bossOnline": false,
+    "bossTitle": "人事HR",
+    "brandIndustry": "医疗健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220318/7bf6f160950405e9a95dab0df5ec7cabb185254f2e9194de035a2f72b173d74f4d552b49d5f3867a.jpg",
+    "brandName": "益尧科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "武珞路",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8b0f71889528f9920HR93d68FFI~",
+    "encryptBrandId": "5b38a74a8f1bef8333V82N24GA~~",
+    "encryptJobId": "40b062cf9e7d18fc03Zy3Nq4ElpT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.53206,
+        "longitude": 114.317446
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100006,
+    "isShield": 0,
+    "itemId": 14,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Python开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "11kRWrDS6I1.search.14",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "QuyYGhxKYeCua-21y-nX_Jzar2_SE3OOo0ZwMZDfXWAytPwUvLGUDk5ZKGkU0rkVIbQYEQxBSoDegVFmutsnAAI9YnVMkYJSeodTbzpIglPdYGvmW1kj6oS8-FEdPjhXKbKTnWEkPawU",
+    "showTopPosition": false,
+    "skills": [
+        "Django",
+        "MySQL",
+        "Redis"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "工龄奖"
+    ]
+}

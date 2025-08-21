@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "惠安县",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240607/607f1f3d68754fd071e4b1a8412adace5d38e428904abf30746bfcfa2945718a5ab8da6424f945d9_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "欧先生",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "其他专业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231216/7b5b554d84f9729c28f07048798bddf56ebb82ea50151ea9746bfcfa2945718a5ab8da6424f945d9.jpg.webp",
+    "brandName": "泉州米蓝",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "大红埔",
+    "city": 101230500,
+    "cityName": "泉州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a92da98ab0c20cd90XZz3d69F1RU",
+    "encryptBrandId": "06fe50292b46af371HZ62N-6GFY~",
+    "encryptJobId": "68fb198f430c58181HF70t28EldT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 25.013414,
+        "longitude": 118.781048
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100608,
+    "isShield": 0,
+    "itemId": 43,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6Sxtqtc7S5C.search.43",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "N1Q7LHiMZ1N2l-A17n__scqrUXsirTGlWoZVZy4H7-Gi13uMZPqO_2B40ihFTC6zjJP7-vNzhBypzxS08DIi4MwiFlNRwPEFOiW3G6zyGOGtAO7pvWKs3e65xQQG6dwsCkX0zVKccOabAT8~",
+    "showTopPosition": false,
+    "skills": [
+        "架构设计经验",
+        "微服务经验",
+        "数据库开发经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

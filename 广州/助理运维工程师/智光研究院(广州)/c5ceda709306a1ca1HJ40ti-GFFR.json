@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "黄埔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_16.png",
+    "bossCert": 3,
+    "bossName": "梁兆安",
+    "bossOnline": false,
+    "bossTitle": "HRM",
+    "brandIndustry": "电力/热力/燃气/水利",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201102/4d798a6ac78a025c39a30706f96f5b50d954c09cda71cbc390e2f0574a7a97dd_s.jpg",
+    "brandName": "智光研究院(广州)",
+    "brandScaleName": "20-99人",
+    "brandStageName": "已上市",
+    "businessDistrict": "中心城",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4133d9dcaaff18c50nFy2tm4FVVT",
+    "encryptBrandId": "c6fb064c883356a71H1609W6EQ~~",
+    "encryptJobId": "c5ceda709306a1ca1HJ40ti-GFFR",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.158729,
+        "longitude": 113.499775
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101205,
+    "isShield": 0,
+    "itemId": 79,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "助理运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8iIEJVvm2Np.search.79",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K·13薪",
+    "securityId": "QUb96g8DgM6Sj-S1C_roE6_MSs3SvI0ugZjxWc3sNVhPmZmILNbiRrgQ1Kzh_6o3Ez5RY67K6fVcmxIy0ljlyNYw1DY0RJ0xOEAS7EY-jJO6zRzd2PY~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维",
+        "运维经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ]
+}

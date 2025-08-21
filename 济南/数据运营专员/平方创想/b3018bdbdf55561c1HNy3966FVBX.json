@@ -1,0 +1,63 @@
+{
+    "securityId": "bY53YS7KnXNTw-_13-RB5ddaadWu0PQgbcTcUFxbO8jwi81gR40SXdukY5KeP3TM9ynYtridAwl9rVi9aAoK_gzjXYCJ8jrLqeovjSDOZs_ru5kN9GjnpVH1Duj9Y1zPvlq5KoqqYSo~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "5fed5ff163553ca00n1409-6GFtW",
+    "bossName": "夏青",
+    "bossTitle": "hr",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b3018bdbdf55561c1HNy3966FVBX",
+    "expectId": 1014042683,
+    "jobName": "数据运营专员",
+    "lid": "3nzlZTWaozl.search.241",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "英语可作为工作语言",
+        "统计/数学相关专业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "济南",
+    "areaDistrict": "历下区",
+    "businessDistrict": "泺源大街",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 241,
+    "city": 101120100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 117.036876,
+        "latitude": 36.659965
+    },
+    "encryptBrandId": "5bcb91b1d3adf00d1nR43tk~",
+    "brandName": "平方创想",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220425/7bf6f160950405e99e3c7a7d45d433b954fe0b62b766c6886de48b36cf85a4e9318826e133ef9278.jpg",
+    "brandStageName": "B轮",
+    "brandIndustry": "互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "员工旅游",
+        "五险一金",
+        "带薪年假",
+        "成长规划",
+        "北京市户口"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

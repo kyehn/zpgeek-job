@@ -1,0 +1,63 @@
+{
+    "securityId": "stZhHHwtvCm57-R1D8Log-NVK78u9UrJzTvi1A7iHCCnu0etzOvmKrZIwrqhHd1-OFBLVumJsjUNIl-2zvKT00eBM36sjSw7EJX1E0KNjtjlwhDYnEA~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240428/607f1f3d68754fd030801a18b29632c2cb099f3600cc90242ab72c80c348f56b049dcefbc9ff282e_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "ac1c27d21ce3879f0nR63961EVFU",
+    "bossName": "吴先生",
+    "bossTitle": "招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "71f4857fd7aec7cc1HFy3di7FlBR",
+    "expectId": 0,
+    "jobName": "it桌面运维工程师（比亚迪总部）",
+    "lid": "1hfZgCouT73.search.281",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "桌面运维"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "坪山区",
+    "businessDistrict": "坪山",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 281,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.360456,
+        "latitude": 22.678156
+    },
+    "encryptBrandId": "28198df443fb896b1HZy39m9Fw~~",
+    "brandName": "联想云领",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190222/d3b729b48071a80c5a6aa3b8333477ec9c4e6c18c76b1f8462d71377009e108a.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机硬件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "节日福利",
+        "定期体检",
+        "带薪年假",
+        "平台稳定",
+        "五险一金",
+        "员工旅游"
+    ],
+    "industry": 100022,
+    "contact": false,
+    "showTopPosition": false
+}

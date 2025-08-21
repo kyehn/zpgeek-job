@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "金女士",
+    "bossOnline": false,
+    "bossTitle": "行政",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201028/15c85f348b2803c83add3c94f0513264c5fcad2a8da1b8390b9ada970c9492ca.jpg",
+    "brandName": "微犊",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "26fd8184354ae1d70nR639q8EFY~",
+    "encryptBrandId": "f74da7cf5e50f78333By3dq0EA~~",
+    "encryptJobId": "efa646cbfae1a0ad1XFy3t--F1BU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.142055,
+        "longitude": 119.990309
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 231,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "运维专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2COppiqr0Vr.search.231",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "rRI8d7_xtF0mV-x1NyEHOBqyf_rvbFX2DhkvxfDmYBOqsALT757UmuzuPcK99dJLhRd4AYOtZiiwcdhpkY_KINR9KLQJ9_zKi_KDRGC2VUshg0LDgNYQzF2rxQjj61cg2xyoqRpbiqbk",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

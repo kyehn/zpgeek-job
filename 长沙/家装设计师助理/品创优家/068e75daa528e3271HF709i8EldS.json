@@ -1,0 +1,63 @@
+{
+    "securityId": "2Qo9bNb4vcHSm-H1dGfGOLOGcI1NDMGCBtVevNNPCZdLIwJnF-5DYy3IdklH4DP7s-_5pmzDz0aQjlfhCoB7S7KEO-ic9ZbA_xiO7G55eY6O6woMsVw_",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240218/607f1f3d68754fd007d8ccd9b12014da33868e2f274474915eea66d3c940c3abe8efe4ea89745241_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "1a59c9f6e4a874b50Xd82ty-FlVV",
+    "bossName": "曾先生",
+    "bossTitle": "设计总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "068e75daa528e3271HF709i8EldS",
+    "expectId": 0,
+    "jobName": "家装设计师助理",
+    "lid": "5FsZ9c0Za3c.search.297",
+    "salaryDesc": "2-4K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "室内设计",
+        "不接受居家办公"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "芙蓉区",
+    "businessDistrict": "马王堆",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 297,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.031793,
+        "latitude": 28.192232
+    },
+    "encryptBrandId": "b4d28fa3fba7c2271n1_39y6Elo~",
+    "brandName": "品创优家",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220818/7b5b554d84f9729c06b077d62cb77ceaf93519787da270641f9639e74a9e263dcddcf85277cee1c7.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "装修装饰",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "员工旅游",
+        "节日福利",
+        "带薪年假",
+        "零食下午茶"
+    ],
+    "industry": 100704,
+    "contact": false,
+    "showTopPosition": false
+}

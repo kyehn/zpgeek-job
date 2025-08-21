@@ -1,0 +1,62 @@
+{
+    "securityId": "HAIGCatWo20IM-s1sqnqT54UUHSMxP2-kDY1FJga9qotVdDT4YOBoqiywIddQKmx4Jnz1s6SGl1LQoAdnkCLdao6lApvIAcQkiN6nD3Jy3L08IdVJruc",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210226/b27b410ec5de65a76aa3cce71c81788fe4d8b6f2934cc773f871599581d202e8_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "1195b77fa71f65e90nVy3t-9GFFS",
+    "bossName": "张女士",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fc2e1700eba201cb1HR42t6_GVVX",
+    "expectId": 0,
+    "jobName": "多多买菜仓库数据统计员",
+    "lid": "2ZL38frwumL.search.97",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "多多买菜"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "白云区",
+    "businessDistrict": "太和",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 97,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.323682,
+        "latitude": 23.276748
+    },
+    "encryptBrandId": "5524c3303caa620c1nd_3d27FVE~",
+    "brandName": "广州创德",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "全勤奖",
+        "节日福利",
+        "零食下午茶",
+        "团建聚餐",
+        "保底工资"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,60 @@
+{
+    "securityId": "GCTUwMwJJzhRy-b1GFRJgVjRQbcyYLXIC8XlDR_pAeJ6UabFEyzCh_PoHV1sHKGrR4isTnAHgVGOQtC_Fz0HAeGiQh33-e4_57dBVmHSQTdOm9dj",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200302/12d23def866883b87ee5c42f421b098bf2afb7ecd5914ead026a037ababeb94f_s.png",
+    "bossCert": 3,
+    "encryptBossId": "e7d33200268cb8f73nJ43d25FVI~",
+    "bossName": "郁先生",
+    "bossTitle": "董事长",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ba95632fa05c89420X183Nm0ElY~",
+    "expectId": 0,
+    "jobName": "性能测试员",
+    "lid": "5N12uV6Vzpp.search.29",
+    "salaryDesc": "6-7K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "普陀区",
+    "businessDistrict": "真光",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 29,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.365358,
+        "latitude": 31.264664
+    },
+    "encryptBrandId": "743a0cbc32943ac90Hd-29S5Ew~~",
+    "brandName": "中演检测",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "文化艺术/娱乐",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "年终奖"
+    ],
+    "industry": 100104,
+    "contact": false,
+    "showTopPosition": false
+}

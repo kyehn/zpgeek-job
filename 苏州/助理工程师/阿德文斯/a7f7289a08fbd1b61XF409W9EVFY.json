@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "吴江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "陆春晓",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190731/906a3c7d35e8452a78890399300252bd820bb529591a4af34e4086a6618fb6fa_s.jpg",
+    "brandName": "阿德文斯",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "松陵",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d76ffd223a491fd30nJ609i6EFdR",
+    "encryptBrandId": "f1445688c6d1fc7a1HNy2N65FA~~",
+    "encryptJobId": "a7f7289a08fbd1b61XF409W9EVFY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.131703,
+        "longitude": 120.702224
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 139,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "助理工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rng4OHS0WF.search.139",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "7GaYkXEErqDAu-L1MU-Z2qSjkoD-qtajRwbzibdvuZRRwAJ170tLaLvGk8W8xMUDv8WfiAL3T3Iq2fZZCwOUhrx3-RfLWxQE-mNVHoz6ROGBOyzyreZaEwcbrH35zvaYMYSYe1EO0Ng3AA~~",
+    "showTopPosition": false,
+    "skills": [
+        "智能硬件/可穿戴设备"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "加班补助"
+    ]
+}

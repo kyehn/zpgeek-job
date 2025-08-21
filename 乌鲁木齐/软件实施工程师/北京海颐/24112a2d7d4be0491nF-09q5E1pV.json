@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "初绍飞",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190409/5fad0bafc1f34697e83fce9a3275b08abcba571b38a389205987e074f472d4de_s.jpg",
+    "brandName": "北京海颐",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101130100,
+    "cityName": "乌鲁木齐",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "be565b57cf71b7d31HF93tq5FFA~",
+    "encryptBrandId": "f3aa67896b5ebfb31XRy0tm0FQ~~",
+    "encryptJobId": "24112a2d7d4be0491nF-09q5E1pV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 43.826628,
+        "longitude": 87.622099
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 171,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5d6ArSeyAqL.search.171",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "CKeGhhlkxowAJ-B19g8Q37_iSO6bahEJp0i6RUIZp219fgA1GLrCimt4dOCZRuKy-56uhlYmJhHr1iEX8n7rsK8PNdPA8PQlLwSiGY4wHdKWwrPzjnwSSrOK9wLQSfmW-maeKNTAvG9Z",
+    "showTopPosition": false,
+    "skills": [
+        "MySQL",
+        "实施工程师/顾问",
+        "软件实施"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

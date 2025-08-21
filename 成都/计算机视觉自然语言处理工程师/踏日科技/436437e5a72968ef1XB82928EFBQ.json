@@ -1,0 +1,61 @@
+{
+    "securityId": "_L9E1S2fbJ5vq-x1RGtj6IAc_Vw5ULZNttYFIBj90pQVFeh-EwM-x6tcgBw7rvY1ETZ-saIgTsce8Q8kYbrXujUARuW1yWvL1Nq_qzEDexqsXXK8Ucs~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_16.png",
+    "bossCert": 3,
+    "encryptBossId": "52a954a7608b7c261XV82d-1EFo~",
+    "bossName": "王先生",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "436437e5a72968ef1XB82928EFBQ",
+    "expectId": 0,
+    "jobName": "计算机视觉/自然语言处理工程师",
+    "lid": "2a2blJDCAZf.search.128",
+    "salaryDesc": "6-7K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "成都",
+    "areaDistrict": "成华区",
+    "businessDistrict": "建设路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 128,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.097953,
+        "latitude": 30.653594
+    },
+    "encryptBrandId": "f201c9e00e86e6b21XR929--FlM~",
+    "brandName": "踏日科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220309/7b5b554d84f9729cf95ac3dee730c2dcc6600f65058926322a73858e97f6e65d12bcb518633b97f2.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "全勤奖",
+        "加班补助"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

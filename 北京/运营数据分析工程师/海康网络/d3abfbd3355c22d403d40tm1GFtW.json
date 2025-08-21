@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": true,
+    "bossTitle": "人事",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211014/7bf6f160950405e9480c9b8f9bdaf499fb51475ad4361ef7b84c0cf529c17c0bca057ac50a24b8d5.jpg",
+    "brandName": "海康网络",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "西直门",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9880ffc22264f3780Xd-2t-0GFQ~",
+    "encryptBrandId": "4224bf97a9cb3ce93nB73N26FA~~",
+    "encryptJobId": "d3abfbd3355c22d403d40tm1GFtW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.919309,
+        "longitude": 116.359076
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 83,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运营数据分析工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4KoZv0Gs1gb.search.83",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-11K",
+    "securityId": "4rTa4cYzu85lm-O1DLR92B2EnxAz82LP4A9Rb16oP4QPbdP3dmKV8sCBCDLN5fYjKEceIc3Z7MajkCe-_Ive8vTBLfexzjCuIA2Fe64kDdeABPJ4zQBFRgeJVwhvd2vSQ4QmU9AjJWqlImh8Nx05rUs76tBXSmfSI1hqo4_rhcboTgMr",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "五险",
+        "加班补助",
+        "全勤奖"
+    ]
+}

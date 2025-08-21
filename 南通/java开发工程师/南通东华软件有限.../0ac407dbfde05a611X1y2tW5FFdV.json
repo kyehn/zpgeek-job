@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "刘女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "南通东华软件有限...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101190500,
+    "cityName": "南通",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3e0b36f35378626103R92NW_FFQ~",
+    "encryptBrandId": "cd6f64740c54ee6003F53N20EQ~~",
+    "encryptJobId": "0ac407dbfde05a611X1y2tW5FFdV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 32.530415,
+        "longitude": 120.525663
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 62,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "HYYPIRMSet.search.62",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K·13薪",
+    "securityId": "CRBPc08doSivE-Q16YdfgTkoVPH7kn0oryq_1vDKO5wu9SwDb0vnYMYEpurlCZF6hbfTcPLBChujBP5nL3z1fnvYSElZ__OiqdInXtDGUiGvIQMAlPVXdgl6I29vYla-TYMNK71Tdsmg",
+    "showTopPosition": false,
+    "skills": [
+        "后端工程师",
+        "Java"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "定期体检",
+        "五险一金"
+    ]
+}

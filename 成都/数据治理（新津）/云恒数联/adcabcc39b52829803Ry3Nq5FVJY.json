@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "新津区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200811/e7201be3464a67c269de257438ffa7748b4f9e24cb24b569fc9a222820cac962_s.jpg",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200422/31a4e7ab0277f41bcfd096c8dfde4db7b5656f9d9ab242c6b64c4d6a277e07a6_s.jpg",
+    "brandName": "云恒数联",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "五津街道",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "08edf153158cfa521nZ62tu8EVs~",
+    "encryptBrandId": "946bc7d63af6c2e80HF80969FQ~~",
+    "encryptJobId": "adcabcc39b52829803Ry3Nq5FVJY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.435851,
+        "longitude": 103.788354
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 85,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "数据治理（新津）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7NKYUo2Lva7.search.85",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "1AgexGn5k1YWW-F1WCimFKCrh7pXOUuzST43P9uDqB6TS3EMwJKpAgYcePi3Jjw670TqZz9VFGR2vFyRPmrcqPRsuvDQM21UG4GPG9CMmJfuB2uzE7tS4y_RkVdhfnkiT41OGaLAUE3l",
+    "showTopPosition": false,
+    "skills": [
+        "数据治理"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "节日福利"
+    ]
+}

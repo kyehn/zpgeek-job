@@ -1,0 +1,61 @@
+{
+    "securityId": "b6QH7ZOCoxGHY-t1Qf5FIcsthwkXiAoJt5lnuHflf1de4iOvMjhlRoash7TruCrsBxfcgCoeEIVWwPFChoKvIMheBOHU4CrXxl4nQ9H7icLP8oV8jwQc",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220424/607f1f3d68754fd0f832225aaf00af548186939c1eaf41512224bdff1408570ac80cacc3982955de_s.png",
+    "bossCert": 3,
+    "encryptBossId": "08bf964af588e0b20nZz39u9EFZU",
+    "bossName": "朱女士",
+    "bossTitle": "招聘HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "095c4eddccd5bd5a1HN-39S0GFBY",
+    "expectId": 0,
+    "jobName": "数据需求分析师(外派岗）",
+    "lid": "2zFDOUZu0rk.search.180",
+    "salaryDesc": "7-9K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数学/统计相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长沙",
+    "areaDistrict": "岳麓区",
+    "businessDistrict": "含浦",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 180,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.950015,
+        "latitude": 28.132249
+    },
+    "encryptBrandId": "d9d3503123daa6231Hd63Ni4GFc~",
+    "brandName": "京信(长沙)科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240227/7bf6f160950405e912acccbe78f3febe779c07c9fa7cd4432224bdff1408570ac80cacc3982955de.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "团建聚餐",
+        "带薪年假",
+        "绩效奖金",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

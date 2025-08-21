@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230830/607f1f3d68754fd0fe6921241d2e7909be59204edb0e76dedb19f495eff99a03218791d29d59c9aa_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "贺女士",
+    "bossOnline": false,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "苏州索科特克智能科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5551a6afa645ba7e0XV53920GVBV",
+    "encryptBrandId": "ee44e2c6bc7433a31X1z29W6E1s~",
+    "encryptJobId": "e35873471490e7701HR80ty9EFNX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.320894,
+        "longitude": 120.353237
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 28,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "AGV实施学徒工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9aUd51EWmp6.search.28",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "sK1KZoLZDxPgf-715dXXpojCor5llD2xsPJyVOrpexZp9PQMXKEbChPIOPQLcEqHO210sZmiBt7kwCTCZPtJVpPTRAAKNF5mtqh95jKpm8rxXdRbfOofWTKamYrZKhHoMBu5K_Ijl3pR8kc~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "包住",
+        "保底工资",
+        "五险一金"
+    ]
+}

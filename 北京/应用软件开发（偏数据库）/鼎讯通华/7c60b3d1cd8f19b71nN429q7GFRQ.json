@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "于泽新",
+    "bossOnline": false,
+    "bossTitle": "项目经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "鼎讯通华",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "望京",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "737743c324bc00eb0nV-3tW4GFNV",
+    "encryptBrandId": "1091b35e394a06f41nF73di1ElI~",
+    "encryptJobId": "7c60b3d1cd8f19b71nN429q7GFRQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.989856,
+        "longitude": 116.478783
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "应用软件开发（偏数据库）",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7M1Zd7IFT1t.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K·14薪",
+    "securityId": "8mnflUPAuStCS-w1X5t-js9XaVBwJUzvi_nN5ZNdn7uKqtjLHjRtsOC3fz5GN_Qf4T5IPPF-1fR2EaWsTKMeBMse6k7BHfruBPBF8WfzaQz5AVVLfKlQBx6s09rrtOx4vzW_eLShVN9-u00~",
+    "showTopPosition": false,
+    "skills": [
+        "Oracle",
+        "MySQL",
+        "软件实施"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

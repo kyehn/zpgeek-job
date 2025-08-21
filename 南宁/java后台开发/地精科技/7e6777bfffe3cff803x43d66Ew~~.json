@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西乡塘区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "吴冬强",
+    "bossOnline": false,
+    "bossTitle": "技术总监",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20161024/385c5af62cb1e19079e9de605e52b978c1ce812f6b35837cbe652d7c7aa71d52.jpg",
+    "brandName": "地精科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "高新区",
+    "city": 101300100,
+    "cityName": "南宁",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "29ae7d13b945eaef1nV839S5GVA~",
+    "encryptBrandId": "3a3083672b1a63461XN42tu0",
+    "encryptJobId": "7e6777bfffe3cff803x43d66Ew~~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.867588,
+        "longitude": 108.250428
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 89,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "java后台开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7w9U9qWj72Q.search.89",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K·13薪",
+    "securityId": "bzJYK6rDsc21N-916SmeGkRjHlCI_w58trBqXKm0TPhVGpzRHnONT3CNHP4svTioVjxzUK-MwyLGabVTwvKmcg-N3Mg3GCk145EPbI8mPwEJlSWQ3daAAuqC3p_2hHwCjFKEWaNF",
+    "showTopPosition": false,
+    "skills": [
+        "数据库",
+        "Java",
+        "Javascript",
+        "SpringMVC"
+    ],
+    "welfareList": [
+        "年终奖"
+    ]
+}

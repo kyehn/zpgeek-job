@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "黄埔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250317/607f1f3d68754fd0dd293ebe2d3e8d1ede266dfd469435cdb3d6022725569aff0869e4c024d1a272_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "郭先生",
+    "bossOnline": false,
+    "bossTitle": "技术部经理",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220817/7bf6f160950405e9f2a1afa88551240e50af184b2fd6b8ef805f3ac9b06926de95ed6010a7c739e0.jpg",
+    "brandName": "广州元生",
+    "brandScaleName": "100-499人",
+    "brandStageName": "A轮",
+    "businessDistrict": "科学城",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fc5fb9670b3c8d060n153t66E1c~",
+    "encryptBrandId": "a0ca963f4850e61a0HB639m8EA~~",
+    "encryptJobId": "2baf3d4a945029fc1X1z39u-FlNZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.16032,
+        "longitude": 113.444942
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 57,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "大数据",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7MbOF53If3C.search.57",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "XhwK_mevCJSpN-y1metdQ7rHlVRI2KojstT7mpd1oJ3TSxL3EtIQtOagxBvQd9wiHWstwA47mlHmjxXGA3AgjszfeQrsT6wDNAr60awIRDZf4a2TwAAeGoOPAUXcrIRdBPTudw7DgJfF",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "节日福利",
+        "五险一金",
+        "加班补助"
+    ]
+}

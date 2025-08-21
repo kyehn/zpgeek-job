@@ -1,0 +1,63 @@
+{
+    "securityId": "QWBEyt4h0MkHD-_18TFKHqwPYHjlnNY0moOA_SWgvq8GPg8Jrt6JQVGD2vORpYjSMQHRYtfoR1ioInNZImfAMXrGbYJ-P20e0R3bn8mAYdVCjAjttA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200413/0a2f007abfcfa651cfad17b37acb0eaef7ff8fd0791c2bba17512e903cc361d1_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "b5a2c7519a896e231nR529S-FFpZ",
+    "bossName": "王先生",
+    "bossTitle": "电商运营",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "0344507945a622f50HFz39i6F1s~",
+    "expectId": 0,
+    "jobName": "美编文案",
+    "lid": "30ncRkHH3eE.search.255",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "美术编辑",
+        "文案策划",
+        "页面排版",
+        "电商文案"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "苏州",
+    "areaDistrict": "吴中区",
+    "businessDistrict": "越溪",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 255,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.609066,
+        "latitude": 31.218641
+    },
+    "encryptBrandId": "c4703d242823e8421nF-39S_EQ~~",
+    "brandName": "云思博雅",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190829/220a87e64c40dac5fd0ecb876974150e9016a2993797e2e08337226ce628a686.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "新闻/出版",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "员工旅游",
+        "节日福利"
+    ],
+    "industry": 100102,
+    "contact": false,
+    "showTopPosition": false
+}

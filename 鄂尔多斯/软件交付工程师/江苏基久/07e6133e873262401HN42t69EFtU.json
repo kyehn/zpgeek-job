@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "马先生",
+    "bossOnline": false,
+    "bossTitle": "江苏基久内蒙古分公司HR",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "江苏基久",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101080600,
+    "cityName": "鄂尔多斯",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "12535b9e3a20c3300ndz2966FlNR",
+    "encryptBrandId": "850b7fa4fe3a29ef1nV539S5FFU~",
+    "encryptJobId": "07e6133e873262401HN42t69EFtU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.839073,
+        "longitude": 109.93816
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 96,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件交付工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1Je4cqQ7kt3.search.96",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "Zzqr6IbQLFRX8-g14xu9EufKlH_ukvcMt8ask2n8IA4gtLHz65fsS9bN2-6yez5rkAJOhi7bqHGViyp_9dZ9Z4kKjhU9tm7KmmfXNbuSb6b8rMoY3pOv4jaIytF8PCqXatGgsBE0xwKtRWU~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "交通补助",
+        "节日福利",
+        "通讯补贴",
+        "五险一金"
+    ]
+}

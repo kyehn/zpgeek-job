@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250221/607f1f3d68754fd0165e8f076f34a9797c3e501a3512f548b9bbe97269d9618676152a0dd938f9fc_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "黄女士",
+    "bossOnline": false,
+    "bossTitle": "高级招聘HR",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240330/7bf6f160950405e9f463920f8769217b5a6c20ec809ab962a743bec59d9e2903ec267b7471a62f30.png.webp",
+    "brandName": "成都小咖邦智能科技",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "双楠",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d87d64de3756b3710nV82t21GFdU",
+    "encryptBrandId": "573d3bf18d2d4f8b1Hd93Nm9FVc~",
+    "encryptJobId": "685e85991f767ff703Zz2N2-FFFV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.629748,
+        "longitude": 103.971905
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 7,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "AI数据标注（入职买社保不销售）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "39e1UbckUxH.search.7",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "WDtoKk-s_n9C_-I1Dmm6mitRmGI3EGsh8h8zOWmOe0JN27dS0eTEfofnFoX1em7gYl-mJwwvTgHO7Qs_YpXW6RdijfnpR_9WOOWoX8T0hKcEVGXYZ-_DYnfN6bV8Rt8lUU1l-lvQyLVRngM~",
+    "showTopPosition": false,
+    "skills": [
+        "文本标注",
+        "不接受居家办公"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "全勤奖",
+        "加班补助"
+    ]
+}

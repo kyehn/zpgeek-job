@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "临平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230112/607f1f3d68754fd0068b6a26f01ab3c811d2e965f858be3c641cc104923611469834a011c6f66296_s.jpg",
+    "bossCert": 3,
+    "bossName": "时女士",
+    "bossOnline": false,
+    "bossTitle": "行政人事经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231010/7b5b554d84f9729c90d762fe7e57a4cade8e794746c6f0e0641cc104923611469834a011c6f66296.jpg.webp",
+    "brandName": "亿律云",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "临平",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1930f9682255ce4d03x72tm-FA~~",
+    "encryptBrandId": "712c9e1dcdfbcfe21nx_2d21F1U~",
+    "encryptJobId": "2100b447adcdf2801XV-3dy9FlpQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.390459,
+        "longitude": 120.297599
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 97,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5ZnKvlXg1L1.search.97",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "PRF21uZlcKFWm-_1xzK1tso_WtSs1rafBrmegzPYVovrGKdFQe-nwRHa4djhtPkLOHlmhwbeIE7vdjMEOXiImwDpbGCr2qzc35gYHbbugiQyDuhfRZNGYAuMEPc88e94-PNL237pr3fE",
+    "showTopPosition": false,
+    "skills": [
+        "Linux",
+        "系统运维",
+        "MySQL"
+    ],
+    "welfareList": [
+        "底薪加提成",
+        "五险一金"
+    ]
+}

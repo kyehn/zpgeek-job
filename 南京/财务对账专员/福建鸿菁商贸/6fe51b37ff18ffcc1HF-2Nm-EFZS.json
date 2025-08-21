@@ -1,0 +1,63 @@
+{
+    "securityId": "UKZm-1jtNzCF7-O1vzDZhcMGTRbq0ujIAGp2npDKngbjnowH2rabtXMdJPhp8vYdY-ZubIQowfVyL1DGYcuWlgHcuP7kt2p6d1wq7Avnh9OxGw19YC9b",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200615/58ae04ee06dc119ddb0d3b3c93a999759efea8e9c850144233a2d3421796cb9b_s.png",
+    "bossCert": 3,
+    "encryptBossId": "7a7f9afd5ea2ec4b1nV53t21GFVW",
+    "bossName": "骆女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6fe51b37ff18ffcc1HF-2Nm-EFZS",
+    "expectId": 0,
+    "jobName": "财务对账专员",
+    "lid": "34pELc63R6T.search.213",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "金蝶EAS",
+        "物流",
+        "初级会计师"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "南京",
+    "areaDistrict": "六合区",
+    "businessDistrict": "龙池",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 213,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.79872,
+        "latitude": 32.31825
+    },
+    "encryptBrandId": "02bb898813c7929a1Hd_2d-7EVs~",
+    "brandName": "福建鸿菁商贸",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "其他消费品",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "有无线网",
+        "绩效奖金",
+        "意外险",
+        "补充医疗保险"
+    ],
+    "industry": 101013,
+    "contact": false,
+    "showTopPosition": false
+}

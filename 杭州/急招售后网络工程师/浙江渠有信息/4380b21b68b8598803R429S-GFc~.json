@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "戴玉环",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210311/110d54fdeba3a65c6a0ea94f0cd4cb47bde48d60980b86cf38427d1a4b7fd076_s.jpg",
+    "brandName": "浙江渠有信息",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "文三路",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "414c0ed5268fb5400XV62t67GVM~",
+    "encryptBrandId": "f193141b7104847503Z_2Ny_GA~~",
+    "encryptJobId": "4380b21b68b8598803R429S-GFc~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.275181,
+        "longitude": 120.122033
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 219,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "急招售后网络工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2C47GfKRwcS.search.219",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "TrQe_uSkji3SJ-01h2T-kseWO-SSukKp2GklpNkstKW7U_HKmdDvPhWNnGxteHTvNb1TClPPm1e3IySeQ_G8uGuGhS911cXzfaWvJKL2lb-m9a_zUoE98LJbPm_osIxqWFpAU2FhpRY~",
+    "showTopPosition": false,
+    "skills": [
+        "网络"
+    ],
+    "welfareList": [
+        "全勤奖",
+        "带薪年假",
+        "员工旅游"
+    ]
+}

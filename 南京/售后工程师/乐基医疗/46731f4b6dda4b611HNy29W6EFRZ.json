@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦口区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240729/607f1f3d68754fd0f54257e8f0f2c8f42456962224c4fbd96fff13bb5de294f917fb1992a3c99e5a_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "医疗器械",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201228/cc079566b26b4f20500ad743efbd0dee2c5ef3a22d2868e8a03a88b7d45172b0_s.jpg",
+    "brandName": "乐基医疗",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "江浦",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0238272f969fc1730nJ52t-9FldR",
+    "encryptBrandId": "e98b9d0220d0c02f0nFy29-7EQ~~",
+    "encryptJobId": "46731f4b6dda4b611HNy29W6EFRZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 32.076864,
+        "longitude": 118.668153
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100403,
+    "isShield": 0,
+    "itemId": 84,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "售后工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "27ddsAOppoF.search.84",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "hHSuyEqpni7LA-Z1ZI-3Ql4Mol11CRd9G6sTyhdYHX9ziCP4y8edgLLGQ0El-cjTkUA1DQLdpOmg8UaLVhpBeWt7GGogfQRYHmyeb6wx8b1YpwKzInSBO3v9-zSwfqCFz120AUPjRVjkGA~~",
+    "showTopPosition": false,
+    "skills": [
+        "机械/电子工程相关专业",
+        "机械/机电设备技术支持经验",
+        "机械/机电设备"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假"
+    ]
+}

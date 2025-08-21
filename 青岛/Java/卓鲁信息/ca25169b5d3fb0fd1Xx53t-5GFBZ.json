@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "崂山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230612/607f1f3d68754fd0fe8c27722a22f049759dfbfec2d8e2bbb389a75c40140914078cd320aad450bc_s.png",
+    "bossCert": 3,
+    "bossName": "张现垒",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210315/624acbbd017d174098e89525949220be0361ce30352b70a148c0a43c3868101d.png",
+    "brandName": "卓鲁信息",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "东韩",
+    "city": 101120200,
+    "cityName": "青岛",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8fedb826bf53f1130n183t64FFVR",
+    "encryptBrandId": "8b13290ee3c2dd121nBy2d-7F1o~",
+    "encryptJobId": "ca25169b5d3fb0fd1Xx53t-5GFBZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.133756,
+        "longitude": 120.436973
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 16,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Java",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8Fg3yKhnkQ0.search.16",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "luMcyMINWSAFj-f1kw9n6qHfecD1TioUez4lFKu2Srhkpa9FynM_-20sjS7rnDhoMl-DckziQkZMoISTUhzHi5VpYC_U556ZABOL5Hx2n56l3NUEivadIZvGQqE29ya9eT2oguHvObxGg6M~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "员工旅游",
+        "节日福利"
+    ]
+}

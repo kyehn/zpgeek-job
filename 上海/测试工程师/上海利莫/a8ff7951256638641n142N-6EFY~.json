@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "徐汇区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+    "bossCert": 3,
+    "bossName": "王鑫箭",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "移动互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160801/2bab07ca7ae3b9feeccbcce03a7ba81b355fa262f69ce3cf05231e7d3ddf9f75.jpg",
+    "brandName": "上海利莫",
+    "brandScaleName": "20-99人",
+    "brandStageName": "B轮",
+    "businessDistrict": "漕河泾",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "bdf2c390e49c7db103F63tq8EA~~",
+    "encryptBrandId": "f12d344e023717f01nJ52t64",
+    "encryptJobId": "a8ff7951256638641n142N-6EFY~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.167297,
+        "longitude": 121.398056
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100019,
+    "isShield": 0,
+    "itemId": 189,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5XGRnJD3sxF.search.189",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "MFPqfE1KR1w0_-s1Ju2HPju6C8XKIR0s07zzsZ0F0Bk5gDrgfd5JPXZ3xv_8H61uAwFefAIH0mKyOdZu3c2YbvJ1a5lGr5FJgebMLseMWBmQHS-6ynOQkvaUu59qRwJxlqpSKCMy",
+    "showTopPosition": false,
+    "skills": [
+        "ios测试",
+        "android测试",
+        "功能测试"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

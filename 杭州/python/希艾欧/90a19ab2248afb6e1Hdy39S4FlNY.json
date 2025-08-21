@@ -1,0 +1,61 @@
+{
+    "securityId": "6mpqUCpKVL1Nj-u1ZP34180l4HnM8ExgJlqgYL_nOkj_n4Vz8XiRFif4AHYeOMBg8FNcseQ2EwbcxhJg_Ae6kFjCUF5wHRSjX_PFqadhDf6Jos1OacAB",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231029/607f1f3d68754fd0187e24704c9a1854acc2e6932eebb5c8721a7701dde204d02934d372cfbea57f_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "e0ff293f480081290nV92NS1FVpS",
+    "bossName": "盛女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "90a19ab2248afb6e1Hdy39S4FlNY",
+    "expectId": 0,
+    "jobName": "python",
+    "lid": "1KZfo5gpe2n.search.48",
+    "salaryDesc": "7-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "仓前",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 48,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 119.96473,
+        "latitude": 30.277707
+    },
+    "encryptBrandId": "1956f25254c7b6381nN52Nq-EFM~",
+    "brandName": "希艾欧",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230131/7b5b554d84f9729c75bad023dbaadafb4b02a27ef2449b4ed4fbee32b049babfa9a616d78a132867.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "全勤奖",
+        "住房补贴"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

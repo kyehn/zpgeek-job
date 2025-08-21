@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250224/607f1f3d68754fd0f8c12a8316fa9187696d48130dac4eeee3f6d95c033a594c1486a13649930e2d_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "李婉婉",
+    "bossOnline": false,
+    "bossTitle": "HR.招聘专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230508/7bf6f160950405e96e33a9826af370cf4a550b05918ea71f3766f2dd63baf8986433ae5ee9cc5173.jpg",
+    "brandName": "江苏信鸿数据技术",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "徐东大街",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "01bf08ffbedf49030HZy2tq1FlQ~",
+    "encryptBrandId": "2640a16c3e33eba71XJ73NS-FlY~",
+    "encryptJobId": "107235adc2942a5203d-09m9FlJQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.582159,
+        "longitude": 114.355023
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 22,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3Q08juCZbcF.search.22",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "DUkHkDz4DXIsG-q1MqVgwZmPwBRMyHCBJznYI3I6cgFJAGfQAt65Z4gvYxIsBsTqSlivr-4syJF3XDot56LzJsXcMmhgddjo0AmfH80EKQPuk1oCEQItXcguRSyyb1NI_QjCOZTnhS9FMQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "MySQL/Oracle",
+        "SQLSERVER、",
+        "达梦"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

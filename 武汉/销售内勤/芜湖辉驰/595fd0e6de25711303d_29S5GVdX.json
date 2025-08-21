@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "曹婧",
+    "bossOnline": false,
+    "bossTitle": "人事HR",
+    "brandIndustry": "汽车零部件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "芜湖辉驰",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a75f6e4ab38c20dd0HFy3Nu9EFc~",
+    "encryptBrandId": "9f57be0e9a424ee503V62dS0Eg~~",
+    "encryptJobId": "595fd0e6de25711303d_29S5GVdX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.570327,
+        "longitude": 114.062232
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100802,
+    "isShield": 0,
+    "itemId": 55,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "销售内勤",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3R4JvMriBlg.search.55",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "gD6KYlWQ-u_E5-91UiUZhxOzKES42MzbJHfK8HlbYiy8QQyEHju_vcDYfWZiqDYGUDMDCpYs21NYbJqolQI8q17-VKs6qUvPQHMGqMCIC121hadfuvJOXp7jLba97HIHKut9hJHl2NiQ",
+    "showTopPosition": false,
+    "skills": [
+        "汽车",
+        "沟通能力"
+    ],
+    "welfareList": [
+        "意外险",
+        "节日福利",
+        "餐补"
+    ]
+}

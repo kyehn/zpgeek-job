@@ -1,0 +1,63 @@
+{
+    "securityId": "aDULHf7Nuhoeh-91iVhKvnhHvJXQVyZ55Q-1ZS-dtDrMw5NsQDGg5TWL1K8JTQjn81y8Ku-9-ctFJgD-IpDwXuO0PSNCftLwjcklGPnMdhoVgmLatg~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200801/41e7afee3003d655c4f30c60185019d6551705dac83ee0c12fdb93557914a8c8_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "f4366f82f0ce5d261nZ63t69EFNS",
+    "bossName": "肖女士",
+    "bossTitle": "行政运营经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e8ae2d766cdf34093nRz2ty4F1I~",
+    "expectId": 0,
+    "jobName": "技术助理",
+    "lid": "1Iuc6NtUgaS.search.218",
+    "salaryDesc": "2-4K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "安全员",
+        "技术助理",
+        "项目助理"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "唐山",
+    "areaDistrict": "路北区",
+    "businessDistrict": "友谊北路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 218,
+    "city": 101090500,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.135803,
+        "latitude": 39.650789
+    },
+    "encryptBrandId": "7cee60e3c53596a303R82tm5GA~~",
+    "brandName": "河北安慈",
+    "brandLogo": "https://img.bosszhipin.com/beijin/boss/brand/common/img/20240527/0a1ba9d54e3d0f866a705ac4e9d0743f4e790a5655841ab96bb61e3b7bce0931da574d19d1d82c88.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "企业服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "零食下午茶",
+        "节日福利",
+        "员工旅游",
+        "年终奖"
+    ],
+    "industry": 100015,
+    "contact": false,
+    "showTopPosition": false
+}

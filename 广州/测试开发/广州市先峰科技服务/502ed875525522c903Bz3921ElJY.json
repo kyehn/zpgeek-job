@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "黄埔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240703/607f1f3d68754fd0ce2354c84296efca954c3cf2cbcee21a38a64ee1cc9f73ecb95839f1a8f49ad3_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "徐佳佳",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240929/7bf6f160950405e932eb72fae0e905a4847c338b41c4894838a64ee1cc9f73ecb95839f1a8f49ad3.png.webp",
+    "brandName": "广州市先峰科技服务",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "科学城",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ae73b754bdf861541XR-2du-EVQ~",
+    "encryptBrandId": "4fc8be6ea63a70be1HJ90t64EFM~",
+    "encryptJobId": "502ed875525522c903Bz3921ElJY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.1618,
+        "longitude": 113.473979
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 55,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cSoYBx4vbI.search.55",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "HEs6u5lhktHwN-k1X6G8xVqaEFIgEX46AbRRPvDgqxkNVExtou9mDgbcqD4C5pS1SIeYMJP0G7FU9qpOL2c-OwF2AxH7zJftpTLv72xgCS039s9maBlUlm4WVJdaAoXfvMImVHVmKc0Njw~~",
+    "showTopPosition": false,
+    "skills": [
+        "测试开发"
+    ],
+    "welfareList": [
+        "节日福利",
+        "零食下午茶",
+        "五险一金"
+    ]
+}

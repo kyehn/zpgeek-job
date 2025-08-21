@@ -1,0 +1,61 @@
+{
+    "securityId": "d1uGHSqN8QBv8-G13J7Cjm17OCkLpuR1DpyUlKiKU8yDD-E-Jl2jkKZjoKwDPmxZWfqkn-94wpAA5rhiI8IDiJjKKA_JUakmcOMuZbKiRnlJIKFxhDP5ms2GLFHiPM4Oi-7750nlNt0~",
+    "bossAvatar": "https://img2.bosszhipin.com/mcs/useravatar/20151101/f0c7b24a4561e6eb5f1b877d256d98078c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "2b71e04a09e7d0e01XF439y-GA~~",
+    "bossName": "滕先生",
+    "bossTitle": "创始合伙人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "572b5cd84f9726d81nR_3N20FFZX",
+    "expectId": 1014042683,
+    "jobName": "产品实习生",
+    "lid": "2bd9CvlOKF4.search.186",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "自然语言处理",
+        "数据分析",
+        "私募股权"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "中关村",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 186,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.310064,
+        "latitude": 39.977429
+    },
+    "encryptBrandId": "997741831d3350913nB53tm-Fg~~",
+    "brandName": "中数智源",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200923/b823fadf8256a9c6037eda03d31303a73497416ba46e13b7f7dd8a8e5709395a_s.jpg",
+    "brandStageName": "A轮",
+    "brandIndustry": "企业服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "股票期权"
+    ],
+    "industry": 100015,
+    "contact": false,
+    "showTopPosition": false
+}

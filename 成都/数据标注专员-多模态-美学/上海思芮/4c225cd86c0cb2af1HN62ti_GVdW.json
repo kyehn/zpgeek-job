@@ -1,0 +1,60 @@
+{
+    "securityId": "RaD6hCzTwoQQI-z1tSQsPNo8WTRtuE-Za7DCvpf0vU5sxr2UHkW8-k4Vahr5to_sql-xgnG3yVUvLv66w3QRlMuFxpiNg2tJkq506pGMv5iNogU0ng~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240408/607f1f3d68754fd0d6c2ef6ac6666aecbeddb6d6e372e0fa83c07dd7d102ed04786e9eb0fcee9990_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "73cff2aea08592c60Xd73tu7EVFS",
+    "bossName": "宋女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4c225cd86c0cb2af1HN62ti_GVdW",
+    "expectId": 0,
+    "jobName": "数据标注专员-多模态-美学",
+    "lid": "5IEcaVNuw3U.search.222",
+    "salaryDesc": "9-13K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "全职工作",
+        "不接受居家办公"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "成都",
+    "areaDistrict": "成华区",
+    "businessDistrict": "建设路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 222,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.123825,
+        "latitude": 30.666612
+    },
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "brandName": "上海思芮",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

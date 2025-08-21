@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "谢女士",
+    "bossOnline": false,
+    "bossTitle": "HRBP",
+    "brandIndustry": "医疗健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190822/b5e4952f99bbfa030e9e3494dec8cfd034b05046c89c9c65e1c8bf7a96f60a51.png",
+    "brandName": "三生制药集团",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "张江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "df39030b83afbaab0n1_2t69GFY~",
+    "encryptBrandId": "3231e50db9380e4b0nNz29y1",
+    "encryptJobId": "a5286c7b382c28ac03R63dS4GVRZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.21208,
+        "longitude": 121.626411
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100006,
+    "isShield": 0,
+    "itemId": 21,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "HR数据分析管培生",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8QunP8TgsiU.search.21",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "2-4K",
+    "securityId": "EGQ0Cjq6Pp-BY-Y1msXB9vpa8TUmdURaOslr4krJNqNvNpBqB3OuFQnpucgTFdNanW6iJza-eWk8QLQHI9ROupwt4HCt2eOL2V_4duDtJZRT-o72svhTuf2F1V1M1gJNn99q0YNxYxU~",
+    "showTopPosition": false,
+    "skills": [
+        "数据分析/挖掘经验",
+        "计算机相关专业",
+        "金融行业数据相关经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

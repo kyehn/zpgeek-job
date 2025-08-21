@@ -1,0 +1,62 @@
+{
+    "securityId": "Yr8dusfp3V0RE-I1ZEr-2Aj65jy65zC5FM0nIIAwBPwDZV_scLZDkq-YxZqV6Y2A-iMxkVDthfwOd_3X_ZqOcUaZbj1f570IMlsZPDVXRYUgyCdnEwj2r4qIU3tezg8nF4eKSe4_xREV",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200130/0f60f5b0375759e47dc1283896913d0365405f7389f7ce7af6dd14b8db024cab_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "1bee77b7c5dd34003nZ_3N6_FFI~",
+    "bossName": "王晓伟",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7e7d3080e23601091Hx-0t-8EFZY",
+    "expectId": 1030426395,
+    "jobName": "软件运维工程师+6K+绩效奖金",
+    "lid": "MAIP0kYb24.search.194",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "MySQL/Oracle",
+        "运维经验"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "六安",
+    "areaDistrict": "裕安区",
+    "businessDistrict": "明珠步行街",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 194,
+    "city": 101221400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.496397,
+        "latitude": 31.753907
+    },
+    "encryptBrandId": "fd9aa12d2b8e88530HV82N-5Ew~~",
+    "brandName": "惠友云管理软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200622/a5895cad1733665f13e60ee23b96756365405f7389f7ce7af6dd14b8db024cab.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "带薪年假",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

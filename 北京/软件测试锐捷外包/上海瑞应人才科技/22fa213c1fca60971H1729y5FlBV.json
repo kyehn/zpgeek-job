@@ -1,0 +1,62 @@
+{
+    "securityId": "53hhXTF4scCsF-V1ECNHmsK65LzpDsPk6zZ-p_hDMo_d4Gwgjt0ifoNB3A4hpEMFhtyUqCIDUUHcE2EyDNlcFZCAqnWiODsa6cnVeb87ym1FGrtwYB9qiBIN_9bEWhdv3i0sltAFdKeiyQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240309/607f1f3d68754fd001802b9475d7ff56745e662ce9f64916ca3e90d3c7343c0ab2e38fd679fb07b9_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "b010d6bb4dbe4de80Xx90t6-E1E~",
+    "bossName": "王女士",
+    "bossTitle": "金牌HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "22fa213c1fca60971H1729y5FlBV",
+    "expectId": 1030426395,
+    "jobName": "软件测试（锐捷/外包）",
+    "lid": "2bUGSofxWJE.search.44",
+    "salaryDesc": "8-10K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试",
+        "计算机相关专业",
+        "测试工作经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "中关村",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 44,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.325277,
+        "latitude": 39.95322
+    },
+    "encryptBrandId": "62518f9a3d79dd931XV_09y4FFo~",
+    "brandName": "上海瑞应人才科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

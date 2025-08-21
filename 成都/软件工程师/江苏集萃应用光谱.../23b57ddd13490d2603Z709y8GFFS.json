@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "双流区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241220/607f1f3d68754fd00764e089cf57c60b9d146b9fa2230a19765266d9a55cfd00778ddb23b0c6e34e_s.png.webp",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "学术/科研",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241220/7bf6f160950405e917c3011cb9f1e53095cc64efe657bbcb765266d9a55cfd00778ddb23b0c6e34e.png.webp",
+    "brandName": "江苏集萃应用光谱...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "华阳",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "da7046facd0eb2760XB60tW8FFtU",
+    "encryptBrandId": "65187e40ee57b0191XR-3dq-FlU~",
+    "encryptJobId": "23b57ddd13490d2603Z709y8GFFS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.515331,
+        "longitude": 104.076536
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100304,
+    "isShield": 0,
+    "itemId": 53,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7NLYetywkrH.search.53",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "dW6t5Kxk3JYA5-x1Kc4MaWXPhX_LLoFqt45xKzssFhUKJ-mNkM-hxiUe6-j-Oj3Y7aNpBhGc7HfwYbZnkEA61n6X3l_Opv7bRaj-OjsPgAlmloTYVl2tKLk75hThdu-qaydTfWGI-m9XPFE~",
+    "showTopPosition": false,
+    "skills": [
+        "嵌入式软件经验"
+    ],
+    "welfareList": [
+        "餐补",
+        "带薪年假",
+        "全勤奖",
+        "五险一金"
+    ]
+}

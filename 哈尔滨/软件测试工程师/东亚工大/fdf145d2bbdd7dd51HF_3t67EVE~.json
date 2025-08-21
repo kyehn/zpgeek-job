@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南岗区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180730/04619c90176799533af8ecdc49a69c6fbbf12edaa029eda79cb6b1694254e710_s.jpg",
+    "bossCert": 3,
+    "bossName": "马婷",
+    "bossOnline": false,
+    "bossTitle": "人力资源专员",
+    "brandIndustry": "信息安全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "东亚工大",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "哈工大",
+    "city": 101050100,
+    "cityName": "哈尔滨",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2c1b34d8c83b7f041nV82dq0GFo~",
+    "encryptBrandId": "58d355c2755c1d271n1709q5ElA~",
+    "encryptJobId": "fdf145d2bbdd7dd51HF_3t67EVE~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 45.74775,
+        "longitude": 126.6283
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100016,
+    "isShield": 0,
+    "itemId": 132,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "UYOvpto6IK.search.132",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "i4lqc1mYGpqON-U1lYcoP_kmD2rgshrbZ-yhiC1-y4Xs5QUF5Udw9J51pRuwlwUSpD1NRKrRVD1z_XamTUoywN5kNLO87gzKsDyOA4Pgnync1D01Jl-bTMcwW-z6MO-vMKdlfLv589JW",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "自动化测试"
+    ],
+    "welfareList": [
+        "五险"
+    ]
+}

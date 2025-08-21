@@ -1,0 +1,63 @@
+{
+    "securityId": "hCo1thvhe7oba-q1kkoaEPBeUUdmCGiMrKOGLyI6R7ZD2DnHdME0ekXCUppD0I8_JJ7LM83nPitZY6i_Jjw-wBKWR1Z2aZ4v2WOlPLS8V5oOkwCg",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240827/607f1f3d68754fd09641825190643b60067c1065aa70f7b5a5531af28cb3f9f7a09d4cb7248edf25_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "6c372a30919533900XN93t-5EVs~",
+    "bossName": "王女士",
+    "bossTitle": "招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8c07566e3a7d2e101HNy09y1FlJV",
+    "expectId": 0,
+    "jobName": "数据开发",
+    "lid": "5FUk6QgCN3B.search.39",
+    "salaryDesc": "9-11K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python",
+        "Java",
+        "Shell",
+        "计算机相关专业",
+        "大数据开发经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "深圳",
+    "areaDistrict": "福田区",
+    "businessDistrict": "车公庙",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 39,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.055494,
+        "latitude": 22.542092
+    },
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "brandName": "上海思芮",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

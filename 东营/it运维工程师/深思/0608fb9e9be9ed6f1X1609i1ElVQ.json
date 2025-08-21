@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "利津县",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "于益",
+    "bossOnline": false,
+    "bossTitle": "hr",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "深思",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "利津县中心城区",
+    "city": 101121200,
+    "cityName": "东营",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "16a61c28b3f58d470nJ72tu4E1NQ",
+    "encryptBrandId": "56b2d5d4441d21d41Xd709-8EVI~",
+    "encryptJobId": "0608fb9e9be9ed6f1X1609i1ElVQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 37.50968,
+        "longitude": 118.225897
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 128,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "it运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "16hPlcUHvS2.search.128",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "furf_BQS15kP8-J1xKb4tHTsSd2CbEyueVF6IEFF3vb8ueE-7cGvb3gqf3rYO1J8UMJkyIF5G4e9GXxBF0OtSH6ZbklSe6AB5uZCBq8-Cd30Z4rON3wwPUNdDOak_6QOw9ka5PXr2X300U0~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "实施交付运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

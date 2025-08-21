@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "望城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "人力资源",
+    "brandIndustry": "铁路/船舶/航空/航天制造",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "翔宇设备制造",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "雷锋镇",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ed68f685f7f69e650HFy0tm6EVA~",
+    "encryptBrandId": "c6be09c27efd7fd233153dW4GQ~~",
+    "encryptJobId": "134d5e0bb3a960b103V539q8FFJZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.206659,
+        "longitude": 112.819346
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100905,
+    "isShield": 0,
+    "itemId": 87,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1J10GpM26sN.search.87",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K·15薪",
+    "securityId": "Jpx5cL1vXCt5Z-R1H7hBkpZTAMmAvshu3YREe5JzBgOt9gMEUmFZ1HA0L21yGc9i3D9MJggxpu3Q6C6jsRc9ih6HlW3jzwJSzTBOk05rPAE5jv8wdnbwry_s2xLzAjcKULBgPvltgvl4",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业",
+        "软件工程师"
+    ],
+    "welfareList": [
+        "包吃",
+        "全勤奖",
+        "年终奖"
+    ]
+}

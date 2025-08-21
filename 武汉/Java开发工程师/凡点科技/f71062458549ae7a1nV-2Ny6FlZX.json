@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210413/d2437003bd07f4d7a09c6e286050e530ee3baa03427c1bf6cd414dddb8030350_s.jpg",
+    "brandName": "凡点科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "街道口",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "61ab26309f0341e91XN929-9FlY~",
+    "encryptBrandId": "86f838b1898632bc0HR429S8",
+    "encryptJobId": "f71062458549ae7a1nV-2Ny6FlZX",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.513715,
+        "longitude": 114.350936
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 64,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8o4slHaoruK.search.64",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "JuTVw1UdOVG2U-o12JHOJLrbFWdbBhS3PMXDoaDpRZDqstgIMSnyCV-U9WvCW4zP7MRnkZ2qQ19xg5i-nHPJ0BxnTupVKp-tyg8KBz18_HbqpLy_",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "加班补助"
+    ]
+}

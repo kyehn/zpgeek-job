@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180607/4a5ded83f77a2dba8dc62547bb5f0c9bcfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "bossName": "张先生",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190321/ef554566febfc27dd343818054edc4f50c2bbf60cba84a94058c10535eb0396f_s.jpg",
+    "brandName": "亿点时代",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "上地",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "bb1c3904f3b7f2be1HF-2Nm5GFE~",
+    "encryptBrandId": "8152e010ec2f55890X1y3Nq5",
+    "encryptJobId": "cd46011c0459755a1HN92dS4FFo~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.02434,
+        "longitude": 116.3006
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 208,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Java工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5KGVg11PmkG.search.208",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "Tc0yoPyP1uuG7-D1rvV0WKe1fyHekqDeaYPubd9DBXvzwBwlIOX0B_XrrDRSec8ba1pyeEYDlZ4UWYjk3QBjC8lIgceExc4f43HJlHtpY-B2ufHDIU6qgenuGcJ83SQzmuTrHStYIw~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "后端开发"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

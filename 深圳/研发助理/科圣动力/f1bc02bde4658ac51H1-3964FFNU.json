@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宝安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240412/607f1f3d68754fd04b0ec2f43416a97e8f1c9b83490d0e4814afcbaa3636dcaa3149fa26e706e7e9_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "王政雄",
+    "bossOnline": false,
+    "bossTitle": "CTO",
+    "brandIndustry": "储能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "科圣动力",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "沙井",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "454276ccc78cc2510XB93Nm1ElBZ",
+    "encryptBrandId": "0f0e32a0366ce9d31XJ73Ny4E1I~",
+    "encryptJobId": "f1bc02bde4658ac51H1-3964FFNU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.76046,
+        "longitude": 113.814169
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101209,
+    "isShield": 0,
+    "itemId": 40,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "研发助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "r5b7fcka2a.search.40",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "Lh3RJn6HuwjMm-g18SA73b5N_5d4_PAnBUKmqsaNoWvySWpaKucznAKJgNWH6K41xUisLR8LNfNCWvEYU4asLM4xaa4Dd6BK8HeZq_3RFv7KZmneYz5ASotr1ck8oa-LFXmtU3FKU9H2yZ0~",
+    "showTopPosition": false,
+    "skills": [
+        "软件/信息技术项目",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金",
+        "员工旅游",
+        "底薪加提成"
+    ]
+}

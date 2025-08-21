@@ -1,0 +1,60 @@
+{
+    "securityId": "5RUpxgksnr9wW-W14MMpRp_0LAbP2exnsLY7pdHWLASkRDtiTxJCGFQPIUI6LeUBkWJYt2JiQAbSbqGQeHacTTDL-wDZbxM9HLnH9UHbx2bNYM8oKRWGhbEJxFVDDWED_e3QIE9YAX8~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180124/cc4f1e89812faae97662ffd1fcef9f3ccf2169c1805f1ad189fced1569e1a9d5_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "254c197477563f001nV83Nu8FVo~",
+    "bossName": "张琴",
+    "bossTitle": "招聘经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3f2446e94884f6131HN90t2_EFBQ",
+    "expectId": 1014042683,
+    "jobName": "it服务台（晶科大厂远程面试-接受应届生）",
+    "lid": "2XjN7V8nMLc.search.276",
+    "salaryDesc": "2-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "运维"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上饶",
+    "areaDistrict": "广信区",
+    "businessDistrict": "上饶县中心城区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 276,
+    "city": 101240300,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 117.889026,
+        "latitude": 28.418131
+    },
+    "encryptBrandId": "879cece58f6a7e7d1XR929W0",
+    "brandName": "柯莱特集团",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金",
+        "交通补助",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

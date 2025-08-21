@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "广阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220908/607f1f3d68754fd01c950920db560f408642861c2b6e36e07fb1bc22263fd4fd2891b2ddafa3c3f4_s.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "招聘人员",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200605/e1e8221af2f5ee09c68f078e3b772ad9ceacb770c525e1091a96352e642add93_s.jpg",
+    "brandName": "锥云科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "万达",
+    "city": 101090600,
+    "cityName": "廊坊",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "75e5f658811c04111nR82t-0FldR",
+    "encryptBrandId": "9a6ecd42baebf30233B62di8EA~~",
+    "encryptJobId": "5d84500a001e3ddc03B90tm-FlpU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.520824,
+        "longitude": 116.715714
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 78,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7w9U9qWj72Q.search.78",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "c7ZOuRiCnnmlD-k17OzrLNiKrfiTn7ylke_gTxhamm0-H1iaggAWWxJsqQNTWXmEuMuZXKg4DGSBSSUgoxeJi85ufZvA2-ZhmUyCkNadtv2NZXePL5PDtyXW4C3wRwZarVskOgHuTpjrLQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Spring",
+        "MySQL"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宝山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "张旺",
+    "bossOnline": false,
+    "bossTitle": "人力资源",
+    "brandIndustry": "其他专业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230922/7bf6f160950405e9c16bf553b3fda3d8706e69e111c706e2d0e4f0187ad30771a312fb00637dbfa2.png.webp",
+    "brandName": "优利比天",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "友谊路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9d94a0c7409e755b0XN-0tW5EVJZ",
+    "encryptBrandId": "5b7ccb19daa78a7b1XJ429q4FlA~",
+    "encryptJobId": "9a636b13b4d590fd03d62N6-E1BU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.381926,
+        "longitude": 121.426278
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100608,
+    "isShield": 0,
+    "itemId": 152,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "业务专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2TJlLc13dez.search.152",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "K0sj0douXpmoV-r1izkXoYJP17fVRZybfyqE3_nJZDSZM0tU8_ZJQQM3xUyhT0WZGp3cn2qVzXtwCu-DkCmTAMwQrJ60o2jTx3q6IQ4YBImiLrGV5grYS-mURYehWTFlWi7o4-EW4n_V1uU~",
+    "showTopPosition": false,
+    "skills": [
+        "企业（To B）",
+        "电话销售经验",
+        "面销/陌拜经验",
+        "其他产品/服务"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

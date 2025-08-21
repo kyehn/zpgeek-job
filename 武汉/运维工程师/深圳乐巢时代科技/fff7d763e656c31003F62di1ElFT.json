@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200715/adae80d3b11025eb62b75b8a52b88df16cf447e915afe8ef29c51582786f9a39_s.jpg",
+    "bossCert": 3,
+    "bossName": "江女士",
+    "bossOnline": true,
+    "bossTitle": "人事",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "深圳乐巢时代科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "关山",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6d7f955a42182f443ndy3tm1Elo~",
+    "encryptBrandId": "e840cd21fec9e2b41XF93tS4EVA~",
+    "encryptJobId": "fff7d763e656c31003F62di1ElFT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.47998,
+        "longitude": 114.418719
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 3,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d4j4GBywtV.search.3",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K·14薪",
+    "securityId": "6Mqx3NgqpNDKq-N1M8PS-SlEPxlsJtERg5JYi73qS3l9ktZP848_9iD0hYv0m57KeUp2v5AqmuYTk2RmYPxMSs8oN6gvgLj6QdeEL_nu10oqXjGp77VmElEZQ7MFee6kbByx5jyvDr_P1SUB5RICCya-tzH_YXl5BfA6rV9x9pyXokvJ1A~~",
+    "showTopPosition": false,
+    "skills": [
+        "桌面运维",
+        "IDC机房运维"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

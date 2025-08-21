@@ -1,0 +1,63 @@
+{
+    "securityId": "iSHshhfrNDQ1U-D1coL9wNEOU-OG9dvKfCq6hAllIX3hHxm_6t-ONSZv1XGPf4TOuVaToh_zITyzqWclYB8HabvpEG7bLmzLw0tyuONjabIihn829YjVSTH3l70tn3vTU9x6FTBvsa0~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231013/607f1f3d68754fd0beeb1ced60d1e6c71fe7fbd95e81e3d0ccf64beec1edb9ac508de582d520c4a4_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "336d99680244f25f0XN80t-0GA~~",
+    "bossName": "易女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "9e5deb10b9927ddc1Hxz2dm5EltY",
+    "expectId": 1030426395,
+    "jobName": "JAVA开发工程师（半年周期）",
+    "lid": "29Esuzrqcz6.search.92",
+    "salaryDesc": "8-9K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "SpringCloud",
+        "MySQL"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "南码头",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 92,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.497188,
+        "latitude": 31.187397
+    },
+    "encryptBrandId": "5a724ab5680916051XR42ty7Ew~~",
+    "brandName": "天地网通",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221031/7bf6f160950405e9f60055055cda24c8ea0894c76d4e5c12186859046ad6ddfad1e08ac9c6a37bd8.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "带薪年假",
+        "免费班车",
+        "五险一金",
+        "定期体检"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

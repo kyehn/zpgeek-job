@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "丰台区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190801/bfd1a7e8d1177e506b2baa0ac9fc1524c1a7b41575141efea7350ba0c565bc8b_s.jpg",
+    "bossCert": 3,
+    "bossName": "孟女士",
+    "bossOnline": false,
+    "bossTitle": "人力总监",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200425/2ea6dd374776a32ad30d9f1eefbd27c1c1a7b41575141efea7350ba0c565bc8b.jpg",
+    "brandName": "云帆锐达",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "青塔",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7800714fa226775a0HV_3dy5EFY~",
+    "encryptBrandId": "ba585a73abfe90f90nd63tu4GQ~~",
+    "encryptJobId": "4335cb63dc641bb03nV_2928GVA~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.895258,
+        "longitude": 116.263848
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 84,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "初级java软件开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4KpFH88JFRo.search.84",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "AouBGNytsd4EW-f10X1y7OMtF28EETksOa3riJKo7bWFTpQx0_JuiwYFZ3PhZod4dUK6EyS4xKJlYSFtK5yHI1E8LrQMEXLWobxNYs4B9ihKAtShcSLD7jqNs9Qnu62LXjBBF_etyUg~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

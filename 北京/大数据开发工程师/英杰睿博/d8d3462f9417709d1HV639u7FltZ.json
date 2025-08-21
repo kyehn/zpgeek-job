@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "杨先生",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "英杰睿博",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "苏州街",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "50456711dd27bde30nNy3N21EltS",
+    "encryptBrandId": "2054b859ec961fba1XBz3ty_F1M~",
+    "encryptJobId": "d8d3462f9417709d1HV639u7FltZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.97647,
+        "longitude": 116.308161
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 74,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "大数据开发工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7M1Zd7IFT1t.search.74",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "CPWKDQbZja5y6-31nwtcCHLAnjS7x_6bhzAJ0nPwbBpwiDkBPMbOqMoxl5l6fZIOZ3rC0yCHehPvGonIh8zJqmjr2s-2oMLzH0fiO9Nc2IbxU8ya2MzdITeO4PEyN3_mCLPveqp-KVG0U1w~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "意外险",
+        "定期体检"
+    ]
+}

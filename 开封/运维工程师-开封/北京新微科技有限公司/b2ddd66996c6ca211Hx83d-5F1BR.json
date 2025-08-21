@@ -1,0 +1,63 @@
+{
+    "securityId": "OIlXB6EoyE2d9-m10oWqHPtLmCfuEPWnru7x991lgu99UhSic7T7o6i8frzpKYqfri7-20rH48H3E_7aQlO5rwl-dNEDjBbViMFrvE7cdUaykMqWYylnLNGI8aXWnBeM3g3DTsbnGVeBug~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240206/607f1f3d68754fd0a101ae23b0a4e13caaff24e816867f8a64633b6fb5980e50afbcbd2e0f23d88f_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "3656394122b629320XZ929y_EVRV",
+    "bossName": "杨女士",
+    "bossTitle": "招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b2ddd66996c6ca211Hx83d-5F1BR",
+    "expectId": 1030426395,
+    "jobName": "运维工程师-开封",
+    "lid": "LYtXdKZfi9.search.87",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "网络运维",
+        "系统运维",
+        "桌面运维"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "开封",
+    "areaDistrict": "顺河回族区",
+    "businessDistrict": "曹门",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 87,
+    "city": 101180800,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.363098,
+        "latitude": 34.816008
+    },
+    "encryptBrandId": "af00871ac14cff491HF_09i_EA~~",
+    "brandName": "北京新微科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190617/af50eca50dee4f36b46ba574bf08cdd1526eb4f3a7594c770ed9342adaceedcd.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "定期体检",
+        "加班补助",
+        "五险一金",
+        "餐补"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

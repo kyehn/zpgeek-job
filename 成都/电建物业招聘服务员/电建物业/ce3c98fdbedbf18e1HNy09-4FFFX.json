@@ -1,0 +1,63 @@
+{
+    "securityId": "jI-NvVJpAE-q--61W6cEX5PEbbRQjvLif5fGkiTjhltOS8U2ZjpZBOZ4c1FNMBtBE5Xy2yWz336MdeSXR15BKex8PE6_WOA49KJSlib3wjpEKBa9",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "b13a10fb1b1432681XR-09u9GFc~",
+    "bossName": "杜女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ce3c98fdbedbf18e1HNy09-4FFFX",
+    "expectId": 0,
+    "jobName": "电建物业招聘服务员",
+    "lid": "2ZxU2zwf1lr.search.230",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "接受无经验",
+        "全职"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "锦江区",
+    "businessDistrict": "红星路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 230,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.094795,
+        "latitude": 30.64693
+    },
+    "encryptBrandId": "3e7215064858604c0nN_2d-6",
+    "brandName": "电建物业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170405/6ce9060051164deb048de20f3dbbace29efd9c8513df56ba256df2b1adae0ec1.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "工程施工",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "带薪年假",
+        "住房补贴",
+        "年终奖",
+        "五险一金",
+        "节日福利"
+    ],
+    "industry": 100702,
+    "contact": false,
+    "showTopPosition": false
+}

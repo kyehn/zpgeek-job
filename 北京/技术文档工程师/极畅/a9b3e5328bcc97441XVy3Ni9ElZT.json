@@ -1,0 +1,62 @@
+{
+    "securityId": "52FfzRIev3NKZ-J16I5yGTZSkIZdaaeAdmZdBmrUA34fArHrI3u-NcDkLfpGN-tiIj1dfkt9vTWz0ZLBywIEYF4fjCdem_eQP-S4Q7gQP-Vht9Scmf0~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180625/e5ce879f9f97d08e5477b453f2380c18cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "893dfef51f5b63cc03V72N-_Fls~",
+    "bossName": "刘女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a9b3e5328bcc97441XVy3Ni9ElZT",
+    "expectId": 0,
+    "jobName": "技术文档工程师",
+    "lid": "1iG5RU7Itqk.search.7",
+    "salaryDesc": "8-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "中英文互译"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "五道口",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 7,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.333645,
+        "latitude": 39.994249
+    },
+    "encryptBrandId": "416b4facc6a6d3d51nZ43tq4E1M~",
+    "brandName": "极畅",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210222/00fd4f198ab032f9a0a220c9a43e577a93084a5d9e4c78b29ac24acbf160181f_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "餐补",
+        "交通补助",
+        "节日福利"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

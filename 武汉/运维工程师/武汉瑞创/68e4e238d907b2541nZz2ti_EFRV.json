@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "高雁",
+    "bossOnline": false,
+    "bossTitle": "人力资源经理",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "武汉瑞创",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "街道口",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "14a7259c476e718d0nZ709S4GFZV",
+    "encryptBrandId": "a1fc7c10431937541nB939W9E1E~",
+    "encryptJobId": "68e4e238d907b2541nZz2ti_EFRV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.501731,
+        "longitude": 114.343691
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 125,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "r8GcyJx1qt.search.125",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "YmkJvlfKIVRrz-61NB40g4oFqr2XIXVTVK2rChBHBlRA8OMjwhmV2oDsyCS46njg8V1nTuTQ7J4V4pRDAGiU2MoljRgS8baxujDq_rG9XCzzmXotoGkK4vEP5u4oIFpbW4Y0_JMo6CHYhgI~",
+    "showTopPosition": false,
+    "skills": [
+        "IT服务",
+        "应用运维"
+    ],
+    "welfareList": [
+        "带薪年假"
+    ]
+}

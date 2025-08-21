@@ -1,0 +1,61 @@
+{
+    "securityId": "2pxpaMxdHDbcV-v1Lhd7UJW9osOiq3nmMKHWjVUXt60s_O8oExPwZD_RG_jLeYiSEiTbxFvZehv-g33qpcs3ALDER_6Z3bojKtfBlM34ECCPTil6Y_t7DoSaD6XcjLw2UVmvcSFFvboqKA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210113/13ffdc8f787452b0d142f2b06a5f0ec464bc3fc0f9278ba3fb2dd91378ce7bc4_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "70604b40bc2a605d0nV53928E1BQ",
+    "bossName": "杨先生",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7a46638c0e21eadf1nZ93dW7EFRX",
+    "expectId": 1014042683,
+    "jobName": "Python老师",
+    "lid": "2WwaGatcJr6.search.259",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "机器人",
+        "python",
+        "老师"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "厦门",
+    "areaDistrict": "集美区",
+    "businessDistrict": "侨英",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 259,
+    "city": 101230200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.12404,
+        "latitude": 24.598956
+    },
+    "encryptBrandId": "251c818e40951b0f0XF80t60Fw~~",
+    "brandName": "斯帆创客",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191114/1f7df069d09e0adadf7beffdec829f191894769a8d65efd743305b5f1f6a0ed3.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "加班补助",
+        "零食下午茶"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

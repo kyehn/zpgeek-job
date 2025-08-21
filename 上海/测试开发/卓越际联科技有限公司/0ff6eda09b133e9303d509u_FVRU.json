@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "黄浦区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240415/607f1f3d68754fd08efaa349ff13c6926fdc9685e446249110109734aca8de07dbd9bc6aef657efb_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": true,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240105/7bf6f160950405e9763d940637ab43c1b6bf9ec44707a6cd04c5cab85daa86eb9e7e03c57e4518bb.png.webp",
+    "brandName": "卓越际联科技有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "外滩",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "573725023603414a0XJ52dW6GVo~",
+    "encryptBrandId": "9a80334346a8f4661XR73Ny1F1Q~",
+    "encryptJobId": "0ff6eda09b133e9303d509u_FVRU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.242989,
+        "longitude": 121.487808
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 25,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "50hfmhnqU4Q.search.25",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-13K",
+    "securityId": "ZG0oHZivEUYiC-a1rfG4SrfYAt9exl-vumOz2AzKhhak4KcINQXSkKGdnPOP2gb3PjDCOOF0mjHWu97xAkYRlEcNIoZHL-sVF6kFQv2n309ODzuWC5prvUY2z2tKg9UB5wEe3yY8u2mpFJuD0Reroj1RLgwniTII_AIJF24BGZY2OZycNg~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Python",
+        "MySQL"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

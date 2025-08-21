@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "吴中区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250405/607f1f3d68754fd0472726960d734fe274c8b29d4546e629bb33e7827cfbe2c7b94b2bc3908bc78e_s.png.webp",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "风电",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241217/7bf6f160950405e9772354ea5c1d514cbdd945c73adef06680cb24fe77dd03a2b485e086c0b9a614.png.webp",
+    "brandName": "青岛瑞柏新能源技术",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "南门",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "96251d504b4985890XVy0ti5F1FS",
+    "encryptBrandId": "3ba7ac626b11e52a1Hxy2d67E1M~",
+    "encryptJobId": "3c2e7e83c8ff6a1903d53t-_FFRW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.25408,
+        "longitude": 120.628312
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101211,
+    "isShield": 0,
+    "itemId": 12,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "年薪20W 六险一金 风电运维工程师 包住",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1J1GLqO5Zqn.search.12",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "vlnWoQoksSfSs-D1gnelyS11dKJGJuTcBd5yfxuS88zsGpsH6voOK2aUDGvbvLwgFhsps6uShgC6uyZg1m86ditxB4jepwywH9_qFOPGPFc18loSLvxaP8npUsGL5QzuGi9OlxMyNaYiDUg~",
+    "showTopPosition": false,
+    "skills": [
+        "风电运维",
+        "接受无光伏/风电运维经验",
+        "电气类专业",
+        "机电类专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

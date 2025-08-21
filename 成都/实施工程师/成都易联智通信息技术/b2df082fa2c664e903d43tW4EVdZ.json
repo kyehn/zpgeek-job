@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230313/607f1f3d68754fd0d46a881f125a36e5bca5fc9c0acfa7054e1d0eaf216d34ed07f1f74cd0afb890_s.jpg",
+    "bossCert": 3,
+    "bossName": "秦雅楠",
+    "bossOnline": false,
+    "bossTitle": "人事行政专员",
+    "brandIndustry": "计算机/通信/其他电子设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "成都易联智通信息技术",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "紫荆",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "67e2fb24cab639d00nd-2Nm4FVBW",
+    "encryptBrandId": "f18e39069781e7771HZ53tS4FVU~",
+    "encryptJobId": "b2df082fa2c664e903d43tW4EVdZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.592836,
+        "longitude": 104.06527
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100915,
+    "isShield": 0,
+    "itemId": 57,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2gbnUJ3m0o9.search.57",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "K11bK5sYr8vJI-J1b8F6LLAeWUK1s9P5FKqvr8p5AWAhduQziF3RlsaXe2a7FR7YvCB8K1VMCHcu6PAaGv85huXciPZ2R8HdNIFH9PwIuAmxLpoyE0TkTkeI-Q2MdDTAp7dXG7ioPbBhu6w~",
+    "showTopPosition": false,
+    "skills": [
+        "OA",
+        "熟练掌握SQL语句",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

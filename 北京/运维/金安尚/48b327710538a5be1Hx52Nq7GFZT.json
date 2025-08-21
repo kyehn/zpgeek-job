@@ -1,0 +1,58 @@
+{
+    "securityId": "x4e54t5TCPs1j-g14LRrdguWrVwcVT8lPfL9ginOaGhubwOEmrxJJvIUpWcdDmuDbo3Nlv7-qe0bcgiBvKBhayF-dOgCnVFFubVuj3l3LAVBQtvq-wzo85PYfIj47rzToxLt9WNg5BzY3w~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "dfd286350ea9a9c73nN92N6-ElU~",
+    "bossName": "李跃",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "48b327710538a5be1Hx52Nq7GFZT",
+    "expectId": 1014042683,
+    "jobName": "运维",
+    "lid": "2bEB7wDPDqa.search.297",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "清河",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 297,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.372349,
+        "latitude": 40.035948
+    },
+    "encryptBrandId": "d15012a730c9529c1Xx42tq1E1s~",
+    "brandName": "金安尚",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

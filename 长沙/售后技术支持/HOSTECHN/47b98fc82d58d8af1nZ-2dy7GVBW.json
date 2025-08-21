@@ -1,0 +1,61 @@
+{
+    "securityId": "WoJO8RJusErgS-q1kNvPXsPiYkpfW4IkGjmOKI4VV8V_30wH2Wh-3rD-zXIFYneDzOYpp8NUzDc_1UkW6i9xc9eYFgSqTsYlUPp8VvkE7XiSLExwylpX",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "01f0eb1b6344e3210nV_2ti_FFFS",
+    "bossName": "徐先生",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "47b98fc82d58d8af1nZ-2dy7GVBW",
+    "expectId": 0,
+    "jobName": "售后技术支持",
+    "lid": "2z0La4Wj0Wi.search.243",
+    "salaryDesc": "4-8K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "全职"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长沙",
+    "areaDistrict": "雨花区",
+    "businessDistrict": "云塘理工",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 243,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.048591,
+        "latitude": 28.062233
+    },
+    "encryptBrandId": "17f2d85807eabd391ndy39S6GVM~",
+    "brandName": "HOSTECHN",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220216/7b5b554d84f9729c3a4b880e720275fc0aec8cc186f74b68f06cb254db168e755ada88e637d7f672.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "机械设备/机电/重工",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "零食下午茶",
+        "住房补贴",
+        "五险一金"
+    ],
+    "industry": 100901,
+    "contact": false,
+    "showTopPosition": false
+}

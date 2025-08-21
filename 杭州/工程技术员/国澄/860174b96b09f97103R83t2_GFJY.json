@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "桐庐县",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "陈巧娇",
+    "bossOnline": false,
+    "bossTitle": "董秘",
+    "brandIndustry": "电子/硬件开发",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "国澄",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "旧县",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "54da13e50eb642160ndy39u5GFFZ",
+    "encryptBrandId": "4bf2ccbfb127b6e81nNz3NW5FVo~",
+    "encryptJobId": "860174b96b09f97103R83t2_GFJY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 29.80564,
+        "longitude": 119.629484
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101406,
+    "isShield": 0,
+    "itemId": 89,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "工程技术员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5qDxJb6jYM6.search.89",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "C6DP2I_GmcS8s-r1FWgoB1O5PA-3tE91Fg9N03ltWk7N2zNxUTvE6zpZkkc9grJfou8yUeJCd1lj5K6v1IqokQtiC6hD__WymevuJJ_apipyis6i6LVVP8oi5m9F4yN27Efg-i9z-Ktfy4o~",
+    "showTopPosition": false,
+    "skills": [
+        "通讯",
+        "CAD",
+        "数电模电"
+    ],
+    "welfareList": [
+        "底薪加提成",
+        "五险一金"
+    ]
+}

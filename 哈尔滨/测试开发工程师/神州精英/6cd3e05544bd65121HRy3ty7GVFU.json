@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "香坊区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200221/3527e490125ae9c20c63d836ffa472bf8f01dddeb699ad7b0204972e64f8341f_s.png",
+    "bossCert": 3,
+    "bossName": "李儒祚",
+    "bossOnline": false,
+    "bossTitle": "董事长",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200423/bc96b6315635533842d8bb79594b7ff18f01dddeb699ad7b0204972e64f8341f_s.jpg",
+    "brandName": "神州精英",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "平房经济开发区",
+    "city": 101050100,
+    "cityName": "哈尔滨",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a0cb26bd5684edf90nRy09S4Ew~~",
+    "encryptBrandId": "f28b65203c9e923d1nN509-_",
+    "encryptJobId": "6cd3e05544bd65121HRy3ty7GVFU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 45.628777,
+        "longitude": 126.637605
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 54,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "测试开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "13WY7ZUnbQ9.search.54",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-7K",
+    "securityId": "HtFTRQsEF8i81-T1VDxCWkY_TFi2PRP0jH578FfBHhu_8MRI3nO-VTQ7m7Dqg-orWhsINfqXAOFW5xh2x3P8R2tVZvW2lhPZlQ6ICGJkgH4cvdtRx8oWG-Tk8NLpIuOdB8LE6bZGVA~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Selenium",
+        "JMeter"
+    ],
+    "welfareList": [
+        "五险"
+    ]
+}

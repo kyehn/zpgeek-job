@@ -1,0 +1,63 @@
+{
+    "securityId": "lUaW4YGl7PhLj-x1XmsJZBXLjNxHNIpIaQg1Po_0LXRYlEh3ueFjYWLHs5Y36Z_v2Ti86YJXSTqUoMz3pSY3yvbFJfaA1lTgY8n_-0rrZhOtjj1ToWsESoludjlXUNyZrP64FVP3w9Qo",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240910/607f1f3d68754fd0a7d26cfa3a05c137c190206e15af4375da83096c91733336775acd567d9285a8_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "a328e10e2ce897e90nZ-3Nm7GFNX",
+    "bossName": "林先生",
+    "bossTitle": "HR.招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "dab9c6030e34d4561HZy09y1FFdZ",
+    "expectId": 1014042683,
+    "jobName": "数据标注",
+    "lid": "1eaRqvm8qWn.search.77",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据标注",
+        "语音标注",
+        "图片标注"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "望京",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 4,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 77,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.480114,
+        "latitude": 39.997149
+    },
+    "encryptBrandId": "e0281505a755023a1HR72dS0",
+    "brandName": "中科铭天",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210305/47e45a7e828f2c361edfecf6fe7207263b343d77ace92d60d77d02a7255e6e80_s.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "节日福利",
+        "带薪年假",
+        "定期体检",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

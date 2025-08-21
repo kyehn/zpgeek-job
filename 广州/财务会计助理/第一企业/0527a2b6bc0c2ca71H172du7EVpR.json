@@ -1,0 +1,63 @@
+{
+    "securityId": "rhvUSDgvtfIJ8-K17g6bpxNPpwntMPqVs8Y4I9tQkQc9LhH4t-Ju0LHfmDFoIC2Bw5YKrvajdVq-IR6HN-mVzVkPyK68XiwIFd4ajCEHMDwR9xrgZzhFidMX8wAlYRft8L7GfhrwEFLD",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240622/607f1f3d68754fd038a0a72e94bac357fc2a56dbd449ba3c1b9c7fc2b4b32694c19acd3226c9e4f9_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "6c00a014ef56689d0XB63NW5GVI~",
+    "bossName": "詹女士",
+    "bossTitle": "部门经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "0527a2b6bc0c2ca71H172du7EVpR",
+    "expectId": 1014042683,
+    "jobName": "财务/会计助理",
+    "lid": "1fXI1dPPnps.search.218",
+    "salaryDesc": "2-3K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "会计助理",
+        "不可兼职",
+        "代理记账公司"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "天河区",
+    "businessDistrict": "车陂",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 218,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.391044,
+        "latitude": 23.116405
+    },
+    "encryptBrandId": "6d38212ec299440d33N72dy9FQ~~",
+    "brandName": "第一企业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "财务/审计/税务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "零食下午茶",
+        "全勤奖",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100605,
+    "contact": false,
+    "showTopPosition": false
+}

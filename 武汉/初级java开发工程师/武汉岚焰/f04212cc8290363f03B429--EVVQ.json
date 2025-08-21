@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250422/607f1f3d68754fd00a352eff9450ee380b9d31281170361f6ab7532157dda4792d74fd329caf32fd_s.png.webp",
+    "bossCert": 3,
+    "bossName": "邱贝宁",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "武汉岚焰",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "关山",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e1b017eddbad447b0HR-3d-_EFNW",
+    "encryptBrandId": "01636429020b95fe03R-2tm7FlQ~",
+    "encryptJobId": "f04212cc8290363f03B429--EVVQ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.475014,
+        "longitude": 114.404057
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 10,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "初级java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8o5ZWqPZZB7.search.10",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K·13薪",
+    "securityId": "LhuR0szQruzY4-E1eiaK41pbpnuuy1cFuf-uDrjWYSbX2oGJGl_lJdoyDtmo1aY1XcaM4-4EcIMb4QskruWVfMeSX7Fwva5JLVfKsTYVtoUWe5_xghSg",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

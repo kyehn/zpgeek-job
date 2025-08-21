@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江宁区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230317/607f1f3d68754fd0a7f80ec13b3316ea97636779d0bb9bb1c42afe7fb88182eb0e54826b257e2151_s.jpg",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171129/8a4b150f3e0167d6522a828bba47dd27fa401ec3f523751f672cf4918fd5c31c.jpg",
+    "brandName": "塔菲尔",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "B轮",
+    "businessDistrict": "禄口机场",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "81b886ed8d1d5f360nR6096-EVVX",
+    "encryptBrandId": "b6e20ea9dd9731721nZ53dm4Fg~~",
+    "encryptJobId": "1245f8ade2bc07d41nR53dW_FFpY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.765948,
+        "longitude": 118.810098
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 51,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维技术员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "27VnIPL9Zab.search.51",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K·13薪",
+    "securityId": "J78lZo3o2bX1j-k1tgz8i61nrxvQkrLJ_AcMB98AGbxrRG-_9f0oC-AUNOVA_4wa78XSah8uvLEW8x9KDpsyr6Ez6cBRWkWtF_gBwGgG-qXGV54Y_jaEF0wub9xUCNoGheynkoP868KX6g~~",
+    "showTopPosition": false,
+    "skills": [
+        "运维",
+        "运维监控"
+    ],
+    "welfareList": [
+        "年终奖",
+        "包吃",
+        "五险一金"
+    ]
+}

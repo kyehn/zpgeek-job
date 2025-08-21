@@ -1,0 +1,62 @@
+{
+    "securityId": "ZBwujdP75PXcE-f1SiSq9l8KyAMbjbfiO3XWGKS4WbhoePgZCSNMoauLF0zcFF1Raj88u6HvIxhtrDrgSYfQMk8BJwXgoA4VpF6fEuYa57Pz6tUp1mvk",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231005/607f1f3d68754fd0bd1ff794ccbf1fcde6ba4ac5d2ef716c7a45a54eaf9dfafeb76799cb03d492c9_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "7b91b1e36b98a58e0XR629i0FlZU",
+    "bossName": "李先生",
+    "bossTitle": "人资经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3ec798deb88767f21Hdy2N-7EFZU",
+    "expectId": 0,
+    "jobName": "软件实施工程师",
+    "lid": "5LdwqaJR7zr.search.223",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "软件实施经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "淄博",
+    "areaDistrict": "张店区",
+    "businessDistrict": "步行街",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 223,
+    "city": 101120300,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.031953,
+        "latitude": 36.810774
+    },
+    "encryptBrandId": "ac97d047d8921bd11Xx73t-7EVY~",
+    "brandName": "贤和",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "咨询",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "定期体检",
+        "意外险"
+    ],
+    "industry": 100601,
+    "contact": false,
+    "showTopPosition": false
+}

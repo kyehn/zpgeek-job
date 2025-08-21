@@ -1,0 +1,62 @@
+{
+    "securityId": "KKXkVuTTY7BlV-w1Wdlqzvy8xzjNZP51LCsresdcibKqVSkJ46B8Z0NISzZAYEFY3EQiqj2ERj4W011-YS9zojXOs-JVluI7nj0A95MBcVChxDKeJg2Emq-sJ695vo6RyTa5MCuE59zjeXOR4fv-",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "1e054081590cf4541nVz09u_EVBQ",
+    "bossName": "于女士",
+    "bossTitle": "人事专员",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "7108212b142a56bc1nxz3N66F1NU",
+    "expectId": 0,
+    "jobName": "软件测试工程师",
+    "lid": "19ihL5cMc8t.search.21",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "web端测试",
+        "移动端测试",
+        "功能测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "武昌区",
+    "businessDistrict": "水果湖",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 21,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.335651,
+        "latitude": 30.548096
+    },
+    "encryptBrandId": "64f4da824a61575c1X143Ng~",
+    "brandName": "北京分形科技",
+    "brandLogo": "https://img2.bosszhipin.com/mcs/chatphoto/20160303/d892e49e8ea1cc6e30a9841f6b2a5dfcd82928924c6c4f99cdad768b6de2c4db.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "定期体检",
+        "五险一金",
+        "补充医疗保险"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

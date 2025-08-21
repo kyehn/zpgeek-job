@@ -1,0 +1,61 @@
+{
+    "securityId": "FwovV7zEZJK9K-j1gMiMTLFuqhN8JneL2XYQp8xmm2lkAONXOBVw4IkifjwDbJC7rrgIwTb4MxYwFPituZH8Gxpesmz2xR8q9gowuZBHVtlNK4PMkf4VIeTF4WCaqXbSFA2znFwV24F9nJxYj7o9E1u_",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "b0913130dbe17aaa0nF-3d20FFtU",
+    "bossName": "朱女士",
+    "bossTitle": "招聘经理",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "d0fe5e83fe5d91f31Hdy3tW6E1tU",
+    "expectId": 0,
+    "jobName": "实施工程师（上海）",
+    "lid": "2ul9sREQQ9E.search.264",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "教育行业",
+        "高校"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "闵行区",
+    "businessDistrict": "莘庄",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 264,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.412772,
+        "latitude": 31.09699
+    },
+    "encryptBrandId": "4642e59ac824135a1HV-3ti9ElE~",
+    "brandName": "职正科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240426/7bf6f160950405e9527ee97630c095ffb1f6cc0dc64bdc2f5dd10470222becaafc9e1532bd19ee74.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

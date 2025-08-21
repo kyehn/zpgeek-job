@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海港区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170810/3e24037926b2d0ec55040a6a57b63f568c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "bossName": "卜东雷",
+    "bossOnline": false,
+    "bossTitle": "产品总监",
+    "brandIndustry": "物联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240902/7bf6f160950405e9425d6d4a5a640aafdd344ade4e6f1b692e3ba273324f9852f3a9322f90a16da1.png.webp",
+    "brandName": "河北洁客",
+    "brandScaleName": "500-999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "秦皇西大街",
+    "city": 101091100,
+    "cityName": "秦皇岛",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f59224a89216f6c91X1y09W7F1I~",
+    "encryptBrandId": "2a7b01de895e94a51HB409S_FFI~",
+    "encryptJobId": "85fb06d7003c165f1Hx62NS_E1JU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.943811,
+        "longitude": 119.542086
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100030,
+    "isShield": 0,
+    "itemId": 142,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "13wnjOm3G2R.search.142",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "eHl2XJJ0YuAKP-_19OIHX6IpXoxm3H5FpFbCyfWXvX9dzhWQ3yNzZSwZ6MyPRtht0IqDbmul-EBvGhJrHtisfusDkzD-6U_4XvsJ29jtdrNMzAVff8jGgxGoX2xD1jY0FOeyqK0kz3PVtw~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试"
+    ],
+    "welfareList": [
+        "团建聚餐",
+        "绩效奖金"
+    ]
+}

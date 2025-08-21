@@ -1,0 +1,63 @@
+{
+    "securityId": "pY2JLrRj4mbca-q1UHTFq0fV9Cvg8Ifb3mBT2iB_9PV_ar4GhMF4K9xHUHOSbvq6YfsveTxRQguRQ7g6UUeO0bGPyCCoEOpA04hbgG5LCglaSosGKYA~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221205/607f1f3d68754fd0732987d10b1e18f030edf12b9ec29e13d58b762adc47ee64c166031350eb770c_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "b6c0a9002349778c0nR82tu9ElVQ",
+    "bossName": "沈先生",
+    "bossTitle": "总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4736d06d315a28a81HZz2dq6F1tU",
+    "expectId": 0,
+    "jobName": "软件测试工程师(实习生)",
+    "lid": "2Xl1BhRUogJ.search.15",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "自动化测试",
+        "功能测试",
+        "压力测试"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "成都",
+    "areaDistrict": "青羊区",
+    "businessDistrict": "人民公园",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 15,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.059171,
+        "latitude": 30.65351
+    },
+    "encryptBrandId": "2f0a6f3ee43ec7241HB93dm9Eg~~",
+    "brandName": "上海移柯通信",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190221/92b27e6ddec7bc5727b90a2401b57239c5c4ab54c3b7453e13dac981bfe12b63.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "五险一金",
+        "餐补",
+        "定期体检",
+        "加班补助"
+    ],
+    "industry": 100024,
+    "contact": false,
+    "showTopPosition": false
+}

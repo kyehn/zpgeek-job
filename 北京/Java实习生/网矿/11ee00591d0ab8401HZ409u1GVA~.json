@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171215/66ebc805deb1c1616bf68012796aec84253a66103130e36be308adf5cd0c5723_s.jpg",
+    "bossCert": 3,
+    "bossName": "郑涛",
+    "bossOnline": false,
+    "bossTitle": "技术总监",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190215/63562aa4315418926ede7f87262d6357cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "网矿",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f23086892d937a6f1Hd42ti0EFc~",
+    "encryptBrandId": "7d74481f6cb51ffb1nd42N-4Eg~~",
+    "encryptJobId": "11ee00591d0ab8401HZ409u1GVA~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.988097,
+        "longitude": 116.334076
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 56,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "Java实习生",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7HJN89nmx5d.search.56",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "iE-0Tcjqh9_Cp-o1t4tqosH_RtpUMwAQP-m6qI_T0NEPu2a4w_mJLluxlEkpZXh2kSpolIryzut9vdFSbAjcXcruQnf01-Lw0Tw7S5JtahKHLW0NYV6cpcb1mU9ylapMt3KPv_o-Vf0~",
+    "showTopPosition": false,
+    "skills": [
+        "HTML/CSS",
+        "HTML5",
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

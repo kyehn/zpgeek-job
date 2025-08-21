@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "张店区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "李先生",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191129/68766b49fde44ca418ebe8343a0a3fc3b93946e71f713dfd54e35b06122a14ad.jpg",
+    "brandName": "山东诚驿",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "山东理工大学",
+    "city": 101120300,
+    "cityName": "淄博",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "85852a87b1454a910nV92dy8GFo~",
+    "encryptBrandId": "aa5c0b9e5a892ea61Hd629S9GQ~~",
+    "encryptJobId": "54bcb1de67c0cf1d0HVz0tm0ElI~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.820906,
+        "longitude": 117.991289
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 64,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7wluAcViKXc.search.64",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-9K",
+    "securityId": "PVVJzDfMPpEkW-w1hnYg302vNgJHJxzkOQixzZcLozMdkct5pudPyGgnLgGxdN-BXzZ6fUynhIiXFr7fwIOv0cfx_g91gafuofxUko9ufnQxbVdxagE3SRwEwszp2JW1e7z8YnT4moI~",
+    "showTopPosition": false,
+    "skills": [
+        "软件工程师",
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "节日福利"
+    ]
+}

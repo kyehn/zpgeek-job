@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250305/607f1f3d68754fd0a7e4495d3fe1b4ef18eb2b1b7095d0bd7d3d282d240dcbe72a64de511d99afe7_s.png.webp",
+    "bossCert": 3,
+    "bossName": "闫女士",
+    "bossOnline": true,
+    "bossTitle": "HR",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "大咖网络",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "望京",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "253f03b0e8d9f9ac0nN_29W5FFVW",
+    "encryptBrandId": "cb2ed77e4d3ec7ae1XZ-3t-0EVo~",
+    "encryptJobId": "fe23106cb4fda34703F_2Nq1E1VV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.98382,
+        "longitude": 116.505887
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 44,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Java",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7sIJAOba8Is.search.44",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-13K",
+    "securityId": "aICyvAKVxAVOj-i1ZkdltCbTkEOF0VuP7Nvs5qwSel0ge0eSRb3-QwFeHiUP8r022HNm6214RyenU8ARrORus4D7Qc4MBRwp0abN_ZjoQWmphzficPH3WUZalQbktSBo2d_ztn2p0a7W9zLsYpfukH71udiIEDR91p37YGV8cR_sqdpUw54~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "不接受居家办公"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

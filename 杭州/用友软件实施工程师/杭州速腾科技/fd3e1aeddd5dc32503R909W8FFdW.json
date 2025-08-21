@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "陈丽敏",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210701/0b468d317827326b0b9069ff19557a820947351d7bf474eb2c435bb963604788.png",
+    "brandName": "杭州速腾科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "黄龙",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a99d05d839c630f11nR53dW1FFVT",
+    "encryptBrandId": "1db94c5b447702b00Hx52N60GQ~~",
+    "encryptJobId": "fd3e1aeddd5dc32503R909W8FFdW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.27601,
+        "longitude": 120.122298
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 54,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "用友软件实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7PFg9T5z3YC.search.54",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "miPUz73wup383-71tdjQR44_PI4F8WFoez6peFp-ghNwUl92FWApZlVt7RZG3mF7n_iuVLaxiu6op3mj80CZ9gKROASzP_yGN4JfTkxB6xclR4LBLxTKt5omdoN7mUQufnNXHRHyxBVEsg~~",
+    "showTopPosition": false,
+    "skills": [
+        "ERP",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180704/71b586801447a4be7a890709268481084b44ffd94ccbe17c0d917c3a0c4c0144_s.jpg",
+    "bossCert": 3,
+    "bossName": "匡斯奇",
+    "bossOnline": false,
+    "bossTitle": "部门经理",
+    "brandIndustry": "工程施工",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200521/a60a117db2157fec9a47940a12d09e8fb69f824d41c929f2f56917908e2e1cdd_s.jpg",
+    "brandName": "灵鸿",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "街道口",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "322dc29fea648ec103Vy0t-4EVY~",
+    "encryptBrandId": "306de8e2f79847ee0Xd929W1EQ~~",
+    "encryptJobId": "ab2aa32e7e3eb14f1nFz2dq6E1NR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.524205,
+        "longitude": 114.354693
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100702,
+    "isShield": 0,
+    "itemId": 41,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "后台监控运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8sZb82c7lxx.search.41",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K·13薪",
+    "securityId": "3MlbTGYwaZPk5-W1G8ibk4-AR4XvUzvyuMjrSC_WkCAr0NnGtrSVUdue6wjIm3Myzu0XtdFnN2rz-EAO_SNBNROsG0injYTS4xLWAalvWkZN2dtI9IiMsMuGk8Lj2vYs34IzjrSHCb_Z",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "应用运维"
+    ],
+    "welfareList": [
+        "年终奖"
+    ]
+}

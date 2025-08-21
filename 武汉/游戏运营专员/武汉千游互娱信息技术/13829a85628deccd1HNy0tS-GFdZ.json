@@ -1,0 +1,63 @@
+{
+    "securityId": "jLQbDz_qLmDFb-X1wd6kPJaTWxdGOPPfhYPtBoEwGn8szLh_t6EZEW750eUWXCeJd5o4XrCS1wTdnsSnemtVWXf5ffke0GiQEUoYC834nSqF6dPmD8s~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "a0df09525048e1b633Z9092-FVI~",
+    "bossName": "李女士",
+    "bossTitle": "人事主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "13829a85628deccd1HNy0tS-GFdZ",
+    "expectId": 0,
+    "jobName": "游戏运营专员",
+    "lid": "3p3jzZIlGFw.search.150",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "资深游戏玩家",
+        "不接受居家办公",
+        "游戏内容运营",
+        "手游"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "武昌区",
+    "businessDistrict": "积玉桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 150,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.321324,
+        "latitude": 30.57276
+    },
+    "encryptBrandId": "9443aa01baec40c21HF_3d27E1Q~",
+    "brandName": "武汉千游互娱信息技术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240617/7bf6f160950405e9194b73ca3324420866130ee58ef77ded8a41fd4aace61735fdb35468fd72896b.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "包吃",
+        "带薪年假",
+        "底薪加提成"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

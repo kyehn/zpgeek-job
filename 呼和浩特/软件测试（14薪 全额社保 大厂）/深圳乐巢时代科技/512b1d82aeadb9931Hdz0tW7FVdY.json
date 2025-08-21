@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "回民区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231211/607f1f3d68754fd0c8ec2ef68767a542a79c72cade511cfb41c9a2730d5d2e5fec1f45de88150bdd_s.png.webp",
+    "bossCert": 3,
+    "bossName": "罗城",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "深圳乐巢时代科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "钢铁路",
+    "city": 101080100,
+    "cityName": "呼和浩特",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "654cc737d88922350nZ729S8E1BY",
+    "encryptBrandId": "e840cd21fec9e2b41XF93tS4EVA~",
+    "encryptJobId": "512b1d82aeadb9931Hdz0tW7FVdY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.813514,
+        "longitude": 111.667679
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 32,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件测试（14薪 全额社保 大厂）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7P433aY4UTz.search.32",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K·14薪",
+    "securityId": "aytrpsX6DwAsh-O1aR9bgyVUTw0tMRTNkmgefoxHZXrypQiX0geALRdt0e0ZyeL-vBsF9fgJAk-f8ii9s74ulo7S06f61mzkQwnXJkdcsVLvRYxFcfQxclB4Y06ZcUWqlKArow3xtcDpkZg~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

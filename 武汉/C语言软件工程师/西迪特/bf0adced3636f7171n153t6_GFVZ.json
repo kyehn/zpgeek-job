@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江夏区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+    "bossCert": 3,
+    "bossName": "姜坤鹏",
+    "bossOnline": false,
+    "bossTitle": "研发主管",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210928/7bf6f160950405e9b66f37b859590b17d39203ee5c2834eeffe97feea4ce27f6e663538808567df5.jpg",
+    "brandName": "西迪特",
+    "brandScaleName": "500-999人",
+    "brandStageName": "D轮及以上",
+    "businessDistrict": "金融港",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "233d14c141d327af0X170tm1EVQ~",
+    "encryptBrandId": "a36d7b82cd02918d1n140960FlE~",
+    "encryptJobId": "bf0adced3636f7171n153t6_GFVZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.463046,
+        "longitude": 114.424529
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 19,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "C语言软件工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7Mwd68QZsMZ.search.19",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-9K",
+    "securityId": "623uWF28XAar9-31hQ9uilwaWzSJald-Ozyp0U2MjtRZiuJF7Lbj1WXCJp3LigAY_hPngfycRkqu15Y1r4bmGDMPiSStMKUz5W50r85FEcOw8jW0O7Ba7e4yGJh5q2gouFPuPoX1VuvxVQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "C语言"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

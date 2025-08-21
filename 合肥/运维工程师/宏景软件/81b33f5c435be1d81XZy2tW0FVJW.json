@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "蜀山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "熊靓靓",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "宏景软件",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "天鹅湖万达广场",
+    "city": 101220100,
+    "cityName": "合肥",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0571eee13ae988020nR709i_GFFW",
+    "encryptBrandId": "28ac53335aec66bb03R93tu8",
+    "encryptJobId": "81b33f5c435be1d81XZy2tW0FVJW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.816849,
+        "longitude": 117.221243
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 252,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5bQqxRLr0Ej.search.252",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K·13薪",
+    "securityId": "MANdOMvHuyzpH-J1updOQDOhXLhxlioNx11qF3nXc7WK3p_BYndg08C8xnzlOF3klkMs3t_9wa6LXrhpuiBB6x9n3dPboBnrBcRMiyvmyc9zoqiAwRwItgG8azOqg0V4wldFbGIcThGb",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维"
+    ],
+    "welfareList": [
+        "员工旅游",
+        "年终奖",
+        "五险一金",
+        "全勤奖"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "相城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190707/73d486b067886c609c7c2f780353b0417a20550df69c868af0193aaa65b4efc7_s.png",
+    "bossCert": 3,
+    "bossName": "杨兴赟",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "苏州普洛祥",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "繁花中心",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "07de2b285d46da200Xx909i0GFo~",
+    "encryptBrandId": "2a236dab749bbcbe0nR70tq-EA~~",
+    "encryptJobId": "ff8d9eb7841544a91nx42t-4E1pV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.371848,
+        "longitude": 120.602823
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100902,
+    "isShield": 0,
+    "itemId": 74,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "机器人调试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7NW3oA1uqbC.search.74",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K·13薪",
+    "securityId": "q20EEAGBqfxCG-F1T5MecymvhAZ0U2m5EW8xIXU1XtTjIkAivhTh7PIxfAWCRMvBC5oEeSu1M5uC25F2aRqo1_YpZZLK9hA_82HHeNq476ATAj_OtR3KyqJFcyflpVWd6xDLLDdnunhP",
+    "showTopPosition": false,
+    "skills": [
+        "库卡，爱普森，雅马哈"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ]
+}

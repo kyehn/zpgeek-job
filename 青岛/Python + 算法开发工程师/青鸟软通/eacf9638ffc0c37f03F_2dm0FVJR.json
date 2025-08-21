@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "崂山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+    "bossCert": 3,
+    "bossName": "宋强",
+    "bossOnline": true,
+    "bossTitle": "行业总监",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190523/fe400098ba5c15c1bc18b6f22cec981a03aaac1497f6e35aecbb1f06c3919d56.jpg",
+    "brandName": "青鸟软通",
+    "brandScaleName": "500-999人",
+    "brandStageName": "B轮",
+    "businessDistrict": "崂山风景区",
+    "city": 101120200,
+    "cityName": "青岛",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6e34f0112ff7731a0nZ73du5F1ZS",
+    "encryptBrandId": "1a2504ff4d78686e1H1-2967",
+    "encryptJobId": "eacf9638ffc0c37f03F_2dm0FVJR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.149677,
+        "longitude": 120.48397
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 29,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Python + 算法开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9aAbq7p3KY9.search.29",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "v4o125DbHMBUl-z1E2HCcDvA2v_0kKSTrl8SOrLd8P5q8bsAlAvixTCkTQDxcMPSFqGOluGxjUojtsVkjRfmFUt7KuNDmau4XxFzqUf_uZMyf_XGxCwzdxomS7ZuR1Z108UwnfICy14FxGIDe8SLcDu8q45PKfARpng1h3Ol41ZUWYZy",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "五险一金",
+        "节日福利",
+        "带薪年假"
+    ]
+}

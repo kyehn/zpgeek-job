@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "徐汇区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "王丽娟",
+    "bossOnline": false,
+    "bossTitle": "HR Manager",
+    "brandIndustry": "电子/硬件开发",
+    "brandLogo": "https://c-res.zhipin.com/jrs/730925e4425ea56bd735ef1a55a88301.jpg",
+    "brandName": "上海德萨科电子技...",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "徐家汇",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "95d41599c1a897f21nV90927F1ZZ",
+    "encryptBrandId": "91414832c5cdabcd1nJ40tq9EVo~",
+    "encryptJobId": "76ccb2aa4f3a2d4f1nN629q_EVdV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.187414,
+        "longitude": 121.430384
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101406,
+    "isShield": 0,
+    "itemId": 195,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "现场应用工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2TKa2BCw337.search.195",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K·14薪",
+    "securityId": "vs0YCdKztWPAk-U1FgvbIoP34gfqIkTCrESwG2p0kn8Pjr88QK-59jEJ1ddyCfplM5WXcp9Keq-uGOASIOTK3k9niCRiPm_a0HvqCy9kuoA-1l1fVPvFuXvLvx7vLcqWu6ewUmqo6fHuPkE~",
+    "showTopPosition": false,
+    "skills": [
+        "Linux"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+    ]
+}

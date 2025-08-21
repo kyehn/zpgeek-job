@@ -1,0 +1,62 @@
+{
+    "securityId": "P3dCozzT1afU_-G1YP84JYqaPzj7uK_flMtgFOzZQjjxEgl7T8jNr37F-8_Kyg_uuS4xtW4WmSm-IFgwZkh9B6fVQSMwZ8mPS-6OTEijEaT0uafK2Q~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220714/607f1f3d68754fd03a7ec1319a4309a7dbd1a1c756d7424fa2311d1fd8c0d29d3053a2eb4b5bfcc0_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "cd5cac41456a77f31HV-39i1E1Q~",
+    "bossName": "庞先生",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "eb5556bdd9aceedc1HZ92t2-EVBU",
+    "expectId": 0,
+    "jobName": "少儿编程老师",
+    "lid": "1cnncSRw9ct.search.225",
+    "salaryDesc": "6-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "乐高",
+        "编程教育",
+        "机器人"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "昌平区",
+    "businessDistrict": "回龙观",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 225,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.355863,
+        "latitude": 40.081442
+    },
+    "encryptBrandId": "26bd0d9c5ac116db0Hx_3du9Eg~~",
+    "brandName": "北京智乐启思文化...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240629/7b5b554d84f9729c9e7c8d934c72a287c12cdf904e2432d3a2311d1fd8c0d29d3053a2eb4b5bfcc0.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "节日福利"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

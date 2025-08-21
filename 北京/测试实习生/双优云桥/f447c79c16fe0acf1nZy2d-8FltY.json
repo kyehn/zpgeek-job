@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "赵雅丽",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "在线教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231101/7bf6f160950405e99452694cb90fd43b1ad95dd1e936fea2ff369057f08cd528f13d0e8fbbe1ee7c.png.webp",
+    "brandName": "双优云桥",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "航天桥",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c25882290deecbfa0nJ-39q7F1Q~",
+    "encryptBrandId": "9ad4655c893d76ca1nR43dm_Ew~~",
+    "encryptJobId": "f447c79c16fe0acf1nZy2d-8FltY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.92885,
+        "longitude": 116.309324
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100012,
+    "isShield": 0,
+    "itemId": 18,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "测试实习生",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8kkPqMAnDwM.search.18",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "2KLM6CtxlfQWr-01oyJsWZTBqh7TjxYb9iJROTNuPnHGFfnrOrJfoZcLIVznIr8qVXzE5zmI817HCxT1JHl7kIknuwLv1UZIo6mEUfD0bU7Jy2UuwI2q5Ir6EJfAYqjpt3tigPsg9tmg",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "Java",
+        "C/C++"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ]
+}

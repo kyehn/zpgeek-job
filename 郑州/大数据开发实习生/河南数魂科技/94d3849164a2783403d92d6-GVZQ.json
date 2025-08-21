@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "金水区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240727/607f1f3d68754fd0be6c958200f19b1cb8e03385198e37a55649fcc52be07d86c6cb9b38ccffa6b7_s.png.webp",
+    "bossCert": 3,
+    "bossName": "田瑞芬",
+    "bossOnline": true,
+    "bossTitle": "人事经理HRD",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "河南数魂科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "丰产路",
+    "city": 101180100,
+    "cityName": "郑州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f3dda23ac0334e2b1nZ42dy1EFpT",
+    "encryptBrandId": "5de0ac28f590b83c03R-09S_EFU~",
+    "encryptJobId": "94d3849164a2783403d92d6-GVZQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.787436,
+        "longitude": 113.666949
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 35,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "大数据开发实习生",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7wdGieYWzIB.search.35",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "LuEZERcBM58cX-h14vlfqKBDQ7dAkDaTLYY9IxrbR21_3warwH5ehhQBCh4NMhArnQNqq3xdNL3CNgjXKhqU8U02jgiLx7o6QuT-Zno0KxX-SsAkxMU00O6Vw1R7vIqSRqGGAYuaxNJslJvj4N5R7KUaTmYAImQMqC5iIQUPAyPEEW5uhDw~",
+    "showTopPosition": false,
+    "skills": [
+        "接受无数据开发经验"
+    ],
+    "welfareList": [
+        "节日福利"
+    ]
+}

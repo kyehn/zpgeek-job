@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180531/c93d8104df39307ce6c9e698aa0dbeb8b680297fb689caec3c9b2f68e586d97f_s.jpg",
+    "bossCert": 3,
+    "bossName": "张敏",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "北京百思特捷迅科技",
+    "brandScaleName": "500-999人",
+    "brandStageName": "",
+    "businessDistrict": "张江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "58f9e4a9ae68a4371H182du9GFA~",
+    "encryptBrandId": "b31c17fc8147c2671Xdz2NS9EFs~",
+    "encryptJobId": "b59ed258b32bec3f03dz0ti_FVVX",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.183912,
+        "longitude": 121.616801
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 7,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "双休 数据采集",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8eX724qExa8.search.7",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "4-5K",
+    "securityId": "rTRuwCPPgKLwz-G1q-ergCLmRn8bg2DRLEXjY4VltHPVVOtNpUXaqLVq550DIe57ymDVbaROchoTFdQTs3nhOgjyfYIIbHpyEEIZBPqKVewJtZDC0VY~",
+    "showTopPosition": false,
+    "skills": [],
+    "welfareList": []
+}

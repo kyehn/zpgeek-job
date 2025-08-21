@@ -1,0 +1,59 @@
+{
+    "securityId": "a84G9zaw8WsH0-41Q5cu2zsdGINKbe7qiW8IBSI5W3sMmpmWaTicBXhv6HhIHLa6qlPxzmVCI_q6OAhGHtVtOB02TWDEj4eE7rjgUT0isK0_FO9pAVc~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180903/ff58164b2785d6dcf0a3e23425def429413978cbaaaf317e38139fa7c9584032_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "06dbd06741e673291HJ42d-4GFM~",
+    "bossName": "王先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3f85be9b10be618e1XZ_29S-FFNV",
+    "expectId": 0,
+    "jobName": "电气运维工程师",
+    "lid": "1KRNLiA631w.search.96",
+    "salaryDesc": "5-9K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "CAD"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "石家庄",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 96,
+    "city": 101090100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 115.126478,
+        "latitude": 37.855747
+    },
+    "encryptBrandId": "275cca9ae95788ed1XV73N20FlA~",
+    "brandName": "北京博能盛诺生物...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "环保",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 101207,
+    "contact": false,
+    "showTopPosition": false
+}

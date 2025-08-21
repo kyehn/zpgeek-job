@@ -1,0 +1,62 @@
+{
+    "securityId": "MJ0qUYBWgsH68-s1b0kEgXsiu7kH_CGN223AgtfKX0zAumNXqQ1IK6Mh-TEpilfEGnUFaSInNLyPLdpyFtNhO9--a70OnwqtU8qYwfSRiKWdWSfgbA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220908/607f1f3d68754fd0d68f965a11daccdce6e52126f59882654c69fe83ed86d442266a0e426ffae2a9_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "3dc6b6df6429bb850HRy29S1EFM~",
+    "bossName": "李先生",
+    "bossTitle": "主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d3dd2d96e73661041XN92di-FVdR",
+    "expectId": 0,
+    "jobName": "系统运维工程师+双休五险",
+    "lid": "177GCMbVGdM.search.89",
+    "salaryDesc": "5-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机/网络系统工程师"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "蔡甸区",
+    "businessDistrict": "沌口",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 89,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.084587,
+        "latitude": 30.444711
+    },
+    "encryptBrandId": "4f7c83d65968d9de33F8092-EQ~~",
+    "brandName": "万鹏机电",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211021/7bf6f160950405e92a8f7d1dafc33f65816d55a906f1b6504c69fe83ed86d442266a0e426ffae2a9.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "工程施工",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "交通补助",
+        "节日福利",
+        "加班补助",
+        "五险",
+        "全勤奖"
+    ],
+    "industry": 100702,
+    "contact": false,
+    "showTopPosition": false
+}

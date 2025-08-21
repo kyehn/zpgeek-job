@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "静安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "聂天昊",
+    "bossOnline": false,
+    "bossTitle": "BI实施部经理",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200323/8b7d4bac831423d3bdc8b797ed295de8364c21c969e4989b5c4578873bfcba93.png",
+    "brandName": "邦企科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "彭浦",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "34f2a44c1945b09f1nR62dm8E1JR",
+    "encryptBrandId": "e92ec2725337c2160Xx-3d21GQ~~",
+    "encryptJobId": "54f8c16608d0f3eb33R429W6EFA~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.318136,
+        "longitude": 121.446348
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 11,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "ETL工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cJLBnhYj0b.search.11",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "_Js9OX_I7vuqB-_1BangqJ8txSvfh89FvxMz3RKncCrEEj9mtsX2141qDInl3Dcl8qdcQzN6RFkN4NVYGMFv_66pO0-QaB3Z4uCDXE6q4w-LMRFNjIILPGixLSR332iZL9NcsHLGFfVE",
+    "showTopPosition": false,
+    "skills": [
+        "商业智能",
+        "SQL"
+    ],
+    "welfareList": [
+        "五险一金",
+        "股票期权"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "securityId": "KzuZwhNzL5ho5-f1h4VOkJPWsMxwsNrfbGoYE2axYMNFLUQ4jugkwm_d0T_6O3-8Gjsp_V0UA7g2DXmiufsjEpw6sjMNd1JnVDhdVV8rhD4VBm2uzt0Q",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210301/4a97759f32cb34255aa14656fc7c66d7dcd34e695f37974839fb8270ebc3effa_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "39bb7aa1de26e7090nVz2t20ElZT",
+    "bossName": "曹女士",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3eea495de9071a3b1Hd63ti5E1pW",
+    "expectId": 0,
+    "jobName": "行政专员/助理",
+    "lid": "2c9kajpxppD.search.178",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "接待/外联",
+        "档案管理"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "南京",
+    "areaDistrict": "鼓楼区",
+    "businessDistrict": "五塘广场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 178,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.774492,
+        "latitude": 32.109689
+    },
+    "encryptBrandId": "7eae36438022ba9b1nB53dm5F1c~",
+    "brandName": "海熙",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "非盈利机构",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "包吃"
+    ],
+    "industry": 101302,
+    "contact": false,
+    "showTopPosition": false
+}

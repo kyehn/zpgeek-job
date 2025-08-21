@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "钱塘区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250318/607f1f3d68754fd0c63c3f752c900e931f912091f7b82ba77c0311236a2c697ed3958814d5a08c13_s.png.webp",
+    "bossCert": 3,
+    "bossName": "宗卢葶",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "农/林/牧/渔",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190606/ef01676e0d81031acf9c6285f6c33416d1b13ad1cfe06f489aba5df11251208c.jpg",
+    "brandName": "心仪宠物医院",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "下沙",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a161f48867fc654e0nR52dq_E1dZ",
+    "encryptBrandId": "c1f1262d5a3396fb03Jz39i4GQ~~",
+    "encryptJobId": "04718eb26af03aaa1nN82dW0FlBX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.302671,
+        "longitude": 120.34668
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101303,
+    "isShield": 0,
+    "itemId": 228,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "兽医助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2C4F4lOZ42u.search.228",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "MVsLlqC5qo6t9-X1yrSFZlFGgp41NWbwnjUjUlP8RUdINvfJfWKjm7QXw8OIZsvpziCU4U_F4aOPryhd7ON80lg0O0Gz8VbRvUCtATI7bcZCRAFq_-ivHz_DBvRbPABL1U7INWOoTaopvg~~",
+    "showTopPosition": false,
+    "skills": [
+        "医师",
+        "兽医助理"
+    ],
+    "welfareList": [
+        "住房补贴",
+        "餐补",
+        "包吃"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "VfQeM2EQMkLIl-d1-_enNidkzsHXeNQ4bnfukcFjiX7WYw-6T4RP_kroJb_ij7To3Vw7up3k1Wi__za1jKtwmjc4BmYQF8gl237ZilUSdrrQEXEV25kj",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210722/e4bea7674e7ed59a84f1a181c21db9b27298a6c79ad422e9c283dc4e471c6629_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "310c3e5114af13ad0nVy39W4EltU",
+    "bossName": "温女士",
+    "bossTitle": "教务主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "acb915fe84c19e1e1HZ609-1ElFY",
+    "expectId": 0,
+    "jobName": "数据处理",
+    "lid": "2azWJVad8yo.search.35",
+    "salaryDesc": "5-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "回归分析",
+        "决策树"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "白云区",
+    "businessDistrict": "永泰",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 35,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.302939,
+        "latitude": 23.219344
+    },
+    "encryptBrandId": "114cce43a47720a11Xx93tS1FVI~",
+    "brandName": "深圳市正奇五度教...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "节日福利",
+        "团建聚餐",
+        "底薪加提成"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

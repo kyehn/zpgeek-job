@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "黄埔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "杨女士",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "医疗健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181203/4f9ae9f11f355fd13a8ba94899dc934dcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "\t创芯国际生物科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "A轮",
+    "businessDistrict": "中心城",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "916d67f0a8bd7b1703R62tS-E1U~",
+    "encryptBrandId": "b6fe7732e178bd6a1XN82Nq-GA~~",
+    "encryptJobId": "5ad7a5311fb2201c1Hx_3NW8EldS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.150838,
+        "longitude": 113.49648
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100006,
+    "isShield": 0,
+    "itemId": 87,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "C#软件开发工程师（上位机）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7McNQwT0HrF.search.87",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "WLtnKfZ84ekqX-N1-vsSkfoJBe9qCq9bqxt1P9bgBS4S7RxoHvOrn86zYmKw3LWcMpesNKCHq2mbmAnmGGuEDX9Ab5f09rAnO4874KmCac3WWuSU3odrql9TC8a1_rDD0IPaHPGJzQQA",
+    "showTopPosition": false,
+    "skills": [
+        "C#",
+        "生物医药行业"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

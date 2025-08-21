@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "刘帅",
+    "bossOnline": false,
+    "bossTitle": "项目组长",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170627/c5239e4dee074f086f280935da1d9c3c5dc79d040d3023f775da33304d315f5d.jpg",
+    "brandName": "米提",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "回龙观",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6ba9bdddc208b4ab031-2Ni5FVc~",
+    "encryptBrandId": "df4564a268143a540HJz3tW6",
+    "encryptJobId": "3c40258bbe9958bc0XFz39S5FVA~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.080243,
+        "longitude": 116.356024
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 81,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8kiiz4XSL7Q.search.81",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "tuFOuhmwRIIfs-R1j8-mOBSWTc_EcU9LBso9L8ngJNQDmZ0u9gIFgR9zjrC2wXOG_mUjJcipasY-4ZjXR9byTj3giZP1h7r3G8YjM2q9eQt9suHXVX7EMO_KRcjZrxkrdIUHotxgcA~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施工程师",
+        "SQL",
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

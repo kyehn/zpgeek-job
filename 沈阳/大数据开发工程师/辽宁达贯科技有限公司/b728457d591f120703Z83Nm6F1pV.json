@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浑南区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250506/607f1f3d68754fd0505409272370e7db73012f3ca9ba52b9ff68c05d3cd36d08d7b13d2005065aa3_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "马女士",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "辽宁达贯科技有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "白塔",
+    "city": 101070100,
+    "cityName": "沈阳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9bb95e974677ef783nd82Ny4FVo~",
+    "encryptBrandId": "288274a441173eec1HF_39W5EFE~",
+    "encryptJobId": "b728457d591f120703Z83Nm6F1pV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 41.735366,
+        "longitude": 123.458395
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 84,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "大数据开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7wdGieYWzIB.search.84",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "GD778Epk2uIBU-g1oDHJPXm2u6QGqYMxtESebBz0Asw6V65CT9MiVG143dwBBzSh2UDr-56_kA1P6JHItqc8RTZTcKutoh0BRsuYqgNCUL2BnRST73gpgKRf9t23j1PTzFexD11lahXafQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "接受无数据开发经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "生日福利",
+        "绩效奖金",
+        "底薪加提成"
+    ]
+}

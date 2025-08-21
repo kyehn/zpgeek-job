@@ -1,0 +1,63 @@
+{
+    "securityId": "Sm9Fgwq7EcE95-j1f3ZWuTZwEbGSlN6_pM4atoR709CujVNjjrTbYacSOPfbVOoWRp_HX--U6OiTQ5N5qJKc6AIBQ3-SuMtwAEhXXXd48XowJlGOQwo~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211203/607f1f3d68754fd02ab60f3b48fc151a3b5a198aeb53c786132f1b24ff5cca093f0384596894d94e_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "a331978efab1816503F43dq1F1A~",
+    "bossName": "李女士",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e9dff334793e922a1HZ52tu7EFtS",
+    "expectId": 0,
+    "jobName": "数据分析专员",
+    "lid": "1jqHeUqon1k.search.170",
+    "salaryDesc": "6-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "SPSS",
+        "数学/统计相关专业",
+        "计算机相关专业",
+        "数据分析/挖掘经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "东城区",
+    "businessDistrict": "磁器口",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 170,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.414563,
+        "latitude": 39.892639
+    },
+    "encryptBrandId": "1a3bd8c14c0d25ff1nx43ty1FVQ~",
+    "brandName": "麦克利兰",
+    "brandLogo": "https://c-res.zhipin.com/jrs/c7280366a815a9801e169183353fb737.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

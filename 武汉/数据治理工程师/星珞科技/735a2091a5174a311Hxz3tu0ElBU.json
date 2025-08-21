@@ -1,0 +1,62 @@
+{
+    "securityId": "O08LbTYM6lKBv-X1pnWNDUxQOn3ilRDk0U_TpGaTc_KkB7oWykBIJ5Xd_FEEeHaJba0dESXlkZHc28KslbTS3VHOS_2JWc1TZmZdtY4s8_xqdOa70SZJ8ABryxAKW53DBwlqvC2fd-Px",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "55eed3f09d154e943n180925E1E~",
+    "bossName": "韩爱民",
+    "bossTitle": "技术总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "735a2091a5174a311Hxz3tu0ElBU",
+    "expectId": 1014042683,
+    "jobName": "数据治理工程师",
+    "lid": "19yrEHkR3qp.search.245",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "CAD，数据治理"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "洪山区",
+    "businessDistrict": "珞珈山",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 245,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.355461,
+        "latitude": 30.526503
+    },
+    "encryptBrandId": "3a8cf6446cddc3af0HF-0t21EA~~",
+    "brandName": "星珞科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240618/7bf6f160950405e97bce7ad554ea095e9abf5f62533a6363c28c131b27319226891a050555f4bc6a.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "保底工资",
+        "年终奖",
+        "加班补助",
+        "五险一金",
+        "节假日加班费"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

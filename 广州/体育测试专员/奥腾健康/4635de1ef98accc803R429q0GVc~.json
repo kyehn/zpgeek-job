@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天河区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201102/12658fc58d57b1d6c204915a71ef43d0d41e7ae16ab08efb2a083bed31bf91ae_s.png",
+    "bossCert": 3,
+    "bossName": "张慧慧",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "医疗健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190312/e41d1d610d16e3faeaf2d9ab93b102b9d41e7ae16ab08efb2a083bed31bf91ae_s.jpg",
+    "brandName": "奥腾健康",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "黄村",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fc6d9cefbd0d7c760nF42t28Flo~",
+    "encryptBrandId": "fe7696818ad75c891Hx63tS-GA~~",
+    "encryptJobId": "4635de1ef98accc803R429q0GVc~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.13599,
+        "longitude": 113.410032
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100006,
+    "isShield": 0,
+    "itemId": 120,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "体育测试专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5JX08qWikXO.search.120",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "uCZDjvTybCCJN-01EqOyAic8jKL1ytrjEOHrIuGfYheE_2FLt0oBQ9hE8VvMs5M0Gl3SmavstfCtRVqDGWcEZl8F7FY57LZahGDY0lprVOfy8_xJBa-camUmX4HqT73kQUqZqDa2NOE~",
+    "showTopPosition": false,
+    "skills": [
+        "健康",
+        "大数据",
+        "活动执行"
+    ],
+    "welfareList": [
+        "加班补助"
+    ]
+}

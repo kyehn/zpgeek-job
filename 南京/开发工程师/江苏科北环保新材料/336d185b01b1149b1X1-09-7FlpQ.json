@@ -1,0 +1,62 @@
+{
+    "securityId": "EeDEOG2rkZWDJ-F1vR_EWNyA038B9RMZTiAAKVr94G6qeqhKV3ssV-5rroGVAYHD8TOFckQ2Qoe4HqwtVQsp441mbv852RtumIalPSLZwR3owStehnZ0",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "fce348b6bcca529d0nxz3Ny-GVFY",
+    "bossName": "龚女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "336d185b01b1149b1X1-09-7FlpQ",
+    "expectId": 0,
+    "jobName": "开发工程师",
+    "lid": "2ZpaVMBARfv.search.264",
+    "salaryDesc": "6-8K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "全栈工程师",
+        "Java",
+        "Redis",
+        "MySQL"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "玄武区",
+    "businessDistrict": "长江路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 264,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.79027,
+        "latitude": 32.044713
+    },
+    "encryptBrandId": "c32b737ea56b3ad01XJ73d67FFY~",
+    "brandName": "江苏科北环保新材料",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "建筑材料",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "节日福利",
+        "五险一金"
+    ],
+    "industry": 100705,
+    "contact": false,
+    "showTopPosition": false
+}

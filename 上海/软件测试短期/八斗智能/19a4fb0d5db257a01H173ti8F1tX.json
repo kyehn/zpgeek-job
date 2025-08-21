@@ -1,0 +1,62 @@
+{
+    "securityId": "sSykwTXHlIsYt-R1YxC9tsJPTlnhMetpTUzRq2rVUUbIPCHrbNXY7z9XHHGd8HClrs-8_rGa_rmhf1eQ13YTmeKPN7MA1qnB08lc2WygOWnbXpr-JRte3kgi9s-2oBCfohBzIFJdqPSUeA~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "encryptBossId": "0f856581b6c6c05c0nRz09-1F1FR",
+    "bossName": "陈海飞",
+    "bossTitle": "招聘",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "19a4fb0d5db257a01H173ti8F1tX",
+    "expectId": 1014042683,
+    "jobName": "软件测试（短期）",
+    "lid": "26TqsLTIyr2.search.7",
+    "salaryDesc": "8-10K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "压力测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "张江",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 7,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.626545,
+        "latitude": 31.2028
+    },
+    "encryptBrandId": "2f8228f470d196871nV52N60Ew~~",
+    "brandName": "八斗智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201201/6651355cf088ab95fdbae0ff3a29f3c19ebf125908d3acbd8480a3ac3193cd03_s.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "股票期权",
+        "员工旅游"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

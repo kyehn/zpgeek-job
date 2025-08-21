@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220216/607f1f3d68754fd0bc2440f854b7ca98b8e9c5205bc2f4a9929219d8991dcd0a5b214ca0086778a7_s.png",
+    "bossCert": 3,
+    "bossName": "范恒彦",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "计算机硬件",
+    "brandLogo": "https://c-res.zhipin.com/jrs/f29fea4222581101fd8e2fa073500cf7.jpg",
+    "brandName": "新维讯",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "北七家",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "74012914b9c9eeac0nZ93t-5FFdZ",
+    "encryptBrandId": "cf3c9ec31dd4dae81nF83dm-GVE~",
+    "encryptJobId": "52b95e02df2aacef1nB93d2-FVBY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.106357,
+        "longitude": 116.42539
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100022,
+    "isShield": 0,
+    "itemId": 64,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4KpFH88JFRo.search.64",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "rS0QxLtUZTpz7-K1kM0BAH8CJHxiaF2u8t5sdnN4xt52OrdcnNJ_zxW4VsKape24fqSfZgx2IPbttL5XTBNP42CmYSzU3-nOW_baklIXNEyrAmQ7V1aYEDON8x-KfozNKHI3hTVlSxFGa8Q~",
+    "showTopPosition": false,
+    "skills": [
+        "网络编程",
+        "QT"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

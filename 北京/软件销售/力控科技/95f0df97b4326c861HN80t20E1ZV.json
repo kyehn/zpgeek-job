@@ -1,0 +1,63 @@
+{
+    "securityId": "VlpYgUdhrn3LJ-11ouOg5BeUinkQdo3WoJ_uDv8jbnYLchAfBy62nITzKKQ_C2OJb1cvUfnSVkS4PhvBGsQu2TXYTRv5pwAo5yzAl691QSTAMFcy",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "508481ff86c466711Hdy0ti_E1s~",
+    "bossName": "郭女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "95f0df97b4326c861HN80t20E1ZV",
+    "expectId": 0,
+    "jobName": "软件销售",
+    "lid": "1e456BQ2VVu.search.273",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "客户开发与维护",
+        "仪器仪表/工业自动化"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "马连洼",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 273,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.27818,
+        "latitude": 40.019337
+    },
+    "encryptBrandId": "f04c01b91ff26fce1nB72924",
+    "brandName": "力控科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180423/c4af33e208222ea63067ba76a306e1afcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

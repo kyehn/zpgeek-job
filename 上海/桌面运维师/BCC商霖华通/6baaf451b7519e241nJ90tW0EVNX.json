@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "吴女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "咨询",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210128/2ba62f77e725a2932b86eed15c9729d30ba4e41b872b57bef890da2fed675d22_s.jpg",
+    "brandName": "BCC商霖华通",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3913acba29b02d750nZ_29W5E1ZW",
+    "encryptBrandId": "a041608a3f2ffd681nx909y4",
+    "encryptJobId": "6baaf451b7519e241nJ90tW0EVNX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.192763,
+        "longitude": 121.437765
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100601,
+    "isShield": 0,
+    "itemId": 160,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "桌面运维师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2UhwxzQcpiJ.search.160",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "eg4dl5DPhgVKJ-E15UUQlcdOaeOXqbli3IELNNyO5_v2cplhGMiwBiScCtssejTIgnq73LTIA_gQEymR1SStJ9sdfmD4o0n7019NBYNil_xnhiKu1jTU5qenASESmud76PpgR83euslE",
+    "showTopPosition": false,
+    "skills": [
+        "桌面运维"
+    ],
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "零食下午茶"
+    ]
+}

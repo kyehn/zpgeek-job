@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190902/28d74527c226cd073fd81cf13682957892cf655f32343ad5042d03b5b1a5d061_s.png",
+    "bossCert": 3,
+    "bossName": "韩女士",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "小镜信息科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "浦江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "dc0842b3c61469740HB_2Ni5FlE~",
+    "encryptBrandId": "567c6b03f0b9362b1n1629S5EFE~",
+    "encryptJobId": "812366d538f363461nx-2Ni8FFRS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.086756,
+        "longitude": 121.509789
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 165,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2UeptAqIB9i.search.165",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "8cdCrS4XuptQY-s1qmKrFaqLRU_I_2IqTrVzLzRmdjXJzqx_eMPLvUS1UhtFpOR-NcCOZB1XnBHeqc5iRbqTQRVa0-0Gs05xbzxNUhO5jtIvn1hnTqqorknJ2SgC-LNq36vvV4TAEJBWZw~~",
+    "showTopPosition": false,
+    "skills": [
+        "硬件测试",
+        "软件测试",
+        "灰盒测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

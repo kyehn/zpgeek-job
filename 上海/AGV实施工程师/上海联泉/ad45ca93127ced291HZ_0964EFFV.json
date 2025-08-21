@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "刘玉",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200417/d1783d83c930d333c7d99f6b3afe98b8ca02f685a5afcf43e2423f969bfa5597_s.jpg",
+    "brandName": "上海联泉",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "浦江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "cb1ad5b956f3518f0nxy3967FVU~",
+    "encryptBrandId": "9b9925f428f3e6a70HV83NW4FQ~~",
+    "encryptJobId": "ad45ca93127ced291HZ_0964EFFV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.083311,
+        "longitude": 121.524053
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 77,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "AGV实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8juJFiECWBS.search.77",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "g5QOideJmDyhj-G1MsrdrcQVtK7by1wgGdc2bbqwsMIX5IdG_l4nUxNpR9kvqvT7p7TryDL0lowdUQK7BzhRP0fzaYZeeXbrpBgCzXyLmlNOVJ2ILgTRARnf8nNUH-c6vi4S1hKLnes0",
+    "showTopPosition": false,
+    "skills": [
+        "可适应出差"
+    ],
+    "welfareList": [
+        "五险一金",
+        "加班补助"
+    ]
+}

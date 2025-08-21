@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "郑女士",
+    "bossOnline": true,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "绵阳市途宁科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101270400,
+    "cityName": "绵阳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "241b4b2ec8a933370XR82927GVpZ",
+    "encryptBrandId": "926f28db393c75931Xx50ti1F1E~",
+    "encryptJobId": "d6d257f397676fb51X1539q8ElRX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.462653,
+        "longitude": 104.763305
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100022,
+    "isShield": 0,
+    "itemId": 73,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "嵌入式linux软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5cPX7B1PEyO.search.73",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "8A4ELT4b0k6w6-i1gWAfwN2l_J-7gqfupqXjUcmHWtLy8Q7nnBQAilbrSSQdIXRspPD1Ut7-v8BKjKPAv7wWrGs93f_XQ4_m63_0qqqzaDwbjZ6xPBYWgxIYMQq101TPyXn7Oa5lByxYe1r3pWHyDw2nGGcvf9G7eUygHo7BkKihPR64trk~",
+    "showTopPosition": false,
+    "skills": [
+        "通信相关专业",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险",
+        "零食下午茶"
+    ]
+}

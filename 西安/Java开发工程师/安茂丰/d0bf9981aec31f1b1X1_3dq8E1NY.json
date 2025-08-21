@@ -1,0 +1,62 @@
+{
+    "securityId": "-QCvLHSG_iQWX--1CYgH4MtCKTxf1buLjJlhaZWjrSV53zWCQYFHpVcrLjVUUrFW9kzbRP-DOHZ2o9Sr0GIGSoS6jf_xrw3K_yOdLYwilYe1JLErygijh-hjUVMhZFL9u1VcNitTA3Xkd04~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210303/3d5ba4b73c22be70d45ca71175ca092cd87da1a4daeef6064106ccf31e365ef3_s.png",
+    "bossCert": 3,
+    "encryptBossId": "a27c127190f601000nVz0964FlpT",
+    "bossName": "侯欣",
+    "bossTitle": "人事HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d0bf9981aec31f1b1X1_3dq8E1NY",
+    "expectId": 1014042683,
+    "jobName": "Java开发工程师",
+    "lid": "2AKTf5Zl6lB.search.190",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MySQL",
+        "Java开发经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "西安",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 190,
+    "city": 101110100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 109.014416,
+        "latitude": 34.331251
+    },
+    "encryptBrandId": "a99a57754df7d3d61nV42ti7EFM~",
+    "brandName": "安茂丰",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211116/7b5b554d84f9729ca9b7cae6299b8ee5864e27a3374e6d60f64dd3f5f07df95721badbaf1731d908.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

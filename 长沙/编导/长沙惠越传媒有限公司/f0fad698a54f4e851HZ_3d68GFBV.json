@@ -1,0 +1,63 @@
+{
+    "securityId": "c9JqPl2Yw9Vwh-s1sphGT_EQIL2SVMTQtDeva9TcKrnyTx_0xbNvMcC4bo5rFKVUQ6G6xXBq2DZPaMw1Z5p6PvYwnHtc4GN3OrFLQ8hDg3dhNnxWepol",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "371e4355e58d61710nF43Ni_FFtT",
+    "bossName": "何女士",
+    "bossTitle": "人事专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f0fad698a54f4e851HZ_3d68GFBV",
+    "expectId": 0,
+    "jobName": "编导",
+    "lid": "MFUX3E9xT2.search.105",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "广告片",
+        "达芬奇",
+        "网感好",
+        "Premiere",
+        "短视频",
+        "Photoshop"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "芙蓉区",
+    "businessDistrict": "人民中路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 105,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.986512,
+        "latitude": 28.188143
+    },
+    "encryptBrandId": "fa977da5fb6082771XR509u0E1Q~",
+    "brandName": "长沙惠越传媒有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230324/7bf6f160950405e99fe7735435cfdd8615832c43dd48afa363716bad2cabffd6a62a3e1fb6f4080d.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "广告/公关/会展",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假"
+    ],
+    "industry": 100101,
+    "contact": false,
+    "showTopPosition": false
+}

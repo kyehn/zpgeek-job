@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙岗区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171110/ef164390e88a2bb1180da73c2db374d0cab0675074c89676a03208d771ecced3_s.jpg",
+    "bossCert": 3,
+    "bossName": "谢广黔",
+    "bossOnline": false,
+    "bossTitle": "行政人事经理",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171110/ae41aa9f461ccff7de95734a7053f44dcab0675074c89676a03208d771ecced3.jpg",
+    "brandName": "深圳鸿玖欣",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a6d90c6f126ffb301HZ-2Ny6Els~",
+    "encryptBrandId": "d2845e8660ce04581nZ43Ny_Eg~~",
+    "encryptJobId": "9552d1209912e3ec1nF_3Ni9FFM~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.72327,
+        "longitude": 114.2696
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 93,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "r5lXMjKDkC.search.93",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-15K",
+    "securityId": "mpK32ym5ocpqF-c1NM-SOXtUOa0d7haz4PnXZ7rLPCK9h7glYuDFW_covoXC7l0SC96X17ncnrm-MwyI4ngyP5aup2zBeFYh3T5ff-7lx1u1wK2fWCuqmA1Yqvx7gLheN44RAl2iK1c~",
+    "showTopPosition": false,
+    "skills": [
+        "Android",
+        "Java",
+        "JS"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

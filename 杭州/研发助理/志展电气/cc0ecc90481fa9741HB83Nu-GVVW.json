@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "余杭区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220707/607f1f3d68754fd087650d25fcecff46b80225fd863569a4f4fe63a671abcffd3ba2cb3cf4c3b1f7_s.png",
+    "bossCert": 3,
+    "bossName": "袁正道",
+    "bossOnline": false,
+    "bossTitle": "主管",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "志展电气",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "仁和",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0ffe0cf41a071f9e0nBy2dy1FFFU",
+    "encryptBrandId": "014d9bfed2824a431nN93tS-FVA~",
+    "encryptJobId": "cc0ecc90481fa9741HB83Nu-GVVW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.452668,
+        "longitude": 120.079781
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 12,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "研发助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "QVBQYOQkU9.search.12",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "mPuDtDGg09ClQ-S1qLWA9w8VgZPAZFN5v20hukh1gpUlW-Ci3k2vEKCSfPWIg7J8mM-8nak1be2uld-0UE9VFVrLn59liUCy5-ydV8Z9dDsyoG4UDDj5FM5-V2PUedpuK8VmgLIxgFE5BGA~",
+    "showTopPosition": false,
+    "skills": [
+        "嵌入式，自动化"
+    ],
+    "welfareList": [
+        "餐补",
+        "年终奖"
+    ]
+}

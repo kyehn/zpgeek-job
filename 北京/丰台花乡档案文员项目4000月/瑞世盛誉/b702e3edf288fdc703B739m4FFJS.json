@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "丰台区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "李雪建",
+    "bossOnline": false,
+    "bossTitle": "人力",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "瑞世盛誉",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "花乡",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9f9e6c7dc4b4ddee1n153tS9FlE~",
+    "encryptBrandId": "968356006c27605b1n1_2dm9FVA~",
+    "encryptJobId": "b702e3edf288fdc703B739m4FFJS",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.827593,
+        "longitude": 116.324004
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 71,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "丰台花乡档案文员项目4000/月",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8hmDNwXeYrI.search.71",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "stvJgjy7cxaC--C1L3cIv_A2YorCGliHUqUDg4cJ1mavg6lwGjx82khEM9Q6Kc1psDEd7eLuphIeTVXc9BlBFRQbbCIiIvgpU6pKJ6VQoTGtQG7Zp44~",
+    "showTopPosition": false,
+    "skills": [
+        "档案文员"
+    ],
+    "welfareList": [
+        "宿舍有空调",
+        "餐补",
+        "五险一金"
+    ]
+}

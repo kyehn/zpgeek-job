@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220228/607f1f3d68754fd098a71e367dd793202a99e331b6d277c89c842f94046bb80c10776dd062bfc1c9_s.jpg",
+    "bossCert": 3,
+    "bossName": "赵蕾",
+    "bossOnline": true,
+    "bossTitle": "HRM",
+    "brandIndustry": "仪器仪表",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180512/89946d8742f4cd27581af20443df631b88fa863d10a9834ff720cfe8b74b6d82.jpg",
+    "brandName": "正印科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101210300,
+    "cityName": "嘉兴",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e5c1f6939c1088251Xx439S_EVc~",
+    "encryptBrandId": "7a393e78a4ccfcc71HB639S1",
+    "encryptJobId": "105d526a85a1f0b11Xd909-0FFBV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.552246,
+        "longitude": 120.667117
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100913,
+    "isShield": 0,
+    "itemId": 87,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "Python开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7wavabA7zUO.search.87",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "KBRP0wcG_Xage-X1QTFtOHQQcAXYoXxI3mhFm6kVZI-tY1nxkamLVRedr8-Oa_InR5MyctUrQUBWWasyyjF_XG2QglbLJkRR97HJ_5CM76TM1jdh5Sa4Vgd2Oqm_o2rRUUf4GtGFpkA9NnRa6pcgV_eKX6455Cb3IitYJZn6ExLwPKA~",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+    ]
+}

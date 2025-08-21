@@ -1,0 +1,63 @@
+{
+    "securityId": "-gUrGz0pYOMVT-y1wRuULDhxn91g1VfLu-OAT-yE3B0o1YAbyew11w7zH-UBdl72Dol8oy5Yxoa-1RSI-Z33egQCrBPXOsIi75H6EtfLBtUyKa8~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191014/085b76cfe5f0e7215259cc10ecb8c96936972d82d4b0808f7cb02b545895c30f_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "b9b36e59e0e76aec1XF_09q-",
+    "bossName": "原女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "afe1f65e700c15311nZ43ty_EVpU",
+    "expectId": 0,
+    "jobName": "技术助理",
+    "lid": "5JkaJXaKZhV.search.234",
+    "salaryDesc": "2-4K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "系统集成",
+        "信息化",
+        "IT服务"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "太原",
+    "areaDistrict": "万柏林区",
+    "businessDistrict": "长风西街",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 234,
+    "city": 101100100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.532877,
+        "latitude": 37.820374
+    },
+    "encryptBrandId": "64c1b5ca2712f1630nV43dy5FQ~~",
+    "brandName": "中奥赛特",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "批发/零售",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "包吃",
+        "节日福利",
+        "零食下午茶"
+    ],
+    "industry": 100503,
+    "contact": false,
+    "showTopPosition": false
+}

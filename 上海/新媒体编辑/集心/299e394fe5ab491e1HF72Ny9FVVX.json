@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230906/607f1f3d68754fd0bcf96066ab578269c02ff94147dbfaed4d5b42ad2285daa5c5803bea720459cd_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "颜敏",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180322/faa3c8dd7a44c97186b72d23077693f3cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "集心",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "梅陇",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ccdbc0bb42bff2020nJ509m7GFU~",
+    "encryptBrandId": "83812144dfd02d330HZ42tu6",
+    "encryptJobId": "299e394fe5ab491e1HF72Ny9FVVX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.136939,
+        "longitude": 121.406827
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 240,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "新媒体编辑",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2UhGqHeKxBE.search.240",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "mqQXiG5j9RwSJ-V1vu1Aeq2W1-ziFi3hz25Jqcnd_edt6jtsC4cRPpV0asZEtp8QIUs_y-0ndtE3KncuUY1IFarC5yMN8_dhdgWKOEhyO-gujzsI-eldQpv9D-E1jo15qYbBOaiJ_-A~",
+    "showTopPosition": false,
+    "skills": [
+        "全职",
+        "文字排版设计",
+        "秀米排版"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

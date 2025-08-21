@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朔城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "广州盛途信息技术",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "开发区",
+    "city": 101100900,
+    "cityName": "朔州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ff3918df6917f5440nB429S9F1NW",
+    "encryptBrandId": "78feadefbd81a24d03V73N69FFY~",
+    "encryptJobId": "e2670b7a99885cdc03B709S7FlpW",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.348218,
+        "longitude": 112.470985
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 56,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "实施顾问",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8G0azLHAc9T.search.56",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-9K·13薪",
+    "securityId": "iNNLs9UTHXLuW-31zMq5Zyir0LaJB_OC_4Iv14DC26CCfPcAixotNLmp0LhfejOZDQ7NFgazLPpDLo8cUtBpQXyZUQSej1IGFSaMZJga0Q_twcILlvTt",
+    "showTopPosition": false,
+    "skills": [
+        "ERP",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

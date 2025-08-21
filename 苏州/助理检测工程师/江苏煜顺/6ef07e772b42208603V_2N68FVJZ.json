@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "吴中区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "秦芬",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "检测/认证/知识产权",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231215/7bf6f160950405e9cf1028d89afbd1c3b47d0baf82893462808ceb2141761799f18c76ef21c20169.png.webp",
+    "brandName": "江苏煜顺",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "长桥街道",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "660156ba55ab5e9c0nZ53tu8GFFV",
+    "encryptBrandId": "3f377b527ef290a31nxz0t6_FFc~",
+    "encryptJobId": "6ef07e772b42208603V_2N68FVJZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.254769,
+        "longitude": 120.612494
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100609,
+    "isShield": 0,
+    "itemId": 95,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "助理检测工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rng4OHS0WF.search.95",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "MGCDUjxO4V26g-y1JyW61Vl6FwIqdqj0n3m8QLxCcFFjs6Hp_pOfZBVuqmiu7rp8I8f7W5VjUGGTs-uxyPBuzZ4s6LOsZ4rlXTaDqju6TW2oIP8hF8Lz7TlOp1Hg1jxLjbNUXacJ0K__EAU~",
+    "showTopPosition": false,
+    "skills": [
+        "公路水运助理检测师",
+        "建设工程上岗证"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "securityId": "3jxCIqIGGQ8cY-h1QqvAyQNNAYJmY4VK05s2aO94nTxiya5rBwA-lAsg07Zm1ADoqU8MxKGiBxaWFgUVKltT-RUilE9omHgkPpOeryJvdZTuEQnlAqu0",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "c4170e5a669d79790nZ-39u6EVpV",
+    "bossName": "郝先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "382214f6f019e68c1HZ_0t21FFRZ",
+    "expectId": 0,
+    "jobName": "物流调度员",
+    "lid": "1h7wlWrxT8a.search.198",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "调度中心坐班",
+        "货运车辆"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "宝安区",
+    "businessDistrict": "福永",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 198,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.826087,
+        "latitude": 22.658937
+    },
+    "encryptBrandId": "c2be161a58f538df1nF73960E1U~",
+    "brandName": "郝毅捷物流",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231229/7bf6f160950405e977ae2c39e61003a3e18dc000fa57c2510835030ec2c47a24ab9f3a4b17f76344.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "交通/运输",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100501,
+    "contact": false,
+    "showTopPosition": false
+}

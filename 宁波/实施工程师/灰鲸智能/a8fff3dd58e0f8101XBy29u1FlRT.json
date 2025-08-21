@@ -1,0 +1,63 @@
+{
+    "securityId": "NjG8swiunUk7j-F1blFMQBY6bFOsYMXY0cVAa7Z3mDhHTW5PvikvPQbJnuFjnvsRumomUD7tDVf88InThfxJSPdfNzIXN-MIi8Q8Wk0RDFq24TwCK3VyinjGvy9Q7VAx91GNZPCbi9HRtw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190401/dcd389558f50e197b7c7c32638ec702f5840ec2bf8a975d334714655c89e7d93_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "610637da443b53d60nxz3N28FVo~",
+    "bossName": "熊羿",
+    "bossTitle": "产品经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a8fff3dd58e0f8101XBy29u1FlRT",
+    "expectId": 1030426395,
+    "jobName": "实施工程师",
+    "lid": "M8x1Ivsbu7.search.258",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "ERP",
+        "软件实施经验",
+        "可适应出差",
+        "mes"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "宁波",
+    "areaDistrict": "鄞州区",
+    "businessDistrict": "福明",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 258,
+    "city": 101210400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.638993,
+        "latitude": 29.884954
+    },
+    "encryptBrandId": "b48c16bef511d3971XF-09i8EFs~",
+    "brandName": "灰鲸智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230228/7b5b554d84f9729c40d63e4d9e765692cf2d4c251c8de8d95840ec2bf8a975d334714655c89e7d93.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "底薪加提成",
+        "年终奖"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

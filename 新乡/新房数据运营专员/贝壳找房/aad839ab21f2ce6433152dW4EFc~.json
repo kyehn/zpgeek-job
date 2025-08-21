@@ -1,0 +1,63 @@
+{
+    "securityId": "91APMKR9bZPHV-W18s-VoWRpxFXm0vy5DQM15Y92rjpYJRp01IymUD_EGGyEHTYekmGjepW87c0sKbAXLjszodMXLjW9MzGh10S5LujXSu2it_Ax",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180709/ce764e05c85a787ad1494eb3c1ac2ef745654f7078a0166aa4ff2930a435ea73_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "52abb42dee3f9cb103Z43tS5ElE~",
+    "bossName": "袁女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "aad839ab21f2ce6433152dW4EFc~",
+    "expectId": 0,
+    "jobName": "新房数据运营专员",
+    "lid": "PWVFkWmEte.search.175",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据分析",
+        "数据运营"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "新乡",
+    "areaDistrict": "红旗区",
+    "businessDistrict": "大学城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 175,
+    "city": 101180300,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.929196,
+        "latitude": 35.296932
+    },
+    "encryptBrandId": "342679464fcc63cd1n1-39u6EQ~~",
+    "brandName": "贝壳找房",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/f4bf89b1f093d1528c46f7355e6780e1cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "D轮及以上",
+    "brandIndustry": "互联网",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

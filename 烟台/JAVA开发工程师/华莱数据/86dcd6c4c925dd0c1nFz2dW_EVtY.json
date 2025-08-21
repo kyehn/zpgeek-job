@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "莱山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "李娜",
+    "bossOnline": false,
+    "bossTitle": "人力资源",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210603/523a710912154949b3c5b48eb5461aeb8222b39f2cffc51eb4c91706468bbec9.jpg",
+    "brandName": "华莱数据",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "科技大道",
+    "city": 101120500,
+    "cityName": "烟台",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d14c1e3f82c0cd000nd-2N64FVtR",
+    "encryptBrandId": "b32fa1a2da40703f1nV409y0EQ~~",
+    "encryptJobId": "86dcd6c4c925dd0c1nFz2dW_EVtY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 37.449905,
+        "longitude": 121.482877
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 39,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "JAVA开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6ZBKyP35j97.search.39",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "khBr6abbz0ODA-u1ZGGTRp1PvftuAzF-WzjhuTNGZyjvy7n99cxs9ACv3GjW3I_sWnPdRGeHenMKUreXM9udkWPNqn4JNKylY5vhiigW9nA-Q7hn8sG4gDPrnDrd8clW3QkGKHWjB8I9KA~~",
+    "showTopPosition": false,
+    "skills": [
+        "SQL",
+        "Spring",
+        "Oracle"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "ktqEGAqFs7ZJt-g1jp-WdZnCFH_MRbzQE4e3iMv4uswAocgbcJT98pAyoprTodherRv2ZZKjRSGF1It8U8mPKU06Ditec8GOJeDJy8hVG4MP1p10lPg~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210222/174be0e23d4f587c39540a3751d0ded22a777cfb3d68e15678dc27e01c304475_s.png",
+    "bossCert": 3,
+    "encryptBossId": "e447df454946530f3nJ43dS8FlE~",
+    "bossName": "黄女士",
+    "bossTitle": "人事-专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "50c88384937b04821HN-3tW6FlJY",
+    "expectId": 0,
+    "jobName": "户用电站数据分析员",
+    "lid": "1EZbqGdJU0m.search.240",
+    "salaryDesc": "6-8K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数学/统计相关专业",
+        "计算机相关专业",
+        "户用光伏电站"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "萧山区",
+    "businessDistrict": "临浦",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 240,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.236091,
+        "latitude": 30.07644
+    },
+    "encryptBrandId": "5985102b1099a6251n143t61ElM~",
+    "brandName": "国航智慧",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211008/7b5b554d84f9729c6e606b7330eba3b390ce7d726753e2d45fa6164d7b4eb0d93e242c3d1ef6d0ae.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "新能源",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "加班补助",
+        "带薪年假",
+        "餐补"
+    ],
+    "industry": 101206,
+    "contact": false,
+    "showTopPosition": false
+}

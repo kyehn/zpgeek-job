@@ -1,0 +1,60 @@
+{
+    "securityId": "0jU9BzoMfmZnk-I1-BLgneNT9QT8RCYBQ-4wSH9Rz8Z0xMa_TuMf3Ki3mm4zTqZmDb80gf-CnQuP_PVRVkuEjHvKy_aW4i7mAKMVxbtpcFxNyJL1ixZy",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "122824b0a665cd781nR729S7FlVU",
+    "bossName": "赵先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c6dc3251e4879b2e1XJ42tW7F1dS",
+    "expectId": 0,
+    "jobName": "内勤工作",
+    "lid": "3mopC24nd8B.search.254",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "货物验收/入库",
+        "货物出库",
+        "库存控制/盘点"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 254,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.563237,
+        "latitude": 40.208824
+    },
+    "encryptBrandId": "1a604717f31ef2671nZ40tu0E1E~",
+    "brandName": "创卫",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "",
+    "brandIndustry": "医疗器械",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖"
+    ],
+    "industry": 100403,
+    "contact": false,
+    "showTopPosition": false
+}

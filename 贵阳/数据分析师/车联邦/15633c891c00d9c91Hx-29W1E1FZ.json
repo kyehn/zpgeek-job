@@ -1,0 +1,63 @@
+{
+    "securityId": "Llaa1EIMGN4yj-D168waw-fI5WuGktU19jf6TwZV784K8PbrFlqvYAUter9uae4MasuytPVE7ygtKiafde5HGeJYe5RRDkpuFZbih4JrKEQxMutMaQzcUJiJiA1O4wCFba2PjgmUH4Xz",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "0d6171d010f48cf733B73t--FFs~",
+    "bossName": "刘女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "15633c891c00d9c91Hx-29W1E1FZ",
+    "expectId": 1014042683,
+    "jobName": "数据分析师",
+    "lid": "3nt8cpU3TBC.search.228",
+    "salaryDesc": "8-12K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Power BI",
+        "MATLAB"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "贵阳",
+    "areaDistrict": "云岩区",
+    "businessDistrict": "贵阳万科城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 228,
+    "city": 101260100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 106.618597,
+        "latitude": 26.581744
+    },
+    "encryptBrandId": "8fb157ab50109ce41Xd92Nu8GA~~",
+    "brandName": "车联邦",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200617/256344be25b99c6a1cdcdf9715d5f241abc032545ae13955de5eb2733a39797b.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "其他新能源",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "全勤奖",
+        "带薪年假",
+        "餐补",
+        "内部升职培训"
+    ],
+    "industry": 101212,
+    "contact": false,
+    "showTopPosition": false
+}

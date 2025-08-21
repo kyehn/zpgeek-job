@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "渝北区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "建筑设计",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "若川",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "新牌坊",
+    "city": 101040100,
+    "cityName": "重庆",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "521083b8173c02a20HR_3920GFZV",
+    "encryptBrandId": "0739353b39e88cc31H143dW7F1o~",
+    "encryptJobId": "65f693470390891803F63NW5FlNS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 29.599209,
+        "longitude": 106.546186
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100703,
+    "isShield": 0,
+    "itemId": 42,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "无责7000元，双休，网络数据开发专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4oePLJowuF3.search.42",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "TnwMWjUmeP0nS-f1DzFI2Bu_ZWPHKS_3R7M4PQIIJ9cAnLZZUKjotKO5chLQ7v1DHOQkXUOcZGKxOPHRVX5CJU59ZhpkKbxpZWERUJjK-LlNgkAq6jU6xHwuMno61cMad65iLVHYSLFI-ZQ~",
+    "showTopPosition": false,
+    "skills": [
+        "接受无数据开发经验"
+    ],
+    "welfareList": [
+        "有无线网",
+        "底薪加提成",
+        "五险"
+    ]
+}

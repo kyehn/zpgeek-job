@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": true,
+    "bossTitle": "HR",
+    "brandIndustry": "信息安全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190821/2244267a9c874378e1ee049cfd3edb1182b72b8e7a750addeb65de6c514fe708.jpg",
+    "brandName": "嘉华龙马",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "上地",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a048d1714e6e3a060Hd52t27FVA~",
+    "encryptBrandId": "56ced63ec026b62c0nF_3tm-GA~~",
+    "encryptJobId": "1e0105eafaa9b8ac03d83tu_EVtU",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.046132,
+        "longitude": 116.303753
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100016,
+    "isShield": 0,
+    "itemId": 30,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "linux软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "89P5K2HGEwp.search.30",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-9K",
+    "securityId": "IJuY4NzKWM3sC-S1v9nrMmn57IJGHxWXzv3kgFEZWQ3FYZiDS3wQ4cMQ02YcE9FnRjYx8r2snyKsqiDZnoSOqgJl5IXPvemT4S8HJDZ5GRhtwabR6Lx1ucLf7PFu-O1vsf9g4d9JeQoKZLJHX15koA~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Python",
+        "linux"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

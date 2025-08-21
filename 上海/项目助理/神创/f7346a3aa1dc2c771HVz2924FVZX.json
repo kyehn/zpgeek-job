@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宝山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "蔡国庆",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "神创",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "顾村",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "310d06956aee7cc60nF_3d66ElVX",
+    "encryptBrandId": "de4a8d89170902481n1529q6FVc~",
+    "encryptJobId": "f7346a3aa1dc2c771HVz2924FVZX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.306705,
+        "longitude": 121.348612
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 53,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "项目助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3NT2vKv8eym.search.53",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K·13薪",
+    "securityId": "xFhbmymg32B2L-61KZWufKNTPofaoeT93drUxuo18N-n9TN_duu3_lFZpvO6xaFHT9FqPbvUBYdttb8GHuyURhl-M-EeOaXjkQtQZuOAsBXcfsUSz8WTKRFSam6Ptc8NcIXk9LyCCOcgp54~",
+    "showTopPosition": false,
+    "skills": [
+        "软件/信息技术项目"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "杨浦区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220727/607f1f3d68754fd09335ce256d8a348bc57b69c5fef82e9530b205c0973f7f71ed3cae79c6319095_s.jpg",
+    "bossCert": 3,
+    "bossName": "吴先生",
+    "bossOnline": true,
+    "bossTitle": "项目经理",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "济南华瑞网络科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "五角场",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4bb8c77ae736a7b50nF43t2_GFJZ",
+    "encryptBrandId": "02ed1b83b88aedac1XJ70t69GFQ~",
+    "encryptJobId": "bd99cbe181ea3d4403Bz3NW6FVpT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.326717,
+        "longitude": 121.546512
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 78,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "数据标注",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7HDSi2K8m3c.search.78",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "WPDK7KAqLL-UC-p1reXtyV29RNw4co5uwfFJMpK5hQw4dfmEOIYHey0Ow6sT8cYpGjNPfVpbri11hs3_xFyUSYxaFXlloNUmdk2YxJtuKGRHGODkGPi4F4N4zk3suKAsr8KLnrXRURtNzAx5DBzFUJP_FRLEI2PeTNGWOgmdGeIKpxrLI8o~",
+    "showTopPosition": false,
+    "skills": [
+        "数据标注",
+        "图片标注"
+    ],
+    "welfareList": [
+        "意外险",
+        "五险一金",
+        "保底工资"
+    ]
+}

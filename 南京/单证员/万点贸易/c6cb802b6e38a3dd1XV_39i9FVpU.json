@@ -1,0 +1,60 @@
+{
+    "securityId": "8G6G1T34-6SFt-_1lsIQNRstCtNffCp_4W_FwYvaPpqduLrGuG60qOqB5SWuFyxGHlXU-iD-5v8M9nUClAIBZd71bvgqSWMJ99P7nsDHybWIiZzUD1w~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200509/27f039abb84996d53dae537f61232e83ca20b6ad76268c2cdbeae9cca063ce9f_s.png",
+    "bossCert": 3,
+    "encryptBossId": "66d5811be2a9e6631nR909i7FVRW",
+    "bossName": "阮先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c6cb802b6e38a3dd1XV_39i9FVpU",
+    "expectId": 0,
+    "jobName": "单证员",
+    "lid": "32jJLQLpQ1z.search.154",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "贸易跟单"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "南京",
+    "areaDistrict": "江宁区",
+    "businessDistrict": "江宁滨江",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 154,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.569348,
+        "latitude": 31.825089
+    },
+    "encryptBrandId": "98513da59edc265333Z73du6GQ~~",
+    "brandName": "万点贸易",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "批发/零售",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "补充医疗保险",
+        "加班补助",
+        "包吃"
+    ],
+    "industry": 100503,
+    "contact": false,
+    "showTopPosition": false
+}

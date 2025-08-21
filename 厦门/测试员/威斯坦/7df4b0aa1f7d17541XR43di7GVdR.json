@@ -1,0 +1,61 @@
+{
+    "securityId": "1pa7RYGpwgMVe-v18WH1jbgPPnhuXf2AR5B25TzIJA3qAjy13RVq-fBHjSwLtTYgX3UYgZ1GqYm5-OJQi-OLB06w9RvjmHSA-HAf9Smj5IwW2fUNgp8~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211222/607f1f3d68754fd06c90dd5ff95ab9aaa3a8ed0e3788b4d8f9ae1273044f6249ec5cd60de3180f60_s.png",
+    "bossCert": 3,
+    "encryptBossId": "3c442c33d57d35561XN93dy4ElA~",
+    "bossName": "罗女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7df4b0aa1f7d17541XR43di7GVdR",
+    "expectId": 0,
+    "jobName": "测试员",
+    "lid": "5MtjByimMY0.search.233",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "系统测试",
+        "硬件测试",
+        "软件测试",
+        "化学或高分子专业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "厦门",
+    "areaDistrict": "海沧区",
+    "businessDistrict": "新阳工业区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 233,
+    "city": 101230200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 117.983019,
+        "latitude": 24.51599
+    },
+    "encryptBrandId": "b113f990cfee39261XR52d-0FlY~",
+    "brandName": "威斯坦",
+    "brandLogo": "https://c-res.zhipin.com/jrs/c8301785f7e66e16ddeacd6f41bf0f42.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "机械设备/机电/重工",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100901,
+    "contact": false,
+    "showTopPosition": false
+}

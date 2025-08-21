@@ -1,0 +1,62 @@
+{
+    "securityId": "KcDTolx3YFmH3-Z1ViKYlFMQuDdv_mqvJfLq5B_z9DjgBxRLuNd7A_qNOcdoVUZixvFKzpEV1XcZpMmdrrE-4ZnI_5QwNithKkFepay_OdcfDRTNP5k~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210820/607f1f3d68754fd0674b501fb39bd9d804c54ca8254d9670769444ce50a09b5da14a10f9ada63d56_s.png",
+    "bossCert": 3,
+    "encryptBossId": "c09e8ac44b8e432f1Hx92dq7EFI~",
+    "bossName": "周先生",
+    "bossTitle": "制作人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "5d9b5954bdf4d8fa1Xxy39y4F1RY",
+    "expectId": 0,
+    "jobName": "游戏系统策划（培养岗）",
+    "lid": "1JZJNSJNHU9.search.203",
+    "salaryDesc": "3-7K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "系统策划",
+        "执行策划"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "上城区",
+    "businessDistrict": "丁桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 203,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.218718,
+        "latitude": 30.357835
+    },
+    "encryptBrandId": "9f27e1019e8c44371XN90t26FFE~",
+    "brandName": "米路游",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230610/7b5b554d84f9729c26eae2f544636f05e0e3901630eed799769444ce50a09b5da14a10f9ada63d56.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "游戏",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "股票期权",
+        "保底工资",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100002,
+    "contact": false,
+    "showTopPosition": false
+}

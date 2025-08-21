@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240530/607f1f3d68754fd0b0c246396893181320175c287d38ec059227e872aa8668547087d320566bd41b_s.png.webp",
+    "bossCert": 3,
+    "bossName": "郑小英",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/50139ad459d4c5dd363182fe891a3da6cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "北京湛腾科技",
+    "brandScaleName": "500-999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "安宁庄",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a352ee165ed8ff640nN809W8EFM~",
+    "encryptBrandId": "830973d7d345e15a1nRy2tu4",
+    "encryptJobId": "9a11b132f21dccfb03d-3d60GVZX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.047774,
+        "longitude": 116.317628
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 25,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "UWB测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2zBf1qs8KSW.search.25",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K",
+    "securityId": "eP-MGFB3bxXXq-W1xU9kbfReJizbd34pUqp0X2Y5Ne8nzVWsFiF2KWmWHXdYPGaQ3Y2_BxAmxif2eqd9ELKRELv8r7CoOrJYERuJOHlFxctuqpOYRIDTCBsByPtOcicNG0Ha-RJ2Fzc~",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试"
+    ],
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "带薪年假",
+        "节日福利"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "RAwYVhV2czUEn-f1N_jBXZWONTM0iPiKlRuZliwa1Gu05vss-6C8k3oDCVrDFtrDRL0IXaE6mN8YsgnLeI6890Z0NR1u0-lkx1s1MsoErjMx-940otYg",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210303/d29e9ccf9577ee4215b03d4487dcb818116f3c36879a9591f63f22b02e8fc14f_s.png",
+    "bossCert": 3,
+    "encryptBossId": "4befcbfeda7b694a0nVz0t65E1RU",
+    "bossName": "郑女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "31bd828e03aea8651XZ-2t-5GVJS",
+    "expectId": 0,
+    "jobName": "后端开发工程师",
+    "lid": "1KRNLiA631w.search.120",
+    "salaryDesc": "7-12K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "架构师",
+        "Spring",
+        "Oracle",
+        "MySQL",
+        "SQL Server"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "天津",
+    "areaDistrict": "西青区",
+    "businessDistrict": "张家窝",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 120,
+    "city": 101030100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 117.026664,
+        "latitude": 39.097766
+    },
+    "encryptBrandId": "39718884f1e204c01n1509q7FFQ~",
+    "brandName": "云华",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230601/7bf6f160950405e9f3a586aaccadc4165b3d56fa32dff303116f3c36879a9591f63f22b02e8fc14f.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "全勤奖",
+        "年终奖"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

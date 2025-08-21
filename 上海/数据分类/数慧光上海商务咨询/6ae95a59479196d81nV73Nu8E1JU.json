@@ -1,0 +1,62 @@
+{
+    "securityId": "uaGuIPTAlMT9o-z1MuzG6oSCx4J7ybSKpOMx9D538cp2zOT3MR_T-3PpouEEAmSkpf47AXqSBJ5cEkiwOPsddzwCknIGrUhJ5fGQ_fkq5lm6auQunQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "21051587088cedf133F839u1FVI~",
+    "bossName": "郑女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6ae95a59479196d81nV73Nu8E1JU",
+    "expectId": 0,
+    "jobName": "数据分类",
+    "lid": "16WcCeo5Jnx.search.149",
+    "salaryDesc": "5-8K·14薪",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "社交"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "闵行区",
+    "businessDistrict": "虹桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 149,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.376925,
+        "latitude": 31.176492
+    },
+    "encryptBrandId": "060e5f7df7971d6a0HR83dS0GA~~",
+    "brandName": "数慧光(上海)商务咨询",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200107/0f9c8453d335ca7885b46c2f550fb3890646daabd952235c9d096187e2fae9e0.jpg",
+    "brandStageName": "B轮",
+    "brandIndustry": "咨询",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "员工旅游",
+        "年终奖"
+    ],
+    "industry": 100601,
+    "contact": false,
+    "showTopPosition": false
+}

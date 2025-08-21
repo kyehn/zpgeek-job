@@ -1,0 +1,62 @@
+{
+    "securityId": "FqCqbIJt4QfKh-41HbQlGy2n1KroGC0TzqbPILAMtOJpp_5DkQn_JOvlTkDxsFEXAJmBgL-OqhN4PmzdI3Qn6WL3Gx_cJ_Nszu91ewoaJOCo0Q4-yzEMUCaV-AwDEdM0H0Y-RoUtoc9X6wI~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "70ad2a6dd3ac354e0XN82965EFpV",
+    "bossName": "张欣欣",
+    "bossTitle": "HRM",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6341163e5cff7c1b1Hxy09u-GVpS",
+    "expectId": 1014042683,
+    "jobName": "测试工程师",
+    "lid": "2AfKLY0MXBI.search.238",
+    "salaryDesc": "7-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "Python"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "厦门",
+    "areaDistrict": "思明区",
+    "businessDistrict": "莲坂",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 238,
+    "city": 101230200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.127433,
+        "latitude": 24.484334
+    },
+    "encryptBrandId": "b04f65259aa255df1HN43Nu8EVA~",
+    "brandName": "厦门五八乐科技公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "加班补助",
+        "年终奖",
+        "生日福利",
+        "节日福利"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

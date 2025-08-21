@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宝安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "张献才",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210420/6ddd6a421bd8b2d9998fe29146a8da1d47712f4de41c48442d572d98f3d049fb_s.jpg",
+    "brandName": "环阳通",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "石岩",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "acc59656402c8db40X190t6_EFtS",
+    "encryptBrandId": "230b6fc0aff481941nB92dW0Fls~",
+    "encryptJobId": "02a3f2993db29fd703Z-2Ny4FFBX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.694562,
+        "longitude": 113.974655
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 61,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1JJVQ7KVb4o.search.61",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "Z7LTSRh9Go9xo-N1cGpI1WevuRF4zcR2BRLFuCpvqwj8OaYQeY4c6OU_YlMI31M-xn1_bCWDxXNdA8OUxq6CJfR7dltsfCePa_jozpoVJ6pl8Hvn5uChpmvpSsH8yz8kNCAF5-wp7MoJoM8~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金",
+        "全勤奖"
+    ]
+}

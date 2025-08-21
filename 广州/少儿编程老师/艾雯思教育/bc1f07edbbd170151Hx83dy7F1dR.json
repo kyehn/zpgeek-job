@@ -1,0 +1,63 @@
+{
+    "securityId": "kmbd_SDFU6obk-j1akCS-dZrsqJyZ772GHK_AAnZ0si1L9cQE5OrVttdI4sIyqkCg6KjxIDx0psTuUbgjWNAJ8PIGPyWaUiOYBwbksICjMo9Fi7ZQdI6llEL5fFD60n6KxVQfQNYw23H",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231220/607f1f3d68754fd0a1caf973b820cf5a8fb7b69a027abd341e8c000d535b72cbdcf4ee657c70269e_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "d7d5c47a15aec1e31nV_0tS7FlZZ",
+    "bossName": "古女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "bc1f07edbbd170151Hx83dy7F1dR",
+    "expectId": 1014042683,
+    "jobName": "少儿编程老师",
+    "lid": "1gCpN1yyukJ.search.270",
+    "salaryDesc": "6-10K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "编程老师"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "番禺区",
+    "businessDistrict": "大石",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 270,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.310692,
+        "latitude": 23.028012
+    },
+    "encryptBrandId": "56bb97c8d0b559d503Z_3N65",
+    "brandName": "艾雯思教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190517/a517601cbb80a19caaaa851bb918fb793510d3d1b5fc58478606597ea8afb860.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险",
+        "节日福利",
+        "通讯补贴",
+        "带薪年假",
+        "全勤奖",
+        "股票期权"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

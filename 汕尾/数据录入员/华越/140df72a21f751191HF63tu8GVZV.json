@@ -1,0 +1,58 @@
+{
+    "securityId": "GQuQOSN3jjEMa--1Hkq50Og5pkFqvOVDuVofc0sX09YFwE79qjnkujhDYdK0bmgyI6RR0sUjKs__SsBeh8XT9EJPtb5eGCSn5Lgy80N-Iz5OQwPP4mVSJVVrVeLl8Hxf_4GoWgEXnUD4NfE~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "493f852edcf6415f0nVz3tu-FFRW",
+    "bossName": "罗振权",
+    "bossTitle": "驻点负责人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "140df72a21f751191HF63tu8GVZV",
+    "expectId": 1014042683,
+    "jobName": "数据录入员",
+    "lid": "3nAJnnI2C5f.search.257",
+    "salaryDesc": "2-3K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据录入"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "汕尾",
+    "areaDistrict": "城区",
+    "businessDistrict": "凤山",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 257,
+    "city": 101282100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 115.36237,
+        "latitude": 22.773699
+    },
+    "encryptBrandId": "96401420f22ac8021Hdy39i9GFM~",
+    "brandName": "华越",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "社保"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "王振兴",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190702/23b8d118137db144eed8592ba1e0c7e3ccaa4c58200ea15fa42e3fa29f83bfbf.jpg",
+    "brandName": "慧聪广教云",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "安贞",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c8e5e844054c747a03R83tm1E1c~",
+    "encryptBrandId": "274501c7b856a2fc1HB90967FA~~",
+    "encryptJobId": "15fa0759df303db01XR40tS9GVNU",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.978149,
+        "longitude": 116.413842
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 74,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "行政专员/助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8hmDNwXeYrI.search.74",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "C9TiW4omwFWwX-n1otScP7u9LWz0tjFg_gxEZlfcGBICEGOtG_LVcYBKypT3HCXtY2zqYWg6lHlqtBnEe5NblNtBR65G0a-Grsv9Vx3ImtoA-mQDoCL159Nvi8Xx79_3M_aWacm3M-4Ud3tvFmAktA~~",
+    "showTopPosition": false,
+    "skills": [
+        "后勤管理"
+    ],
+    "welfareList": [
+        "节日福利",
+        "带薪年假",
+        "五险一金",
+        "员工旅游"
+    ]
+}

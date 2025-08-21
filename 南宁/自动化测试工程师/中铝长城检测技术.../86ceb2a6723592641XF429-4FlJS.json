@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "兴宁区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221019/607f1f3d68754fd0fa9931ce50d9fcb8a905332c3f2b076ed1ec02b8aa17600e191fba8e96beabe1_s.png",
+    "bossCert": 3,
+    "bossName": "李学鹏",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "检测/认证",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230223/7b5b554d84f9729c655fc026786e7d89b0ff06984d89dcb1ddf6d2a23841167cb921226986d66ed2.jpg",
+    "brandName": "中铝长城检测技术...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "三塘",
+    "city": 101300100,
+    "cityName": "南宁",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "19608bfd07f0347c0nJ-3dS6ElRV",
+    "encryptBrandId": "e7cbde0f491a4f061XR93924ElU~",
+    "encryptJobId": "86ceb2a6723592641XF429-4FlJS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.870981,
+        "longitude": 108.426599
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100606,
+    "isShield": 0,
+    "itemId": 16,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "自动化测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1XKuqVodxSj.search.16",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "XJ8uxgQZ9Z-E8-V1XSC18bF9HrM5eZcWx4EJPHkXE1Y_5MKjR8KNseXpESahvZZHqzcvTdrrXBzyO3ixOgk51qM0rxIKGDpICBYPA2WDqMYIo2U-6h6xnp4fzTjPFyvWBtKWggwKMvIChX0~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业",
+        "化学化工相关专业，分析化学相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

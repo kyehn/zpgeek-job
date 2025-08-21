@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "卧龙区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240227/607f1f3d68754fd04816a8cfa2efa60ff66ec232642a33a8cd14f0d0109b557ec634f64a9abc2db0_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "王先生",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "银行",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240228/7bf6f160950405e9c812e6a7c1896f8fd688ec378c5a5335cd14f0d0109b557ec634f64a9abc2db0.png.webp",
+    "brandName": "正程",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "新华路",
+    "city": 101180700,
+    "cityName": "南阳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a9da29d3de9082390XR8096-EVRT",
+    "encryptBrandId": "6f5dfba79c6626fc1Hd609i6FlY~",
+    "encryptJobId": "432791b8fbd5bc681HB62t-6EFtW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 33.009085,
+        "longitude": 112.529011
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100201,
+    "isShield": 0,
+    "itemId": 232,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5bPTAHbthYR.search.232",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "1ipqFMV6TtX8b-91xre2YBWEC_TvefRnqGZjVbYE6wzVozy0gZQjnSUNCCQgyyJja9AlifidvNyXV6Wknjy1ixTA5sFyRc6GpwwsCC8cq3jn8k8lqLlvs7Va-xxPLxVuCYxUoACgSZx2o3s~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "意外险",
+        "底薪加提成",
+        "五险一金"
+    ]
+}

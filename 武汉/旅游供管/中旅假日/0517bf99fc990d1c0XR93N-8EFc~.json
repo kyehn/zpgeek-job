@@ -1,0 +1,61 @@
+{
+    "securityId": "mDnZiYhAbPa8Y-T1KrMuQneAJ4U04DwwCpPnGVLkSJwKLHal8bVsJvWJzmepOpNI4rM0MHy0WHkqpfmJ-x27zpEPBKgM-uQ9pHuajHPK1ZSF63lG",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190316/611bf673e5c26fa0b1dc3f86cc253c5f3832b102f12250a2da3cafdc51b0b448_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "77a1465b9ec21d600nN-3dS8EVM~",
+    "bossName": "张女士",
+    "bossTitle": "行政部主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "0517bf99fc990d1c0XR93N-8EFc~",
+    "expectId": 0,
+    "jobName": "旅游供管",
+    "lid": "2Al2lAsEedi.search.128",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "导游证",
+        "旅游"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "江汉区",
+    "businessDistrict": "常青",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 128,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.2336,
+        "latitude": 30.62059
+    },
+    "encryptBrandId": "38377b39610308bb1Hx429-7Fw~~",
+    "brandName": "中旅假日",
+    "brandLogo": "https://img.bosszhipin.com/beijin/boss/brand/common/img/20240527/0a1ba9d54e3d0f862de096182207041501a6eb8b8434475a6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "旅游",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "节日福利",
+        "员工旅游",
+        "全勤奖"
+    ],
+    "industry": 100009,
+    "contact": false,
+    "showTopPosition": false
+}

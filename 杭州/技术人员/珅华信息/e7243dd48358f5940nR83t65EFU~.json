@@ -1,0 +1,60 @@
+{
+    "securityId": "QK6tNhYPX5gPv-n1XBBQnOweAjyh8QjxznaJvB4Oq4wWfFWhgkkofZdNaX8QxS8KotLwg92oI4-NPj8ktTm74rEHIJMrhG-6PBR9BZ-pMFw5ULZg",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "encryptBossId": "4fa61aaff4281b4a0HV92dW-FVE~",
+    "bossName": "王先生",
+    "bossTitle": "监事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e7243dd48358f5940nR83t65EFU~",
+    "expectId": 0,
+    "jobName": "技术人员",
+    "lid": "5GShbxMoYbM.search.224",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "现场运维",
+        "故障排查",
+        "设备运维"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "上城区",
+    "businessDistrict": "闸弄口",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 224,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.192916,
+        "latitude": 30.284412
+    },
+    "encryptBrandId": "c2cd646a38ae42430nd40tq9EQ~~",
+    "brandName": "珅华信息",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190817/9b9e71866472e7ade30ba830da163a97b6327d92d2ca6f6f2bebf0bffcef0a45.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100024,
+    "contact": false,
+    "showTopPosition": false
+}

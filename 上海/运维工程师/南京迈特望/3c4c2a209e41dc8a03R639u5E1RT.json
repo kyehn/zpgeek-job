@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241211/607f1f3d68754fd0760db72a5bc9f43231fb3c8aa330676e5cca7b0d180debc9df2dbe6497ea4303_s.png.webp",
+    "bossCert": 3,
+    "bossName": "徐先生",
+    "bossOnline": false,
+    "bossTitle": "高级招聘顾问",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170330/37a0df3df5e30741fce363286c9bcab72f2e37f88f4a22cfed6fc841193fb3c3.jpg",
+    "brandName": "南京迈特望",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "张江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "294007d54c1ac9500nV_3Ny5FVpY",
+    "encryptBrandId": "7e2181b1cd739d211nV709u_",
+    "encryptJobId": "3c4c2a209e41dc8a03R639u5E1RT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.195853,
+        "longitude": 121.585316
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 56,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4dGgBuG4BEM.search.56",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "hrzWdzExiCFk1-n1qDCQIZ-2JoDzHo7CJg4KtE1EKHWi1-zMCWsNlqkzEsLgMMYESYKK3yfLEwFOZ_PD-GDIQyDSakUsSb8et_v9Z1wbUcN4FipTfX0CxQvkvMf3zOKfjQ2dWSesPMaY",
+    "showTopPosition": false,
+    "skills": [
+        "Python/Shell",
+        "通信相关专业"
+    ],
+    "welfareList": [
+        "节日福利",
+        "意外险",
+        "五险一金"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "securityId": "WYSw8sVWhVded-m1LIf6MEMBHYd1iEcZ43I8zboK_dTA6IM1Lt0F3auveSshJF2t5EkpWVqR_lJGRJVAGeEDVa3bzo1sCSwjsg0n-S0pukqvyZFTLw~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "129472e674d8e04033Bz39y7FVM~",
+    "bossName": "赵先生",
+    "bossTitle": "人事/出纳",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1cebc49ef40ea9211HN42920FFtV",
+    "expectId": 0,
+    "jobName": "视频运营",
+    "lid": "29uZJKMX5zU.search.210",
+    "salaryDesc": "3-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "电商"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "张家港市",
+    "businessDistrict": "杨舍镇",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 210,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.541617,
+        "latitude": 31.904681
+    },
+    "encryptBrandId": "b8021fba4be1815d0nZ82tm1EA~~",
+    "brandName": "百宝汇",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "其他消费品",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 101013,
+    "contact": false,
+    "showTopPosition": false
+}

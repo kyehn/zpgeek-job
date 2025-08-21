@@ -1,0 +1,62 @@
+{
+    "securityId": "L3MpcudZvCDaO--1I_k2Btt897Q7J91Jy6pM_l0OXCgAPc9MfQorgopAjDiK74MmfRg5mOvCdMa9k37xjz8P93RXumX4eL3KTEUTPCPLTehrRC8SkqVdnJT65onsYulIPdmaRxlZzczHFA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240627/607f1f3d68754fd043af7bd436a21905ee588ab913391f2757beb401f5fca9177d1d37fe11772649_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "7b0e50ee8b225b280Xd539q6EFFQ",
+    "bossName": "冉女士",
+    "bossTitle": "人才经纪人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "53023d3a5ff1fb5b1H162N-0F1FX",
+    "expectId": 1030426395,
+    "jobName": "软件工程师助理（java）",
+    "lid": "2ZtyVRWby17.search.158",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C++",
+        "Java",
+        "Python",
+        "QT",
+        "MySQL"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "重庆",
+    "areaDistrict": "江北区",
+    "businessDistrict": "五里店",
+    "jobType": 5,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        3
+    ],
+    "itemId": 158,
+    "city": 101040100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 106.569262,
+        "latitude": 29.57525
+    },
+    "encryptBrandId": "bc7d8c73ca24d24e33R-2Nu8EQ~~",
+    "brandName": "金康动力",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "",
+    "brandIndustry": "新能源",
+    "brandScaleName": "20-99人",
+    "welfareList": [],
+    "industry": 101206,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "赵女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231211/7bf6f160950405e9c36ff545e6d98cdf7014eda9cd85261d6bbfb2536eaba113009f6facc8030951.png.webp",
+    "brandName": "博立科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "高新开发区",
+    "city": 101060100,
+    "cityName": "长春",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c2d52c0cfa3ca2720nRy3Ni7E1JX",
+    "encryptBrandId": "36b0ccb6e7c65a5c1nx_39W5FFI~",
+    "encryptJobId": "f6f014ef319148fc03F42dq6EFRQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 43.821456,
+        "longitude": 125.253824
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 63,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9aBcbkMhI66.search.63",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "TpZXM9n5S2FSp-u1o8KLPU01WAfy1rVNvlWRKQyHsD6oL-EYzAWtbmWsmegHMFLyMm2P3Xzu7v4i2dyiBzWhSTqvbApsjiNb5rnNO8vxWgy2AU4eS9bl2YdMkXeAGfd5WYTpCoELP3g_XHs~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维",
+        "系统运维",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

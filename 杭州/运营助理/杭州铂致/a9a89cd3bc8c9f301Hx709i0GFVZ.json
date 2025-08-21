@@ -1,0 +1,60 @@
+{
+    "securityId": "HYjSWDPLeOX9c-B1QHMDqb88icggx1Pf2e93qP1hDIyvdmPTVveIWga4zlplrLgi7_caPd2TVo_KojfIlmUVhKYyzGDb37jdXDUigN8Xj6IjAq8Qta8jwalPaWGIAO4L0POwQlBO4FLoVec~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240827/607f1f3d68754fd08471d1a5a2c8712edac683e303fc30541d12c92202924e0f08a8a5303d822ca8_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "02ba83086df746130nd43t67FlRX",
+    "bossName": "邹先生",
+    "bossTitle": "运营",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a9a89cd3bc8c9f301Hx709i0GFVZ",
+    "expectId": 1030426395,
+    "jobName": "运营助理",
+    "lid": "2ZYkVkEIQrB.search.261",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "运营助理"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "拱墅区",
+    "businessDistrict": "祥符街",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 261,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.111591,
+        "latitude": 30.336646
+    },
+    "encryptBrandId": "f5d10715346545d01HJy3968GFc~",
+    "brandName": "杭州铂致",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "全勤奖",
+        "保底工资",
+        "绩效奖金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

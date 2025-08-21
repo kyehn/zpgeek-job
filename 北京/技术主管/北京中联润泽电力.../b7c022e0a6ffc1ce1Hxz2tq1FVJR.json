@@ -1,0 +1,62 @@
+{
+    "securityId": "2wIFNnTYSWwio-Y1y596UjEPQGB4IT_K5J2n-_SnEA-1AOcLsbNINBds2ptoUAx2dXvdimc-agHTjO6iB9St4h_3z2ZZQDDSmfl64Vg33N4rqXltIv1k5sXGhwzHY5x0YnW315-3xFozqYA~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221227/607f1f3d68754fd018428c46c63059d6dd171ee5281e0a40f146b1e3d8b51cafa529abd5709350de_s.png",
+    "bossCert": 3,
+    "encryptBossId": "89529566a782fa120nZ72d65FVVW",
+    "bossName": "张帆",
+    "bossTitle": "人力资源总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b7c022e0a6ffc1ce1Hxz2tq1FVJR",
+    "expectId": 1014042683,
+    "jobName": "技术主管",
+    "lid": "2bqiOHHGKAY.search.68",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "网络编程"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "通州区",
+    "businessDistrict": "次渠",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 68,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.539829,
+        "latitude": 39.818042
+    },
+    "encryptBrandId": "28e67ce13e384cd61nB83tu8GFo~",
+    "brandName": "北京中联润泽电力...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220421/7bf6f160950405e95e5cf013037f63da4922e42e2e2155ebf146b1e3d8b51cafa529abd5709350de.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "电力/热力/燃气/水利",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "包住宿",
+        "包住",
+        "宿舍有空调",
+        "带薪年假",
+        "五险"
+    ],
+    "industry": 101205,
+    "contact": false,
+    "showTopPosition": false
+}

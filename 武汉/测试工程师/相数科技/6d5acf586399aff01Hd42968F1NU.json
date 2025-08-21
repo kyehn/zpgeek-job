@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211012/607f1f3d68754fd0987e5ae503b00d7412bff3789624585e90cb5dc89d7be0e6a14af8fb684571a4_s.png",
+    "bossCert": 3,
+    "bossName": "刘登峰",
+    "bossOnline": false,
+    "bossTitle": "项目经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230427/7bf6f160950405e9b330e15b38400f8b094497b84a12890c6bf9ffe56bb490bab18776acc0b63eb6.jpg",
+    "brandName": "相数科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "A轮",
+    "businessDistrict": "光谷",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8511b7e8dfbfcbbc1HN73ty4FVQ~",
+    "encryptBrandId": "5b292925e21d048e1nR52ti_GQ~~",
+    "encryptJobId": "6d5acf586399aff01Hd42968F1NU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.517771,
+        "longitude": 114.395566
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 34,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8sVZH1S4k1z.search.34",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K·13薪",
+    "securityId": "qDrV02KycseNZ-814l4pdUlCCL-o9isQ6Ad-SyptBCRIlPf_X0LIZ-ignxGnKxA8qa18klU63dv6kjeOcOeAsWCl4X3AZrE8huQuGHy3FhopF8doIOgRpsmn7iVikXj9u2q7tqIzxBSx",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "压力测试"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假"
+    ]
+}

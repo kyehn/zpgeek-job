@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "岳麓区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230222/607f1f3d68754fd0f021b9b650b7b85e7c59be3edf50c91c654027ed78c73578ab3a78deb5f64bc9_s.jpg",
+    "bossCert": 3,
+    "bossName": "周合军",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "医疗服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210222/01272840b87826ab27351c955ca8162dd8ba38d280bfd6c55ad23ec6976854a3.png",
+    "brandName": "湖南仁宏科技有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "桐梓坡",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3f1ddf0cc378e9910nx43tq4FlVZ",
+    "encryptBrandId": "902a6457e916fd3d1nZ70t-5EFE~",
+    "encryptJobId": "938fdefdbb040e391H173Nq6EFVU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.217527,
+        "longitude": 112.939808
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100402,
+    "isShield": 0,
+    "itemId": 36,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1JDSEazN3gG.search.36",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K",
+    "securityId": "KUAS2F0B8ag3O-21CJ9l5DWcigQZW35UX0xQkbEa2QV7eRpD5-V7GiJQc00zroDh3GYUEAV9niTsVUyCDTiDKHw2joNYwLvNVTxrBpeEk8jiKGnihR-LSbyPFwWlO_2S7_9JzfrbQfaDYKI~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维",
+        "MySQL/Oracle",
+        "系统运维"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

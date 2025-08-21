@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "田女士",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210325/2d7fbf8d8a7ede9812abf130b1f6a3347e814ce33cf4042b1b165844d6061b1d_s.jpg",
+    "brandName": "信智特",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "朝阳门",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b1547cfbc068c8b21X1z39-6GVE~",
+    "encryptBrandId": "822232d46a7c069633B43N-8Ew~~",
+    "encryptJobId": "21cc8dcdc87efa571HB829m_FVdT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.928123,
+        "longitude": 116.435844
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 9,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "java开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3kRHaHwc70g.search.9",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K·13薪",
+    "securityId": "0ctKUEcbCt79Z-l1vg-H3x_ABWVgDwjr0zOHyITeDhzmGgWCv9A04CU8jOv09JT7wGvPAITV72gTB12UyEyAhh_G63m8Vv722ayXWB77jupFPteIOeKQ2kBib9c62jusCKraZ5hnvhwJ",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "不接受居家办公",
+        "Spark",
+        "Spring"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

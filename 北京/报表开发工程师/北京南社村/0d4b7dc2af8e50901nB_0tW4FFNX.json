@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "郭发平",
+    "bossOnline": false,
+    "bossTitle": "报表开发工程师",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170917/8c055837436694016f26893c1190b25133384828ebdfa688afeead14fc5f978d.jpg",
+    "brandName": "北京南社村",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "回龙观",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "29e40bcc1fdce51c1nZ83tm4E1E~",
+    "encryptBrandId": "e718e049752b75e61nR_0tW-Eg~~",
+    "encryptJobId": "0d4b7dc2af8e50901nB_0tW4FFNX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.073932,
+        "longitude": 116.360581
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "报表开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cOPJ0GXpIl.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "PLlDZMC3A6UTf-Y1T8O4FphcAonGqBiAQgZNZCJQLzX33aha9DdGEmvfe0muJ-5QULPj2LpcTpdxdGFn-S1mCI80soO39WmTYKITuDgga6WLlFQqXbRjk0G-BpX8ssVaAX4j6j8NZuGV",
+    "showTopPosition": false,
+    "skills": [
+        "SQL",
+        "FineReport（帆软）"
+    ],
+    "welfareList": [
+        "餐补",
+        "交通补助"
+    ]
+}

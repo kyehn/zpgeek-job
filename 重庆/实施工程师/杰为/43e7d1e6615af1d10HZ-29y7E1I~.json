@@ -1,0 +1,61 @@
+{
+    "securityId": "PVaO3ovjIPY5N-Z12yJ_RVPYjpb_cDWbLzwMAp5_PWM3x6noqjSuocsxQ6I2aQRMg5IQ6AN2KgoIGupMETessUx7ei-NA0O2QUXh71CpEqNJ6Cey",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191010/4db7472d33d1df6dce6df4cf020eee471358aa061bbbf7b382cff20ede54c6e1_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "f03f37c26fde3e0b0Hx72tq8F1M~",
+    "bossName": "唐先生",
+    "bossTitle": "总经理/技术总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "43e7d1e6615af1d10HZ-29y7E1I~",
+    "expectId": 0,
+    "jobName": "实施工程师",
+    "lid": "2vWiYc1Z0Nb.search.234",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "SQL",
+        "实施工程师/顾问",
+        "Java",
+        "服务器配置"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "重庆",
+    "areaDistrict": "九龙坡区",
+    "businessDistrict": "二郎",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 234,
+    "city": 101040100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 106.45977,
+        "latitude": 29.504759
+    },
+    "encryptBrandId": "c0700608b4e4af4f0XV82961EQ~~",
+    "brandName": "杰为",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191010/81a3e63dfa0ae71291695a286023e5941358aa061bbbf7b382cff20ede54c6e1.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

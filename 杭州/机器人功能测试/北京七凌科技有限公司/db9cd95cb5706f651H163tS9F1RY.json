@@ -1,0 +1,63 @@
+{
+    "securityId": "ZoUJNQB53m7NL-x1M6fvV0TErLxbkqnYH4vJWA61iHxWzqaKxJdCU_XU_DuEnrpbebh6nmRxx-ACvfTerHLMrv63_I8TVI-edlpQvqo8ezrtHwh0sveKMXYgxdIb66cC_0FhCOo_uWqdmWA~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240826/607f1f3d68754fd04a799190e9623ad77eb1dea2bff4a1ed73e93faf451c004f877beb28ff798661_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "557921a22e0897000nV83tq8EFJU",
+    "bossName": "卢女士",
+    "bossTitle": "资深招聘专家",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "db9cd95cb5706f651H163tS9F1RY",
+    "expectId": 1014042683,
+    "jobName": "机器人功能测试",
+    "lid": "2BvzahTVtmg.search.196",
+    "salaryDesc": "7-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "测试或者测试开发",
+        "机器人相关从业经验",
+        "功能测试",
+        "背部穴位按摩"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "滨江区",
+    "businessDistrict": "长河",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 196,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.190678,
+        "latitude": 30.187641
+    },
+    "encryptBrandId": "2c246864df823e721XR_2Nm5E1o~",
+    "brandName": "北京七凌科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240730/7bf6f160950405e9bb5a6750321a65df719a14008c7eb38971015d3d11de82352be40e93f10183b8.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "移动互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "节日福利",
+        "带薪年假"
+    ],
+    "industry": 100019,
+    "contact": false,
+    "showTopPosition": false
+}

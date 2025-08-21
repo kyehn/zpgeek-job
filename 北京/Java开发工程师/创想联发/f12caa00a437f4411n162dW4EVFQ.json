@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230330/607f1f3d68754fd006f118d4504ee4e8cf14f3990068d3ea82fb9b9d81081d7b755eda234584f1a0_s.png",
+    "bossCert": 3,
+    "bossName": "孙吉萍",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201030/fbffffa9f71d54cd6a62a71601c0a0d982fb9b9d81081d7b755eda234584f1a0_s.jpg",
+    "brandName": "创想联发",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "昌平镇",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "64e8a8b35016676d33F539W8FlM~",
+    "encryptBrandId": "1055c7f912ca6a000HR53du-GA~~",
+    "encryptJobId": "f12caa00a437f4411n162dW4EVFQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.207588,
+        "longitude": 116.248588
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 77,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8gbmf9uuUCa.search.77",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "hIo1M5CQ_JM3I-h1avplTkOjPXgJOG9fu6zG3rsBnCl8Xh6bRFQ3qs5sbMMQNCJNlIQsiQ7GsnBiSO4V6gsDtZtRetz0JHwy3NuHZpe_m372aMbjuy390Cy60gmSNvac3WXX9T3UuFcR",
+    "showTopPosition": false,
+    "skills": [
+        "多线程",
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假"
+    ]
+}

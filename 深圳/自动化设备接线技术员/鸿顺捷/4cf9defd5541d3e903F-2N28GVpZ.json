@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙岗区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200610/07f632e5b40a8710fed008ea262dc024987b366015a4a6474c12c02c8632032b_s.png",
+    "bossCert": 3,
+    "bossName": "胡友文",
+    "bossOnline": false,
+    "bossTitle": "总经理",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210530/16bb52b8d10b738daa7a51e2fb4a1d65987b366015a4a6474c12c02c8632032b.png",
+    "brandName": "鸿顺捷",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "横岗",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6e2fabd6ceb51e820X1-39m-FFo~",
+    "encryptBrandId": "d4773ab20985bfb10nR92du-FQ~~",
+    "encryptJobId": "4cf9defd5541d3e903F-2N28GVpZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.634845,
+        "longitude": 114.223388
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 82,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "自动化设备接线技术员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cYTEHgH7WA.search.82",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "Ca8tQkBx1Nbxc-a1hH03mEyEiCk7f9indMa98yCh2kTDL90wl64k87tAXMJ9t3fkn4eS1Hgt4iOhawHiYTjBfMpuL2252-hJk-zDRevz-aeU-evzaTOH47woZKUiICq3Tj1kwVbc-ujq",
+    "showTopPosition": false,
+    "skills": [
+        "PLC工程师"
+    ],
+    "welfareList": [
+        "员工旅游",
+        "五险一金",
+        "年终奖"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "石景山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "张志欣",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "普汇润泽",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "苹果园",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a60d72a1048bf2003nd53tW9GVA~",
+    "encryptBrandId": "15e72a454b5a57190HZ62d--GA~~",
+    "encryptJobId": "4f8dbec467e507b71HZy2tW6GVVY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.939452,
+        "longitude": 116.193606
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 9,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8kmSUM31M0f.search.9",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "4xwxfmJSQx_rP-_1VJR3X8kr3GNieEizxzHzba5yH4yrh04ODLJ7OGgLFcXtmnHn-SWl56Hs6TXKDJ2opLMBI1IRp-iNRTUuYHBkB09m-iPFi07vuMIhWrqBjlvAabOGEREP2HuDRMFC",
+    "showTopPosition": false,
+    "skills": [
+        "桌面运维",
+        "网络运维",
+        "系统运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

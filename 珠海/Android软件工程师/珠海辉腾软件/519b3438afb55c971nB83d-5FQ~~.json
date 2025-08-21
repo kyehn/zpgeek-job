@@ -1,0 +1,63 @@
+{
+    "securityId": "Md4lIHnmueBhA-f13Zii63TrEzURaWMyKJHQYiKzReAKRZok8qePEuEXGlFLUr4McWBHnNdqg4JXtO1mVoWKOYX1cMHDF2nDL28E33F5Btnd",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20210302/8f552ff6112aeeb3a3e35bb062b7f6bcebfe6518d01d8803f376bf1b48965ca3_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "c03f805b04989d7a0XVz3Ny1Fg~~",
+    "bossName": "侯先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "519b3438afb55c971nB83d-5FQ~~",
+    "expectId": 0,
+    "jobName": "Android软件工程师",
+    "lid": "QvNGH20vgy.search.219",
+    "salaryDesc": "5-9K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Android",
+        "移动开发",
+        "Java"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "珠海",
+    "areaDistrict": "香洲区",
+    "businessDistrict": "新香洲",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 219,
+    "city": 101280700,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.51481,
+        "latitude": 22.282342
+    },
+    "encryptBrandId": "2135582c16a228c51n182dS6",
+    "brandName": "珠海辉腾软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210318/9536a29ff40e4dadbac67760667baeb4ebfe6518d01d8803f376bf1b48965ca3_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "移动互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "餐补"
+    ],
+    "industry": 100019,
+    "contact": false,
+    "showTopPosition": false
+}

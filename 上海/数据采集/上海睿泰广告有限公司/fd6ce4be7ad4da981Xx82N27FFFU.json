@@ -1,0 +1,59 @@
+{
+    "securityId": "xuapKImwUxkPU-Q1ORGDT6P3E5alL0r4NY_wnnMP5hoB0Ldu56q8IW6nq2qjtsvlR-1CqplmQ9d0TMwxwInD2ulAhh8Ipw2UfX47MrHOpETJd4WboIE~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230519/607f1f3d68754fd08d3efffb3d2f94d9b1923f2bcb82ee4b86865029e83568f5ffd91227dbf1190b_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "39ee6228e75746eb1HJ92dq4FlI~",
+    "bossName": "李先生",
+    "bossTitle": "主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fd6ce4be7ad4da981Xx82N27FFFU",
+    "expectId": 0,
+    "jobName": "数据采集",
+    "lid": "2uQqj0piF5l.search.65",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "外勤"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "普陀区",
+    "businessDistrict": "武宁",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 65,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.422249,
+        "latitude": 31.234045
+    },
+    "encryptBrandId": "eb6bf92a5221c23d1XN-0t26GFs~",
+    "brandName": "上海睿泰广告有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230519/7bf6f160950405e9a2000d8a2c612a561b2de2d6006b91a786865029e83568f5ffd91227dbf1190b.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "检测/认证/知识产权",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "保底工资",
+        "五险一金"
+    ],
+    "industry": 100609,
+    "contact": false,
+    "showTopPosition": false
+}

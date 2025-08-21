@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "余杭区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "兰女士",
+    "bossOnline": false,
+    "bossTitle": "行政人事经理",
+    "brandIndustry": "酒店/民宿",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "杭州东越酒店管理",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "良渚",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "470f990d7f0cd4030n1z09S7EFdT",
+    "encryptBrandId": "7494e053fccae8e01XN83dm6EVE~",
+    "encryptJobId": "a8ca0a7d4d4441e003R82NW0FFFZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.359849,
+        "longitude": 120.054667
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101102,
+    "isShield": 0,
+    "itemId": 60,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "酒店销售经理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5qDxJb6jYM6.search.60",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "NQWwdTu7_lJIR-N14Xmbwtz8ZirsBoNkuIl692ykCHiHJ1ikYFeviMF0W4yUg0DHNOCOTFkZSuZOL1fu3EoGyKUYVQ2WnkS5b3-N2mGbo6sbcs1riU1DvyCRZqU52pKrr7rwSKpzrnJjyHQ~",
+    "showTopPosition": false,
+    "skills": [
+        "企业（To B）",
+        "面销/陌拜"
+    ],
+    "welfareList": [
+        "五险一金",
+        "意外险",
+        "补充医疗保险"
+    ]
+}

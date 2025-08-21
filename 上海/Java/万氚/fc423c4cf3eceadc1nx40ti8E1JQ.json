@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "普陀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231126/607f1f3d68754fd0f69fb0364c803deae6f92c52c462b00c35132c964cdcd3aafbabba866fe354ea_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "李艳",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200108/372636f372e73b7ab1f2968363a9eb67a3b6c5fb118127df0f9b1db164190122_s.jpg",
+    "brandName": "万氚",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "真如",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6d61c1f9d948b4ca1nZ42t28ElRU",
+    "encryptBrandId": "ab9802911a6eff7403d_3di_Ew~~",
+    "encryptJobId": "fc423c4cf3eceadc1nx40ti8E1JQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.273374,
+        "longitude": 121.374873
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 125,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Java",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "gd4M9MiipN.search.125",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "6PUf05ckD0JFo-01FtGtWP6j3jyqT-ItQ4Ex3skyVLqEf-U9mX0wKzp6eZ-aclhZnMApPmK74Z214E9j7NflkzHaLgtVV1i73XNURFce7UbSTmKugs59Qo6CGf4vZom4q04gBZFQFI7Clg~~",
+    "showTopPosition": false,
+    "skills": [
+        "JAVA"
+    ],
+    "welfareList": [
+        "住房补贴",
+        "年终奖",
+        "五险一金"
+    ]
+}

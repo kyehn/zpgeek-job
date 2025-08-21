@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "嘉善县",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "丁朱杰",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "昶联数据",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "人民大道",
+    "city": 101210300,
+    "cityName": "嘉兴",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d31925cc6f138e120nR42Nq7ElJS",
+    "encryptBrandId": "737dbcdfbce820ee1nZ62NW4F1A~",
+    "encryptJobId": "7618ee78caa109be1nJz09q9ElVW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.827508,
+        "longitude": 120.914989
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3K9iTOn1lvp.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "4assFwmqwrist-r1ZoeuCGcErn9aDZPLoSyiSrAm3ueZ-UDGqmfDqlW10RM5m1hM_2Cwf6m0xMkJy5CG0e9quGXXjTAo2FSXkIcf5lViSeiQt4J4z3cBX_kKS4sIuog05hsfuYrd05ApOzo~",
+    "showTopPosition": false,
+    "skills": [
+        "分布式技术",
+        "NoSQL",
+        "MongoDB"
+    ],
+    "welfareList": [
+        "五险一金",
+        "全勤奖"
+    ]
+}

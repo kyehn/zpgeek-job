@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "于女士",
+    "bossOnline": true,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
+    "brandName": "上海泓愿",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b1dac0e0a9c02fa80HZ_3t60EVA~",
+    "encryptBrandId": "74f5a56207388fac1Xx939u0FlQ~",
+    "encryptJobId": "818ee522e24b710a03Z82NW6E1pZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.968187,
+        "longitude": 116.408811
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 45,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7pRlHAtjpEy.search.45",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K",
+    "securityId": "jTU7_qmb6nJBu-S1OJWgLSDnRe8XOV-BZbS6Qk9nRe2Mhda_zYm8jB4_T-82leoFSdXC2w3yMDidD41KxkAmzaDYoSZxDir8WfO3m_79PZUbhsftVqOjcnbgJKeGxiQ1JV66zOw4DDoHUOG5wIuU6ceQQ03tApqnl0o8twzfo3UNzjk9Lw~~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "运维经验"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "保底工资",
+        "五险一金"
+    ]
+}

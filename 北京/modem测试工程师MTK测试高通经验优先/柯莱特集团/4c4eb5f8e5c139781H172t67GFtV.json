@@ -1,0 +1,63 @@
+{
+    "securityId": "LVAvNraf3F76k-n10BpxuyUjzKHfCYjjl87F_rTlon07FwscTNancRU8L27mqwj-TM89FNZudhPjnC7SrMcu1EP3ip660uKqSKgEwokj1d3LT7KMzdO04G_h8Yv7e7HqLzVfCFaZs94~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211207/607f1f3d68754fd0508ee6d99f36535a0094e5bb9298fbb32f7a34411a0617a1776d9fb050561fbb_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "7f6b07188f8b3e490nZ92ty4FFM~",
+    "bossName": "姚女士",
+    "bossTitle": "招聘HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4c4eb5f8e5c139781H172t67GFtV",
+    "expectId": 1014042683,
+    "jobName": "modem测试工程师（MTK测试，高通经验优先）",
+    "lid": "1eD2NHEmkO6.search.225",
+    "salaryDesc": "9-14K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试",
+        "通讯技术",
+        "高通",
+        "MTK测试工具"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "上地",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 225,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.316542,
+        "latitude": 40.047348
+    },
+    "encryptBrandId": "879cece58f6a7e7d1XR929W0",
+    "brandName": "柯莱特集团",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金",
+        "交通补助",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

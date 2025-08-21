@@ -1,0 +1,58 @@
+{
+    "securityId": "I4VY1AS1yAlcB-V1LE27pQx-2b_8QN6OcCc7PCWUdfogIyROl3_NkKLRAhNFDEp6QUl_4DmxMChcRL25uk_W88YJQcaQIJokMNKAr61Ot1-060JlJYQ~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241014/607f1f3d68754fd0788c5781452d9d7cb67acaa79d100e4407f64990a5a0c4ddced8efa88f8e8641_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "fcc40206449c1deb03Nz2Nu1ElU~",
+    "bossName": "詹先生",
+    "bossTitle": "人事专员-(工程办)",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "78bea629c2bd9ba51X1-39m7EldW",
+    "expectId": 0,
+    "jobName": "java开发工程师（本岗位也招实习生）",
+    "lid": "5MR0pAZElPq.search.111",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "后端工程师"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "宁德",
+    "areaDistrict": "蕉城区",
+    "businessDistrict": "宁德",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 111,
+    "city": 101230300,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 119.585218,
+        "latitude": 26.654736
+    },
+    "encryptBrandId": "c84f3a5ae6ec2b611nV_09q-FlY~",
+    "brandName": "神灯科技有限责任公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "2ENuraepJf24m-w1TPVW9lntItlJUHpUk4n7Bo8Gaj7JjFjQRAXj6REmVT3GqHD7PFbUCvG3jJ3IfbCaXJphMZUw-DTiacMgRqbVfQ7jo4eoV3eSFA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221010/607f1f3d68754fd0e3ace2ab7d6ce7561d18a8947a27f84b3634dad715632a156e252fb45ca12a7c_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "deefb892dca35faa0nd63tS9EVtZ",
+    "bossName": "廖女士",
+    "bossTitle": "招聘",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4e190f618f8febf01Xx_2d28GFtU",
+    "expectId": 0,
+    "jobName": "婚礼策划师",
+    "lid": "5I3eMNS3Sy0.search.241",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "销售经验",
+        "婚礼统筹",
+        "婚礼方案设计",
+        "婚礼管家"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "天河区",
+    "businessDistrict": "珠江新城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 241,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.32727,
+        "latitude": 23.118162
+    },
+    "encryptBrandId": "9a9938423592de830nZz3tS6",
+    "brandName": "QueenMarry",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171119/c6ae8b40572585c3826c6feee97f7e06be6c6f760255bb8e78b2c02e5c3e3c4c.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "社交网络与媒体",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "有无线网",
+        "定期体检",
+        "五险一金"
+    ],
+    "industry": 100003,
+    "contact": false,
+    "showTopPosition": false
+}

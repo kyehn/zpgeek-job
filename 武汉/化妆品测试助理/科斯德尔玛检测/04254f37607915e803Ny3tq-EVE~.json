@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武昌区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "李岳",
+    "bossOnline": false,
+    "bossTitle": "技术总监",
+    "brandIndustry": "咨询",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190710/16dabf638cb80725fa4cbb6836cf517fc4b05310f0713e3c63b3d546512b06c8.png",
+    "brandName": "科斯德尔玛检测",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "东亭",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ce87a66426f17a5c0X163N-8FlA~",
+    "encryptBrandId": "abb091de5c0268100nR-3ti5FA~~",
+    "encryptJobId": "04254f37607915e803Ny3tq-EVE~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.570766,
+        "longitude": 114.35543
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100601,
+    "isShield": 0,
+    "itemId": 59,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "化妆品测试助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d2QdAJCJse.search.59",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "ifRAzteETNAlm-t1xy1n6PhpbcsWQmKHLZcnnLG90GMK-Ol8lGcfSWiHYaoYP3YkxS9kJfInaOEX-hiSb436DTdEzYjMFODpSYjB0epSU5k2BjAfIgvrgyYt4VTpMl9figYfi7eirUE~",
+    "showTopPosition": false,
+    "skills": [
+        "化妆品",
+        "技术员"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

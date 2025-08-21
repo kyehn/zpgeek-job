@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "相城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241126/607f1f3d68754fd02355d4dc88190f9a8344845a5b475e7c66cd373a3dc2fc9cc04105849500f609_s.png.webp",
+    "bossCert": 3,
+    "bossName": "肖女士",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "餐饮",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240305/7bf6f160950405e9b96ab52c775512c548c209a21d1b8ba6c5352c618b177ceb832516de0bdff419.png.webp",
+    "brandName": "喜家德集团",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "元和",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0db99e743bc211540XZy3ti8FlFX",
+    "encryptBrandId": "97febc5b6a1ee7fa1HZy2NW8GVc~",
+    "encryptJobId": "31cee9db7ff2e8e403d-0ti8F1NS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.416272,
+        "longitude": 120.638178
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101101,
+    "isShield": 0,
+    "itemId": 3,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Z5系统运维专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "39Hh9yq1hGU.search.3",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "cYW3bn2uenQ1O-r11Ax3nrH9A2fpBWyxdnn5rUoMdQUfkHFW2jPw5TFHIzl7N6k6R5RHloWNBr1724NfkOrn56ZzR4BY5r8YenkyMTA31Z9HxrazRrnhX23Egx1m9ri2mf182DIMWEVuLKM~",
+    "showTopPosition": false,
+    "skills": [
+        "接受实习/在校生投递",
+        "系统运维",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

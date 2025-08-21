@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "唐红涛",
+    "bossOnline": false,
+    "bossTitle": "研发总监",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190729/4959d9fa83397966797c0ce8ae6cc19eefffe4a6a8fc2f0f828733222d480d06.png",
+    "brandName": "芸峰科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "光谷",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "da0001e02fde0f2e1H1929y5E1Y~",
+    "encryptBrandId": "77cbc9c278b506e41XR42Ni6EQ~~",
+    "encryptJobId": "ed8a076447df86681XV53N28FlI~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.503974,
+        "longitude": 114.424647
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 87,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "ERP/MES研发实施岗",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d0mL38IV2Z.search.87",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "JReng2AaQqz0N-f19LAaiymDPW85F5Nlusez8CKMrH3g_imUUWkIwu_tqdJeATYYAfNxj9B7Tq1BLAXdrYtH1I9caNVBNVC1EYle-dh_CC06e_0TvI7_ZqM8mCFcDS_HKCYsJPrtQvo~",
+    "showTopPosition": false,
+    "skills": [
+        "C#",
+        "ERP",
+        "管理系统"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

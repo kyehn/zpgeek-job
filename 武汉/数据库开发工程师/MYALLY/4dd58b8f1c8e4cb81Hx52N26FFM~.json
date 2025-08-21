@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江岸区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "李莹",
+    "bossOnline": false,
+    "bossTitle": "行政前台",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/boss/brand/common/img/20240527/0a1ba9d54e3d0f86d8b0b1e2564ffa81542c167c948dab196bb61e3b7bce0931da574d19d1d82c88.png.webp",
+    "brandName": "MYALLY",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "花桥",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "30c462ac53d73a2a0nxz3N-4E1I~",
+    "encryptBrandId": "6f3b6a8d8e4b740803R73dq4FQ~~",
+    "encryptJobId": "4dd58b8f1c8e4cb81Hx52N26FFM~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.623523,
+        "longitude": 114.289194
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 43,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "数据库开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3R4pypYCwjP.search.43",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "pmGerexj1aLph-y1HWRkGEwaqhJdxRyz5Cq_GDWzWbFbp-zhkJ39wOz1vyBJ1bL_kXz5UuOkO68n94KPvAHe2GCDGBv0EoPSu-DvDqjU3r8hk-ov72f53TOimlCaFK0JDQxLBcLC4jE~",
+    "showTopPosition": false,
+    "skills": [
+        "SQLServer",
+        "Web安全"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

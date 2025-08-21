@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江北区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+    "bossCert": 3,
+    "bossName": "张泰琛",
+    "bossOnline": true,
+    "bossTitle": "开发负责人",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230427/7bf6f160950405e923d62f610f13024eef0e56dd073bb70683311fc79e06602615017074975286b3.jpg",
+    "brandName": "神维数科",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "黄泥塝",
+    "city": 101040100,
+    "cityName": "重庆",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "21f09da9a1e08f091HJy2N29EFs~",
+    "encryptBrandId": "ac68f3932955d8041XJ62dW-GVU~",
+    "encryptJobId": "8949c85eb25d8bba1Hdy09i4FVVQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 29.603147,
+        "longitude": 106.573059
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 70,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件实施顾问",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7P3x7m4TD6l.search.70",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "htgJH15WWS2Q0-01pFiOC68fEK9XgE__JKB9llT9Z1532xckp5EIf_xVkPJHmo6F9XnS_Ge9LlaAkwXatfSsvhytJT6__1fv1W3ZgwsdPPeECRyVaLWWrWjWMOLaqTfnjhwqjJzQdwRm0RDBqKfyDD6TkJeaSli1c8m_dN6_MRjq1XNCfQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "软件实施经验",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

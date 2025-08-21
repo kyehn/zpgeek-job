@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180314/62d4991d143a64b539ea747492b8afb3c1c7732ed29b2c1238a2448d309d725e_s.jpg",
+    "bossCert": 3,
+    "bossName": "高海娜",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "移动互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250214/7bf6f160950405e9a5a88e589474c350f08107fd2cf29c179b9c34ae0d750cb960572cad25eefd15.png.webp",
+    "brandName": "浩坤科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "香山",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6a10c4f8494f3dfa1HFz3N-9FVQ~",
+    "encryptBrandId": "a842a3cee13a0f211nJ72921EQ~~",
+    "encryptJobId": "24a458c869980f851XZ42t--E1o~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.076529,
+        "longitude": 116.235736
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100019,
+    "isShield": 0,
+    "itemId": 47,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "JAVA开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3PlAalHslCb.search.47",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "Zu5arwBaNOHWp-a1SLylSb-mfoCnH1d3K9Hs6JwidU6GJFckhcxEh8WJPnHVqKiM4785m12-hbc7bnvF9W-Kopdh9iEGNm3rIuYNOJkyrlouzx88eqxPivK5rsOd1ADtJZ7xNssxYd8~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "和平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20201102/4ee724bdfe2b4fb8e99ce7977c6db308a486cf0ce1018549ecf6ff88121701c8_s.jpg",
+    "bossCert": 3,
+    "bossName": "熊先生",
+    "bossOnline": true,
+    "bossTitle": "招聘专家",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221008/7bf6f160950405e9cad08ebfa0b2389ac928794920ca5db7975cc45b92a6f851616e693586dfab3f.jpg",
+    "brandName": "大连同方软银",
+    "brandScaleName": "500-999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "西塔",
+    "city": 101070100,
+    "cityName": "沈阳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f3b60e3ed88884101Hx-2tu7Fls~",
+    "encryptBrandId": "b8b7ddee1dc3238b0nxy0969",
+    "encryptJobId": "b0466cd7b8ad7fe003F-3tS0F1tQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 41.811648,
+        "longitude": 123.424365
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 88,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6ZTioIJqEYK.search.88",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "kVsCa2H3asxIB-B14Q_1gJu3fFZ8Irl3HfsZyQtGEonM13uJgBOdsr7W0n-Zzv3T6v6w-sRs_pzB0_db3-TDLdorm68z5cPQIGNH3q8k4tkCtCC6LnQ-dSzfzTPi9B8g6pMsZpLy9PLs-AipIN_hILQTNfmwQFCloBjI46g4-GU27RA~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试"
+    ],
+    "welfareList": [
+        "年终奖",
+        "带薪年假",
+        "零食下午茶"
+    ]
+}

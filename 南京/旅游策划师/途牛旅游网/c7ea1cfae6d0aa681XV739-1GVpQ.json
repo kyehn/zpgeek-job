@@ -1,0 +1,63 @@
+{
+    "securityId": "f4UmvlnXkBx0X-C1Hi_o4FMSgseDyOnFYdNtKapn1Ez8B4d2BOF7qY8cTCloOKRFAD0USEuRIt0QBtDVSa6uVUFr4N-sEZPeMLYPHmSS_ldpmH4~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220124/607f1f3d68754fd0177800b7086c44bcf110d6ec3cdd54ea4cfd08a19f72285da163b7f16df24c10_s.png",
+    "bossCert": 3,
+    "encryptBossId": "c6ca5d592294a8111HR539W9EVM~",
+    "bossName": "韩女士",
+    "bossTitle": "旅游顾问",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c7ea1cfae6d0aa681XV739-1GVpQ",
+    "expectId": 0,
+    "jobName": "旅游策划师",
+    "lid": "LRgD40nNAC.search.72",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "境内",
+        "线路策划"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "南京",
+    "areaDistrict": "玄武区",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 72,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.8878,
+        "latitude": 32.0845
+    },
+    "encryptBrandId": "9e507688d3fbf9d71nZ539U~",
+    "brandName": "途牛旅游网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/12348.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "互联网",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "节日福利",
+        "通讯补贴",
+        "餐补",
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

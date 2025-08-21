@@ -1,0 +1,60 @@
+{
+    "securityId": "6EF0b2uJKQMKJ-m1o3jluWia4pR5r7aItG7stM7Msond2aFW-Qp9Qh-RuCGVYtKPjOOjP2nZQxr0P-7_6sjxDRpGo44uW2DBD_Z82aRQXc79olhD3ew~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230602/607f1f3d68754fd0e2bde9ed7ae1ea5d6f4903e18695b15b02ba6589ff9b9add30561edf253a9250_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "802cf030f63bfbc70nJz2du6FVpV",
+    "bossName": "王先生",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3f3404aa729ce6491HNy29u6F1VS",
+    "expectId": 0,
+    "jobName": "软件工程助理",
+    "lid": "5EpaHYlfYa7.search.269",
+    "salaryDesc": "5-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "单片机开发",
+        "热风枪",
+        "烙铁"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "龙岗区",
+    "businessDistrict": "坂田",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 269,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.073432,
+        "latitude": 22.660708
+    },
+    "encryptBrandId": "ddba6c25d647ded41HB_2Nm5Fw~~",
+    "brandName": "英飞尔",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190214/93c4d57990098b0837a09605ac8d0d8ff43517d6981100dc3af685bd0cb95a4f.jpg",
+    "brandStageName": "天使轮",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100026,
+    "contact": false,
+    "showTopPosition": false
+}

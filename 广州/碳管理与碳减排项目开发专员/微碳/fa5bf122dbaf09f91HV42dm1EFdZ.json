@@ -1,0 +1,61 @@
+{
+    "securityId": "qRC7R1YKk2tnx-P196DtYmDOzfSoG3yBSxAPccpvHYkOZFDUaMfm73VtJoxiCbteS89nbUjPG3nTDDrAWpRv82rhbfuAP9TH9F8EtbPL4iQQ0_pAAbLM",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "f5a0358603dd39420nVy2tq6EVdU",
+    "bossName": "江女士",
+    "bossTitle": "人事专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fa5bf122dbaf09f91HV42dm1EFdZ",
+    "expectId": 0,
+    "jobName": "碳管理与碳减排项目开发专员",
+    "lid": "2cf65M35hop.search.226",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "碳管理、碳减排"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "天河区",
+    "businessDistrict": "小新塘",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 226,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.402127,
+        "latitude": 23.164492
+    },
+    "encryptBrandId": "12e52e756434f3701ndy3t21GVU~",
+    "brandName": "微碳",
+    "brandLogo": "https://c-res.zhipin.com/jrs/8_96b24ec1295506ca71409df96b12d636.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "检测/认证",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "年终奖",
+        "绩效奖金"
+    ],
+    "industry": 100606,
+    "contact": false,
+    "showTopPosition": false
+}

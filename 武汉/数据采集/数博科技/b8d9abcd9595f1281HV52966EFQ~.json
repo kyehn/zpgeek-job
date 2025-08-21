@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180706/b734a308a2263b375fa6a228009e13daa2fa73eeede91c3a6de215f046f1640e_s.jpg",
+    "bossCert": 3,
+    "bossName": "刘健博",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180706/d6e6a684fbbd79f286de69bc89770d8aa2fa73eeede91c3a6de215f046f1640e.jpg",
+    "brandName": "数博科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "光谷",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f853900d1a1aa0de1XN92dS5E1I~",
+    "encryptBrandId": "5ccb7c4d7e06adbd0Xx_2d-6",
+    "encryptJobId": "b8d9abcd9595f1281HV52966EFQ~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.51777,
+        "longitude": 114.3956
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 61,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "数据采集",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8oGUiBOmmoM.search.61",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K",
+    "securityId": "Y5HpWKSBOS08Y-412HXw8f-sUHUd_a4amOslUoKURGUd9bPKdimVjMyqAiIwUs8czxRu4OllmQzIKyzebqfBLD_YRJ_TgkHo2eqtzSPhS37dCLUEm7qP4f58sUOn9M56JmP7wJcfBA~~",
+    "showTopPosition": false,
+    "skills": [
+        "网络爬虫",
+        "PhantomJS",
+        "Python"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
+}

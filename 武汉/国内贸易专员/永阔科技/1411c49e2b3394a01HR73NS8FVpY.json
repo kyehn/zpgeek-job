@@ -1,0 +1,63 @@
+{
+    "securityId": "VS_Y7ItGixXty-S1yCeUUu7uUf_-UXWS8_ccXt-OKH_iVyxuVnmOPYvAc-QUx3xtx2LSjRojPiPFwvu1tUVHMeiIyicrvcFdGE1pXyKhk1fKPTqZDfwQ_GepAlIgiHRmZ08N2xesvfpu",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "995aace9752888123nd72N6-EFQ~",
+    "bossName": "鲍女士",
+    "bossTitle": "行政",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1411c49e2b3394a01HR73NS8FVpY",
+    "expectId": 1014042683,
+    "jobName": "国内贸易专员",
+    "lid": "1aIAc7uVUyI.search.216",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "贸易跟单"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "硚口区",
+    "businessDistrict": "古田",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 216,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.197699,
+        "latitude": 30.599733
+    },
+    "encryptBrandId": "bfc53c3241706e941HJ52dy1Eg~~",
+    "brandName": "永阔科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190226/b97001b284a890ba5d48a06cbd7114049ed4c0524577509819dac839dd66d6ac.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "进出口贸易",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "住房补贴",
+        "全勤奖",
+        "年终奖",
+        "开单奖"
+    ],
+    "industry": 100504,
+    "contact": false,
+    "showTopPosition": false
+}

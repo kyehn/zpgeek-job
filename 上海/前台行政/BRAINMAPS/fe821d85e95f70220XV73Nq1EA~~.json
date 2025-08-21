@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "杨浦区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170423/7e534f5718f166567d0edcaa066a6ce38c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "bossName": "黄文",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "在线教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20161008/5c9fbb2f3ba2305a632b22bcd3d3f69d14e660f0e7cf8ba1a74cabb9ea14d619.jpg",
+    "brandName": "BRAINMAPS",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "新江湾城",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "88dd6a01d43ecd991nd72Ni6FFs~",
+    "encryptBrandId": "88491926187aff8d1nB93tu-",
+    "encryptJobId": "fe821d85e95f70220XV73Nq1EA~~",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.32026,
+        "longitude": 121.5052
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100012,
+    "isShield": 0,
+    "itemId": 72,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "前台行政",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8eVNV2MF0T3.search.72",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "q4kqxarBglAgo-u1QFnqslRCFJrDZXjBEVJLaJDNA95Bj7g-tpYSumSv2hf22N82uKYyCTS5iuDhCYnRHK7-GwlSikEzbHoPGRE9D8U2lM4YoA~~",
+    "showTopPosition": false,
+    "skills": [
+        "前台",
+        "行政",
+        "可兼职"
+    ],
+    "welfareList": [
+        "全勤奖"
+    ]
+}

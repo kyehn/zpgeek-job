@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220628/607f1f3d68754fd029807af09f8b6009112d3ff26fdc8562465d7e1e9875d64d1f50e1d5b124bfb0_s.png",
+    "bossCert": 3,
+    "bossName": "谭先生",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "其他生活服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210128/df944305d6a53552428f26ba275fcfc172f10b517d90aa5b31c0594550f17a32.png",
+    "brandName": "利戴工业技术服务中国",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "康桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3fa47915ef860b253nBz3dy-F1o~",
+    "encryptBrandId": "b2f8c2c76be67c350n150tu6EQ~~",
+    "encryptJobId": "bb15b490c1bbb5fc1HBy3tu9FVBW",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.123681,
+        "longitude": 121.552007
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101106,
+    "isShield": 0,
+    "itemId": 54,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "零部件机械测试（浦东康桥）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7ZeIPTcoW1I.search.54",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "-azPPG0oAm3gx-e1htg9JP1TEBqNRi0Nu7H99IghGkvCB5W_Pxhfgbhu5F8WuVIgIBIFkcvrGcOTkHwSsQvFld7D-T0l5kebTVYBXRAFnNU-tKS7IQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "机械",
+        "硬件测试"
+    ],
+    "welfareList": [
+        "加班补助",
+        "五险一金",
+        "补充医疗保险"
+    ]
+}

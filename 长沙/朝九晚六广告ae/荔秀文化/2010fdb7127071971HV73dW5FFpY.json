@@ -1,0 +1,63 @@
+{
+    "securityId": "2vh9107GwTxqN-n1Q3TeM4m8ffWq9di8s_FTC6-cyGWcCP2LGYoOR4CRkBhB22XBzNt8AWavhj3HvqfEKsIArvXMtgnAHh_GJp8OdrbKSKOdEHfkHS0z",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230919/607f1f3d68754fd0bf780d65e556dfa717270141bfa69d19182879828884f59324f143b885825f74_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "f4ef2017e4ea8c551nV-29-0FldX",
+    "bossName": "曾先生",
+    "bossTitle": "商务主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "2010fdb7127071971HV73dW5FFpY",
+    "expectId": 0,
+    "jobName": "朝九晚六广告ae",
+    "lid": "1DN4zuDOWrm.search.188",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "线上广告"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "岳麓区",
+    "businessDistrict": "银盆岭",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 188,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.970946,
+        "latitude": 28.198375
+    },
+    "encryptBrandId": "911b8a3c0c2676941XR929S8GVI~",
+    "brandName": "荔秀文化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220314/7bf6f160950405e93a29028f268cf2d93c3b427a8ae6217ee91a1bac6890a7050bd3999fba1d794a.jpg",
+    "brandStageName": "A轮",
+    "brandIndustry": "社交网络与媒体",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "零食下午茶",
+        "节日福利",
+        "股票期权",
+        "加班补助",
+        "全勤奖",
+        "定期体检"
+    ],
+    "industry": 100003,
+    "contact": false,
+    "showTopPosition": false
+}

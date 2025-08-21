@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "徐汇区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250219/607f1f3d68754fd0a79e9b158bd3a3a39e4fc97b1007e5512df01f97fd650dbd3a10b736002da7ca_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "黄女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "柯莱特集团",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "漕河泾",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2c5d80ebb5401a480nV639y8EVdT",
+    "encryptBrandId": "879cece58f6a7e7d1XR929W0",
+    "encryptJobId": "5178d83111483a5903F829W1ElFX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.189268,
+        "longitude": 121.43973
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 15,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "自动化运维（驻场欣能+长期稳定）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cKj44rRebi.search.15",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "WeQgkxsJG91B0-l1S8VeHBb-nDa5_dYELvOpLyhQj-Q9pFtZU7YjOkhwMBcf72otVqFrFeQDxRuP2hhXX-qDA9Us3HOwI8rcrkE3-QSlkVrvA7PksTVq5f0Niml9PzytQ5HOPxECNCjm",
+    "showTopPosition": false,
+    "skills": [
+        "电力系统",
+        "电力自动化运维"
+    ],
+    "welfareList": [
+        "五险一金",
+        "交通补助",
+        "节日福利"
+    ]
+}

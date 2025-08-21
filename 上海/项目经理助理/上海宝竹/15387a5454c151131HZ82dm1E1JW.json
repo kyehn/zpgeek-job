@@ -1,0 +1,61 @@
+{
+    "securityId": "D800g2Tvbz3PM-91YL4BDng_yEMKc4i1KYrZejsDacFQfLUNx9KL_k4Cv5tdaKHh3DRVCEIWB898Ep1PxuLTLMwZQ5ENg-RnUUoEIbRcBcV7Ep7_CY-M",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240402/607f1f3d68754fd031fc111e4c63ca8e39c0949e382706a76de0abdf9847821a10238db4737d1a46_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "40dceb2603f2a38a0nxz0ty8ElZT",
+    "bossName": "吴女士",
+    "bossTitle": "行政",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "15387a5454c151131HZ82dm1E1JW",
+    "expectId": 0,
+    "jobName": "项目经理助理",
+    "lid": "18tlJcCamBT.search.136",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "消防",
+        "工程施工",
+        "应届生"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "宝山区",
+    "businessDistrict": "月浦",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 136,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.458685,
+        "latitude": 31.404258
+    },
+    "encryptBrandId": "9344731065f0e6791Xx92d69FFU~",
+    "brandName": "上海宝竹",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "其他行业",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "有无线网",
+        "五险一金"
+    ],
+    "industry": 101304,
+    "contact": false,
+    "showTopPosition": false
+}

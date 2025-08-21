@@ -1,0 +1,59 @@
+{
+    "securityId": "JC0ZoKo71MIaL-B1hTWFNyP8q5R-vfvIRm6mBuEtSav6YDiQVV5SNPVlAFk-JG9FbJ9AeLuaVIGlb5MF4LA-UZem2RnMACQNgrwaqX7BvZlis_N8WWy9d9gAxI7NfA-EYGrjITsTyjs~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "8bbe6b6cfae1cd620nB92tm7EltT",
+    "bossName": "赵志恒",
+    "bossTitle": "人才经纪人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "290ff25858465c261HJ539i0E1ZT",
+    "expectId": 1014042683,
+    "jobName": "YY文字客服",
+    "lid": "1guTbVvVpBN.search.176",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "售前客服",
+        "售后客服"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "番禺区",
+    "businessDistrict": "长隆",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        3
+    ],
+    "itemId": 176,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.347754,
+        "latitude": 23.003676
+    },
+    "encryptBrandId": "105953999a35749a33Z509Q~",
+    "brandName": "YY inc.",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160507/aaee940f6e6543eef481898192a4176d57865f6f294caeea8474bfb335148b51.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "互联网",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

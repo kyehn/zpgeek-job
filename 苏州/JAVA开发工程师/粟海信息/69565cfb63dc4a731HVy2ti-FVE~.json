@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "常熟市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240627/607f1f3d68754fd048478743ac096fd2690fefa51a2439304f2148d54cb554f2a63136b2e57101bd_s.png.webp",
+    "bossCert": 3,
+    "bossName": "施则人",
+    "bossOnline": false,
+    "bossTitle": "行政主管",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190307/5a2acecdc134c8667a405039849d2b0cfa1734a9f41aac6e504364f0e974c880.jpg",
+    "brandName": "粟海信息",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "东南开发区",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5193666c68af2aa203V83d61EFs~",
+    "encryptBrandId": "1ef23a1cb4e3c4291XZ52tq6EQ~~",
+    "encryptJobId": "69565cfb63dc4a731HVy2ti-FVE~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.599718,
+        "longitude": 120.789665
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 53,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "JAVA开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rjrrolo602.search.53",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "CeaqDUj0CRcCm-D1MwXw7brgf9fe2GbeDxj-UoC1x0ItPIJ_w1Nb4dwpsjwPPNKnPHKzeDAAMmP9m8M7MOl-re-fdS8Kfm1LtcYkf_2BQ54qJjgj04Tg9CAhtzC-0LIcVidl4nMcKFw~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

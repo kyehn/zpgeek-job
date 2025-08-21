@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240529/607f1f3d68754fd0d28db215977223e1b8617143e8881ce899ed62f5dacb21467b0247e3c8b75de3_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "苟于秀",
+    "bossOnline": false,
+    "bossTitle": "行政",
+    "brandIndustry": "计算机硬件",
+    "brandLogo": "https://c-res.zhipin.com/jrs/ce7fbb9135ebc22746eb346a56aca854.jpg",
+    "brandName": "成都英格瑞德",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "神仙树",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e7403a5ef6eded4a03F729q7F1U~",
+    "encryptBrandId": "6d7c0eb9d03f89df1nF_2d21GFI~",
+    "encryptJobId": "f7ad03f80cb44a7c1nJ52NS4ElBU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.606599,
+        "longitude": 104.034015
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100022,
+    "isShield": 0,
+    "itemId": 8,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "结构工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2gaZJEuUDGI.search.8",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "mD7d3gbC4gPB5-C1qwFKLEL9fnPdjuWxuzq7ikJFB-9u-MP73w6P4tiv059p7J0xqpXVXltrnJ-G4ENgVq3faOGzrh_Aca5gGN01SObkCLfiHAaa74MUSPAe6Rf_566YM8AXiABT3oPyDA~~",
+    "showTopPosition": false,
+    "skills": [
+        "内部结构设计"
+    ],
+    "welfareList": [
+        "定期体检",
+        "年终奖",
+        "五险一金",
+        "带薪年假"
+    ]
+}

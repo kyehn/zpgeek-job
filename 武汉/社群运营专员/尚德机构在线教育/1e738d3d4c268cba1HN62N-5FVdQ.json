@@ -1,0 +1,63 @@
+{
+    "securityId": "A5sZTHMWSHKXZ-41WTROpwODVxwHycK3N5fqQMj7DoimYl5puRoXIw3OAXfERiOm9JbFGT7twSnbz-CzcEZRCfns8xNtg-h-mYTKdN_352mVSJ2N3w~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "53cc1221542aed9d1nd72dq1F1Q~",
+    "bossName": "刘女士",
+    "bossTitle": "高级招聘经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1e738d3d4c268cba1HN62N-5FVdQ",
+    "expectId": 0,
+    "jobName": "社群运营专员",
+    "lid": "3q3fjKnkTyM.search.122",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "销售社群运营岗"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "江夏区",
+    "businessDistrict": "光谷",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 122,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.417198,
+        "latitude": 30.466663
+    },
+    "encryptBrandId": "7698aea16cfa10770H163tm6EQ~~",
+    "brandName": "尚德机构(在线教育)",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200417/927e58a479f3fec33503fba4e754f18d1025be0e0c156e8f4665c0398906b7ee.png",
+    "brandStageName": "已上市",
+    "brandIndustry": "在线教育",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "员工旅游",
+        "五险一金",
+        "节日福利",
+        "加班补助",
+        "零食下午茶",
+        "带薪年假"
+    ],
+    "industry": 100012,
+    "contact": false,
+    "showTopPosition": false
+}

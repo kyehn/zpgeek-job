@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "bossName": "叶茂盛",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190210/26ef30d0fd90f44ccb4ba07ba8cc963b60fe9710e4c316dc7d58e0ac314f4397.jpg",
+    "brandName": "飞阳科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "颛桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "bf1ac0d15ff5cb2d0nVy2tm7Els~",
+    "encryptBrandId": "71f2f0f3a163bb891Hd529S4Fw~~",
+    "encryptJobId": "dfad4448811e9f3b1nJ439W4EFBU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.08512,
+        "longitude": 121.408006
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 23,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "无线网优工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7HESllLHJk8.search.23",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "xiP8BdsqwVBcz-L194DSTQbWTp9PL6NNo0qj-Hcj9OvkxAB46_Z7NAjgzjBgXrx9q41dRMfh4O6QOQNwJIWa4KDmmegUV0DblqBcHKjbwbjg5AGYlnEiuGq_9R_gXdIt0bdrfSE4ZXOX",
+    "showTopPosition": false,
+    "skills": [
+        "无线通信"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "定期体检",
+        "五险一金"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "C1i4Wo2UMhQIF-_1UEz6hRiAFJhv6NWcisLSmU5yMP8L2MIaR0VYZTkNgaoiAVmpYWfygR0ScJQfICNtwymvCOPeQ1HBaMBRbU4K3MQ2I6PMn5046w~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "a04fd92d07073db503xy29-9EFs~",
+    "bossName": "周先生",
+    "bossTitle": "综合部主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1764f9f7b709ad5c1nR63NW5FVBZ",
+    "expectId": 0,
+    "jobName": "大学软件开发讲师（娄底校区）",
+    "lid": "5NDYC0Uxgkt.search.190",
+    "salaryDesc": "8-12K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java培训"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "娄底",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 190,
+    "city": 101250800,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.022699,
+        "latitude": 27.741488
+    },
+    "encryptBrandId": "750087496fcfbba403193d28FQ~~",
+    "brandName": "美和易思教育科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220421/7bf6f160950405e9099a919f94915d9cc11ff3c3134abfbbd302e38196534fe54b212d2ce320729e.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "在线教育",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "全勤奖",
+        "节日福利",
+        "生日福利",
+        "带薪年假",
+        "团建聚餐"
+    ],
+    "industry": 100012,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,59 @@
+{
+    "securityId": "ClYVRB3NJxFrL-21oMqX3ZOFmHaUXrT9NkVDBZL0M_eRNBo4WiW0UgcSXGLHo-DUb9QOwRqmfGts6i6xaM3foabNv9PdnFYsdxOkrQFdyBp1Vs3ojjl7",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "6881c4abd52613890nVz09i1E1ZW",
+    "bossName": "成女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3cf498b8f383d79e1XRz3tm0FlFQ",
+    "expectId": 0,
+    "jobName": "运维工程师",
+    "lid": "1KWG4CuYru1.search.29",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "系统运维"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "银川",
+    "areaDistrict": "金凤区",
+    "businessDistrict": "开发区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 29,
+    "city": 101170100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 106.224147,
+        "latitude": 38.476978
+    },
+    "encryptBrandId": "28b01b9202383af91nB-3dS8EFI~",
+    "brandName": "宁夏寰虹科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "全勤奖"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

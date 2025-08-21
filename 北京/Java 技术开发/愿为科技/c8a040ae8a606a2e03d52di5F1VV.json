@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "刘美蓉",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20241204/7b5b554d84f9729c3d3697294e516f08ceda9d00c939e97e2484c810dcefb3afa07935be249fdf43.jpg.webp",
+    "brandName": "愿为科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "A轮",
+    "businessDistrict": "望京",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d8e9a96f532b83870HR43Ni8F1tV",
+    "encryptBrandId": "1513ea41c671523a1Hx40967EFY~",
+    "encryptJobId": "c8a040ae8a606a2e03d52di5F1VV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.002567,
+        "longitude": 116.489918
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 58,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "Java 技术开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5MFGR9C1Q8u.search.58",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "wW-dJBEjpgXU7-B1cYk9id136SmEXrKsIACnEq37C-GLMEMRTs_uQL866MFy8TBdyr41IY5tHwe22iqc3I9ajS7o_ZMTzP4eBOFu8bEwyGyguru1jgscZ8umrTgBHjE7TLsIasoV63n6ihc~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Python"
+    ],
+    "welfareList": [
+        "年终奖",
+        "定期体检",
+        "五险一金"
+    ]
+}

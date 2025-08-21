@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221221/607f1f3d68754fd0d1bee873ab25e4ea29644635e0aa02be220fd8fa6192ed2ac13e445b2fe48930_s.png",
+    "bossCert": 3,
+    "bossName": "石先生",
+    "bossOnline": false,
+    "bossTitle": "工程中心负责人",
+    "brandIndustry": "信息安全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190213/87dae4e9777f43e0805e73651a1148a6220fd8fa6192ed2ac13e445b2fe48930.jpg",
+    "brandName": "华安保",
+    "brandScaleName": "500-999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "奥运村",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ddf5d59afba9ae270nd62ti0E1I~",
+    "encryptBrandId": "b2250e1af25908641HVz3tW6EA~~",
+    "encryptJobId": "e0bf849aa7b450030nRy29S4ElY~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.033792,
+        "longitude": 116.405949
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100016,
+    "isShield": 0,
+    "itemId": 96,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "信息系统监理工程师助理（应届大学生）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2zy86s1eRa3.search.96",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "Lf7BJur5zVAVr-J1NsbBX6WJ4s9qvD5z3Swg03fWtfFZOfbKMakHx4qp9ob5d6DrNz7IgpYY88YQJrh3Odzfr437O1aje5OEQKYdR3VK94haKmWKkJ-HEjIttGJ31h3JKmO9_YEWyX4~",
+    "showTopPosition": false,
+    "skills": [
+        "项目管理",
+        "项目协调",
+        "过程管理"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ]
+}

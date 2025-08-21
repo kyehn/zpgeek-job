@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221206/607f1f3d68754fd0118b209a5778ec87874699237fe3a7ccf3319d20f4d2b52c42e5b29632c8ffc6_s.png",
+    "bossCert": 3,
+    "bossName": "邢园",
+    "bossOnline": true,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240105/7bf6f160950405e9763d940637ab43c1b6bf9ec44707a6cd04c5cab85daa86eb9e7e03c57e4518bb.png.webp",
+    "brandName": "卓越际联科技有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "中和",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b4afd4e332b21f3d1HZ_29y6GFs~",
+    "encryptBrandId": "9a80334346a8f4661XR73Ny1F1Q~",
+    "encryptJobId": "809452b182746fe203d409u5FldQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.541607,
+        "longitude": 104.061277
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 57,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "java自动化测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "DfPlozZMTl.search.57",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-10K",
+    "securityId": "iWdmGFBSmQiJA-X1NCgaygaSievdLmH3TMoefKN4Tnzwx1jvcb7n9FESEx7hFYybZa0xonuYk9SRUXxRsIfby1Z3ko64JdgzHQp0wps1d4PvKNUnp-5D13SG03vSIfrj1faEGnFUI1NZVz4oMScPAT4lb1UBEPf87KU6Cidq_OgFNomCYA~~",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试经验",
+        "Java",
+        "测试工作经验",
+        "软件开发经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

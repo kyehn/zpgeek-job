@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "徐水区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20200213/4adad8a4037afc0c65fc7b8418dc4ec4cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "bossName": "田女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "电气机械/器材",
+    "brandLogo": "https://c-res.zhipin.com/jrs/7987815e162e4d8605168feb145031f7.jpg",
+    "brandName": "巨力索具股份",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "盛源中大街",
+    "city": 101090200,
+    "cityName": "保定",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "989125bdf14d878c3nd909-0EFo~",
+    "encryptBrandId": "3ff50fb2cbc180480HVy2N27EA~~",
+    "encryptJobId": "b29e2a1b0afaa2c11X1509W8EVZT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.010787,
+        "longitude": 115.641761
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100908,
+    "isShield": 0,
+    "itemId": 74,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "java高级软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7wm1mY5vEgu.search.74",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "uobdwNBWY32R3-91PsIvHchVUdEXGnYNOrz5nAUu0CHWuoVDfrZ410uPUe_j0DAII1tMl9BeQDEz5fWQJqm364PG1XgsZaiwMP0LXt87_hs9YizZZw-2pOz76A7VEeVoNWCY6KovKAxL",
+    "showTopPosition": false,
+    "skills": [
+        "后端工程师",
+        "全栈工程师",
+        "架构师",
+        "Java"
+    ],
+    "welfareList": [
+        "包住"
+    ]
+}

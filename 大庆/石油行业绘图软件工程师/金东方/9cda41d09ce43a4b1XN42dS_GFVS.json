@@ -1,0 +1,63 @@
+{
+    "securityId": "icZKiOKAH8He9-m1BZOJfDpEVgDO9x1mUhDPx3tuJmUs7Z4H9Wtvu6KucEFHztUmsQMCUNPNZKQ87c57LYNOkj4NLlCfRH0SJsf__C2-_f2MDECbDvI5MrprT6ANvwSgukkEEq1AzkrHMg~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "17031dc134fde09f0nJy0tu9FlVR",
+    "bossName": "单辰宇",
+    "bossTitle": "招聘",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "9cda41d09ce43a4b1XN42dS_GFVS",
+    "expectId": 1014042683,
+    "jobName": "石油行业绘图软件工程师",
+    "lid": "1GzphsKWsRM.search.161",
+    "salaryDesc": "3-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机/通信相关专业",
+        "能源/电力相关专业",
+        "可适应出差",
+        "石油软件技术支持工程师"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "大庆",
+    "areaDistrict": "让胡路区",
+    "businessDistrict": "阳光嘉城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 161,
+    "city": 101050800,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 124.858543,
+        "latitude": 46.628122
+    },
+    "encryptBrandId": "c0b40563a379bce40HR-2d67EQ~~",
+    "brandName": "金东方",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "免费班车",
+        "餐补"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180307/4d83f34d00dfe7960495d196b18c3d144989abee5392edc0f4d04f640ecbd55a_s.jpg",
+    "bossCert": 3,
+    "bossName": "喻琳",
+    "bossOnline": false,
+    "bossTitle": "行政人事部",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200422/31a4e7ab0277f41bcfd096c8dfde4db7b5656f9d9ab242c6b64c4d6a277e07a6_s.jpg",
+    "brandName": "云恒数联",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "新会展中心",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ac0c7c467efd09191HF-0t20FVM~",
+    "encryptBrandId": "946bc7d63af6c2e80HF80969FQ~~",
+    "encryptJobId": "f74dd7eaa34348f51n142Nq6EFdR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.550133,
+        "longitude": 104.064122
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 79,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "初级Java",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7MBhG4ZuQRc.search.79",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "xOU18mCLF2aHe-71BZNWb9cGFqI6s2zDfMSe0nzBr1UvG5XXViyov8LdoY1vikf29zb7NbyJmi0cTFQJHuIixUNrnqIQfcIqLQvMq0CHLMJ9GN0W5pA1lqKzK3kCSgL8foVd1WWnYAvv",
+    "showTopPosition": false,
+    "skills": [
+        "后端开发"
+    ],
+    "welfareList": [
+        "节日福利",
+        "定期体检",
+        "五险一金",
+        "带薪年假"
+    ]
+}

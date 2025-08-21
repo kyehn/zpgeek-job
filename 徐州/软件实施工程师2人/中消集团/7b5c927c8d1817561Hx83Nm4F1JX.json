@@ -1,0 +1,63 @@
+{
+    "securityId": "pNEBxBprC4ljy-I1s5-0quKlvtK_YZzb8Eu7ulqqq8k30IlCVCvFY2MnLLAgi6JiHpNKrMrZXj_gQhfvNPq7sBvP0fSB_80IKnNHapkLA_fQOBR4jqjx1CbkbYa6W1bVOlVfYOjidi3xXg~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210415/20980647f356e465df6dc1872bf1f9a9a0cf027a1870ace2e93dc0c306f58883_s.png",
+    "bossCert": 3,
+    "encryptBossId": "4241f6ebab678eac1nRz09m-FlBS",
+    "bossName": "朱女士",
+    "bossTitle": "人事部专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7b5c927c8d1817561Hx83Nm4F1JX",
+    "expectId": 1014042683,
+    "jobName": "软件实施工程师  2人",
+    "lid": "2uDMXj7qAeT.search.84",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机软件公共事业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "徐州",
+    "areaDistrict": "贾汪区",
+    "businessDistrict": "徐州经开区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 84,
+    "city": 101190800,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 117.337392,
+        "latitude": 34.273721
+    },
+    "encryptBrandId": "c004b272e1ed00ab33d73dm_EA~~",
+    "brandName": "中消集团",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200603/6723bff1424ed77cba1247eb6419b3fda0cf027a1870ace2e93dc0c306f58883.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "房屋建筑工程",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "补充医疗保险",
+        "带薪年假",
+        "全勤奖",
+        "节日福利",
+        "五险一金"
+    ],
+    "industry": 100708,
+    "contact": false,
+    "showTopPosition": false
+}

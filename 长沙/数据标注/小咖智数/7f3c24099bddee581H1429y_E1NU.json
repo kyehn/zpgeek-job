@@ -1,0 +1,63 @@
+{
+    "securityId": "UFP5cA0VIOGX0-f1GhwDgcQT8cPTnX02PX-I3gpDj4G6jqollKrBQNbm2b03FCu8Evzh-bGMUzFzb164AToMnL6aUsdkdmNReKj8aNHq5Ev1YY77MlCyC_c9vNSPALNKauKdTpwFXqhn9rs~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240206/607f1f3d68754fd0a5ad934347d1b2ca3e8b0de598282d38ddd2a138a8664267262dcccbfef823b9_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "f95e57ba021223b90n1z3dy1EVJV",
+    "bossName": "尤先生",
+    "bossTitle": "运营",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7f3c24099bddee581H1429y_E1NU",
+    "expectId": 1014042683,
+    "jobName": "数据标注",
+    "lid": "3nzlZTWaozl.search.134",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据标注",
+        "文本标注",
+        "数据分析能力强"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长沙",
+    "areaDistrict": "岳麓区",
+    "businessDistrict": "麓山路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 134,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.951281,
+        "latitude": 28.154947
+    },
+    "encryptBrandId": "02bd985f5a36fd8d1HVz2965F1Y~",
+    "brandName": "小咖智数",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231223/7bf6f160950405e9e5295ed679895bb1630d5c57548f0ae1a743bec59d9e2903ec267b7471a62f30.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "节假日加班费",
+        "全勤奖",
+        "补充医疗保险",
+        "意外险"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "YgL8XrnuYjERP-I1PFijFF6qS5c-N2lvN-UbOmcZ2lRoOEQCmjiu-NwTOKYKJi3g4N4XIjbrNb6MFOM6CY_jj0ncj3LJP9RstMurhWc6Sy3C0ihHFKZfvu07n5_xnWlaXA58YKgVCcHayfM~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231224/607f1f3d68754fd07c31eb86acfebdfd5a43dbd840f31e35315105a6dec5f31eafc5d47f79121afd_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "d4987d251f4b2da80XZ42tu6FFRZ",
+    "bossName": "孙岩",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "db9ced5fa35bdef61Hx92t24EVdV",
+    "expectId": 1014042683,
+    "jobName": "数据分析专员",
+    "lid": "2bd9CvlOKF4.search.18",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "物流行业数据相关经验",
+        "服装"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "高碑店",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 18,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.51907,
+        "latitude": 39.899181
+    },
+    "encryptBrandId": "4937634a42cc3e491HZ739i-GVc~",
+    "brandName": "北京颇受青睐品牌...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240104/7bf6f160950405e9f28003ff6c0540015da896dc1979cc91315105a6dec5f31eafc5d47f79121afd.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "服装/纺织",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "底薪加提成",
+        "五险一金",
+        "交通补助"
+    ],
+    "industry": 101003,
+    "contact": false,
+    "showTopPosition": false
+}

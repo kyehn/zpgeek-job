@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "许女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191018/14ffe8bf96314634544a1c392c8fb6ebdc59be9b9942f82f597d9bd1c7945cd7_s.jpg",
+    "brandName": "或非",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "陆家嘴",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6c81433ada26e4a40Hxz3Nq-GVE~",
+    "encryptBrandId": "5f15eb2c19d0144d0XZ_09m4GA~~",
+    "encryptJobId": "1a51bd9a6097abd71nVz0tW_EVZY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.234293,
+        "longitude": 121.50776
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 9,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "ue4游戏研发实习",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7nhqyRPEFbn.search.9",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "QGzYIiNWRy5CS-91soAv-xM4G-uAz_74-2ad-n8rauiL3kNF6qBCh1-XasFDOpZ8MTBrX_v4P5roeG8jqksLKEzR44jxmeSLk8KbTY7wUGT8TASCYmQi-z3O39HZo9SWllubaofxWyLV",
+    "showTopPosition": false,
+    "skills": [
+        "游戏",
+        "C++"
+    ],
+    "welfareList": [
+        "五险一金",
+        "全勤奖",
+        "住房补贴"
+    ]
+}

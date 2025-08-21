@@ -1,0 +1,63 @@
+{
+    "securityId": "CFc0CaD09T6QJ-D12s4DuNGP_yvzA4XfkglsAQoVCW_eOV1ODZp2igqQbshcclngVdB6H0cvn-jcmmjQhcZS4tHvxpSudcfM5EXu3TU8CPnuZm2fBdTFjVylERKXKH-Fk6DNariI1A~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210723/3bdfc3bfa51e6eea9f977e08b788c08a8c6e0643148b4560f0187b91ce389327_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "9510ab8230d949a31Xxy3di_FVc~",
+    "bossName": "管禹墨",
+    "bossTitle": "HRBP",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "de23d60c7f3345801H1729y5ElJS",
+    "expectId": 1014042683,
+    "jobName": "测试工程师",
+    "lid": "26UyrYguS1f.search.120",
+    "salaryDesc": "9-13K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "普陀区",
+    "businessDistrict": "长征",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 120,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.376318,
+        "latitude": 31.232603
+    },
+    "encryptBrandId": "ceb246cf881c752f33d939g~",
+    "brandName": "Testin 云测",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191202/39c27756d5a17400a7f44093bb3e5101c2cc55733a56d82232d44ee1d0cd53bd_s.jpg",
+    "brandStageName": "D轮及以上",
+    "brandIndustry": "互联网",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "定期体检",
+        "年终奖",
+        "节日福利",
+        "带薪年假",
+        "补充医疗保险",
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "晋安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "程先生",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "移动互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200313/d23e2825edb890716713d445fe7d9c409cc94c9daa188e90d9c29fdbb4a65dfd_s.jpg",
+    "brandName": "渔哥科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "岳峰",
+    "city": 101230100,
+    "cityName": "福州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "228cf5c882e6ef621Xx-3ty0E1s~",
+    "encryptBrandId": "889fd8388d72279f1Hx509W-GA~~",
+    "encryptJobId": "6ceedd5a6a70ada31HJ_2dW5EFo~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 26.099052,
+        "longitude": 119.333923
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100019,
+    "isShield": 0,
+    "itemId": 137,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5bEquI9wet1.search.137",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "2-5K",
+    "securityId": "Y0Y52HRy3BqkX-21aI8I1oSOI6nag88Z18tcnnlvJm9Jvh-YuGe4QS61OV1vzIRbdXLHMSql4b6oawAtXCyNliFfZ_mDu4UkPM87jZlljcBr42WkrhSv450H5OePHp41JfA_fGPVXwg~",
+    "showTopPosition": false,
+    "skills": [
+        "android测试",
+        "ios测试",
+        "web测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

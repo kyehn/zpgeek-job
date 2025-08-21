@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201204/44d96cbe4cb2dc6f31caae6800af765822233ce8a612497f84f9a650e653859a_s.png",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "社交网络与媒体",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190627/e612eeff96247f390c97db40b10795aa7a40b02f5c513409d720e85169d7b5a3_s.jpg",
+    "brandName": "中文百科集团",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "双榆树",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "37c367cf81bbe17c1nR82tS-GFNW",
+    "encryptBrandId": "8b2d863ee958852f33d739y4",
+    "encryptJobId": "8bee1ff0a00580171nV82dS1EVNS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.977202,
+        "longitude": 116.331981
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100003,
+    "isShield": 0,
+    "itemId": 181,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Java工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5WBMsIPeJyk.search.181",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "AmKGaGO3eVNqZ-b1jqp9WIWYTXhMR1ShpFPfEBRfZQhMs3dVdrPq48n1A9cf6w81qlSRTHRZbFSICMw3Kju84Ineu8Me3SujdLsm9gSgjZFPOE5HTcz8F82o2Nmv_ecev0SWsCbSsTZK",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "全勤奖",
+        "节日福利"
+    ]
+}

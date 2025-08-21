@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "镇海区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220914/607f1f3d68754fd0e6b239ed98b68b2f3773c53777d73ebd61e2d33f288d597d0e3de6b3b5369dec_s.png",
+    "bossCert": 3,
+    "bossName": "邓丁华",
+    "bossOnline": false,
+    "bossTitle": "副总经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250417/7bf6f160950405e9664493bbbcfec1c4d73acec4245c11fb3f58a04a71d42ff1c6e289c066a74065.png.webp",
+    "brandName": "民研数据",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "庄市",
+    "city": 101210400,
+    "cityName": "宁波",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f22eccf5bdce13281X150tS6EFE~",
+    "encryptBrandId": "22a2f56d9a9f193803Rz29m4FFA~",
+    "encryptJobId": "08b47c8f1d39ae5c03d909u6FlJR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 29.922699,
+        "longitude": 121.622288
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 47,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "Devops运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5VDy3Jvhonn.search.47",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "ORNKzxGOPwKne-n1w8en0XNRYI1K-gIAp38Yc4B8pO6re5SVnPMd_IuKpQCyRat7XZY6vRe3Dd48ktp-Wai6HfG9HWp8REgcDmM7RDvg8149sxwDdEKHkA9J1nOMmlHdZVeEQriax2J7EQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "运维开发/DevOps"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "areaDistrict": "青秀区",
+    "bossName": "卢苡希",
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandName": "多重世界",
+    "brandScaleName": "20-99人",
+    "businessDistrict": "青秀万达",
+    "cityName": "南宁",
+    "contact": false,
+    "encryptJobId": "d5b5048f00dd09c81XN72t69GVRV",
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobName": "软件测试工程师",
+    "salaryDesc": "5-6K",
+    "skills": [
+        "性能测试",
+        "功能测试"
+    ]
+}

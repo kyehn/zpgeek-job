@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "bossName": "张洪",
+    "bossOnline": false,
+    "bossTitle": "部门经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160902/21421e314f0b4427734843b75436fde2179a0501c2255999f7885839a3b7bdf8.jpg",
+    "brandName": "华创中实",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "安贞",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "171fbb56249d60d21nd52tq9F1Q~",
+    "encryptBrandId": "6c9fff342aaa88c11HZz3d60",
+    "encryptJobId": "8b02f41a2db14ad20nN939-0Ew~~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.972615,
+        "longitude": 116.413196
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 37,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8kiPGA17yx2.search.37",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "O0XO_UrrOIfgR-W12wJzfEHw9XGWgrIbAC8Oig6-Wrc6Tufvl972sM4bDrAA18wSJ8gNQLFrQwEeM3p_-joKm1qUS3zJiTAX1I4GPZ-lv1BreXiuT1cqLfWi571ELNPfXldykMUO",
+    "showTopPosition": false,
+    "skills": [
+        "实施",
+        "数据库",
+        "过程管理"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "QcVAcJkBWD8Ox-O1U6dc_Baa_OsSVXjj4AF1-etDclPX9huk2ve8nFZn8FgmoB7a2lYrlGzhSRTC55EHD0icae0sN3yZQS-u-6VjZHXmgzDfPo-er1c~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210423/13d0971575fc2cff2c8754320286f62a9e79b37a67b260635ec67779cca1746a_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "3691def154434e5c0nZy09S6E1RQ",
+    "bossName": "杨女士",
+    "bossTitle": "人事行政经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b48ba7657db7f7631HB-29i9FFpZ",
+    "expectId": 0,
+    "jobName": "采购助理（护肤品类包材）",
+    "lid": "346hAZfP9op.search.268",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "国内采购",
+        "包装"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "白云区",
+    "businessDistrict": "嘉禾",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 268,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.284036,
+        "latitude": 23.22546
+    },
+    "encryptBrandId": "f1c5c24e63cb41d80HJ709S-EA~~",
+    "brandName": "广东博禧",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200326/61332bf9e4a8774e6fed4c5bdb203a7d75f640ff036185ee9465a02a560a3a2a.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "日化",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "零食下午茶",
+        "全勤奖",
+        "五险一金"
+    ],
+    "industry": 101002,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "sBOWUTaCeCktm-51SNK3mTk5qIXSVjPx_N90CJ_rophmqVgN4SMqJ2tsGL92zZ-QVHfsP5er5cGBD4X3RgO85xs8gjw2FSxnEgz8GmwMMLM8gK9U9I8~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210624/0ea0fa8d95ff80efc1b30377a2cbecccf3db43e3c7a257828daa39a8f3d091d1_s.png",
+    "bossCert": 3,
+    "encryptBossId": "5036e13444f3440d0nd90tW_FltT",
+    "bossName": "周女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4a01d3fa3a9d39f21HZ839m5EFRZ",
+    "expectId": 0,
+    "jobName": "实施顾问",
+    "lid": "5DMinc9ImVX.search.87",
+    "salaryDesc": "3-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "软件实施经验",
+        "PMP",
+        "ERP",
+        "财务相关专业",
+        "计算机相关专业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "衡阳",
+    "areaDistrict": "雁峰区",
+    "businessDistrict": "蒸湘南路沿线",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 87,
+    "city": 101250400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.6017,
+        "latitude": 26.893959
+    },
+    "encryptBrandId": "959ab1e811e5e6d31HR42t65EA~~",
+    "brandName": "骏腾云山",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190218/6e4e4f143d07ceca20b8f5ba9e8e1c4a54be2e5870a62c80ee16b9e854feb343.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

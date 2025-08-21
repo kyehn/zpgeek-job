@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "建邺区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220512/607f1f3d68754fd078b4cf3e6d4d19b225cb6d86012d39dc4e3d81dc5f99912aabbe11ca0ae29391_s.jpg",
+    "bossCert": 3,
+    "bossName": "刘先生",
+    "bossOnline": false,
+    "bossTitle": "项目经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190523/ceacefa4fd799eb6abca272a416c8a09c63f787a3785848a9fb928550d221e90_s.jpg",
+    "brandName": "哟漫",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "奥体",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8a7d85b37ce0dee11nZ50ti5FFE~",
+    "encryptBrandId": "80b76d7eb1f787a01nx_2tm0GQ~~",
+    "encryptJobId": "9b66896e3915fbcd1HN53dm4EVVW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.990319,
+        "longitude": 118.739473
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 45,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "27zimVhbfMB.search.45",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "P4XWhVDeJoana-U1uV9GCOULZqedeSBct3yU23h8nmWWeRi4Ij44f1ALqfK0iyHXu23fPgpiK70ym3sn7I7H9R8KgkKYH-qRhHzQtzZ0uvMDIZHgrsrJ_hGxcQSfLyM45l7Lltzh78YB",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ]
+}

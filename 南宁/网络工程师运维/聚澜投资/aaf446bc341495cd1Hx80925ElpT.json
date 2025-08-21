@@ -1,0 +1,62 @@
+{
+    "securityId": "WgaEBqWs0qmTM--1yLMZ1rWTZCpAfiCyWQWbpybFQ-REnCbEZcGirONkBJxk_rrXqxrOfvBRiyi4HeKlxoJJyhckfC-jloFFYS3VA94u3BBYiTAQDC5TDOqfPP193QuETZ1N-brAXtYn6e0~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240815/607f1f3d68754fd0523e97cb7c78ec8e49f8dab67a9b6f296a20dd810a9fdef3b7f282bce8830921_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "26adb6a724f78a630nB83964GVZR",
+    "bossName": "覃女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "aaf446bc341495cd1Hx80925ElpT",
+    "expectId": 1014042683,
+    "jobName": "网络工程师（运维）",
+    "lid": "1hr1fIMTlxr.search.247",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "网络运维",
+        "计算机相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南宁",
+    "areaDistrict": "青秀区",
+    "businessDistrict": "民族大道",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 247,
+    "city": 101300100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 108.43008,
+        "latitude": 22.787386
+    },
+    "encryptBrandId": "13f052941265f6861HJ53Nu0GVY~",
+    "brandName": "聚澜投资",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240802/7b5b554d84f9729c259d241e5345bcd1d7c621f29e8e5041922135721e2a423c3ddc9f0820cce58a.jpg.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "投资/融资",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "包吃",
+        "五险",
+        "有无线网",
+        "定期体检"
+    ],
+    "industry": 100207,
+    "contact": false,
+    "showTopPosition": false
+}

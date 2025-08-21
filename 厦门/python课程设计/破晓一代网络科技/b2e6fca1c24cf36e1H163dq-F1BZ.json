@@ -1,0 +1,62 @@
+{
+    "securityId": "f5oVBpJ7SK9Lv-b1BeR7rxOlVXq80u2xaboR-m0yimX6MBI9elYhol1lxUCpL_Eeqx8pR9amQm5mgkBnNv8uAagzWbnS0qhn6uUPhe4HrtzrlFnbqxDskzFIEj-ZwA9XqWsayeMCG3YO1a8~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241008/607f1f3d68754fd0e00587faa7375944f29c39a68eb5621c988c46a9c8fe8b14ccaccca53faf4a3a_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "a978b1e18af7e28d0nF63t-6E1pV",
+    "bossName": "许先生",
+    "bossTitle": "产品的策划设计研发运营",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b2e6fca1c24cf36e1H163dq-F1BZ",
+    "expectId": 1030426395,
+    "jobName": "python课程设计",
+    "lid": "MkD1Xi2sIj.search.112",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Django",
+        "MySQL",
+        "Python",
+        "Flask"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "厦门",
+    "areaDistrict": "思明区",
+    "businessDistrict": "软件园",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 112,
+    "city": 101230200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.177933,
+        "latitude": 24.48932
+    },
+    "encryptBrandId": "4b619777d182440d1HN43d-1GVM~",
+    "brandName": "破晓一代网络科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240915/7bf6f160950405e96f5fb045b2b2d4a3c12b189fd79c7d22988c46a9c8fe8b14ccaccca53faf4a3a.png.webp",
+    "brandStageName": "",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "有无线网",
+        "零食下午茶"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

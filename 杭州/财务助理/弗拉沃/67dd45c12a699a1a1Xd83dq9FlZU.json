@@ -1,0 +1,62 @@
+{
+    "securityId": "aZvyNUrt8wnZs-V1MfXltktw7AUA3t--xWiQv2Ya8FmI3HpWNtKAE7JWZnRJ4ar_IRRw-ahokbAWQoOKON3iWiIzbeoanvnXCJSU_23R6504eUdOvXE~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230311/607f1f3d68754fd0087eea23ca6c074658286acb42a5ee78904bac0caa1ab7f83f5f1b205cb2d85d_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "b582efcad498487b0nF72Nu_E1dV",
+    "bossName": "沈女士",
+    "bossTitle": "会计",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "67dd45c12a699a1a1Xd83dq9FlZU",
+    "expectId": 0,
+    "jobName": "财务助理",
+    "lid": "5K8jpXbWh8n.search.294",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "应收应付",
+        "结算",
+        "金蝶EAS",
+        "不可兼职"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "拱墅区",
+    "businessDistrict": "德胜",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 294,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.179451,
+        "latitude": 30.29222
+    },
+    "encryptBrandId": "16385541675dec711HJ73d27GQ~~",
+    "brandName": "弗拉沃",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190225/6d159964cea918276a6ed4c62b4b63c06d4e17c5d42430d0793b1a385aaa878b.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "餐饮",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 101101,
+    "contact": false,
+    "showTopPosition": false
+}

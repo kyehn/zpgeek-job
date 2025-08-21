@@ -1,0 +1,61 @@
+{
+    "securityId": "Rk760qyyO5mTm-412T4W9a5yLM0RD7Au2jJHZNO7qeewYfz8XktJmL6FJRwpx1AkIRWltVmyUFCdRSx-3MyXKbefhanb2XZqo-GmPr73knp8lQHI21x7ODYs6uKPpzJgvw6-Q6hbNAByFoaul5Ctvw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240429/607f1f3d68754fd0cee9b8a34be3f57c3df5597ce756b598843a4964307927e8a67207a4e03361e8_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "4630fa0ce633435b0nVy3N29FFZY",
+    "bossName": "李女士",
+    "bossTitle": "hr",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "7af61074170619951X173t-8FlNU",
+    "expectId": 0,
+    "jobName": "Python编程课讲师＋双休＋五险一金",
+    "lid": "5DRmubhx5pm.search.299",
+    "salaryDesc": "9-14K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机专业",
+        "少儿培训",
+        "python语言"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "贵阳",
+    "areaDistrict": "观山湖区",
+    "businessDistrict": "中天会展城B区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 299,
+    "city": 101260100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 106.649272,
+        "latitude": 26.65077
+    },
+    "encryptBrandId": "26a42a39b0223e331XNz3dm_",
+    "brandName": "编程猫",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220927/7bf6f160950405e9191a174d19eb5c74eefcd69cc3a1a82731596c1ec7fefd9eda67c77934aed995.jpg",
+    "brandStageName": "D轮及以上",
+    "brandIndustry": "互联网",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

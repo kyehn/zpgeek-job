@@ -1,0 +1,61 @@
+{
+    "securityId": "ozLnMzLqjtnz8-p1_AdcqJzbmbn9rJ1qYZ8nUsf7WYfgFRt7T7Cgqa9pFbeuPjM7DkG1D7w1NIIF22iVBJa3fKezOKiACyc6Olg8DDwky-89mla4iZC7Q29XXJlb5bKyttKgWtjweWXoK-Q~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "eb2dd6e60e9fdcba0XZ60t6-GVVT",
+    "bossName": "邹继明",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f2b1e958e3fb9f4e1Hx42N-0EFtV",
+    "expectId": 1014042683,
+    "jobName": "技术员",
+    "lid": "1e3UqTFcdy7.search.236",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "工程项目"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "中关村",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 236,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.30671,
+        "latitude": 39.984476
+    },
+    "encryptBrandId": "55d7690462b6b8421HR80tm7ElQ~",
+    "brandName": "北京名牧科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231005/7b5b554d84f9729c0e73afb6a88933c6b246fdd16a5576b424db4f705751b1f22a6fdf5c31bd1889.jpg.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "工程施工",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "交通补助",
+        "节日福利",
+        "餐补",
+        "五险一金"
+    ],
+    "industry": 100702,
+    "contact": false,
+    "showTopPosition": false
+}

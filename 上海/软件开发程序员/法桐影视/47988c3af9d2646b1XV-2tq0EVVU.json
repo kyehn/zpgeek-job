@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "青浦区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250311/607f1f3d68754fd0d03ecc774d8a722e48740b1ba862f6210df6e31a80115951909596658d1a8a44_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "陈先生",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "广播/影视",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210920/7b5b554d84f9729c32fb8c7d56f516532d2a6566c3a06b500df6e31a80115951909596658d1a8a44.png",
+    "brandName": "法桐影视",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "徐泾",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d861f296de5bde8a1nR_3NS7ElFZ",
+    "encryptBrandId": "5ded60efb31e9bb90HNy29S_GA~~",
+    "encryptJobId": "47988c3af9d2646b1XV-2tq0EVVU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.19329,
+        "longitude": 121.272912
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100103,
+    "isShield": 0,
+    "itemId": 243,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件开发程序员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2TaTMsBKuL1.search.243",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "PTYJZRvOI8y5_-V12GTSYd-tbw3Lx33T92kn-2LCwm4v1R0YcI5qmCG7lKP3ACnW_ORSBQSwExgx9HUuxOkqxSFDLDxZTwtAwYVZvBQxZP3Z-4kVdm_mZRcVeSO0maATjS-87uWebd6hDQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "SQL",
+        "MVC开发",
+        "SQL Server"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

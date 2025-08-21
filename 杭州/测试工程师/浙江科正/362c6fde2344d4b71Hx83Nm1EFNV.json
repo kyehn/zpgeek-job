@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240918/607f1f3d68754fd05dea079f4a8dce8043c7f0ae4e4b2a24114c904c20fb79ac06e19af7de21e4df_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "项目跟进主管",
+    "brandIndustry": "检测/认证/知识产权",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240604/7bf6f160950405e954d397f9a3f4a4789b8d1ec52d35c8558de844ad8e67c0cecdad313dcfcfd14b.png.webp",
+    "brandName": "浙江科正",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c329ced50b1f2af51nZ43966EVBV",
+    "encryptBrandId": "681b5463c1ea4ce10Hd839u-FQ~~",
+    "encryptJobId": "362c6fde2344d4b71Hx83Nm1EFNV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.171375,
+        "longitude": 120.204317
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100609,
+    "isShield": 0,
+    "itemId": 270,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2BEUgshyTSD.search.270",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "WKhe5VDvMrY1B-51bVZ8zmcBxMLRFuW24KJG6Rkqzo5WIh_Ddgh58ZJ9CBvO_ZY-iCmx_X26DXOTAalO2I0Sf3tROEUsShmtkLVUGmbIqqjIPpFqbEGcHnrAj5tTJSYaUZGozvVzbwIuvQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "定期体检",
+        "带薪年假",
+        "加班补助",
+        "五险一金"
+    ]
+}

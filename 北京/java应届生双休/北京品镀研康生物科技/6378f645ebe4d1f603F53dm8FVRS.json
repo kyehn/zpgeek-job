@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "大兴区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "高女士",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "生物/制药",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "北京品镀研康生物科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "黄村",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2a4615cf4b1a48030HR60tm-F1dT",
+    "encryptBrandId": "7ec119d4a8437b8a1H1z39W5ElA~",
+    "encryptJobId": "6378f645ebe4d1f603F53dm8FVRS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.687513,
+        "longitude": 116.299616
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100401,
+    "isShield": 0,
+    "itemId": 1,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "java/应届生/双休",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cOPJ0GXpIl.search.1",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K·13薪",
+    "securityId": "wLQmx16jV6-Xp-U1EzeY-KWmarEDmFBpOaY9sVLXLCxDz9uPoBgulFFaCFmgL74atxf7r7i0m8lobQK2lTDgc9qcAAU3SdM-NmMuoPwJK5kAsHSoQxbUB7V5M2A-w8UP-EX77h-v-0yNhHc~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "意外险",
+        "带薪年假",
+        "餐补"
+    ]
+}

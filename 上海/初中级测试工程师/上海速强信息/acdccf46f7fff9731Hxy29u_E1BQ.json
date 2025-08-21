@@ -1,0 +1,63 @@
+{
+    "securityId": "Y1vADi5fqVmiR-81B18PAZPkgYXjEY38NqRand0wHz03axP-MW_NPpsZNhH1vtD8vh72TBVOaNwd82pKoas0R_hPSZIpb0nG36IOu6LZsU5F6R-W4KCEW6eEk6R4Fd-lf2yVyQKhNDYG",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230712/607f1f3d68754fd00a6d777c648a7f8a8171aa0e2e0f28eb83dd8af5efbee83865f21e097e32f144_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "a7e5236ba28491060nB42d-8EVBZ",
+    "bossName": "黄梦琦",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "acdccf46f7fff9731Hxy29u_E1BQ",
+    "expectId": 1014042683,
+    "jobName": "初中级测试工程师",
+    "lid": "26UyrYguS1f.search.151",
+    "salaryDesc": "6-7K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "金桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 151,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.619548,
+        "latitude": 31.262856
+    },
+    "encryptBrandId": "e7dd7903f2d63a311Xd82dW4",
+    "brandName": "上海速强信息",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180316/a2aa8ac112b5d43a546ebbf10bed4aceb357886add3789674af7a0658640b515.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "加班补助",
+        "定期体检",
+        "带薪年假",
+        "年终奖",
+        "五险一金",
+        "节日福利"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

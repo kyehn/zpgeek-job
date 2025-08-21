@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "东坡区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "王佳英",
+    "bossOnline": true,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180614/c841c50d2df68a1d68ed36cfc71126dacfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "铭太科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "B轮",
+    "businessDistrict": "市政府",
+    "city": 101271500,
+    "cityName": "眉山",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fe9ff959ab096fad0nxy396-EFBV",
+    "encryptBrandId": "55901839c1feaca833N_0ti7",
+    "encryptJobId": "56148459764ccc3703dz3tu1GVBY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.072701,
+        "longitude": 103.87335
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 25,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "70AcDywkQw9.search.25",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "OHovWAQOOEP8Q-B13p1tPPK6WJHGZXhdA-p6Cg8EAKhEek7_oU-apnvS-63qYoNPD3oa8OMnXV8wAe_8krjFDS4AUyni6-lWK5S-QaYAIDCBTxTmxZ7k_dFfNT6in4QtYamX9_m43egul46VFIKRvDAji5fWaIc0DbpsIgOOdgL1uFqd",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金",
+        "年终奖"
+    ]
+}

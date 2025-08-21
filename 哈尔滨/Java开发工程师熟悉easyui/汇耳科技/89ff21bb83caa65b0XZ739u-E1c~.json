@@ -1,0 +1,59 @@
+{
+    "securityId": "TaCuRDWEFL3Uh-b1DAidzwuOqql75CY4ZEGI6I7whrJlUiHKzi0RMCXd_tgw0HA1ARiHGyLiOiVigyWbMaJ9EMBpF5ERhfDpBoh9tdq1B3EL5qfP3KxzMnE3Ve-noz3sJFyxnyKe3A~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180301/2cebee8656238f0e52f95d156f282f28cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "ca8ad7d7b029f8431HF60t69FVY~",
+    "bossName": "李云辉",
+    "bossTitle": "HR专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "89ff21bb83caa65b0XZ739u-E1c~",
+    "expectId": 1014042683,
+    "jobName": "Java开发工程师（熟悉easyui）",
+    "lid": "1EC925cZ2ND.search.197",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "easyui"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "哈尔滨",
+    "areaDistrict": "南岗区",
+    "businessDistrict": "会展中心",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 197,
+    "city": 101050100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 126.692583,
+        "latitude": 45.747385
+    },
+    "encryptBrandId": "076db75bdaa95c541XN53dW1",
+    "brandName": "汇耳科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170814/c7e502b4b52324ab016b7b5c1481f3488c7dd922ad47494fc02c388e12c00eac.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "节日福利"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

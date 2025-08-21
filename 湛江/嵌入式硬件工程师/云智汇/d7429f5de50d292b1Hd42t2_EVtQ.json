@@ -1,0 +1,63 @@
+{
+    "securityId": "GIDIz77ot0vSw-F1i9-ncx8BEvyYcNuyXGGD4_XQJ6UzPuifl9ntNOwozslOxcgoYu9dWTeH2GgRStOQbGPlyOf96a9ihE9DBEP7cwaTt4kLPdhxpZEv",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "4e05f8fdee259bea0Xd62tq8GVFQ",
+    "bossName": "朱女士",
+    "bossTitle": "人事助理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d7429f5de50d292b1Hd42t2_EVtQ",
+    "expectId": 0,
+    "jobName": "嵌入式硬件工程师",
+    "lid": "5IZkruvOXoT.search.232",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "机械设计制造相关专业",
+        "嵌入式/单片机开发经验",
+        "电气电气/自动化相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "湛江",
+    "areaDistrict": "赤坎区",
+    "businessDistrict": "中山一路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 232,
+    "city": 101281000,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 110.366674,
+        "latitude": 21.273528
+    },
+    "encryptBrandId": "ab49dc09cae214361HZ72d21F1M~",
+    "brandName": "云智汇",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "绩效奖金",
+        "节日福利",
+        "保底工资",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

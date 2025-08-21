@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "许长海",
+    "bossOnline": false,
+    "bossTitle": "公司行政主管",
+    "brandIndustry": "环保",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200616/dd354835bec5748327f6a76488829486f04c718c31b0859c451898c44c85657f_s.jpg",
+    "brandName": "北建发上海分公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "349c99773c29fe4d1nV52NS8GFVT",
+    "encryptBrandId": "39825066c867c05733x82d27Fw~~",
+    "encryptJobId": "ed45bd445719041233Zy3N65ElU~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.715753,
+        "longitude": 121.350348
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101207,
+    "isShield": 0,
+    "itemId": 72,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "调试员/运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8khNo1ENJ7C.search.72",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "0lptWPw5CIfYN-s1EYYmyKmS6o6NSWXvqMonA2Kh70W7h9M98YX3Q9nBZOnujaMdbpgHysvJHGhcqsUKyWT92mOW0nimPLQtSOT_iTlHPDF9aO7qFxDpe2CWQkrpK0VOGdG6K2IlSkHs",
+    "showTopPosition": false,
+    "skills": [
+        "运维工程师"
+    ],
+    "welfareList": [
+        "五险一金",
+        "餐补",
+        "通讯补贴"
+    ]
+}

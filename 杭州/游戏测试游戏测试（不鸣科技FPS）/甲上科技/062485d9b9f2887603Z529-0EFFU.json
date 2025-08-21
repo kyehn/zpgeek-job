@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241226/607f1f3d68754fd0c4034f8c88c875bb44e898de4a64feb981a6662258bd74c26e4cb0e67116c85d_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190328/1c77968456d7fdb7955c187aa9192b6a98ae2b86d3f6cb50087d7851e4af3d89.jpg",
+    "brandName": "甲上科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "西溪",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e984638f2b73a6211n193dW6F1A~",
+    "encryptBrandId": "f8f18fefaed72d5b1Xd83d-9GQ~~",
+    "encryptJobId": "062485d9b9f2887603Z529-0EFFU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.291519,
+        "longitude": 120.076325
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 146,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "游戏测试游戏测试（不鸣科技/FPS）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5d6vOqkaEoT.search.146",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-9K",
+    "securityId": "fvjiZnoW9g_MT-j1Os4PY-2w4W4hAR1UJR5Pg2QMgLjlLaY60tMfSEa0MMRko6H01XehOz5skx8LOOakia35hFtHnsJYhjE2EJ9LDuwDXsKQefOcbBXhCO-nL5S_Yf-7O3CeTEXBTCbF",
+    "showTopPosition": false,
+    "skills": [
+        "FPS"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金",
+        "加班补助"
+    ]
+}

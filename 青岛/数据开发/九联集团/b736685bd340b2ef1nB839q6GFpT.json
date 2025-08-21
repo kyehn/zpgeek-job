@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240213/607f1f3d68754fd0da489fc0382e2b4c48dffb4a4b158c339d93de43030f2c03c287be7f4c6397dc_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "王银娟",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "餐饮",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201205/2045c30598d713d47cc2f14f7a30e9197b376a96262d37c4285164fb3ba99d39.png",
+    "brandName": "九联集团",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101120200,
+    "cityName": "青岛",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "dfec2592ee7f1fff0nV50t29GVVU",
+    "encryptBrandId": "2324dcd5da684f130Xx839q7EA~~",
+    "encryptJobId": "b736685bd340b2ef1nB839q6GFpT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.872677,
+        "longitude": 120.460785
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101101,
+    "isShield": 0,
+    "itemId": 9,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "数据开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6SwPf63H9HA.search.9",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "m4Pz1vmDgfW1f-K1k2jhxw6QjIrMXL36m0QtD2m_XjmJd8roEoGjpB_8gEeW6FFNbEBWIA1Iym7MTK4X45kJcTfjIje-KjvGXonxhAEQwvmQuuubWMYZspvQcMMe0tJtTymgmXquuDHjBQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "SQL",
+        "Python",
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "包吃"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙岗区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200831/3137f02098de081615ddc31e1946e327bb6705f0892de95024276d77cc113c20_s.jpg",
+    "brandName": "广州勤迈信息",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "龙岗中心城",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2b69d39e64c9d65e0nZ_3t69FlFS",
+    "encryptBrandId": "621b9917bbc022a81nV_2dS6FVo~",
+    "encryptJobId": "b9786c15326ef92e1H183du4F1VT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.686625,
+        "longitude": 114.275994
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 71,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2wBFDdSRhsD.search.71",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "LpIPvulSfNRhb-21OgzKixf08CYfMwbEOYZaG9ZMJ0nL0Q4Nkcn5Ctj3caOlgEhB8zpc73FBtrAXjomE_Zpa75kq38NWRWlmAECsqDihzVW_dqr5xXoJTrw7v5PDPB5IDOSfvGVtE0PzU8w~",
+    "showTopPosition": false,
+    "skills": [
+        "测试工作经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "股票期权"
+    ]
+}

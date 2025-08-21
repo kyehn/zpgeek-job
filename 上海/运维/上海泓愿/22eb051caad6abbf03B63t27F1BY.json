@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "静安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240221/607f1f3d68754fd05710d09bf79e50a5b2ed37098bbe56c8e4c6e4416fef66c3b0981e8a2207bda1_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "闫女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
+    "brandName": "上海泓愿",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "汶水路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0140efcf453cfda10XF42dy1GVI~",
+    "encryptBrandId": "74f5a56207388fac1Xx939u0FlQ~",
+    "encryptJobId": "22eb051caad6abbf03B63t27F1BY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.29835,
+        "longitude": 121.438216
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 12,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8QtqUOaProw.search.12",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-12K",
+    "securityId": "ht2oEzGesUoem-Z15o9lOswf_v7lDLkXIk6fhnQOVqqJr0eyrn8fRJGksQ9dm0iEX_tiH1it2v0N34U1eqfa8Cw1138wIlWU12mITietlvH73rUyv8jeIUQXyaBxIfKkKKnh8MmiT5nZLg~~",
+    "showTopPosition": false,
+    "skills": [
+        "OMS",
+        "POS"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "保底工资",
+        "五险一金"
+    ]
+}

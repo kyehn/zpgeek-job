@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "金兆美",
+    "bossOnline": false,
+    "bossTitle": "行政主管",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211025/7bf6f160950405e9a4d8abfe6bf11d8447db106f81af7f9b212f02d93907afd8d0f8baa86ebf09e4.jpg",
+    "brandName": "杭州腾昆",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "三墩",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fca54af3fcd757e90HR63d64EVI~",
+    "encryptBrandId": "00ba49e778c3fe4d0nV43dm6GQ~~",
+    "encryptJobId": "ea2dd8ba5edde86503173N64GFM~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.311626,
+        "longitude": 120.064633
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 59,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "商务文员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8dt8oHd1RmV.search.59",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "Hz9pNJyCIZVoB--14Hj-VzDX6GRqnhir2RUyg4vjtugy4tU77GDnc-3dHe2epG_CapyuK_gsvqaqNtwx4SZsyuHm2cUy3BQ8joZJbptcaOd0wuxl10Zo6vi0jOnlM3rc9fogfDEiOgQ~",
+    "showTopPosition": false,
+    "skills": [
+        "办公用品管理",
+        "安全管理",
+        "文档管理"
+    ],
+    "welfareList": [
+        "加班补助"
+    ]
+}

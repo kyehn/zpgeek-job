@@ -1,0 +1,63 @@
+{
+    "securityId": "b7Rw5VVXAuo1--E1KTdHGIGW5q3a6yD5l9XOZ91RSprOdHk20QpV0V05qI31Uz_5EUcVTbMMcxysoq7N52Roc_sBUik1ppLLhcMF4Yi5krlo1OcvOQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211221/607f1f3d68754fd07a4db05045b3d2be0544df12a2d49a5f934ca5e539c223d5f8a5b58e77a60ace_s.png",
+    "bossCert": 3,
+    "encryptBossId": "e855acebeefe60a303R43Nq7FlI~",
+    "bossName": "赵女士",
+    "bossTitle": "招聘主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6e939927829b6bb51HB-2t-0EVVQ",
+    "expectId": 0,
+    "jobName": "数据分析员",
+    "lid": "3pZfrtkwdSl.search.63",
+    "salaryDesc": "6-8K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据清晰",
+        "行业分析"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "蔡甸区",
+    "businessDistrict": "沌口",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 63,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.162105,
+        "latitude": 30.492467
+    },
+    "encryptBrandId": "3bf839b6b614fa701XB539-9Ew~~",
+    "brandName": "铂睿德佳",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190521/5d00641ea99833050563191ad9d39f99cc9d78de003bc08928ceb74d7a41cb62_s.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "咨询",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "带薪年假",
+        "五险一金",
+        "定期体检",
+        "员工旅游",
+        "节日福利"
+    ],
+    "industry": 100601,
+    "contact": false,
+    "showTopPosition": false
+}

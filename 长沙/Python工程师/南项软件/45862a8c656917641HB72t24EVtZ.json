@@ -1,0 +1,63 @@
+{
+    "securityId": "XL9o1BV3WhUBM-S1sBw9FUFpdvf7uw15_4oGdlM-5kMGGjmVrWNZlfTcwfniBRzBZF9ISVNIsjTa4dODnh_m8Fguje2BpSWqWEfn9C1ABYsyW_pY",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220422/607f1f3d68754fd012243102ae9dacc5c3b8db141891a7314d206ae8614ad7ce478eff9515046818_s.png",
+    "bossCert": 3,
+    "encryptBossId": "8541754239c6275103d90968Fg~~",
+    "bossName": "张先生",
+    "bossTitle": "战略顾问",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "45862a8c656917641HB72t24EVtZ",
+    "expectId": 0,
+    "jobName": "Python工程师",
+    "lid": "2zFDOUZu0rk.search.22",
+    "salaryDesc": "6-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python",
+        "Java",
+        "Django",
+        "Nginx",
+        "MySQL"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长沙",
+    "areaDistrict": "芙蓉区",
+    "businessDistrict": "湖南农业大学",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 22,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.081465,
+        "latitude": 28.194929
+    },
+    "encryptBrandId": "cf503f00106f42000XN52969GQ~~",
+    "brandName": "南项软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211120/7b5b554d84f9729c2e98ec1dc582d1bbc78eb583a28cbea94d206ae8614ad7ce478eff9515046818.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "20天长假"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

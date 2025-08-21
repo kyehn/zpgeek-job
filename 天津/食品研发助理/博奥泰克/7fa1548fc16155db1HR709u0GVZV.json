@@ -1,0 +1,62 @@
+{
+    "securityId": "Gvmx8cU9XUuwP-I1CACYgQlhl2qHGen04NzAeAQmdtQgYeFXK4upZNIUJ78RlFVjH9xM_pb0JUsabSOIkXI8nI_qIfE-g1aLzxbT87AlCgYqhoiI0Qk~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221027/607f1f3d68754fd027547f490e17a40e6e5bf0d91a9cb43c8071481e60ddc3ff262b08c71ec81387_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "0cbf6bf38bdbca4f1HJ939m5FFY~",
+    "bossName": "孙女士",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7fa1548fc16155db1HR709u0GVZV",
+    "expectId": 0,
+    "jobName": "食品研发助理",
+    "lid": "1IiajwmmQKN.search.156",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "饮料",
+        "饮料"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "天津",
+    "areaDistrict": "西青区",
+    "businessDistrict": "大寺",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 156,
+    "city": 101030100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 117.228274,
+        "latitude": 38.965771
+    },
+    "encryptBrandId": "f8f03e3d5e081b681nZ90t64FVU~",
+    "brandName": "博奥泰克",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201110/f226d5f1ad9729b763263c1687e5c391e48f55e89e4a715fe8fdbaedb1ff570d.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "食品/饮料/烟酒",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "带薪年假",
+        "免费班车"
+    ],
+    "industry": 101001,
+    "contact": false,
+    "showTopPosition": false
+}

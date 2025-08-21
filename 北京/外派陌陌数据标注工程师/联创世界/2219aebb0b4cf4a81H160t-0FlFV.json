@@ -1,0 +1,63 @@
+{
+    "securityId": "xBmL1RLP5XS8f-O1OWIBPr4PqCuqQq-KRFRH-ckXL_9LCZ_vOMmBlgmPLAabrhPHHBeZg_VD0hPMi36NCdDK662EiQc_ajH_WhO9dcL7bVzGZZm3s9ixpSleGFlddeZ03XkIJF8N08Q~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "dff1b161442c2fa61XN-39y-GFM~",
+    "bossName": "陈女士",
+    "bossTitle": "招聘经理/主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "2219aebb0b4cf4a81H160t-0FlFV",
+    "expectId": 1014042683,
+    "jobName": "（外派陌陌）数据标注工程师",
+    "lid": "1eaRqvm8qWn.search.219",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据标注",
+        "图片标注",
+        "语音标注"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "太阳宫",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 219,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.480044,
+        "latitude": 39.997351
+    },
+    "encryptBrandId": "e9ed3d73f01c3ee11XN809-0",
+    "brandName": "联创世界",
+    "brandLogo": "https://c-res.zhipin.com/jrs/c4df5ae50810d430e75e74a126e71c5c.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "加班补助",
+        "五险一金",
+        "节日福利",
+        "餐补"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

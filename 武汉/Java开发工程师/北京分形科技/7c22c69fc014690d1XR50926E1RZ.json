@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武昌区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "于丽",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img2.bosszhipin.com/mcs/chatphoto/20160303/d892e49e8ea1cc6e30a9841f6b2a5dfcd82928924c6c4f99cdad768b6de2c4db.jpg",
+    "brandName": "北京分形科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "武珞路",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1e054081590cf4541nVz09u_EVBQ",
+    "encryptBrandId": "64f4da824a61575c1X143Ng~",
+    "encryptJobId": "7c22c69fc014690d1XR50926E1RZ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.528792,
+        "longitude": 114.34341
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 42,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8o5ZWqPZZB7.search.42",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "-tQieI2BgUhIM-Z10BF4Hum3PA22hJRWtkNUzdDe5GVYROqeIRSQxjMi37dUPiXUTHywSLurRUMl1wHC7iNgFuHxoZ5kBRiXHyyf4tIzqynt1-8d",
+    "showTopPosition": false,
+    "skills": [
+        "后端开发"
+    ],
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检"
+    ]
+}

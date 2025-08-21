@@ -1,0 +1,62 @@
+{
+    "securityId": "aGJUOnyhZ1H6D-31HC_uT-SbYA9qoB1nlak9R_XFPF407r03R1hd1FBMQKZH4idTmuDr_RQKp0JWvhnALMoa6EsFmqVniV9yCraLkZ9cUHVWasik",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "ccbc0d23344a4f8f1HN729-5Flo~",
+    "bossName": "唐女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "724d5e50262fb0121XB639S6FVQ~",
+    "expectId": 0,
+    "jobName": "后台维护",
+    "lid": "Nz3PU3ZYyG.search.186",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "系统运维",
+        "数据处理",
+        "信息安全"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "开福区",
+    "businessDistrict": "金霞",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 186,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.985054,
+        "latitude": 28.298769
+    },
+    "encryptBrandId": "bd3a957ca465a69b1nN539-_Fg~~",
+    "brandName": "百川汇",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190910/2b42d9347f1ba7330e1267aca1e1362d6340f85bfb12b249136411d0514143b9.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "包吃",
+        "住房补贴"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

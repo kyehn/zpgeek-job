@@ -1,0 +1,61 @@
+{
+    "securityId": "qZHq_k5ewEPLH-61tfvwS3WgY5QLTaUxNk2BJIfF3GrYU8ZTy4-2_wlPAqlO1q5S9hSvvYw2Ae0oXIWpFkYMew_OH_1DcJxaH-Nd_2dk60Ah071Z_Q6A",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "38a58709ca2403730Xd929u4GFFW",
+    "bossName": "严女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8c1c9bc19671cbfa1HN839S_E1JZ",
+    "expectId": 0,
+    "jobName": "数据分析",
+    "lid": "16WcCeo5Jnx.search.234",
+    "salaryDesc": "7-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数学/统计相关专业",
+        "计算机相关专业",
+        "数据分析/挖掘经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "闵行区",
+    "businessDistrict": "虹桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 234,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.323134,
+        "latitude": 31.212066
+    },
+    "encryptBrandId": "70a22b08d0eb11b01nN93dS-GFc~",
+    "brandName": "铭志国际",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210617/ebfcbec297e65f264197b36116ae9f850f0d8ba99b5ff2fccc9686d459e4af07.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "交通/运输",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100501,
+    "contact": false,
+    "showTopPosition": false
+}

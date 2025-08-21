@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "大兴区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "赵永广",
+    "bossOnline": false,
+    "bossTitle": "人力资源",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200225/77d3b6da5384caaf19a6a9742aca06060fd071d25eb331a3d810e5714a6a0d4e_s.jpg",
+    "brandName": "捷锐通",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "亦庄",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a76720250194fce70nd73Ni6FFtQ",
+    "encryptBrandId": "d6e48c158fa55a891HN83NW1GQ~~",
+    "encryptJobId": "32a0bdf17f574a671nF-3Nq6F1dY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.805127,
+        "longitude": 116.518313
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 47,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "功能测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2z3l5urL0Wq.search.47",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "nl_AvDW2ujtMQ-R1bIaxT1pdVi7HcU6XljkLmzKe-7rYClKom74p3aLxOCQ_Um9Ht1FeH9I_UGsZABOmXOr8LOec7WNYqCBn30jknzAm2vEX4U2pSqDFEgM_xoyDqf38JOCRwM5vj3wcjg~~",
+    "showTopPosition": false,
+    "skills": [
+        "软件测试",
+        "Linux"
+    ],
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "全勤奖"
+    ]
+}

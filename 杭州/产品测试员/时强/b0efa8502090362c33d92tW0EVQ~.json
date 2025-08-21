@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "糜莹莹",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "汽车零部件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "时强",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "黄龙",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f3f43208c23bdc721nV52NW-GFtU",
+    "encryptBrandId": "5b4cb02a85b578ec33x829q8GA~~",
+    "encryptJobId": "b0efa8502090362c33d92tW0EVQ~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.271469,
+        "longitude": 120.124977
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100802,
+    "isShield": 0,
+    "itemId": 65,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "产品测试员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3N4DBRAz84h.search.65",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-9K",
+    "securityId": "KQT91gzaiykh1-I1Y8t3A9LuXcbiqWdPqe6iKOY6KSrrcv7MyJIm4wDkNeEO2tUYV6fhP34ECWSuYJ2zDqv1Nyrwqmc-WFuLTcPGIOXTKjPS5JLs9G40avEff7S_8gOlsDuvhW9WroXx",
+    "showTopPosition": false,
+    "skills": [
+        "产品测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

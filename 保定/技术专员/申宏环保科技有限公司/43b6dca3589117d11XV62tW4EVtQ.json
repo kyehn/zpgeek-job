@@ -1,0 +1,62 @@
+{
+    "securityId": "2kwVmiACT8UrF-Q1w7KbkPmMjxbDCv0hYnN5pJ8tlAKQMrAYKrloChkwMJmL-RjnByK2eQRXVo0UAacLldpd1ob5mZ6DmbRjOFOoXsi2otRHkSnu2qQ~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220215/607f1f3d68754fd00e5eb7d8b1028a04b9449fa94bfad3bedb61f2f9d5f03c37ddadef0caf55a718_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "22c8a70dc4a7978903dy3Ni_ElI~",
+    "bossName": "刘先生",
+    "bossTitle": "运营总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "43b6dca3589117d11XV62tW4EVtQ",
+    "expectId": 0,
+    "jobName": "技术专员",
+    "lid": "5JkaJXaKZhV.search.216",
+    "salaryDesc": "2-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "外勤技术"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "保定",
+    "areaDistrict": "竞秀区",
+    "businessDistrict": "植物园",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 216,
+    "city": 101090200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 115.456407,
+        "latitude": 38.929476
+    },
+    "encryptBrandId": "ae8d1fcdb62c4d5b1nx60tS9ElY~",
+    "brandName": "申宏环保科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "环保",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "餐补",
+        "交通补助",
+        "节日福利",
+        "通讯补贴",
+        "补充医疗保险"
+    ],
+    "industry": 101207,
+    "contact": false,
+    "showTopPosition": false
+}

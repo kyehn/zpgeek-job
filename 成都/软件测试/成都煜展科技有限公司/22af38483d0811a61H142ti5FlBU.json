@@ -1,0 +1,61 @@
+{
+    "securityId": "poci4I2QXSzk8-81T1QabeKAiujQ5cjywS6RUnIvkJ6RObzSNDEQUZ3tt4u3U5e5TDtsDndBvLkrT3_X9PFKYYu7sUiO969crbxr08kKxHgejmJRfszYsMZBjmF_fcPlTT9fZVevaCLUlw~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "cda1ee401651d5c103N42Nq7GFM~",
+    "bossName": "冯女士",
+    "bossTitle": "HR.招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "22af38483d0811a61H142ti5FlBU",
+    "expectId": 1030426395,
+    "jobName": "软件测试",
+    "lid": "2XC7wEKA5Sy.search.114",
+    "salaryDesc": "5-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "测试工作经验",
+        "软件测试",
+        "APP测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "武侯区",
+    "businessDistrict": "新会展中心",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 114,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.067854,
+        "latitude": 30.552968
+    },
+    "encryptBrandId": "f3f133eec1f79d691XN-3ty6EFs~",
+    "brandName": "成都煜展科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,58 @@
+{
+    "securityId": "40ELgS5EikJlB-Z1Efnbv600myEnOvPh4QznCYxDJex3-XT4l28gRTtW2mHrOo9UHg_q0ROqXVqBH8UUbUkFUj9t878kVr4NQ1XFWqgI2ELzt62PyidD",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220729/607f1f3d68754fd059525b21b141d3b34a50e319588c8d07eb17a3b96d4dbdf1382a67e0e50a0b2f_s.png",
+    "bossCert": 3,
+    "encryptBossId": "5406f6e72057b7ab0nF409W8EFpU",
+    "bossName": "王先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f05c02afe80ea6e11Xdy2Ny6GFFS",
+    "expectId": 0,
+    "jobName": "Java",
+    "lid": "1GcKTBqHZT7.search.180",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "后端工程师"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "呼和浩特",
+    "areaDistrict": "新城区",
+    "businessDistrict": "海东路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 180,
+    "city": 101080100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 111.729897,
+        "latitude": 40.848377
+    },
+    "encryptBrandId": "96fa33640bcb1d071XZ709q8E1Y~",
+    "brandName": "维泰网络",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

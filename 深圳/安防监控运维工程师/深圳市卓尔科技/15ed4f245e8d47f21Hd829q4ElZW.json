@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙华区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "雷铭",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "信息安全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "深圳市卓尔科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "民治",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "31e50bfcb58b6a2d0Xd82di9F1VU",
+    "encryptBrandId": "cec6bc918291706d1HZy2Nm5GVs~",
+    "encryptJobId": "15ed4f245e8d47f21Hd829q4ElZW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.620092,
+        "longitude": 114.034599
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100016,
+    "isShield": 0,
+    "itemId": 41,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "安防/监控运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cZmNmd4ttp.search.41",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K·13薪",
+    "securityId": "c5OLp5EgOXtO9-j1uCoY0zR2PObvpHfOF1I8sbTgdQURdCDQqc8pEsEyXz_gA_EVo_l72g3NULPUflg1ogrARfdxgL885mPmn9AwnwQrVwrR-TnxS6fqeHEM1nfn-bTh0EtsErhcg3b1ML0~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维"
+    ],
+    "welfareList": [
+        "交通补助",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+    ]
+}

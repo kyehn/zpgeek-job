@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙岗区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161028/dc3c025559e0f446c4cb3553960ab8828345dd3565835fe42a8679b5f3cdce48_s.jpg",
+    "bossCert": 3,
+    "bossName": "邓先生",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190212/b106a002b9f2ea6ab2f46f814ef55f22d601821abe36fb34d5a2f5330b3564d0.png",
+    "brandName": "俊网",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "横岗",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4f0875c1506f9b821n1z292_GVQ~",
+    "encryptBrandId": "2ddc2499ecaa996003R409S_",
+    "encryptJobId": "81028a3fe88e6fd403B80tq_FFJR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.707666,
+        "longitude": 114.217512
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 72,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "JAVA工程师（AI全栈编程方向）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7MfL8ut8kmz.search.72",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "5HYceSAaFA2Cn-z1BAfYdiH7Q9TIxyQNlnOn1IWMsiy4AFcvvw8pB4nkLOmuzu40WDA3yIBU2xGQUoz6ssAver-jcRdbXfw3kROqLVb1nBuIWmxjOt7w5MwuA9lj5fJx2c9QTUZ0DsI~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

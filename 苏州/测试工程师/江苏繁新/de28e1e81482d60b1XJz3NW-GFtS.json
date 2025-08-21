@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "常熟市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201026/900f71b81c73abe79ec91181a98a212abdfe5036bda37811137d48575abfd193_s.png",
+    "bossCert": 3,
+    "bossName": "王雷",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "新零售",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220507/7bf6f160950405e9fab7d76038ab1c795b6b2b06723a0fddbdfe5036bda37811137d48575abfd193.jpg",
+    "brandName": "江苏繁新",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "高新技术产业园",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c3aad1221cfb39851nZ_3N61FFM~",
+    "encryptBrandId": "2ccfaec1c48b3c111XR_2du_E1c~",
+    "encryptJobId": "de28e1e81482d60b1XJz3NW-GFtS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.70407,
+        "longitude": 120.747467
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100017,
+    "isShield": 0,
+    "itemId": 43,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8t80tnMGl25.search.43",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "ksBx1sj8fNL6Y-f1KjJKiR9pY8k3oCqnj7BQpolmWiN7EN94R3GfQ-1DYn9XnCDgiJVppVQNtnYXcfa8YzhN60rv1GYDd-rlioxUYZNbZcm15h-f1KW8cjClHDDLUNcIvEJ-PhcIuDd14A~~",
+    "showTopPosition": false,
+    "skills": [
+        "Postman",
+        "JMeter",
+        "LoadRunner"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

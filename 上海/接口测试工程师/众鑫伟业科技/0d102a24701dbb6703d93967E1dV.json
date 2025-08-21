@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "杨浦区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "李维斌",
+    "bossOnline": false,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241111/7bf6f160950405e9c7009d887a0500865a9d2493c7952d4f6c7f9b949d46bfd36ba7f39f41576d5b.png.webp",
+    "brandName": "众鑫伟业科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "五角场",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "701376e67c3ed8690XZ-3d6-FVJS",
+    "encryptBrandId": "cd38472a9e97eb861HV73t68FlI~",
+    "encryptJobId": "0d102a24701dbb6703d93967E1dV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.308355,
+        "longitude": 121.509773
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 15,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "接口测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3NUDaCrRDxX.search.15",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "RQl5j8I9q96N3-E1tIUO5gzAvAZ4qXJM0suAKN7Jzbx4gaLMFfD_Xy_xqDfVw1Z68T3Q1wmfue49Xc1GfTbohLMFx3KjYS-PlsFIhDWQKL5Nscjn8vIHc97i-s2981GF-gYakOkSuVyyp0k~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "接口测试"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+    ]
+}

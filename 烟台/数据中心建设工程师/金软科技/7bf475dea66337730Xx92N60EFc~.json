@@ -1,0 +1,63 @@
+{
+    "securityId": "oZaof0x8v4FA7-A1hM6pE2DsO_RsYz7GeYfDNxvjsJ8NNrh9ed-8gU0P8n1Wuu6LItVzUf_JVbuJxrPgMyZRN8y9NDmV8xWS_-oVSXqR_yHOrprJXl66yWBziHSQCPyLHyBv10JWcjw~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220830/607f1f3d68754fd0a661b574eed186227456f29b46e2e4a1d2b9757aed86eaf911cbbadce27a5a28_s.png",
+    "bossCert": 3,
+    "encryptBossId": "7a9901efcc591743031709W9FlM~",
+    "bossName": "兰女士",
+    "bossTitle": "人力资源专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7bf475dea66337730Xx92N60EFc~",
+    "expectId": 1014042683,
+    "jobName": "数据中心建设工程师",
+    "lid": "3nt8cpU3TBC.search.174",
+    "salaryDesc": "6-10K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据中心规划设计",
+        "数据中心安装调试"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "烟台",
+    "areaDistrict": "招远市",
+    "businessDistrict": "梦芝",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 174,
+    "city": 101120500,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.400998,
+        "latitude": 37.373557
+    },
+    "encryptBrandId": "bbcbeaf6b9e4fd001nd8092-Eg~~",
+    "brandName": "金软科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180302/feeaa9a9720685bb5cf1e6df758a9383f69a87b62075e75d8395b371d4919d20.jpg",
+    "brandStageName": "A轮",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "节日福利",
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

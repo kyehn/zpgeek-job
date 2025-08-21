@@ -1,0 +1,62 @@
+{
+    "securityId": "SUXc31wigCnAN-_1TRL-GRwNRtf-iVa8U2tV1LH5ajicDgY-Hhlf_6uWbefkP0RxjuOzh30UED7xRkuOYFwnGAcRD737Zi32eEnjuVE6Rz1HZAQ~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160827/abf672de6ad0fd1b4c0ac58d11ccfcc38c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "4cf3726465ab61e31nZz2dq0GVI~",
+    "bossName": "李女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b30d717a575af9311n1629S9FVQ~",
+    "expectId": 0,
+    "jobName": "测试工程师",
+    "lid": "1JZJNSJNHU9.search.48",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "测试",
+        "软件测试",
+        "性能测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "仓前",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 48,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 119.997,
+        "latitude": 30.27588
+    },
+    "encryptBrandId": "790e6735419cdcff1HR62t64",
+    "brandName": "迈可行",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230808/7bf6f160950405e907713815125b0d61af7acddada44cca661d2fb8e1d737732287fbd295e165a3d.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "带薪年假",
+        "餐补",
+        "节日福利"
+    ],
+    "industry": 100024,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "太仓市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240619/607f1f3d68754fd0d34ebbbcd6764916ecca23ec996884d742b5732810940ecd675113956ee09abd_s.png.webp",
+    "bossCert": 3,
+    "bossName": "黄媛媛",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "汽车零部件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "苏州奎源精密",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "浮桥镇",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f8785d0cc07f1c7e0nZ92N68F1I~",
+    "encryptBrandId": "6fb62503d516e1941HJ92t--EFo~",
+    "encryptJobId": "37d0e610b950c93f03F709y6GFRY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.59549,
+        "longitude": 121.177806
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100802,
+    "isShield": 0,
+    "itemId": 66,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "机械制图员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7NW3oA1uqbC.search.66",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "R1UkHA2wk92pA-i15xs_De6gAklFqRRMv0YMDfOP69FpVwt1OLA6Ep0VlUf-gn7fj0QiJJR1__tgNhXvGzqRgPkq9Pb1QGUWh-0r1IbykHV1pez7mu0cXJvIvAw__EnU8XArwRKKKh9IZA~~",
+    "showTopPosition": false,
+    "skills": [
+        "AutoCAD",
+        "SolidWorks",
+        "不需要出差"
+    ],
+    "welfareList": [
+        "包吃"
+    ]
+}

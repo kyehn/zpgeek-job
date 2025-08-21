@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "惠山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240514/607f1f3d68754fd0e1bdda27f8d4568b75f3a4daacd584b96c9cd9f20765543810c76e97ee4c6b46_s.png.webp",
+    "bossCert": 3,
+    "bossName": "崔女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200605/63d29f5c813a9c01a1db1e81d7f3b13862baf1ed5b3788af05b77dfafa2d5421_s.jpg",
+    "brandName": "冲合信息技术",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "堰桥",
+    "city": 101190200,
+    "cityName": "无锡",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2d9de4249eca3ca51nR_29m8FFpW",
+    "encryptBrandId": "a2132a78bbdb879e0Hxz2dq9GQ~~",
+    "encryptJobId": "4e11218dbc3ff97c03B509-4GFZZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.686197,
+        "longitude": 120.329412
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 87,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "无锡-测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9azb69S56Oa.search.87",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-11K",
+    "securityId": "iOvwefbuxxbyT-O1SYDSbG5nAjSBu1hJySV706hJzn1QCF-F5OL2P5gZU6SU8Kgji7hI7BBk0mAeKWaKq-CIXwhlsbE6Gq9ndOP3V-ak-qyOy47-h_Aq9hAq5s-mRNEWwpK94vDCbLS2qw~~",
+    "showTopPosition": false,
+    "skills": [
+        "测试工作经验"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金",
+        "年终奖"
+    ]
+}

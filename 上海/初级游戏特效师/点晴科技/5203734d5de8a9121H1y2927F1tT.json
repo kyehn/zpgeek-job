@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "徐汇区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250619/607f1f3d68754fd0c09711d8b09b80243b64a5e664342121159aae9e72e11de3000f021c8bc89b2b_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "孙女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180612/7a7a2398d61284bd44024596db477c12cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "点晴科技",
+    "brandScaleName": "500-999人",
+    "brandStageName": "B轮",
+    "businessDistrict": "漕河泾",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f1154fdd20b935a81nR_3dS_GFRV",
+    "encryptBrandId": "2bbd62e04701e9231nR52tS1",
+    "encryptJobId": "5203734d5de8a9121H1y2927F1tT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.165631,
+        "longitude": 121.405643
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 32,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "初级游戏特效师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cKPsInea5A.search.32",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "TxX9dRGGXrZDu-C194PHptSesoiLs2W_brdcxDV24IVGNEAVLN0S9oYHBhPrnbWp36bh_QXqyLYSvcW_BUfRZJ9XBQ-evXR9EvPtN_UnMO4VuqHCaLZwMyy10fCLHJgLP8WiwvfCUgiE",
+    "showTopPosition": false,
+    "skills": [
+        "Unity 3D"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金",
+        "全勤奖",
+        "补充医疗保险"
+    ]
+}

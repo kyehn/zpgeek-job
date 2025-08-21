@@ -1,0 +1,62 @@
+{
+    "securityId": "Rfj1gy_lEQZJ8-T1Oz_tpukYiY9cMe0nlIZMHP32vNE_X8bZGe-jmeFpF4p84RZkaaUv5xOxCxUtaKa90BKD2UdRrm3DVTVaHG-JdaUcfB8ZNTs8mFgY",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230223/607f1f3d68754fd0e677fc698b58952abe020e64454f604b7cf328d5577fdc28f5c0bf0852a781e2_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "4cf11792c58044010nx40tu4GFFZ",
+    "bossName": "彭女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "18a5c499d844bf551HV_29--FFJV",
+    "expectId": 0,
+    "jobName": "江西南峰招聘空调工",
+    "lid": "5JkaJXaKZhV.search.282",
+    "salaryDesc": "2-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "月结",
+        "包住",
+        "五险，包住宿，节假福利"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "南昌",
+    "areaDistrict": "东湖区",
+    "businessDistrict": "前湖南大",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 282,
+    "city": 101240100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 115.816693,
+        "latitude": 28.661743
+    },
+    "encryptBrandId": "28bbd46b872247261XF62dq8E1A~",
+    "brandName": "江西南峰",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "其他专业服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "绩效奖金",
+        "意外险",
+        "五险一金"
+    ],
+    "industry": 100608,
+    "contact": false,
+    "showTopPosition": false
+}

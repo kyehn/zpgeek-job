@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宝山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170815/924f3f4a6670fed7b0e45e7af6d325128c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "bossName": "蔡女士",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211122/7b5b554d84f9729cd7a1fd19437e01ee190dfdb5e9a3a4145aba3c20edfd0fa7491c3dce3ec0dfa7.jpg",
+    "brandName": "佰甫科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "吴淞",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a28868bf919c16471HR53t68FlA~",
+    "encryptBrandId": "f817338934ced4dc1nx80tu-EVI~",
+    "encryptJobId": "7940703077651d181HZ839q7E1JR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.380358,
+        "longitude": 121.501571
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 13,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "PLC测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2Ae3Le7H4KO.search.13",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-13K·13薪",
+    "securityId": "4A0ySKb8vucTV-L1RFmHjbTotEij_7rq9Zu8d8mUxNt3WbnNtQ9TNfvHAQvR1wj1BjEg94tNCiUlqercWkqi6YgKhcVuBJL0lf2j2FbXlriuhltQnxkRcwKcHwOQmVnkIp9JNpuD6t8kEg~~",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "餐补"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "RQlD8z54t8BQu-81FtlqHrmwuhXLdezq47e8S3Gs-Hhz5pWHmYeKsdFiFxqrvS2TlZjE68zlZts4UuDDTCFHDiYUKAQ97KuAX-Hciib9XETs2Eth",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "612c21e1c352f1910HJ40t-1ElU~",
+    "bossName": "蔡先生",
+    "bossTitle": "招聘人事专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "19c4a8d2e264d0440nN72ti7Elo~",
+    "expectId": 0,
+    "jobName": "爬虫工程师",
+    "lid": "1a7kevHNfHJ.search.53",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "网络爬虫技术",
+        "MySQL",
+        "文件管理系统"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "金山区",
+    "businessDistrict": "亭林",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 53,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.347841,
+        "latitude": 30.814509
+    },
+    "encryptBrandId": "cc5fd3100f4a85d20nZ409q9Fg~~",
+    "brandName": "双恒阀门集团有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210724/41a20cc19ff06acc7fe3d098618cb7a9254e26a3ff9469082221e5484b084b01.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "机械设备/机电/重工",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "餐补",
+        "工作午餐",
+        "加班晚餐"
+    ],
+    "industry": 100901,
+    "contact": false,
+    "showTopPosition": false
+}

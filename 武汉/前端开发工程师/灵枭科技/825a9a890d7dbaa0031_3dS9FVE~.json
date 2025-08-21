@@ -1,0 +1,63 @@
+{
+    "securityId": "zffIrXlpHc-1S-31t-J9u3huaOx8i-yAHXVYu8N2z33DdvNhJivaSzTyOOT7rJDg-z1IRFlC0bCCwejKlt50oRGyjtGN3bRoNHARfTbcdCatBOEx",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230314/607f1f3d68754fd068dc3cd6523da17409726392f0e59eeec6eb9f06cde7a771ffc57c9d6cec5a47_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "2e547762463dcf090nd53dS7GVQ~",
+    "bossName": "骆先生",
+    "bossTitle": "IT经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "825a9a890d7dbaa0031_3dS9FVE~",
+    "expectId": 0,
+    "jobName": "前端开发工程师",
+    "lid": "1cwwPcALBGh.search.187",
+    "salaryDesc": "7-9K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "jquery",
+        "vue.js",
+        "node.js"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "蔡甸区",
+    "businessDistrict": "沌口",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 187,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.163617,
+        "latitude": 30.506971
+    },
+    "encryptBrandId": "828a3f386f8c71190nV639W9FA~~",
+    "brandName": "灵枭科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190715/00999d93f59b7b493a0000d2604d943ec6eb9f06cde7a771ffc57c9d6cec5a47.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "节日福利",
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

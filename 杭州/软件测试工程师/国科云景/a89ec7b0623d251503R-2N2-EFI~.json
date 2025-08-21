@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250325/607f1f3d68754fd0bcb4c51fe7776fbfba6bbc0c958458b1b0974ca7d17a9b65f4c0f907de36b072_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "董斌",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180711/1e1652536c54dee33b7cf6224a64bdcbcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "国科云景",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5f6e2fd16cfefbcd03V90tu-EVM~",
+    "encryptBrandId": "8138adef0f2a8ce81XZ-39y6FQ~~",
+    "encryptJobId": "a89ec7b0623d251503R-2N2-EFI~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.139548,
+        "longitude": 120.068936
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 84,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4xVNGgy5wcy.search.84",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "inCwzHH3_YIfH-n1R0LIUQsb4hv7H4gCsqYzuJOUAf9I5zqe6sR0GocPQ0KnCQIqQkJRAWJGbftrxCrOBUhnBubgkC2S9h1TeLLWfPQtKlv5-M_Dcw3Uv30gzKox04VVmHKUkbZlxt8~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "软件测试",
+        "性能测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

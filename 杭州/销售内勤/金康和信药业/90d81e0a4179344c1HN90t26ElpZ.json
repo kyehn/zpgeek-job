@@ -1,0 +1,62 @@
+{
+    "securityId": "6AoW7VghUWs9N-q1-kK40H4arEsK78ZUCySShz18E7kJVhjesFP6-7xR9PCvLUSakRHNb3JLL2CdQ0Ucgd0-PPp8L_J5bsqkuR9E-30Gbaxjb6IN",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210223/d1463350ef16b9b3156089ca369d0e51a5be72d45cdf725fd23a5d67ed557fcf_s.png",
+    "bossCert": 3,
+    "encryptBossId": "0c2d6c77e2ab875f03N739m6EA~~",
+    "bossName": "刘女士",
+    "bossTitle": "招聘主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "90d81e0a4179344c1HN90t26ElpZ",
+    "expectId": 0,
+    "jobName": "销售内勤",
+    "lid": "1DPLNBCgdiO.search.258",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据分析能力",
+        "沟通能力"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 258,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.028547,
+        "latitude": 30.240512
+    },
+    "encryptBrandId": "4f11b78b25b4987c1nN-39q6GQ~~",
+    "brandName": "金康和信药业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210321/8d4339ea110b81d28c52d068aae2d56affa803517f0cac017480ffaa759b7088.png",
+    "brandStageName": "A轮",
+    "brandIndustry": "生物/制药",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "员工旅游",
+        "五险一金",
+        "通讯补贴",
+        "餐补"
+    ],
+    "industry": 100401,
+    "contact": false,
+    "showTopPosition": false
+}

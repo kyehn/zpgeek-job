@@ -1,0 +1,63 @@
+{
+    "securityId": "ePKBGfvxMUZH9-W1ZKNCp6MkXm8Bkdjyye8KBqIPjfZZX-sWEbbtYcmRN7cClCMwl9EsL38RN9btWm8l0RR5z7gr5lHdPH3HEq74RgC90YwW2mni-Bmdlsi6URcGy6JzwKT_UnIP31A~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201026/a1e91b5f91c9facafc817643b37f40ce15f89292dea792a121446c0072ff6fc0_s.png",
+    "bossCert": 3,
+    "encryptBossId": "1ffcbb4a317f278703R43Nq9FVU~",
+    "bossName": "谢先生",
+    "bossTitle": "高级招聘HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "cd069dfd1971bb111Hx63NW_GVdQ",
+    "expectId": 1030426395,
+    "jobName": "朴朴超市人力资源实习生-招聘",
+    "lid": "2azI143RF1k.search.164",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "公司人力资源部门"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "武昌区",
+    "businessDistrict": "大东门",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 164,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.330373,
+        "latitude": 30.533547
+    },
+    "encryptBrandId": "fad1f22e53cb24931HB63d-4",
+    "brandName": "朴朴",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220530/7bf6f160950405e97513638f2b4c224edcff41c83bcbb2e394e9773d0ce9a944585cd2f537b8cb89.jpg",
+    "brandStageName": "C轮",
+    "brandIndustry": "互联网",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "定期体检",
+        "带薪年假",
+        "年终奖",
+        "股票期权",
+        "节日福利",
+        "团建经费"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250211/607f1f3d68754fd01ab1b694bc909a42230be259b224b5deef92366fa1e944bbfd0f58f5530a73de_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "唐女士",
+    "bossOnline": true,
+    "bossTitle": "人事行政经理",
+    "brandIndustry": "互联网金融",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160719/54e2479524c12a8c90a7815e875e695138d0d58a89ea7da6e397aeeca6d68770.jpg",
+    "brandName": "财耀金融",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "浦江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e7b11a499eb157f01XV-39q-GVE~",
+    "encryptBrandId": "0e6da8d5ea99bdae1XZz3965",
+    "encryptJobId": "e22fd4d59eb3e7521HZ73Ny-FFZZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.084969,
+        "longitude": 121.514213
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100206,
+    "isShield": 0,
+    "itemId": 63,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "文员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8jyKCUvST4c.search.63",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "e3bbU2ZcP1yMp-k1bI9h9YtvgeZevxc8q6US4Mr3UKbrh89YrZHecOOegNAiexELq_LUzOMDSh0eaIcercpvNbl3e0uylcFWcN1_HBglYGqQHFaijk7yObHKbVMokw0EiTRL2X1EY1UDjHXS_Qnv2Tk_jUbJQI8HbDIvtD6nluPgy6M~",
+    "showTopPosition": false,
+    "skills": [
+        "数据整理"
+    ],
+    "welfareList": [
+        "五险一金",
+        "加班补助"
+    ]
+}

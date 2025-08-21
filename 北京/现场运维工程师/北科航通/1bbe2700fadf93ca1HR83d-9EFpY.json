@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20201207/5cbce80ce47127f3f972d79002ece0715cb5cc24aef63eafa08456a717410cb8_s.jpg",
+    "bossCert": 3,
+    "bossName": "刘婧",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "北科航通",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f7dc1888e464a3ad0nRz09y_FFdT",
+    "encryptBrandId": "19f2d9c496574a461nd42tq6FVQ~",
+    "encryptJobId": "1bbe2700fadf93ca1HR83d-9EFpY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.529086,
+        "longitude": 116.421713
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 3,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "现场运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8kmSUM31M0f.search.3",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "38FNZVunPZlg7-Q1vA4a_FXX1bszGSeukq0wHiR2llkIQUywNeF6MIpI_GiUrt0Kn1uR3Qb8H1bzg05-xCg7lrVmUe40_0ShYt7VAZ1vxkiTvUaAmomJTqHvD8oWG8FPXWxrakXqanEu2sA~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维"
+    ],
+    "welfareList": [
+        "年终奖",
+        "带薪年假",
+        "五险一金",
+        "餐补"
+    ]
+}

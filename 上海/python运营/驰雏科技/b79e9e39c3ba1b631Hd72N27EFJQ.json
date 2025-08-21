@@ -1,0 +1,62 @@
+{
+    "securityId": "msegLvGhs3hWN-Q1q1YTI-y78ryMM4wazEYaRayhJmZnwAemBIl_qwDIx1nFu8cZuRTrntKoBruUrVN5QuSLs9w3vbZNQ8yagOVPHooyKwo_ykDr9do~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230922/607f1f3d68754fd01baa92e278473135ad8cb011a086946eaff3abe910183bf5129ae0dff5306049_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "9dca598b99b11bca1XN-0tW8ElU~",
+    "bossName": "徐女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b79e9e39c3ba1b631Hd72N27EFJQ",
+    "expectId": 0,
+    "jobName": "python运营",
+    "lid": "1a7kevHNfHJ.search.211",
+    "salaryDesc": "8-13K·13薪",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "黄浦区",
+    "businessDistrict": "外滩",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 211,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.480983,
+        "latitude": 31.225337
+    },
+    "encryptBrandId": "7a61bace82ee870e1nd_3Nm4FFc~",
+    "brandName": "驰雏科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210926/7bf6f160950405e9641813ee7d1fc03f90ef2cc2d65f59a0aff3abe910183bf5129ae0dff5306049.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "移动互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "股票期权",
+        "年终奖",
+        "零食下午茶",
+        "通讯补贴"
+    ],
+    "industry": 100019,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,60 @@
+{
+    "securityId": "1UPOYq7d_TtwV-s1heNmx52TsBTE20R0qMOUwKDnxsHlmEGt2axkMvMnOM0JIbB7Wyad1XWA_Q58UUw1lABr-GPamVHsN8lQ8vw9Bi6kVr4O7NfVYwh2LQMwnyXS30uKYkmYU-QC6_Kjvpk~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240731/607f1f3d68754fd048d786b837064ce60328caf6b4e9c0b101f50ce4c2a6b6a028727621d29e1555_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "d0c0e21fa9a26b3f0XB-3N6_GFpT",
+    "bossName": "蒋先生",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "911a60b16e9591ea1H172d-8E1tT",
+    "expectId": 1030426395,
+    "jobName": "车联网集成测试工程师",
+    "lid": "1b57kPb6kbw.search.129",
+    "salaryDesc": "8-11K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "江夏区",
+    "businessDistrict": "流芳",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 129,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.42807,
+        "latitude": 30.45823
+    },
+    "encryptBrandId": "73edeee1aff248851HZ90tW9FFc~",
+    "brandName": "无默科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "保底工资",
+        "绩效奖金",
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

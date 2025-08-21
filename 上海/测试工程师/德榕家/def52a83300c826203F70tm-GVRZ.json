@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250306/607f1f3d68754fd0cc84192d4f3e69e346b56ba0ca41d3b77fd038a74d6dfaa26362906bca99ca82_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "黄女士",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "医疗服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "德榕家",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "虹桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "05c105997a850b3c0Xx92964ElFZ",
+    "encryptBrandId": "ce23804eadc75b6703R-3di0FFA~",
+    "encryptJobId": "def52a83300c826203F70tm-GVRZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.209007,
+        "longitude": 121.314911
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100402,
+    "isShield": 0,
+    "itemId": 16,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7PQmDnTYOkY.search.16",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K",
+    "securityId": "RWVxWcOk0Tvg_-g1B3TaU0bM4EKaXbxMV5cgyTvKiprBQPU04n9m0Zg3Jpt-i_CAfA5b9wlOuQRPfRzhCLk5TLGdhWXpxSe5axPamiyiVArvTlLLBLNTRhqvALZwhzlMrCjLDySMLXWjZ0CQr1SGMlavdOMWPGOjQ6VCpA06jQmYlVO7kA0~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

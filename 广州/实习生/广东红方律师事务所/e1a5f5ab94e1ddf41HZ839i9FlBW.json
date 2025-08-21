@@ -1,0 +1,60 @@
+{
+    "securityId": "oMEJ8zXfz34LR-I1F4C-pssFk62F316ELWK1xhkAOmqVO1Z_mXwud_H1WZAsDXs44icJWQSYVnOGY_1Ajw8QbfkU3dR0UqbYlWHVKMBuOihnVSoxBeG-",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240816/607f1f3d68754fd0a57730304a14c18996ae9553d4b8662c10db2abaf22f6612600aef0f3298d571_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "a1c4eee8f89a71a20nd72Nq7GFFQ",
+    "bossName": "李女士",
+    "bossTitle": "行政",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e1a5f5ab94e1ddf41HZ839i9FlBW",
+    "expectId": 0,
+    "jobName": "实习生",
+    "lid": "5G575TCVyHk.search.61",
+    "salaryDesc": "2-3K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "诉讼/非诉讼",
+        "实习生"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "黄埔区",
+    "businessDistrict": "科学城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 61,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.452004,
+        "latitude": 23.171508
+    },
+    "encryptBrandId": "fe42e3a82b6b57331XF_2NW1F1U~",
+    "brandName": "广东红方律师事务所",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "法律",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "团建聚餐",
+        "五险一金"
+    ],
+    "industry": 100602,
+    "contact": false,
+    "showTopPosition": false
+}

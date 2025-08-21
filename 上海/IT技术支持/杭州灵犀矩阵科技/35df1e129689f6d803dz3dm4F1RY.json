@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "嘉定区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "姜怡岚",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250425/7b5b554d84f9729ca7863808c82709473bf2149a0bf2d250870692fcda7de69fd5ee628cdef44c3a.jpg.webp",
+    "brandName": "杭州灵犀矩阵科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "嘉定镇",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "507c5125ad5a66700HR_2968FlpS",
+    "encryptBrandId": "712ff82afd20870503V729u_GFE~",
+    "encryptJobId": "35df1e129689f6d803dz3dm4F1RY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.409478,
+        "longitude": 121.259186
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 46,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "IT技术支持",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "64FyKWMDjmn.search.46",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K",
+    "securityId": "KKUP-kkS2P-4Q-U1j56iHJIixDTsVqy9Iisvu536t8uQbhyBV52jlAh6F0lbOj9-VWMW1_Xi6DVcWVC8GR9yQW0piVvanGqP8Mq-wswAIqInyqoG3xsA3PUVtKV9gGBy7GMU0f3rk8-no_DZgRKxT9OBDbcBeMWFg4SRb7uzrhb4p16pq5c~",
+    "showTopPosition": false,
+    "skills": [
+        "企业内部IT技术支持"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "保底工资"
+    ]
+}

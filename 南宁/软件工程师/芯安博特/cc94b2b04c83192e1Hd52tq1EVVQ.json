@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "良庆区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "吕女士",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "芯安博特",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "青山路",
+    "city": 101300100,
+    "cityName": "南宁",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5190812a409293480XZ43Nm6FFNU",
+    "encryptBrandId": "3f0abb0027c4b5551HRz2d28F1U~",
+    "encryptJobId": "cc94b2b04c83192e1Hd52tq1EVVQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.760927,
+        "longitude": 108.380512
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 137,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3pr0lsvlNsT.search.137",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "Ds6we2lWkljXy-o1dR3lyt4R-51anlzyO7JDqNDX-_6g6-x6DsivfJ2GO6_voRiss41fCNZYB_tA0HZI6C_E7WDVhxIz_WtJaPtEf60sgAHQSi9KYrLaXleRUgtAsOjfnnNZkpABe_BAPXI~",
+    "showTopPosition": false,
+    "skills": [
+        "QT",
+        "上位机开发经验"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "意外险"
+    ]
+}

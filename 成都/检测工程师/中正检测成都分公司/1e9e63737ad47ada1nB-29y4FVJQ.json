@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210113/5aae04d2e071aead23ff0522746a49d33ce9a031911d0f24671d68e6b23de5a0_s.png",
+    "bossCert": 3,
+    "bossName": "许廿",
+    "bossOnline": false,
+    "bossTitle": "销售总监",
+    "brandIndustry": "检测/认证",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210113/5aae04d2e071aead23ff0522746a49d33ce9a031911d0f24671d68e6b23de5a0.png",
+    "brandName": "中正检测成都分公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "已上市",
+    "businessDistrict": "大源",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d83cfa0bda71cf420nV52Nq-FVVX",
+    "encryptBrandId": "9a94c6f8fc0af1281nd83tm0F1E~",
+    "encryptJobId": "1e9e63737ad47ada1nB-29y4FVJQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.542456,
+        "longitude": 104.048058
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100606,
+    "isShield": 0,
+    "itemId": 50,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "检测工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2fQ0icqlnLS.search.50",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "goTXpPhM4w5rk-n12cAdDSOEvgqv3zWVVq9uJ-wZn-bC8BllnOZBbI5J8LlXs4Chrsz_wD_o3pWf4_TnoZyZXIl-2x-VqRdwNa6exi5edVIjZnimnR_tpZ6PBWlyRcYMx3a9d58fZowc1Hc~",
+    "showTopPosition": false,
+    "skills": [
+        "性能测试"
+    ],
+    "welfareList": [
+        "五险一金",
+        "全勤奖"
+    ]
+}

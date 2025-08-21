@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "驿城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "胡亚南",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "河南华庚",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "黄淮学院",
+    "city": 101181600,
+    "cityName": "驻马店",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "eae31271a3c521970Xd-39i6FFJW",
+    "encryptBrandId": "d5a5c8f36bf67a731nd82tm-GQ~~",
+    "encryptJobId": "12742c5c51fcf69b03Rz3t68E1JW",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 32.996708,
+        "longitude": 114.014234
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 78,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "运维专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7UJyW0HnBR2.search.78",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "D1HjhUORMxE6g-p1XgaVatYltG5XkC_d2q8i1XPoaVUaj9JOquFecY6S_GyoesYqxUsQxZsKmT8GSDNWQZYzLb_E0UhbAtjjHVXo3y_tRlBjrO9k9nI~",
+    "showTopPosition": false,
+    "skills": [
+        "电力",
+        "线损"
+    ],
+    "welfareList": [
+        "节假日加班费"
+    ]
+}

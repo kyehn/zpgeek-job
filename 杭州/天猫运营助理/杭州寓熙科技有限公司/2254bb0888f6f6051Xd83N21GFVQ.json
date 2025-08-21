@@ -1,0 +1,62 @@
+{
+    "securityId": "PrDNftHcFnq9V-b1qyC5wIRlV9TZwQKpR6zRJHZTVVxFdn4VkYlO6Z25Mw19FVwxYwQLLpZK7OAfouLjuBlcMVZQ8IAHvmlh8B8iJGP5ng2geIlKtbU~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210720/a3e2b8897e20b192658c29c6a5b82db5ae68b798361cdc738ede0be9f54091d6_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "2d9ec6037155e2650XN42tq5EFM~",
+    "bossName": "徐女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "2254bb0888f6f6051Xd83N21GFVQ",
+    "expectId": 0,
+    "jobName": "天猫运营助理",
+    "lid": "1EhFCQOY11V.search.296",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "电商店铺运营",
+        "电子商务专业"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "滨江区",
+    "businessDistrict": "长河",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 296,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.207562,
+        "latitude": 30.18986
+    },
+    "encryptBrandId": "55da5c4e198d6fb41XR90966E1c~",
+    "brandName": "杭州寓熙科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230718/7b5b554d84f9729c393e879c0ebf9cd4cf741e5197e3b280ae68b798361cdc738ede0be9f54091d6.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "服装/纺织",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "全勤奖",
+        "绩效奖金",
+        "团建聚餐",
+        "零食下午茶"
+    ],
+    "industry": 101003,
+    "contact": false,
+    "showTopPosition": false
+}

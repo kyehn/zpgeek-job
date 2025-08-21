@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "莲都区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "叶文康",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "磐龙计算机",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "灯塔",
+    "city": 101210800,
+    "cityName": "丽水",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0396a68eab8fdb6b0XN93ty-EVRW",
+    "encryptBrandId": "8aa8f35c27223f1f1HN-0tW7FFs~",
+    "encryptJobId": "cb17fe51e15f48db1Hx909W0FFtV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.468231,
+        "longitude": 119.907788
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 75,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8hIwlIqo72D.search.75",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "_lq8LvO7vpYxu-h1Glmau316G2Eyck_r5I9QgXi6jNX11FT9g4O0fqlOP0daLW-0wvEnLGYVEVJ7LPNVN_CC18bgxlWoHq7eTD_S_qFwLVDnzqonNgHL4HWmlNAyZJqNCbqeRX9SnC2h8k8~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维",
+        "计算机相关专业",
+        "软件运维"
+    ],
+    "welfareList": [
+        "保底工资",
+        "五险一金"
+    ]
+}

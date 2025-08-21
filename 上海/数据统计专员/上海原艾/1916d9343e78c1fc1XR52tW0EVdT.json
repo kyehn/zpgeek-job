@@ -1,0 +1,62 @@
+{
+    "securityId": "nEztfZMrwwoSL-e19VJDknND-1_6WQwo2HEmFlrPXSVBYts0DlYiMBZQn8y95RMhoeDthOgxdBDwNBMPe-XBcpxE9j2bk1fDesutP900F2hfgSop3GMOE1mIa6-C1z0dlvOr_JxR68TyBLmn4wTWydEu",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210202/a4181cdf17a3cead809086c2704966225e2fbd4306341259899c5a2cfc576f1d_s.png",
+    "bossCert": 3,
+    "encryptBossId": "e7a498fa5e4f52d20nV509y6FFZY",
+    "bossName": "殷女士",
+    "bossTitle": "人事专员",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "1916d9343e78c1fc1XR52tW0EVdT",
+    "expectId": 0,
+    "jobName": "数据统计专员",
+    "lid": "2uQqj0piF5l.search.149",
+    "salaryDesc": "6-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Excel"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 149,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.505643,
+        "latitude": 31.318049
+    },
+    "encryptBrandId": "a67d510e5d1332371nV6096_FFs~",
+    "brandName": "上海原艾",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210601/7259d474ceba3bf35a4772f16929a69c89ff9ebe39f83b208806a983363dfbd4.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "医疗健康",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖"
+    ],
+    "industry": 100006,
+    "contact": false,
+    "showTopPosition": false
+}

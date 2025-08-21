@@ -1,0 +1,72 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "肖涵曦",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/ae3b569de4a83d8149045db63a9b481a.png",
+    "brandName": "施耐德电气",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6b33237e5248d5770nF73N-1FFtS",
+    "encryptBrandId": "5564ed2c1573e28f03Z53d61",
+    "encryptJobId": "3829b638f3f9289803dy2Nu9GFVR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.759704,
+        "longitude": 116.52171
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 46,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "算法实习生",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cOPJ0GXpIl.search.46",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "FHVdgBs6KdAcf-l1jgSEJpqqymGsEaYa_hur8IfjQk-GW4NbxV6-qBmx9VsrAxlB6p7ASiINAZ3KePLsYQkIWglHWrS5SXpbGnO8Rw8vsu9GGDe0918MLnPwlDc-FAo9Zd87ojALKXLX",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "免费班车",
+        "年终奖",
+        "节日福利",
+        "补充医疗保险",
+        "通讯补贴",
+        "带薪年假",
+        "五险一金",
+        "股票期权",
+        "定期体检"
+    ]
+}

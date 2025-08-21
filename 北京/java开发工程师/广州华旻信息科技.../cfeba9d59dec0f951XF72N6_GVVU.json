@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230310/607f1f3d68754fd0cff681870ff868133bcd8fd24375b14753386cddaabed7d8e36c2555642545e8_s.jpg",
+    "bossCert": 3,
+    "bossName": "黄先生",
+    "bossOnline": false,
+    "bossTitle": "高级研发工程师",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240710/7b5b554d84f9729c13fb1c7240ca46805418f393cfb435e853386cddaabed7d8e36c2555642545e8.jpg.webp",
+    "brandName": "广州华旻信息科技...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "三元桥",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "060f28cc7f031eee1X1y3dy-FFY~",
+    "encryptBrandId": "b3e2f973b21635bf1nN409q-FFA~",
+    "encryptJobId": "cfeba9d59dec0f951XF72N6_GVVU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.960854,
+        "longitude": 116.451301
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 68,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7HJjeY8XWB5.search.68",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K·13薪",
+    "securityId": "VdBIf7jCTHqse-O1oX1VNr7tpL-rPqLQNmbgcJtldPAiPnIpwTyaVh4mXsXnDlJbQwQZ7YHlT8tBW9z_E8p1U-L5O0OxjyyKaBjGvNVA1oHtfg5B1IH8LuDH1MxFu_zNkFRYXMxArFw-GA~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Spring"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "o3Qy8CSt_yV5f-L1EFCxTFfR0T4EaPOU5N-D8-NAG1SkssnpaM-T_DUkGWVHD5tKGmTAh-_p0dkrEOQen0fb3sdihE9mhqmj8QcTQd1LUw9EysmwVXE-",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_12.png",
+    "bossCert": 3,
+    "encryptBossId": "bd11e51e2b42bcd80nB92tm8E1VX",
+    "bossName": "鲁女士",
+    "bossTitle": "助理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e3d5ac28129c3b691Hd629i1GVBV",
+    "expectId": 0,
+    "jobName": "管培生（海商法专业）",
+    "lid": "3rAvezlfQYe.search.109",
+    "salaryDesc": "8-10K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "理工科专业背景",
+        "法学专业背景",
+        "全职",
+        "海商法"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "天河区",
+    "businessDistrict": "石牌",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 109,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.327028,
+        "latitude": 23.141886
+    },
+    "encryptBrandId": "d63d08daa2ec65641HV-3tq4E1Y~",
+    "brandName": "波雷科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231113/7b5b554d84f9729c50477683ec31812e8ecb35c3448d0667cfe87c3069e2f72a14d79db4da3a96a6.jpg.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "有无线网",
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

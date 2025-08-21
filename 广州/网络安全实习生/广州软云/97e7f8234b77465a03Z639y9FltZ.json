@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天河区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "邓朝阳",
+    "bossOnline": false,
+    "bossTitle": "项目经理",
+    "brandIndustry": "信息安全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240305/7bf6f160950405e98cdd0155102f38f48f3da04b6d93cec68e7697142653295c33f72301b2b012e9.png.webp",
+    "brandName": "广州软云",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "石牌",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d111de08e43d8fb30XB62dm0FVNX",
+    "encryptBrandId": "5765c6f0c9ef77080nx52N-8EA~~",
+    "encryptJobId": "97e7f8234b77465a03Z639y9FltZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.126527,
+        "longitude": 113.345389
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100016,
+    "isShield": 0,
+    "itemId": 52,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "网络安全实习生",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3PsjQzHiWvq.search.52",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "15CwNVqpP1CYF-X1pYrOqDaQrvUwJdZM6b4F7sYCXL2k6YWbFU7Eilrwu5ApdRnrvgkiakNlgLLPtvuvzgXVCKcRZt0Dm1IQ6bVDYSvvGxfXo0Y0FfyAMY8uRbGMiF8z0gb0LaUAmTNycg~~",
+    "showTopPosition": false,
+    "skills": [
+        "安全运维和保障",
+        "计算机/信息安全相关专业",
+        "CISSP/CISP"
+    ],
+    "welfareList": [
+        "员工旅游",
+        "带薪年假"
+    ]
+}

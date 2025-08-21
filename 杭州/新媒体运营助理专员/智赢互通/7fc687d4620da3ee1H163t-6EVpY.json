@@ -1,0 +1,61 @@
+{
+    "securityId": "nm2b3AkxuLhxs-I105bdKo53P_8zJiQ11o8UeQva5Gn0V792Qg24qdGZoM_indDP2zckdBg_fTQSHSNSCswNR29DAf-Ggbvl4uNwS88hGlxmACmm_qDso0NhyD6GbAgAFU7Z7lvQ1cR4Y9M~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "b36c1bc2fb00cbfb0XN82ti6ElZW",
+    "bossName": "庄先生",
+    "bossTitle": "运营总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7fc687d4620da3ee1H163t-6EVpY",
+    "expectId": 1030426395,
+    "jobName": "新媒体运营助理/专员",
+    "lid": "32bAo8eUwFM.search.295",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "矩阵营销"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "未来科技城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 295,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 119.904792,
+        "latitude": 30.247956
+    },
+    "encryptBrandId": "8a42e3645af249001HN40t67Flc~",
+    "brandName": "智赢互通",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240913/7bf6f160950405e9dce7afd0578a2de5b273ec73b4d60179ebee2777ddcc1a8ff36b3e2c5cf09b30.png.webp",
+    "brandStageName": "天使轮",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "绩效奖金",
+        "年终奖",
+        "底薪加提成",
+        "保底工资"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

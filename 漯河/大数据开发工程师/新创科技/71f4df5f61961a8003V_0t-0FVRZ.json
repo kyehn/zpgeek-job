@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "源汇区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240521/607f1f3d68754fd0015db2c02233f3304ebc64af21712fd1afb70ba8cb48b75b76bda43129af936b_s.png.webp",
+    "bossCert": 3,
+    "bossName": "刘先生",
+    "bossOnline": false,
+    "bossTitle": "HR人事经理",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250221/7b5b554d84f9729c8d183fdfaf00feb923405236c3349195afb70ba8cb48b75b76bda43129af936b.png.webp",
+    "brandName": "新创科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "昌建广场",
+    "city": 101181500,
+    "cityName": "漯河",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6068efa143d4f4ae1XV53Ny5F1JQ",
+    "encryptBrandId": "74317e0c725f0a5d1Hd63dm5ElU~",
+    "encryptJobId": "71f4df5f61961a8003V_0t-0FVRZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 33.568535,
+        "longitude": 114.034893
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 7,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "大数据开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3IZh5iXJqGd.search.7",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "E4ahPzKnWeFhZ--1M7gSaDN4R_2GYVaEXYUWGc1jssXit7SJDbjBcWtpw4TJ-iTFXcPpGeLXfb5NQPrPdldCLcDv3bI9ir5N-Z-i86X4ZIOnr6CM8sZmrJZ_i-6KY4GnbCPsPCncw81gw6o~",
+    "showTopPosition": false,
+    "skills": [
+        "接受无数据开发经验",
+        "标注质检测试"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "年终奖",
+        "全勤奖"
+    ]
+}

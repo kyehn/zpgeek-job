@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "芙蓉区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240522/607f1f3d68754fd0b4792c3eae99783793223af6635f20356fe41b1ba263a5842807d73879791c62_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "唐智敏",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "新能源",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "长沙一城风景",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "汽车东站",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "394f1d2d4e90a7830nVz2tW9GFI~",
+    "encryptBrandId": "e928867b104a440f33By09-7Fw~~",
+    "encryptJobId": "6be2d7eb0ce679260H192dW8EVA~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.215365,
+        "longitude": 113.062846
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101206,
+    "isShield": 0,
+    "itemId": 64,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "工程运维人员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "26siypxMtJx.search.64",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "Fel9328gykysQ-p1uCgTN3jVHa1FDBpP3lSaF5g763vLcrYQQxsfawJBJZ8x7A57TYE2jhOLtI-u7lmlOv9xvSL_xQVEuKd-oQSrRLCD-nEG2u6NIakqCupou_oS8FjmgH9Rhpyj8L0~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "网络运维",
+        "安全运维",
+        "运维监控"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

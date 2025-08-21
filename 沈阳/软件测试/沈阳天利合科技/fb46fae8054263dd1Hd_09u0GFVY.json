@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浑南区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220309/607f1f3d68754fd03f97f646f8f7aa1375cb27055cbb8c0c0d57485045f98c6d9079aae5e926df58_s.jpg",
+    "bossCert": 3,
+    "bossName": "宋女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190422/a8e9a798d780718fe37c2a22df4fd7c90a33bb9bfeb25de580a2f3adc5c78404.jpg",
+    "brandName": "沈阳天利合科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "沈阳理工大学",
+    "city": 101070100,
+    "cityName": "沈阳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b77077619a689a430nF809-5FVQ~",
+    "encryptBrandId": "29cc2277b7d3f9611XV52di5GQ~~",
+    "encryptJobId": "fb46fae8054263dd1Hd_09u0GFVY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 41.717963,
+        "longitude": 123.457917
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 94,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "UYOvpto6IK.search.94",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "jInFYtjvKO-pN-P1EVQGwkLFtXoUXgD66HDM6h30JqkB0APRhA0yjui4RkCIipN-_bBDvAlqoyocBaoIcC8QrbqaBjSbXyOMv-BT3A4MCJd_IkccBoPlu-gSjoSW7GeIXY0NuA61EwW_",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试"
+    ],
+    "welfareList": [
+        "加班补助",
+        "带薪年假",
+        "节日福利",
+        "五险"
+    ]
+}

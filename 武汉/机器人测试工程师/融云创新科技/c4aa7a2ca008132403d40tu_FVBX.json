@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武昌区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "张靖雨",
+    "bossOnline": false,
+    "bossTitle": "HR人力资源管理",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250513/7bf6f160950405e91cb4bcc611c87c21d52fe5b8dd314a4e5302c60500e08c70b9f56fed48fe5960.png.webp",
+    "brandName": "融云创新科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "武珞路",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "cb3ee40e1567fc170HR43d6-GFdU",
+    "encryptBrandId": "87a3a007fb97272f03R-092-FlE~",
+    "encryptJobId": "c4aa7a2ca008132403d40tu_FVBX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.536169,
+        "longitude": 114.349582
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 46,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "机器人测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d2nkGQNYBm.search.46",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "AJd8TlU4aQ4gi-x1dZ2hteGrWXFNns7KPGDkTozlJiLxYLxkc1YiEhPAc7-80nbFOz4_pRJLPOt6_RZ1D8oP27dDiQSnVKtQQom8eVdgERKh2Zu2zoQZLmDMpdpYImKsKJd4eiH0jiu0PFI~",
+    "showTopPosition": false,
+    "skills": [
+        "机器人",
+        "无人车",
+        "ROS"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

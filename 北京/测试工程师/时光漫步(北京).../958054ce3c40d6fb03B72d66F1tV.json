@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "殷女士",
+    "bossOnline": true,
+    "bossTitle": "人事/行政",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "时光漫步(北京)...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "苏州桥",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7574aeb6f67879b41nV73t-_F1dW",
+    "encryptBrandId": "6c3c2d765eec66a41nF73ty4ElQ~",
+    "encryptJobId": "958054ce3c40d6fb03B72d66F1tV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.975995,
+        "longitude": 116.332332
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 71,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7pS0vNtArOQ.search.71",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-13K",
+    "securityId": "xZ-yR6z6PxBB--P15zs9knnLZjGhq2ikd4IiIDZRcvUfe66FH1BpC6g2k9jmu0CTnMH7k8F55OEZulGkFVUnKZyaLdaT_NEuUt3AJHc9LpWpAZh04QR853uZbRzqSsZJfmk1ma-AyVdLw5OUWGyWYydN6hUrqTvC-e0sZuxXD8bwPKhU534~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "节日福利",
+        "带薪年假"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "IXPUQTu4R2xM3-M11EBqFxNI4VNPeMLxStxi3l-fdUOvxBsookiKbI85Cw16pLEyzZR26xeUvHz6fCqNezBGDdP-0xZQDSBlyCAkEOaVKBvqQI1aLa-_",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240512/607f1f3d68754fd048bc2355a7de42ff9522605c86a07fef28755a99c12c05df5e6ccd0b03583d00_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "ada4cbd86366cf290XF43d28EVtU",
+    "bossName": "彭先生",
+    "bossTitle": "高级瑜伽老师",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "9d2890a1e8031ddb1HF82Nu1E1ZV",
+    "expectId": 0,
+    "jobName": "瑜伽普拉提销售",
+    "lid": "1DN4zuDOWrm.search.193",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "一对一私教",
+        "普拉提",
+        "销售经验"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "岳麓区",
+    "businessDistrict": "茶子山",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 193,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.954879,
+        "latitude": 28.24214
+    },
+    "encryptBrandId": "835f5104d5619ecb1HB839u7GVY~",
+    "brandName": "长沙市岳麓区静渃...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "运动/健身",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "底薪加提成",
+        "绩效奖金",
+        "保底工资",
+        "团建聚餐"
+    ],
+    "industry": 101113,
+    "contact": false,
+    "showTopPosition": false
+}

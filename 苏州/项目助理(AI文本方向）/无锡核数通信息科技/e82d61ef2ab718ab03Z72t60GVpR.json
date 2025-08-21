@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "吴中区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231124/607f1f3d68754fd06ac67ad2184f322a17ed49cdcddef722be4fb342787944dfd68e5f8862b5000d_s.png.webp",
+    "bossCert": 3,
+    "bossName": "石女士",
+    "bossOnline": false,
+    "bossTitle": "招聘HR",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241223/7bf6f160950405e9e4e05646e83ac3f5861d1f0b528879baa70158418d65d305b817316de51928e6.png.webp",
+    "brandName": "无锡核数通信息科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "越溪",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "589f9f5928e9d4620nR_2tq5E1RX",
+    "encryptBrandId": "e71e55afe5be7a7f1Hxy2NW0EFI~",
+    "encryptJobId": "e82d61ef2ab718ab03Z72t60GVpR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.203249,
+        "longitude": 120.578991
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 92,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "项目助理(AI文本方向）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rmUsnmZY8Y.search.92",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "yOeLQMne8AZXt-Q1sYEFVQa-Atxu1vtkHlk2LGUm9RUdV8zKoJ-nO1s2FUjlVHU5k4IUw7EqJIpE6Zquv46R45zmo1oNC7oFLquu7l7zHnKJP3UKUWflM6wlYPE1pjN2aCoVf0K4647DcvA~",
+    "showTopPosition": false,
+    "skills": [
+        "软件/信息技术项目"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金",
+        "意外险",
+        "补充医疗保险"
+    ]
+}

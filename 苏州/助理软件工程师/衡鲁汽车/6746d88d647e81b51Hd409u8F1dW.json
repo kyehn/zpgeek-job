@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昆山市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "张雪原",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "汽车零部件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231031/7bf6f160950405e9f4e7ced40cec05356e8833095dda0834edc3fa517b6eaeebf79198355b411869.png.webp",
+    "brandName": "衡鲁汽车",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "花桥",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8e3d2d70262224450XRz2d-8E1NZ",
+    "encryptBrandId": "6c94a3d66aeb9e0e1HR92dq0FVU~",
+    "encryptJobId": "6746d88d647e81b51Hd409u8F1dW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.357223,
+        "longitude": 121.084533
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100802,
+    "isShield": 0,
+    "itemId": 2,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "助理软件工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7NVA2I41QID.search.2",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K·13薪",
+    "securityId": "WN74be_pfC8aH-016Q4ZuINciC9nDDbSYhtQQs5Nq_HMhNY4xkUKKL_0xkudJ5xNXG4XyO3ExfKohQXRC5Qu_8IlIm17tkrg2AsHEsrzKVGukeB8k8wX5CcbEZHqy_OH8SvOHb1Q0uX_2Ro~",
+    "showTopPosition": false,
+    "skills": [
+        "C",
+        "通信相关专业",
+        "嵌入式/单片机开发经验",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

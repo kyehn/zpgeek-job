@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "杨丽娟",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "检测/认证/知识产权",
+    "brandLogo": "https://c-res.zhipin.com/jrs/6_398487934899d2c6298e0deb3506d50f.jpg",
+    "brandName": "长沙南信资安科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101250500,
+    "cityName": "郴州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a6697901b8d112fa0n143Nq7FlpR",
+    "encryptBrandId": "869199bd5d478c5f33N42Ni1Fg~~",
+    "encryptJobId": "b65ed7f82af9b73b1Hx80tu6GVRW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 25.396337,
+        "longitude": 112.976317
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100609,
+    "isShield": 0,
+    "itemId": 21,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6SuIbrMNy7a.search.21",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "vUF4f3PIznyEt-N1fTlTkT1dEI16bfIhP50KDj_4qe_7qZyUbGRu8bCgPfpXmV-kmQoAPuIzg3_kxNdC5bwxNckqFBzxxYFxz-_GpIvzkuaXVKoeSHXA9dzuUM66cAXY-GNi2p7UKciKeQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "五险一金"
+    ]
+}

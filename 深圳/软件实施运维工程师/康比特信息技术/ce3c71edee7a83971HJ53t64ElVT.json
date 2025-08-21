@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "福田区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250402/607f1f3d68754fd00c5bce8e517e9c20640638d3ff02dc5594465d5828fba505502a656602a514aa_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "巫女士",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191126/7f3b4075052edc1bebb3638173b00d7810ac94d8f0a9cd87bf576e404c36d723_s.jpg",
+    "brandName": "康比特信息技术",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "莲花",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "270de3d74642192e0nN93di6FVBX",
+    "encryptBrandId": "152b6045fb4fc8531nx93Ni1Fg~~",
+    "encryptJobId": "ce3c71edee7a83971HJ53t64ElVT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.558449,
+        "longitude": 114.066747
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件实施运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8mTz92nG1Sy.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "McMSZcNMOB-6q-D1-qxpmvpTHBH_tcKEfQsHUL9pThgZBH58Pe4sDD7e9Z5CEut50ZisozYZcMD-VFhok16thfKj5bFWnggNww99itER0uxmsFjLcqpOQfjfqm-DH-zH8TweRvOxoGzRNA~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维"
+    ],
+    "welfareList": [
+        "节日福利",
+        "带薪年假",
+        "五险一金"
+    ]
+}

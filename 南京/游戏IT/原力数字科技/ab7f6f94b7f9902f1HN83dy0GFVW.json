@@ -1,0 +1,62 @@
+{
+    "securityId": "RoX6MzaiAS5wu-11i1fIID2x4fe8dgjGUJEYTO9Jq-H--TH0zN2-k7JEPMLBHO3qJmpfO1NMZ3INoroeoXqx5lvODcWLfOUAGL6zF74kkNpDqQCB8GE~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240621/607f1f3d68754fd02dcd34c2ea256b62fe228b1241b99158de2b415042aa2abae826de4e9108a182_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "85d5edb34e73b5cd0nR42tS4EVpW",
+    "bossName": "韦先生",
+    "bossTitle": "招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ab7f6f94b7f9902f1HN83dy0GFVW",
+    "expectId": 0,
+    "jobName": "游戏IT",
+    "lid": "29Ee1kFCirO.search.298",
+    "salaryDesc": "7-12K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "英文可沟通",
+        "IT技术支持经验",
+        "计算机/通信相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "建邺区",
+    "businessDistrict": "江东",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 298,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.73864,
+        "latitude": 31.981605
+    },
+    "encryptBrandId": "35c189b62642ad2c1nF52tu4EQ~~",
+    "brandName": "原力数字科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/6b0703103fe5712c356fa64b83854e45cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "广播/影视",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "餐补",
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100103,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "奎文区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "沈女士",
+    "bossOnline": false,
+    "bossTitle": "副总经理",
+    "brandIndustry": "运营商/增值服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "德达网络",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "高新区",
+    "city": 101120600,
+    "cityName": "潍坊",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3205d9760ff4db370nV709i_GVBV",
+    "encryptBrandId": "8ac34e9efa3082a51nV52tq5GVQ~",
+    "encryptJobId": "ed6c07415b8409271nV93dy8ElVR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.707767,
+        "longitude": 119.211861
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100025,
+    "isShield": 0,
+    "itemId": 55,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "58JDUI2s1DQ.search.55",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "GjkA6XtmJsYXt-p1eBw0drE4wU_Suro9P3rKlvWeqc0LEkrdoI70h3raIqTiutS2L0-RrWsSsKrZ3P4ihTpj-lJKJzf8_wz9YZgHAZ9aak1hoyRkhjj-K5Oazhrur71HX3vkykJAeDBvl2w~",
+    "showTopPosition": false,
+    "skills": [
+        "SQL"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190215/da51957c8acd29f2abedb79efd507c6e543c741e700f6613da87b17b50e59b2a_s.png",
+    "bossCert": 3,
+    "bossName": "吴天晴",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "咨询",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "新一造价",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "372523cfa9f4c4460nd-2dW7F1c~",
+    "encryptBrandId": "dfa6871154b9d8151HB939y0Fg~~",
+    "encryptJobId": "19770fab3f933ab51XF829u_EFZW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.336319,
+        "longitude": 120.543025
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100601,
+    "isShield": 0,
+    "itemId": 17,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "ue4初级工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7NTdNwnBnsM.search.17",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K·13薪",
+    "securityId": "tTaZ4RKBv5POS-X1-MGfrQz63X3ludfEnMuSMkvoCmx7Pxn_WOHXJI8D74A0PRyhwvXxcnF6TXkr7_DRPpnqn1Hewy6H4Ecx9-g0R8D6Tkm2xpCyICnSBEVt4qlQnhb_Gx_C-wPeB59S",
+    "showTopPosition": false,
+    "skills": [
+        "C/C++",
+        "Unity3D",
+        "UE4"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220209/607f1f3d68754fd08dc77cbf9ecc0314e0ed6ad6b56c97bd8ca30290dda3ebc5a0d155fa5e4c9fad_s.jpg",
+    "bossCert": 3,
+    "bossName": "王秦玉",
+    "bossOnline": false,
+    "bossTitle": "人力经理",
+    "brandIndustry": "电气机械/器材",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220722/7bf6f160950405e97aefaf2a8c99fafc09a09a7380b2916f8ca30290dda3ebc5a0d155fa5e4c9fad.jpg",
+    "brandName": "德星云",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "27a9961ff54da68b1HJ-29u1E1U~",
+    "encryptBrandId": "40e21566b07567941XR-2d2-FVs~",
+    "encryptJobId": "bb5119a93668c30c1XZ80tm0GVNY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.480924,
+        "longitude": 120.672373
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100908,
+    "isShield": 0,
+    "itemId": 130,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "MES软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rkQj7ZFVaZ.search.130",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K",
+    "securityId": "6TfIKKvzpafZR-319iIsjhPMpikqwbPSCwWEayQWacwXq3ILEPclIh44EtT09h5O3DA1006IhaL392ua0GsXkTY01vsDQ08iXzRkBTtkqCD--qJ3D4U7WxZV2Y2CIxLy4a3z81O5V0gk1g~~",
+    "showTopPosition": false,
+    "skills": [
+        "Socket技术",
+        "MySQL",
+        "C#"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

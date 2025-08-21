@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南开区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181223/32324a9165a29b5e0f12e70d140fe8188372c2de5b56fb1fe6081a458c8d4f73_s.jpg",
+    "bossCert": 3,
+    "bossName": "崔默",
+    "bossOnline": false,
+    "bossTitle": "HRBP",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "天津银海环球",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "南开大学",
+    "city": 101030100,
+    "cityName": "天津",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f5f0be14d40ad6080nR909W7FlU~",
+    "encryptBrandId": "7f8f7690a62c30511XB92dS6F1I~",
+    "encryptJobId": "2a8a263d5d8bf3771XJ50tu6GVJU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.095103,
+        "longitude": 117.176979
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 42,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "J0gVP4LrZN.search.42",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "W6IQDEJKW3rUg-S1Lhoo9RuRzeGRK2ElaR23mtNVaU-fGoPUPAcAHmw0mzmQFVx2zKTUJHQXHOmdKlRkvcu_ewaMldtdkBeZlU3c0rgFmSMKdoFRdN7sBlXKmJk0EYUVFM7qTXd1VA3MmQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "MySQL",
+        "Oracle"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
+}

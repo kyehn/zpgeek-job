@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "丰台区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230228/607f1f3d68754fd05391355f1e7d863e421eb3874425c28954dbaaed6ad5cdc7e235acc3ee243a9c_s.jpg",
+    "bossCert": 3,
+    "bossName": "张海平",
+    "bossOnline": false,
+    "bossTitle": "人力资源部主管",
+    "brandIndustry": "其他专业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "中认北斗检测",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "花乡",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f7d97d43b400853c1X1y2NW5GFU~",
+    "encryptBrandId": "c6a2fc391cd3386703V92tm4Flo~",
+    "encryptJobId": "2a82915581ccb8a703B93ti1FVRV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.820124,
+        "longitude": 116.291624
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100608,
+    "isShield": 0,
+    "itemId": 32,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "中认北斗检测招聘体系审核员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cPQG9ziPWL.search.32",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "1HIArB3YHRJWp-j1ApZvDWbeq3aRYtgtSVkn9h4OfFf9AIlcqsv9XvaiJzCa68W1e3QyFHKlmIUpviULIwLoIwhA-hGbo7P6SU8luh-eZb_h4b2VNra6PjBHawggv3qjib4YdsYsJiZoQw~~",
+    "showTopPosition": false,
+    "skills": [
+        "国家注册审核员"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

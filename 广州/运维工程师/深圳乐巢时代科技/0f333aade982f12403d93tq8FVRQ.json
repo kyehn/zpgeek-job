@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "番禺区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "黄旭辉",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "移动互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "深圳乐巢时代科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "南村",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d913ce1b760e59160XZy3du5GVJY",
+    "encryptBrandId": "e840cd21fec9e2b41XF93tS4EVA~",
+    "encryptJobId": "0f333aade982f12403d93tq8FVRQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.00232,
+        "longitude": 113.347482
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100019,
+    "isShield": 0,
+    "itemId": 40,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4RGbNuUIdGO.search.40",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K·14薪",
+    "securityId": "bjdONtoHCkbVN-u1WX2tw2q-pfED7PVxirw-fYqLOtXrCaLSB4NIEKY69Jgbj584kfJxIFdF7Przn6y661Ib8BvhLR_0rhBU_sHLixPSoO1993tUop3Vbwj2AG_3sc7uJE6yh6lTtjCNStY~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维",
+        "桌面运维",
+        "IDC机房运维"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

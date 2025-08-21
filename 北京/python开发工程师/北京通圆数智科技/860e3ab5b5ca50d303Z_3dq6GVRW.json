@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250119/607f1f3d68754fd02e880541980914a8fefdd0b4ed18059f212feff5e78addeaaf76a15380537e81_s.png.webp",
+    "bossCert": 3,
+    "bossName": "邓先生",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250429/7bf6f160950405e91c24323c9e90e98737bf76264c677c90212feff5e78addeaaf76a15380537e81.png.webp",
+    "brandName": "北京通圆数智科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "龙泽",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "aa23cdde40b5761033d-3dW1FVQ~",
+    "encryptBrandId": "6adaede4ce43888e03R409u0FlY~",
+    "encryptJobId": "860e3ab5b5ca50d303Z_3dq6GVRW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.065674,
+        "longitude": 116.314776
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 48,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "python开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8gdZd8M60QK.search.48",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "9NMHD5k2xHvET-e1rppugfJccFwlrTfuuRkXGGpakBNl0jxK5z8nLVClzZNB8WxzQBgK_9IaBl4nKBWNNDa3XLcdD9fM3Rqnf4llGnQuqiqtrCwRpmLmrZhdAgWQ71RzaBiCIzlHC30X6nfFW-aJdUXe7V8-hA9VshtYZM0FIhVy-wWz3w~~",
+    "showTopPosition": false,
+    "skills": [
+        "Django",
+        "Python",
+        "Flask"
+    ],
+    "welfareList": [
+        "零食下午茶",
+        "五险一金"
+    ]
+}

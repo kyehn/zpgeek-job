@@ -1,0 +1,61 @@
+{
+    "securityId": "OTuPSuuPQNmmm-w1wrqU9SCYHR1R9ujHzrx2KbFdzhO3hNnUmzoqpXeULwdoY9j7UozsUitRuUV8dlyI4CK9k5GyvP9VrkfesIjjFZDMfe_X",
+    "bossAvatar": "https://img2.bosszhipin.com/mcs/useravatar/20150525/22ba1c0aea8e605997e0940a2cdd24788c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "e58f7b77b06e18953nV82dw~",
+    "bossName": "董女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fbea4830046f68620H1-29q_FVI~",
+    "expectId": 0,
+    "jobName": "售前工程师",
+    "lid": "33QrRRxHWPH.search.81",
+    "salaryDesc": "3-8K",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机软件",
+        "IT服务",
+        "SaaS"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "鼓楼区",
+    "businessDistrict": "南大",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 81,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.7806,
+        "latitude": 32.059324
+    },
+    "encryptBrandId": "5659079e9081dbec1XZ83d6_Fg~~",
+    "brandName": "麦田守望（北京）...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180706/36e390708d9b1ca6ce91a7feab9bb0edcc5823d6b2d06232e479675f0a2f9989.jpg",
+    "brandStageName": "天使轮",
+    "brandIndustry": "企业服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险"
+    ],
+    "industry": 100015,
+    "contact": false,
+    "showTopPosition": false
+}

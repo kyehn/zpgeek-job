@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210216/538b169f336b1b34ef88d670a70ae01393ad57fdc81b779f90690d9728741183_s.png",
+    "bossCert": 3,
+    "bossName": "杨璐莎",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "学校/学历教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220611/7b5b554d84f9729c5396f3215ab8a7e6ca4d476b03601d5293ad57fdc81b779f90690d9728741183.png",
+    "brandName": "邯郸国防技术学校",
+    "brandScaleName": "500-999人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101091000,
+    "cityName": "邯郸",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0f914c313f0ac2730nV_09u5ElNV",
+    "encryptBrandId": "7752f48c2837effa1XV-09y-EFc~",
+    "encryptJobId": "8dc96945bdabb8cc1Xd62tW6EVdZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.739612,
+        "longitude": 114.536221
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100302,
+    "isShield": 0,
+    "itemId": 108,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件开发专业老师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "49bSw1uvbUV.search.108",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "hWbR9r94Grxis-q172yEP-SMvngIAFZ33mI-22aTp2VE9nWbQ2OABWU8WSniSWt7BH4tdbU1HS4et3UE1o9EBJmo52U_MR5dSBKI9zaU1OW3DGt7sacPRwRHf3yeNTptSIyORI3SjNffcYE~",
+    "showTopPosition": false,
+    "skills": [
+        "JavaScript"
+    ],
+    "welfareList": [
+        "包住",
+        "包吃"
+    ]
+}

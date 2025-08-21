@@ -1,0 +1,61 @@
+{
+    "securityId": "ZCEFAW592O4HJ-r1e63BGUPp7-61R428_JAN-fQ-d-ssEEflylTAiBd1hUaaGeV9zKZS7Ixc-u8DmnQj1XKbAKhtp5fvdIjtaAiD7-Hq2RYNn2S7Bh9mQI7oY90Tz9ksYJcnVCN-cpzvpeU0NIfQktB4rn-7uEhLqaP28jVCYuCOVdZFs_k~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220218/607f1f3d68754fd078c2447a05d707404ce5b04bd2d25f995794d6f04364fdb774b6e682bc780ddf_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "2a473ff9e53962330nZ_2di_F1tT",
+    "bossName": "朱女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "24088fe3d67558511HNz2tq8GVpY",
+    "expectId": 1014042683,
+    "jobName": "商务专员",
+    "lid": "19yrEHkR3qp.search.115",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "招商/商户拓展",
+        "销售/大客户销售",
+        "商务合作拓展"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "武昌区",
+    "businessDistrict": "水果湖",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 115,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.34767,
+        "latitude": 30.550265
+    },
+    "encryptBrandId": "18dfa0b5fb1b3eec1XR62NW9FVM~",
+    "brandName": "菇的辣克",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220217/7bf6f160950405e9df3170329305ed2722b06a94716a4d8d5794d6f04364fdb774b6e682bc780ddf.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "食品/饮料/烟酒",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "全勤奖",
+        "五险"
+    ],
+    "industry": 101001,
+    "contact": false,
+    "showTopPosition": false
+}

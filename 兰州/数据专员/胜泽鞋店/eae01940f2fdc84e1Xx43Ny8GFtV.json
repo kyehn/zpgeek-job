@@ -1,0 +1,63 @@
+{
+    "securityId": "LG2a49ubfHKXc-O1cxuL7CgsLQjA69VVH8ofwz4RGFpBYkvVOnKpLTGnda88HyoyQMC4-7fW2MRJMXK2ERPY5FODbSO10ucH6JRHHTtzAzmY-9EJ50c~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200503/d59c4fd1fe329537847fb8a553715b0bc5bafbd17395eb3a06a4e27fee2e6e0d_s.png",
+    "bossCert": 3,
+    "encryptBossId": "965f0bac30b5c47b1nR80tq1GVRT",
+    "bossName": "孔先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "eae01940f2fdc84e1Xx43Ny8GFtV",
+    "expectId": 0,
+    "jobName": "数据专员",
+    "lid": "R4sXEiStPS.search.90",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "业务数据分析",
+        "营销活动效果分析",
+        "数据分析/商业分析经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "兰州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 90,
+    "city": 101160100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 103.878019,
+        "latitude": 36.04389
+    },
+    "encryptBrandId": "72e65c5390ecb13d33V43d2_FQ~~",
+    "brandName": "胜泽鞋店",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "批发/零售",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "加班补助",
+        "全勤奖"
+    ],
+    "industry": 100503,
+    "contact": false,
+    "showTopPosition": false
+}

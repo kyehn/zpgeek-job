@@ -1,0 +1,60 @@
+{
+    "securityId": "wkNnM7KNXe-yr-D1usbwYnfEdYiafJat9qx-ZqhDHE7P8z6djwzjAKsexJ_mxkzdY1m65rjC4LFwimwAMdbEGRAHp7cm2dVOBO20KA8iXo2Kf5_ovrM~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240527/607f1f3d68754fd06f08242c00e972689768a0e9f485c88e6ef6be16d2e4e17f8449fd5c6d013270_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "807b5a6317f226370XB60tu8FFJS",
+    "bossName": "要女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8bc303a3dd10c53e1HB_0t66EVVT",
+    "expectId": 0,
+    "jobName": "数据标注专员",
+    "lid": "5ECQrRTgIBx.search.299",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "文本标注",
+        "语音标注",
+        "图片标注"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "太原",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 299,
+    "city": 101100100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.607608,
+        "latitude": 37.689231
+    },
+    "encryptBrandId": "4d4f82b39eae30b61XBy39m5FQ~~",
+    "brandName": "璀璨科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200620/cd86e559aaa106afffece0ead2a1c776962a5d04b449527699da05418200afa1_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "全勤奖"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "青羊区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230220/607f1f3d68754fd0544f660b13dc57345f0ca5761ea57d6831e89f59b873b4f99e0c8941a13dc619_s.jpg",
+    "bossCert": 3,
+    "bossName": "杜女士",
+    "bossOnline": false,
+    "bossTitle": "人事行政主管",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180717/2b5c2ce64862417e236ebadef560226def407e4142e335f6bbc5962d4654f29f.jpg",
+    "brandName": "上海交大四川研究院",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "黄田坝",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b5e11cea31316f241nZ-2NW8GQ~~",
+    "encryptBrandId": "663bbce2111fc9ba1nN43N67EQ~~",
+    "encryptJobId": "3d6184842251d8c71HV-2Nm_F1RR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.684566,
+        "longitude": 103.959642
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 70,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "软件开发工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rhhje2WGpA.search.70",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "zFiwe4l30g0Xu-41rYhkZKQ77uDG6ziTMU6iaCdqmKOj6PErjNUMpFZxiRRy2WJM-cxdDMFroe939e16BJniIAy9H4CYSqFhm34iT-ud5Qy-Ke09G-f4VYkT9lFAM-0mnQ-i9GbAbu4~",
+    "showTopPosition": false,
+    "skills": [
+        "C++",
+        "计算机相关专业",
+        "Qt项目开发经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

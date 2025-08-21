@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210511/4298ff128034d7cdd287e0ef29515112e3f02a011584f2d7d8df3ba4b7ebd53d_s.jpg",
+    "bossCert": 3,
+    "bossName": "杜辉",
+    "bossOnline": false,
+    "bossTitle": "运营总监",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210909/7bf6f160950405e9a5ef34dcd9e66e9bba6f3a409d42ed142e9baec8a2c103848b605717cc33a7b2.jpg",
+    "brandName": "立思辰金智",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "小汤山",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "eaf0ce43c99b5d210nV63dm5EFdQ",
+    "encryptBrandId": "61991ede0de861691nV53tS6EVI~",
+    "encryptJobId": "be142c6997c1c5381nF53t-4EFFX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.161267,
+        "longitude": 116.422582
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "值班运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cPQG9ziPWL.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "PFjYRfVONDzx7-m1z6Q9PO0XiusbSGbrY_hxA4HNZwkhcidfLxSaVNH34BhUq47Zgp65Fd4OhSk-IA25fFrems2dFU2QUPZMLv12x1uEYPOjnkt2rRXGbvWGLfiwmLukWvcJg62XXKbH7-k~",
+    "showTopPosition": false,
+    "skills": [
+        "桌面运维",
+        "提供员工宿舍"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ]
+}

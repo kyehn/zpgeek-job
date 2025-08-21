@@ -1,0 +1,63 @@
+{
+    "securityId": "smcvThrDkYYLk-4148gFUq4eWfC--fE0C1bGE0d5jlHKEBSpZlQWVi_pxUldsxV10t29giYkFohuoXFwDHrg0EdNnA3weGWD5F58s3w1MeXutkvs_6yThnYkqKGbww3Wi4kgorXBlQyk",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "351c6ad90135dd320nZ829-_FFA~",
+    "bossName": "孙腾云",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "69b82a5d2fccf5381Hx93ty9EFZX",
+    "expectId": 1030426395,
+    "jobName": "c/c++软件工程师",
+    "lid": "1fI6KmoNRGz.search.24",
+    "salaryDesc": "8-13K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C++",
+        "C",
+        "MFC",
+        "上位机开发经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 24,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.15701,
+        "latitude": 40.065168
+    },
+    "encryptBrandId": "45972f488e0b88b41Xx_2N20EQ~~",
+    "brandName": "华科恒润",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240116/7bf6f160950405e97dd5d2635556179c1d5c0c2060af0057a7a56cf81ab591fbd1266e82c5a2d5b4.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "专用设备",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "绩效奖金",
+        "五险一金",
+        "团建聚餐"
+    ],
+    "industry": 100907,
+    "contact": false,
+    "showTopPosition": false
+}

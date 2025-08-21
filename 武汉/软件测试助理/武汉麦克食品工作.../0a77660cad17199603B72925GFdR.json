@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250512/607f1f3d68754fd08da371959e42a74a8849a61e9d9bab1b87cf91edb8fc2b3bce1557459f0c0de6_s.png.webp",
+    "bossCert": 3,
+    "bossName": "李先生",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "餐饮",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "武汉麦克食品工作...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "卓刀泉",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1020ecbefd3e51fc0nB429-0EVRQ",
+    "encryptBrandId": "f2920fa2c2c1b2541HZ709u-GVU~",
+    "encryptJobId": "0a77660cad17199603B72925GFdR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.509762,
+        "longitude": 114.394413
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101101,
+    "isShield": 0,
+    "itemId": 20,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件测试助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8oFkYT0tfnv.search.20",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-7K",
+    "securityId": "37_qihRMlFrk9-h1xbzoSE_D9UPRV60a_vYm_DhSLROu9HF5GXdBiHrOoWLymgRENg1_t2EIhSDHYFHPLK9KkPMsOLAu6bIHs_7ZGqK0ms8bjhdUYCNLm1ZGuxwQGyqWv3fXAaEsRwtuZis~",
+    "showTopPosition": false,
+    "skills": [
+        "性能测试",
+        "功能测试",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "餐补"
+    ]
+}

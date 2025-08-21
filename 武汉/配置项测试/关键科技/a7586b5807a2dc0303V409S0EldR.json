@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240305/607f1f3d68754fd0ce5b99f8553a55972127274dd9dd71ece1e1b34f19fedecf00f873461a7488f0_s.png.webp",
+    "bossCert": 3,
+    "bossName": "曹女士",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190531/fbf119f3b1f101e13c00d7bc9f55d43fa1325c46eb14c47520a9eedcde13b63d.png",
+    "brandName": "关键科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "白沙洲",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "657596096c194e660ndy2N64ElU~",
+    "encryptBrandId": "8b17db1bdeeb464e3nZ72N20",
+    "encryptJobId": "a7586b5807a2dc0303V409S0EldR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.441279,
+        "longitude": 114.263668
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 90,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "配置项测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2vcLnMVRWqd.search.90",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "Ke85xQruHqqLP-C1nLUplUoLr8bv6CU2_w1f2ZkUK7lOHIqxESjEJHGhj5lPFNSa1WKbFRwWSSt-C9cbQKtzsTSRas-mnnUZ5pioW4PJr_brSP3vwGYlCokR1pp-zPAHwX9f98Ss8rw~",
+    "showTopPosition": false,
+    "skills": [
+        "嵌入式测试"
+    ],
+    "welfareList": [
+        "节日福利",
+        "餐补",
+        "带薪年假",
+        "五险一金"
+    ]
+}

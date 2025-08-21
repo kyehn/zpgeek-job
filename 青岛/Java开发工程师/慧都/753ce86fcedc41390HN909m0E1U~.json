@@ -1,0 +1,61 @@
+{
+    "securityId": "dhBNjvDuLmRJG-O1UQ8dAuNDkIky5B2g6d9WgHsRTVWdKWO7JF-xIIiLbvNu8Pi0R4SQyTHnpFA4OfJBQS4du_cciHuHzNt91laSt9zdRMR5W7ALaPj9ki31SCtn5moFiAnTw29Ct5P2",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+    "bossCert": 3,
+    "encryptBossId": "70d3fad1e68cc3db1nR92Nu_GFNQ",
+    "bossName": "马中游",
+    "bossTitle": "研发经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "753ce86fcedc41390HN909m0E1U~",
+    "expectId": 1014042683,
+    "jobName": "Java开发工程师",
+    "lid": "1EC925cZ2ND.search.52",
+    "salaryDesc": "4-8K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "后端开发",
+        "SSM",
+        "SpringBoot"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "青岛",
+    "areaDistrict": "崂山区",
+    "businessDistrict": "石老人啤酒城商圈",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 52,
+    "city": 101120200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.46857,
+        "latitude": 36.098429
+    },
+    "encryptBrandId": "655174bb9e5b3a5633V839W8Ew~~",
+    "brandName": "慧都",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

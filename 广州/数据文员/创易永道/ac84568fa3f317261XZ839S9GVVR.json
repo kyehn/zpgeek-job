@@ -1,0 +1,63 @@
+{
+    "securityId": "GTQ8LleeiA38U-a1LA8Qz8AxRAlBctffioWcK_G2SKQBHCFdjbthqzf-XUsTnRzmbB9sBJhIFwJboXXT7kI0GDhrzTmUvoadWQrk4Tr0Z3PwxuLP5g~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210727/d21e564192b06e303889ce2d75b52df24c446b8d2d3d41ea511fc904311645ef_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "aa6454bd21803d080Xx409m4FVI~",
+    "bossName": "黄女士",
+    "bossTitle": "人事招聘",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ac84568fa3f317261XZ839S9GVVR",
+    "expectId": 0,
+    "jobName": "数据文员",
+    "lid": "2azWJVad8yo.search.26",
+    "salaryDesc": "5-7K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "纯文职岗位"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "白云区",
+    "businessDistrict": "棠景",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 26,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.251936,
+        "latitude": 23.180522
+    },
+    "encryptBrandId": "583a7e66a2b02e380HN72dS7FQ~~",
+    "brandName": "创易永道",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210816/7b6462f286b75548e2b43dd7b7942fe04c446b8d2d3d41ea511fc904311645ef.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "法律",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+    ],
+    "industry": 100602,
+    "contact": false,
+    "showTopPosition": false
+}

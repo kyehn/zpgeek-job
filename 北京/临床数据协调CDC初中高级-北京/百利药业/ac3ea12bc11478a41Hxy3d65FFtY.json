@@ -1,0 +1,63 @@
+{
+    "securityId": "qaW9SbrQyzSMO-Q15Kc18k8Br3O0_Uy8iBwE8ZHRoLsMGB0Eqrh_sq9ePMopjOWX5K8iVmbf7YJ0N6T4uCqwKF6m6XcRYppK0qpHo_qNTmTZg7hOqZ_PSG_88HEr9NYvK4FzdpR5RUEP",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_11.png",
+    "bossCert": 3,
+    "encryptBossId": "afd12ab52ecec50503R93N29ElU~",
+    "bossName": "高女士",
+    "bossTitle": "HRBP经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ac3ea12bc11478a41Hxy3d65FFtY",
+    "expectId": 1014042683,
+    "jobName": "临床数据协调CDC（初中高级）-北京",
+    "lid": "1eaRqvm8qWn.search.287",
+    "salaryDesc": "8-13K·14薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "临床工作经验",
+        "医药相关专业",
+        "统计学相关专业",
+        "Excel",
+        "SPSS",
+        "R语言"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "东城区",
+    "businessDistrict": "广渠门",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 287,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.44716,
+        "latitude": 39.893104
+    },
+    "encryptBrandId": "4caa7725cb2aac7d0nJ-2dy0EQ~~",
+    "brandName": "百利药业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201029/7fd733b0a2fa9e196ae3625b0dbd37a9885a5b981f8c4595268a9f7ba3ad708e_s.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "生物/制药",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100401,
+    "contact": false,
+    "showTopPosition": false
+}

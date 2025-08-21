@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "金山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "金女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "日化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "上海全丽",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "朱行",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b97b9a3f78a8cbeb0nVy2d-4EltX",
+    "encryptBrandId": "51754666daec57801nZ62Ny4EVQ~",
+    "encryptJobId": "59e66d97c52c49871nZ-0tS1GVJT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.832522,
+        "longitude": 121.318917
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101002,
+    "isShield": 0,
+    "itemId": 43,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "产品检测工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2AdYei9zFxC.search.43",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "LL8dv4re3cdZU-41RX4zQHa7ga4YgGDQivBQFLGNUzVOuTlcXP1UTytfks34nesHA9PHWIcWabbXYbwYJ3HVngHN7jQMZxER3INue-zug7wzK4_tLPEoOTR_OsA-ypX7eQlvJkiztLPRYMg~",
+    "showTopPosition": false,
+    "skills": [
+        "化妆品专业 精细化工",
+        "化妆品功效检测工程师"
+    ],
+    "welfareList": [
+        "节日福利",
+        "带薪年假"
+    ]
+}

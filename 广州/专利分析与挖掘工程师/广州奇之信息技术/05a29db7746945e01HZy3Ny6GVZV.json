@@ -1,0 +1,63 @@
+{
+    "securityId": "mXEijLtN3Kk0P-r1XKMrMgSLGaNF-Dgaw6rcMdPYYWqGQswFM5via7gZpTQH4fEtY-_TJX-n3E6wgu3Ljd4pek1PtI2_6GNhNXqGBIPesOFsvDyVCLnT",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240527/607f1f3d68754fd0b5696648fc4bc0e8a5170903552dc50d276d3da7148d07fdc83f4027c81854c3_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "6946348f69de230c0nBz0t28E1RQ",
+    "bossName": "沈先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "05a29db7746945e01HZy3Ny6GVZV",
+    "expectId": 0,
+    "jobName": "专利分析与挖掘工程师",
+    "lid": "2azWJVad8yo.search.5",
+    "salaryDesc": "7-12K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "人工智能大数据",
+        "懂发明专利",
+        "懂信息相关领域"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "黄埔区",
+    "businessDistrict": "万达广场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 5,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.466682,
+        "latitude": 23.168501
+    },
+    "encryptBrandId": "65870dbabb12a2821XVz29S7FlA~",
+    "brandName": "广州奇之信息技术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240612/7b5b554d84f9729cb5696648fc4bc0e8a5170903552dc50d276d3da7148d07fdc83f4027c81854c3.png.webp",
+    "brandStageName": "天使轮",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "社保",
+        "餐补",
+        "底薪加提成",
+        "保底工资"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

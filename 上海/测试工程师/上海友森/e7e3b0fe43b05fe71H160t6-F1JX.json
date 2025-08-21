@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "陈霞",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210207/5712b269ae280b8720bf8618e7dfa4f6c6ecb5259c7b9c1f56256c21cd872ace_s.jpg",
+    "brandName": "上海友森",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "颛桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fee2ae3f0393fd7e1nR-3t-8F1FU",
+    "encryptBrandId": "2e0301e46227f17f1nd639W_EA~~",
+    "encryptJobId": "e7e3b0fe43b05fe71H160t6-F1JX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.052271,
+        "longitude": 121.375801
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 29,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2AC6tGoe3sl.search.29",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "N0klaZJIyqkx1-k13ll-l0JrEj7DP9J3fRiGMuHD3NHThFizESuChtCL3l17_fDpPkKNoIBv5zRIdKABfRFEMXarnuj9FKkF9s3fWg8T9R4Yw9CQ8t3PuZGUO9BhoNn3V7kpOfdPqnQY0Q~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "通信相关专业",
+        "测试工作经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

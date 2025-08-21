@@ -1,0 +1,64 @@
+{
+    "securityId": "jLx3YUNgCbPER-517lTnTGpU4VFBA0mf5ALAJvlSj6TCRSHT0PXpepGpi8O-87mEeZrBosvKgargUl95-lj1ekGH66E7rx-tTDDuMjsdu334Hmco0j5nBzpuSE54ZIzUHF8oAm2yK2oj",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230625/607f1f3d68754fd0b25bdb404f96aa6d7898036c317caef447b071cf11cde0cbdccfa9896f22cc7a_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "42a5cdd175fba7eb0XR_3dm-EFVY",
+    "bossName": "汤先生",
+    "bossTitle": "猎头顾问",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "24444493dd73b4dc1H1739S5FVZR",
+    "expectId": 1030426395,
+    "jobName": "接口测试工程师",
+    "lid": "2bUGSofxWJE.search.234",
+    "salaryDesc": "8-10K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试",
+        "测试工作经验",
+        "接口测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "anonymous": 20,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        2
+    ],
+    "itemId": 234,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.50445,
+        "latitude": 39.957298
+    },
+    "encryptBrandId": "",
+    "brandName": "某大型知名汽车研发公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandStageName": "B轮",
+    "brandIndustry": "汽车研发/制造",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "加班补助",
+        "底薪加提成",
+        "五险一金"
+    ],
+    "industry": 100801,
+    "contact": false,
+    "showTopPosition": false
+}

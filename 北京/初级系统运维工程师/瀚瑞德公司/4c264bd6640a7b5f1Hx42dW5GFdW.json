@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "通州区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230907/607f1f3d68754fd01a9417dd354c7cb6bb7a01256a897fb78092d855cc3ebcc468b4996d8d520de0_s.png.webp",
+    "bossCert": 3,
+    "bossName": "李文杰",
+    "bossOnline": false,
+    "bossTitle": "人力资源部HRM",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210820/7bf6f160950405e9f5d060b82aba03f76118d5be68cc1c38bcd3258420c24ba8122ca2cb4904e1d8.jpg",
+    "brandName": "瀚瑞德公司",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "李桥",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "19f31a525a7b71f91XJ42dm1E1I~",
+    "encryptBrandId": "973660f7d497729a1nxy0ty0EA~~",
+    "encryptJobId": "4c264bd6640a7b5f1Hx42dW5GFdW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.989793,
+        "longitude": 116.658255
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 70,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "初级系统运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8kljp1ABsTA.search.70",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "y4mQ9hrDHvcrI-r1BbHnyMZDalV7sU_maUhYhqnAv9E2SEtvTEnM9iT2VPxzFjaPLS8CDc3KHd5yQ4yQG_tx4fZnFueHH-6wFtXIzsrZC0MDkGrFhOLdx5WJelKvbQo21zBGWMwvAh6W",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "运维经验"
+    ],
+    "welfareList": [
+        "餐补"
+    ]
+}

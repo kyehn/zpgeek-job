@@ -1,0 +1,62 @@
+{
+    "securityId": "NsRFvmaRtHz8B-s1EirBCxHZRs67H2Ewh0LF32Ja-VtXA9e9PbZ_QOfBvd-APVpdG7ZzBFcB1PoMiOur1Eo2mxsuzgFWjDVirvm1_w7kv9FtdLkVrxrGt1Msg3aHfkJsy88cNR9p2Af0DsM~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240830/607f1f3d68754fd0d9de1a61a4442891ec5ad30a5fdd532543fb1423597dd13e7ae2704cae144e75_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "c0089706a921d51d0ndy2925GVJV",
+    "bossName": "任许诺",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e4927d39c2285f931H172dq8GVtX",
+    "expectId": 1030426395,
+    "jobName": "java",
+    "lid": "1fQQZ8jmKje.search.29",
+    "salaryDesc": "5-7K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "MyBatis",
+        "MySQL",
+        "接受居家办公"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "番禺区",
+    "businessDistrict": "石碁",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 29,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.391752,
+        "latitude": 23.008881
+    },
+    "encryptBrandId": "f7a188e795817d051Hd709m9EVE~",
+    "brandName": "嘻码科技(北京)",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240511/7bf6f160950405e9b2aaa7b4dc5121246c52ced6c359d58de7045fdde66f85901e016ca9092b1aad.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "加班补助",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

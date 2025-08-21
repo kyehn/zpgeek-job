@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "容城县",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240114/607f1f3d68754fd0ce31cc984d42418de5dffa25cd3c8da794ab7d79354a0905c805b9ad9802bb59_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "赵女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img2.bosszhipin.com/mcs/chatphoto/20151217/ed47e4e43fed0ea5a95e52394da20b19e95c39333ebe8e20c7b660d354714bbe.jpg",
+    "brandName": "越亮传奇",
+    "brandScaleName": "500-999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "雄安新区",
+    "city": 101090200,
+    "cityName": "保定",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fb551655c5046ea20HJ40tu0GFI~",
+    "encryptBrandId": "73e2b832af34c6b01n172NU~",
+    "encryptJobId": "e0bb4633c41f2e411HZ80ty1FVFR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.054986,
+        "longitude": 115.91109
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 49,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师（5号发薪双休六险一金）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3Js9s5a7Ljc.search.49",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "DLPJm2pixsKHG-e1Grmx3teAyqza_e9oULpDTjfLj4Ya7Yoc5j6j9igEvj_MeSlGCclywlyp0UHAMqnUxuZg2rClQ1vMEwzVLLoRMBIGYVxE7RDy0pN0vycD2wRGu3hQaOkRcb3XOg~~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "Redis",
+        "Docker",
+        "Nginx"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

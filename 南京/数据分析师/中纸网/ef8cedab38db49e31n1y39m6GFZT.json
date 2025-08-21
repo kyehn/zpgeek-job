@@ -1,0 +1,58 @@
+{
+    "securityId": "ZT2XSZ8dTG16v-G1Zhra4lTHcVKLQUEDCgsG3-qjI4d2e7mhaXLrdwbvM3KyeASFETu60Pnt0fScqmmemAoxdSAQRUemen5i2H6XA9iwY935UgciXw~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "e672ba9756b7684403B93NW9EVY~",
+    "bossName": "秦先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ef8cedab38db49e31n1y39m6GFZT",
+    "expectId": 0,
+    "jobName": "数据分析师",
+    "lid": "31JCOJRqlBk.search.113",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Excel"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "玄武区",
+    "businessDistrict": "珠江路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 113,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.798455,
+        "latitude": 32.056986
+    },
+    "encryptBrandId": "021284c16d24d21f1nJz2dm7Eg~~",
+    "brandName": "中纸网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210918/7bf6f160950405e9701f1c3b9adfd13bb2e86b0e7f5a23e1fd3b9dd02629f4437af097b88293d7cc.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "广告/公关/会展",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "餐补"
+    ],
+    "industry": 100101,
+    "contact": false,
+    "showTopPosition": false
+}

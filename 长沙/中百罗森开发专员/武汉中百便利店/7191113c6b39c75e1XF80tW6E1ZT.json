@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天心区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "吴女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "其他生活服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240309/7b5b554d84f9729c7b06b12fc96366aacce3463ebd251c2fc5e22f06db8af5caf8f4416349557655.jpg.webp",
+    "brandName": "武汉中百便利店",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "友谊路",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9b417827791880091XN829S0GVc~",
+    "encryptBrandId": "c24e013d58fbb97b1XR52dy5EA~~",
+    "encryptJobId": "7191113c6b39c75e1XF80tW6E1ZT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.123892,
+        "longitude": 112.988588
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101106,
+    "isShield": 0,
+    "itemId": 89,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "中百罗森开发专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "24gulCYOnuX.search.89",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "l8DJUyOONTyuf-91fIsu7kg30hzDt9Go-0qk5yqZvTuJjCjvCAnB3oqH_9Izy_7pYXmQExMOoLKdkAIqcvqmtMFIXx4q7G6QNs2sRsHXg7Esmo6p4IHhTYO_a4hovQU14tzCkxzI72pd",
+    "showTopPosition": false,
+    "skills": [
+        "零售",
+        "餐饮",
+        "选址开发经验",
+        "可适应出差"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

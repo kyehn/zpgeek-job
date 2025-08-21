@@ -1,0 +1,59 @@
+{
+    "securityId": "Dmh4sPNQ915My-h1B6D4KkJGoSgNCStCEvmcwpuxx8GPUh1rT14ihpzmvt2ixda9SeuJ5J30evTWnKkssYOn6DKTrej-i6EAJk1DpUFTsMoosF5ptFl2S8VIYUwX-OhcE5vsLf3KVOJoh8FfIUHmoCr17cQbSqm09L5mrHOOkpSTOmpbZw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240730/607f1f3d68754fd067cf5f28e9cbd6f685ba4773220fca45aa3134e57205afd14aa08009875501bd_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "a7c19ed179ff05080XB43t-5FFNQ",
+    "bossName": "谢女士",
+    "bossTitle": "招聘专员",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "92d3d9d35ae08d421Hxz2tW7EVRQ",
+    "expectId": 1014042683,
+    "jobName": "数据标注专员",
+    "lid": "19yrEHkR3qp.search.206",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据标注"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "江汉区",
+    "businessDistrict": "江汉路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 206,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.270763,
+        "latitude": 30.579927
+    },
+    "encryptBrandId": "7ac532be9b5c2cee1nJ62d-_GQ~~",
+    "brandName": "云网天下",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

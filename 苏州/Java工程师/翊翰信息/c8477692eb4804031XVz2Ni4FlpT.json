@@ -1,0 +1,63 @@
+{
+    "securityId": "oRpjxyuDnECFV-71NCegxeDblYHeN88JNFf3cA5_ciNqki7oqjgOIob7MBl_MKeKX2KeVCO5w2WxDTgITF2yqXUp4btMuj8WQKNw6I9We_vHlOYodQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220125/607f1f3d68754fd07c841e500b4ea165e2adf26af022ca874872e9353141abfa94bf89e53a0886ad_s.png",
+    "bossCert": 3,
+    "encryptBossId": "354fb466552d3c9a03B40tq1FA~~",
+    "bossName": "骆先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c8477692eb4804031XVz2Ni4FlpT",
+    "expectId": 0,
+    "jobName": "Java工程师",
+    "lid": "2984t6eUMQc.search.69",
+    "salaryDesc": "7-12K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "全栈工程师",
+        "Java",
+        "PostgreSQL",
+        "MySQL",
+        "SpringBoot",
+        "后端工程师"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "昆山市",
+    "businessDistrict": "玉山",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 69,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.891206,
+        "latitude": 31.403997
+    },
+    "encryptBrandId": "2660ba64a70d6b101XR82dy-ElU~",
+    "brandName": "翊翰信息",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220327/7bf6f160950405e9a3c00c8f67a1bc4c3020d82a073614844872e9353141abfa94bf89e53a0886ad.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "餐补"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

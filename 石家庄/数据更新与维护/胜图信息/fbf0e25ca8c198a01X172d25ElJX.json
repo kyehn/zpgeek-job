@@ -1,0 +1,63 @@
+{
+    "securityId": "3FFLVPbQupDSG-d1ktVuBiRcjmht8vfAn7u2qgL7HNt0aBOXXmRwpgyy0KCOAmALOdJRtj40wOs8-Vn5ShIppBwPD06sVbVw9TkKaQLKVkf8CALsuA2Tx3jgVpbk19hIGW4xYetiJdk1kEk~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230424/607f1f3d68754fd0d229018cfbb45b853de3b7eaf7a00f5b1e6185406a080828d565d5478873707f_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "771810936edd5d731nZ429m1GFBV",
+    "bossName": "任女士",
+    "bossTitle": "人事主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fbf0e25ca8c198a01X172d25ElJX",
+    "expectId": 1014042683,
+    "jobName": "数据更新与维护",
+    "lid": "3nzlZTWaozl.search.72",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "石家庄",
+    "areaDistrict": "桥西区",
+    "businessDistrict": "新石北路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 72,
+    "city": 101090100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.441434,
+        "latitude": 38.018384
+    },
+    "encryptBrandId": "99b7605a10aad8821nd73NW4EVE~",
+    "brandName": "胜图信息",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210724/6d8277713b05867b75cc142ba828b7a8e5e2fe160c72ddb6c77167a50b3e4ce8.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "大数据",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "员工旅游",
+        "意外险",
+        "定期体检",
+        "五险一金",
+        "节日福利",
+        "加班补助"
+    ],
+    "industry": 100005,
+    "contact": false,
+    "showTopPosition": false
+}

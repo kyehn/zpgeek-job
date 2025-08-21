@@ -1,0 +1,62 @@
+{
+    "securityId": "s6KPtYdKORjX0-q1t8Zbn2C3gFUjdF6wCugjyhRImH7x9ZPevwpB99OibYpRXkO0RMVKDXn4kXlC8yD4FFtCi9yA5SgTQFmyvFJLXXgwYFAjNL7p",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240710/607f1f3d68754fd0967d6dc39e5e247d1a1617bf923dc56fe71dedf9ec843a6823c974ccd7dad918_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "4f5f25e94f662cec1XRy0tS1EFU~",
+    "bossName": "刘女士",
+    "bossTitle": "人才经纪人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "74b2039e063e532a1HN709S9ElJU",
+    "expectId": 0,
+    "jobName": "K8S运维-南京",
+    "lid": "7xjXE18LeI9.search.280",
+    "salaryDesc": "8-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "桌面运维",
+        "Docker",
+        "计算机相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "鼓楼区",
+    "businessDistrict": "山西路",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        3
+    ],
+    "itemId": 280,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": null,
+    "encryptBrandId": "f1c8705fd4f0f0e51XR93t2-",
+    "brandName": "浩鲸科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b4a06a9d5f3f4c932534f72e84414d45cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "节日福利",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+    ],
+    "industry": 100024,
+    "contact": false,
+    "showTopPosition": false
+}

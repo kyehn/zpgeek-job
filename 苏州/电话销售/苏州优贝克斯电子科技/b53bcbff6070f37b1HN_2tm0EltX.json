@@ -1,0 +1,60 @@
+{
+    "securityId": "LzgPizaTQLIDt-k1SUxpOAdS8W6V9T5kUbZT60p_szZfPhEMjAhbo3zdAMmsbirHiedf5zXQOUPOwXil30Kct_Fnrq_y4mEn2LVWEjeUxHaDQVH8pem0",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "16dd047286a6f5660nZ93N-0GFdQ",
+    "bossName": "庄女士",
+    "bossTitle": "招聘",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b53bcbff6070f37b1HN_2tm0EltX",
+    "expectId": 0,
+    "jobName": "电话销售",
+    "lid": "2XnVZBJkVWV.search.257",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "沟通能力强",
+        "电话销售经验"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "虎丘区",
+    "businessDistrict": "狮山",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 257,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.564717,
+        "latitude": 31.28834
+    },
+    "encryptBrandId": "cb80d59202dfd1fa1nF929u9EVA~",
+    "brandName": "苏州优贝克斯电子科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210518/7fe4f78e7741c3361a2281e15dc2c0622696d486ea624327b4b4729c75bb16e0.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "定期体检",
+        "带薪年假"
+    ],
+    "industry": 100026,
+    "contact": false,
+    "showTopPosition": false
+}

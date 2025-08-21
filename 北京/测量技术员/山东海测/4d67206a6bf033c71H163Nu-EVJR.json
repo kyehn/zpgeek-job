@@ -1,0 +1,63 @@
+{
+    "securityId": "FPXHcjkhAd6rf-k1ohCjK0ZN3QMvkV4nTM-Ca7HQhLBmECiszvfpfLrv1FLWyyPg5TTFkvvb_6uV2E8tk-3Y4wVV-qQrJmNRcH8Nkvf61AVSCm1HMH1Ra964e5yxst6YTyoV8ddtY71Z3Dw~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230829/607f1f3d68754fd058b7f56983078731024837934e5f36de00dd05343bc2d5744f0bdf299c0e4714_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "279459cfd45e40620XV83N69E1BT",
+    "bossName": "党霞",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4d67206a6bf033c71H163Nu-EVJR",
+    "expectId": 1014042683,
+    "jobName": "测量技术员",
+    "lid": "2bqiOHHGKAY.search.176",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "ArcGIS",
+        "CASS",
+        "矢量数据处理",
+        "地理信息测量/测绘",
+        "内业处理"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "通州区",
+    "businessDistrict": "西集",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 176,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.876613,
+        "latitude": 39.816053
+    },
+    "encryptBrandId": "c6e9c81fe551919d1X1y0t68EVc~",
+    "brandName": "山东海测",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "工程施工",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "包住",
+        "包吃"
+    ],
+    "industry": 100702,
+    "contact": false,
+    "showTopPosition": false
+}

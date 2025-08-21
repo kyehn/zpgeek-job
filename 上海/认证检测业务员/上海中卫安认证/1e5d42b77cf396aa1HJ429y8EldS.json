@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "静安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "高级人事专员",
+    "brandIndustry": "检测/认证/知识产权",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "上海中卫安认证",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "延长路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1f58c931f810c1280nN83dm8FFZT",
+    "encryptBrandId": "4019b731c8ce7b3b1HR92N28FVs~",
+    "encryptJobId": "1e5d42b77cf396aa1HJ429y8EldS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.277647,
+        "longitude": 121.439957
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100609,
+    "isShield": 0,
+    "itemId": 64,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "认证/检测业务员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "64ETqU2ckfT.search.64",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "9jZ7K4WRNCfmH-j1XBZuYqOZ8QbWTpanVRiSNyxKMb3bym4Rx4_hIW6ymhBYhAvGfky1Xe4m9FYIJtZKSYqwQH01WytG1ehErozduo0rDsZ91JUHXf0WYyKB7qJ0vwqO-dDDItU2S2IRK5o~",
+    "showTopPosition": false,
+    "skills": [
+        "环境保护产品认证",
+        "有机产品认证",
+        "做六休一"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

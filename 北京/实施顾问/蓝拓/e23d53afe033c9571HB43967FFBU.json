@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170726/4d83d3e848630ec31e1ec6d6f36076aa59bfd9a019a820ae9dcc1145f7230aa8_s.jpg",
+    "bossCert": 3,
+    "bossName": "刘波",
+    "bossOnline": false,
+    "bossTitle": "总经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221025/7bf6f160950405e9d9352cf291df7781dbfaf41cac9238542de76de400a60403add6248202b59d5d.jpg",
+    "brandName": "蓝拓",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "苏州街",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6fe68c7865ccc67a1X1y2dq8FVU~",
+    "encryptBrandId": "3ae0e9634bec11ef1nd_2du_Flc~",
+    "encryptJobId": "e23d53afe033c9571HB43967FFBU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.981766,
+        "longitude": 116.308836
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 54,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "实施顾问",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4KnYpxGVzA1.search.54",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "tbB3yjndkiN6s-D1VKFxjn9x7Yb8iW0jOORtjHaGdX89bg5U0FYVgHDYcyMSX2daETOnspjL1PjKwI2NHPdX_eBEHngmMW0BIy37SpIAF0_v25iG3MSosv_8u8NLIcsxdHeQRcdDNbmRsQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "ERP"
+    ],
+    "welfareList": [
+        "全勤奖",
+        "节日福利",
+        "五险一金",
+        "团建聚餐"
+    ]
+}

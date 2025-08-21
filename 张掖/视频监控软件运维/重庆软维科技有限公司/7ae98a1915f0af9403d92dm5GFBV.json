@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "高台县",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210831/607f1f3d68754fd0396ca54ea5423f7f529b7d95eea324ffb758f6879fbcb3c22c9d47998240c403_s.png",
+    "bossCert": 3,
+    "bossName": "刘贡莉",
+    "bossOnline": true,
+    "bossTitle": "招聘",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180614/11091effef444a569bbbb25c3cfc1fcecfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "重庆软维科技有限公司",
+    "brandScaleName": "500-999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "高台汽车站",
+    "city": 101160700,
+    "cityName": "张掖",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "201598887ea5d8330nV62967GFNV",
+    "encryptBrandId": "6bda34b881fcd00c1HZ62tm7",
+    "encryptJobId": "7ae98a1915f0af9403d92dm5GFBV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.377373,
+        "longitude": 99.825189
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 55,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "视频监控软件运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7PEFArfsChl.search.55",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "9OLV5ZkUDJ6eI-U1Mc_-LRaC6_8uR2ZmkyWJECvUg1c8uAmBCil_F37jTBN-Tg92UmAJ3MFyK12KrPTMloE49fJFBUzyXlUIWIUiWX-c4UQflOPy2P6alZlW0Gj3xKseO9r8zf2E7NxG_6e_V1xWEQYNjlVNr0ASZ4gm1kpwF71O2rzk",
+    "showTopPosition": false,
+    "skills": [
+        "应用软件",
+        "视频监控软件",
+        "摄像头"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ]
+}

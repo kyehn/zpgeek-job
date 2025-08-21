@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "萧山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191218/b2f5c2db604a80c71c2f65aafd79db903064adf1034ed7233f26d684b2e3d7e4_s.png",
+    "bossCert": 3,
+    "bossName": "杜丽君",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "机电工程",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201224/932a14cc9b3ac7104fde02e3019df496d815447b592b4713d3105c93c82c08a6.jpg",
+    "brandName": "杰创智慧",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "北干",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "bcf5ef23a015e88e0H1z29-4E1o~",
+    "encryptBrandId": "1d8b88e339404f241nRz3NW9FFI~",
+    "encryptJobId": "271e57a3f77849521nx709y0GVJQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.183118,
+        "longitude": 120.246216
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100710,
+    "isShield": 0,
+    "itemId": 90,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8dvxXWeoa2e.search.90",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "0PyW2nr4uiIVv-c1Lqa9M55NAfaDpyl_pmJMs7WAtXexiZw5bqXns1cD741247zrK6eeHTm6Ud7_UQFYDkAaZ5MASTz4wov4moQFEwPaUiqY2g4bV0BOGKkpgGiLojVrDI1Ytlm3Q67_3A~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "系统测试",
+        "软件测试"
+    ],
+    "welfareList": [
+        "餐补",
+        "通讯补贴"
+    ]
+}

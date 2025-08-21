@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240528/607f1f3d68754fd051a595d2532e704fbdf5d432998502a50a9e247e5d49d139e1adfb51881d9550_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "邱女士",
+    "bossOnline": true,
+    "bossTitle": "招聘者hr",
+    "brandIndustry": "电气机械/器材",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "河北笛丞电气科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "461e06764325e2af0nB83dW0FVRT",
+    "encryptBrandId": "7e62e64becc82b5c03R70tq_F1s~",
+    "encryptJobId": "6bbcf0c9c5c998d703B729u1FFRX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.925805,
+        "longitude": 116.461061
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100908,
+    "isShield": 0,
+    "itemId": 3,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "Java",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8gbmf9uuUCa.search.3",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "i9Finj-OxwqjI-l1r2U3MBR0Q1bHg1vNhFLPvltQ-fsD5L91LQ5Q_tEAB9A8Tr4ckDcIU5qZQbcI2pBir_hQ6ZkFbmb4xC09_PX4U42ujCUrolhNJhXrCaKz2Xf6yNqw1zlcLTsj2tfs4HUOHaVJSDbumMjje4eFtTXwf3ez-NA2vcq6sjE~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "MySQL"
+    ],
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "底薪加提成"
+    ]
+}

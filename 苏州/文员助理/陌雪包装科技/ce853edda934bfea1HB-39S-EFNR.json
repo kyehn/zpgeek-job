@@ -1,0 +1,61 @@
+{
+    "securityId": "Rztisp68tiOaJ-e1U0qfp1NIAxgDZeLauY5JD97NBhhaLbwo7lyGZU-s6glCWE9mvuWXB64ahBnkIAh47WA6lqjgMxoF93o6qTIn70FQtNCxtgQisKT9",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221213/607f1f3d68754fd013b580e803d3d8dcfb17fefa5829212111a9d547d33bb33d47c3b7a8f621ed50_s.png",
+    "bossCert": 3,
+    "encryptBossId": "26a6fcf11f372a1c0nN72d26FlZX",
+    "bossName": "郭先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ce853edda934bfea1HB-39S-EFNR",
+    "expectId": 0,
+    "jobName": "文员助理",
+    "lid": "3452REajjzR.search.284",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "包装/印刷"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "吴中区",
+    "businessDistrict": "甪直",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 284,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.834273,
+        "latitude": 31.272737
+    },
+    "encryptBrandId": "d35a0f13cc10b5ae1XB43tS9EVI~",
+    "brandName": "陌雪包装科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "印刷/包装/造纸",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "工龄奖",
+        "节假日加班费",
+        "包吃",
+        "全勤奖"
+    ],
+    "industry": 100904,
+    "contact": false,
+    "showTopPosition": false
+}

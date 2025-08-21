@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "双流区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_12.png",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "环保",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191129/dbfa98fe64305e8f32d83f11359e1d949c520754adaa9d627c09694682b61f54.jpg",
+    "brandName": "中科海慧环境科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "新兴",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7516dbfe4704f41b0XZ42tq-E1A~",
+    "encryptBrandId": "bc7810a86bcfa8350XN53N-7EQ~~",
+    "encryptJobId": "91185053099d43881Xx53Nu0ElVX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.534577,
+        "longitude": 104.166398
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101207,
+    "isShield": 0,
+    "itemId": 43,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "环保运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2uPKepN7ZjB.search.43",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "yizzhCECD3_y7-i1HCMTNzGw_FaYMoqAYf9Hzxaw9Um4NTMKACPEfqLXxy1IeXkybWQYklxmiGJMkV9aXnVLBVZ8xy9dWfbzGUPIUlUQZQ3Y_sTLkOjFunZUEmFqpx--4mkR36T_4it-",
+    "showTopPosition": false,
+    "skills": [
+        "运维经验"
+    ],
+    "welfareList": [
+        "员工旅游",
+        "带薪年假",
+        "团建聚餐"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240222/607f1f3d68754fd01d4bd4d06b8b792b8d9d7dc10072a44747865f9b2669874ddd0c6b8b88195826_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "董先生",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "农/林/牧/渔",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230811/7b5b554d84f9729cb09ee56a3428dfb237183655f85d5f0547865f9b2669874ddd0c6b8b88195826.jpg.webp",
+    "brandName": "大洋世家优品公司",
+    "brandScaleName": "500-999人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101211100,
+    "cityName": "舟山",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d64d9c907836a28733d63t21FFo~",
+    "encryptBrandId": "afb57cfb77adc4111XJ83du_EVE~",
+    "encryptJobId": "1a6c869f50d9ecf91Hx929W5EFdQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.109709,
+        "longitude": 122.161084
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101303,
+    "isShield": 0,
+    "itemId": 56,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "系统运维开发管理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "sPIvH76IrB.search.56",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K·13薪",
+    "securityId": "BJrziqPJCdt64-u16G8F7lC1edF_JpSffWx-ocp_Fwoqu8UR34R6o9EUyPqkup-xdcd8D7ezcwuvMtEyjQ58ClEa8tWsxELoQGVP1H_1GyOt9KQHUl5CaH6rrp2Bl3V2wRgXhm_QMNQKFg~~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维",
+        "系统运维"
+    ],
+    "welfareList": [
+        "包住",
+        "包吃"
+    ]
+}

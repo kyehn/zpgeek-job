@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201119/2b91cd54f6ce0b9d36c6a60de0f43a602f704137e1ff1f7b8414b9dc5879b3d3_s.jpg",
+    "bossCert": 3,
+    "bossName": "何先生",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "游戏",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "宁波大汇堂",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4516d3fdf2b178c40n143Ni4Fw~~",
+    "encryptBrandId": "f58fbd3e6619fc431HNy0t25Eg~~",
+    "encryptJobId": "7a2a14edc743b21b1HJ52Nu0FFY~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.19053,
+        "longitude": 120.204
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100002,
+    "isShield": 0,
+    "itemId": 85,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "棋牌游戏测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7PI0U9NC9ds.search.85",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "lZ-izQL87yzvd-e1_icllokKCiAzKTdkxOnXGlUy0K5HLeCz68FLW5DXaQ0p_YGTpUlKcdVfABWcB3a09oLVNIyBwvqgoEBIcVKjmSWR5SCxT6iYOFgisau7Fg1Lw8b8BQ5907itCA~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "游戏测试",
+        "性能测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

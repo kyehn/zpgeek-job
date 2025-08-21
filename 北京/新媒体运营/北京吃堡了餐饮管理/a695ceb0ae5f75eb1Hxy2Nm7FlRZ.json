@@ -1,0 +1,61 @@
+{
+    "securityId": "51i6I8ilubyEt-w1_N0-UIuBx9tUfxqKbAXkpm283SO3i81thao7HxLZzMwivdKDKcxB-CDggtIU2PR5NR3G-b29M2XmamWpSYSK4JUHAgSwMmY-q-vXd7_0TO9khCBanrPFBxoN9om1ug~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230524/607f1f3d68754fd0ff76139c9a1600f70ad1317f93b237e65ce63294cf1901174eeaa36d0bccbe41_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "dce7f4544fd7b1250XRz3d29EFY~",
+    "bossName": "贾先生",
+    "bossTitle": "Human Capital Manager",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a695ceb0ae5f75eb1Hxy2Nm7FlRZ",
+    "expectId": 1014042683,
+    "jobName": "新媒体运营",
+    "lid": "2bd9CvlOKF4.search.207",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "小红书"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "望京",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 207,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.480073,
+        "latitude": 39.99735
+    },
+    "encryptBrandId": "e2e833cb5fcee8d41XN82tW8EVs~",
+    "brandName": "北京吃堡了餐饮管理",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240924/7b5b554d84f9729c35d2c0fb46c536f8df17e5ff2b71e7a65ce63294cf1901174eeaa36d0bccbe41.jpg.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "餐饮",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "全勤奖",
+        "五险一金",
+        "保底工资",
+        "意外险"
+    ],
+    "industry": 101101,
+    "contact": false,
+    "showTopPosition": false
+}

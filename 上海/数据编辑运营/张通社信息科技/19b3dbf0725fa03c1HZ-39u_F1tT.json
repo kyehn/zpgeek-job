@@ -1,0 +1,63 @@
+{
+    "securityId": "QcSn_3KJgVjoC-i1mph-26jIGURUi90zteRfPvO-6P_uZue7HQFNT3bUW5m-7uHCFhiS0uJrevhYDraNuA5n4KWcKIW7JogvS81W0BDtA3iB0edkznR_wZuwefU47u5Yh4ulheoM5kW1HKpqUe8jgT8~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171026/d01cb5cd69dd5ae3380ed5eaa6f7e862bda8cba317e9ae7b91fe6b8b1dbf099a_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "d947538bdcb84ea51HZ60tS5EFU~",
+    "bossName": "何女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "19b3dbf0725fa03c1HZ-39u_F1tT",
+    "expectId": 0,
+    "jobName": "数据编辑运营",
+    "lid": "2uQqj0piF5l.search.143",
+    "salaryDesc": "7-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "张江",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 143,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.608651,
+        "latitude": 31.181606
+    },
+    "encryptBrandId": "7cbec96430a6ebdd1nR82dS7GVQ~",
+    "brandName": "张通社信息科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200805/aa132dbd9fd7dd9a39d3490d1a8b446ceafbd434d0aad77a8f701bba3f1cb7a9_s.jpg",
+    "brandStageName": "天使轮",
+    "brandIndustry": "企业服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "股票期权",
+        "定期体检",
+        "加班补助",
+        "带薪年假",
+        "绩效奖金",
+        "五险一金"
+    ],
+    "industry": 100015,
+    "contact": false,
+    "showTopPosition": false
+}

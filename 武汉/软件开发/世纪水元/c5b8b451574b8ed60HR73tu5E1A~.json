@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江夏区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "韩女士",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "电力/热力/燃气/水利",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20200317/803268f56a83f77f81d904e07c4ecbe5be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+    "brandName": "世纪水元",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "关山",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e776505574a7b53833R_09i4E1s~",
+    "encryptBrandId": "2b29c34ee7b614741Xd82tm7Eg~~",
+    "encryptJobId": "c5b8b451574b8ed60HR73tu5E1A~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.457982,
+        "longitude": 114.410564
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101205,
+    "isShield": 0,
+    "itemId": 32,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "软件开发",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3Q2GqikNCaH.search.32",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K",
+    "securityId": "9titIW7NHxuyN-01X2qZQEpzQZeuyuiSMZ4Uou3ESJw1GzG0IZQ-fTt5M9q8aLbljIpNCQMF_tIdReATRxes1GWhrXLVS2xK_NHIMry6VjbXY2NgxSvZtU5iQKTWG9XCSnMa9brcJxI~",
+    "showTopPosition": false,
+    "skills": [
+        "图形图像处理"
+    ],
+    "welfareList": [
+        "员工旅游",
+        "节日福利",
+        "五险一金",
+        "年终奖"
+    ]
+}

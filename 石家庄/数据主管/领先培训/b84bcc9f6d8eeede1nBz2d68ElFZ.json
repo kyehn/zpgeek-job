@@ -1,0 +1,59 @@
+{
+    "securityId": "gkFHmQuN_1dwH-w13vn9fWfjdrCfS-l3Nn2NI6owAkmV1dvR6LhGqrr_ATua-Kv9J88pQORNIEmsxldGUBR_Np-f6N8R65zWpNHZX9WphZ6lSIuTl5ZKxUQtYtOh-XVnhzQTP4DZ_0EBMw~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "289b1219f66806801nR-29--GFNR",
+    "bossName": "狄新雅",
+    "bossTitle": "人资主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b84bcc9f6d8eeede1nBz2d68ElFZ",
+    "expectId": 1014042683,
+    "jobName": "数据主管",
+    "lid": "3nzlZTWaozl.search.168",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "crm"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "石家庄",
+    "areaDistrict": "桥西区",
+    "businessDistrict": "新石",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 168,
+    "city": 101090100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.470051,
+        "latitude": 37.990632
+    },
+    "encryptBrandId": "9bf68c282893ff5f0Xd43du0GA~~",
+    "brandName": "领先培训",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

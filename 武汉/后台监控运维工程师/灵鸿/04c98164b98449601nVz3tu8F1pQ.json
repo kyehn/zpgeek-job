@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "熊珂",
+    "bossOnline": false,
+    "bossTitle": "行政",
+    "brandIndustry": "工程施工",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200521/a60a117db2157fec9a47940a12d09e8fb69f824d41c929f2f56917908e2e1cdd_s.jpg",
+    "brandName": "灵鸿",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "黄家湖大学城",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "08aabf0e37a7f44f1Hd82NW6EFA~",
+    "encryptBrandId": "306de8e2f79847ee0Xd929W1EQ~~",
+    "encryptJobId": "04c98164b98449601nVz3tu8F1pQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.455082,
+        "longitude": 114.319881
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100702,
+    "isShield": 0,
+    "itemId": 39,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "后台监控运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d4OtBU04tT.search.39",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K·13薪",
+    "securityId": "5plTRLziQL8o1-H1X8aSyfXJaBUC-151-PLALHPOsNYwqrLUPU4q4oLE7C-aQ9ayIpdOuyI2KtETc_6bBX05GehitQH4ziFa9osh0MhfRAYbmdN6y_LT1PQTT1wBqnDJgfq2Gh_1xPUt",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "网络设备",
+        "Zabbix"
+    ],
+    "welfareList": [
+        "年终奖"
+    ]
+}

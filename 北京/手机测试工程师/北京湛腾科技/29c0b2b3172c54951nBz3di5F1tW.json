@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250514/607f1f3d68754fd0f49f3e75cb3c3d202063705f23e913114b1cfbf2c2e8c375ed17763f8c36c77c_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/50139ad459d4c5dd363182fe891a3da6cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "北京湛腾科技",
+    "brandScaleName": "500-999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "清河",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ec17fe05704e251a0nVy3tm-E1pT",
+    "encryptBrandId": "830973d7d345e15a1nRy2tu4",
+    "encryptJobId": "29c0b2b3172c54951nBz3di5F1tW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.047774,
+        "longitude": 116.317628
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 75,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "手机测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8kkm0t4aQ5k.search.75",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "I80MUZ1FTnGrY-n12nemL68bCdt7e9Uty2vsOgiE9soWF2ZuWr4Q0LiS0pyWwpZegRTThVjQ1Ktphe3KZKX_ho8irrdzNbwK6R0QqDMBrwF_SUc24DWwVbHTHCbCPpuyGZDEVrIOHC5x",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试"
+    ],
+    "welfareList": [
+        "加班补助",
+        "五险一金",
+        "节日福利",
+        "带薪年假"
+    ]
+}

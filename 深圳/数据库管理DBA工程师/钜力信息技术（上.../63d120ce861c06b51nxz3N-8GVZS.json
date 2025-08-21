@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "福田区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "陈瑜",
+    "bossOnline": false,
+    "bossTitle": "行政主管",
+    "brandIndustry": "信息安全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180914/8f9ad4b0a839beb3d1a54c8fa9fb52e13c7833f94f228c863ea146fe5618e01a.jpg",
+    "brandName": "钜力信息技术（上...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "新洲",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a17f2d1164ffae510nV-3du7FFo~",
+    "encryptBrandId": "1ba37a184d58823d1XN_2dS1Fg~~",
+    "encryptJobId": "63d120ce861c06b51nxz3N-8GVZS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.521024,
+        "longitude": 114.053095
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100016,
+    "isShield": 0,
+    "itemId": 59,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "数据库管理DBA工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7MlyFin8qKj.search.59",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K·13薪",
+    "securityId": "CMuIM3HZ0nlBX-s1DWRC_bbTvcEgkr-rKikG5AtY2m9pYpV6P2to_8xVgeUZhxHcFLdW8PsipZjzB0_8nxa5MxKaJccOChnD4uF5x178GSaqtL44oF1hh8j2pCmthou4MKJPbOme4cD7",
+    "showTopPosition": false,
+    "skills": [
+        "SQL"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

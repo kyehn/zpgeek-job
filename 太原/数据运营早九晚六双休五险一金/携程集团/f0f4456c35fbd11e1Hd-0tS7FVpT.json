@@ -1,0 +1,73 @@
+{
+    "securityId": "iW6KAv19zRsWu-B1pgwG8Rbej0GlYMQJb9kaDnVuaCCK9xzyVUv-vMthiUXx1GjDubtQfnb55r3fxZYjDiyxfTE4bWa81ArqaStinBYCDE8LD7WzVGgzdmAvmI-VhpwBWwJKyDQHlXOQFmc~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "54796649b1bcf86f0nR50tq-FVNQ",
+    "bossName": "张先生",
+    "bossTitle": "人才经纪人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f0f4456c35fbd11e1Hd-0tS7FVpT",
+    "expectId": 1030426395,
+    "jobName": "数据运营（早九晚六）双休五险一金",
+    "lid": "Mg6DwLeGwr.search.262",
+    "salaryDesc": "5-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "活动运营",
+        "电商运营",
+        "数据运营",
+        "早九晚六",
+        "入职五险一金",
+        "每周双休"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "太原",
+    "areaDistrict": "小店区",
+    "businessDistrict": "学府街",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        3
+    ],
+    "itemId": 262,
+    "city": 101100100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.546544,
+        "latitude": 37.795007
+    },
+    "encryptBrandId": "ef2ede3e92bf51f91nV72966ElM~",
+    "brandName": "携程集团",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220518/7bf6f160950405e9d414589b770d05b60f3346e5dcc71fc14e5f10961250af4f5fda1bc9a28e11f6.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "互联网",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "节日福利",
+        "定期体检",
+        "股票期权",
+        "混合办公",
+        "员工旅游",
+        "年终奖",
+        "补充医疗保险",
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

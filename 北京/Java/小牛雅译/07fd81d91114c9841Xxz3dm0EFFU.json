@@ -1,0 +1,63 @@
+{
+    "securityId": "r6RlfLlWaumui-F1C2FDOapETBV4Xw46RgWhYQVKawoLOOMxkRlTzosszwAI5rclInYTEy2Yne_Rg5c1Qaj2NdEp5aDCyXb2pBM5LdEx6sOU97WmG5P74thHih-qV_ui3tivXAew2C-avQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230610/607f1f3d68754fd0632122331a6f2276c137c341a610e00753f4e049eab74b03e06bf8609dfbe8d1_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "7e9cc456461e51a00XR73N68FFpR",
+    "bossName": "战女士",
+    "bossTitle": "项目经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "07fd81d91114c9841Xxz3dm0EFFU",
+    "expectId": 1014042683,
+    "jobName": "Java",
+    "lid": "1bJh58MJOmg.search.40",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "后端工程师",
+        "Java"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "知春路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 40,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.348692,
+        "latitude": 39.975845
+    },
+    "encryptBrandId": "b24bd2e10f32bd130HJ-39m_Fg~~",
+    "brandName": "小牛雅译",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200328/b7161453ac67fa5da6631145772e25568e581a315646a664c00f9275e73130e2_s.jpg",
+    "brandStageName": "A轮",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "员工旅游",
+        "年终奖",
+        "节日福利",
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

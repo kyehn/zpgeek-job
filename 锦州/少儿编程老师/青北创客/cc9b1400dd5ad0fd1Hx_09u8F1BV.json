@@ -1,0 +1,62 @@
+{
+    "securityId": "D6Sgc0xXNGOMe-v1F02Dg_wy96_yE3R8AENFQ9LVCVjsxrLuEM-4a1HwyHbAthlHUKWIJc9w1TkNRMrce2RnXqF0GKFHyecjcazx3vERVn6EsZvkD5apKfuY4Em1r8WBwYNgunZKRKi_",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160921/50bae0c17cbcb4c24fd8798d0cbb38208c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "dd30d40e4fe9c52b1n153t68FVI~",
+    "bossName": "曹阳",
+    "bossTitle": "运行总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "cc9b1400dd5ad0fd1Hx_09u8F1BV",
+    "expectId": 1014042683,
+    "jobName": "少儿编程老师",
+    "lid": "2WK23XVPqKc.search.215",
+    "salaryDesc": "2-4K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机专业 python"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "锦州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 215,
+    "city": 101070700,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.786298,
+        "latitude": 41.591331
+    },
+    "encryptBrandId": "c274eb9e961e19240XN40tW_Fw~~",
+    "brandName": "青北创客",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191128/fe463b2423e91e84eb4d39180d0343d1b08c822ebd503095b5914a5b5c42f264.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "员工旅游",
+        "节日福利",
+        "年终奖",
+        "带薪年假",
+        "全勤奖"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

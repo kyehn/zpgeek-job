@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "雁塔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231129/607f1f3d68754fd089131f0f4c322171cc67158afb55a003644ccec71c592181ca6ce4b2a440e819_s.png.webp",
+    "bossCert": 3,
+    "bossName": "唐学彬",
+    "bossOnline": true,
+    "bossTitle": "高级招聘顾问",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221123/7bf6f160950405e9c7ffb82e0e747f0e2349dac54f465550c957b6fe7f93111dae445eda0e517801.jpg",
+    "brandName": "易诚高科",
+    "brandScaleName": "500-999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "鱼化寨",
+    "city": 101110100,
+    "cityName": "西安",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "abc7c02855fec44a1nVz3Nu0GFFV",
+    "encryptBrandId": "00c4db64f5796e7d33N52d-1GQ~~",
+    "encryptJobId": "20e1662481eabb3f03F639W9GVRQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.206926,
+        "longitude": 108.836045
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 33,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "多媒体测试员-手机-双休",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4ocPl1Gj0ZM.search.33",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "gvZkTickTOoBc-o1ru9b7sU_3YY4XYsA22JBY3WqQ-C34TyE_Ecf8ClR_-H3iVdDBkt6n6KbWlDwtRq3ozNHyQXQI2QzZd9d7Zvd-gr-maYzLw2AsP9cKg894hWluUyCKpcvBfqbXXSarYYPH81i1_IdZaBXDw0V8IDHw1dc9a6NaJV8wg~~",
+    "showTopPosition": false,
+    "skills": [
+        "多媒体测试"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "加班补助"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210902/607f1f3d68754fd0b1f694a1094cf15a726eb7dc4af693a0e492ae36bf5f5fff5461c8914861348d_s.jpg",
+    "bossCert": 3,
+    "bossName": "刁女士",
+    "bossOnline": true,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "中电金信",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "B轮",
+    "businessDistrict": "皂君庙",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6c0e03287e81b2570nZ92tW1E1dS",
+    "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+    "encryptJobId": "3bf0644f6f05d6321HJ-2dW-GVNY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.965724,
+        "longitude": 116.340725
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 38,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "app测试-大连",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4JKdYYxrBes.search.38",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "3fZznwXNcQqtr-n1asWYmNiDkZ17c8uaA8pmv-7CyWYtmruDI_0izm8671jS0dcnE9zv0YaCH7Kobye4lDUAahj8M5IxZ4W1JpcFtkJHtcd7i1cK-OPpISt22NQ9TgqkGFclsbz-J8aYGSoIbPKLu1m80n-ZrX8wEoI58XZtlema1feqgXY~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试"
+    ],
+    "welfareList": [
+        "节日福利",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

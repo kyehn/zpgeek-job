@@ -1,0 +1,61 @@
+{
+    "securityId": "w7yHGCvXsWkKK-V1rOQc4x1XZjXN8udl6-AM6Wu1ecZcLLsHFiMNqdAGKP54ZTqKopeJ_UncKitIzv1wdBWSGjRIl00eSwTA-03DGE6eNrpBm04uRgB30war-uEMVSTySzHFifxsQs4rlzc~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241012/607f1f3d68754fd0080232d6cd4e176089b999e4ce2570d7a3c288c885032f06e0deb83f6deb36e9_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "c03bbf7fd8d4dd100XRy09-8FVNU",
+    "bossName": "万女士",
+    "bossTitle": "招聘总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "18ecd8d899f5c3d21Hx92tS-F1NV",
+    "expectId": 1014042683,
+    "jobName": "装配工程师（调试方向）",
+    "lid": "2bktRUCW7G9.search.79",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "PLC程序调试",
+        "电子类产品调试",
+        "万用表",
+        "示波器"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "昌平区",
+    "businessDistrict": "沙河",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 79,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.28196,
+        "latitude": 40.148897
+    },
+    "encryptBrandId": "20cfce5e78257b991Hd82tu-F1c~",
+    "brandName": "鼎熠服务有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

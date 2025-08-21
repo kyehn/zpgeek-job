@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "汉南区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201008/d7b7f16f03f6ac71d16cac6402133aec40c2d0a231ea9687ea8c0f6a5e298a5c_s.jpg",
+    "bossCert": 3,
+    "bossName": "谢先生",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160816/917a7e3f83f23d5b06263ca75e8bec9b8495ae27db03c4e08e9faa0a4ce463e5.jpg",
+    "brandName": "天正高科",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "汉南区中心城区",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "979959064ea4c0ac0nR43tm9F1FV",
+    "encryptBrandId": "6b222b9cd9a29e3d1HB829y7",
+    "encryptJobId": "353d5bc6b1036ccc1nR70tm-GVVV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.333362,
+        "longitude": 114.085141
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 54,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d1ST6Alb3O.search.54",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "ljOD9luY5O8OV-31gWQZRyP2tuXxnea_8GotFpF6-ruR_dVTvmGbyQuBYlx8nZVu8wI1oaE_xle1TQ6ehOTEK1ZxhIZ08SkHtlwkc0F-gv9ilqHavzZbXtCyHuZ6zDCuRHxCyUmmy1NM",
+    "showTopPosition": false,
+    "skills": [
+        "web端测试"
+    ],
+    "welfareList": [
+        "年终奖",
+        "加班补助",
+        "全勤奖",
+        "股票期权"
+    ]
+}

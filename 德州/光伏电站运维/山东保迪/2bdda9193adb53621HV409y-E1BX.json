@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "德城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220525/607f1f3d68754fd02471fc3fc993aecf5f438b730f7cfb0f813017d628f1de803fc2c95ee9676b39_s.png",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "人力资源部",
+    "brandIndustry": "储能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "山东保迪",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "中心广场",
+    "city": 101120400,
+    "cityName": "德州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1b70fd094fc6337a0nV_09-1F1tZ",
+    "encryptBrandId": "c7c372334859cf821nV83d67E1o~",
+    "encryptJobId": "2bdda9193adb53621HV409y-E1BX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 37.453126,
+        "longitude": 116.312683
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101209,
+    "isShield": 0,
+    "itemId": 227,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "光伏电站运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5cpFdZdW1T2.search.227",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "YAFhzzPAS5elJ-c1StMeftxSaa-zZTHj6vdU5zgCw5-sZ2ayKBXEMtPLYmoai7vxor-BMIGkmuF_r6gzE7TZgjJwb54A_cZu4Im85r5Nr7-PQ6Yemu_TQW2zIEGAHARxio-aF2fMnqcwI8w~",
+    "showTopPosition": false,
+    "skills": [
+        "电子/电气/自动化相关专业"
+    ],
+    "welfareList": [
+        "五险一金",
+        "餐补",
+        "交通补助",
+        "节日福利"
+    ]
+}

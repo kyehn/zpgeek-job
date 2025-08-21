@@ -1,0 +1,78 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "秦女士",
+    "bossOnline": false,
+    "bossTitle": "校招HR",
+    "brandIndustry": "生活服务(O2O)",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221215/7bf6f160950405e9b708a65f8d8e4b7f7a59c09ad80309c2d9f75fb95824e8a8a42e8932ab8f5039.jpg",
+    "brandName": "饿了么",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5010896486651cfe1nV42t69EVZW",
+    "encryptBrandId": "12e92393bff967950HNy3w~~",
+    "encryptJobId": "d4686e687c31b3b303Z-09S7FlNT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.232548,
+        "longitude": 121.381728
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 100007,
+    "isShield": 0,
+    "itemId": 14,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "客户端开发工程师-iOS/Androi…",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3kH1IJdQL00.search.14",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "7PY9gWjsohZBN-j1S58nhFo3VZdMo49bwtbrDeCI-sTDa88DLalXe9GjaNWuGQHnw900FWhxeW0-ApHluN_DjT41d5goq4qzm9nwjFALlu5cVDA9P7NC6DiPgLHzhKS3jA-5Gvj0xQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "公司团建",
+        "定期体检",
+        "零食下午茶",
+        "补充医疗保险",
+        "员工旅游",
+        "五险一金",
+        "包吃",
+        "通讯补贴",
+        "股票期权",
+        "节日福利",
+        "交通补助",
+        "年终奖",
+        "餐补",
+        "免费班车"
+    ]
+}

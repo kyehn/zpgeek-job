@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "萧山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "bossName": "胡杨",
+    "bossOnline": false,
+    "bossTitle": "hr",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201201/3b5e2fef709e9f05f584f0b7cd10e4125636b79cf30f032ef7e76fdf332b2f56_s.jpg",
+    "brandName": "新芮信息",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "北干",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "948cbe1034b5a3d903N70tu4ElQ~",
+    "encryptBrandId": "8089e8e419c255c31nd72t61E1o~",
+    "encryptJobId": "3e9873f34f6e35a71nV52Nu4EVdS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.20317,
+        "longitude": 120.247506
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 89,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "技术支持实习生",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8bSM7Ggin1O.search.89",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "cGidibHBsZPzQ-41GBQhiBN3AlhrY9yULslKj-oLQ0y4JZ8PZ2zysi4lVlS_oaKpitdoSOrzgk-imy1dgKnZNBRScABGiQ_ybL5zusTPA1fd0WQMzJUP60c_sI8XWcVzrxx_lMemBVvoBg~~",
+    "showTopPosition": false,
+    "skills": [
+        "IT技术支持",
+        "运维开发",
+        "售前支持",
+        "售后支持"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

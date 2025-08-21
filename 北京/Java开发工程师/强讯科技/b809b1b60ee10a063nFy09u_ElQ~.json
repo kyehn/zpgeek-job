@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181106/bd6b5a02223476c3391abb5365b083f3cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "bossName": "蔡女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171218/fd3f6be8d2fc98c363e8fe6f2aef5a7fcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "强讯科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "马甸",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5f015c2321aaabcc1HF739q_GVA~",
+    "encryptBrandId": "dab9b97da635c4621nd43dy-FA~~",
+    "encryptJobId": "b809b1b60ee10a063nFy09u_ElQ~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.971529,
+        "longitude": 116.382882
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 159,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5KFRwOUwNbR.search.159",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "5QKh9UWGtNszS-d1mvFPMNnO-6y0UXzwQfZlvKNTZX3mOsHpRFn0Iv0WhS8354ktGOLZNtI4DajiW952RninJGQl03jVCNISBm2SUhvidFjOiRci-FIAyxuN2WDuKhyh2IQQDeCbDnA~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "HTML",
+        "CSS"
+    ],
+    "welfareList": [
+        "五险一金",
+        "餐补"
+    ]
+}

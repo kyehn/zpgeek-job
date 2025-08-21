@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220408/607f1f3d68754fd05ac2a4cd0b1fac56463cbc3c7af8a9babd1fbe96ee60b328021173ace92fae84_s.jpg",
+    "bossCert": 3,
+    "bossName": "周女士",
+    "bossOnline": false,
+    "bossTitle": "HR.招聘专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "柯莱特集团",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "上地",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fa512babd23cee770nR43NW-FVBU",
+    "encryptBrandId": "879cece58f6a7e7d1XR929W0",
+    "encryptJobId": "b1753308b02908ce03d-3di-GFNR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.048157,
+        "longitude": 116.317429
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 99,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "APP移动端功能测试（双休+小米）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3pVHe550ROd.search.99",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-13K",
+    "securityId": "EmLSt8E14YxWm-i1HUge_adTecVXHeAxTHE7s70FckpELALFIjMG_lo66kO7bYdupv3wuykBQf08jnwdWdVNrIqGIV8Fpa8pqAP7vJFI_4NErX_fLqvT_-GFVzaUI-QwRyavI4NnBnye",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金",
+        "交通补助",
+        "节日福利"
+    ]
+}

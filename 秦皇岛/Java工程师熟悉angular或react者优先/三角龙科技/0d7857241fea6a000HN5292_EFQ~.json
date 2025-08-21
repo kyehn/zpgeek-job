@@ -1,0 +1,62 @@
+{
+    "securityId": "5yryv3Fg7MzaT-B1plz4RCJFTpa8j2L-N5v8CFv12-LPjX3xXx7EbPbbUNWgh4d3r8TEYV1TRuBI46_zfOiHUHpwHVW70TK5B29qhM--ai3BiQ~~",
+    "bossAvatar": "https://img2.bosszhipin.com/mcs/useravatar/20160107/bfbdc83d9803a47730f5d118b7dbf6578c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "88a601424e4dc31f03N72N21GA~~",
+    "bossName": "张先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "0d7857241fea6a000HN5292_EFQ~",
+    "expectId": 0,
+    "jobName": "Java工程师（熟悉angular或react者优先）",
+    "lid": "5NpyLffYB7T.search.138",
+    "salaryDesc": "4-8K·18薪",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "秦皇岛",
+    "areaDistrict": "海港区",
+    "businessDistrict": "开发区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 138,
+    "city": 101091100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 119.4738,
+        "latitude": 39.92763
+    },
+    "encryptBrandId": "78a441d82a5a25441HB83Ni-",
+    "brandName": "三角龙科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160816/748228c2ede28e621c09babda23d419ed043479f5c65b5f90115400e69323be2.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "移动互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "节日福利",
+        "五险一金",
+        "员工旅游",
+        "加班补助"
+    ],
+    "industry": 100019,
+    "contact": false,
+    "showTopPosition": false
+}

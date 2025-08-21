@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "姑苏区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "朱女士",
+    "bossOnline": false,
+    "bossTitle": "文员",
+    "brandIndustry": "自动化设备",
+    "brandLogo": "https://c-res.zhipin.com/jrs/64eb121cfc4f36b46c64222cd2b535b3.jpg",
+    "brandName": "TETE",
+    "brandScaleName": "500-999人",
+    "brandStageName": "A轮",
+    "businessDistrict": "西园",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2e5bbc4b292f09f90nZz3Nq1FVRV",
+    "encryptBrandId": "70388453d412a6c81n142N-0E1I~",
+    "encryptJobId": "39741170c09cf3de1nF42dq4EFZX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.321475,
+        "longitude": 120.573505
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100914,
+    "isShield": 0,
+    "itemId": 26,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rn5CJX42aH.search.26",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "HI47QG3KL6YjX-c1P9xiV7Fo4XFtsa9T97zB-q57m4OZ5jPSsZ-W-yZTKyYuUJfEk3oYzZestEXe-4pIUKZNwE0n-dRNHXVXS2zVM-fqM34f9tdt_azYAMjjAHlk066L9sYTnXgi2R_1z1E~",
+    "showTopPosition": false,
+    "skills": [
+        "SQL"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

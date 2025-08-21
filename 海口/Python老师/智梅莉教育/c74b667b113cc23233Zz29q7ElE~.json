@@ -1,0 +1,60 @@
+{
+    "securityId": "7FtaQAlXBRL9g-k1fqQRKi7W2lucIK0Z51o82ndwYUjUrtPm5ZcjvzfresJ2HLdwFJNP1nmxZvroIm3mBPZyLHouD1m7Pi6moMbC3XdbNDBNPqQnTxkxGs_TyuO4yAxbMPk27eSuycg~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210604/7a6ec911e790765d8c4940075d3fa1416e8018a1632b3355f82968df19dee7fe_s.png",
+    "bossCert": 3,
+    "encryptBossId": "ebdc7a586630aad30nx62Nu5GVM~",
+    "bossName": "李女士",
+    "bossTitle": "中心老师",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c74b667b113cc23233Zz29q7ElE~",
+    "expectId": 1014042683,
+    "jobName": "Python老师",
+    "lid": "3nIx88c8QUh.search.242",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python",
+        "C语言",
+        "C++"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "海口",
+    "areaDistrict": "秀英区",
+    "businessDistrict": "西海岸",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 242,
+    "city": 101310100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 110.24526,
+        "latitude": 20.012153
+    },
+    "encryptBrandId": "f0f3c666a54eee010HV739m1Fg~~",
+    "brandName": "智梅莉教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "刘顺刚",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "信息安全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200428/fed5c62b9f8757f74a7cc6b1290cfde7c717b89cf813674499405d320e3d3342_s.jpg",
+    "brandName": "四川圣谷",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "红牌楼",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "707a1da85c06f52e0HR-29W0EFFS",
+    "encryptBrandId": "f004f49e6ba9867c0nx-2Nq-FA~~",
+    "encryptJobId": "c69fefcf88f4d39003F62tS9F1VU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.63841,
+        "longitude": 104.040492
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100016,
+    "isShield": 0,
+    "itemId": 42,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "AI软件研发工程师（实习生）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9aAGd6PTL2D.search.42",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K",
+    "securityId": "WQZr6hFcYgsN1-W1TUxaDZi3DJHNnFNfmlnZCHqEhDyCr3jRBam1DC8ML4uEnSlNVzDoIuxTCwQKQZUTbgbL2YoMBtDa0r25FTXnGWKg3x1rSHyEafw8dAN9U-aHHZA56JU7V8U-61rDillLt-E9lHH5XXtbPsajlt6wIcxD7zjbfdfvFA~~",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "PyTorch",
+        "MySQL"
+    ],
+    "welfareList": [
+        "全勤奖",
+        "五险一金"
+    ]
+}

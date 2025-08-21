@@ -1,0 +1,62 @@
+{
+    "securityId": "FEgMoHTrfHCOt--1LlZHzos8-1DlDEC7aYcZYY0KBnWtobOdKmRj31-c6Fr0O2L-vgobf0bzRg9tbr5NpQADlu2rudAvPPvxwSeYuPtu6sUJlPGyGjXmfQFWqW88ZkQYORP-ODm8RIrSxGDbrhjctXahHs--3vGjZk8sRWfdsN2lnUrFpeQ~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "encryptBossId": "a8d65ad26762c34d0nBz2t-4GVRQ",
+    "bossName": "陈泽明",
+    "bossTitle": "猎头顾问",
+    "goldHunter": 1,
+    "bossOnline": true,
+    "encryptJobId": "4ca86cef52d6b0571HN42ti9EFRQ",
+    "expectId": 1030426395,
+    "jobName": "软件测试主管",
+    "lid": "ZM5QApXf4V.search.231",
+    "salaryDesc": "30-35K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python自动化测试经验",
+        "交易系统"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "anonymous": 20,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        8
+    ],
+    "itemId": 231,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": null,
+    "encryptBrandId": "",
+    "brandName": "某证券公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandStageName": "天使轮",
+    "brandIndustry": "证券/期货",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "有无线网",
+        "团建聚餐",
+        "零食下午茶",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100203,
+    "contact": false,
+    "showTopPosition": false
+}

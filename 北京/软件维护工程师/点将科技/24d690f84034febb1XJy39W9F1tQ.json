@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "东城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "王先生",
+    "bossOnline": false,
+    "bossTitle": "项目经理",
+    "brandIndustry": "互联网金融",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211109/7bf6f160950405e95cbda607959fb8fcfa6a22b91153aa47204cfea6c8d17d420ac69c5169fedaac.jpg",
+    "brandName": "点将科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "东单",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "afd59b83cad997130nZy2NW8FFdQ",
+    "encryptBrandId": "cc974513a9faea6a1nF929W6EVs~",
+    "encryptJobId": "24d690f84034febb1XJy39W9F1tQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.909143,
+        "longitude": 116.415031
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100206,
+    "isShield": 0,
+    "itemId": 82,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件维护工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1J176GfRUro.search.82",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K",
+    "securityId": "MsJtgtit1hbPc-d1pulWHC_c9QPZmIV1E7AxXRfG6bFfFMijHLM2ZJ22rCStez6ebe1rup6mj25A8dl1DutFpHV32ifxxGSRoNaf2GwVyR3uggLt_WX5k8YH5YGNSYunuCnxkPTSeBZdSrc~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业",
+        "运维开发经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

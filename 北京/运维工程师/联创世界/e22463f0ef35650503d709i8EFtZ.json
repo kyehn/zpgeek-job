@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240822/607f1f3d68754fd0dbf4373ccaff234aeaf3a8a242a2d2e52156654eb84b2a7a67ff4d4c13b53321_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://c-res.zhipin.com/jrs/c4df5ae50810d430e75e74a126e71c5c.jpg",
+    "brandName": "联创世界",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "望京",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "630539a2ca8803a91HF83N6_FFY~",
+    "encryptBrandId": "e9ed3d73f01c3ee11XN809-0",
+    "encryptJobId": "e22463f0ef35650503d709i8EFtZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.9738,
+        "longitude": 116.499076
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 54,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5XUiIniThAd.search.54",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "I7KVsBsR2EX4V-61n0rOIG-FJTviqUcab1SjfdsYSUtzIfdZip5k5sOqSiahmAyvaUA40CQo0JiY0oszPQMi918VKGtDT5zgKX5bE1oVEydAolZzgqboxMfkt3ryNNvzyddi6F8c3Hc~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维"
+    ],
+    "welfareList": [
+        "节日福利",
+        "餐补",
+        "加班补助",
+        "五险一金"
+    ]
+}

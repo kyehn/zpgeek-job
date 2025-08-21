@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "顺义区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201103/9e472b770896f188a716675b11438a74e200331de5844c11959e46fe7420b9ca_s.jpg",
+    "bossCert": 3,
+    "bossName": "陈笛",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "其他生活服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "新程利晟",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "仁和",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "61c73ca5fa67feab1nR92tu7E1BS",
+    "encryptBrandId": "e0978ce83e27070f1nd40t69GFs~",
+    "encryptJobId": "8a14d48126946a731n1-29u0F1NW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.114911,
+        "longitude": 116.611063
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101106,
+    "isShield": 0,
+    "itemId": 73,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8klOuZRw8sN.search.73",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "w6XRvvgIf5PHT-b1g_WaH01d-f-joiPNjvJMbZPY3e11opZJ2TsCR_zxUwLgIerWgfXiDY63o9jCA_YdrqmyMB2-hIWlhJkU6k5uRM3L1lA1ZGrBx9i76MUKQIgdL1lJAhtluTDR2XauChA~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "服务器配置",
+        "网络交换技术"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

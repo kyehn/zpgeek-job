@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宝山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20220413/a2f3e71d9181a67b408d57456ec4a051adcc3da03db4258c8d72dc9e00ffedf0f2e78a0d50fe5529_s.jpg",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "hr",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211122/7b5b554d84f9729cd7a1fd19437e01ee190dfdb5e9a3a4145aba3c20edfd0fa7491c3dce3ec0dfa7.jpg",
+    "brandName": "佰甫科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "吴淞",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3bfb40a7b551733203B93NW5GVo~",
+    "encryptBrandId": "f817338934ced4dc1nx80tu-EVI~",
+    "encryptJobId": "c0fdfc9771d1d5061XN-29m5FltS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.380358,
+        "longitude": 121.501571
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 24,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "java",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8PzaKHQ9CxN.search.24",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K·14薪",
+    "securityId": "Y6DcmnUzEPQCb-51Z6sAWgcvTOX-MFyNtDZCZyU1ycAa8b50XLM0Muvo4XzTqbF_aKBgWavgQOfXzYsfqdCIHqD_Ueueunk3amsPICdrwb7RAxz9i8arwpq_ciqFsu2CFh6rcESIY4VbCQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "餐补"
+    ]
+}

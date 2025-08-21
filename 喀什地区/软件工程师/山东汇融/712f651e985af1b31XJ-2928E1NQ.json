@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "喀什市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230508/607f1f3d68754fd0f26f48d4c81f921083fee3c08a1387287b382825d96b1c26f82d58f12a723f08_s.png",
+    "bossCert": 3,
+    "bossName": "张永",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "计算机硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+    "brandName": "山东汇融",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "人民西路",
+    "city": 101131200,
+    "cityName": "喀什地区",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3f1ddcb485bf64020n1_2dq5FlA~",
+    "encryptBrandId": "2b4de8c9c709b5b71XR729m1EFY~",
+    "encryptJobId": "712f651e985af1b31XJ-2928E1NQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.465907,
+        "longitude": 75.965682
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100022,
+    "isShield": 0,
+    "itemId": 42,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5cQgKeuuGNj.search.42",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "gnrOjury0n-Mm-j1-5l_kjLXEpBbqhsJGW_D9i8tpJOu8XHi6Zwa0LLCkPPIw_vBkRql2Bs5OXQpuxeiLa5wqKvBYy98gf5DId04Ch4JlzpIH8htafpFIxHnFwOtHQlS0znkYdMPTAfgPA~~",
+    "showTopPosition": false,
+    "skills": [
+        "售前/售后技术支持"
+    ],
+    "welfareList": [
+        "餐补",
+        "年终奖",
+        "五险一金"
+    ]
+}

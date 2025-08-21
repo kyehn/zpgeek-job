@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "奉贤区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "王春峰",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190124/9c0c000353899b62e24dc858078dc5bf23d914f86d5b2c1d60a4d1e0b58c28ea.jpg",
+    "brandName": "kardizpo康浦旗舰店",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "南桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ce448bb97c3afa50031z3d67FVA~",
+    "encryptBrandId": "291f1866f667fd9b1HV_29m_FQ~~",
+    "encryptJobId": "a07c74666e26daaf03dz3Nu-FFtX",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.935604,
+        "longitude": 121.440132
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 63,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "电商短视频剪辑",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8eVNV2MF0T3.search.63",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "A5Uzfr_xQpXE1-N1gVKtnUVYEWXlODLzWFHvzf3PtQSRHU-1eN22HlXjesl3kmyBrft9wzgc_GBOErn-sLcPn3MQMu9NB8XhNNgm_FjrGAO3lPwip-70xNkuMeRd5C3bAgL9GgkWwY1hjON3VzeR8g~~",
+    "showTopPosition": false,
+    "skills": [
+        "电商视频",
+        "剪辑"
+    ],
+    "welfareList": [
+        "餐补",
+        "通讯补贴",
+        "包吃"
+    ]
+}

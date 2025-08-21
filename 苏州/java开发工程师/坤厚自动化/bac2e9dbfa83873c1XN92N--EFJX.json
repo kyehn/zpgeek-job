@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "苏州工业园区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240523/607f1f3d68754fd0f155adb8f41ec0684d578538aef5260572ad110ef4390b0bdd7e521f665b062c_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "吴先生",
+    "bossOnline": false,
+    "bossTitle": "产品经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180615/5cadd800e71d22179ee62d960e4c3a35cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "坤厚自动化",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "唯亭",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "facafea0209f4e971Hd-2dy5FlU~",
+    "encryptBrandId": "021c223bc8f714f21nd_3N-5GA~~",
+    "encryptJobId": "bac2e9dbfa83873c1XN92N--EFJX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.368098,
+        "longitude": 120.830745
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 34,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8t9BJD0aBYO.search.34",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "-H4D3igu6y8Fx-k18L7DarWTnGPUqQ7ae5puuyBQROuOO-jHvYg8JtfJJBAIwprzm6XTU80RgXEmXptYOvKoy9gSzHm1Y1YJLMsAJth9_D5i-Typ4eO4h8I8yYLe4tmOG2wKQUCehJOl",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "零食下午茶"
+    ]
+}

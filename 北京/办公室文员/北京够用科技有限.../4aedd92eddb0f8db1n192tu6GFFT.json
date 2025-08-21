@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "田毅",
+    "bossOnline": false,
+    "bossTitle": "运营总监",
+    "brandIndustry": "广播/影视",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200503/4dff03f87f33efe2170bfc4277e5a2916dd8963c2e36db666973748d4f9be8db.jpg",
+    "brandName": "北京够用科技有限...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "金融街",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a0e9e90fa449bd050XF70ti1F1s~",
+    "encryptBrandId": "1d0875cbf4ff9fff03N53ty-GQ~~",
+    "encryptJobId": "4aedd92eddb0f8db1n192tu6GFFT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.913461,
+        "longitude": 116.363944
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100103,
+    "isShield": 0,
+    "itemId": 234,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "办公室文员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2T4Iq9UsSwO.search.234",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "eMSd8FrI7B-Xt-P1MaIEZcWFFAEN0iU7pavahuUZ-kLldSZX4I2S81iEDML7nAEFocpxmunDMDrMqypcsZl-EgCmPDyRD5QwJpeQmOMnqNirLHwLIJhK6USHOv3rXwn75vZ0fIH9D0cA",
+    "showTopPosition": false,
+    "skills": [
+        "文案撰写",
+        "沟通"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

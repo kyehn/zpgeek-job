@@ -1,0 +1,79 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210719/a9926880376bf25cd3f1eeb7b399794c9b30ebc9999c76295fe490c8f00369c1_s.png",
+    "bossCert": 3,
+    "bossName": "郑成鑫",
+    "bossOnline": false,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/logo/fd4dec0def92d935a12c6b44716ddbd6be1bd4a3bd2a63f070bdbdada9aad826.png",
+    "brandName": "亚信科技",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a39edb43dc4d16b003Fz3Ny-FA~~",
+    "encryptBrandId": "d063e597d01c108b33Z50g~~",
+    "encryptJobId": "a1cc6b69e72c0d2f03Zz3N27GFBZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.674359,
+        "longitude": 114.144189
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 10,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "运维实习生-深圳",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8mTSOhgDehs.search.10",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "3hnUAq6Duhx44-P1N5tvvpgQD4c_br0fxmKj9X3HxLL1Eyp4ZuuuOq3VDZb18MdLQ2w1TUCC70KcLWTTLB3ACs1rVnQWfRlRPTuETDb2FofAYKVUaaQb3tywMRljrGlPHG7H8cg~",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "五险一金",
+        "团建聚餐",
+        "定期体检",
+        "通讯补贴",
+        "免费班车",
+        "餐补",
+        "生日福利",
+        "定期体检",
+        "加班补助",
+        "带薪年假",
+        "节日福利",
+        "年终奖",
+        "股票期权",
+        "交通补助",
+        "补充医疗保险",
+        "绩效奖金"
+    ]
+}

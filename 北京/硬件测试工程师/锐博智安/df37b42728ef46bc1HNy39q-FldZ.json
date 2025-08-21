@@ -1,0 +1,63 @@
+{
+    "securityId": "2dtwaijKh4dcF-61Svnof7R0LdZL8pdHabXenipKwWywnKMB97DHx-fW_V9X-ZwbbdLxdqT3hgHfuCK9PEFiVYoSAGn_vCNSmL3SkvTsMjkXupOIwHWaHIoz7IHCo-2DNC84fUlqXga5Ng~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200527/fb0fa64c4231114d2f0b39ea8e096f0c5cf5fa569888e4e9e67d639cb42cc82f_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "ef465e48f95883cc1nV63dS4FVRX",
+    "bossName": "齐鸣",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "df37b42728ef46bc1HNy39q-FldZ",
+    "expectId": 1014042683,
+    "jobName": "硬件测试工程师",
+    "lid": "1bzMsSe4S71.search.277",
+    "salaryDesc": "6-10K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "硬件测试经验",
+        "软件测试经验",
+        "计算机相关经验",
+        "智能硬件类"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "太阳宫",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 277,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.423025,
+        "latitude": 39.991575
+    },
+    "encryptBrandId": "3e197b69ade6225f33F40tS4Eg~~",
+    "brandName": "锐博智安",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230601/7bf6f160950405e9711b660db3d268cbdd81feee65ea23695cf5fa569888e4e9e67d639cb42cc82f.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "年终奖"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

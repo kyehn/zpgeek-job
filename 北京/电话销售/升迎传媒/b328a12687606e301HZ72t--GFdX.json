@@ -1,0 +1,61 @@
+{
+    "securityId": "g5j7sEW8jkUQ1-F1cNQZbha-4FUl9gctsG-YPhGw_R3KhAgDhFT0laY9mGsl0n7gfSwgFC4uXNwzPqzUO3iQhLNuzN-qONvSkNT4okjQu2qdYk4IpQM~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240909/607f1f3d68754fd0e00584471dd1b8b4eb74fb8907b49ab4e7789d8c3cc0708524423a6fb67cc906_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "e685f1404cc553830nZz3dS4Elc~",
+    "bossName": "姜女士",
+    "bossTitle": "总经理助理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b328a12687606e301HZ72t--GFdX",
+    "expectId": 0,
+    "jobName": "电话销售",
+    "lid": "3vsgtf29iiX.search.176",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "客户签约",
+        "客户邀约"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "大望路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 176,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.470321,
+        "latitude": 39.906498
+    },
+    "encryptBrandId": "2301afe30a5cf5091Xd729i8GVo~",
+    "brandName": "升迎传媒",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230619/7bf6f160950405e90122fe139cf3736450e0bb7f3d489758cdce9c9d8646882c712a887c1539f9ba.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "广播/影视",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "生日福利",
+        "节日福利",
+        "五险一金"
+    ],
+    "industry": 100103,
+    "contact": false,
+    "showTopPosition": false
+}

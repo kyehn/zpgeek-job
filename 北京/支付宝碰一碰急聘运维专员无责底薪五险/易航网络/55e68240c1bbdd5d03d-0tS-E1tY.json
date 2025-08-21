@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250419/607f1f3d68754fd0240b5007af7b6789beee051495447021e0ec1ff08092e6b4b8f9a8d186c9c91c_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "石女士",
+    "bossOnline": true,
+    "bossTitle": "人力资源经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20241114/7b5b554d84f9729cd347d3dececf125a309231110957361123dec84e1c3dc5c6345f40eb5d10547e.png.webp",
+    "brandName": "易航网络",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "大屯",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "53e1219e937669193nN_0tm4F1o~",
+    "encryptBrandId": "629dc4c1191c7ecf1n1_2NW_Fls~",
+    "encryptJobId": "55e68240c1bbdd5d03d-0tS-E1tY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.005523,
+        "longitude": 116.415487
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 65,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "支付宝碰一碰急聘运维专员/无责底薪/五险",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cOm9YS37Kd.search.65",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "FfOIyzdjFrWPE-d1xMKnriZ8yb0DFn2dpbnzFTVMKa2DmAzx-muiEDW-MVAN4uksl26vyw1QGhjhAU4jFHWp-JhNBttC2fITZ0GJMU3qYMB2UwmcBA64rijVhE9xaSJJQYTWWC8fHYMJsizsCz7ZYEjGz2Z1Df0AsRSNhJwok3I1xdIZEg~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维"
+    ],
+    "welfareList": [
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "五险一金"
+    ]
+}

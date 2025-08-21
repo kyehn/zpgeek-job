@@ -1,0 +1,60 @@
+{
+    "securityId": "az9vC4C4Omr84-v1RTrpRWWf4zGORFC6_FMuroHMyu5582osBeKALx4qEUny8cy2Bfarf_H-Z-yBz_tD95NEyY9kuidcjBPWxxG2PKwBZpowX4TdAMI~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220805/607f1f3d68754fd039ff8df7476c224f92f5bd189bb9dafb9c11207e335c087eb9cc7fc1103e3337_s.webp",
+    "bossCert": 3,
+    "encryptBossId": "2bff8606a9c6cfd60nV629u0EFZU",
+    "bossName": "魏女士",
+    "bossTitle": "商务助理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "595b119caf85eb371Xx_2t24FFVV",
+    "expectId": 0,
+    "jobName": "java开发工程师",
+    "lid": "5NaImlpto7C.search.295",
+    "salaryDesc": "7-9K·13薪",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "C/C++",
+        "MySQL"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "合肥",
+    "areaDistrict": "庐阳区",
+    "businessDistrict": "颍上路",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 295,
+    "city": 101220100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 117.269305,
+        "latitude": 31.878803
+    },
+    "encryptBrandId": "973e8d679c7970810Xx52968EQ~~",
+    "brandName": "国联科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191209/fb3d30a1f249596cfcc27e7e267a73baa7a1ffeb3604706b0a6214689d260b91.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

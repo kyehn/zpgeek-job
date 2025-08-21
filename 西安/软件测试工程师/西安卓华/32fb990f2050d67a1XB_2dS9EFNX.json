@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "雁塔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250311/607f1f3d68754fd0113c1a7a95fe22b0f0a34f8e9d1f66293888b815710e5ef5db2ac14b361dc385_s.png.webp",
+    "bossCert": 3,
+    "bossName": "焦冬妮",
+    "bossOnline": false,
+    "bossTitle": "测试主管",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "西安卓华",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "",
+    "businessDistrict": "高新软件园",
+    "city": 101110100,
+    "cityName": "西安",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5e447e53d4c6b9101HJy29S7ElU~",
+    "encryptBrandId": "a3e7384b78ec8ea81nB-2dm5GVc~",
+    "encryptJobId": "32fb990f2050d67a1XB_2dS9EFNX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.21091,
+        "longitude": 108.839911
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 131,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "13XzDkP2pw7.search.131",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "ne1Mz7S2aBqQX-w1lnd6_cOEL6PPXqa7f90Wa0q9j-2qLSbh_e359qsPqTeuBj6yfj4VuxLpUEB5PGrsT1qOFuEl9Zj4pBeOg06O_8RwT1lfoUMsd6OwN0A9rdlI1cvqB-bh0149ccucWQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

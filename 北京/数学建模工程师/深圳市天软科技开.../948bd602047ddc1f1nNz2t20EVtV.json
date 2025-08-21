@@ -1,0 +1,59 @@
+{
+    "securityId": "uLLwCUMtv02Vr-91bVMFWso9M5O0_ZSF5mDSSdTIOa8wDw5XEArPMbpWuxpc8EutJxCRWNEgdivASq7rEirWr_4nuNayzfTTarQHndvVeYeQgIhhkMU66KAqVFh9iMsjL-5i7JqTdpvg8g~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240724/607f1f3d68754fd0a4d8fe955c272a73be35d8b5768c4958b8bdbd225fc091a45d31f0808ceca1c5_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "13044acd57923c2d03Bz2dy0GFs~",
+    "bossName": "王思琦",
+    "bossTitle": "人事助理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "948bd602047ddc1f1nNz2t20EVtV",
+    "expectId": 1014042683,
+    "jobName": "数学建模工程师",
+    "lid": "1bJh58MJOmg.search.94",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "tsl"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "西城区",
+    "businessDistrict": "新街口",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 94,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.367201,
+        "latitude": 39.930797
+    },
+    "encryptBrandId": "b3e30ca4ce9649b21nN73dW7E1I~",
+    "brandName": "深圳市天软科技开...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210524/3874df409ffeb5669c54e25f9345983214a8a87eb6cf60124f767913a664f76c.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

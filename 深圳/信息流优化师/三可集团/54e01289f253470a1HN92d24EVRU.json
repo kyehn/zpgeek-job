@@ -1,0 +1,60 @@
+{
+    "securityId": "PRemvIRL5kymL-N12enNaBwcgL_nqNUYe4lRtToW8wf-qJZr6r0AAE0o47-qs2uBhiZHo_cnDYWZp0HVbVbBWridF1Ziarn8pt1_KoVGQx3PEhKuF_QS",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240820/607f1f3d68754fd063132b0ebe4faa88a0f46983f8c96f31c115f576725576c036e924b0265424a1_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "054644b86bc7562d0ndz0tW8EVRY",
+    "bossName": "何女士",
+    "bossTitle": "HR.招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "54e01289f253470a1HN92d24EVRU",
+    "expectId": 0,
+    "jobName": "信息流优化师",
+    "lid": "3u0LPmVjqm9.search.137",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "广告"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "龙岗区",
+    "businessDistrict": "横岗",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 137,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.209883,
+        "latitude": 22.650611
+    },
+    "encryptBrandId": "8cd48c36ad3f8a551nBy3N2_EFU~",
+    "brandName": "三可集团",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241015/7bf6f160950405e9e6ef6eaf2867b0feeeb1ccd29c4446bcb507bd2ea0c8b1aeba10d7bfb458800e.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "通讯补贴",
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

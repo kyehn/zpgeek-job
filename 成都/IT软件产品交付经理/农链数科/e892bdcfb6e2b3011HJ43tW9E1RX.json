@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "温江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "王兰鹰",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210827/7bf6f160950405e97b389c82d29f7a49b7db4ff3c81c3731cb8ddfccbecbce53c179a6ebd63fe589.jpg",
+    "brandName": "农链数科",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "柳城",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0336f1050ecd5d301nV82t28FVZQ",
+    "encryptBrandId": "93877afa7968b2613nVy29i-FA~~",
+    "encryptJobId": "e892bdcfb6e2b3011HJ43tW9E1RX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.706503,
+        "longitude": 103.857262
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 56,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "IT软件产品交付经理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rgLBgblZMI.search.56",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "E0rpgXHwNSvSW-q1v3Crc4K_amG5gzBW4xFwghbJjtifXssI43nH9sP9O3xo0sGEBP1jGu3d1Qp46SYnFHtRTCwD2bgftQhNG9lb1OWmOoQJqcbs3Tz93Q8QsNyaFq8oHqI-DhYra9wM4Q~~",
+    "showTopPosition": false,
+    "skills": [
+        "医疗/大健康信息化项目",
+        "售前技术支持经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

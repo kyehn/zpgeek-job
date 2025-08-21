@@ -1,0 +1,60 @@
+{
+    "securityId": "w2atzu1wIjy7m-J11HbRnNtEkDnf_3j2taS4MCJT1mBhjMar9wAUV2YapYws6ulmsEXOjzBcN5w0pP2FHNoEodQUxZVvFW8Rx00_GXJxq6C8HCB3rk8~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "encryptBossId": "c6615e804a10a27a1HV53dq8F1c~",
+    "bossName": "胡女士",
+    "bossTitle": "HRBP",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "27aafe18a3bf2dcf1HB40tm7GFBS",
+    "expectId": 0,
+    "jobName": "测试工程师",
+    "lid": "5I1o8cGp7rP.search.130",
+    "salaryDesc": "6-9K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "成都",
+    "areaDistrict": "武侯区",
+    "businessDistrict": "中和",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 130,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.066191,
+        "latitude": 30.54441
+    },
+    "encryptBrandId": "623665755fe5cfa01HV42d-0EFQ~",
+    "brandName": "北京太乐文化科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240118/7bf6f160950405e9b5fca58f15fe4e35b0e11b697d5f0a5d917a57abf62c34c1c1ccf60e0b2c167b.png.webp",
+    "brandStageName": "D轮及以上",
+    "brandIndustry": "广播/影视",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+    ],
+    "industry": 100103,
+    "contact": false,
+    "showTopPosition": false
+}

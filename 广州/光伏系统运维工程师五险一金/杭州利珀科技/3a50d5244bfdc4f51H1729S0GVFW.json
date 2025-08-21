@@ -1,0 +1,61 @@
+{
+    "securityId": "Ek1vtXGTVX26F-h1GBj88kouottn-hf4R82twbRv4J0vwAcIXFOQbmgmsMxWN8ur7HtbwHM4vofLyTq0-0qnFXQEU-pddIj8zTdXK8nhbXTCRahFoatOFVEPISoIdIEjVZYeAimyOl4xgfE~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "a806a4d50409caa90nJ809S6F1JR",
+    "bossName": "高先生",
+    "bossTitle": "人才经纪人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3a50d5244bfdc4f51H1729S0GVFW",
+    "expectId": 1014042683,
+    "jobName": "光伏系统运维工程师，五险一金",
+    "lid": "1g3TlmDySD9.search.99",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "硬件设备运维工程师",
+        "光伏设备",
+        "驻场",
+        "售后"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "越秀区",
+    "businessDistrict": "流花",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        2
+    ],
+    "itemId": 99,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.258099,
+        "latitude": 23.147404
+    },
+    "encryptBrandId": "739c27f88b1819481HN90tq_GFo~",
+    "brandName": "杭州利珀科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "光伏",
+    "brandScaleName": "100-499人",
+    "welfareList": [],
+    "industry": 101208,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "Z0EOapod1o66W-U1FLqn5ykIIe-hIWt62MOFguG0GsCL8FzAqPKtD2fVJD1_7RrxD1JvM2UaQ6a7w1Um-Xj_dW_uSTe7kQ8lQMKumRg-Fk803C8--hQk",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "1977884f0e3b04290XN72tu1F1pR",
+    "bossName": "黄先生",
+    "bossTitle": "人事总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "cdd25660a5ddfae31HN929y1FlNQ",
+    "expectId": 0,
+    "jobName": "平台运营专员",
+    "lid": "2ZxU2zwf1lr.search.283",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "运营策略规划",
+        "日常数据分析",
+        "内容更新与维护",
+        "数据分析能力"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "金堂县",
+    "businessDistrict": "淮口",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 283,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.571688,
+        "latitude": 30.71429
+    },
+    "encryptBrandId": "d0c554c81b5552511HJ_39y5F1A~",
+    "brandName": "尚威集成房屋",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "房屋建筑工程",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "底薪加提成"
+    ],
+    "industry": 100708,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "xQTY4WqsovQK4-31NMVWY3sC7mywrsrSnKmXJHRKIPSnDr0TYSqhJYQ8DFMcSso8l5SIb9p4OGeVmt1myqrdQBysQzv1awN-5tT3x_fM4fmpIcW02StS",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "3ebe43ca13a918b70nZ429S8F1ZU",
+    "bossName": "高先生",
+    "bossTitle": "人事主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "171be2f060aff9ee1XJ93tW0ElBZ",
+    "expectId": 0,
+    "jobName": "标注专员 白班双休",
+    "lid": "3oX1VJ1Poux.search.295",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "全职工作",
+        "数据标注",
+        "标注数据分析",
+        "视频标注",
+        "文本标注",
+        "图片标注"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "仓前",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 295,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 119.990172,
+        "latitude": 30.275553
+    },
+    "encryptBrandId": "dd1b84885172af1f1nd83ty6FlA~",
+    "brandName": "一诺教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,60 @@
+{
+    "securityId": "mebcmi9I_WzCh-y1TGQFPtTh-EwuNUGuVdrNYREmvOIBk5-pTWdWPvaF1n11zRxyjf310PawTWfO-VC3m4Y0JtnzdME0DTLGwir7IduRIVDloWtB9kRpcJntuYuU3-AcFxBJwIq9OmvBTxw~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240218/607f1f3d68754fd04d36411340f974d2d8292a1284bd7639f8dd0a7832cb6b824b28431dac7abf61_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "3ccd7c2885c9268b0Xd_0tu8FVpZ",
+    "bossName": "吴礼胜",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "49a42b9057586f511Hd_3di9FVZQ",
+    "expectId": 1014042683,
+    "jobName": "Python",
+    "lid": "2WwaGatcJr6.search.181",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python",
+        "MySQL",
+        "团队管理经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "襄阳",
+    "areaDistrict": "襄州区",
+    "businessDistrict": "刘集机场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 181,
+    "city": 101200200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.232904,
+        "latitude": 32.14772
+    },
+    "encryptBrandId": "7bdb62770fd0e5f81XJ929u1EFM~",
+    "brandName": "襄阳福诚特机电科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "自动化设备",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "底薪加提成"
+    ],
+    "industry": 100914,
+    "contact": false,
+    "showTopPosition": false
+}

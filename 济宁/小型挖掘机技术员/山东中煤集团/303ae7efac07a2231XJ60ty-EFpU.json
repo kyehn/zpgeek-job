@@ -1,0 +1,61 @@
+{
+    "securityId": "BKIG3hpf76Iqm-b1wC5hd0ZCk0-A33OOl-aDh-7wFy0PcZvmfI8VkZZOFMn57YXJMrYLXIsU8enh6BDE0E18PisjNpI85_MQOPXxLNx3SiBFKJ5Zdw2WAezKRfONwz8HDodAQQL33Kc~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190928/f3fe9bb00d5860b98824c4df49fde2a5cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "47c21b312e9178140HN73t69EFU~",
+    "bossName": "冯先生",
+    "bossTitle": "人力资源部部长",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "303ae7efac07a2231XJ60ty-EFpU",
+    "expectId": 1014042683,
+    "jobName": "小型挖掘机技术员",
+    "lid": "2wF0e3JkAKq.search.125",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "SolidWorks",
+        "小型挖掘机技术人员"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "济宁",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 125,
+    "city": 101120700,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.667575,
+        "latitude": 35.391596
+    },
+    "encryptBrandId": "efc684d592a814580HF62d20",
+    "brandName": "山东中煤集团",
+    "brandLogo": "https://c-res.zhipin.com/jrs/c992e345562390cc5f1ceb808b269c69.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "进出口贸易",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "全勤奖",
+        "节日福利"
+    ],
+    "industry": 100504,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "杨阳",
+    "bossOnline": false,
+    "bossTitle": "人事HR",
+    "brandIndustry": "游戏",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200610/6c3f79007871a53646919488ce3868d79862984d36b87ed6a2820da447206465_s.jpg",
+    "brandName": "渗醇",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f0359cd392e2a6a11nV43dW7E1pT",
+    "encryptBrandId": "4bf3269d9143150833N92961Fg~~",
+    "encryptJobId": "bec87fa332dec0bc1HZ73du-EFpU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.180476,
+        "longitude": 121.603265
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100002,
+    "isShield": 0,
+    "itemId": 257,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "游戏测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2TFYPdhqrQ4.search.257",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "WQYDvZ56ACd62-314sGYTOqF0onBhixtzqRD2BqX5NASAHPD-ilCuxfbDGUagG4wwGcfBw8zMvzjz2l_UqHkZstOw6r0ywfrtRgaBUpExcj3biz-DJ2okxc1nVLufe2r-R1Lx9_FpsW2YA~~",
+    "showTopPosition": false,
+    "skills": [
+        "手游测试经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假"
+    ]
+}

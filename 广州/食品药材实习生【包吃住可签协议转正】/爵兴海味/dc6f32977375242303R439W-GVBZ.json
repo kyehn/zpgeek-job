@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "荔湾区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250112/607f1f3d68754fd0582ba03a7b1a1bf33245b41e8e9822ff707976bddcfb6f1e46b7de3adde454fe_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "陈先生",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250113/7bf6f160950405e915af596be7f226229888704eb1564690707976bddcfb6f1e46b7de3adde454fe.png.webp",
+    "brandName": "爵兴海味",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "芳村",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "81985a37a03d3f9b0nZ_0t27E1ZV",
+    "encryptBrandId": "ae2f563745b27b931HV53dS9FQ~~",
+    "encryptJobId": "dc6f32977375242303R439W-GVBZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.117393,
+        "longitude": 113.204719
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 5,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "食品药材实习生【包吃住/可签协议/转正】",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7M5rsgzcpnq.search.5",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "TPHVFpPAz7V8f-71ntJ3PzKMUAhsw5nJEn1Cc_YWLH9UsdfrE2eQj1SxVP96Re2rA1loSIpLFHw_JleFqvCPNwdBdfmRZVYHZCYwqGwXYZvrgP30edsu0YgEfSPkhjQOOIAqagnSQNweRA~~",
+    "showTopPosition": false,
+    "skills": [
+        "滋补食品",
+        "中医营养",
+        "其他",
+        "无销售性质"
+    ],
+    "welfareList": [
+        "六险"
+    ]
+}

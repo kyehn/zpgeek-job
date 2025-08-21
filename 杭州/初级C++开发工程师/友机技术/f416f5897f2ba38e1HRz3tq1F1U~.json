@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "陈阳",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181014/fc1dbda1ce41c30a3e7bf4a1e2c257d4cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "友机技术",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8a9b6187fa94199403V83964E1Y~",
+    "encryptBrandId": "ce4464cdb36603e71XZ529i0GA~~",
+    "encryptJobId": "f416f5897f2ba38e1HRz3tq1F1U~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.207357,
+        "longitude": 120.221991
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 118,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "初级C++开发工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "xmRXkABBOU.search.118",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "uWkn-GJrFgiee-B1FsrkaezKhoY-GxGwPBBY7CnoyfDoGtx3KFE9-ws1kdR9eH4IjjjGGIBvefqsblA2zMPBOw_fgZCr1H1Zo1PCa_-keIvvnMYgN4sSZIXPEvS3HbjhTUd3cfi6LVk~",
+    "showTopPosition": false,
+    "skills": [
+        "C/C++"
+    ],
+    "welfareList": [
+        "年终奖",
+        "零食下午茶"
+    ]
+}

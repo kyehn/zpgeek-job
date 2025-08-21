@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210224/64dbdc31381a345ba502616be42f12d027546296cbb38d1a780cf1bcf437847f_s.png",
+    "bossCert": 3,
+    "bossName": "石坤",
+    "bossOnline": false,
+    "bossTitle": "人力资源部经理",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20161104/50461f61e0daec563c6903d2109886469b9dbe2c2bd54f5e88c7d666f921d58f.jpg",
+    "brandName": "义和光普软件公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "省体育馆",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "421ef99c8a2018ff1nZ_3966F1Q~",
+    "encryptBrandId": "eac266e3082d132f1HZz09u9",
+    "encryptJobId": "c7eed79e4e70c5770nZ83NW4FQ~~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.635116784929995,
+        "longitude": 104.0688429850796
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 51,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8t5mOM03LNr.search.51",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "4uhe0QSrw3XPw-01unBjNV9mZgXDe8VW09DNSlwZsvdqA5ajRUGH8KwzxCdixXdXdTUlRBi4ID2TvR_L0pnYrmY15C3xgna8bhtn1VBbzs1yWxmpZsU5cIzVMKH1kFv8OX7KnzYl",
+    "showTopPosition": false,
+    "skills": [
+        "数据分析",
+        "数据库管理员",
+        "系统管理员"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

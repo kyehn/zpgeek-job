@@ -1,0 +1,63 @@
+{
+    "securityId": "IJ40oNQv-GFne-C1lYpqfY7os_p-zm5trP-ilLEQvjtBek42_7Ewr7pOIjdowNsXvWUxW6MT3zWQ_rx4w-TFL3Rl4CnKnwnJ4Xt6wrxJcH41bpRU",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240527/607f1f3d68754fd099554ea01a9fc08996e0c08d6266a406bf38dbcd7d38b382c9939c9e7556cb3d_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "f2cbade35829b7e50HZ739u1FVM~",
+    "bossName": "盛女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6745a2c06e6ad6ce1H1429i1E1FQ",
+    "expectId": 0,
+    "jobName": "电商运营助理",
+    "lid": "5IloOZxE9RF.search.172",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "电商店铺运营"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "仓前",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 172,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.025512,
+        "latitude": 30.278915
+    },
+    "encryptBrandId": "f4d243a526496fe21XB_29S_",
+    "brandName": "亿达信息",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/7f2dc4e1215251fc0c5eca771a97937ecfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "补充医疗保险",
+        "节日福利",
+        "带薪年假",
+        "定期体检",
+        "加班补助",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "上城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "bossName": "路先生",
+    "bossOnline": false,
+    "bossTitle": "招聘主管",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "邯郸市森铂网络科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "秋涛路沿线",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a74bbf3a326644750HR5096-FlFS",
+    "encryptBrandId": "5c7fa2fc6b6e55ec03V43Nm7FFE~",
+    "encryptJobId": "3d93196f2c46f30003B62t67EVRU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.290293,
+        "longitude": 120.22331
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 26,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "高薪双休事少梦中情岗",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8iGgOWDSXH8.search.26",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "d2uzwkEZouXTq-q14mFQ2y9DKYwrw6SD0MYdsfneg2tHumUvIUfnx_z-sA6gT6CKZDnBqgjUbSr_uMQwK57Kbc-lQ9p14cITENJ0vOTIZgS3Wwi_ggr6lu4hbn4IiD8EaLCxXr7vivg3IM4~",
+    "showTopPosition": false,
+    "skills": [
+        "科技"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "五险一金",
+        "底薪加提成"
+    ]
+}

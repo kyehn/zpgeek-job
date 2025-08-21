@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "历下区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220701/607f1f3d68754fd00360627cbdadf369fd32c4e49bbda80f4fbe67c9462966a03ae1dc7654a04185_s.png",
+    "bossCert": 3,
+    "bossName": "宋艳丹",
+    "bossOnline": true,
+    "bossTitle": "人资",
+    "brandIndustry": "通用设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "淄博纽氏达特行星...",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "奥体",
+    "city": 101120100,
+    "cityName": "济南",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "da0451076b889ee40nB82tq6F1FS",
+    "encryptBrandId": "0efad9d06127b10003V429m9FlM~",
+    "encryptJobId": "9944cff5494acab503dy3N25FVZS",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.693767,
+        "longitude": 117.107788
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100906,
+    "isShield": 0,
+    "itemId": 58,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "机器人软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7UKzDkKQ2zw.search.58",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K",
+    "securityId": "HnBO9Y-tAGYZA-k14P_wr-NP54cv3zFZJ7ibkbSMmrEqw5VzMG1jf5SCDipf6QjoTV5bYipcD1-I01kQb3zbOjjO_kVY9tjh3AUl4Xvjd-aeUUidQfYsFgGnwYMqPNc1Yzt2-EyZNT0auGCCoP9wEGZa",
+    "showTopPosition": false,
+    "skills": [
+        "MySQL",
+        "Python"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

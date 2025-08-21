@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天心区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20200323/def31b6b03dea8136e36c6474c2bc443cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "bossName": "郑雯洁",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200323/d6daa43727c28c3b9cc240c2b1278e29adb78e13e4349bb29bd6bd64c8edaed2_s.jpg",
+    "brandName": "卓群电力",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "汽车南站",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "552528e9e15bf6100nF409i0GFA~",
+    "encryptBrandId": "7214e01103149b670nN92920",
+    "encryptJobId": "5f3736347bdac22d1HBz3dW0GVs~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.089929,
+        "longitude": 112.988694
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 19,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "24gxDyTwZS2.search.19",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-7K",
+    "securityId": "0VHc5TxllXlHc-01hcLeME0ZZaKkP3H0bf4ynq4wahdQhngMmPhTjGbTpiPBpHwJZNwl7sBM7XdiVN8sr5eRXhuJKeggcKOr6cXA7uKe5iIKC1XyAExl-21htNX6P2K5gX_t_U_dsA~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Web前端",
+        "HTML/CSS"
+    ],
+    "welfareList": [
+        "年终奖"
+    ]
+}

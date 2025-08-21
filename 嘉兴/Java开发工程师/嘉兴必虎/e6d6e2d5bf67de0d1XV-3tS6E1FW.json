@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "秀洲区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171106/2dd04fed189b7381a4ac2649bf45b5874d67af84eefa6fde2cc22ead3e2fbb51_s.jpg",
+    "bossCert": 3,
+    "bossName": "陈红英",
+    "bossOnline": false,
+    "bossTitle": "总裁",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171101/eb1382688de8c4dece6fb4b54fef1fda8f335bb3b3952d316fdce38c98ead861.jpg",
+    "brandName": "嘉兴必虎",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "洪兴路",
+    "city": 101210300,
+    "cityName": "嘉兴",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "530c312538dc967e1HZ52du1ElQ~",
+    "encryptBrandId": "5be3f72f6608046c1nVz3N67FA~~",
+    "encryptJobId": "e6d6e2d5bf67de0d1XV-3tS6E1FW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.761716,
+        "longitude": 120.695164
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 124,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "HYt9VKBjyq.search.124",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "GffqYND7LqtYd-d1rWl_4cKDvIIvTw8rbPNKhqpwF3U_viM0yc00kXRK8vNBL1La8UhXrwRK5noLZHiL1N8HJlwXNtLaTdRzkVL1Sx9MK6Shk6Bnh1VP3V4l0-5JUqRTIIHq4CuJ1RkS",
+    "showTopPosition": false,
+    "skills": [
+        "后端开发",
+        "服务器端开发"
+    ],
+    "welfareList": [
+        "通讯补贴",
+        "带薪年假",
+        "交通补助"
+    ]
+}

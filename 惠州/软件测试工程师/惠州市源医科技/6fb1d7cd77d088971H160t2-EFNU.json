@@ -1,0 +1,63 @@
+{
+    "securityId": "9uhi36n7YnDrm-o15osKA4YwWWudcVYDTuth86yWlYIeoBjCSxtOMnv8gGhg80Ho5IMLdsR8AdckZC_1m7Xfll7d3gbG8mmZ3fJhw5UaSKd8ojUh96D1xlsG80LgWl2zWtv-IomBW5tz",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240708/607f1f3d68754fd0df2ef88d0e992e745a92013cb26201fc90c1343b14a58f3b7f136f5c3b1f1e2c_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "42e1cfc8f2e9e29403F63Nm5Elc~",
+    "bossName": "李女士",
+    "bossTitle": "行政人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6fb1d7cd77d088971H160t2-EFNU",
+    "expectId": 1014042683,
+    "jobName": "软件测试工程师",
+    "lid": "2AzHoejKm1E.search.114",
+    "salaryDesc": "6-10K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "测试工作经验",
+        "wifi",
+        "Android"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "惠州",
+    "areaDistrict": "惠城区",
+    "businessDistrict": "仲恺",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 114,
+    "city": 101280300,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.352047,
+        "latitude": 23.016477
+    },
+    "encryptBrandId": "14850277ae7a002c1Xd839S5GQ~~",
+    "brandName": "惠州市源医科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200226/8369ee573622a5e3e932d6c98b6e21dab898eef6448d0066386cf31507a0b728_s.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "年终奖",
+        "团建聚餐",
+        "五险一金",
+        "节日福利"
+    ],
+    "industry": 101402,
+    "contact": false,
+    "showTopPosition": false
+}

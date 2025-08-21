@@ -1,0 +1,63 @@
+{
+    "securityId": "56V1YOSpTEKfO-J1khfxXyAm_cGQ1C5fPvjin_tksNa6FC1yBkxBOoV-A154CqJJlDDH_WY2vYh77sh_CqaFy-6ncvWPStW4szrSv8JDgp8m5rFZEzjWgo9P-Tygd3-4nZjR6uCIq-hbFQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170408/b8a2ed767ac97b38b9d4455d7ab44077a33fd384099b092c8b439e704202cc85_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "9176968e536f470c1XJ_3dW_FFU~",
+    "bossName": "黄女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1d8c3584d8ea5a031H1639m6FVJZ",
+    "expectId": 1014042683,
+    "jobName": "低代码开发工程师",
+    "lid": "2DqOWoNLQzv.search.59",
+    "salaryDesc": "7-10K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "前端开发经验",
+        "python",
+        "低代码开发"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "仓前",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 59,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.021523,
+        "latitude": 30.288646
+    },
+    "encryptBrandId": "5c0f0739c7da31b31HN52d60FVI~",
+    "brandName": "广育鑫澄",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金",
+        "带薪年假",
+        "意外险"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

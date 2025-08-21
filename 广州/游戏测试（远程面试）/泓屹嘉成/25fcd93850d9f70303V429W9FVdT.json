@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天河区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240731/607f1f3d68754fd0548162be960955ec56a439c772c6a31eac7c8decc98046f5215a0630b6b0de2d_s.png.webp",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": true,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240925/7bf6f160950405e958150a3396dc6e8c87ca91c9b6dbdd956c8f840ae2119c536b2d911816c5c4b0.png.webp",
+    "brandName": "泓屹嘉成",
+    "brandScaleName": "500-999人",
+    "brandStageName": "A轮",
+    "businessDistrict": "棠下",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8f4460b1e85942411XFy09W7FFA~",
+    "encryptBrandId": "cc86062b929c2fac1HF93di0GFo~",
+    "encryptJobId": "25fcd93850d9f70303V429W9FVdT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.131649,
+        "longitude": 113.374965
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 168,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "游戏测试（远程面试）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5KaleJfzMHH.search.168",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-10K",
+    "securityId": "O5Wx_FmLCgyvN-21Tt88xfR4VlylW7lsxbkMglG3JvdCC2Ln2V_sIGzjzmh_8onqtt59c3rxdw5mP2E_ksXCUgvIbT044VyAieeXPLnl8MfNlDZmN6yv_pWAUC9Y2prwaeBn3Yr1G5DED8mu5c5KpmUObytWCwZXdMCNXccVREq-GSEuvA~~",
+    "showTopPosition": false,
+    "skills": [
+        "丰富的游戏经验",
+        "功能测试",
+        "游戏测试"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
+}

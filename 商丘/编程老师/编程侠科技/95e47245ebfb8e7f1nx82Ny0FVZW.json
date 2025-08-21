@@ -1,0 +1,63 @@
+{
+    "securityId": "VE2VBb5W44ZdG-A1yNfBmVPfICSkXgPZJf7KLbTL2KQPhO8faiWpNDCN1wp0rwxj6bJnwAIJuEtcUtCho-W-NCYjMUKNXmyYMVOqm6vwzScV-WIbSg~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210917/607f1f3d68754fd0399d80182224b5416b967bd150fb98acc9fab47ba688d8c8a8b32cbcf13cce87_s.png",
+    "bossCert": 3,
+    "encryptBossId": "65653f45048841c53n153d21ElM~",
+    "bossName": "丁女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "95e47245ebfb8e7f1nx82Ny0FVZW",
+    "expectId": 0,
+    "jobName": "编程老师",
+    "lid": "5EZ6Ui2XDaA.search.186",
+    "salaryDesc": "2-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "小学教育",
+        "IT培训",
+        "就业老师",
+        "线下授课",
+        "教师资格证",
+        "全职兼职均可"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "商丘",
+    "areaDistrict": "虞城县",
+    "businessDistrict": "虞城新区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 186,
+    "city": 101181000,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 115.823953,
+        "latitude": 34.401299
+    },
+    "encryptBrandId": "9c9599c37c9d27130Xd82dW6EQ~~",
+    "brandName": "编程侠科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191027/f56186e67cd08d0da86986cbf8283a0d417877afe07680dab9f9ce09ee1632af.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "全勤奖"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

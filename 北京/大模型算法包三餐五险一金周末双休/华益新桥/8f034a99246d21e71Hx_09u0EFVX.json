@@ -1,0 +1,67 @@
+{
+    "securityId": "-uoUCJc44DpzC-f1KI9u2EfGTBfSrf8kEtLjIOwyu2SL2-VZLtZebZXslGegL5gtYNynqKaTscwmXE0-nUlD7wiTQDsfJq4yygM9tmU0pU3tIBGQUA5yC3RAtg8XPDCbsWx9uTajb6JPh_w~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230317/607f1f3d68754fd03bca454e4fa308f25a204a1e9d0ff2f320fcc2f825bb30139ebe08f2a350b9f7_s.png",
+    "bossCert": 3,
+    "encryptBossId": "0e5848c7272f08211XR82tm0ElFV",
+    "bossName": "王女士",
+    "bossTitle": "人才经纪人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8f034a99246d21e71Hx_09u0EFVX",
+    "expectId": 1014042683,
+    "jobName": "大模型算法+包三餐+五险一金+周末双休",
+    "lid": "2bHO60yE95s.search.153",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "生态场景",
+        "模型训练",
+        "策略制定",
+        "内容治理",
+        "机器学习",
+        "SQL",
+        "python",
+        "模型数据"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "大望路",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        3
+    ],
+    "itemId": 153,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.49136,
+        "latitude": 39.922724
+    },
+    "encryptBrandId": "21735401020bf9e31HZ63N26FFQ~",
+    "brandName": "华益新桥",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240827/7bf6f160950405e923ff08eddfc6576f809b83a87e5fb6cb3ad10434ebe5f318823a4f957ab3b2a2.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "其他行业",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 101304,
+    "contact": false,
+    "showTopPosition": false
+}

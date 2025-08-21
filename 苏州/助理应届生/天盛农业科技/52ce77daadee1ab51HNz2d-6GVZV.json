@@ -1,0 +1,63 @@
+{
+    "securityId": "TLYF33_kmJC3Y-E1xBlp269tPbOjydvWqYDiRx-_eHk3UuyKHCgW_IW1tU_5jo-ePv7SIvYvX4vQ4mxTdBLlIiWav2p7M9xfP-T47NNjH3BFYAcLFA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220212/607f1f3d68754fd0407f953317f530acb50cd78e4167d1bf9e6c08ad57901c8bd78e22ab6fd5190f_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "c14f7065b3a5493003Nz09S8ElY~",
+    "bossName": "梅女士",
+    "bossTitle": "人事部主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "52ce77daadee1ab51HNz2d-6GVZV",
+    "expectId": 0,
+    "jobName": "助理(应届生)",
+    "lid": "30FKWOEtjfm.search.243",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "企业文化建设",
+        "文书起草",
+        "熟练驾驶车辆"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 243,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.611359,
+        "latitude": 31.099157
+    },
+    "encryptBrandId": "6232f6c9851a27d51X1-0tW1Fw~~",
+    "brandName": "天盛农业科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181127/a3c875d103fd1b7d5c86a9ecdbadaa1b9e6c08ad57901c8bd78e22ab6fd5190f.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "农/林/牧/渔",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "全勤奖",
+        "员工旅游",
+        "包吃",
+        "年终奖"
+    ],
+    "industry": 101303,
+    "contact": false,
+    "showTopPosition": false
+}

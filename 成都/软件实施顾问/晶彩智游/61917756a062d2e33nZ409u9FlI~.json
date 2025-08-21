@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201215/6e2252de0ef42598ac34539dd3d6078081211b85514f75a76157abfeccc2a9fa_s.png",
+    "bossCert": 3,
+    "bossName": "练兴坤",
+    "bossOnline": false,
+    "bossTitle": "总经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210102/ac015f2980cc386f93d5bb9879639fc981211b85514f75a76157abfeccc2a9fa_s.jpg",
+    "brandName": "晶彩智游",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "磨子桥",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7166a1019b20d9311HJ72tS0Elc~",
+    "encryptBrandId": "d65ed3f2e0c090e433N73N28FQ~~",
+    "encryptJobId": "61917756a062d2e33nZ409u9FlI~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.630202,
+        "longitude": 104.073145
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 37,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件实施顾问",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d5OVaWesnQ.search.37",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K·13薪",
+    "securityId": "ndbwjkmLSnyVk-j1tNpRxC9voJ5qPgaBoGMBFGY-ijWntybXUp0bqq1pTAK2m0Dpr1_0pYd0vbnRt9ooTSe7OwynPwzpFjjcG2uBxmBrJGc0KckgxdEdjZR2et89zXDIMgMvPRgghG4~",
+    "showTopPosition": false,
+    "skills": [
+        "实施工程师/顾问",
+        "解决方案",
+        "售后支持"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

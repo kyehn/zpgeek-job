@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210930/607f1f3d68754fd09936bdcfd8ffc53846a4cf0eb03308d8483cd5391db0c75c396762acae8e24d5_s.jpg",
+    "bossCert": 3,
+    "bossName": "李威赫",
+    "bossOnline": false,
+    "bossTitle": "hr",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211009/7bf6f160950405e9c63a8c9c0674984b897348d8e65a4dd7f0f62fa67d0e65e18526971a7d5eec7a.jpg",
+    "brandName": "中和黄埔",
+    "brandScaleName": "20-99人",
+    "brandStageName": "B轮",
+    "businessDistrict": "双桥",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "72201a75b6fad6a71X1z09-_EVI~",
+    "encryptBrandId": "31a48959b800632e1nV43du0GA~~",
+    "encryptJobId": "4f84eda6da69b36a1nJ93NS5GFI~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.90818,
+        "longitude": 116.606
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 78,
+    "jobDegree": "大专",
+    "jobExperience": "应届生",
+    "jobLabels": [
+        "应届生",
+        "大专"
+    ],
+    "jobName": "软件测试实习生",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cNSA4CaG7w.search.78",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "oz_X-v5tZc2B3-c1c4UGxGhJoOlAheBnHZ6vEeqkBSjlaWzLXJmUj8aZEBe7CVmo5sPiKgNY-buIdbEQ3zQjVfyN577-mtlky5PYdtLiYfErmbRIhBKt86RLTuMdOFtjWfssQa9liLM~",
+    "showTopPosition": false,
+    "skills": [
+        "实习生"
+    ],
+    "welfareList": [
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游"
+    ]
+}

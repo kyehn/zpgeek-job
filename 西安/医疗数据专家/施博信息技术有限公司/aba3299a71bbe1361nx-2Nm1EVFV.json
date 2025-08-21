@@ -1,0 +1,62 @@
+{
+    "securityId": "uTIJwNqrDGxUJ-d1XegIDy4ypE14BdNMYlhq0pb6i2Lts9RP85RAPsHVBJogyTsgAGmazw0_tOM2t_tPTQ17d0yWMlTM-gRf7qW_VhMvv6NzY1FvDg~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170606/8339f60e10317da16b8fba0dc69de2878c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "b9f65db8e5bed9461XFz0tW-E1c~",
+    "bossName": "杨先生",
+    "bossTitle": "HRBP",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "aba3299a71bbe1361nx-2Nm1EVFV",
+    "expectId": 0,
+    "jobName": "医疗数据专家",
+    "lid": "2C8LOvqfnEx.search.133",
+    "salaryDesc": "5-10K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "医保办",
+        "社保"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "西安",
+    "areaDistrict": "雁塔区",
+    "businessDistrict": "高新软件园",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 133,
+    "city": 101110100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 108.880494,
+        "latitude": 34.225266
+    },
+    "encryptBrandId": "30671ab9be9fb5ba1nd52du4EQ~~",
+    "brandName": "施博信息技术有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221114/7bf6f160950405e9e67e1c4c501a86ca8057fa522062aabdbadab27c9c3308509e51ddbe3bb18960.jpg",
+    "brandStageName": "C轮",
+    "brandIndustry": "大数据",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "全勤奖",
+        "餐补",
+        "节日福利",
+        "生日福利"
+    ],
+    "industry": 100005,
+    "contact": false,
+    "showTopPosition": false
+}

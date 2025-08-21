@@ -1,0 +1,62 @@
+{
+    "securityId": "oa2R_XDqSJFp5-11OaeaftAFhyNOUQc4kY1-Q9otLDv09ZwO0VHxNotLBMV1XvIqfWSzlNa9ma-C6opnNwC4UK8z4f84P3kCfr5_4g66bbp--d2tus4~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "bf85b600c196cd3e1HB73NW1E1c~",
+    "bossName": "祝女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "dbea40b02ca0672e1XV82du_FldT",
+    "expectId": 0,
+    "jobName": "实施顾问",
+    "lid": "1I8H5wyD3tO.search.118",
+    "salaryDesc": "5-10K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Oracle"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "沈阳",
+    "areaDistrict": "沈河区",
+    "businessDistrict": "五里河",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 118,
+    "city": 101070100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 123.43659,
+        "latitude": 41.765789
+    },
+    "encryptBrandId": "d2f73b725bd4b0361XR92ty1FVM~",
+    "brandName": "辽宁熙软科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230513/7b5b554d84f9729cadca16dac99508b9930eb38482bb3b7e039b6177ea9abd67eb70fec5c21ee44b.jpg",
+    "brandStageName": "",
+    "brandIndustry": "医疗器械",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "团建聚餐",
+        "带薪年假",
+        "绩效奖金",
+        "定期体检",
+        "五险一金"
+    ],
+    "industry": 100403,
+    "contact": false,
+    "showTopPosition": false
+}

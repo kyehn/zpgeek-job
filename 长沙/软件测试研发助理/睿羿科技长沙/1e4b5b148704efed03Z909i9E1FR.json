@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "雨花区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240508/607f1f3d68754fd015196353a0fb7cdc44a643f7b32e14bb7bf59c0e33712c36603b53004e70b4d1_s.png.webp",
+    "bossCert": 3,
+    "bossName": "刘芸",
+    "bossOnline": false,
+    "bossTitle": "财务",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221024/7bf6f160950405e9247e4621530c3a26e91838ad8a05eb367c2f0e01940a96931cc32b81a023097c.jpg",
+    "brandName": "睿羿科技长沙",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "劳动中路",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "33b19ebc098811391XV629q9EFc~",
+    "encryptBrandId": "0b3fe1e8c28ff16d1XR62Nq4ElM~",
+    "encryptJobId": "1e4b5b148704efed03Z909i9E1FR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.147383,
+        "longitude": 112.986023
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 72,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "软件测试研发助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "26s0qZ56AOG.search.72",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "_sAcVqFmMhpUe-71Jcf8NAUPN2Zv4_rF15av_vbiOd5ucizDybiyh-boD5YgoV8TnL8BfwHUt-1O3FhE3bOxyq-UbGOk2V6rVK_YhM8PZaUewPooEn9Sh_Lh2A8nP2-mbJyVv5MVp6S0xw~~",
+    "showTopPosition": false,
+    "skills": [
+        "C++",
+        "MySQL",
+        "Lua"
+    ],
+    "welfareList": [
+        "五险一金",
+        "通讯补贴"
+    ]
+}

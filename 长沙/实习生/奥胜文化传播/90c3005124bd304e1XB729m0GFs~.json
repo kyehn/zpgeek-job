@@ -1,0 +1,62 @@
+{
+    "securityId": "RGs31qGWMooiT-B11yzGTIrIzhQpaue8t-EraBSgDV_CMHCPWqYcEgoCPr1pvx0-warvckMERwmhBCV0VcH97GQ6EMq2Tmzp7kTJQTD-77AitDqd",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180325/7313e09511ae0458261a705c8e56f356685c01de01f3b1c457f3a3dc49eab532_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "c7157dbac5c9e42e1HJ_3tq1EVs~",
+    "bossName": "姚先生",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "90c3005124bd304e1XB729m0GFs~",
+    "expectId": 0,
+    "jobName": "实习生",
+    "lid": "5FsZ9c0Za3c.search.205",
+    "salaryDesc": "1-3K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "学习能力",
+        "综合素质",
+        "写作能力"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "岳麓区",
+    "businessDistrict": "含浦",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 205,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.933861,
+        "latitude": 28.124764
+    },
+    "encryptBrandId": "994d50553b2b3a321XVz2t28FQ~~",
+    "brandName": "奥胜文化传播",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190301/eb8ce0b80843df8fc5c82071c1d72e892f7fcf9d9989876c061e0f777b94d963.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "广告/公关/会展",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "包吃",
+        "节日福利"
+    ],
+    "industry": 100101,
+    "contact": false,
+    "showTopPosition": false
+}

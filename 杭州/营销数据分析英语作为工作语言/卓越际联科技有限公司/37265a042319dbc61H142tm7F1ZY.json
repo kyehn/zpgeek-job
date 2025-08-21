@@ -1,0 +1,59 @@
+{
+    "securityId": "wOgi1gdKES0vs-E1RueyJcp8Sq7HMiphRYbp34EuX6bGfGfqjuOTSoqS79WLVQZ007Gai5qlEtmEPyw_rz7Eg3Ks9o989tyEE1E5Fw4Z6vsVsoEeqexdPUR0YNIET7KHygNZWi4ftXSusPcyIZssBb7O6GfaJbv7H3FMLRxAtgOTb-1GsA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220919/607f1f3d68754fd03ac1a310491a5e8aa8b2e6629658e67a3775a062946eecef0064e7c8fbb11cbf_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "54470e1cfbbc04920XJ70929EFI~",
+    "bossName": "周女士",
+    "bossTitle": "招聘专家",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "37265a042319dbc61H142tm7F1ZY",
+    "expectId": 1030426395,
+    "jobName": "营销数据分析——英语作为工作语言",
+    "lid": "32978tfcpe3.search.17",
+    "salaryDesc": "9-10K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "SQL",
+        "电商/零售行业数据相关经验"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "仓前",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 17,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.023164,
+        "latitude": 30.28337
+    },
+    "encryptBrandId": "9a80334346a8f4661XR73Ny1F1Q~",
+    "brandName": "卓越际联科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240105/7bf6f160950405e9763d940637ab43c1b6bf9ec44707a6cd04c5cab85daa86eb9e7e03c57e4518bb.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

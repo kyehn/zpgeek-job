@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "准格尔旗",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "张先生",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "上海思芮",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "薛家湾",
+    "city": 101080600,
+    "cityName": "鄂尔多斯",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "090d0383d78783433nJ439q4FFQ~",
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "encryptJobId": "866b955a909792d51HB40ti9FFJX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.867514,
+        "longitude": 111.231793
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 144,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "矿区车载测试（包食宿）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5bPrqnj2pq4.search.144",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "RLKA-rYIizlTU-V1XRGLz5i36K-VgTaWNhzSz6misI0d_R1h02W9iRXHralhvoXeoJr6au26mLiM0eN_N15eT0I3a7gC8M0-E1yo_dM9GrYmwhQtnq4QETUnVR2TSmWBmj0YXReKQJQ~",
+    "showTopPosition": false,
+    "skills": [
+        "性能测试",
+        "Python",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

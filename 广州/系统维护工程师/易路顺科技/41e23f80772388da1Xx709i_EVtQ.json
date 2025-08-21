@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天河区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230426/607f1f3d68754fd0333ec00d4ea43150385afebf108a3d193661994b2075f35e72906ee6285ca724_s.png",
+    "bossCert": 3,
+    "bossName": "黄金仿",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "易路顺科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "燕岭",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6f44be69a0381c3c0n1_2928FVFQ",
+    "encryptBrandId": "fe8b62db942860e31XJz3dS5E1U~",
+    "encryptJobId": "41e23f80772388da1Xx709i_EVtQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.14984,
+        "longitude": 113.322692
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 47,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "系统维护工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7M7vnIMLpTd.search.47",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "u18AxzvWtI0hB-81qDAAhTAjCAzpcfAN2IF9-0N2RJifFcG1eAnEVNNjGJAV5V0gOsZN3a87DkYHPtOdasG3pkQO91rCJzaJAGNzZhBaK_du6Iq7wJ-Z-QAGHkUzxIXmdhXQc5i0VIGwo-c~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维",
+        "MySQL/Oracle",
+        "系统运维"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "五险一金"
+    ]
+}

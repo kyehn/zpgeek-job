@@ -1,0 +1,60 @@
+{
+    "securityId": "nqKcj09t2Qleh-E1oLfuIGA9fmGUDt2eC6e4Go6sPCz7eQ3mITZ6nv-rMjbXulBpSeQxHgJXfVGiqSMtLanQotO_gcwuKwjWyGkrKhZhEZsp-lpcogCtR2ZlfvopUe5OH-OHoVJ__fwl6pu0v_LsLikUKp7yivSY6B_ZzmoNoZzIhNWIzN8~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240513/607f1f3d68754fd00969c8c37020aba7d8b652a6003d956e8965c11ef736fa582ec7b4176032e5c0_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "dc7920e1ca591d8a0ndy3N-_EVBW",
+    "bossName": "张妍",
+    "bossTitle": "人事HR",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "f6eaadab8fc830e41HNz3tq_EVVY",
+    "expectId": 1014042683,
+    "jobName": "数据专员",
+    "lid": "2wF0e3JkAKq.search.297",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "业务数据分析"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "无锡",
+    "areaDistrict": "梁溪区",
+    "businessDistrict": "通江",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 297,
+    "city": 101190200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.312042,
+        "latitude": 31.587559
+    },
+    "encryptBrandId": "d23ec103991dcd261nJ639W_EVQ~",
+    "brandName": "苏州微玄",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210918/7bf6f160950405e9cdf8ded68563c1549f0b8ccac1838d65690adbba45e360a2bacb0c7fc874f962.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "节日福利",
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

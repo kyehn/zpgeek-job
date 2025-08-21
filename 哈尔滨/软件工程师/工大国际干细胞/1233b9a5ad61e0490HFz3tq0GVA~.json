@@ -1,0 +1,60 @@
+{
+    "securityId": "kMKLjjvZr6O8s-V1WTkWB_77SzqKh-ySRJTBW-iorrZL0nig8DyhxOMGnwJUDNqS8XaUgFwrOXSsJFZdkd0AB2yKFEEms4NAAGxGChYdlt42hKAp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191021/0dd5c44cc59bc878f04acf3b256aaef15d3e2558d07153e5bbe40bd9c90c819d_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "600ab81d77f6a91e031739y4FFo~",
+    "bossName": "周女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1233b9a5ad61e0490HFz3tq0GVA~",
+    "expectId": 0,
+    "jobName": "软件工程师",
+    "lid": "5MI6aDACXSt.search.45",
+    "salaryDesc": "5-9K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "哈尔滨",
+    "areaDistrict": "南岗区",
+    "businessDistrict": "曲线",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 45,
+    "city": 101050100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 126.632628,
+        "latitude": 45.743215
+    },
+    "encryptBrandId": "8bef31080c54fc390nV93tS5GA~~",
+    "brandName": "工大国际干细胞",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "机械设备/机电/重工",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "带薪年假"
+    ],
+    "industry": 100901,
+    "contact": false,
+    "showTopPosition": false
+}

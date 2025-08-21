@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "蜀山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "方先生",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190423/921e7bd799a268d6037e6494ca07ad7b521522f3c7fddd0717307bf5bc1c30a2.jpg",
+    "brandName": "优品贵德",
+    "brandScaleName": "100-499人",
+    "brandStageName": "已上市",
+    "businessDistrict": "海恒",
+    "city": 101220100,
+    "cityName": "合肥",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fa5afb2eb4a33b1c1H1829q4ElI~",
+    "encryptBrandId": "ee07a0754c0536e21XR729u1FQ~~",
+    "encryptJobId": "ec9ffdf8d63bb3f81nZ62t-8ElZV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.782599,
+        "longitude": 117.246178
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 50,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "ERP软件实施顾问五险一金",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8hDQ1zXOgJt.search.50",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K·13薪",
+    "securityId": "809Y7pCvbDoaa-B1HZIFjhMa02cIekMl2rfYUw66URaN3NLTVtX2LJDC_yasYgeE-Too7iYCmlwwqUygTvM1FWMr2e6VgePPnzP0EheqvBAC880zprpyyDqdFWNaMb1OTiXL0WfgAaCK",
+    "showTopPosition": false,
+    "skills": [
+        "实施工程师/顾问",
+        "ERP",
+        "信息化"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

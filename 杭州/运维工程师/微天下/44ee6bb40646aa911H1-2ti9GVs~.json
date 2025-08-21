@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "萧山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190710/397e5202a1e5a3c61328b021cef7963fd97f1115f995ae08ae261a76662cce38_s.jpg",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200510/a88058536ac1756f281cf7185fd99ed393deba2da4f94923a4568e7cf81545d4_s.jpg",
+    "brandName": "微天下",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "钱江世纪城",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c1f3655ee660be6403F42dm_FVU~",
+    "encryptBrandId": "2dcc57cb6d6b57181HF539W8",
+    "encryptJobId": "44ee6bb40646aa911H1-2ti9GVs~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.238045,
+        "longitude": 120.253769
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 11,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7PMJSqW1Uwz.search.11",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "LTYI6TtsgJpA8-T1Gw8Y11tYLCdkCksHA8pCd_KfXM1k8NplNymDwA6e2ZOJuNQcKbZ-4JV15OGvPPAkU63tQ53OPqWZAsEWOHGT2_X4pN38V_2zV7ABhLsE0KRUaVkXtMhLTDkRXA~~",
+    "showTopPosition": false,
+    "skills": [
+        "数据库",
+        "Linux",
+        "运维开发"
+    ],
+    "welfareList": [
+        "节日福利"
+    ]
+}

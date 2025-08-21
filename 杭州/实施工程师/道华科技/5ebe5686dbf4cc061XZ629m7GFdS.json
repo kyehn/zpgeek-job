@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20200619/85762d299005f6d1ee8900978b9eb6007dca9bf99e5e60b542c1224f982e3d53_s.jpg",
+    "bossCert": 3,
+    "bossName": "赵磊",
+    "bossOnline": false,
+    "bossTitle": "项目经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220331/7bf6f160950405e9e4874630ef3164e4b3aeab1e5b9246d27dca9bf99e5e60b542c1224f982e3d53.jpg",
+    "brandName": "道华科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "文二路",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "083b83c271648ccf1HR53NS7Fg~~",
+    "encryptBrandId": "4ceb6182bffbbef91HN73dy9GA~~",
+    "encryptJobId": "5ebe5686dbf4cc061XZ629m7GFdS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.27878,
+        "longitude": 120.126168
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 110,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "o8beA7ZFRO.search.110",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K·13薪",
+    "securityId": "PGdBxgZvGJcU_-913fx5wGQQ6e7d60QNXprMtCfECEw-iPhCEAJvknkdPrPIphI7mRpy7NDSJZwrPUSSL1HBH3QSE6hmFfIYx9Gftyhr4q0-SWOhVW4kGMdUvnO_usF-xCaWor-eXCQ~",
+    "showTopPosition": false,
+    "skills": [
+        "MySQL",
+        "软件实施"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "节日福利"
+    ]
+}

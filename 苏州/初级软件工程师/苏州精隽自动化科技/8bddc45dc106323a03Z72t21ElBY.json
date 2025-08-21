@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "吴中区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "自动化设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "苏州精隽自动化科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "越溪",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7fefe7e022c2361103x53969Ew~~",
+    "encryptBrandId": "19f8601bf447a8611XJ_2N-9Elc~",
+    "encryptJobId": "8bddc45dc106323a03Z72t21ElBY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.188855,
+        "longitude": 120.585749
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100914,
+    "isShield": 0,
+    "itemId": 82,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "初级软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7NVA2I41QID.search.82",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "_scIZtQbuSbRH-m1R9NAJlSAvkJbBTCV40OReuYWNebPoaWwI5RCbhxE1HafF8j4SS0auJCceLqmZ79e4Tt4AleqMzn7bYQ5_EQTkwr4K2b4Ve82cWYXrzSS80qD75F15k8NBw_8_Cs4",
+    "showTopPosition": false,
+    "skills": [
+        "C++"
+    ],
+    "welfareList": [
+        "全勤奖",
+        "五险一金"
+    ]
+}

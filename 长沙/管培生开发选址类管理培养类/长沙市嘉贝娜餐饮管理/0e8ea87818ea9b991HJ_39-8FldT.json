@@ -1,0 +1,63 @@
+{
+    "securityId": "-NE6oHlHEIiaJ-b1BgiEJvbCRhYgI1g-fsTcJE7EEwIp7cOzYYHulBiVha6grND7H8apSBaL_ya69gXhh4QhJ9GgUOla4y4HgVTmo1Y2PAYrfOKmyvsh",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240614/607f1f3d68754fd0a756f0e5dd4f30b0293b38a42422f56e8d1dfdba1181aad796d933dcb278a27a_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "76cc935ee65bddc40nRz09-7FVdY",
+    "bossName": "王先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "0e8ea87818ea9b991HJ_39-8FldT",
+    "expectId": 0,
+    "jobName": "管培生(开发选址类、管理培养类)",
+    "lid": "3nnaxuJmnGT.search.141",
+    "salaryDesc": "3-8K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "餐饮"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "开福区",
+    "businessDistrict": "伍家岭",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 141,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.988032,
+        "latitude": 28.223634
+    },
+    "encryptBrandId": "4fce1c20457525ce1HF-0tu5GVE~",
+    "brandName": "长沙市嘉贝娜餐饮管理",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "餐饮",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "免费工装",
+        "股票期权",
+        "保底工资",
+        "底薪加提成",
+        "包住",
+        "绩效奖金"
+    ],
+    "industry": 101101,
+    "contact": false,
+    "showTopPosition": false
+}

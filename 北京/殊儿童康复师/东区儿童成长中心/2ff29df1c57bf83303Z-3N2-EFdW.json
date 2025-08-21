@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231118/607f1f3d68754fd0022d6f5e81ef987405acaa7f1abc931b930419a2b176cbd01467a468c3545182_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": true,
+    "bossTitle": "HR",
+    "brandIndustry": "培训/辅导机构",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "东区儿童成长中心",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "高碑店",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9e4c84a415e33d2c0nR82tS8GVFS",
+    "encryptBrandId": "472b16b4d59f100b1nZ80t6_FFE~",
+    "encryptJobId": "2ff29df1c57bf83303Z-3N2-EFdW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.881183,
+        "longitude": 116.545595
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100303,
+    "isShield": 0,
+    "itemId": 199,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "殊儿童康复师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5WBRAdI1iIX.search.199",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "EY98xHaIaSyux-v1WvVq6GwPMSMmQWZuLaosM7WtIIyIdE88o40MNR6MmscUhnaQZF8-dmx_vb9YeZ6OSGuprEYq9D1bYni_bQeNIGgs-XjQrw6lT8H_zQPY1rQykbiAAKVrwpDSi8-O9EUDb--BukDXqGzjnFnOSL9RKQWjJ_tb0iI3H14~",
+    "showTopPosition": false,
+    "skills": [
+        "康复治疗师资格证",
+        "儿童康复"
+    ],
+    "welfareList": [
+        "住房补贴",
+        "宿舍有空调",
+        "餐补"
+    ]
+}

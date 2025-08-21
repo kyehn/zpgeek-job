@@ -1,0 +1,63 @@
+{
+    "securityId": "4o1agCf1NL91P-H1u9lW9OnxKAl1aEYs7uSVLwNASFzX4JYKP-sR6Usy7JdENEcYAMIn3oHHofI1NYbjlGDMzURuZ07pU5IIT_-Oir0rIGfoJTfCnA~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "a5dd892fe54c2f2933dz392-GVs~",
+    "bossName": "雷女士",
+    "bossTitle": "人力资源主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "dc16df7b7bc175a61HN62du7FFtR",
+    "expectId": 0,
+    "jobName": "vip运营专员",
+    "lid": "3vQwwt7Z3ye.search.258",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "不接受居家办公"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 258,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.890277,
+        "latitude": 22.768402
+    },
+    "encryptBrandId": "36b98705764c6a161nB909i7FQ~~",
+    "brandName": "天王表",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200801/b860f25943e0ff181f4e8102d22d8aacc9242659370251918b7530951c195c54_s.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "珠宝/首饰",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "五险一金",
+        "节日福利",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游",
+        "年终奖"
+    ],
+    "industry": 101006,
+    "contact": false,
+    "showTopPosition": false
+}

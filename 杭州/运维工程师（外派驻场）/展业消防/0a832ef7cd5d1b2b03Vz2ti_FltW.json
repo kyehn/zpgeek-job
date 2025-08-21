@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "余杭区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "景江锋",
+    "bossOnline": false,
+    "bossTitle": "总经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170831/1f384fe9c4fba405d1e386e65929032f24899f7ed8ba4e25b64677efaf6e8955.jpg",
+    "brandName": "展业消防",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "万达广场",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7abf4f72b0400f701X1_2t-4ElY~",
+    "encryptBrandId": "f6d1c58d5f903e0733Z42t-5",
+    "encryptJobId": "0a832ef7cd5d1b2b03Vz2ti_FltW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.339203,
+        "longitude": 120.113187
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 88,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维工程师（外派驻场）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7VTIlIcaGsW.search.88",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "YKIOpYwtr5ON3-D19H_L73yF2Xny1NbFQM0X3Xk6_NzAzJ76PjfeN9dDGSyC4wfv8xNNB1CPkO_nvSn7LF27vCI9s_yMjmEaYap9BDN8WfioAMFFG0M7qzrPlX_o7TfZjHCPXUb5bE0~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维",
+        "系统运维",
+        "IDC机房运维",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

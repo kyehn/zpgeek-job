@@ -1,0 +1,60 @@
+{
+    "securityId": "qvTYbHiLw7q8V-y1wAd0UOjXipDXLOSkhi1S1EnN_ZBgO1Qrw6zAVZu-BaGq4I2pm8CT_cBSSvznp3jfjuWhPwTYBFHfWACExm6PIZUAuf4GPGuGNi08FQpnq6o90XlRMMyxrwlRxC9yZnapYm8epsE_9e59HmKDW5FqU558vSL9fVoj9A~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "b123ecb579fa265203J42Nu4EVA~",
+    "bossName": "张慧",
+    "bossTitle": "人事主管",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "ec380a4189df7aef1HJz2dW-ElpX",
+    "expectId": 1014042683,
+    "jobName": "数据分析师",
+    "lid": "3mDMYHxjiWU.search.29",
+    "salaryDesc": "5-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "教育行业",
+        "数据分析",
+        "反馈信息"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "天津",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 29,
+    "city": 101030100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 117.216188,
+        "latitude": 39.113613
+    },
+    "encryptBrandId": "f766649e5f8f02f51nN43N-0Flo~",
+    "brandName": "鼎典优学",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210527/1aabc6df0d18a8eb6d94e29778c7c80eb5b329d976f4d4048c92632f5c50f42c.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

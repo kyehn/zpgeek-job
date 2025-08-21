@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "五华区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181112/8735ff082f0adfbdc9c8d5256caaf57dafa25676243f76978440f61d16935580_s.jpg",
+    "bossCert": 3,
+    "bossName": "顾佳",
+    "bossOnline": false,
+    "bossTitle": "人力资源总监",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210512/609d90f60735bab56a0be07c382b495015e6277e380fd22a9711da426d0eb9fa.jpg",
+    "brandName": "佳友荟",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "丰宁小区",
+    "city": 101290100,
+    "cityName": "昆明",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4f10f85c9613309603xz3d28EFI~",
+    "encryptBrandId": "caa83d5795eec9791nJ43dS-Elo~",
+    "encryptJobId": "4eff2f2bec885f181nF539u-EVdY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 25.049072,
+        "longitude": 102.66845
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 65,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "HYt9VKBjyq.search.65",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-12K",
+    "securityId": "VizDKa-fMuAQx-i12-N4IC5cwLCmoJjHUCBedBNhOFlybqdFjl3fIxiyKwuil1lZvPPRwXLTc0VYHhBKjQS8706fBsxLzAZOT2QWzZyOLIbcMONMxS1wecSwrT4WfWcQcvugLRsxeYm3tg~~",
+    "showTopPosition": false,
+    "skills": [
+        "Spring"
+    ],
+    "welfareList": [
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "交通补助"
+    ]
+}

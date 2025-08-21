@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "杨浦区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "仇女士",
+    "bossOnline": false,
+    "bossTitle": "HRBP",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170717/292c003921dfc0670c105cc12596342a8396d16b0ed7ddef039cf40a4f55fda3.jpg",
+    "brandName": "达海智能",
+    "brandScaleName": "100-499人",
+    "brandStageName": "已上市",
+    "businessDistrict": "黄兴公园",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "41f8c2a60cb5e0a10nd-0ti8FVtT",
+    "encryptBrandId": "83073b3f317cb66433V53N67",
+    "encryptJobId": "257fdcd0d1df09271HN63dS6GVNS",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.2936,
+        "longitude": 121.53528
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 68,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "实施运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5SXFhmwzG6b.search.68",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "0HtHj9602ob0W-G165QE1hce5hlI5tB9o-cVmOA1r20CO4t8g0ZP02szsAHhWcMJPafk9dbGCa6m8UWx0-ySFT9wdj45FKq3kOUpEgbKCl-jUOToeg~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维",
+        "系统运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

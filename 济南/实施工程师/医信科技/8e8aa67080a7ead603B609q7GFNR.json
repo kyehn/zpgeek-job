@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "历下区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220707/607f1f3d68754fd0dfb396e60b22c51370a1ea089be5a2f5d830a6af0ca654ba110966325fef5e19_s.jpg",
+    "bossCert": 3,
+    "bossName": "刘浩",
+    "bossOnline": true,
+    "bossTitle": "研发经理",
+    "brandIndustry": "环保",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "医信科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "浆水泉",
+    "city": 101120100,
+    "cityName": "济南",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b3cefe60aac0d9ee0nBy2dW4EFBR",
+    "encryptBrandId": "3170b0acd5e6522f1nV-2dS0E1Y~",
+    "encryptJobId": "8e8aa67080a7ead603B609q7GFNR",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.67376,
+        "longitude": 117.130206
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101207,
+    "isShield": 0,
+    "itemId": 76,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8G0wbQ5go2Y.search.76",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "asqw-KQFHdEGY-F1Za3mgaNzVKNtpxNb8NpyLd4lcJvxjbq-3tG0oi8s9hQ2EVeM_wYEc4ffSacu0yLTIfxdzXi6naQ93-Tf0tqzc85ErN7qyANxoAP_FmwSyD0uORUjpjkd5N8OHWJphYXw_ExIY_7r",
+    "showTopPosition": false,
+    "skills": [
+        "软件实施经验",
+        "计算机相关专业",
+        "可适应出差"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

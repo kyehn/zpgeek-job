@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江宁区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190619/3c6897facb7fb5589e22381c132743a69643c7e06605f466c98eae22280a52b5_s.jpg",
+    "bossCert": 3,
+    "bossName": "高媛",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "在线教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180309/7c9f1156f81579dd145c8d02b413e0becfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "华叶跨域",
+    "brandScaleName": "100-499人",
+    "brandStageName": "B轮",
+    "businessDistrict": "秣陵",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "dbc1a74a8569e9860XJ439S8FFE~",
+    "encryptBrandId": "93537367fdd0478a1nVz09q9Ew~~",
+    "encryptJobId": "5ed2a6bcc6d071481nV9096_E1RY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.868397,
+        "longitude": 118.828227
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100012,
+    "isShield": 0,
+    "itemId": 94,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "26H3hlQiZIZ.search.94",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K",
+    "securityId": "-8ER4NI5eeO9f-L1wqgQshQCWroyPIAZCj0Tzo0mfixwcJkrIwxZhEch1RHBmyQKX0OPqtFO9HaB4lhNVC7hRCjSLqS5TTs3chVuCD0O2pBVBus2eDoDdKvNJToUsvDOb15IO3YmfEC3",
+    "showTopPosition": false,
+    "skills": [
+        "SQL",
+        "HTML"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假"
+    ]
+}

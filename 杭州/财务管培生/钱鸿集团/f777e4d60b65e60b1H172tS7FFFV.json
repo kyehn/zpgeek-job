@@ -1,0 +1,62 @@
+{
+    "securityId": "YQ4VbU-HIorht-51xY8Kx82BbEHL7laHKuYb82l0_Q_rJ7r7hAjF9N4em7Xtx5ZDSB4KDnZOyzDb_fnzibnDdWo9LadkU8y2Qn818bH5y1MRIMRbHG5u7lQtLLvNqjvlWR3-YvfhwfFKYw~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "82c68d0fef540da80n1629-0FlBU",
+    "bossName": "麻先生",
+    "bossTitle": "人事主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f777e4d60b65e60b1H172tS7FFFV",
+    "expectId": 1014042683,
+    "jobName": "财务管培生",
+    "lid": "30XqdK6dS2D.search.211",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "集团公司"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "萧山区",
+    "businessDistrict": "宁围",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 211,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.271034,
+        "latitude": 30.253504
+    },
+    "encryptBrandId": "5545bbf984c703f01HR929y9Eg~~",
+    "brandName": "钱鸿集团",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241011/7bf6f160950405e96167e3a3a041c97c8374b72765c8956e3e88c3fd72848ace19b7afb69ca69427.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "其他消费品",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "宿舍有空调",
+        "有无线网",
+        "带薪年假",
+        "节日福利",
+        "五险一金"
+    ],
+    "industry": 101013,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "赫山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "王静",
+    "bossOnline": true,
+    "bossTitle": "人事主管",
+    "brandIndustry": "电子/硬件开发",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "先宇科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "火车站",
+    "city": 101250700,
+    "cityName": "益阳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a988eaa5437ba0320XF_2Ni9F1tU",
+    "encryptBrandId": "60af5cbc32be74441HF73di9FFE~",
+    "encryptJobId": "ad4c3e9f801aacae1HJ-3t26EVtR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.51785,
+        "longitude": 112.343429
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101406,
+    "isShield": 0,
+    "itemId": 81,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "smt测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "70BnxzK7Ye8.search.81",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "j5wWGoFLX3U1b-W1HFtAJcTmrcadUr7ofldH14c5FI-1x--9pNmBayIUo4lD2SjLf3qVU9cHauSiX8Hmbbuh3w6BidF0-XJf-wVp1F9Q_LjgqihUfvS4SDiXl-f242VaJ-QGgmkqa8wzH_ElpmVin0l2fPBL1pEj56QJ1iYUdNntRepOkI4~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+    ]
+}

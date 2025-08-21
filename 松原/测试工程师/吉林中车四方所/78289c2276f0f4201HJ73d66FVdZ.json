@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宁江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200316/eb39ed90543590abe98fe8cfbb1518a08380482b44925d7aac6ddfb58080bba7_s.jpg",
+    "bossCert": 3,
+    "bossName": "赵威然",
+    "bossOnline": false,
+    "bossTitle": "人力资源经理",
+    "brandIndustry": "电气机械/器材",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "吉林中车四方所",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "松原经开区",
+    "city": 101060700,
+    "cityName": "松原",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0ee8df87e758822f3nx92Nu0EVs~",
+    "encryptBrandId": "86c7a797f80bda031Xx_3N20FlQ~",
+    "encryptJobId": "78289c2276f0f4201HJ73d66FVdZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 45.267034,
+        "longitude": 124.851802
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100908,
+    "isShield": 0,
+    "itemId": 71,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "16Z1pYZuQBG.search.71",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "2SYW_8-b9EscZ-l19hF-uXoRRhFLCSVg7QKXQgbdvzqQn8uirpKC0MmjBtYemhqyINFZLcy0VcMfvOVm3ZZUeNYtAETrX3QtqFUp6oDzNVMIbU-UWHQumFvKsb0C9vk9XqxmE713VygqdA~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试"
+    ],
+    "welfareList": [
+        "交通补助"
+    ]
+}

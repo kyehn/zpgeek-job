@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "市中区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+    "bossCert": 3,
+    "bossName": "董先生",
+    "bossOnline": false,
+    "bossTitle": "人资总监",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250515/7bf6f160950405e93b11cb6bcf46adcab17b23746583b1dbace1462308aac4424bf5dca7479af2f6.png.webp",
+    "brandName": "泰安成新网络科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "纬三路",
+    "city": 101120100,
+    "cityName": "济南",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "75bbd5b6a09b1cc60HR93N67GFRT",
+    "encryptBrandId": "894ce71aa704b2fd03V-0t27EVc~",
+    "encryptJobId": "17f8ea518f361cd503Bz3dW_GVJR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.662359,
+        "longitude": 117.002524
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 90,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7ufOAUvGpHE.search.90",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "aap7VatiRdCEk-P1rif0-RGecw5dVeMKSMNSFcP5H9ztWWXyxlv5DI7w0Rs-OZNVDgIiy32wxDZ7_QK3CpuoadIvmAKtttyhTN-LouS0hF7tK1JP27SRvvpwXDiJAIPKID_OQkLVX0JiX4s~",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金",
+        "底薪加提成",
+        "年终奖"
+    ]
+}

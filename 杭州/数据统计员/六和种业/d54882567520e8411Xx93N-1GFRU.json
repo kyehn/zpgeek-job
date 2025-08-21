@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "上城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230526/607f1f3d68754fd0365752bf265fd6a972103273d6f27650f3a0151085c074bbd3621398de05c098_s.jpg",
+    "bossCert": 3,
+    "bossName": "施正侃",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "农/林/牧/渔",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230620/7b5b554d84f9729cf26d6830de26620db56634acfa0d1a21f3a0151085c074bbd3621398de05c098.jpg",
+    "brandName": "六和种业",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "笕桥",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "670c759191e7fccb0XR6296-GVFU",
+    "encryptBrandId": "2084cd1a9ee6273f1XN809i5FVY~",
+    "encryptJobId": "d54882567520e8411Xx93N-1GFRU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.307724,
+        "longitude": 120.192526
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101303,
+    "isShield": 0,
+    "itemId": 88,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "数据统计员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4bYc7lhe5ED.search.88",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "CJNwUr6ILLgyX-T1QuX292niaH9axOQeWouB3CEL9TPxGu3P2zwr2IrdsNcc_5YuWy9RxAKlq3u1WxPU3E9Y3a-o03sVv9zGIRgrqt1YWGdBT-ntIpIjcS_3TkEdHcKRLnVm2DhR4NZT2WU~",
+    "showTopPosition": false,
+    "skills": [
+        "统计、内勤"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

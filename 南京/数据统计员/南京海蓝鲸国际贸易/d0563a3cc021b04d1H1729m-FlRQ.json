@@ -1,0 +1,62 @@
+{
+    "securityId": "z5B7ylKyyPJcF-V1m2FSp8SYM8NEuScNv7nogqxr_lDEUfdCL40_ekxUKRn1h64tRongbrOXRPqoiDQ-dG8pvlAWekyYKnOY4ifkWtafv51nDOrmJNpxb4DqjbjqtiBown8OiruvXKwvokE~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230323/607f1f3d68754fd06532bc5f3f76392eb56837d15852624890b8edc5ad46bdb3d3677b1b259f825e_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "e07c9fd46b852bc10nx63tW9GVpR",
+    "bossName": "任女士",
+    "bossTitle": "招聘",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d0563a3cc021b04d1H1729m-FlRQ",
+    "expectId": 1014042683,
+    "jobName": "数据统计员",
+    "lid": "3nzlZTWaozl.search.274",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据员"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "南京",
+    "areaDistrict": "江宁区",
+    "businessDistrict": "众彩市场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 274,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.888888,
+        "latitude": 31.984515
+    },
+    "encryptBrandId": "b3c2c8c12102d1e81HV509q0Flc~",
+    "brandName": "南京海蓝鲸国际贸易",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240305/7b5b554d84f9729c102a817c35d5fdcb1ceccc421d015bd71567a64c766be5dd3db801da65733dc0.jpg.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "食品/饮料/烟酒",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "生日福利",
+        "包吃",
+        "绩效奖金",
+        "节日福利"
+    ],
+    "industry": 101001,
+    "contact": false,
+    "showTopPosition": false
+}

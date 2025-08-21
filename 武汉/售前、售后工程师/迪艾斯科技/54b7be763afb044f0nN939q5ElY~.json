@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "东西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "孙女士",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "医疗健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190816/0c0fca5d50ec459aff012e8468dfebe5daca9230aaa0ca68a73d22fd174c8954_s.jpg",
+    "brandName": "迪艾斯科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "金银湖",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b91ae96e0e96de760nV-2dm0GFY~",
+    "encryptBrandId": "cc12e0bfa12666751XV709m1Fg~~",
+    "encryptJobId": "54b7be763afb044f0nN939q5ElY~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.669381,
+        "longitude": 114.221842
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100006,
+    "isShield": 0,
+    "itemId": 35,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "售前、售后工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7MwGRlkH74q.search.35",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-7K",
+    "securityId": "-Kvi0ZxVT1miC-I1hlj8yVr1G2ztLZfczPAO5-U_MuaXwocsOlqaQE59UZV0acJLTAS-jBOIMhkYVM_Eazs6BAod6WA5-N59x9tIznKyKqQIdB3GZ-THD0S2G7i6HP_BNg9rBkmtE3o~",
+    "showTopPosition": false,
+    "skills": [
+        "售后工程师",
+        "售前工程师"
+    ],
+    "welfareList": [
+        "加班补助",
+        "五险",
+        "带薪年假"
+    ]
+}

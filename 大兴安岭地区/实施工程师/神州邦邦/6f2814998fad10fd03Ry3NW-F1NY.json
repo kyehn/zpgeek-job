@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "加格达奇区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210720/b06bfefa23c30ed9540e0ffe441b7bb07f53e6ecfd694d24d928724186250b0d_s.jpg",
+    "bossCert": 3,
+    "bossName": "刘毅",
+    "bossOnline": false,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190402/d0d7b2bbd603e2c36c98789c6c92101c4097c9a44df10db9ade4a2213402ffdf_s.jpg",
+    "brandName": "神州邦邦",
+    "brandScaleName": "100-499人",
+    "brandStageName": "A轮",
+    "businessDistrict": "加格达奇",
+    "city": 101051300,
+    "cityName": "大兴安岭地区",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1cbee214e952fd630nVz2Ny-FFVV",
+    "encryptBrandId": "3a90635e96ec956603R42tq-FA~~",
+    "encryptJobId": "6f2814998fad10fd03Ry3NW-F1NY",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 50.41191,
+        "longitude": 124.114033
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 34,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7UIUEsHPl2K.search.34",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "YNExFnCeAfxID-U1D8H8vQvJSoqDcNhJ4ER6eW1Em9Q3v-XdFG0i5MJ3lUzV63gY3Ij4tf7y4gnN6XuWzoz3xShBXlp57HtmYsGonVnKCDeiYxyaE44~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "通讯补贴",
+        "节日福利",
+        "五险一金",
+        "餐补"
+    ]
+}

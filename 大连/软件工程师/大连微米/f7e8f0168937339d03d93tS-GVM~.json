@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "甘井子区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_11.png",
+    "bossCert": 3,
+    "bossName": "赵东丹",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "医疗健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190531/00f3c34ca08460521c3ff989126082b2dce10015cef40fcc04697b3ededbc477.png",
+    "brandName": "大连微米",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "七贤岭",
+    "city": 101070200,
+    "cityName": "大连",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1d5c3f1454af07400XB43tm7FFQ~",
+    "encryptBrandId": "faa88e9e10f0e2eb03J52tq6Eg~~",
+    "encryptJobId": "f7e8f0168937339d03d93tS-GVM~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 38.858147,
+        "longitude": 121.526322
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100006,
+    "isShield": 0,
+    "itemId": 95,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1707N8L8GSM.search.95",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "WAO0wL_smR-Ij-I1B3dCrGD-MmFzhn_oS3E7lam8oma-WspLmtaylznd4PjeA0ArS0nOnrEwaxW0bEV_VKaFpLG6dY5ko-k_KvdS6BdQoMQjkUgU5bpGxFNrdKfF0giveEEbl9HJHno~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "软件测试",
+        "性能测试"
+    ],
+    "welfareList": [
+        "五险一金",
+        "通讯补贴"
+    ]
+}

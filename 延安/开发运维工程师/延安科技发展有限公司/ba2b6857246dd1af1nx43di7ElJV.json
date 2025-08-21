@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "马东宁",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200518/a4ee2e9782d3b85d4e2553bb4ceb99afa311737927a251e51d5d70ab48b2dd31_s.jpg",
+    "brandName": "延安科技发展有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101110300,
+    "cityName": "延安",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f41765ba2e99b6ea1nVz2du-F1BW",
+    "encryptBrandId": "82d62b27960a54c91H1_39S8FA~~",
+    "encryptJobId": "ba2b6857246dd1af1nx43di7ElJV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.645165,
+        "longitude": 109.504759
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 70,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "开发运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1J176GfRUro.search.70",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "G0ewO7E3vHF6c-d1PK-wI45e_KKPwL0nuRcfMNgE6UcCPS0Ex1EbL3K4dnGK-q1Jt5jXHEn9ec7geGM-c420CMdTwCjvcitMN_xjHRsHJSMUJK5e8xDV2cVI3hKOc5aagWvW8AW0DKlGJg~~",
+    "showTopPosition": false,
+    "skills": [
+        "Linux",
+        "Oracle",
+        "Java",
+        "SQL"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "tXwnDFy5McAYd-i1TI_GHMOTGySC7VbVpVfyFQIHNHgJo3Ik9_hFRCvZpb9Yks9uizVCwGv5yjkxqptDeGrm3Sb7hlZ86g-4e3AK7leg_sGtwvUsJ-rxr54zFgwCWSS4iWB59h7TvBGqZ1EfIqobwGSdzrCPX45BV46gFXmVq_4tt5_h",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220730/607f1f3d68754fd08d8972bf94d176ac0c30692f60255fc0da1efd36d4bb36e4152e7b3e53869b11_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "06a89877009c1adc0nR52tm1FVZU",
+    "bossName": "尤莹",
+    "bossTitle": "猎头顾问",
+    "goldHunter": 1,
+    "bossOnline": true,
+    "encryptJobId": "5fd54062057491511HN82tm9FlFS",
+    "expectId": 1030426395,
+    "jobName": "域控制器白盒软件测试",
+    "lid": "1r5sI81fMzC.search.102",
+    "salaryDesc": "15-25K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "自动化测试",
+        "C++",
+        "白盒测试",
+        "AutoSAR软件架构",
+        "域控制器"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "anonymous": 101,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        8
+    ],
+    "itemId": 102,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": null,
+    "encryptBrandId": "",
+    "brandName": "某小型汽车研发/制造公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "汽车研发/制造",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100801,
+    "contact": false,
+    "showTopPosition": false
+}

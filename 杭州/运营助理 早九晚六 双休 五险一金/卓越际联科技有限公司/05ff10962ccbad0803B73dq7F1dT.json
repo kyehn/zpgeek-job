@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "余杭区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_12.png",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": true,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240105/7bf6f160950405e9763d940637ab43c1b6bf9ec44707a6cd04c5cab85daa86eb9e7e03c57e4518bb.png.webp",
+    "brandName": "卓越际联科技有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "五常",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c866c651a18722cb03d539W5",
+    "encryptBrandId": "9a80334346a8f4661XR73Ny1F1Q~",
+    "encryptJobId": "05ff10962ccbad0803B73dq7F1dT",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.278915,
+        "longitude": 120.025512
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 22,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运营助理 早九晚六 双休 五险一金",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8bEFZg4a3hb.search.22",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "54pEYg29ZFH7X-G1q_vjcAB1z7s24mNjnZ-QjJHwtDXIkD3_Nr5oNBHr7eWMKW8cr0FOE2gVmjvRZmp7Im_IH7NVXqH-Qx9Bn-5PQ6F44jSaq8zkmfX4wVFZXQhGvqe3QihPG70LCvUsinP6Du0T",
+    "showTopPosition": false,
+    "skills": [
+        "EXCEL",
+        "数据分析"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

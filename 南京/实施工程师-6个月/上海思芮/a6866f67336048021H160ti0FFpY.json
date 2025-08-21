@@ -1,0 +1,61 @@
+{
+    "securityId": "l7Q9J32ceqSVc-H1OQBY_v8KG2lbcX_zW3SK1e-vyntJ4wzjo3gv8GhMLwS-ZBXVp6Z0pgXXk1hEw0KU8h3EKsUFxWdn2TIl7HzNLWwSgmHiVmXlKWA7juvkMg4DvwBx5FPkQ8Si40g0",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240618/607f1f3d68754fd0ecce6dc6cd30edea70402f01a4522c28b521944f70e77eb7f36e63bd7b71a93f_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "394f0cf382e1801c0nZy3t66E1FQ",
+    "bossName": "孙小飞",
+    "bossTitle": "招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a6866f67336048021H160ti0FFpY",
+    "expectId": 1030426395,
+    "jobName": "实施工程师-6个月",
+    "lid": "MufngV8v98.search.70",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "linux",
+        "oracle"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "南京",
+    "areaDistrict": "秦淮区",
+    "businessDistrict": "长白街",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 70,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.789174,
+        "latitude": 32.038495
+    },
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "brandName": "上海思芮",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

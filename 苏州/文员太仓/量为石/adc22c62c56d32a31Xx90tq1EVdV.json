@@ -1,0 +1,63 @@
+{
+    "securityId": "CyW3BFRMmSxrJ-M1D05bNHk7s8Qu5UJUQppJw4-NWPSXvUmiczvJDCbF1akineMWSg3Autdjxm1ENnOeMziwLy52fsgEunVoaQVLfGuPWSOpLyIvbA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211019/607f1f3d68754fd0b34bcd6507eb66e689ed48c1c334a45da6c12eb060ca223ea2d91f54a99ae5fd_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "6956618ac6a801371nZ-3Nu0GFJY",
+    "bossName": "郑女士",
+    "bossTitle": "招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "adc22c62c56d32a31Xx90tq1EVdV",
+    "expectId": 0,
+    "jobName": "文员（太仓）",
+    "lid": "2Yw3tuSJvHF.search.180",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "后勤",
+        "文员"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "太仓市",
+    "businessDistrict": "太平南路沿线",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 180,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.098021,
+        "latitude": 31.449708
+    },
+    "encryptBrandId": "2e7dc9f7eb2cddb803B-3dq0",
+    "brandName": "量为石",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170309/de084ed8aab7f1c5027569ccaaa2d3daf7898f1bf4cf8c6d81a27d6668851b61.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "大数据",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "定期体检",
+        "五险一金"
+    ],
+    "industry": 100005,
+    "contact": false,
+    "showTopPosition": false
+}

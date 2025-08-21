@@ -1,0 +1,62 @@
+{
+    "securityId": "3tVGt6ezUiUER-X1HI3-2ExNuVuJig5DZ2x2e6cleqwsBF1DatJ6zgB0T-jwGSKqaGasrCwZ_xSL7Av3hveG6qb9QCLokUAAdsiQEC0MkY4wAoXKSUo~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220403/607f1f3d68754fd08d1284fe413b6eedc53beeba12e52f677638cf5679dbaef3a065d3c6bfe91f1b_s.png",
+    "bossCert": 3,
+    "encryptBossId": "4b81c9353128cab61XR73N-_GVU~",
+    "bossName": "王先生",
+    "bossTitle": "CEO",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4f2c6333add6dce41Hd809m-GVBZ",
+    "expectId": 0,
+    "jobName": "电解槽设计工程师助理(应届生）",
+    "lid": "1JZJNSJNHU9.search.196",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "助理",
+        "电化学",
+        "CAD"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "勾庄",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 196,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.094522,
+        "latitude": 30.34152
+    },
+    "encryptBrandId": "1fca23e0bed137f41XRz2dW0EFA~",
+    "brandName": "柯晟医疗",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240221/7b5b554d84f9729c5c847ecc295a897ee0fae20cbfc7d38b7638cf5679dbaef3a065d3c6bfe91f1b.jpg.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "医疗器械",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "绩效奖金"
+    ],
+    "industry": 100403,
+    "contact": false,
+    "showTopPosition": false
+}

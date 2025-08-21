@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "王凤",
+    "bossOnline": true,
+    "bossTitle": "行政主管",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230606/7bf6f160950405e99e474c66055a0459bb16b8c9d833d1a8841f37b42b43d4c718ec4e0ea8168577.jpg",
+    "brandName": "上海夏微办公设备",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "张江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "69964a3d64bc482c0XR73tm5FlVT",
+    "encryptBrandId": "1015e4edcc71820c1XNz2dq9FFs~",
+    "encryptJobId": "17c972ecffbbc7ea1Xxz3N20FFpY",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.174931,
+        "longitude": 121.598355
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 44,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "驻场运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8eW8dRClNaT.search.44",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "TRhZQZehUHRGu-E1NrurqLVQlTak0R1yat91if5s34zGGLtX12vF0syGGppcP5rkm4bcWf1ydeC4UBdw8m6uiMiFrA4_CCVV1Ts7BPJME0Q-f3nYrHM1gk8smSEhSb7f07P5atzcQwl0vA-N8FvijNMf",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维"
+    ],
+    "welfareList": [
+        "五险一金",
+        "绩效奖金",
+        "年终奖"
+    ]
+}

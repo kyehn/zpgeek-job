@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "东城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240807/607f1f3d68754fd0f81f4b8b73c723280a2ab2f43776eb0d2947d7140dda9bdb86da9e00abbdc9ee_s.png.webp",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "招聘",
+    "brandIndustry": "医疗器械",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221111/7bf6f160950405e9d45fcc1cb26a29048f9f9e8415d16d3a6eb9c989ff0527b070772820daf54dbc.jpg",
+    "brandName": "雅客智慧",
+    "brandScaleName": "100-499人",
+    "brandStageName": "A轮",
+    "businessDistrict": "雍和宫",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "97052e77b7407a8103Z43tm5FQ~~",
+    "encryptBrandId": "1d71070c5e02ef981nd43924Fls~",
+    "encryptJobId": "7f0882611c4242ff03d62N-_F1FX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.948655,
+        "longitude": 116.420822
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100403,
+    "isShield": 0,
+    "itemId": 24,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "用户测试专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2z89NGWPXv0.search.24",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "M8dGypZMi2Afu-n1nZaZSl7imkMeAKaw5TsV0Cuv0k2ZI6h3orekvDKZdgwmHIQQ7FvBKxFYsxbAWutvyhZxorCzwcW-BpYmd8U-iuE0flUSt3NHA0sLCGG1tok5XEkJFFRT_BQ6OQhi",
+    "showTopPosition": false,
+    "skills": [
+        "测试工作经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "零食下午茶"
+    ]
+}

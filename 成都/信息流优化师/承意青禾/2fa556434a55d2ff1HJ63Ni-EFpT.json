@@ -1,0 +1,63 @@
+{
+    "securityId": "jmHPtwcBL7TGp-e1DVf6sid9XjHnvLOozq2wZzhtXCPezBW9whMExmAKZlshIRwyTMVuv5QqoI7Z-V555S1gYv-jxJvoHohzrfZjbcmClyQ6wzWyws8~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220204/607f1f3d68754fd0bf85e7ec81177c3f9dceb532d9b946a5993c8fc85c2db6533d9c1b020c63c56d_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "a3677dce99ba72590XNy3Ny8EVM~",
+    "bossName": "陈女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "2fa556434a55d2ff1HJ63Ni-EFpT",
+    "expectId": 0,
+    "jobName": "信息流优化师",
+    "lid": "5K6UtNfMV2b.search.237",
+    "salaryDesc": "4-9K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "B站平台",
+        "金融类广告",
+        "教育类广告",
+        "信息流优化"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "成都",
+    "areaDistrict": "成华区",
+    "businessDistrict": "龙潭",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 237,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.162423,
+        "latitude": 30.701065
+    },
+    "encryptBrandId": "9c04b1a756ec197d1XR40969Flc~",
+    "brandName": "承意青禾",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220510/7b5b554d84f9729c9b931e96f3e518f836fd115e0174d533993c8fc85c2db6533d9c1b020c63c56d.jpg",
+    "brandStageName": "A轮",
+    "brandIndustry": "文化艺术/娱乐",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "零食下午茶"
+    ],
+    "industry": 100104,
+    "contact": false,
+    "showTopPosition": false
+}

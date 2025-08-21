@@ -1,0 +1,58 @@
+{
+    "securityId": "NMNHCl6MlVuBf-v1Qk0wQWL6DQdUi-Op7NZoobLAC1UEj44gEtKSsxO5_yIDflWYSDVojYw-bjoKKfz1pPjgDc0OZEElAqCrRao8vbgYNnwDbkk~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200221/3527e490125ae9c20c63d836ffa472bf8f01dddeb699ad7b0204972e64f8341f_s.png",
+    "bossCert": 3,
+    "encryptBossId": "a0cb26bd5684edf90nRy09S4Ew~~",
+    "bossName": "李先生",
+    "bossTitle": "董事长",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8651bc94340b68ec1HRy3t-8FlNZ",
+    "expectId": 0,
+    "jobName": "GIS开发工程师",
+    "lid": "5MI6aDACXSt.search.253",
+    "salaryDesc": "5-7K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "ArcGIS"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "哈尔滨",
+    "areaDistrict": "香坊区",
+    "businessDistrict": "平房经济开发区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 253,
+    "city": 101050100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 126.637605,
+        "latitude": 45.628777
+    },
+    "encryptBrandId": "f28b65203c9e923d1nN509-_",
+    "brandName": "神州精英",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200423/bc96b6315635533842d8bb79594b7ff18f01dddeb699ad7b0204972e64f8341f_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "大数据",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险"
+    ],
+    "industry": 100005,
+    "contact": false,
+    "showTopPosition": false
+}

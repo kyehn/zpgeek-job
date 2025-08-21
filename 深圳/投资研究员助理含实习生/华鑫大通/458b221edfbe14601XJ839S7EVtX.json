@@ -1,0 +1,63 @@
+{
+    "securityId": "xbb8wbamRNFRu-z1Tae2voTnxa5R4D97iATG3UNVCOsbiddZriiUofoJAztCMt9DY0aMdMy0O9xb_nigeGW_MBx6YSfqwxIKIndMsMr__9YfcpnwZg~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "c76528aab2abd58d0nRy3dS0ElY~",
+    "bossName": "杨女士",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "458b221edfbe14601XJ839S7EVtX",
+    "expectId": 0,
+    "jobName": "投资研究员助理（含实习生）",
+    "lid": "1h7wlWrxT8a.search.41",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "股权投资或二级市场投资职位",
+        "二级市场投资",
+        "股票",
+        "衍生品"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "深圳",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 41,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.943248,
+        "latitude": 22.504067
+    },
+    "encryptBrandId": "921dc9af861b51cb1HZ-2dy-Fw~~",
+    "brandName": "华鑫大通",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181225/324864c8c8035429830e363435d7155740ededa57c06d416342932ae16cb8bc0.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "投资/融资",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "员工旅游",
+        "节日福利",
+        "五险一金"
+    ],
+    "industry": 100207,
+    "contact": false,
+    "showTopPosition": false
+}

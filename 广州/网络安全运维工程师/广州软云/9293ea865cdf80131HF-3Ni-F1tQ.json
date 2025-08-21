@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天河区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "邓朝阳",
+    "bossOnline": false,
+    "bossTitle": "项目经理",
+    "brandIndustry": "信息安全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240305/7bf6f160950405e98cdd0155102f38f48f3da04b6d93cec68e7697142653295c33f72301b2b012e9.png.webp",
+    "brandName": "广州软云",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "石牌",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d111de08e43d8fb30XB62dm0FVNX",
+    "encryptBrandId": "5765c6f0c9ef77080nx52N-8EA~~",
+    "encryptJobId": "9293ea865cdf80131HF-3Ni-F1tQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.126527,
+        "longitude": 113.345389
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100016,
+    "isShield": 0,
+    "itemId": 69,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "网络安全运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cTRG0duiMq.search.69",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "8eshJadTCA6d9-R1tBY0gyGvWwjEzD76W3QkU-Z_ErX1U31f_t2jpTN_DYFULfGSSNw9ul-jD5fXQVYhQGuQwVAJWmt8ruZHA0oDwUX5-UoaK5wGQvFaMWeiNyo1R3IwY0OgYdS2w3jGsQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "安全运维和保障"
+    ],
+    "welfareList": [
+        "员工旅游",
+        "带薪年假"
+    ]
+}

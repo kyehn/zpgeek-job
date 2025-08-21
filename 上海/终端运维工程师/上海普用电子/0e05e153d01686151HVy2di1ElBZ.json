@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "普陀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230727/607f1f3d68754fd09e78115e0f88d69f82c91579f27a8faeddaf656d062bb1f1511f5b99a564b8f8_s.png.webp",
+    "bossCert": 3,
+    "bossName": "徐女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220317/7bf6f160950405e91d4396fad03f6b81c7dc56b1930a259c3f5fc751a5e3ff8a3fa75170faf68098.jpg",
+    "brandName": "上海普用电子",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "长寿路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6533baf8960ae2e10nF72927EFRT",
+    "encryptBrandId": "fdc388163d66dc731nF_39y-F1A~",
+    "encryptJobId": "0e05e153d01686151HVy2di1ElBZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.24048,
+        "longitude": 121.43659
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 69,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "终端运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7ngsStSEqT0.search.69",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "kA5XfgKp08-c3-d1-niNGIUIpFmk6snv-6ZLp8Bqvn3LaNhyhfM8kygMdk1zQRDZCRIJ0pn2Atz2j_fZiYM4a7yfkMC1JleQX6Dnt-hqigwbS_n5lXlGl1acaVzHBSoMieMu8ADZr3U6SsY~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "加班补助",
+        "带薪年假"
+    ]
+}

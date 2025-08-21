@@ -1,0 +1,61 @@
+{
+    "securityId": "QoX7J85QK7ATN-V1JoBD24ngwHVQaEfCD_VLUGwxieQ4Z7S4fgg9AyX_ZJOAJ9f4-SxFO1Vni2YM7i-TkJU54wgUFGTPI7Ct0sq8lG1TQfwtMSxVS47z",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "d9ed8e95302580a80nB939S6F1pY",
+    "bossName": "王先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "403f1ee58e6a1bde1HJ829u6ElBX",
+    "expectId": 0,
+    "jobName": "沃尔玛/速卖通/亚马逊运营专员,可实习/应届",
+    "lid": "1j3CdkagyaR.search.293",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "要求跨境电商运营经验",
+        "亚马逊",
+        "速卖通",
+        "Walmart"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "海珠区",
+    "businessDistrict": "江南大道",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 293,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.276187,
+        "latitude": 23.086905
+    },
+    "encryptBrandId": "93bf094b201415ee1nZ_0966FFY~",
+    "brandName": "深圳麦琪",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220713/7b5b554d84f9729cd5beebb5f84b6d3b26a742904bc28b6ed67e1792a11ed7c775d3ba406f5ecf3e.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,59 @@
+{
+    "securityId": "Up41HmeVTMg3Y-C1JrkWeWJdigIGDmZ38BNMYcqJEJ0Xpc7xKotah7XR1vZ2xUVUei6L3fTEoTtsnLtxkaFGMlIAfRGv71gp1u45JP_KsFrRSaoAOQ~~",
+    "bossAvatar": "https://img2.bosszhipin.com/mcs/useravatar/20150924/c40934878f05c2faca211da544ff0fc88c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "c489f3efbfb2e91f1nB93dS8Fg~~",
+    "bossName": "葛女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ebe2a8a1cd7f5ff41nR-3N69GFtY",
+    "expectId": 0,
+    "jobName": "工程材料员",
+    "lid": "1JZJNSJNHU9.search.233",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "材料员",
+        "建筑施工现场管理"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 233,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.254983,
+        "latitude": 30.230005
+    },
+    "encryptBrandId": "f9f77ebcca3359eb1n193d20FVc~",
+    "brandName": "舜昊建设",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "装修装饰",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100704,
+    "contact": false,
+    "showTopPosition": false
+}

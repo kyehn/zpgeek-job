@@ -1,0 +1,61 @@
+{
+    "securityId": "FMDgO5YBl0qtt-H1TwvhDFI4IFst2-Kq87gBFCA9_vw83TUqk9p9CnW-KBMsNYd4BfFT84BulDphR6UKRNf7HRoeXSO47RHutl-G93KMw2ojdf2sIm39RxIBD3taN9zfrTwp5TnVfkNWmg~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220908/607f1f3d68754fd0032c5d7ccba1fd40df6336707c96b607bf23ec9a696a5254da9ecd17c6ed0908_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "b190e3bb6ae81a251Hd629i5EFo~",
+    "bossName": "韩女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fc5a9e91c012ce9e1XZz2NW-GFdW",
+    "expectId": 1014042683,
+    "jobName": "数据分析师",
+    "lid": "2bd9CvlOKF4.search.9",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "SPSS",
+        "Excel"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "中关村",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 9,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.31538,
+        "latitude": 39.987588
+    },
+    "encryptBrandId": "3fc1acdb373fb8fa1XR80tq4FVc~",
+    "brandName": "朗从科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220308/7b5b554d84f9729c7380f5e8a80497d0efe86f191ff9cb15bf23ec9a696a5254da9ecd17c6ed0908.jpg",
+    "brandStageName": "B轮",
+    "brandIndustry": "学术/科研",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假",
+        "定期体检",
+        "五险一金"
+    ],
+    "industry": 100304,
+    "contact": false,
+    "showTopPosition": false
+}

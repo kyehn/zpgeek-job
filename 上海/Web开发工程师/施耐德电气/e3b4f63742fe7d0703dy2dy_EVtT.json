@@ -1,0 +1,72 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230717/607f1f3d68754fd0139f4b0a69f5226976e4e4b6563a87d9cd8a8c92088c94dff2b1334a249f6d44_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "张先生",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/ae3b569de4a83d8149045db63a9b481a.png",
+    "brandName": "施耐德电气",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0a386373be99bc920XZ_2ti9F1s~",
+    "encryptBrandId": "5564ed2c1573e28f03Z53d61",
+    "encryptJobId": "e3b4f63742fe7d0703dy2dy_EVtT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.222473,
+        "longitude": 121.637133
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 60,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "Web开发工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8dxfXzXstLX.search.60",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "v374Mu8e1vmGr-K1TivP4uViyTb1Gv0qXeQIRZrJdY7JOGlg3MK9RXQjDnYFreLIcMgy8z36mNzxpNJOV7p_snAWLw29N0pQFFnkrUYfcJHMezy0lD56-wAhrWyP75m6Mxh2-HLqfpg~",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "节日福利",
+        "股票期权",
+        "定期体检",
+        "五险一金",
+        "带薪年假",
+        "补充医疗保险",
+        "免费班车",
+        "通讯补贴",
+        "年终奖"
+    ]
+}

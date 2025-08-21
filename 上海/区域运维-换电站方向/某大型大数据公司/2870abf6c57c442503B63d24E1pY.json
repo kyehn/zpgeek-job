@@ -1,0 +1,71 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 20,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241106/607f1f3d68754fd0b89199050e21034dd4c929c91cbb9badde98bd54e5ea6a7fec40bad9b5cd2c99_s.png.webp",
+    "bossCert": 3,
+    "bossName": "郭女士",
+    "bossOnline": true,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某大型大数据公司",
+    "brandScaleName": "500-999人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "75954faeaa8630b81nZ_2ti9F1U~",
+    "encryptBrandId": "",
+    "encryptJobId": "2870abf6c57c442503B63d24E1pY",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.224513,
+        "longitude": 121.478722
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 35,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "区域运维-换电站方向",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7ZdofCC1WBp.search.35",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "8-12K·15薪",
+    "securityId": "4s6labjaEx-x_-O1EDLcKcWNeluwmaqCPRv_1ky9FVj5MZV90o9atoYocVyh8xBTNr_VSd2TSvwGMIXLp9tTMB7wNSbsDWu_3frsPZ0M1-inV6uS70UG5fvoUZDFvTvnKXo9btk3d8SAulLcxf_HAkY~",
+    "showTopPosition": false,
+    "skills": [
+        "换电站运维",
+        "充电桩"
+    ],
+    "welfareList": [
+        "五险一金",
+        "节日福利",
+        "带薪年假",
+        "餐补",
+        "股票期权",
+        "补充医疗保险",
+        "年终奖"
+    ]
+}

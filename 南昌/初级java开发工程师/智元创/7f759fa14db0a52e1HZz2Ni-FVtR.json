@@ -1,0 +1,63 @@
+{
+    "securityId": "Qe3W3obOeH4wF-K1TRF9eB08VhORdDa7tO_Ip2FPqTAb-VJtX6HosRt4tgiMmya0zh4lrFWBIhgqKNKv-bg4J7HBNhEgIWcafZ5W_8Mau74MJsUD3GCKZ-OGhBfnKWwNQkkI2PcmA_WxqKg~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230220/607f1f3d68754fd0595486d9355ed2b46f679a617bd552b99e7e21d889d3b28cbc41a4c30153b90a_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "28b4d07c9f825d3d0nx42ti-EFBZ",
+    "bossName": "李海云",
+    "bossTitle": "综合部负责人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7f759fa14db0a52e1HZz2Ni-FVtR",
+    "expectId": 1014042683,
+    "jobName": "初级java开发工程师",
+    "lid": "1EC925cZ2ND.search.138",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "不接受居家办公",
+        "云计算经验",
+        "大数据经验",
+        "JAVA"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南昌",
+    "areaDistrict": "青山湖区",
+    "businessDistrict": "庐山南大道",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 138,
+    "city": 101240100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 115.831601,
+        "latitude": 28.705059
+    },
+    "encryptBrandId": "2039ff2d8ebd11681HZ429y5FVE~",
+    "brandName": "智元创",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240417/607f1f3d68754fd0d7e87db6d8f1bc13ebc1e7ee77848b5aa4ef8fd7e633816746448e8fa3fdaa14_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "投资/融资",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210615/09988d1f69ec03aea6d178bab00931b1887019536318e6eb1971b856e7333d99.png",
+    "brandName": "北京路通企业管理",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "广安门",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "93dfdeaa0b29229b0XZ-3NS_ElpT",
+    "encryptBrandId": "e3bcab96a498e2721nF42920FlI~",
+    "encryptJobId": "ae34e24da73f1a001Hx809u0GVJX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.874528,
+        "longitude": 116.37569
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100207,
+    "isShield": 0,
+    "itemId": 74,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "java程序员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7HHnsKk2wlj.search.74",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "OpRBL1PUEEQrV-m1WQhxXR2NzgocC7QrsxC-tE5hCHRjL9iL-cHZsBqpK-CIlLzmA442ntNhM_cx5ycV1zk3tTKCfEuhH8d8ncQGWtzalfQ84rVnt4OF3wd1EBgqoismXx2fJvoXYSwfCxU~",
+    "showTopPosition": false,
+    "skills": [
+        "不接受居家办公",
+        "Java"
+    ],
+    "welfareList": [
+        "包吃"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "bossName": "黄先生",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "西安琢学科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "广安门",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "06eeb7dbf112f3571HF709W7Elo~",
+    "encryptBrandId": "9923a24bb2a19c371nN_3du4E1Q~",
+    "encryptJobId": "3e028b87bb9680f603R529m6ElZZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.882787,
+        "longitude": 116.383981
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 194,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "实施顾问",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5WCDV0PJxg0.search.194",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K·13薪",
+    "securityId": "rKW3G6CwvbN16-715X-9sdiKqMfayce5VhP9gVKN4uK_b28gWLFsCakZY8nDZGhM67CKe7ia8IekzxZGagJB0urQpkuKJ6QQo_QkasB2PLVBLNo5QnazJdUJ-Va0gpIdDHtkdrK9huSqaw~~",
+    "showTopPosition": false,
+    "skills": [
+        "ERP",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

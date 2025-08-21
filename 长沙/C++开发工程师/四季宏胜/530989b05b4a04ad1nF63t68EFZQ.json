@@ -1,0 +1,22 @@
+{
+    "areaDistrict": "",
+    "bossName": "孟庆勇",
+    "bossTitle": "经理",
+    "brandIndustry": "计算机软件",
+    "brandName": "四季宏胜",
+    "brandScaleName": "20-99人",
+    "businessDistrict": "",
+    "cityName": "长沙",
+    "contact": false,
+    "encryptJobId": "530989b05b4a04ad1nF63t68EFZQ",
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobName": "C++开发工程师",
+    "salaryDesc": "6-8K",
+    "skills": [
+        "嵌入式技术",
+        "Windows",
+        "客户端开发",
+        "软件工程师"
+    ]
+}

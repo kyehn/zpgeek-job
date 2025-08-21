@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙泉驿区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250226/607f1f3d68754fd0c5293953bbebbdddddf7626f5d9a3cdb98c5febe514b54280a37888b8e8ed4ee_s.png.webp",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "HR.招聘专员",
+    "brandIndustry": "自动化设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250225/7bf6f160950405e923cb07ac6f2ec14fb74b807d121f23424b74e6af19d2dbd7b19c4c8b69409774.png.webp",
+    "brandName": "博利然自动化",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "龙泉",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "bebaffe55dea429103d80928E1M~",
+    "encryptBrandId": "a33d09d70e54c7e61H1y2NS1FlU~",
+    "encryptJobId": "53c3178ba9800ebc03Z43dy-FlpW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.560448,
+        "longitude": 104.226316
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100914,
+    "isShield": 0,
+    "itemId": 36,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "机器人仿真工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7NMtd3zWBeM.search.36",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "Kbmt_Yuf-Mbfz-_1VyzNBf-KmTiE0X319EOqBbVezdXd56o1yuqZMxEdKhBCWCMiPJkt7OXCuUOvK9jnPmS-Dp3ZM1SLqMeSKCs7vcE35s4jQb9qnRQI7AlLlNI_v5dw3xt2M5u1PnYztg~~",
+    "showTopPosition": false,
+    "skills": [
+        "PDPS",
+        "汽车",
+        "焊装"
+    ],
+    "welfareList": [
+        "意外险",
+        "五险一金"
+    ]
+}

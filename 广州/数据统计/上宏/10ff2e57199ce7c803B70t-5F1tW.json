@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "白云区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191124/e5f2d5a2de087a3ff952a8b87d4db7aaca1c6f31979e42f991f73db9915839a1_s.jpg",
+    "bossCert": 3,
+    "bossName": "王华晶",
+    "bossOnline": false,
+    "bossTitle": "人事总监",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240227/7b5b554d84f9729cad4c8bf2ea15dbc488c658b0f5f80ec1ca1c6f31979e42f991f73db9915839a1.png.webp",
+    "brandName": "上宏",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "白云大道",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3f007ac851b6b6960nJ52d-6FlA~",
+    "encryptBrandId": "e93e330ffd370d651XR53t21EFc~",
+    "encryptJobId": "10ff2e57199ce7c803B70t-5F1tW",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.217882,
+        "longitude": 113.286975
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 81,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "数据统计",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8iJD2XHvTOy.search.81",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "AfJBe0S5MgiGw-r1EwxY8laN3c3M5pXkZSUTkUZLofwMrmiBV909IoNfUnjZwC-wEj1nXk2U3vDi3XFmo-CREcuLUenAcwDZB8xD1m6mVT8t1FQD3_8~",
+    "showTopPosition": false,
+    "skills": [
+        "财务专业"
+    ],
+    "welfareList": [
+        "保底工资",
+        "底薪加提成",
+        "绩效奖金",
+        "带薪年假"
+    ]
+}

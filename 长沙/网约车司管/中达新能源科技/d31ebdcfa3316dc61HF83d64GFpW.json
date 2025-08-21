@@ -1,0 +1,62 @@
+{
+    "securityId": "BG-O9ZOrq3Ez_-91RmkFgYmuCyuRwxvB8MjKLX_T5KbN3Ev40D5y-EhpCl-3Mzy5s4w7RP2xGe_zt7WVq0V6TF6Nk0okW12_AIh8ljtooRKxg5RW4lhm",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220314/607f1f3d68754fd0c14e6792092569204239d424a324a91e8bc0cdd27c551e8bd236bf613f26d2bc_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "ead58706c931044f0nR7092_E1ZQ",
+    "bossName": "肖女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d31ebdcfa3316dc61HF83d64GFpW",
+    "expectId": 0,
+    "jobName": "网约车司管",
+    "lid": "MFUX3E9xT2.search.103",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "有销售经验"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "雨花区",
+    "businessDistrict": "武广高铁",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 103,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.060862,
+        "latitude": 28.158258
+    },
+    "encryptBrandId": "b3de9465150740701XZ43N69F1A~",
+    "brandName": "中达新能源科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "客运服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "底薪加提成",
+        "带薪年假",
+        "五险一金",
+        "保底工资",
+        "团建聚餐"
+    ],
+    "industry": 100511,
+    "contact": false,
+    "showTopPosition": false
+}

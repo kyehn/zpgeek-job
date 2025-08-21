@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "桥西区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "李先生",
+    "bossOnline": false,
+    "bossTitle": "hr",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210820/7b5b554d84f9729ca21ef3f9b549ec516c300a28280b91151f71d01ba341ea9ea8405af96a1077e3.png",
+    "brandName": "云道软件科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "新石北路",
+    "city": 101090100,
+    "cityName": "石家庄",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c2619621bb098b3b0nR_29u9ElRV",
+    "encryptBrandId": "b33e5a09679f300c1nR82dS8Fg~~",
+    "encryptJobId": "52ca6823b3a906f11H1y2N-8EFtV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 38.02376,
+        "longitude": 114.433753
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 50,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Java初级全栈工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2EGCS3tOyMx.search.50",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "icBRybz2FuAwD-d13O3UNB6pRUAoSAE-ZffKQWdPk4ryI1JZalCAWB29F2gCN9ikHnBer5oko43HZoYAqY4VAbSK5Z-eWLlI-UIpBKgZnIgUi40ZpqMNWqO9WK1mv3Yh5CrpXlQC8W0xdA~~",
+    "showTopPosition": false,
+    "skills": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java"
+    ],
+    "welfareList": [
+        "五险"
+    ]
+}

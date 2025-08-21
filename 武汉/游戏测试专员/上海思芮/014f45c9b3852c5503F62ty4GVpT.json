@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "彭女士",
+    "bossOnline": true,
+    "bossTitle": "资深招聘专家",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "上海思芮",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "光谷东",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b5ddbd1903cecfad0n163NS6FlM~",
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "encryptJobId": "014f45c9b3852c5503F62ty4GVpT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.488559,
+        "longitude": 114.499618
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 44,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "游戏测试专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7QrT4m7GmIs.search.44",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "43Aac6-qU8Dza-a1CQLTT2ftMFYolJsAZN-uMTF6EyDnFl9ag1a6yaZdhMpinM8H-f5uuqnbWaE7lTV5Cohu7F_VZNyGfTPAA3FEgnF_MYYq84L582pTSo0QJ3RGhIkVGWsoCWee-V9wbnbzxJ87xCxzGEs-gP25gMy_qjeoBHP16is~",
+    "showTopPosition": false,
+    "skills": [
+        "Shell",
+        "MySQL",
+        "手游测试经验"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

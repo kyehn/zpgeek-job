@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220325/607f1f3d68754fd0583c9aaf73fb25678630a4ab7d17e87cf20dd04c6a4a7a9e10c7bda5865effd7_s.jpg",
+    "bossCert": 3,
+    "bossName": "钟彩云",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190711/a56016abeb38107c1e7b0a737fdf39cbf6c0cc6cb474d5d5ab873b47e7a93d64_s.jpg",
+    "brandName": "DeepAIT",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "新会展中心",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f9e6d989b97a8f6233F60t-1FlM~",
+    "encryptBrandId": "a6f56738d92721851XRz0969Fg~~",
+    "encryptJobId": "26559354a12ba6e61n152Ny4GFVQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.55082,
+        "longitude": 104.057795
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 89,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试研发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9azb69S56Oa.search.89",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "8NM8Eb3VW1dai-w1Ljatbyawd1_edRJxO0lcuX9UoT83htLnAONtJ6HOW_q5H7qukwGfB60gS6H2jZ2jhh2OfItvG_qtHW8zY2OS5sx2bBxU-0Q5l_nkOx1gIWabzb8XOqNo4chzrL1B",
+    "showTopPosition": false,
+    "skills": [
+        "性能测试"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ]
+}

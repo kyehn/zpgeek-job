@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220223/607f1f3d68754fd087290f681fe8d4545b18a292db80d9f11987c783949d84fa147785c654ddaa18_s.jpg",
+    "bossCert": 3,
+    "bossName": "高紫樱",
+    "bossOnline": false,
+    "bossTitle": "商务部经理",
+    "brandIndustry": "计算机硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "杭州国恒",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "西溪",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6a2c6dceb67030a11Hx82N-4EVQ~",
+    "encryptBrandId": "ea63507cb9d72c9a1HV43ti0F1M~",
+    "encryptJobId": "7fd2d1a51041e2051Hx539q-FldU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.276033,
+        "longitude": 120.122344
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100022,
+    "isShield": 0,
+    "itemId": 59,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "用友运维工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7m9xZ5hRI4d.search.59",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "-fZF5bj8H168R-s1nGIbgzk5UoSyF4v6Gjbwh6rTqp02zR5sfq9q4zcW06g9EdplpPgmvj2kBPe5LYvnsvX5iqaBKlb-Ej6B1LeXrQlFYTP2JG-d6yytzsCYgYU9rAmPL-sZp5Qcc3Y6Ww~~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "实施交付运维",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

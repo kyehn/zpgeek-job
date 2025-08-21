@@ -1,0 +1,26 @@
+{
+    "areaDistrict": "江夏区",
+    "bossName": "邬巧玲",
+    "bossTitle": "人事",
+    "brandIndustry": "汽车零部件",
+    "brandName": "武汉优诺",
+    "brandScaleName": "20-99人",
+    "businessDistrict": "关山",
+    "cityName": "武汉",
+    "contact": false,
+    "encryptJobId": "beeb4e9977a89fb11nR_3t65EVpV",
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobName": "嵌入式软件工程师",
+    "salaryDesc": "4-8K",
+    "skills": [
+        "嵌入式技术",
+        "汇编语言",
+        "通信接口/总线",
+        "FreeRTOS",
+        "C语言",
+        "软件测试",
+        "汽车",
+        "ARM开发"
+    ]
+}

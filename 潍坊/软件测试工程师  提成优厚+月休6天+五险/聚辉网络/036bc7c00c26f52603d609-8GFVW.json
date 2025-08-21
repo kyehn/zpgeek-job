@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "奎文区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230711/607f1f3d68754fd0b25fdd262c73fa3537133bad5a0623e486fbb462475f993fea30f2d1f7fdcf08_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "李佳",
+    "bossOnline": false,
+    "bossTitle": "商务总监",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181206/e4237d29395c995ed1dd5ad58b2c1ad86591ca07a6d8dd44baae06ceb7e10d30.jpg",
+    "brandName": "聚辉网络",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "新华路佳乐家",
+    "city": 101120600,
+    "cityName": "潍坊",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "cd37f23fd1abf51e1nV83N2-GVtV",
+    "encryptBrandId": "f80480b3c4501acb1HV_39q1GQ~~",
+    "encryptJobId": "036bc7c00c26f52603d609-8GFVW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.710943,
+        "longitude": 119.147928
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 36,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试工程师 | 提成优厚+月休6天+五险",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9ayF4RPqkhr.search.36",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K",
+    "securityId": "RxRi8yo4YUd2_--1800O-9Fm77auSWJvXGjIGpAcdSthaoOrD8AZ3ojGFRRhhns9QtHM8adA5cmnku8sCs6yASjA7SazXdoUM0hoahxmhEbIdn8qVGGW2u3NcOUAT48zpZkD8lMMz2jvOQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "测试工作经验",
+        "功能测试",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "员工旅游"
+    ]
+}

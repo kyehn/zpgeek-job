@@ -1,0 +1,59 @@
+{
+    "securityId": "CBBKE8YeoTGM7-F1ZlYvjho773hlD7NPjhnmpRSyhe73haDEtbr5k0ZXnTDDa8EujxDNwmHYnNsQNY8Ac3ulotNlvdPN3hL8N783vZG9U_rKxmq33Mgp",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "0b26e4b3f67255f60XF909i4FFRU",
+    "bossName": "高女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4c5a581683edaa121HN639-9FFNU",
+    "expectId": 0,
+    "jobName": "技术服务专员",
+    "lid": "28RVxhubAlB.search.261",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "工程",
+        "技术服务专员"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "武侯区",
+    "businessDistrict": "双楠",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 261,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 103.977298,
+        "latitude": 30.633997
+    },
+    "encryptBrandId": "832bb3d0f5eea4031XB-3Nu5EVo~",
+    "brandName": "海纳协同",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240611/7bf6f160950405e9679dd53fb95be93b586833254f351c3d006c98202f077c80c527de8ac784f0b3.png.webp",
+    "brandStageName": "",
+    "brandIndustry": "化工",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 101202,
+    "contact": false,
+    "showTopPosition": false
+}

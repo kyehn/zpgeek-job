@@ -1,0 +1,59 @@
+{
+  "anonymous": 0,
+  "areaDistrict": "静安区",
+  "atsDirectPost": false,
+  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+  "bossCert": 3,
+  "bossName": "柴女士",
+  "bossOnline": false,
+  "bossTitle": "制作人",
+  "brandIndustry": "游戏",
+  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210331/07d3cbc512c564b02c37a7350d468d6692df89554fb51d20a7f6598f83184155_s.jpg",
+  "brandName": "RR",
+  "brandScaleName": "0-20人",
+  "brandStageName": "不需要融资",
+  "businessDistrict": "火车站",
+  "city": 101020100,
+  "cityName": "上海",
+  "contact": false,
+  "daysPerWeekDesc": "",
+  "encryptBossId": "bd3762cbe0aa448b33R6096-FlE~",
+  "encryptBrandId": "2dfc5ab082fb6c2b1XV73d2-EQ~~",
+  "encryptJobId": "73d314a708da97ed1Xx63Ny4E1tV",
+  "expectId": 0,
+  "goldHunter": 0,
+  "gps": {
+    "longitude": 121.453273,
+    "latitude": 31.239023
+  },
+  "iconFlagList": [],
+  "iconWord": "",
+  "industry": 100002,
+  "isShield": 0,
+  "itemId": 245,
+  "jobDegree": "大专",
+  "jobExperience": "经验不限",
+  "jobLabels": [
+    "经验不限",
+    "大专"
+  ],
+  "jobName": "技术运维专员",
+  "jobType": 0,
+  "jobValidStatus": 1,
+  "leastMonthDesc": "",
+  "lid": "6EARJM3FbQq.search.245",
+  "optimal": 0,
+  "outland": 0,
+  "proxyJob": 0,
+  "proxyType": 0,
+  "salaryDesc": "5-6K",
+  "securityId": "V5oUDsTzpjWyi-91OIbbIbWOeiF8Tj_WInH79zJLpHKiTj0s7PwOOaEa7THbY0WAQTzywkCJ4yb7_k5sgVyLOeo2d3yswn1z4zEaIHXUUqKccXrjoQ~~",
+  "showTopPosition": false,
+  "skills": [
+    "软件/信息技术项目",
+    "计算机相关专业"
+  ],
+  "welfareList": [
+    "五险一金"
+  ]
+}

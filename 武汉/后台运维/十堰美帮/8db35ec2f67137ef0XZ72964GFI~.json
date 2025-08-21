@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "汉阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191110/941efaf3bc30f1ebebf3f4fe77cf6e6e93bb606345a393518f0f34d27eb18e87_s.png",
+    "bossCert": 3,
+    "bossName": "邵毅",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "工程施工",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191115/dce3a3ebb8dc2b36ae27c34d2be617b493bb606345a393518f0f34d27eb18e87.png",
+    "brandName": "十堰美帮",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "王家湾",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "eae74bfb445aeadf33V42dy1FlA~",
+    "encryptBrandId": "3a82a7f79c06d0f70XF43di4GQ~~",
+    "encryptJobId": "8db35ec2f67137ef0XZ72964GFI~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.567062,
+        "longitude": 114.209223
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100702,
+    "isShield": 0,
+    "itemId": 82,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "后台运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3PJWpaFGIgT.search.82",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-9K",
+    "securityId": "0KxIjvWKmwwiC-71TX9Kbo3fMN8EnZzO1GQNAVSEzFz_-0yGrlSlnMsH7-QERex1Kh68V_BbIGW-ESlmWjIjS9I_XBw_cmmYhhO4lFQa5pyVuC2EleIi9dliWkEGWGQ4CxeBsfbPPkQ~",
+    "showTopPosition": false,
+    "skills": [
+        "运维工程师"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

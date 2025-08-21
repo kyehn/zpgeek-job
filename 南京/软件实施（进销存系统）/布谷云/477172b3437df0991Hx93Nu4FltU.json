@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "建邺区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "朱女士",
+    "bossOnline": true,
+    "bossTitle": "售后主管",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201031/619a3cf597098ad9d58810d1b6448c266ab7a0c160cbbe214d0d581f4f64e783.png",
+    "brandName": "布谷云",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "江东",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b12e19de6eb653a20XN939i6EVVV",
+    "encryptBrandId": "33305f366fc7992803R52dy_Fg~~",
+    "encryptJobId": "477172b3437df0991Hx93Nu4FltU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 32.028973,
+        "longitude": 118.706845
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件实施（进销存系统）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "72k9HzLnxah.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "KMn7EOzFdEBPY-o1sx0hzhNPp6K7j8_5x41PqMf_3MhX_OiKF4Ug8Y1P5HpjwjHYGlGZLG9idfa7cIcNO23yDkr2nqyHdPxEsl27TjYbQFl0XdSfUSI-iDmCKLb1-63EjkJyTzK50OY2kariSZu1DjJ-eTEN0mSQEm-S0Wn60riE31GgpA~~",
+    "showTopPosition": false,
+    "skills": [
+        "进销存系统",
+        "软件实施"
+    ],
+    "welfareList": [
+        "五险一金",
+        "节日福利"
+    ]
+}

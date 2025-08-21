@@ -1,0 +1,61 @@
+{
+    "securityId": "silLKHIJ0SZ7z-31YIZ6GZGP4PQDlk8B2co2CHJ6mH_DzLYogVbaQWZzyytDJxRN8uYN1QZHFAyfnQff4yRFKW6cdeMhcpnIL46Vb_3Dc-rpDpW7",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "42eb00264c2ba22e1nRy2tS4GVFW",
+    "bossName": "张女士",
+    "bossTitle": "HRM",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8ec6105fa8dc730e33d53929FVI~",
+    "expectId": 0,
+    "jobName": "Oracle开发工程师（双休）",
+    "lid": "2cf65M35hop.search.201",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Oracle",
+        "数据库开发",
+        "ERP",
+        "SQL"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "海珠区",
+    "businessDistrict": "赤岗",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 201,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.333736,
+        "latitude": 23.105184
+    },
+    "encryptBrandId": "03eba931f4e328ec1HB_3NW0",
+    "brandName": "广州伯俊",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170824/f819d4c8289d3be6129dc58e8ad7ab86cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "GiLGBu7U443cq-s1VQlO8G_FvECUeJP_pk6tmUSUojABx9AqCTm_W3HK4q9SJlqda720ME4prALRABJ4qDbA5w15agVD94pfuffVlKuO6rG_54ipFU4c",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "encryptBossId": "05e22b4d1ce9397f0nd_3N25FFVW",
+    "bossName": "叶先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ecc10c4bdf9aec6b1HF50t25E1pR",
+    "expectId": 0,
+    "jobName": "梧高智能招聘钳工",
+    "lid": "353P4LMaGBM.search.115",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "装配钳工",
+        "1-3年经验",
+        "月结",
+        "包吃住"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "昆山市",
+    "businessDistrict": "千灯",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 115,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.040897,
+        "latitude": 31.253774
+    },
+    "encryptBrandId": "1540443be0ada42c1XV-2d-_Elo~",
+    "brandName": "梧高智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "机械设备/机电/重工",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "包吃"
+    ],
+    "industry": 100901,
+    "contact": false,
+    "showTopPosition": false
+}

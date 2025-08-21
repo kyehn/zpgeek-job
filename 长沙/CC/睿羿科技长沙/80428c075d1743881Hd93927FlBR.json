@@ -1,0 +1,62 @@
+{
+    "securityId": "HKpTMOQ4hiwSe-I1AhS73hWE5e34EYWo77-7XJuz9Mt2iaAaetKtNqXZNJBWb_yc4W4o6sdI8dOPi3HMIG4VW8eas5zrXG9cHbqWm7Al745SeL-p8Wkf",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230630/607f1f3d68754fd00ce6093b9d4323d9e20be1a50de946567c2f0e01940a96931cc32b81a023097c_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "185e2aa7b937e5a50nRy2tq5ElpS",
+    "bossName": "黄女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "80428c075d1743881Hd93927FlBR",
+    "expectId": 0,
+    "jobName": "C/C++",
+    "lid": "3oxI7AFPttE.search.83",
+    "salaryDesc": "5-8K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C",
+        "C++",
+        "QT",
+        "Linux开发/部署经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长沙",
+    "areaDistrict": "天心区",
+    "businessDistrict": "金盆岭",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 83,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.986023,
+        "latitude": 28.147383
+    },
+    "encryptBrandId": "0b3fe1e8c28ff16d1XR62Nq4ElM~",
+    "brandName": "睿羿科技长沙",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221024/7bf6f160950405e9247e4621530c3a26e91838ad8a05eb367c2f0e01940a96931cc32b81a023097c.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "通讯补贴"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

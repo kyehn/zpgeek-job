@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "资中县",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230104/607f1f3d68754fd0dd2bd1376caa9a0f949516176d9566316cd8cf9b0caa81d99e70837dc7852c0d_s.jpg",
+    "bossCert": 3,
+    "bossName": "邹霞",
+    "bossOnline": true,
+    "bossTitle": "人事行政主管",
+    "brandIndustry": "环保",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190628/3ba09dc4231965f8564a09a5476d20566cd8cf9b0caa81d99e70837dc7852c0d_s.jpg",
+    "brandName": "华厚天成",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "城南",
+    "city": 101271200,
+    "cityName": "内江",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "09b49460721c96180nx52tq8GFU~",
+    "encryptBrandId": "8ab931710573f03f03142Ny8GQ~~",
+    "encryptJobId": "df8fd57a0f1661fb03F52tu5ElBY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 29.759578,
+        "longitude": 104.861431
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101207,
+    "isShield": 0,
+    "itemId": 79,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4odSALzH7bu.search.79",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "3OKMeWyyFC1qg-C1aQgoFNZDHDnT3POkBMTpPtFQDeiB2IgQNAdGhN-haXCjRLSIh51SpcSuEuSoVyzv-OU9uTfo8U7CX4O_ovxQT86SUICWBGP49ABFqS2tAAmuNSDsBTjhFf6H4SZs4OXqg0wdhPyCDb7CCFO0p1uv4LQn1aon5gyZ",
+    "showTopPosition": false,
+    "skills": [
+        "水质在线监测设备",
+        "COD",
+        "氨氮"
+    ],
+    "welfareList": [
+        "年终奖",
+        "节日福利"
+    ]
+}

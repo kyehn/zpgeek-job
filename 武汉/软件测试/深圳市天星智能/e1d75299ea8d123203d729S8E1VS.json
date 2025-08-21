@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江夏区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230519/607f1f3d68754fd01ab78f905aae0522c7683367b216eb3e779ae9a52167ffa3cb2c7a67e9500fa7_s.jpg",
+    "bossCert": 3,
+    "bossName": "徐嘉蔚",
+    "bossOnline": false,
+    "bossTitle": "项目经理",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231224/7b5b554d84f9729c60e3c59f73063630f38758ea346bfa54779ae9a52167ffa3cb2c7a67e9500fa7.jpg.webp",
+    "brandName": "深圳市天星智能",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "流芳",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "922bbc287d512cf703x53t64GFA~",
+    "encryptBrandId": "3fbd016273d53a6e1Xx709m9GVo~",
+    "encryptJobId": "e1d75299ea8d123203d729S8E1VS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.462339,
+        "longitude": 114.423777
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 76,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8oGhJ0KlVgh.search.76",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "vu-3vwwqyyEzO-n1CG0jPxwml9pxkGly1LOPUOf9vzy-9YIMbYvOjf1jq2xEf3jJoK7dEBdwKTn8NkA1BswYJ77_zU2v8-vuZ120FWgpVNr8GWWWLlARoWSm6bQS0QRi_an2GUGspJ-GuA~~",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试",
+        "性能测试",
+        "功能测试"
+    ],
+    "welfareList": [
+        "底薪加提成",
+        "绩效奖金"
+    ]
+}

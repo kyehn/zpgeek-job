@@ -1,0 +1,61 @@
+{
+    "securityId": "gQx3HU5ZR4B7Y-X1QnF_1A4eLzc7yQXa6Epb3STlfgEPvPgq6Mh_os3G1BlU7hyg-fFESYEbv5X5v1HuAmfFYhGIwEU3mxiGSRXvoc8c7daK32VjMQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "895511edc156a1c533Zy39q9GVI~",
+    "bossName": "严先生",
+    "bossTitle": "行政主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "66c5aa8a82d81bf41HZ92ti_EFFU",
+    "expectId": 0,
+    "jobName": "售后技术",
+    "lid": "5JCA5pGyCe9.search.283",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "显示行业经验"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "东莞",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 283,
+    "city": 101281600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.020711,
+        "latitude": 22.841537
+    },
+    "encryptBrandId": "d9d527cf95e621380XN52dm0FA~~",
+    "brandName": "华视圣",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191129/807c154b6e47bf6b8910d485f04510dd022a60f99f8fc06e243808b8a6796f32_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机硬件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "节日福利",
+        "带薪年假",
+        "全勤奖",
+        "年终奖"
+    ],
+    "industry": 100022,
+    "contact": false,
+    "showTopPosition": false
+}

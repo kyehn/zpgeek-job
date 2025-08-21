@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "陈春荣",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231008/7bf6f160950405e96be59b410fe96865034d935d2e93aadee760159b35b0736ebe3865a9166e646b.png.webp",
+    "brandName": "南京力锐斯",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "三墩",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "613f896077d182b41nZ-2tq8F1BY",
+    "encryptBrandId": "e8d3c332e237c2523nZ92tq5Fw~~",
+    "encryptJobId": "1072c6086cb0964c03d-0t24FlVV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.323121,
+        "longitude": 120.071397
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100026,
+    "isShield": 0,
+    "itemId": 79,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "运维助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8aKDZhaOVkX.search.79",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "C0ZY-bYxGUqaY-81S7OhaMEOWnzalB3ovSegMhB9bm1l1nZ2kDCbfGcJXONkOYaMOP1deZCE0_OhjneyEvHasS7Ls5vOLSUsV1kG2MuYeRaoFPsMHCA7qRzi07DKKqQeImwiiknnEgNVWg~~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "餐补",
+        "住房补贴"
+    ]
+}

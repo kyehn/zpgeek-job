@@ -1,0 +1,62 @@
+{
+    "securityId": "_Y8ji1H2h7lLc-A1FSJwLrWaVHVw1Vf-YEOl6Ch1esVwB8AfswMJQREme7dyZyosqA7_8AQugOmlQs4ysqA-4bKju1Y5ELv3hcjK_BXsUogYcu2GH-KZS3I22JYpmUbLBwioQ1nFDQE1q4GB1d4~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240102/607f1f3d68754fd08beeb5ec89411947576b5e365b0c4836e319529f3e75b349260e8947a42762ff_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "bac43b34264d24cd1HJy3d-8EVs~",
+    "bossName": "周女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "337c304808a0187d0HN82d67FFY~",
+    "expectId": 0,
+    "jobName": "数据分析师",
+    "lid": "19S9GjdppXN.search.81",
+    "salaryDesc": "9-11K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "帆软",
+        "SQL"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "张江",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 81,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.603845,
+        "latitude": 31.202355
+    },
+    "encryptBrandId": "ea044c69a28431e61nN_3t-8",
+    "brandName": "博奥特",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180312/ed78c02bac84e8c73e946df7e71440e9cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

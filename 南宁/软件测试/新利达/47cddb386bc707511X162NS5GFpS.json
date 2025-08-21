@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "青秀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "bossName": "李福",
+    "bossOnline": false,
+    "bossTitle": "技术总监",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "新利达",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "南湖",
+    "city": 101300100,
+    "cityName": "南宁",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fe482cea02f416360nV739m1E1VT",
+    "encryptBrandId": "db04b8a44d65655b1nd-39S6FFI~",
+    "encryptJobId": "47cddb386bc707511X162NS5GFpS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.812702,
+        "longitude": 108.353918
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 74,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "UYOvpto6IK.search.74",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "V6NGoTgsHD40l-o1Hr0xaL_z22rrTN4L9mKaWisn5LFcZUiPuwVRaDh-a8bKsTjBJhrs1rN1Ct_jR_DqDnm0qDHiYV2g9xv8shQqL1meJv3Fulp_-VOniLrPvEb_xz76-6B1YGkMXVOq0eE~",
+    "showTopPosition": false,
+    "skills": [
+        "测试工作经验",
+        "功能测试",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ]
+}

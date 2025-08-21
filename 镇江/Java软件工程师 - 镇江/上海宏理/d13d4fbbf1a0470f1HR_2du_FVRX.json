@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img2.bosszhipin.com/mcs/useravatar/20160222/9ba2e423c2f0f5674bfd2edaae259b4d8c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "bossName": "张先生",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200408/92d314be4753c7563ad4af326f687df341ba866be505420c2dd1daf88a5c9a9b.jpg",
+    "brandName": "上海宏理",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "",
+    "city": 101190300,
+    "cityName": "镇江",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "864a54f94f1baaac0nJ93t6-EQ~~",
+    "encryptBrandId": "785d41052c3c53a91nx_3N20",
+    "encryptJobId": "d13d4fbbf1a0470f1HR_2du_FVRX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 32.201468,
+        "longitude": 119.44036
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 76,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "Java软件工程师 - 镇江",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6Sxtqtc7S5C.search.76",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "9I1KfNYrKyoVN-C1FOEouaIGlNSY64MUXomE6RUPRmujPglCALcxyHC2hcEF7UmWHL2pVWFnJTRsqJr7p-ES4RKl6U52wBHn8VJYpzUmK2txUaDTth2Yl0RUAlukO7KktIGXacNd6g~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Spring"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

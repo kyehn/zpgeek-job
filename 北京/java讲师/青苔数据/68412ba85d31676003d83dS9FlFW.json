@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "大兴区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220810/607f1f3d68754fd07bdaf79107b3a58afcd100b6ae24d74aea01e626bb9836d567a12d1d3a717f1e_s.jpg",
+    "bossCert": 3,
+    "bossName": "程先生",
+    "bossOnline": true,
+    "bossTitle": "HR",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230202/7bf6f160950405e94bff4a6e3112d6d1d4b53cc46d14c67cea01e626bb9836d567a12d1d3a717f1e.jpg",
+    "brandName": "青苔数据",
+    "brandScaleName": "100-499人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "亦庄",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9168640bf650354a0nF-3NS1GVRS",
+    "encryptBrandId": "ac7add142db6c2a03nB42N61GQ~~",
+    "encryptJobId": "68412ba85d31676003d83dS9FlFW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.795253,
+        "longitude": 116.506725
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 16,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "java讲师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4JIeCQDuZ4c.search.16",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "IFOZ8ugcipIY9-W1Y5dkGrBv4tAEF2SNG0t27ju651pS2v6vbHF6t88yU5Yxi-FVVx1FudEOS2McYS1NeTvKQBEF-_bnFl7rO_xgDO3HVUHNKgkJ6cAizYbJxTfWs0PkkkGJsCXZRMk54zX6j--iB9vOfXc9kotd5UNUBQAOKar_fzdOtw~~",
+    "showTopPosition": false,
+    "skills": [
+        "线下教学",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "大兴区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200224/05542e8f71ecea140c7b2cdfd08affad0fd071d25eb331a3d810e5714a6a0d4e_s.jpg",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "人事部",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200225/77d3b6da5384caaf19a6a9742aca06060fd071d25eb331a3d810e5714a6a0d4e_s.jpg",
+    "brandName": "捷锐通",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "亦庄",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0aefe1f95d94e3ca3nF72Nu0EFo~",
+    "encryptBrandId": "d6e48c158fa55a891HN83NW1GQ~~",
+    "encryptJobId": "0eb3dbfb3d445ad40HF63tq5GVs~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.805532,
+        "longitude": 116.517829
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "功能测试（初级测试）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cMmzsA9Amk.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "qK3vJ7Vu2PQ73-o1gfCsGCQpJ_hS7Ik5S8VpLIoRHdfdjPKYH64g9U4TyTOfSKI29xG-3AH67k9XGYzcWLoaX8TzmGLPagDfAqlUMfpVc72cdOeVFJO7hTHYhpcSAAKGYsgzu_D30h4~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "测试工程师"
+    ],
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "全勤奖"
+    ]
+}

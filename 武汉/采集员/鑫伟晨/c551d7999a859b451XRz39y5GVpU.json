@@ -1,0 +1,63 @@
+{
+    "securityId": "x88vF4QzOKor9-S121CcNf-k3FJlmBurGjkIY9nMQ0vLU0VP7KW45p5jqG7cFiNX3cmjMZjJTtYv189XJUMpI3NXRQWoBqq5o9A4b82XzF1Od2ciNQs~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220928/607f1f3d68754fd0ec5be5b7ca2995a0b5b476dd6151378662bdbb23be294c42b24e91a5aef90bd3_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "6a430031311067b91nZ_09m1E1o~",
+    "bossName": "肖先生",
+    "bossTitle": "市场经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c551d7999a859b451XRz39y5GVpU",
+    "expectId": 0,
+    "jobName": "采集员",
+    "lid": "3pZfrtkwdSl.search.216",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据挖掘"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "东西湖区",
+    "businessDistrict": "吴家山",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 216,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.130695,
+        "latitude": 30.609367
+    },
+    "encryptBrandId": "3a0b4d62b28193831n1_3N25EFY~",
+    "brandName": "鑫伟晨",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211126/7bf6f160950405e9b8b2f1e299b6849f008cfd5a7465f09262bdbb23be294c42b24e91a5aef90bd3.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "其他生活服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "交通补贴",
+        "社保",
+        "包住",
+        "绩效奖金",
+        "餐补",
+        "全勤奖"
+    ],
+    "industry": 101106,
+    "contact": false,
+    "showTopPosition": false
+}

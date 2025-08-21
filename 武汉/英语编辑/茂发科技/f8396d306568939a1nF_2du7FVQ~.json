@@ -1,0 +1,63 @@
+{
+    "securityId": "1MyM0UdrQnyNo-Q1435vJkm0O4ha8rODaSTH89X6zrGZiM4mFvpXgH0_whqkvIXO8GnTluw87EHgHoZUvd-IuIsYWt-i_hBq5icNISVCHXkDb9M~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "encryptBossId": "2b5ce860f40a7ffa1HR43t-_GFI~",
+    "bossName": "何先生",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f8396d306568939a1nF_2du7FVQ~",
+    "expectId": 0,
+    "jobName": "英语编辑",
+    "lid": "3q3fjKnkTyM.search.283",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "英语翻译",
+        "笔译"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "洪山区",
+    "businessDistrict": "街道口",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 283,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.374513,
+        "latitude": 30.526712
+    },
+    "encryptBrandId": "eaa5c3f863150d373nVz2tm_",
+    "brandName": "茂发科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180511/73b20a357147c6199dc0cc701b2041aab0e680361577fbe097a325ade1e87ae6.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "广告/公关/会展",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "交通补助",
+        "包吃"
+    ],
+    "industry": 100101,
+    "contact": false,
+    "showTopPosition": false
+}

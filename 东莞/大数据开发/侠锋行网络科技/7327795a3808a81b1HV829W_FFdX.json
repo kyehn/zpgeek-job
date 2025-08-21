@@ -1,0 +1,61 @@
+{
+    "securityId": "sph6MeVIPSq5z-C1KAZ9p58z04xWz7uzgDKMyt-w1ALYqtu1ahnKHGHKtOV6jiJe0LjeEX0FXQgTS5trF7KfLQhkzgyE_NZ31e4yiFlLrsV6tuTGiwdy",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230918/607f1f3d68754fd04e29c9292f39c6a33ae65f8950456e2caed5beff2d93d203d6fc65064692bcdc_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "e8b6b120bcd289d90XVz3dm6FFpW",
+    "bossName": "李先生",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7327795a3808a81b1HV829W_FFdX",
+    "expectId": 0,
+    "jobName": "大数据开发",
+    "lid": "2DqZX99J8Ds.search.247",
+    "salaryDesc": "5-10K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "C++"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "东莞",
+    "areaDistrict": "虎门镇",
+    "businessDistrict": "赤岗中心广场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 247,
+    "city": 101281600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.723836,
+        "latitude": 22.848525
+    },
+    "encryptBrandId": "a913efc37f0186f81HR509q7GVM~",
+    "brandName": "侠锋行网络科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230919/7b5b554d84f9729c35f9bfc6aeaa7e31546fa6d8192e030aaed5beff2d93d203d6fc65064692bcdc.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "节日福利",
+        "餐补",
+        "股票期权"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

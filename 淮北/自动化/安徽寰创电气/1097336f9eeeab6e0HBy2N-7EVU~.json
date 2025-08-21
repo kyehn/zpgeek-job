@@ -1,0 +1,58 @@
+{
+    "securityId": "MSmERxLH9V74e-A14WEvcwlXIowiiTabyYvAb8BxvHupIh0FLZEEAPIGFQeGTIdr-bixfj4dmD9Ta41f834rG7bTcuB15F9DarNr8077SsqY4QPu",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "446d1c4df66e3d6f3nx50ti9FlE~",
+    "bossName": "程先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1097336f9eeeab6e0HBy2N-7EVU~",
+    "expectId": 0,
+    "jobName": "自动化",
+    "lid": "5KRl0TVdYNF.search.131",
+    "salaryDesc": "3-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "自动化技术"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "淮北",
+    "areaDistrict": "濉溪县",
+    "businessDistrict": "濉溪县经济开发",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 131,
+    "city": 101221100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.720383,
+        "latitude": 33.892205
+    },
+    "encryptBrandId": "ebffc5949721b81c0HB83tm_FQ~~",
+    "brandName": "安徽寰创电气",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100902,
+    "contact": false,
+    "showTopPosition": false
+}

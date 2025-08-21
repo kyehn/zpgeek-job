@@ -1,0 +1,61 @@
+{
+    "securityId": "D02n2k9TAOflG-O1MFnv5YiKXO1tMGBsHvhf3M-xonk3SbC7FdSdOwElZgd8brkmTX0L80EyJxZsu_KnDkmT2Qss37UZq24ozRIraquDiM8xW2ExUReAENDlJnwpSFuptDtDfJcXSDO_Eg~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231123/607f1f3d68754fd0c46e5c97c1b379985c7238310f87de496929d2d399e6b1699e7eec20de8833ff_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "643f0d35a95d9b1b0XV92dy0F1Y~",
+    "bossName": "赵胜男",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ecf3829cd88d20161Hd92t60GVRT",
+    "expectId": 1014042683,
+    "jobName": "数据员",
+    "lid": "2wF0e3JkAKq.search.229",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "统计/数学相关专业",
+        "计算机相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "哈尔滨",
+    "areaDistrict": "南岗区",
+    "businessDistrict": "哈西",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 229,
+    "city": 101050100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 126.596901,
+        "latitude": 45.697027
+    },
+    "encryptBrandId": "e9a97c2894940fc41n1_3dm_E1Q~",
+    "brandName": "亚美亚整形",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "医疗健康",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "节日福利",
+        "包吃",
+        "全勤奖"
+    ],
+    "industry": 100006,
+    "contact": false,
+    "showTopPosition": false
+}

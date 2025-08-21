@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "蜀山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250330/607f1f3d68754fd0a08241016bdf8f8282d0390926e7f7f4d50425e7455988c0087f3841d1b0e54d_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": true,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240709/7bf6f160950405e95d0bf93328864ed074521fbb7073a1a30b6972a2c384aa184ded46a25ce50bd0.png.webp",
+    "brandName": "鑫燃科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "井岗",
+    "city": 101220100,
+    "cityName": "合肥",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "13f5a6669c0c506e0HR62dS_GFBQ",
+    "encryptBrandId": "04b15aab882f57c31HZ50966ElA~",
+    "encryptJobId": "6f49b0b81f0d9daa03d52N64F1FQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.837279,
+        "longitude": 117.141089
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 155,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "46UlGiHbDxr.search.155",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "jpc6V9VbRSrxf-Z1AgH7ZbQ3HEeQKmdyHJU3Xe5PKB2kgXu9am8kBg-akq2lB1_Zm0oZ-LyjaLn8XU4REvUGs8Hscc6D8vZgBMqvNumeDfAwPIZm1vTtyP8lvVAZb4GwJYKU7nzUoFoAqZGl7MpAfbOcJIHsSQ3U20WT3Y0Nl86DrPu1x9Q~",
+    "showTopPosition": false,
+    "skills": [
+        "测试工作经验"
+    ],
+    "welfareList": [
+        "夜班补助",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+    ]
+}

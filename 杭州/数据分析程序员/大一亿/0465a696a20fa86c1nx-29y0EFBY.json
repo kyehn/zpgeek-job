@@ -1,0 +1,59 @@
+{
+    "securityId": "H7KKvw3D0aPpW-N1mWAIxBxXneVJItJWD6ru3ejT-LsCVA2bAeQuun7Z8rU2zl2seebZe1MBlw_z2uIghH_MChUT1Dwgkh3zbfOHxLvtSxJyk7eVB6Y~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210228/b23aabbaf2f9f5df37783f8910169438c1c5377bcfdcb5c88b8d20c7f3d5929a_s.png",
+    "bossCert": 3,
+    "encryptBossId": "3dd097d7eba8f1d70HF-3NW9EFE~",
+    "bossName": "赵女士",
+    "bossTitle": "人力",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "0465a696a20fa86c1nx-29y0EFBY",
+    "expectId": 0,
+    "jobName": "数据分析程序员",
+    "lid": "1KZfo5gpe2n.search.96",
+    "salaryDesc": "8-9K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "钱塘区",
+    "businessDistrict": "和达东东城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 96,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.369278,
+        "latitude": 30.310711
+    },
+    "encryptBrandId": "5b1b9483301170441nB929i_ElA~",
+    "brandName": "大一亿",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "零食下午茶"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "bH6XvVtLe3Lyf-Q1K69O_30Kc1ZZEfiO3Zl-bkWV1jK82TCDBaEdZMWbriQ8Qz9JNEhDO2K_U5X22oLw3aIjVKaS0XMY9P1GlMtq2NGh8LkLK1E~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20200311/beaeb23a0250c4c0b3a0972962d79963cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "a458226f326627921HF53dm-FVs~",
+    "bossName": "伍先生",
+    "bossTitle": "ceo",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d6d72c124cbd894e03Z-2d-4FlA~",
+    "expectId": 0,
+    "jobName": "爬虫工程师",
+    "lid": "5IcczX0ZvYJ.search.76",
+    "salaryDesc": "6-10K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Linux",
+        "Python",
+        "PHP",
+        "测试"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "天河区",
+    "businessDistrict": "沙东",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 76,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.314014,
+        "latitude": 23.166233
+    },
+    "encryptBrandId": "ae9e4a001a6197db33Vz2dm-",
+    "brandName": "东域科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201211/d158e170bceb7ddf03ad01624910944dbbee03f15ee1e3e966a412744c2404dd_s.jpg",
+    "brandStageName": "天使轮",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "股票期权"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

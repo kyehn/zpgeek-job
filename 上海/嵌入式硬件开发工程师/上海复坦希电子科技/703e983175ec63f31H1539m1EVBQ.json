@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "衡先生",
+    "bossOnline": true,
+    "bossTitle": "HR",
+    "brandIndustry": "仪器仪表",
+    "brandLogo": "https://c-res.zhipin.com/jrs/2_1a7323e34f40d90e18c8eb03f7efb6c1.jpg",
+    "brandName": "上海复坦希电子科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "06871bc058e69d910nx929q8EVBQ",
+    "encryptBrandId": "e6889b1dea03d4341Xd_3t60GFM~",
+    "encryptJobId": "703e983175ec63f31H1539m1EVBQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.211679,
+        "longitude": 121.250145
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100913,
+    "isShield": 0,
+    "itemId": 70,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "嵌入式硬件开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "64FdEh9Fm05.search.70",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "syyR2j2e3Sn3I-o1vkSTqryRoR5uQ31rfsoL5n1diGTPrvQC3AjDZoQCaAYwZBtmbB935vsrRZ7SrhzkZxrsIG-2USUzoBgcc90N1FhYSg18I2LLjiChd3_QORWB7iwZA187jCe8FZCelnz3Lp30QiZgqWE_kf9tqBeQDeNtm2KAU0ojFEM~",
+    "showTopPosition": false,
+    "skills": [
+        "嵌入式硬件开发工程师"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "底薪加提成",
+        "包吃"
+    ]
+}

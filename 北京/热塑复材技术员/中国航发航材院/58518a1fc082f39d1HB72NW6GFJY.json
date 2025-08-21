@@ -1,0 +1,59 @@
+{
+    "securityId": "utfNQU3cZCn0a-H15Xd06VGuiZZH03-Fwd8zuLh1sI6AIWZRV4MDUgqlUGTd5JC6paufpUDWQtFuzqFNd6Z6uLWb0VVlzRhykLG69a6T8WOIAPUi52UrAM8R-MovFp4oAG2NWPxX71H-eFA~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/icon/b04a1cf5ce26ee552d2342101b662abd2663ca289b8004d8ac5bfd40f2ef5a78.png",
+    "bossCert": 3,
+    "encryptBossId": "b0e3ea5cce9f1d370nd_29S4EFBZ",
+    "bossName": "杨女士",
+    "bossTitle": "人才经纪人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "58518a1fc082f39d1HB72NW6GFJY",
+    "expectId": 1014042683,
+    "jobName": "热塑复材技术员",
+    "lid": "1e3UqTFcdy7.search.88",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "餐补",
+        "航天材料"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "西北旺",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        3
+    ],
+    "itemId": 88,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.212194,
+        "latitude": 40.033112
+    },
+    "encryptBrandId": "9aa988ffb44ffdff1Xd_3ty4E1Y~",
+    "brandName": "中国航发航材院",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "铁路/船舶/航空/航天制造",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [],
+    "industry": 100905,
+    "contact": false,
+    "showTopPosition": false
+}

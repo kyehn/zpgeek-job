@@ -1,0 +1,60 @@
+{
+    "securityId": "91cx0dny5zrds-b115f7aENtRrPFqB4_2xHYS4Axhf45EUA6xroZGejhuhzAGr07flajxmjnbgv66nX1Mn-k9K49vIy8qQHSlrO6n3Tnf6uv-6IVAFAHPKR4jJjqE0kSbYnvcmi8lnzVikA~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240808/607f1f3d68754fd025ff96cf6596599fec46d96865f0000c49e96ea40fb70e016fb43182f0fdb6ca_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "dd11b7f87114e0a80nFz0tW8FFJS",
+    "bossName": "邓女士",
+    "bossTitle": "人事专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "998faf0cde30c8aa1Hx42d-9E1VU",
+    "expectId": 1030426395,
+    "jobName": "客服专员",
+    "lid": "32bAo8eUwFM.search.229",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "含有销售的客服工作"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "拱墅区",
+    "businessDistrict": "拱宸桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 229,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.165998,
+        "latitude": 30.315291
+    },
+    "encryptBrandId": "49f350edf702251c1HJ92926GFM~",
+    "brandName": "杭州国技互联",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240913/7bf6f160950405e9432de0ae4eb6e3ae7b7d76b5accc39b9359e4fd20fb8b4ac466688d57a06cfce.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "节日福利",
+        "绩效奖金",
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

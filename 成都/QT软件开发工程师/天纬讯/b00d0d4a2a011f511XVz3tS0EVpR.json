@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "范紫艳",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210318/64558ab10b9f1c677ae0da59d41ea82885f1ff799eff219edb39e30d816f587a.png",
+    "brandName": "天纬讯",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "机投",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6fe7df2fe5e24a700XVy3tS7EFc~",
+    "encryptBrandId": "8bce29a8ca8bd04303x62d60Eg~~",
+    "encryptJobId": "b00d0d4a2a011f511XVz3tS0EVpR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.634896,
+        "longitude": 103.98896
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 74,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "QT软件开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rhhje2WGpA.search.74",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "t8OyOhxcwdk50-r1hNE3AObD-WM6ltsYPfC05i1ZunrvlLfK6tB39z9y0l0HaAg_gz1hqYRzFDot3TkomMvkGjBYnn5z4-MUKdhIusb7p4ZWbhdGohJdZj73nWuPmRHu8mxliIbj90vs",
+    "showTopPosition": false,
+    "skills": [
+        "多线程",
+        "架构师",
+        "QT"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

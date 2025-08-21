@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武义县",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240408/607f1f3d68754fd01001592c627e8f03849f4bc793800730e2080dfd264a5162e29f6dbb4a5e75d3_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "张秀蕾",
+    "bossOnline": false,
+    "bossTitle": "总办主任",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "金华青鸟研发",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "壶山",
+    "city": 101210900,
+    "cityName": "金华",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "64b41c16d480ce6c0XB80tS6FVtR",
+    "encryptBrandId": "dd5342e0c7ed6b3f1HB63ti9FlE~",
+    "encryptJobId": "987a897d0ad912f21Hx72N28E1tZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.906613,
+        "longitude": 119.828089
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 77,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "HYE6J8OLEw.search.77",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "QBbTGrD0j7LE_-v1WUNNqj9iqUCofHtxZCS2M7WTvZ7kb1E5OzR0gYA0COmU6kMqm37IdCmfh_0iIiJfE5jFIgVkR05Ekkh1E-D-PFtRjKbF6Xr_MxKa6Dr8D0pK-JZWqDEmEoShsGIPr6Q~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维"
+    ],
+    "welfareList": [
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

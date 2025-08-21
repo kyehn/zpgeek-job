@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "永嘉县",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230524/607f1f3d68754fd0a39c2b315979ee187d04dd76b7a934d3f6c6ae1d47e4ee4a37074b2e8f7e363c_s.png",
+    "bossCert": 3,
+    "bossName": "黄晓平",
+    "bossOnline": false,
+    "bossTitle": "行政主管",
+    "brandIndustry": "动力电池",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230922/7bf6f160950405e9523603e7a4528acdd114e3fa041f324c8bb6f502f05ee8efeed122e66bc0df70.png.webp",
+    "brandName": "浙江华研新能源",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "乌牛",
+    "city": 101210700,
+    "cityName": "温州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4c62a56e8771811d0nx839W5GVZT",
+    "encryptBrandId": "b9a0c02ec617a6b71X1_0t29ElY~",
+    "encryptJobId": "0640bd3290be823003R-0tm0E1pY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.039433,
+        "longitude": 120.779486
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101210,
+    "isShield": 0,
+    "itemId": 24,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件运维专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5EyuO4JiWfp.search.24",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "SOhZiC_69YAwH-m1WYpeOLxBzspFAp4TNQWLjC3tduKqDbVMHldCaJuUOYED_X6kZlime_4brCbsMludjo56VO8tEuqld5dEBkO7j7x1E4pWUqCeS57ULDfQwIJtmiswQM119CvGmnNJip8~",
+    "showTopPosition": false,
+    "skills": [
+        "通信相关专业",
+        "系统运维",
+        "计算机相关专业",
+        "运维经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

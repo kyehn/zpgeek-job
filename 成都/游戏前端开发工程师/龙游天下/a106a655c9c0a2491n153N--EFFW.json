@@ -1,0 +1,63 @@
+{
+    "securityId": "az1Srfip7k60a-U1i9rsocGXmrTl2i3Bs_i1-u7_xe3j1tjshPY07GjA2Wt2w7A-zjR8QhZu-18qM5V4BkTbtNA-kp9uJU0h0s7jXbgBxbf3LPpt2w~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210224/77353ac7e8d3f62eed2d259aaca88caefef61381db3b670f28a04b19fc468a33_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "3a6b2f197fa327481XN82ty5FFU~",
+    "bossName": "李女士",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a106a655c9c0a2491n153N--EFFW",
+    "expectId": 0,
+    "jobName": "游戏前端开发工程师",
+    "lid": "5KKIsRFk64T.search.198",
+    "salaryDesc": "7-12K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python",
+        "数据结构",
+        "Lua"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 198,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.068805,
+        "latitude": 30.601913
+    },
+    "encryptBrandId": "d01521157c09da1a1HJ929m5Fw~~",
+    "brandName": "龙游天下",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210111/7c2246ac62b4910f900c26a9ed6fb05a969a58d19feaba7a1800509fd2f1f037_s.jpg",
+    "brandStageName": "A轮",
+    "brandIndustry": "游戏",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假",
+        "全勤奖",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100002,
+    "contact": false,
+    "showTopPosition": false
+}

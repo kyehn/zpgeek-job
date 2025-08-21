@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "杜女士",
+    "bossOnline": false,
+    "bossTitle": "HRD",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230314/7b5b554d84f9729cd08d6043cda9c97664b569e6d0aeecc85780b2417bc7f598edbde176aeeecbaa.png",
+    "brandName": "朗思科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "宣武门",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d23bb3ecfbe933d40nx92dW1EVJX",
+    "encryptBrandId": "0fb3c584f81b62321XF_3d25EVo~",
+    "encryptJobId": "d07e73c29bec8e791HF83Nq7F1BX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.896383,
+        "longitude": 116.375459
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 53,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件驻场运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cPk6tN68Iw.search.53",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "7OIcudPI21szr--1YTI2Kx6pc6Je85XyBP7BPcB22fyzNbWOsJ1zLedSvZeh9S-kqoozzGrIdaP4CE50SgZimnq-e4cBDjymslj52IfJxvksnq9NnEpKwO2NtqfASeORzcZy1ZC05uCU38Q~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维"
+    ],
+    "welfareList": [
+        "保底工资",
+        "五险一金",
+        "年终奖",
+        "带薪年假"
+    ]
+}

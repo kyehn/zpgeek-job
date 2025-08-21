@@ -1,0 +1,62 @@
+{
+    "securityId": "lJFX49gJj6PTJ-G1HNrE5P3kKktSRxmci7UmGr27_-i77peIz3Y6aUj8onVp_4MPf8ySCBXtxY71c5Ug1ELhuMUZNrhd-nWeYyV4WJ_Eq0Ldb6LKbXzCNdHsND03I0RX2vJz3ydRhHc~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240929/607f1f3d68754fd06232375f39a09d8cb3f092c05629231e4f9ea6fb3afd8977c3d9a646a7b306a4_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "e27da1de6809d7ca0H1-3961E1U~",
+    "bossName": "周佳",
+    "bossTitle": "招聘HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "97b6c1382a4df8f31H162N66FFZV",
+    "expectId": 1030426395,
+    "jobName": "数据分析工程师",
+    "lid": "2ayz7ByMFh5.search.51",
+    "salaryDesc": "7-9K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "洪山区",
+    "businessDistrict": "光谷东",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 51,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.511799,
+        "latitude": 30.490524
+    },
+    "encryptBrandId": "71bcdc1198f6c83703J70tq8",
+    "brandName": "武汉佰钧成技术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/39330dfb0bc7d6cad2158722dd7d37fecfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "带薪年假",
+        "节日福利",
+        "补充医疗保险",
+        "定期体检",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

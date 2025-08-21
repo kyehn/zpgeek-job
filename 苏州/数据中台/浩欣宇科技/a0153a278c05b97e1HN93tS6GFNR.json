@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昆山市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "仝云",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180929/0611a5a4e9b4dd7315eaa2360575e91760d09195e17b1cc59a2df3f2b69c6db4.jpg",
+    "brandName": "浩欣宇科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "玉山",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "def1cf8cd7b03eff33B73d-6FlU~",
+    "encryptBrandId": "fc0b47770e40193c3nZ40tu8",
+    "encryptJobId": "a0153a278c05b97e1HN93tS6GFNR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.358458,
+        "longitude": 120.952027
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 12,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "数据中台",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7NUCh1fLfVp.search.12",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-9K",
+    "securityId": "2V7WhHVcSFkIr-p1q55t-QwYyWHFofWWR7jFccHLkMGtUtl-TvzCLYMILpwb11nuWGiK4DGs7KdPpdie9WOPSkFPrYp0KXQhO0f2lEystmWCfeuh3Yt17aCMiiymAEnlZwM9edUdIfo~",
+    "showTopPosition": false,
+    "skills": [
+        "业务数据分析",
+        "不接受居家办公",
+        "统计/数学相关专业",
+        "数据分析/商业分析经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

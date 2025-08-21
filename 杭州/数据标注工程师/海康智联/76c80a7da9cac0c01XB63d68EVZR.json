@@ -1,0 +1,63 @@
+{
+    "securityId": "cVFZ2JxZ8Ch50-B1vWOII24kdHxA6J93uwmnMq2CBuVg877i77b0Hr5tBUJ4hoLVJCpadxuR3ycVkItuZ6o1oVu3B1mP6g5mdK7W2-5lwo0c5_TxSgoFb5NNOs5F6MpfrKzSuNF7lQ8A",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "153267785606b52b33R43Nq8FFo~",
+    "bossName": "彭雅敏",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "76c80a7da9cac0c01XB63d68EVZR",
+    "expectId": 1014042683,
+    "jobName": "数据标注工程师",
+    "lid": "2DeqKMPO3gz.search.89",
+    "salaryDesc": "5-6K·14薪",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据标注",
+        "视频标注",
+        "图片标注"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "五常",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 89,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.014008,
+        "latitude": 30.273957
+    },
+    "encryptBrandId": "440cf7a53d79dd220XZz3t6_Ew~~",
+    "brandName": "海康智联",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210926/7bf6f160950405e9ade8d0d8945b313dca6c1aa49bc362f88cb13a2feb280cea4ec6aeab9e231080.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "智能硬件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "餐补"
+    ],
+    "industry": 100018,
+    "contact": false,
+    "showTopPosition": false
+}

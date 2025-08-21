@@ -1,0 +1,62 @@
+{
+    "securityId": "Xd2rTbUC3r4T6-P1z3zJn_2eEX_Hj4PjWDuDm-C7Eaqsb02sChzVaSq5fDY49Al9GjT6YdNg9lr_BW-NZKPT481o6s3unSDO7nl5vcxF4Jj-dR0Ro6jYynnv6IMMBIz_x_bilhr75ac3Bw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231107/607f1f3d68754fd0951ae746416a50fe6e4856d3828b743fde54124a3114f1e33d0b40a2c7bcff83_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "2e9ec52be31f02850XJ92ti5GFY~",
+    "bossName": "潘女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3d6732f8b5e069011Xx409y9GVBX",
+    "expectId": 1030426395,
+    "jobName": "会计助理（接受无经验）",
+    "lid": "2al2kmgataP.search.31",
+    "salaryDesc": "2-3K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "代理记账公司"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "江汉区",
+    "businessDistrict": "常青",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 31,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.247262,
+        "latitude": 30.599104
+    },
+    "encryptBrandId": "15726c36f9b3b8581HJ90tW5Els~",
+    "brandName": "湖北慧财企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240820/7bf6f160950405e92153c8238e746c500a2334358afe6429e94f807b31abcf8574dea8d3e1c6eae8.png.webp",
+    "brandStageName": "",
+    "brandIndustry": "咨询",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "保底工资",
+        "绩效奖金",
+        "通讯补贴",
+        "底薪加提成",
+        "交通补助"
+    ],
+    "industry": 100601,
+    "contact": false,
+    "showTopPosition": false
+}

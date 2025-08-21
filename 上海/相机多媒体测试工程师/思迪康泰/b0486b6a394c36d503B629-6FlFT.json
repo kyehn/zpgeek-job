@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "袁开琴",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160728/277c11297c763fb2ad585a2c331c15724a50bc680f07079da28c9521e1a13947.jpg",
+    "brandName": "思迪康泰",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "张江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "975f1c390bd349180HR-2tu5FFpW",
+    "encryptBrandId": "d9eac0062176fad11XR80t61",
+    "encryptJobId": "b0486b6a394c36d503B629-6FlFT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.20777,
+        "longitude": 121.614043
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 58,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "相机多媒体测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "64FdEh9Fm05.search.58",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "S08pJj_hTsvXh-61Ns0ZGHsO1xVkKWbo_owmmOQHau-ZIjXhBGSpBf5hBdEx8RdTj3hY0lnqUbgqd8DrVog5vpsKh97z4jkvV-c_FP_xoDiR3AI4dS0aIsBwCpEu9Dmn3OzsZSClX-femARPHO7Qt3vzRBYNlwllPtGqSMuRKYF9zJ5d",
+    "showTopPosition": false,
+    "skills": [
+        "C++"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "节日福利"
+    ]
+}

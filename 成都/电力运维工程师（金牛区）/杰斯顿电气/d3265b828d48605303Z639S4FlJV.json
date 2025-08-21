@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "金牛区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250224/607f1f3d68754fd0992f09007672ade99b12465b956e6307fb75f989c5544cc0824929e20b933094_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "刘思莹",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "工程施工",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180307/ffca765aba500baad824c8cb8348717dec8a391a79debaeedc3ed3ee69fea39b.jpg",
+    "brandName": "杰斯顿电气",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "火车北站",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "99e3ee74cfd9264f0X1_2tu7GFZV",
+    "encryptBrandId": "54db7a2b207b817333x83NW8",
+    "encryptJobId": "d3265b828d48605303Z639S4FlJV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.69385,
+        "longitude": 104.086942
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100702,
+    "isShield": 0,
+    "itemId": 57,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "电力运维工程师（金牛区）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2gaSDfJdGa3.search.57",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "sEG1cIJG76X4z-A1nifRdb6diooAV-XnNEdxHp_oeWCqmdlDP5zwAcCJG_kTrAt9pUAs9EZYMj9gQ40gU1aQ6VKMzLDPqhKf5Tdpxoa8aWfXfxkP7vwmasa1Fid3J66vcYUVHA4BmSFe",
+    "showTopPosition": false,
+    "skills": [
+        "电子/电气/自动化相关专业",
+        "数据库运维"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "交通补助"
+    ]
+}

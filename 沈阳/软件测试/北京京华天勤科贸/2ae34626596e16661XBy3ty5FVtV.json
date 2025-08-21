@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "铁西区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170804/dabf5f358a5aea249600b9c1f9d95bf5e3ab50e6fdd2cd460f50958c3dbbbe65_s.jpg",
+    "bossCert": 3,
+    "bossName": "杨红扬",
+    "bossOnline": true,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240410/7bf6f160950405e9b81980599ca218a3faf93a8950d6c627f07034ce49b61c4e7784416aa50f2329.png.webp",
+    "brandName": "北京京华天勤科贸",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "兴华",
+    "city": 101070100,
+    "cityName": "沈阳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6fec89bca9e75a3d1HR60964FlY~",
+    "encryptBrandId": "cab0d1d01bc4d43f33xz39S6",
+    "encryptJobId": "2ae34626596e16661XBy3ty5FVtV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 41.794002,
+        "longitude": 123.369456
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 89,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7sHHxKjuVDN.search.89",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "KWojhQXoRDpDW-512xZ9XUWoWaCHLUbflcWmSnclHTbJSqoSIn9CUX883yrRJbT_WDs5G0PDHk39AVSe9IJigaQg_2FjSVtslQlUmXutFhBwI7tglmTpc4Yeu8unDoDQSaU1jjLnQya1MLNXGX1wa6MkyPFk7-SpXk0tm3MM5YRuKEs~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

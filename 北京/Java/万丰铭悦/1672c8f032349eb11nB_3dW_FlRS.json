@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "丰台区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220721/607f1f3d68754fd055a256f32ad04e9907f83abb9f2e5f43cfee16cf4da1258da302ff40b8371432_s.jpg",
+    "bossCert": 3,
+    "bossName": "景爽",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "万丰铭悦",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "科技园区",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c090223fba8b49440nR42dq8E1dU",
+    "encryptBrandId": "b0128ae0749282db1nB72920E1M~",
+    "encryptJobId": "1672c8f032349eb11nB_3dW_FlRS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.82643,
+        "longitude": 116.295175
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 112,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Java",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "dyMww2ee7Q.search.112",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K",
+    "securityId": "1zsN6YpgUENK9-g1afsYJVdOoHahbgTmYKumUZHrvAcW2i8sKihAZU_B6bZQcmU7rdP0Ssu60AalOgGddzVr34E8C7ZUCrEvTgwohI8JHtW_u2BlguywpDFhQvNbQWAp6O054sSvDv6VTA8~",
+    "showTopPosition": false,
+    "skills": [
+        "软件工程师"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "hXvkDsTcLIXa6-k1_pkH6pga_tGwkmoeeTalb7TJnLJ3aQeOwPZdB1Vt_723MsuZWylFp8yVxHbO9oAE53YHRuJEZE19AeAdo5WjOPTSDQI_aaMRWYw1w7SAzFwkG6pO8Xf9CETXVMM~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180418/f748480a3b2278ee90e928d63b5453657d04e6b7149db737a933833da1ade4af_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "67594d4883e806551HN82t24FlA~",
+    "bossName": "王宪宗",
+    "bossTitle": "技术总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "9fc0d7c0d4c925ee1n153dW0ElI~",
+    "expectId": 1014042683,
+    "jobName": "嵌入式及FPGA开发实习生",
+    "lid": "2bktRUCW7G9.search.256",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "嵌入式",
+        "单片机",
+        "FPGA"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "丰台区",
+    "businessDistrict": "长辛店",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 256,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.188018,
+        "latitude": 39.860646
+    },
+    "encryptBrandId": "24b59178aa751a3e1nNz29m7FQ~~",
+    "brandName": "航天光通",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220325/7b5b554d84f9729c63235d566fd9e6b69e032e89b422ebe38c0e2e2ff1c8c9d04e14e2310aab6229.png",
+    "brandStageName": "天使轮",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "年终奖"
+    ],
+    "industry": 100026,
+    "contact": false,
+    "showTopPosition": false
+}

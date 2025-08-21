@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "吕先生",
+    "bossOnline": false,
+    "bossTitle": "技术经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "北京大道合创",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "上地",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f3b49f19ce89a7b033R82t24FFY~",
+    "encryptBrandId": "0427dd6222261bcd0XB_2925GQ~~",
+    "encryptJobId": "695ba340b5f523fc33F53d27E1Y~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.037565,
+        "longitude": 116.313575
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 87,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "JAVA开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "eShI5Rklu.search.87",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-13K·13薪",
+    "securityId": "VuDpUJbNANW90-o1vzQC-YDOWN9b2Pm96kuL4vwc_eS_9YaUm5XkYEpWeOaOF4ABukAV-EckHuJLA-npKd5mCLVygaFyfHzyO2cp7fYUSq7skcvdYp-oRM0WmN7SNroF_KNsYI3-bpc~",
+    "showTopPosition": false,
+    "skills": [
+        "Java Vue"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ]
+}

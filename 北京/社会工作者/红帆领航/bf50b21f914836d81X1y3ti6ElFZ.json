@@ -1,0 +1,61 @@
+{
+    "securityId": "2JDajjEJ0GGhl-M1zzWvObIKvod6QOZzF6MX6IQXPHE-z0IAolpla8ld1mxMj-RSS-KgkmdSZWeh35-Cviq05ASAUvs4YCNB7rNHthjCk4QKBN0WjnYYvr9PVP_wemgzNdAxaL_5RVL6hA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240326/607f1f3d68754fd07fbddd3f8bb46102986b2a995e8cd1882dd46765b8cc1d8a470d6266297c5401_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "61e134194daddfa41XR60t-6EFE~",
+    "bossName": "宋毅",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "bf50b21f914836d81X1y3ti6ElFZ",
+    "expectId": 1014042683,
+    "jobName": "社会工作者",
+    "lid": "2bhrTEPm0lK.search.246",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "社工"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "通州区",
+    "businessDistrict": "中仓",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 246,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.684913,
+        "latitude": 39.904303
+    },
+    "encryptBrandId": "0430a60f03edf3121XR_0tW0FVI~",
+    "brandName": "红帆领航",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240327/7b5b554d84f9729c52119ff8462444e1a0c7f4a656dda24b2dd46765b8cc1d8a470d6266297c5401.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "政府/公共事业",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "节日福利",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 101301,
+    "contact": false,
+    "showTopPosition": false
+}

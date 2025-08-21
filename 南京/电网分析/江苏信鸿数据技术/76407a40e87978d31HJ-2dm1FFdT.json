@@ -1,0 +1,59 @@
+{
+    "securityId": "uQ5dZu5FCM-gy-b1JQUxtcgiy3K83fn0eoydN-2OuiSSfmcprTWeAvEE2cizJ1UvrM8ixe_B9RNLzcUZ4R3LLnP-91I46k-Q2j5Nl9L4xg0hjLXIlqcd",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "37d2eeae4c5691b40XB53965E1tX",
+    "bossName": "吴女士",
+    "bossTitle": "招聘",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "76407a40e87978d31HJ-2dm1FFdT",
+    "expectId": 0,
+    "jobName": "电网分析",
+    "lid": "27zT6Ssf56w.search.223",
+    "salaryDesc": "8-9K·13薪",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C语言"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "江宁区",
+    "businessDistrict": "开发区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 223,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.776392,
+        "latitude": 31.903549
+    },
+    "encryptBrandId": "2640a16c3e33eba71XJ73NS-FlY~",
+    "brandName": "江苏信鸿数据技术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230508/7bf6f160950405e96e33a9826af370cf4a550b05918ea71f3766f2dd63baf8986433ae5ee9cc5173.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

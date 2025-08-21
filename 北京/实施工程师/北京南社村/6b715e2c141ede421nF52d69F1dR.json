@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "赵岩",
+    "bossOnline": false,
+    "bossTitle": "OA实施总监",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170917/8c055837436694016f26893c1190b25133384828ebdfa688afeead14fc5f978d.jpg",
+    "brandName": "北京南社村",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "回龙观",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b23514a8a4f23cbb0nd60tu6GFZY",
+    "encryptBrandId": "e718e049752b75e61nR_0tW-Eg~~",
+    "encryptJobId": "6b715e2c141ede421nF52d69F1dR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.073932,
+        "longitude": 116.360581
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 74,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cLjFYj2XfE.search.74",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "txklHFHLlCDYN-B1vetmdXZy_W3UcRnGqo4Z_2PBPFSSeghztU5mT0MVPXpt-FB1RDCJuppbhIrnNf-SOM9tN4ebWzzihC09HCdsnDUOwXWEM9KLtYyaZ_jnEbNXtfi5N796Y9urZAp_VA~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施工程师/顾问"
+    ],
+    "welfareList": [
+        "餐补",
+        "交通补助"
+    ]
+}

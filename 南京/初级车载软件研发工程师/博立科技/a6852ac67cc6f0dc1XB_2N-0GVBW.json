@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江宁区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210118/62cc4400f88b1d0c6cc766fc289dc693defd4ac5ff3f0a0f57adb2437d9b1312_s.jpg",
+    "bossCert": 3,
+    "bossName": "雍吉",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231211/7bf6f160950405e9c36ff545e6d98cdf7014eda9cd85261d6bbfb2536eaba113009f6facc8030951.png.webp",
+    "brandName": "博立科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "九龙湖",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1628bd6bf8d39ad10XR439m5EFU~",
+    "encryptBrandId": "36b0ccb6e7c65a5c1nx_39W5FFI~",
+    "encryptJobId": "a6852ac67cc6f0dc1XB_2N-0GVBW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.915366,
+        "longitude": 118.823163
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 87,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "初级车载软件研发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "27dfO07FGBK.search.87",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "2EF09Sjiaysr9-m1Xepazec3Ku6D06cc_ILGlGf7PP7cOUAtgq3-136XnYrc-1J8HFgPRIQrONyslhgaAbRy32YOVqoU28TMZkFGTZbm_miH7UpE4Gxq7jP7ba5L5lE5Dtly7HnOMWmd8w~~",
+    "showTopPosition": false,
+    "skills": [
+        "C++",
+        "C语言",
+        "Python"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

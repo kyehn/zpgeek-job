@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": true,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/1xz4cuon4o1734430084565.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "高丽",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "南水北调水网智慧",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "05933619f7d949480XBz2ty4ElJT",
+    "encryptBrandId": "6627f8f42f9b47e61HB72N-7FlI~",
+    "encryptJobId": "fde5a5a72a1cc26b03Z409u6GVFZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.858538,
+        "longitude": 116.286726
+    },
+    "iconFlagList": [
+        17
+    ],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 226,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2SN31MH8Luc.search.226",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "zaqpKnn0Z4CF8-m1u0qFj_25dOH7_w8DFCGc4Nhr1kj3gx5oPgDuDiLBU9SG6LUCMPZGVJ7V3SWi5SlPb4Unub0y10EpRnPZtP7yB5_A_VtJs4zCNXR28Go0I8c7FE_qZFByLscqQkoFmpQ~",
+    "showTopPosition": false,
+    "skills": [
+        "社招"
+    ],
+    "welfareList": []
+}

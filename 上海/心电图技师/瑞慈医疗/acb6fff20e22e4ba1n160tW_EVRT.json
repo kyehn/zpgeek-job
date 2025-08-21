@@ -1,0 +1,62 @@
+{
+    "securityId": "9wIozqPS29WfG-t1kE6ozG3ttSr8jxNdiS9f85yX28Ifr9NoV0i_zxo2y6J2hsWBMwHALdpjGj3INbkHZ-MjBGXn3V4GVJBAFSLRUAUl1GtnB2K9",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240830/607f1f3d68754fd04b223fb21de534a8379f64470e4943138a40e01667532b43777878ebed05fe49_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "d226bcd3cf23371f0nN93N61GFc~",
+    "bossName": "耿女士",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "acb6fff20e22e4ba1n160tW_EVRT",
+    "expectId": 0,
+    "jobName": "心电图技师",
+    "lid": "2vQcUJDK7TY.search.227",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "医学影像科",
+        "心电图"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "徐汇区",
+    "businessDistrict": "斜土路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 227,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.441137,
+        "latitude": 31.18583
+    },
+    "encryptBrandId": "cc94ef20b16afee91HF43Ni8",
+    "brandName": "瑞慈医疗",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190505/fcf00d9245e998e7816740f5b9ed92bfa01b44068a08d7a40c8fa43dc9104f23_s.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "医疗健康",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "带薪年假",
+        "五险一金",
+        "定期体检",
+        "节日福利"
+    ],
+    "industry": 100006,
+    "contact": false,
+    "showTopPosition": false
+}

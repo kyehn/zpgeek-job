@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天河区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230829/607f1f3d68754fd013e54e970667cad57d72a69e89a3d04678d402af0447662f949e65451013835b_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "温女士",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "人力资源服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230214/7bf6f160950405e9c19e513513f0320974b2049944ddd37336c7ba2ae31fb637c07f44ce77e923f7.jpg",
+    "brandName": "铭思软件",
+    "brandScaleName": "500-999人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "车陂",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c05e9ad0d690ee350XV52Nm_GFU~",
+    "encryptBrandId": "9c1cdd6d6363a4231XBz39q4EVU~",
+    "encryptJobId": "126678f46b45ae0803F-3t-1F1pX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.164993,
+        "longitude": 113.402735
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100014,
+    "isShield": 0,
+    "itemId": 9,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cTmHYXzw0D.search.9",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "wBRl5NlWFSYTr-O12m8iPLKjdP7VHOeIUZcftVtEBKhgbCmwxKMKdg3wBClWN73sFKqo-6HLY2tg6KMAM1TnI4iceth9cZSr2idbSfMiDSUAXbCTZjtBhAq4vJ_5DUqFmQ-pLsDVl02UlA~~",
+    "showTopPosition": false,
+    "skills": [
+        "python"
+    ],
+    "welfareList": [
+        "节日福利",
+        "年终奖",
+        "五险一金"
+    ]
+}

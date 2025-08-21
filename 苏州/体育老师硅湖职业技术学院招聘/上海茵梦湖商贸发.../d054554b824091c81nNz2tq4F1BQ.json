@@ -1,0 +1,58 @@
+{
+    "securityId": "VhFk_4YxsQDEz-Y1ejp1FYnfDq7zcbJoGM52tgFuSMINeDUuxA2eG0bDGUsRrmKITW9gqb0MySUnMsPlyUUGzDFBiCrbON-ttpbmU8o8ipcHUsBuCaY~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "encryptBossId": "1cdd23da4627d9dc03J-0tS1FFE~",
+    "bossName": "王女士",
+    "bossTitle": "招聘经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d054554b824091c81nNz2tq4F1BQ",
+    "expectId": 0,
+    "jobName": "体育老师（硅湖职业技术学院招聘）",
+    "lid": "24wGYem71WT.search.175",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "教师"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "苏州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 175,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.092243,
+        "latitude": 31.293481
+    },
+    "encryptBrandId": "8d745cac0a4f11921nBy3d24FFA~",
+    "brandName": "上海茵梦湖商贸发...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210423/28f6de679e790fa7c910c337388c19033d41dd827d52f914e4e8331f1cb4cb56_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "学校/学历教育",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100302,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "H5NziAwYbYui1-h1TIWSSTTDYZKUMSsPSrIr40dQNLSQ-dHkxQ-U8rbIbatYcmn8Y3MowFfTHMf_3QlnkqbsTGPZxxRhfw4NYXwG5K9V3k8H2jnN8TY~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240520/607f1f3d68754fd07d969419749dd53147568b16b78b7f7b6691d6a29f91dca412010f301a92ecbe_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "492cd8b28a61265d0XF509i8FFtR",
+    "bossName": "李女士",
+    "bossTitle": "人事主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "252fc3b815d075261HN_2dq0FFBU",
+    "expectId": 0,
+    "jobName": "技术储备干部",
+    "lid": "30YljPw4vkX.search.191",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "材料专业",
+        "高分子专业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "从化区",
+    "businessDistrict": "城郊",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 191,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.577002,
+        "latitude": 23.592463
+    },
+    "encryptBrandId": "b8cd2380f8c9c0411HJ-2dy-GQ~~",
+    "brandName": "亿康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210624/25b209110a7dda447f4cda8815eaae3cf59b304bc06093cb46b6b355993d9b0c.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "医疗健康",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "全勤奖",
+        "包吃",
+        "节日福利"
+    ],
+    "industry": 100006,
+    "contact": false,
+    "showTopPosition": false
+}

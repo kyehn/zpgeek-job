@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "奉贤区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "朱英",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "医疗器械",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190216/931c93885cd434f2be8a6aafb6460f235b571f56eba80d7d922818b3f1c666d7.jpg",
+    "brandName": "上海智城",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "南桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8d97243b397d43a30XB62Nu6FVE~",
+    "encryptBrandId": "ea827ef7073015641Xd639q9FA~~",
+    "encryptJobId": "d483296a8ef19c9b03F909q4FVI~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.928976,
+        "longitude": 121.439957
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100403,
+    "isShield": 0,
+    "itemId": 90,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "性能测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9aYI4bRL6Zh.search.90",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "pzsENt6xFP2XL-X18yyWbzyHsKm9V-PFUk3-ED7d_9yfpvvAdesEwvSNhn9MkQzL5_A0ELF8iZreNoN1ub22pvXc76T3SVk0NFJuP_Dppgh53ov_4e6w7z9D1fP888sAhQr9RzpOPKg~",
+    "showTopPosition": false,
+    "skills": [
+        "性能测试",
+        "功能测试",
+        "测试"
+    ],
+    "welfareList": [
+        "全勤奖",
+        "年终奖"
+    ]
+}

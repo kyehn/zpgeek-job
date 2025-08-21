@@ -1,0 +1,63 @@
+{
+    "securityId": "mDZLlnh3MGxmf-C1eRWfBkJt19vqQDSWAbOf5k9o5wm-2aZQs2L3qs8GT9kK9t2GGjITSxggJn7hO6FQq8EAl_C_eId13HWGWSN1o6dgXUV8GYIm0PbC",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "723bbcfc684f0fe10Xd72d-4GFRW",
+    "bossName": "俞女士",
+    "bossTitle": "财务",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ca5accac38d68a851HZz09W_EFpQ",
+    "expectId": 0,
+    "jobName": "财务助理",
+    "lid": "1DPLNBCgdiO.search.105",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "财务助理",
+        "数据分析",
+        "财务"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "未来科技城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 105,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.028451,
+        "latitude": 30.290891
+    },
+    "encryptBrandId": "c638274b169bd8811nZ62dS7E1A~",
+    "brandName": "中鲲优讯科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "",
+    "brandIndustry": "智能硬件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "年终奖",
+        "全勤奖",
+        "绩效奖金",
+        "保底工资"
+    ],
+    "industry": 100018,
+    "contact": false,
+    "showTopPosition": false
+}

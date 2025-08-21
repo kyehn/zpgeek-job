@@ -1,0 +1,62 @@
+{
+    "securityId": "IMwFiU9y7QzYl-b1bgW6wmOMgPnrB80NMc4HJJ7tbMFrK-eKOy3mXPjhMyVY-fTiK6TjKeKvpQMgGGTwFa24ge_ZBYOiEaERVAL98L9lSmRWzOV1zA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171212/4b88a9223bf5f9ae4f8b9a5cb35f2c05cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "09415e97c780cf231HZz09i9GVo~",
+    "bossName": "冀先生",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4898f91cd0132dab1XV82Nm6GFs~",
+    "expectId": 0,
+    "jobName": "C#软件工程师",
+    "lid": "5MR0pAZElPq.search.251",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        ".NET",
+        "TCP/IP通讯",
+        "Winform"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "西安",
+    "areaDistrict": "碑林区",
+    "businessDistrict": "交大",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 251,
+    "city": 101110100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 109.004763,
+        "latitude": 34.247343
+    },
+    "encryptBrandId": "5907d3812420e2d11n1_3N-0ElI~",
+    "brandName": "银兴智能科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220323/7bf6f160950405e90ce77634a0fcea51ecf2a1f555ad5e59003651650ba529be5eedcf7af00fda19.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "智能硬件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "全勤奖"
+    ],
+    "industry": 100018,
+    "contact": false,
+    "showTopPosition": false
+}

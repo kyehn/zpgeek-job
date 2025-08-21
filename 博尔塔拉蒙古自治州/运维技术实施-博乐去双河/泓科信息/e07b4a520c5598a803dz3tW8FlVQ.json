@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "博乐市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230331/607f1f3d68754fd08930b018a87c566d8c7d1dad5b95853b9ea702b892dd3b35fb8143e2088e22c4_s.jpg",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "HRBP主管",
+    "brandIndustry": "信息安全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220909/7bf6f160950405e919ff413f0c861084ac890d4b0a6fd8ae8fd38b932567aa20e6dae17284b009f6.jpg",
+    "brandName": "泓科信息",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "博尔塔拉",
+    "city": 101130500,
+    "cityName": "博尔塔拉蒙古自治州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "481f72647c7bf05303Zz29m1GFs~",
+    "encryptBrandId": "82b2d3a24e47b44b33d62di4",
+    "encryptJobId": "e07b4a520c5598a803dz3tW8FlVQ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 44.884369,
+        "longitude": 82.082477
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100016,
+    "isShield": 0,
+    "itemId": 10,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维/技术实施-博乐去双河",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7UJyW0HnBR2.search.10",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "CvFh6rPFke5tK-p1k3jxQDvVlB4tuKB9rEYADpZfQp3aR8yuwWxxWTCTKZnp1tS36faPjMh6ItPY3Vazx2e9oD1aYpTDHY7cfcpCCvFLq9KHvK1t",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "实施交付运维"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
+}

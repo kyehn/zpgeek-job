@@ -1,0 +1,63 @@
+{
+    "securityId": "5yg9pSTvbG9Rn-f17HqE2KRW4UBAF8vBxOWY9AqsXaAAyDmQm879WV9O8Rcfz8EO6WODLR6EBV8XCq8hebBAJeZVpR8fA6Bb54LcMdlC3HgbBkW8YiBJfB4I8Ehek1V26AdRLhByWRs~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210901/607f1f3d68754fd0b28dbafb3e45dcbb3b957b32140a915fc438076f404bba2169960a367575682e_s.png",
+    "bossCert": 3,
+    "encryptBossId": "7f371e8efbf7c51b1HB-2tu7Flo~",
+    "bossName": "贺琴",
+    "bossTitle": "招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "bcd491c51de8b3711Hxy0ty7FlRR",
+    "expectId": 1030426395,
+    "jobName": "手机软件测试（实习生）",
+    "lid": "2XAd3eR2jyE.search.46",
+    "salaryDesc": "2-3K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "测试工作经验",
+        "功能测试"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "西安",
+    "areaDistrict": "雁塔区",
+    "businessDistrict": "鱼化寨",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 46,
+    "city": 101110100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 108.840498,
+        "latitude": 34.210892
+    },
+    "encryptBrandId": "71bcdc1198f6c83703J70tq8",
+    "brandName": "武汉佰钧成技术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/39330dfb0bc7d6cad2158722dd7d37fecfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "节日福利",
+        "五险一金",
+        "带薪年假",
+        "补充医疗保险",
+        "定期体检"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

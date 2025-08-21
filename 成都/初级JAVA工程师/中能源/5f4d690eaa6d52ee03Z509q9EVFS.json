@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "杨女士",
+    "bossOnline": false,
+    "bossTitle": "综合部经理",
+    "brandIndustry": "石油/石化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "中能源",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "紫荆",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "49ef440fdada589f1nZ729u1F1VY",
+    "encryptBrandId": "f8b4733b7e11833833N-0t26FQ~~",
+    "encryptJobId": "5f4d690eaa6d52ee03Z509q9EVFS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.584862,
+        "longitude": 104.069693
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101201,
+    "isShield": 0,
+    "itemId": 7,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "初级JAVA工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3oiVnOO709D.search.7",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "dalmNNavkOux9-M1G2KBrV104nVbid71PGrUADp_VlhStccXRjQdGYeDhkqkzAG8NHkI254QQWVE4SnTIxYjNiec4PGECYqibGbYVqIQT0PYgjjZoGg6KNF3LARBgNrSDmDXJycVwB_GUQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Spring"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "定期体检",
+        "五险一金"
+    ]
+}

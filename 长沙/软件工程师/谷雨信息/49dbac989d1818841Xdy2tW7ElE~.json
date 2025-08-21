@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天心区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "李晔",
+    "bossOnline": false,
+    "bossTitle": "行政",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191018/93e2e751e04722aa4801f1149406d902150a3b55a7fd6aad02029741519da98b.png",
+    "brandName": "谷雨信息",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "省政府",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ccdcdc96ea76ea9003d-092-E1E~",
+    "encryptBrandId": "bb92944ee02419be0H142di5",
+    "encryptJobId": "49dbac989d1818841Xdy2tW7ElE~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.09455,
+        "longitude": 112.9738
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 29,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6Sxtqtc7S5C.search.29",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "gcsKDsySePKtS-01I45X0QaTyGTkEzJbfdC1DUgqIhDVh7LXxRm2RtIJ3Xp1P5VblrETlgVt-KbSsA_6hT2aYAbkY9D7G1RMJYT9NpWfp336hoXAbFsClIAogCnTQtKxWlUkuw-A1g~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Javascript",
+        "数据库"
+    ],
+    "welfareList": [
+        "五险一金",
+        "节日福利"
+    ]
+}

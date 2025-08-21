@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "盐田区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "张玲",
+    "bossOnline": true,
+    "bossTitle": "人事主管",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250208/7bf6f160950405e9b155a48754b7602bdf4c2904dd09e4108519bb8b2db58bf0dbd334e6ec5f44a4.png.webp",
+    "brandName": "捷诚实业",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "盐田港",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1578eec43a8053860nR82tu9FVJX",
+    "encryptBrandId": "2126329fc95913bd1nRz2Nm8E1M~",
+    "encryptJobId": "9b373ba3416779ee03d50tq9GFtS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.587985,
+        "longitude": 114.253984
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 88,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "视频监管员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7Ml4WfquZA3.search.88",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "YVZTr34hBt6fG-w1jXoFSJvd9DlD-wAEHyq6ZlmPN37ERDDUqjPAhMslwLryc7lxwgaw2z4XO4Hx5PWrU1wKesojmmRTxoT3IZ0U_Zsc-1C26F0sruszwAkyHRCYyQd-wjm0s3YEl7anCMLgeuFe8_VD2V0U1Ad4a7_ZuW2smlZIvmk3d4Y~",
+    "showTopPosition": false,
+    "skills": [
+        "路线/区域管理"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "包吃",
+        "意外险",
+        "生日福利"
+    ]
+}

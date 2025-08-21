@@ -1,0 +1,60 @@
+{
+    "securityId": "w6GgOTVurx1oJ-K1M5yhLNZqBzZs2eEb87lYPZsX72RnpOO_rp-vf8UK_NcYVlnv0pwIP3ZUpI29g2bsEUdknZfrIli3FmNJFHxRqbStFGfRS7taJBqqBYzW3KcGlCAQTj8ayP9WIF89JWg~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240928/607f1f3d68754fd07973d86d36deab12bf6c076d0c967cddb48158ebbd5bb6dc99f9de72c9cd685d_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "c5aa93e408656a9c0nJz3tq9GFdT",
+    "bossName": "邹紫燕",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e456a738a3c156301H1739i1E1BW",
+    "expectId": 1014042683,
+    "jobName": "运维开发工程师",
+    "lid": "26QgNB4EDQ3.search.245",
+    "salaryDesc": "4-9K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "通信/工程相关专业",
+        "运维开发经验",
+        "计算机相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "康桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 245,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.607665,
+        "latitude": 31.128564
+    },
+    "encryptBrandId": "1efe04fc596a8b7d1Xd50tu_FVc~",
+    "brandName": "日昱",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240929/7bf6f160950405e9b3bc0526d78e6f9231786ab7b329423ab48158ebbd5bb6dc99f9de72c9cd685d.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

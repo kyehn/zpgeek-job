@@ -1,0 +1,61 @@
+{
+    "securityId": "mrV9DmyZag80h-L1rhIcNQALU35DZubRC7car9OxqRdn01Yk97kH--7lRuAtGGnWCQG6mQDTFiUZ8CZGBzj88xzkse0ADr-FSlIFSlniGIEAUH0_RcoIzwZSXreK8N9ejGw2HdCjxeA~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190626/4b57d4c06e4e5a816bc49f4b3b2da67fcfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "d52898cf7445809c1HZ-2dS7ElE~",
+    "bossName": "刘美琪",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d95aa6b69218e66703F83du9FVo~",
+    "expectId": 1030426395,
+    "jobName": "Java工程师",
+    "lid": "2ZDBdXaIoB2.search.179",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "后端开发"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "南宁",
+    "areaDistrict": "青秀区",
+    "businessDistrict": "津头",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 179,
+    "city": 101300100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 108.365058,
+        "latitude": 22.808275
+    },
+    "encryptBrandId": "a0435288f46bbe021nZ43du_Ew~~",
+    "brandName": "数链",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171113/00a71128fadfda3eeccba6b964699aa05133c9ec651b2ca83b81d8ecf8ac25c0.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "全勤奖",
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

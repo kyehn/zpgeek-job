@@ -1,0 +1,61 @@
+{
+    "securityId": "p2u5hmhBJfAFG-911-2ulKLYhI0mFFp2A8iFxGnGixnCBPPy4GgC0fKFnfp4MaHkQhVTsCP5hd2xzboCcwqEKCbfGqwTs9S2SzsJKPkNnyY92FY4mMx8",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "274ac474c993f95d0Xdy39i8EFRY",
+    "bossName": "马先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7048379330b3cf401HF83ti8EFpZ",
+    "expectId": 0,
+    "jobName": "售前助理工程师",
+    "lid": "5MR0pAZElPq.search.122",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "系统集成",
+        "计算机/通信相关专业",
+        "售前技术支持经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "聊城",
+    "areaDistrict": "东昌府区",
+    "businessDistrict": "开发区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 122,
+    "city": 101121700,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.041599,
+        "latitude": 36.43814
+    },
+    "encryptBrandId": "27adb1964cf91d741Hd729W8FFs~",
+    "brandName": "聊城诺禾",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "绩效奖金",
+        "五险一金"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

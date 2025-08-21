@@ -1,0 +1,72 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230717/607f1f3d68754fd0139f4b0a69f5226976e4e4b6563a87d9cd8a8c92088c94dff2b1334a249f6d44_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "张先生",
+    "bossOnline": true,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/ae3b569de4a83d8149045db63a9b481a.png",
+    "brandName": "施耐德电气",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0a386373be99bc920XZ_2ti9F1s~",
+    "encryptBrandId": "5564ed2c1573e28f03Z53d61",
+    "encryptJobId": "3d68925c94654fb103dy2dy_ElNV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.222473,
+        "longitude": 121.637133
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 6,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "电力电子测试工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8ebPqnuRVr4.search.6",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "MbjmUVcezbQ8y-z1qGsBw2owFcgnsNNkG2uP5IOcfVMnY7HawsCXVt-WumKAuq9_PACo2lvG08IAxBYfJpr9NZ_1rY39UEIPdTc_DD_48hDdcioHT_87Xaquhq8webiTySbbaBuAiCmapGrhBz74LsKjmJcWwB_dTOeH70vQ_lqOVRY~",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "五险一金",
+        "股票期权",
+        "节日福利",
+        "免费班车",
+        "年终奖",
+        "带薪年假",
+        "通讯补贴",
+        "定期体检",
+        "补充医疗保险"
+    ]
+}

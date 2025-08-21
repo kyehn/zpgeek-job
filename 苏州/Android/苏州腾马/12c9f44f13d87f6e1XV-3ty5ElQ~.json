@@ -1,0 +1,62 @@
+{
+    "securityId": "BBEhIJDWatyzB-11jH_oTs4PKbkLFhShQEr9_m6uaBkw_EIOiNhi5fD5j4-culf-5kG8hgb-Oj5SLhNwlFLZ2kxPOh8HE7uTCl0pHhWfOaaPzSxf",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170217/e3d89bd7577f931a622c4db6c289f07d28afbf5283dbc7c00136f18fd59d8565_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "168fde3e22c280381XV43tm6F1M~",
+    "bossName": "阮先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "12c9f44f13d87f6e1XV-3ty5ElQ~",
+    "expectId": 0,
+    "jobName": "Android",
+    "lid": "3452REajjzR.search.217",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Android SDK"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "虎丘区",
+    "businessDistrict": "长江湾广场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 217,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.542784,
+        "latitude": 31.335493
+    },
+    "encryptBrandId": "7aa37b2007b348431XR62Nu5EQ~~",
+    "brandName": "苏州腾马",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "进出口贸易",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "交通补助",
+        "住房补贴",
+        "通讯补贴"
+    ],
+    "industry": 100504,
+    "contact": false,
+    "showTopPosition": false
+}

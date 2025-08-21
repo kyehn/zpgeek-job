@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "卧龙区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240320/607f1f3d68754fd0f3d47bb2286b6ca19010fcfdd6a16df1c4f269da8f9886eaeff4f607ff321238_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "毛宁",
+    "bossOnline": true,
+    "bossTitle": "招聘主管",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210629/43e2ad79461e16eb6ebf330ee7ddba167f1c624695104181f9e8a4966e111789.jpg",
+    "brandName": "国信天宇",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "尚城国际",
+    "city": 101180700,
+    "cityName": "南阳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f79a3ee0cf8fbf930nZ53tu_EFo~",
+    "encryptBrandId": "73b2d01508bb6f2803R42Nm_Ew~~",
+    "encryptJobId": "d260c394c6c77a9903F_2tq7FVJV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 33.027638,
+        "longitude": 112.548179
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 56,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "交付运维主管（南阳）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7wcDZqfo0pJ.search.56",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "ebTxmjwTjTjS4-w1fsvGpvoeKQjUiBYS4pfQ7JX9fGm2hD6NPuRy02JNocBexM3KqTllQu5na04fwP6yo21XJMofLCoPp5sBn9kfg-Gc4i9xfSJPKPfS7WDlcDpdaIlVmx8CdVtfOWe8L6GthCUuLfMWLziGDdNSM5Qn2SS_oei_zA7P",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维"
+    ],
+    "welfareList": [
+        "加班补助",
+        "带薪年假",
+        "五险一金",
+        "节日福利"
+    ]
+}

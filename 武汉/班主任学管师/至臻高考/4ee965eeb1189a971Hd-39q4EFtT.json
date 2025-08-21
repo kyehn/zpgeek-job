@@ -1,0 +1,62 @@
+{
+    "securityId": "YtTNTXJVNJj7m-J1Me-D-MWL0iP9WadjuK1NNL08BvhOgdoQRLeBuhGWVEZdGak-3Zb5J7Kg5y5BJYPrnpvoUDEQ14qw9oLDPacLfzYfHZZnQV2pTSnb7JV4I4NYDkMZOCM7ls_AnPsCEno~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "0d975b94ce8286840ndz09q4FlpU",
+    "bossName": "刘先生",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4ee965eeb1189a971Hd-39q4EFtT",
+    "expectId": 1014042683,
+    "jobName": "班主任/学管师",
+    "lid": "1aIAc7uVUyI.search.229",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "培训机构",
+        "线下教育",
+        "可兼职"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "武昌区",
+    "businessDistrict": "积玉桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 229,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.310049,
+        "latitude": 30.564079
+    },
+    "encryptBrandId": "89f43eeecc0599081nx63d25F1A~",
+    "brandName": "至臻高考",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230807/7bf6f160950405e9fb3e86b3a244930c30d28ed451d99619abad92bf647a8888a87030fbe360c39c.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假",
+        "保底工资",
+        "绩效奖金"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

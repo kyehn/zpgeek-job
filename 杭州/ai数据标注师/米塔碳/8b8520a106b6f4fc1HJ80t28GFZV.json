@@ -1,0 +1,61 @@
+{
+    "securityId": "0uviYnXvsGm4S-E1mkq3IRtiRJHmzr3hphIrs6Znk9k3RPXqmq2P29MAQp6epA70DUPxEcC30S0F5XK59Zx7jJ5MvsyAjdg-pUE4kmQf7ht4lbzJtW3g",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231225/607f1f3d68754fd0450070a403a7e578c587289922f3d4678afb912be3f41f7cae1cf65e534c2756_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "28ebfa513ae6a0500nJ_3N64GVVV",
+    "bossName": "费女士",
+    "bossTitle": "人事专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8b8520a106b6f4fc1HJ80t28GFZV",
+    "expectId": 0,
+    "jobName": "ai数据标注师",
+    "lid": "5K2J7NnyXgj.search.279",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据标注"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "仓前",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 279,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.003462,
+        "latitude": 30.280261
+    },
+    "encryptBrandId": "d6aeea59ca2190751XVz3tW8EFY~",
+    "brandName": "米塔碳",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "人工智能",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "零食下午茶",
+        "五险一金",
+        "餐补",
+        "带薪年假"
+    ],
+    "industry": 100028,
+    "contact": false,
+    "showTopPosition": false
+}

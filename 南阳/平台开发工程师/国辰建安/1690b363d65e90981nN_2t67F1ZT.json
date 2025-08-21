@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "卧龙区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "高婉",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "装修装饰",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211027/7b5b554d84f9729c241c8ed8dc00cc73246b36f16c4dec725bff62894bef132a58a59d9270b1abf5.jpg",
+    "brandName": "国辰建安",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "仲景路",
+    "city": 101180700,
+    "cityName": "南阳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d4354fefabd77da23nxy2t65FFs~",
+    "encryptBrandId": "4387d35802bfe0f71nx82dS-E1A~",
+    "encryptJobId": "1690b363d65e90981nN_2t67F1ZT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 33.020824,
+        "longitude": 112.554338
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100704,
+    "isShield": 0,
+    "itemId": 48,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "平台开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1JpNVdVOLTT.search.48",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "7j7NerhkYMbp2-k1j8ZsO09kGkOhLzqoXulDn0LK3mW1FsmXAh8GOIAdxDzNeDsWGU48i8Osj-8r-HouNswLVBsZlNC32fPjfC-3Otxa70XwzzewO7WzxtPFF-Hc3FFdD7OhorbbNXdUEQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "运维开发"
+    ],
+    "welfareList": [
+        "五险一金",
+        "全勤奖",
+        "带薪年假",
+        "节日福利"
+    ]
+}

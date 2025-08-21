@@ -1,0 +1,59 @@
+{
+    "securityId": "DlvZ1uhCA4vQS-C1jKiQYTs8FI_9Z3N8lKQXiz0LxvB5SBJsYof2qWNbZKsp9L2l-E0ViA4cZYvlrdm1wznuKTigpcEnQNEfeQcLGGeOhdQK45Sned4~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220718/607f1f3d68754fd0ee5148242c6496cd4c1c756e20d4213e0489e586d2b988c247ef8a8e1e19cf70_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "bd5630887eefa0be1XV929-7FlE~",
+    "bossName": "张女士",
+    "bossTitle": "教师运营",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1a36188c16bd3ea71X1y0tW8FFZQ",
+    "expectId": 0,
+    "jobName": "少儿编程老师",
+    "lid": "1cnncSRw9ct.search.203",
+    "salaryDesc": "8-12K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "少儿"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "立水桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 203,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.416551,
+        "latitude": 40.03865
+    },
+    "encryptBrandId": "22d8a24f3e57a2271XV529q9FFs~",
+    "brandName": "北京朱雀永泰网络科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20221020/7b5b554d84f9729c879632ef420358164937d43d26fec5555a4c8fecae36b74d647f3fbc967f0485.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

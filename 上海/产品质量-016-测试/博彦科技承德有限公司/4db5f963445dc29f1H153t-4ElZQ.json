@@ -1,0 +1,63 @@
+{
+    "securityId": "IG0SBF6H7DDr2-K1RweaVKce5aRLNFNVMUnBBJAoB_fCimhmExvnG9NE0ufSLHdGr3eO5wsMz0jm-P0WpGlVeLHhdVV3aNMrAkwJAcirJkJ6rfBoFwI1BPUcs4x4GpCA3M9v-siAGGY0hQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240824/607f1f3d68754fd054c1b3f1364e0110788e7a3256e37e3d1183c274b3cd26481a3e8a204479205d_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "23d40db2a9ca2b3d0X153dm4FVo~",
+    "bossName": "颜女士",
+    "bossTitle": "招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4db5f963445dc29f1H153t-4ElZQ",
+    "expectId": 1014042683,
+    "jobName": "产品质量-016-测试",
+    "lid": "5Ejsolp4H1d.search.124",
+    "salaryDesc": "7-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "自动化测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "张江",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 124,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.605831,
+        "latitude": 31.179931
+    },
+    "encryptBrandId": "499b4e404cf189a81nx73N29FlE~",
+    "brandName": "博彦科技承德有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210926/7b5b554d84f9729c0b940abd9e89424db45946c560e243e906ac19a20a6758b88cc94554db568648.png",
+    "brandStageName": "",
+    "brandIndustry": "互联网",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "零食下午茶",
+        "定期体检",
+        "节日福利",
+        "五险一金",
+        "带薪年假",
+        "加班补助"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

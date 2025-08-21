@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "雁塔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "白晓梅",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191017/e1f5fb1bb14c9ba566f88234c6259beee011664c39d8e213f338efb9a4e09c4c_s.jpg",
+    "brandName": "华双科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "高新软件园",
+    "city": 101110100,
+    "cityName": "西安",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4b63f81bfb24bd7a1n1_0926E1Y~",
+    "encryptBrandId": "b814c16f91c64ea90XR60ty0Fg~~",
+    "encryptJobId": "db165f5a6f712ef91HN62929ElZZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.20959,
+        "longitude": 108.840856
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 188,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "OA运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1I8wLIpFQ2A.search.188",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "MDoHXMck63g8C-z1E8SG3dsUs51FdNBWyx5uUONBZRYUAAdp11KHu0dYGVhox-bhXt5S8uWZCURE9pwSiY6msgW9C0i4-vt0kVcdOULjeDVD4ub7cPcwD0Ed09FhWnkvovZ7g5ZlUa-E",
+    "showTopPosition": false,
+    "skills": [
+        "桌面运维",
+        "系统运维",
+        "实施交付运维",
+        "OA 公文 国产"
+    ],
+    "welfareList": [
+        "加班补助"
+    ]
+}

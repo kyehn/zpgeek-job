@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "美兰区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250522/607f1f3d68754fd07c91ec6eecbae0ddc729f91c46008215d5d365cfef31fde4f441c09e23cb3ced_s.png.webp",
+    "bossCert": 3,
+    "bossName": "徐淑畅",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "上海思芮",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "海府",
+    "city": 101310100,
+    "cityName": "海口",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "93337b216725029e0nxz3t65GVFW",
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "encryptJobId": "332935616cb50c9c03F539W7FFRQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 20.027837,
+        "longitude": 110.361709
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 52,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5eJpuFynlX3.search.52",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "BwqOvuJfJH98g-v1e3j1WMjtBbQu3I6-xZRF0jihBNCyzx_-HLo_GIEVztY1mwtQIHja40nrAjO9UaFryKbfkXHeitW1lDAjmbXh2nUN6cptf92Q62KFjqXQa4qCsAIIhh_3COPi4NJ4",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Spring",
+        "MySQL"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "securityId": "22AZHHVQNyaTL-X1YnihLswVvedS1EgSAk1zEBFLpgbrYxrm9Q2pdbqc00CTga3fBdAm-fUMlTymN6qO2gytuuCBfsprwCfyD9H6OhMXbJbxok_MVW9Y",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240622/607f1f3d68754fd040c245cd6079b9d77b910fe1233aab6d7ef0002645b9c4425919cd9e70a77318_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "8d0a926aecf53f990nZ60ty6F1JR",
+    "bossName": "潘女士",
+    "bossTitle": "综合人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "816578f929cd4a181HZ82dy5GFdW",
+    "expectId": 0,
+    "jobName": "电商分拣员",
+    "lid": "2y91zXMRBE2.search.249",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "货物存储/防护"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "临平区",
+    "businessDistrict": "临平",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 249,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.324995,
+        "latitude": 30.447185
+    },
+    "encryptBrandId": "4120177a4f5684291nV70tm4FFo~",
+    "brandName": "人本物流",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "装卸搬运和仓储业",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "餐补",
+        "住房补贴",
+        "五险"
+    ],
+    "industry": 100510,
+    "contact": false,
+    "showTopPosition": false
+}

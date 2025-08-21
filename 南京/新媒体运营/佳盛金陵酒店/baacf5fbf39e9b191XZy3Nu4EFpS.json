@@ -1,0 +1,62 @@
+{
+    "securityId": "ZWtg30UqZ4Mcw-F1O5YULFz9IPxEGDPNoPiX28fKp_oXr6ugwH_QTiqx-_NIkvHgKKqRZ2lj7kKRpCGOc8QNS2jjr9O0Ie2sjKe-E1R3q91FSuJbCQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+    "bossCert": 3,
+    "encryptBossId": "c93f105d519197e333V-3du9F1E~",
+    "bossName": "尹先生",
+    "bossTitle": "人事部经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "baacf5fbf39e9b191XZy3Nu4EFpS",
+    "expectId": 0,
+    "jobName": "新媒体运营",
+    "lid": "31JCOJRqlBk.search.220",
+    "salaryDesc": "7-12K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "视频拍摄经验",
+        "主播经验",
+        "自媒体运营"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "雨花台区",
+    "businessDistrict": "南京南站",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 220,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.804107,
+        "latitude": 31.966348
+    },
+    "encryptBrandId": "a09e4c4d47e563ce03N_3NW6Eg~~",
+    "brandName": "佳盛金陵酒店",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190613/4c3154b0d1b3bdcf8269c6cfd780a891de73090d2ebd6c3f61dddc694afb47e8.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "酒店/民宿",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "全勤奖",
+        "五险一金",
+        "加班补助"
+    ],
+    "industry": 101102,
+    "contact": false,
+    "showTopPosition": false
+}

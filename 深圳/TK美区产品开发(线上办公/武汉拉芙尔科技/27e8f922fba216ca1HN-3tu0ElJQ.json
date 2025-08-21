@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙岗区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210128/9fa60ad9b42078acd5afd791f00e248138e2516a94bff04ed96fc4357da8c3bb_s.png",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "HRBPleader",
+    "brandIndustry": "进出口贸易",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230811/7b5b554d84f9729c11a537aa308e25b05dd0af2a92d6a59e38e2516a94bff04ed96fc4357da8c3bb.png.webp",
+    "brandName": "武汉拉芙尔科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "坂田",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "347dd8cc0e7d699e3nB-29m7E1o~",
+    "encryptBrandId": "c76e8df3b986fd021XRy2d-0GVY~",
+    "encryptJobId": "27e8f922fba216ca1HN-3tu0ElJQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.619476,
+        "longitude": 114.077847
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100504,
+    "isShield": 0,
+    "itemId": 41,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "TK美区产品开发(线上办公",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cYTEHgH7WA.search.41",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "1gX1ufsviQjD1-x10Ykh3UPFgTRXSRDGF4Rcgh06ZASd640c1ZSYeBJEnc0B5H4DJd2EIrvy4DVjPMhimbOq0_QisyQeKLLeo1tZtr6pVcTWM0mlMtx-d1SJbnwpT2MoG4tCOO4uPnsL4w~~",
+    "showTopPosition": false,
+    "skills": [
+        "C端产品"
+    ],
+    "welfareList": [
+        "宿舍有空调",
+        "包住",
+        "餐补"
+    ]
+}

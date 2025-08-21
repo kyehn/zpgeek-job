@@ -1,0 +1,60 @@
+{
+    "securityId": "xp6RE6sUvgIm--y1c-05XTiMdmDFvulxW6XD6dNaN6qN-XFCcrIYqOvNZMKpoNZQq8PLzODHSQ10kZVd838ufqr-aZjxaYtjQOCg3FqjiUKaaPFU6_jl",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "71c1410a19d996ff0nZ539y7GVJX",
+    "bossName": "李先生",
+    "bossTitle": "人事部经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8bb02daa3e5af4d01HV-29u4GFtQ",
+    "expectId": 0,
+    "jobName": "嵌入式软件工程师",
+    "lid": "5L51G8Q9sQW.search.138",
+    "salaryDesc": "5-10K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "嵌入式/单片机开发经验",
+        "英语读写能力良好"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "十堰",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 138,
+    "city": 101201000,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 110.727207,
+        "latitude": 32.679105
+    },
+    "encryptBrandId": "c7c6f38caa39f0ed1XVz3dW7GVE~",
+    "brandName": "蚂蚁物联",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230531/7b5b554d84f9729c722f6410a0b06fb0b9eb79adf9c4df9a5be21928c0e074fc90d6a0a88bcc9e77.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "智能硬件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "带薪年假"
+    ],
+    "industry": 100018,
+    "contact": false,
+    "showTopPosition": false
+}

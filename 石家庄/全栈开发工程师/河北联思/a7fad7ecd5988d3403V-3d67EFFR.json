@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "桥西区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221009/607f1f3d68754fd0637d0074cc1387db4dab27041ec336d817c7db3a30426e64764b0c311fb628d9_s.jpg",
+    "bossCert": 3,
+    "bossName": "刘女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "河北联思",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "新石",
+    "city": 101090100,
+    "cityName": "石家庄",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a9d729763aa4a00503B-09S4FVM~",
+    "encryptBrandId": "13ce0352d1766d0f1nRy09m8EVM~",
+    "encryptJobId": "a7fad7ecd5988d3403V-3d67EFFR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 38.025307,
+        "longitude": 114.442204
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 108,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "全栈开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2EGCS3tOyMx.search.108",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "yUVpTxM8QkXhv-f1FnFacnHaDPrYC3e0Qde5Xxgl7LdfPJ3iYWTxsgln0dLoyawYvoksaxSwAuyCLSD7k_Tm_Amm6GuYnc8divaRWVLZjuoTjHvyRdtVklJfD-o9bgkzVPh_XxeQokA_Zw~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "JavaScript",
+        "Vue"
+    ],
+    "welfareList": [
+        "节日福利",
+        "五险一金"
+    ]
+}

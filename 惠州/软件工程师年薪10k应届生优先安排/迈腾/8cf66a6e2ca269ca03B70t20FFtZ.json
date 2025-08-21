@@ -1,0 +1,77 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "惠城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250418/607f1f3d68754fd0dda3e18f697ba56e788d6fd16a5ae40b6d2da921cb8fdcf29f6fc623280f50f0_s.png.webp",
+    "bossCert": 3,
+    "bossName": "杨女士",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231025/7bf6f160950405e9c676da6d4161386b86d121b2f58510a6db929e39c0bd8c243703a4b42732d164.png.webp",
+    "brandName": "迈腾",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "仲恺",
+    "city": 101280300,
+    "cityName": "惠州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "778a8c526cd432630XV63NW7ElpV",
+    "encryptBrandId": "bad4c33dc267451103V93tW0Fw~~",
+    "encryptJobId": "8cf66a6e2ca269ca03B70t20FFtZ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.035485,
+        "longitude": 114.311765
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 3,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "软件工程师年薪10k应届生优先安排",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8G29eGQMvDt.search.3",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "5-7K",
+    "securityId": "CmLHAQg2jeR53-t1pCTvLeQM2mLR0j0GfPt_JNNJtIq4va6YI9LklS-Fqu_wRs7-m6ygY_iLIl30BgvDUNhwJINSL-y-AdXa5UCUvzgDup7JDkp0pYA~",
+    "showTopPosition": false,
+    "skills": [
+        "C++",
+        "C",
+        "包吃住",
+        "不需要有经验",
+        "应届生",
+        "五险一金"
+    ],
+    "welfareList": [
+        "交通补助",
+        "包吃",
+        "年终奖",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游",
+        "零食下午茶",
+        "餐补",
+        "五险一金"
+    ]
+}

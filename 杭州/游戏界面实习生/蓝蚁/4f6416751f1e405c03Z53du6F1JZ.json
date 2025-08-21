@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210923/607f1f3d68754fd0887bad6d002406b752fda60fa2d08536b13519f9a570a3a36d4c1161dadfefa1_s.png",
+    "bossCert": 3,
+    "bossName": "缪女士",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "游戏",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230705/7bf6f160950405e9d26652d51db0c2554bc56e0a656f8fcc1d9523e136989a7b6a2f15dd2d4f295e.png",
+    "brandName": "蓝蚁",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "96ec08d85b9fb9930nR_2dy6E1JY",
+    "encryptBrandId": "9550364f61a54ee70XR-09q4Fg~~",
+    "encryptJobId": "4f6416751f1e405c03Z53du6F1JZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.187928,
+        "longitude": 120.194113
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100002,
+    "isShield": 0,
+    "itemId": 243,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "游戏界面实习生",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2CS0ddnrInK.search.243",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K",
+    "securityId": "YQTqMHK0kuyce-l1YwUI-SLoIubdZz1wiU2sVf4MvMZ6vok2EbS_ql0SzcHkMOBlkfBjXHFBX5O5nVj6AUyRMIhjHTTL4LZdExXen4LZ9dZEy3aBuHfW5d4_YvDXoInjm-TvvLFX1O8dOA~~",
+    "showTopPosition": false,
+    "skills": [
+        "界面设计"
+    ],
+    "welfareList": [
+        "团建聚餐",
+        "零食下午茶",
+        "五险一金",
+        "定期团建"
+    ]
+}

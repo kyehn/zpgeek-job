@@ -1,0 +1,63 @@
+{
+    "securityId": "HLx0JAf3caNFv-S1NRU31tiTlfJ6cumB1acrnxr7AEEu4Du41sLzxuYyKG4KnK8irVozLJnOVP1FjnjgZvj3GqkJbjHoxuKKn9w2h-QNnCWsuxz-X72ZZvAz7pGog4GrfwC8axEXJWTgOnGOdLdQ2viw505D12JqailAxLV9Cmy9v6Q~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190307/4cd73a36d6e7f3f858866b78bc041a48eaf74521287f8d45d17a5d4c00292984_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "fa826295d531ef3f0nJ-0965E1Y~",
+    "bossName": "齐叶华",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "ccf15747015274601Hx_3Ni8GFVQ",
+    "expectId": 1014042683,
+    "jobName": "测试工程师（外派百度）",
+    "lid": "3obPzs3bZJ2.search.269",
+    "salaryDesc": "7-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试",
+        "测试工作经验",
+        "iOS/Android测试经验",
+        "自动化测试经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "西安",
+    "areaDistrict": "雁塔区",
+    "businessDistrict": "鱼化寨",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 269,
+    "city": 101110100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 108.840856,
+        "latitude": 34.20959
+    },
+    "encryptBrandId": "879cece58f6a7e7d1XR929W0",
+    "brandName": "柯莱特集团",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金",
+        "交通补助",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

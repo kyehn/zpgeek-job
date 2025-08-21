@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "中原区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240429/607f1f3d68754fd08b01604d2d96f68bfc0271436134ccff5730dce64a1a5b0bf6e86b98b2c83a46_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "何向楠",
+    "bossOnline": true,
+    "bossTitle": "人事专员",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230130/7b5b554d84f9729c75044bf3b3071c7dc857e518c2a465941d166c224250ea84d9970f683197b47b.png",
+    "brandName": "河南多鲸",
+    "brandScaleName": "100-499人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "高新区",
+    "city": 101180100,
+    "cityName": "郑州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8eaf2bde88cdca930XF62Nm1GFFY",
+    "encryptBrandId": "003aed4151ccfa291Xd-2Nm5GVM~",
+    "encryptJobId": "48930c10e7fe077303V-29S_GFZS",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.791599,
+        "longitude": 113.544526
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 51,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "智能驾驶数据训练师（可接受实习生）",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "89OL5Tzpw4E.search.51",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "CtXtWOxJUBoGJ-I1iXAWLx1IcPIPeUDy5Za34WW1HHDjzRE8Iu0qowvF3LxdY2qXu2RVNIk17FCGB-eVxbBXxL6EAZU9ap8DfgNum181lPXbHv8mEaxxT4usUkMek59z-Rjx5yan0S7kDdIxLjJG8_ne",
+    "showTopPosition": false,
+    "skills": [
+        "数据标注",
+        "不接受居家办公"
+    ],
+    "welfareList": [
+        "员工旅游",
+        "全勤奖",
+        "底薪加提成"
+    ]
+}

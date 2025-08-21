@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "虎丘区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240410/607f1f3d68754fd02481ff7b1ecc8b9260984ef7bb351559e67d952ecdc45be62b8976cfefc2bbc6_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "张春梅",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "医疗服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210201/7752830eaa7ae3b10e478aaae51c29cfa0c07d571ae0b7231eb346399fb2d341.png",
+    "brandName": "江苏国衡",
+    "brandScaleName": "100-499人",
+    "brandStageName": "A轮",
+    "businessDistrict": "枫桥地区",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ba48790ad1e2bc7c0nJ52dm9FlFZ",
+    "encryptBrandId": "5775ccddaa3043923nF829m5Eg~~",
+    "encryptJobId": "6dc180eb97d70df71XFy3dy7EldR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.311831,
+        "longitude": 120.544964
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100402,
+    "isShield": 0,
+    "itemId": 11,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3qySyQXzpM1.search.11",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-7K",
+    "securityId": "qTFMKtrGeaODj-B1qVjYyldGKwsuoV_GneuX6LkBX0fTb2h6G9hLeZ3GKEB661V-kECRVj75rqkl0Wb4aztv9Os-wg1J7E9-qBkBVLAPiEZMBVzOUSzma_mgsxbeYk1pf048RQerLx5ANA~~",
+    "showTopPosition": false,
+    "skills": [
+        "Orcale数据库"
+    ],
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖"
+    ]
+}

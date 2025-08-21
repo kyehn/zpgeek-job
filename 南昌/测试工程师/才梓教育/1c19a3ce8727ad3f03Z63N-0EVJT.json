@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南昌县",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_11.png",
+    "bossCert": 3,
+    "bossName": "刘素雨",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "广告/公关/会展",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240424/7bf6f160950405e97dcc713cad26179aa64e644c17c4266136ebbd9583ad81dce4c06d3ebfb0de73.png.webp",
+    "brandName": "才梓教育",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "麻丘",
+    "city": 101240100,
+    "cityName": "南昌",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "563768a3d24a08f90n143d60E1ZT",
+    "encryptBrandId": "9b310e7398910e471Hdy2967FlM~",
+    "encryptJobId": "1c19a3ce8727ad3f03Z63N-0EVJT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.672264,
+        "longitude": 116.075889
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100101,
+    "isShield": 0,
+    "itemId": 116,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "16ZR7ORlz3M.search.116",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "T6w8QLF1XNXpG-X1bBwmEncldd9YLkNIjP46sCHYdDia6FaEf7zJR17TPfZRw0Cl3jNWHFEnrSdmxcrp6jywX2nBVUT397in78bflTpOoKqonJGTNUys72Z5hgeeoguNPwaoUL3gWd-eiQI~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "计算机相关专业",
+        "软件开发经验"
+    ],
+    "welfareList": [
+        "底薪加提成",
+        "五险一金"
+    ]
+}

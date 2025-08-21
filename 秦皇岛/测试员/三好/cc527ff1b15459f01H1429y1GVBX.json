@@ -1,0 +1,58 @@
+{
+    "securityId": "Y5gKTBv6TQoY1-T1nlYAToKD1o4FVPwWW-2cObyqo9YxCNAWj63ih89NK_OxvWbcvM2yvliRbp4db13uIV-22FI5J5M6f8jcLfErjDckQssDqnIB_bZ2C9ZqTHvruWh93DgN8QTNhlEBlw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180727/b514b3215cef24ac9d3c29e0421f3e58cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "ea5ebdd1605d76571Hd92Ny1FVo~",
+    "bossName": "秦女士",
+    "bossTitle": "人力资源经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "cc527ff1b15459f01H1429y1GVBX",
+    "expectId": 1014042683,
+    "jobName": "测试员",
+    "lid": "5E4ZsFV9tCN.search.99",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "秦皇岛",
+    "areaDistrict": "海港区",
+    "businessDistrict": "太阳城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 99,
+    "city": 101091100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 119.578358,
+        "latitude": 39.927422
+    },
+    "encryptBrandId": "5b11aecc5451dd631Hdy39q-GFc~",
+    "brandName": "三好",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "人力资源服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100604,
+    "contact": false,
+    "showTopPosition": false
+}

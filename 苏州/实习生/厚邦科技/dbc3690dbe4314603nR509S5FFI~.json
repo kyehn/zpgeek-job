@@ -1,0 +1,62 @@
+{
+    "securityId": "2XE2Kz2VNx3wo-F13vNrTlFNOwprH_s8ug7LycDB4Zbc0o9-t9OE2JYt_-upy-7IWlzKSl25j7xebOAPu77yShhunSr9tuOIjhTKIR7NsV_9FQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180528/21be8e2e1ca70f1225dd119c3d2d0ca0d25478641d0f5649772d252b10370022_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "a37b6680800b2c3f0X1929m0FA~~",
+    "bossName": "刘女士",
+    "bossTitle": "首席人才官",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "dbc3690dbe4314603nR509S5FFI~",
+    "expectId": 0,
+    "jobName": "实习生",
+    "lid": "29wJeeSYiFr.search.156",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "学习能力  综合素养"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "姑苏区",
+    "businessDistrict": "石路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 156,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.600597,
+        "latitude": 31.31102
+    },
+    "encryptBrandId": "d6be2e198e8f87a81Xd42tW-",
+    "brandName": "厚邦科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160611/54ce1b72968a0a9c351042038d719d0fa913d92db28697eac97819731866a743.jpg",
+    "brandStageName": "A轮",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "全勤奖",
+        "带薪年假",
+        "五险一金",
+        "员工旅游",
+        "节日福利"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

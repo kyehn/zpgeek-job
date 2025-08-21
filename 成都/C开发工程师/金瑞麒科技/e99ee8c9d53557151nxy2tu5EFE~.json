@@ -1,0 +1,58 @@
+{
+    "securityId": "TFZkdgHBURzn5-81nQ3tIXOctiR3OzaZ58mX7cIAoE-Vdi1165AgKnlnEpXJUS57_7H_KBrtwL2o_1fJkLy5Owdj8vC68M7zmc3iwdMdiJBpiVzS",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170821/378ed2186ffa6b92b33bbef89bf708c8e78882c60174e770e7ec1502e4501230_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "9bab5715b0e0c3cd1HR_2tS4F1E~",
+    "bossName": "尹先生",
+    "bossTitle": "C++开发工程师",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e99ee8c9d53557151nxy2tu5EFE~",
+    "expectId": 0,
+    "jobName": "C++ 开发工程师",
+    "lid": "2ZGIrSA3d96.search.164",
+    "salaryDesc": "6-12K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C/C++"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "双流区",
+    "businessDistrict": "华阳",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 164,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.0736,
+        "latitude": 30.39559
+    },
+    "encryptBrandId": "0ac69bb7a98f88f01nd93tW0Fg~~",
+    "brandName": "金瑞麒科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180219/51358435c735627293b1c90ffd7f7474c7536b4ceb87332bf24e3ca3657aa158.jpg",
+    "brandStageName": "天使轮",
+    "brandIndustry": "智能硬件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100018,
+    "contact": false,
+    "showTopPosition": false
+}

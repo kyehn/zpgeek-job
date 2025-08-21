@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙华区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "戴慧丹",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "汇顶自动化",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "观澜",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3b880117da4c93fd0n1509-6E1Y~",
+    "encryptBrandId": "fc586d477fda048a1nN929u4EFA~",
+    "encryptJobId": "142477e469537d9f1Xd50965FVBY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.725888,
+        "longitude": 114.083564
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100902,
+    "isShield": 0,
+    "itemId": 77,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "安装调试工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2wBFDdSRhsD.search.77",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "zgI3yxy8gBofU-51ohIRE7_6PmE-0pTxqJhE0bbcNR9eHfWuCM1zkYtt9AoD4PgR9xn8nZ2oDrHp1g0pTQNwD22q4im-JLBZ4XM_myF0u47OD8396QZ0AWEDzzKeR_crOyLCvDBCfZu4eA~~",
+    "showTopPosition": false,
+    "skills": [
+        "调试",
+        "测试"
+    ],
+    "welfareList": [
+        "保底工资",
+        "绩效奖金"
+    ]
+}

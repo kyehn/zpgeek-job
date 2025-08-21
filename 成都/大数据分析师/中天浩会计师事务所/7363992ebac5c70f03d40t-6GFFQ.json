@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "金牛区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250409/607f1f3d68754fd0572fb95f250692d113405cc3c23c7fb56f890ead9329295c927687f8a2476b26_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240520/7bf6f160950405e9eb1be64ab538fc281ff3b0b246d9b9459ffe939af068c19385a8d999ca4691a2.png.webp",
+    "brandName": "中天浩会计师事务所",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "人民北路",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e9745b1ff6ad2ec81nRy09u6GVNV",
+    "encryptBrandId": "9c2320a7e5141e431Xdy29-8GFI~",
+    "encryptJobId": "7363992ebac5c70f03d40t-6GFFQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.689911,
+        "longitude": 104.073874
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 45,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "大数据分析师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rgW5Y2HY6T.search.45",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "RT0587IwmZ6Bx-21BvYnF9mF1JsAqZ2nKtPEPCiqvQxDVuVpnyRQlmoOBCAc1eQ6jMHUhRZU3aAP2ODf0A_LQj3oM_UK8pmLUrwB1KWkP-hD_kab2AsDoLOG5g4mrYItI8qhVjHv8RnMD8c~",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "SQL",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

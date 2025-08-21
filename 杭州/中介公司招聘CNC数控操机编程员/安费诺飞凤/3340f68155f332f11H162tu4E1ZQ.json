@@ -1,0 +1,60 @@
+{
+    "securityId": "fDi0yebY19PxU-D1Pmhxu_CzHedIO-phaHszXlyhrqu2oMzThGWalfXD_gVTvEubbJ8043803e51ZBSfSwmO4eMwEMisFEz077p-rItb9jbponPQBT-L21W2TdgtxJSZV5cRWXK_4Ua45tQ~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "25a69c41e58b1cce0XJ90t-8FlRV",
+    "bossName": "刘恒",
+    "bossTitle": "人才经纪人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3340f68155f332f11H162tu4E1ZQ",
+    "expectId": 1030426395,
+    "jobName": "中介公司招聘CNC数控操机/编程员",
+    "lid": "McnZPtNztQ.search.187",
+    "salaryDesc": "6-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "西门子",
+        "数控相关专业",
+        "可接受夜班"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "钱塘区",
+    "businessDistrict": "工业园南",
+    "jobType": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [
+        2
+    ],
+    "itemId": 187,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.364,
+        "latitude": 30.298
+    },
+    "encryptBrandId": "07da19c128516e0c1nB42t-7EVU~",
+    "brandName": "安费诺飞凤",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandScaleName": "500-999人",
+    "welfareList": [],
+    "industry": 100026,
+    "contact": false,
+    "showTopPosition": false
+}

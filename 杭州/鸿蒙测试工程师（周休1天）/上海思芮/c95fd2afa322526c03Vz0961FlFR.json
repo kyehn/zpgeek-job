@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240618/607f1f3d68754fd0ecce6dc6cd30edea70402f01a4522c28b521944f70e77eb7f36e63bd7b71a93f_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "孙小飞",
+    "bossOnline": true,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "上海思芮",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "394f0cf382e1801c0nZy3t66E1FQ",
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "encryptJobId": "c95fd2afa322526c03Vz0961FlFR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.180827,
+        "longitude": 120.222563
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 12,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "鸿蒙测试工程师（周休1天）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8HsffrcNAV7.search.12",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "mb3AbSFVmLlH6-A1kZZdlF8Oi1u-JaXcSbcz_xraphL4CgQtYxwrbS4x4Jjq1HM3w7Dj1ceNNUmluazv8dCyGJngs_wPziNoWcjWSfyxVqDHLDN7YTMWFqlHUBD3OxaQrHGMfY008piookPFJ4obaCQcACw7FsrCghy-186DvORn6oon",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "APP测试"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

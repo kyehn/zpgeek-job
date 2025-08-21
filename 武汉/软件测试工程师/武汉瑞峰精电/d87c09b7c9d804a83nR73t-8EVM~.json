@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江岸区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170507/738983b033827597ed0bf6be31e756568bfb6c5912a2c3ae6693f3e3f0df8d68_s.jpg",
+    "bossCert": 3,
+    "bossName": "付莉莉",
+    "bossOnline": false,
+    "bossTitle": "办公室主任",
+    "brandIndustry": "在线教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170210/76031dbb2a8fe495f294ca8b5b31998e243aa6fa540632150f44f4dfa3691ac7.jpg",
+    "brandName": "武汉瑞峰精电",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "江汉路",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b18bcfea442ada011XN40tq_GFQ~",
+    "encryptBrandId": "b70d580aad27665d03N_3dq4",
+    "encryptJobId": "d87c09b7c9d804a83nR73t-8EVM~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.578112,
+        "longitude": 114.295302
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100012,
+    "isShield": 0,
+    "itemId": 87,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2vcDozHTIox.search.87",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-9K",
+    "securityId": "yQKv3ekZyyiY8-z1yTyTtkOpTaicYAKlGW2YB_CNgnUcQ4QtIEIlvKcpIIHM61dphIiz6ZZyCZZcRh2_-j6i3f_Awf_bdlbXLE-sHai6hPztFFwvtmyq2EL-LC9Zg8nTdB37p6wcqw~~",
+    "showTopPosition": false,
+    "skills": [
+        "测试工程师",
+        "功能测试",
+        "性能测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

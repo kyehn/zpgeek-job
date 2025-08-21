@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "苏州工业园区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_12.png",
+    "bossCert": 3,
+    "bossName": "乔静",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200305/09185ea60882e0dbd1d5eb143f0e2a98bbf222e305fa141b7482bab52a2a69be_s.jpg",
+    "brandName": "健硕天衢医疗科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "独墅湖",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3ba428ef88e6b4040nR70t-_GFE~",
+    "encryptBrandId": "2ae44b6338fdf7bf0Xdy29S1FQ~~",
+    "encryptJobId": "1124ca561200556f1XJ_3d61GVRW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.257766,
+        "longitude": 120.737304
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 55,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "后端开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "28zz0cxfoGY.search.55",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "El4v1P_lKDI9x-v1OIEa8lMd1AxkWMVOLzP9lA-E3ADuhR4P5nJvK0lBjHuiw4JaKs8DjfBtjJnx5vUzFPNdzCuvFgPdXAkLHxXeU0fnmFJFwC1l0iGKwqiDzDdzDP2rhfjQL8BvMJlj",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "交通补助"
+    ]
+}

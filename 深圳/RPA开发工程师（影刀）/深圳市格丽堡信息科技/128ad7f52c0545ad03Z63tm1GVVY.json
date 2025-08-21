@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙岗区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "叶先生",
+    "bossOnline": true,
+    "bossTitle": "人事专员",
+    "brandIndustry": "消费电子",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250423/7bf6f160950405e98c1252eb548029749a29046ec9a47d00c82ec2c32fe723e8daf426ba330b99ee.png.webp",
+    "brandName": "深圳市格丽堡信息科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "坂田",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7f03bc248986250d03N43du5FFI~",
+    "encryptBrandId": "4d1b464e7d930c991HRy2dS-FlI~",
+    "encryptJobId": "128ad7f52c0545ad03Z63tm1GVVY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.636749,
+        "longitude": 114.067864
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100027,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "RPA开发工程师（影刀）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "r2lf7GDqvU.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "KKeFnT3spFTeq-g1BMb2k3XP5vQQ5VI5KBbGwRxcWu4ZMhJWaDMo6NATHT43lU8Q6hamT4G4ZvExQORQNbbBurMKlkgH1Kdxh4moqb6D085k4aj0fnNIOWo-xoKygWebLgEZ-GhTqHDqeRvGcIJuqW4GflPINktxq83ZbLGPuzhV9aJyvA~~",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "团队管理经验",
+        "架构设计经验"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "年终奖"
+    ]
+}

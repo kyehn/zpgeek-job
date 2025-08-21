@@ -1,0 +1,61 @@
+{
+    "securityId": "R3peuGwPOvwes-81efT2L7vSd4UtgC2lvZkj0mp2-NvBg_OXCnFRH1uyf_bcmoO1f-dorL1z7E-WY4t4xVI4PopYWGfhQZxx6c6hAyu49_g3DWUQ7xy3tQ_HrKp_KqiPY72HXjHy5Sw8",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230824/607f1f3d68754fd054d082d75c0ca6614078745b8c44fbb78df8cd2bddd38bbea6fd674c88800c73_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "214f586b9410757d0nd-2Nq0E1RT",
+    "bossName": "唐女士",
+    "bossTitle": "招聘主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "bffaa0caa4b269c11HR509u-FVRX",
+    "expectId": 1030426395,
+    "jobName": "运维工程师",
+    "lid": "LWwg7KiZql.search.111",
+    "salaryDesc": "7-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "文档",
+        "linux",
+        "华为云"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长春",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "人民广场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 111,
+    "city": 101060100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 125.322846,
+        "latitude": 43.87288
+    },
+    "encryptBrandId": "347ed4ff3ca4da220nN73d--",
+    "brandName": "科旭网络",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170327/29dac52170f347a7bade8be35d7543485d249e6f3f9dd76a7354284fe349eea8.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

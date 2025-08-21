@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "张家港市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220610/607f1f3d68754fd0f931efb07319d2008bbf6cd49e16d42d78bfbf1e9dc1659657df06ca38533990_s.png",
+    "bossCert": 3,
+    "bossName": "郭莉",
+    "bossOnline": false,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240105/7bf6f160950405e9763d940637ab43c1b6bf9ec44707a6cd04c5cab85daa86eb9e7e03c57e4518bb.png.webp",
+    "brandName": "卓越际联科技有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "合兴镇",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5524a98b359ad6870nd42N24EVBU",
+    "encryptBrandId": "9a80334346a8f4661XR73Ny1F1Q~",
+    "encryptJobId": "7199050e633c1a7c03V62t29GFZV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.922659,
+        "longitude": 120.674208
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 15,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "机房运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3qySyQXzpM1.search.15",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-7K",
+    "securityId": "TC9Jm5rhMibej-P1VcvkECh0AYWp0aX61PljoFFN1wlvdOhI8rIWRZLeixgd_VgIJVOP1yjh8RwVNLUJvIdwZBT2a-mcQORfm-iuuElpPFE7LR2SQGuG-rNN2cBI3Xd-xKCCQinuVVEaNME~",
+    "showTopPosition": false,
+    "skills": [
+        "基础设施运维",
+        "机电相关专业",
+        "设备维修/保养"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

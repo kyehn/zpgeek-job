@@ -1,0 +1,63 @@
+{
+    "securityId": "x5bnQPVQ_gFbg-u1iQbP6mEysTW2ksesDD7csnhHzW_ZHkPAXYTu_xrw_588deuXwFosAtMDQq4_n94ONqxZiaODYgl89KTomLZaGqqLyqdyQ6YO4no6",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240624/607f1f3d68754fd0a98def08b2f4367d22319ad83703a2b4a93ef1420b202b6f5b757cbe67360358_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "3638fd372b5649f40nVy3tq_GFBZ",
+    "bossName": "张女士",
+    "bossTitle": "人事主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "9dfc47e29b8f2b951HN-39W7FVVT",
+    "expectId": 0,
+    "jobName": "python",
+    "lid": "2CG00zl4hTi.search.110",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "郑州",
+    "areaDistrict": "金水区",
+    "businessDistrict": "CBD",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 110,
+    "city": 101180100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.769497,
+        "latitude": 34.768126
+    },
+    "encryptBrandId": "ddc04fa6376bef3f1X1_2NW0GFQ~",
+    "brandName": "翼游互娱",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230816/7bf6f160950405e9d93957c2aaa14486be05dc81bfa5a87e385375bdf562a491dd639db3c0a23a0c.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "游戏",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "有无线网",
+        "团建聚餐",
+        "夜班补助",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金"
+    ],
+    "industry": 100002,
+    "contact": false,
+    "showTopPosition": false
+}

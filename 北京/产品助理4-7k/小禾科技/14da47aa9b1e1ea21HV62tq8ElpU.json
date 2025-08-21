@@ -1,0 +1,63 @@
+{
+    "securityId": "Bve2VXqthogdF-m1WE5gJC4ZJ28A37WwVjD8qZnlHBUtHzaicbkKRNrQbTbc7QD1LhdGzfEzUhrI_wDJkIOfbQcvcvTTSDrxkNTwY3-3dNLYBSE~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240704/607f1f3d68754fd08f98612446840bf89614000396a930ddabc3f75a011bd3927087de347c40d516_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "eae6934dae34b8ae1nN62NW-Fw~~",
+    "bossName": "赵女士",
+    "bossTitle": "招聘经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "14da47aa9b1e1ea21HV62tq8ElpU",
+    "expectId": 0,
+    "jobName": "产品助理（4-7k）",
+    "lid": "2WUcTLOVbDb.search.167",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C端产品",
+        "增长产品"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "安宁庄",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 167,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.316255,
+        "latitude": 40.042114
+    },
+    "encryptBrandId": "748e7d71848d79591XZ739m7",
+    "brandName": "小禾科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171227/88eb47c40859beb530ad1a24d52d6d689139263affeb4089da0b938249940103.jpg",
+    "brandStageName": "B轮",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "年终奖",
+        "员工旅游",
+        "股票期权",
+        "五险一金",
+        "通讯补贴"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,60 @@
+{
+    "securityId": "shDDhRacWhgR7-W1gOOedidLrENo8F-_MZ6gBH3KdYHdpNiL_r29a94MadPWTAqef6RU0y59eT11pkdAK44sjsNe14PEMEbj3nxBQ9rN99Cf7f0~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210317/fdd8d46ee94557a0de7eff5e9752143bc00f3ea7142775f169a81ae6d636a495_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "bd6bbec915ebc8c90XN73d26Ew~~",
+    "bossName": "钟女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6f82302c1a6896050nF_3du7GFY~",
+    "expectId": 0,
+    "jobName": "专利代理人",
+    "lid": "1g2jxwi5uzJ.search.109",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "专利法",
+        "知识产权"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "白云区",
+    "businessDistrict": "嘉禾",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 109,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.288838,
+        "latitude": 23.227115
+    },
+    "encryptBrandId": "03f7f5e5fa73c4fa0nB83tq4FA~~",
+    "brandName": "中商所",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "专利/商标/知识产权",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险"
+    ],
+    "industry": 100607,
+    "contact": false,
+    "showTopPosition": false
+}

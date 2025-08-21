@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210331/699cc53242285403a9e8944374665eccf47ff2864fc0328c9cef30131aea7e5a_s.png",
+    "bossCert": 3,
+    "bossName": "王朝",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "汽车零部件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210812/683831be4237faae074b2473eea6e039f47ff2864fc0328c9cef30131aea7e5a.jpg",
+    "brandName": "立荣汽车",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "592157f5e0bf32740nZ_2NS6GFVV",
+    "encryptBrandId": "adaa322a03d9befb1nF40tS4GVo~",
+    "encryptJobId": "d8044108f3c81cee1nF40ti8EVNV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.993561,
+        "longitude": 121.510342
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100802,
+    "isShield": 0,
+    "itemId": 87,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "供应商质量工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5vKUuXYm0m4.search.87",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "jMpgGRss5xeeG-l1Asl67qfDcMx-hyHP2MYKn9VaP9N0ZKr3QbaDveoNuGDwGjQEudWyG3FrLVxG0N1UBMXJGAzasqwy5AARYRJtIjLSj8HVNHVELz3CGdIZzjJOQxf2BZyf0NCkBKlJQ60~",
+    "showTopPosition": false,
+    "skills": [
+        "QA/QE",
+        "审核员"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "bossName": "李细文",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160426/4a09ea4c8d8db3f69e1c04d3a978a6c02008f75e6f1d9b936473d96e5199ff27.jpg",
+    "brandName": "瑞普图视",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101090900,
+    "cityName": "邢台",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f1aee40cf5a435221H1z3ti1FFE~",
+    "encryptBrandId": "6cfe370ba1d83e2f1XB_2968",
+    "encryptJobId": "b12175486ad26fde0HZy09q8FFc~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 37.063821,
+        "longitude": 114.564616
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 124,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "UYOvpto6IK.search.124",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "k74exBEbVeg9s-Z17zfNwhAujiagOdgMjNy8ohWWrH-VESIUNGVfwLbCl87d0j2kk9zkFeXrk1EIYlL6r6e_OjWrTnmHAz4V4nVyeWo8zxU7oWtbs4aPp9inpB7Uh_9jI0PJwIOoJQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "软件工程师"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

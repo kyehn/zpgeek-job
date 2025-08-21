@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "东城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230214/607f1f3d68754fd0b22bdc3bb9e967b1656ba7e4758f6f6205aa105cff033f9c2b14e3812e6dd470_s.jpg",
+    "bossCert": 3,
+    "bossName": "黄女士",
+    "bossOnline": false,
+    "bossTitle": "HRBP人事主管",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210308/0802996a83379ded78738c8956c4f17297cd2ce5e62dd47e3693559db397672e.png",
+    "brandName": "印象网络",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "王府井",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "96f412922740a1700nR82Nu-E1ZW",
+    "encryptBrandId": "029b952b52776c951nB_0tm4FFY~",
+    "encryptJobId": "7f4b82f63bdbc8aa03F-3tS6EVBZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.922915,
+        "longitude": 116.417441
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 50,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7HJjeY8XWB5.search.50",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "-MFEPy4Ni7v8b-D17TtMBggUTGROy23RdDbDuqCa1ukBXiWKbGajcEpbhJfzNxDSf-sAML3CdWpi_Jnql34JhVxcEy7F9V6MiZaA-AxxEfN-G4t8O9WEdRLeitD3j0wBZMb_8R_2qJyBzGs~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "SpringCloud",
+        "MySQL"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "大兴区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200523/db03cb740787a91f216f24e4c59f0fbf20402d33a37922041664a0b7ac85e968_s.png",
+    "bossCert": 3,
+    "bossName": "宋思蒙",
+    "bossOnline": false,
+    "bossTitle": "分析师",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/03e20c586edcc2a1f2b9ec79de83368acfcd208495d565ef66e7dff9f98764da.png",
+    "brandName": "京东科技集团",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "亦庄",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "07ae71796ec7c1c31Hd93dy0EVs~",
+    "encryptBrandId": "f9a5b0b441e187631nJ_2dy8FVs~",
+    "encryptJobId": "cfade5a5665f1a320Hd909-0FlE~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.79129,
+        "longitude": 116.563972
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 88,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "数据分析师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3PpXXwZTbwq.search.88",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "Mfw5f3yaSBc6T-Z11ZWAZCtR8K3LeOwT5SwniV6u7OD-PFQ0GnLfY76WqeIWIjH5llF30OsiDWBT-ONidrnLJemOfEYAI8C2DdKuK3yO-_s1CqGqfVnE6GQMR7P1xZUDLNp6XSEVoCDN",
+    "showTopPosition": false,
+    "skills": [
+        "数据分析"
+    ],
+    "welfareList": [
+        "免费班车",
+        "餐补",
+        "五险一金",
+        "补充医疗保险"
+    ]
+}

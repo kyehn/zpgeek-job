@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180224/f242f26f5aad62f5f3060c1344d87bc5cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "bossName": "祝先生",
+    "bossOnline": true,
+    "bossTitle": "技术总监",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://c-res.zhipin.com/jrs/ff659f8d187b64c4a2e0e8f904fb9344.jpg",
+    "brandName": "博恩天成软件",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "黄龙",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "872a47e187fd11ec1HB83N65FVQ~",
+    "encryptBrandId": "b8d824682808dc611nB93Nq6GQ~~",
+    "encryptJobId": "b674fa73f7c5ac2c1nN529S-EFY~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.271469,
+        "longitude": 120.124977
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 36,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Java初级开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "72mxBowOzD7.search.36",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K·13薪",
+    "securityId": "uT_qjZcP5VsHS-V1GdWCxUfZv6lP5G6vB5SFNA6rZpfi--yCWCtvWPvIc1mZHUOPTTEE2_YnKfAdk1fMIdtm2taK-CrwljJN5fj4iRir5BfrHVGLMV0nVVcEQmH8sP75Dw9d-vhmtyxfYBPFC8Ny7XPibPoPYkeKWGPKy8bpIab1va0~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "HTML/CSS",
+        "HTML5"
+    ],
+    "welfareList": [
+        "五险一金",
+        "股票期权"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "盖州市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190403/b9e54b6e2306f30c52a1de8964dd8779f3d03d367aa8e9b9e48cb8691913dd20_s.jpg",
+    "bossCert": 3,
+    "bossName": "赵雷",
+    "bossOnline": false,
+    "bossTitle": "CEO",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190407/53e43619fbd08d5e5f866edb02510badf3d03d367aa8e9b9e48cb8691913dd20.jpg",
+    "brandName": "龙源善吉",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "白沙湾风景区",
+    "city": 101070800,
+    "cityName": "营口",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ee981a4652bf77300n143969FFI~",
+    "encryptBrandId": "1b86befc42ef5bbd03R-09y_EQ~~",
+    "encryptJobId": "4f2d1d2467ed7f1503Z_0960GVM~",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.125381,
+        "longitude": 122.00581
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 91,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "APP互联网技术",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2EIH0X52O4H.search.91",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "LzwFVqRBb36XV-M1rm9c-h9szBGGWSeuYQEROKXXTlNf8s509OupqVKeR2GAdvKfkXKCNbfH35Ke8n86vo5_Ab6Bco0GrZPluFZPIjY3lh1aKZl87kAVYjOMUZP4E3cvnoF7jiyVHcg~",
+    "showTopPosition": false,
+    "skills": [
+        "Android",
+        "iOS",
+        "Java"
+    ],
+    "welfareList": [
+        "股票期权"
+    ]
+}

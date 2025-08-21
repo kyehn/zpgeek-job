@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180724/b2835a8199fba624dd4af0fec8f49c3dcfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "bossName": "李东",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img2.bosszhipin.com/mcs/chatphoto/20160321/93f01024f918b7b9e7678770d946df6abd3791bf74d4e18a1145fc79912816ea.jpg",
+    "brandName": "东升",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "长平新一城",
+    "city": 101280500,
+    "cityName": "汕头",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b3f672072ef7fea603d43N65GVA~",
+    "encryptBrandId": "88449a3072d7c3fc1XN-39o~",
+    "encryptJobId": "ba2e7c7301506cf21Xd829q4FlM~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.384915,
+        "longitude": 116.720283
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 68,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5e4tMi2FniY.search.68",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "2-4K",
+    "securityId": "iGtFrVyKVTLcY-Q1hH_kBjMou67k-8BdS_jhclXGrWzoaEuhHYfl0-wQbiGUdrCx938ZRakEMArbAKClC4FbGf71JkLGZRfOExfg5PSVZWX3A2ltOnU8bvLMs6ZrQF-x68cjecpL",
+    "showTopPosition": false,
+    "skills": [
+        "软件测试"
+    ],
+    "welfareList": [
+        "全勤奖",
+        "年终奖",
+        "餐补",
+        "节日福利"
+    ]
+}

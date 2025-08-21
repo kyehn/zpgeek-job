@@ -1,0 +1,63 @@
+{
+    "securityId": "xAn3hblh3GJsr-d109KHc7XgT2G00CTMMlStOi8BEtZcrnelQgGUcj8mzTpKbnoqZKmJ_t_7AsLzWlNmIr2WOAr_U-5uvT6Kmxu82e5rG-JA-fZPvg~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "9269f3c7756beebb1nR93dS9GFtX",
+    "bossName": "张先生",
+    "bossTitle": "技术部总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ee7045a5aa0a8e870HN63d28E1M~",
+    "expectId": 0,
+    "jobName": "软件工程师",
+    "lid": "2vELUlIvpqA.search.157",
+    "salaryDesc": "3-8K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C++",
+        "Lua",
+        "QT",
+        "C语言",
+        "VC++",
+        "Halcon"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "惠州",
+    "areaDistrict": "惠城区",
+    "businessDistrict": "仲恺",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 157,
+    "city": 101280300,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.345465,
+        "latitude": 23.03612
+    },
+    "encryptBrandId": "2803758f24ca1d1403F82tS4FQ~~",
+    "brandName": "惠州百胜电子有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200508/4b02dfe1386e6b87850b0355c777fdab82c89069459c873007497805c27eb940_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

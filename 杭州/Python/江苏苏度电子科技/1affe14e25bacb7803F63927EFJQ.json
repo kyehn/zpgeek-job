@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "余杭区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250619/607f1f3d68754fd0f1f1be74e2a08f2ed6dd56bcc2162b7d4494e4491a7819c888974510c3181970_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "电子/硬件开发",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231117/7bf6f160950405e99dd7ad827c86b8afe98aa19cdb4914254494e4491a7819c888974510c3181970.png.webp",
+    "brandName": "江苏苏度电子科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "仁和",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4a1914f15a9a6eec0nx43dy4F1FS",
+    "encryptBrandId": "afc6407a3b5ba9e51HR-3NW6E1I~",
+    "encryptJobId": "1affe14e25bacb7803F63927EFJQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.451246,
+        "longitude": 120.077788
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101406,
+    "isShield": 0,
+    "itemId": 54,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "Python",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9aZcmxEpsfA.search.54",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-9K",
+    "securityId": "49fn1S1Slm-r8-e1kIqLRnhSPZSku1X8l1IReK0O8jqrysDOrRZTJZBHxO4m3a-pu7_gVWJhoggmUIEAcJxT6qcpw3sebJ_5S_uxghz18SscK8OfmpCJzQXLe8V0guVbDP5n1FHjUkJU3VY~",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "定期体检",
+        "五险一金",
+        "年终奖"
+    ]
+}

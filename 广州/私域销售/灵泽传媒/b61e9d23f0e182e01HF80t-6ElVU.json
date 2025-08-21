@@ -1,0 +1,63 @@
+{
+    "securityId": "KVeV320286utP-r1uCpv9A_B-WOOsIyE4aWV8KrX6xSpYRn5o9i_VOwrDD1Hfgl4xRwZl90dU-1q2qDPIrURpcldrN-_oAnIRyAAwxZoADj36p8MfbpZ",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220905/607f1f3d68754fd07094567e562d0afe7ff63c31c787508d0ef8a5b99a1073aef4f5472ca59c11d6_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "92f9b98be230ec731nR529y1F1ZT",
+    "bossName": "梁先生",
+    "bossTitle": "电商运营",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b61e9d23f0e182e01HF80t-6ElVU",
+    "expectId": 0,
+    "jobName": "私域销售",
+    "lid": "5I3eMNS3Sy0.search.125",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "私域",
+        "网络营销"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "番禺区",
+    "businessDistrict": "万达",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 125,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.348981,
+        "latitude": 23.007436
+    },
+    "encryptBrandId": "6b71fdbdf7fe6c421Xx92d-_Elo~",
+    "brandName": "灵泽传媒",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "交通补助",
+        "住房补贴",
+        "员工旅游",
+        "团建聚餐",
+        "零食下午茶"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

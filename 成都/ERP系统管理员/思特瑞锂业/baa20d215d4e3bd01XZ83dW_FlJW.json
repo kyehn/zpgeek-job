@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "金牛区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220425/607f1f3d68754fd02bfff4e9a799023b7b5866f35c4dd39a72d75d9b2d70880579fc7a63043d0202_s.jpg",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "人事部",
+    "brandIndustry": "化工",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220425/7b5b554d84f9729c111a57dfffb3704cc883c77495597bc072d75d9b2d70880579fc7a63043d0202.jpg",
+    "brandName": "思特瑞锂业",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "茶店子",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "27fcd3e586af8cbf1Xx829i4F1M~",
+    "encryptBrandId": "52933acebdfba1bf1nRz0tq4FFo~",
+    "encryptJobId": "baa20d215d4e3bd01XZ83dW_FlJW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.712949,
+        "longitude": 103.994319
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101202,
+    "isShield": 0,
+    "itemId": 25,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "ERP系统管理员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9d5OVaWesnQ.search.25",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "TDoyS9ZbYZmz0-M1ZCE-pK9JmQOwWnMM2NOSzdWqmp3wSZxUkuaN-bxVmQoZpbM7lqTpXqdPwklxAX71NIuUBUZrXXRyGhg1iK-jcUT58IQvJ7PAVUPsl58gXxtMaE29gqeXeshtKI_tkg~~",
+    "showTopPosition": false,
+    "skills": [
+        "ERP系统管理"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+    ]
+}

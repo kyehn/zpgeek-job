@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241223/607f1f3d68754fd0b7a10d2b0ee1c1811cde1263f89989ddd3db59d04a9ccc4dc744168625f67d60_s.png.webp",
+    "bossCert": 3,
+    "bossName": "李启剑",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "杭州北杉信息科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e40594551ff6f5180XNz0tS7F1M~",
+    "encryptBrandId": "9ebd95a6fda5d4e91X173t67FlI~",
+    "encryptJobId": "ebf998f8f0be725c03B43964F1dV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.182857,
+        "longitude": 120.210209
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 48,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9b097iOVS1T.search.48",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-8K",
+    "securityId": "qiUyk91kKJL4X-F1Yp1q3hkqlq1S1Loml_OkcWYvTtEX74uv1uuBBIL7Dhm20vXYqGqTUZHvvp1EmtUU_ehmR6nY_uzpkmuRvJTszmBPgs3tUgkwEgZ_Wl87M80R1zCEXGLQo12ykDc0yQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
+}

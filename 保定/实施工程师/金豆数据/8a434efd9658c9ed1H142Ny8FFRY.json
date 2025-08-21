@@ -1,0 +1,63 @@
+{
+    "securityId": "lzvPz51W4AOKw-21YHRzdLWiHtVDPs9NK1VZZUXXi8wqMDEEwLYlmyHpgANR9KZU6giZF4fcH-6y96Wcaz0Ah1032PfD3B9d57GquAJxb5XsXetcpyhUR34NuDpio53G8Jk2KrYAsPY~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240919/607f1f3d68754fd0ca38464a4bb8be072cbd4de05bfda923171bdbf756030c28b332dc81f5427d6c_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "77e5bcf01343b9b203Rz2ty8F1o~",
+    "bossName": "卢女士",
+    "bossTitle": "人事HRBP",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8a434efd9658c9ed1H142Ny8FFRY",
+    "expectId": 1014042683,
+    "jobName": "实施工程师",
+    "lid": "3nLN4AukgDP.search.138",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "HIS",
+        "计算机相关专业",
+        "SQL语言",
+        "应届生"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "保定",
+    "areaDistrict": "竞秀区",
+    "businessDistrict": "农大西校区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 138,
+    "city": 101090200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 115.454968,
+        "latitude": 38.862121
+    },
+    "encryptBrandId": "983e720c741a51f31nB_09i4",
+    "brandName": "金豆数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170119/f21a73f1d949b9869345ae2fef8584904ce0c9c92782ff2976ea6bb4c6e0fb57.jpg",
+    "brandStageName": "B轮",
+    "brandIndustry": "医疗健康",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "节日福利",
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100006,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "丰台区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250611/607f1f3d68754fd0039c0e73954b0070c1e38fff7a64ba55537f01d4fc7012160f8829f50943033a_s.png.webp",
+    "bossCert": 3,
+    "bossName": "田蕊",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "万丰铭悦",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "花乡",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "10d000e4789e80521Hd_39-7FlQ~",
+    "encryptBrandId": "b0128ae0749282db1nB72920E1M~",
+    "encryptJobId": "35e54e1239e5389103Bz2Nu1GFZZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.794338,
+        "longitude": 116.303267
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "实施运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9cLQq76TzBP.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "Ir1Mwehs5khjH-S1SDnm0jismB61XZFR_MlZZ0ZZ68lmwGlNaTJU8vXSULYion9PnEQQ034ucrLfmlSbNfq04OYw1KlpSsw6MRpBuIRflHEj3IljtGIGkh29v_QgJTUns8E_N9DdaJTtng~~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维",
+        "MySQL/Oracle",
+        "系统运维",
+        "桌面运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

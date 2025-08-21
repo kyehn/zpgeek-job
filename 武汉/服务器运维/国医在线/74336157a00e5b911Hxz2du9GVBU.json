@@ -1,0 +1,60 @@
+{
+    "securityId": "HohZSltU8aGvW-L1oh8c8qrTMNB6IHUswAEFkjH2y_ckYGYCYICUFtGtvQtFLez_-coQ5ZiaIFjZjNONM33bgXXwikKVGl8yeVTn8iWcigyeCvbWbqF4R9R7-CyDE5xguVVMskUtV_mSQwA~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240816/607f1f3d68754fd09f86ccb38c08c91f2771f0c062b8b9e0b6d2d966d57043ae345823f7202bfa1f_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "8e95ddf4213ccf430XJ439u-FVRS",
+    "bossName": "姚女士",
+    "bossTitle": "行政",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "74336157a00e5b911Hxz2du9GVBU",
+    "expectId": 1014042683,
+    "jobName": "服务器运维",
+    "lid": "1aSAjIWCTIS.search.292",
+    "salaryDesc": "5-7K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "洪山区",
+    "businessDistrict": "黄家湖大学城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 292,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.32088,
+        "latitude": 30.453922
+    },
+    "encryptBrandId": "dcfc52116cb738071HF82968FFM~",
+    "brandName": "国医在线",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240730/7b5b554d84f9729cf62a87aabc060b4abfea720dfc2cad7d66289962b6e06a4a123b0afd0dd86ffe.jpg.webp",
+    "brandStageName": "A轮",
+    "brandIndustry": "医疗服务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "交通补助",
+        "节日福利",
+        "通讯补贴"
+    ],
+    "industry": 100402,
+    "contact": false,
+    "showTopPosition": false
+}

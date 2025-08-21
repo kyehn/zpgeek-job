@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "郭静",
+    "bossOnline": false,
+    "bossTitle": "行政总监",
+    "brandIndustry": "医疗器械",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "成都欧润康生物科...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "簇桥",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d7fbf11c25543b370nZy3d68EFVV",
+    "encryptBrandId": "b184014e5385714f1nFy0t-_FFo~",
+    "encryptJobId": "6316f31c8840e2bf1nBz3d-_FFpW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.623254,
+        "longitude": 103.976588
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100403,
+    "isShield": 0,
+    "itemId": 143,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rgLBgblZMI.search.143",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "TPaSOoAF7R91S-31233aJdSZwkkmsDu0zJE_qDF6spQnki3Ppyi8xTJsrHB53aHGSoIN_B6xNXrxVTJAQjcYCYzVj1IVoJ3AtbHi48cWSZY80nqEkCEbtKVukNtMY3vWL_E5gwG-dU0wqAU~",
+    "showTopPosition": false,
+    "skills": [
+        "售后维护"
+    ],
+    "welfareList": [
+        "五险一金",
+        "餐补",
+        "节日福利"
+    ]
+}

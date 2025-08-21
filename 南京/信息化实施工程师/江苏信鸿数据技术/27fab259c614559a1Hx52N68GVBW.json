@@ -1,0 +1,61 @@
+{
+    "securityId": "80pX5Y5ctOygI-11X-OfqzyMtsa4eGJ-L02EEvhj_ZZ3OiUQcQfZZ14GKtJ0CLA89b5X_GZq38tB0NL8oATsrA8uu0q895aLs8lU-JeJJtEhxnW7DPs~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240412/607f1f3d68754fd06469b4b55cf906c1e0ee5f36a0d89f79e3f6d95c033a594c1486a13649930e2d_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "01bf08ffbedf49030HZy2tq1FlQ~",
+    "bossName": "李女士",
+    "bossTitle": "HR.招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "27fab259c614559a1Hx52N68GVBW",
+    "expectId": 0,
+    "jobName": "信息化实施工程师",
+    "lid": "34Bh0zBWyZa.search.148",
+    "salaryDesc": "6-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Linux",
+        "oracle、mysql、达梦",
+        "sql"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "江宁区",
+    "businessDistrict": "开发区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 148,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.776392,
+        "latitude": 31.903549
+    },
+    "encryptBrandId": "2640a16c3e33eba71XJ73NS-FlY~",
+    "brandName": "江苏信鸿数据技术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230508/7bf6f160950405e96e33a9826af370cf4a550b05918ea71f3766f2dd63baf8986433ae5ee9cc5173.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

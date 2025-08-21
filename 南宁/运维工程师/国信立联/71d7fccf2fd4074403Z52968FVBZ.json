@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "青秀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "黄玉萍",
+    "bossOnline": false,
+    "bossTitle": "人资",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://c-res.zhipin.com/jrs/7c59647c6d50d43f8e0f776d62ab97dd.jpg",
+    "brandName": "国信立联",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "民族大道",
+    "city": 101300100,
+    "cityName": "南宁",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7e70efe594031c9f1H143N6-EFo~",
+    "encryptBrandId": "5c6c0725866d2e7b1nF43N-6F1U~",
+    "encryptJobId": "71d7fccf2fd4074403Z52968FVBZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.819545,
+        "longitude": 108.354223
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 144,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "13vwdCNswbE.search.144",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "ADZz-mHV8sfxj-01b4k65OnxXGbCD7zlEdNs4YlJi7qLmnuDoH1NiESQ0898-d73dkWmC5PoXbTZtBNeYl6ShfNjjFT9Xvp8_oLwEnIA3Zcqk4RbeUorGb_XbP3o8NNmsF-_a_bKCTrvxw~~",
+    "showTopPosition": false,
+    "skills": [
+        "运维"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假"
+    ]
+}

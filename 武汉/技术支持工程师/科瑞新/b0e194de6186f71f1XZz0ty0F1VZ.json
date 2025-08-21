@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江夏区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200428/25a56c83c33fe1c136744cfba5bb2080fe06e421067d013866b4c0f554768167_s.png",
+    "bossCert": 3,
+    "bossName": "刘女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "科瑞新",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "藏龙岛",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fe8aeb5308125eba0HF52dq_F1A~",
+    "encryptBrandId": "92929695e69dd6fe1nZ529m1EVQ~",
+    "encryptJobId": "b0e194de6186f71f1XZz0ty0F1VZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.416297,
+        "longitude": 114.449501
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100026,
+    "isShield": 0,
+    "itemId": 73,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "技术支持工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8oGUiBOmmoM.search.73",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "nI9LAO4ybJjFr-V1BoPll7eHnQh9qDkPcW3O6T9usocRJDo82lUalr7HXgc0_Og0EHP9Rzsq2frnGzIm5DXm_xuujgfglCvySI95DkpSTyKbjM3puEoie7rNcO9W7eiwFSGz-D5cHUdQNA~~",
+    "showTopPosition": false,
+    "skills": [
+        "硬件实施"
+    ],
+    "welfareList": [
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "Uu3O2mFqbbfbR-I1yi-5_20PqZNBlcof_3DE2rrl8ouF7YT3XNs9FrznvEnEH86vBexE1Z7BVgwcZpEzpZ_hUMUeTgWeHjeJr--agexTjz-hUR5WDKI~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240711/607f1f3d68754fd0ad622b421a08a41dffac9a19e7356c434c3e79f3e82224734a784e54f7de27e9_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "18fe33bf479861720XZ43tu0FVA~",
+    "bossName": "林先生",
+    "bossTitle": "董事长",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "310297459a0d65311HR-39S5GVRS",
+    "expectId": 0,
+    "jobName": "系统架构师",
+    "lid": "5GShbxMoYbM.search.226",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "网站架构",
+        "平台架构"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "滨江区",
+    "businessDistrict": "长河",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 226,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.180031,
+        "latitude": 30.184961
+    },
+    "encryptBrandId": "a1de9094d041a0171X1_2t61E1M~",
+    "brandName": "荟申科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230818/7b5b554d84f9729c96f9839a5d0fe36a0b43cb788f10f93e4c3e79f3e82224734a784e54f7de27e9.jpg.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "保底工资",
+        "股票期权",
+        "加班补助",
+        "五险一金",
+        "年终奖"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

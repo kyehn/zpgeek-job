@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "张家港市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "郭女士",
+    "bossOnline": false,
+    "bossTitle": "人事招聘专员",
+    "brandIndustry": "半导体/芯片",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231108/7bf6f160950405e9b704066b375681fc012d8456b85b6be042cb89e54bfcf21470f3345f999adc23.png.webp",
+    "brandName": "微源光子(北京)",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "城北",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0c6bb71aa031e6430nZ-2tm4EFFZ",
+    "encryptBrandId": "df7d69bf79386c7a1HV53Nu7E1Q~",
+    "encryptJobId": "0a73b81c4abe7dde03d-0tq1EFBU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.912632,
+        "longitude": 120.542813
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101405,
+    "isShield": 0,
+    "itemId": 106,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试技术员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "rk9gaT5255.search.106",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-7K·13薪",
+    "securityId": "L0ACz0sbMW1g2-R1jfYJPmso9Yhn1QpqBCmjbsifKCpT4kS-o0dRx-Wv29ykoPNnbxbZ8mZjOe_JhXmCEfsQuYcDGRDdnkZcOBtJy8yTyBcjg8Def73VQ5G4WiWqmxnRivAOAU6MBzcJtJo~",
+    "showTopPosition": false,
+    "skills": [
+        "FAB",
+        "性能测试",
+        "功能测试"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ]
+}

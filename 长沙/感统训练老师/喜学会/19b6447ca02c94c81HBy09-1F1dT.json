@@ -1,0 +1,62 @@
+{
+    "securityId": "Up4229TbUru6Q-O1EZGYQQmaEyEXvydpnHvruZk4KxkpkbfmkwSSToJQtqdazFBqKHmaXrta2YTWlwMTiwTPcrOGdiXc2iGYhULWTbn_7UpRAEQQVORy",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+    "bossCert": 3,
+    "encryptBossId": "2ca2f35b5921374d0XB_0tq0GVtZ",
+    "bossName": "黄女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "19b6447ca02c94c81HBy09-1F1dT",
+    "expectId": 0,
+    "jobName": "感统训练老师",
+    "lid": "2w1fnIUzJuS.search.105",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "上进心",
+        "经验不限",
+        "节日福利",
+        "绩效奖金",
+        "3—9"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "岳麓区",
+    "businessDistrict": "麓谷",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 105,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.865664,
+        "latitude": 28.189953
+    },
+    "encryptBrandId": "adfa3683c7098f491n1509q5F1E~",
+    "brandName": "喜学会",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "学前教育",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100301,
+    "contact": false,
+    "showTopPosition": false
+}

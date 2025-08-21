@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "余杭区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220816/607f1f3d68754fd01c65ffeeb41f7509d873fbd2da8d96e676c8adcb625937b43a6a17ab1ed9a39c_s.jpg",
+    "bossCert": 3,
+    "bossName": "缪维维",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230516/7bf6f160950405e91200ac113986f1665428721efc3c9c7a76c8adcb625937b43a6a17ab1ed9a39c.jpg",
+    "brandName": "果链科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "仓前",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e89877c049c0baca0nF_3d-8E1NS",
+    "encryptBrandId": "b0ff15a10cefeecf1XN629-9EFs~",
+    "encryptJobId": "e127d578a2713dd11Hx-2du1GVZQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.264261,
+        "longitude": 119.965431
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 20,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "xmmM7J4SPD.search.20",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "3wgFPp_4TuIro-r1buLHzUbiOGIYFelBFrZvGA8K9f2Pe8Ys7Dg0Jg_VVycJZcLwHsqzKKa1_TXurMbQEsYP-weJk5KFbr4njJjQ0_uG-qVmDnoC4ATKAuYw-Qx9mFGTzPtJ9AL9lmjjVDA~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "团建聚餐",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+    ]
+}

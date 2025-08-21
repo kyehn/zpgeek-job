@@ -1,0 +1,63 @@
+{
+    "securityId": "bfs5FM-ir7mdN-o1zHQ-4h0op3EYHT26B9Yr7Mvmg8-9RML7wEapbEAOB3rxfygg5XppPjRPy_LaMoXawrKsQheDGfYkMcwhJb_0V6rxZGs8MA445nE~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230615/607f1f3d68754fd07952fb1b40528091a11db6249ada4ab229a39be0ca0a63a2505a015dc0b06216_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "9fc3d8fff2fa924c1Hd42N65FVY~",
+    "bossName": "胡先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f47777f66dffd1771HJ639i1GVtZ",
+    "expectId": 0,
+    "jobName": "java游戏后端开发",
+    "lid": "5NaImlpto7C.search.279",
+    "salaryDesc": "7-12K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "不接受居家办公",
+        "微服务经验",
+        "MySQL",
+        "架构设计经验",
+        "游戏后端经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "上城区",
+    "businessDistrict": "城东",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 279,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.216609,
+        "latitude": 30.298778
+    },
+    "encryptBrandId": "b4d3b4bc1494acbf1Xx729m-EFE~",
+    "brandName": "杭州将游网络科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230613/7bf6f160950405e99a6b826fee7792210b4b6749fd45da3f29a39be0ca0a63a2505a015dc0b06216.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

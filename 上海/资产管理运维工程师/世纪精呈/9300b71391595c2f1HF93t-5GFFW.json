@@ -1,0 +1,62 @@
+{
+    "securityId": "UB8po0Q9_ydKy-61io2VyQEMM8Hq1MY_xJKo0ZoGMs5XwiZ3CjNR0FBkUsnbVpJavB5HMs-FGq8A6jxz3g1GsKVn1knMRVtNtJbSCY3KEj9jM_MeKzQ~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240911/607f1f3d68754fd0aebb170e93e9378f89395075885ae95b4ea034d9c1f87713abad68ed247b9e0a_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "3183f06cd95b1d8b1HJz2dS9EVc~",
+    "bossName": "魏先生",
+    "bossTitle": "招聘HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "9300b71391595c2f1HF93t-5GFFW",
+    "expectId": 0,
+    "jobName": "资产管理运维工程师",
+    "lid": "3nHckQCKZDR.search.234",
+    "salaryDesc": "6-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "桌面运维",
+        "计算机相关专业",
+        "运维经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "嘉定区",
+    "businessDistrict": "徐行",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 234,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.184241,
+        "latitude": 31.442347
+    },
+    "encryptBrandId": "f8397d70fff495e81XV72t21FlY~",
+    "brandName": "世纪精呈",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机硬件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "法定节假日三薪",
+        "绩效奖金",
+        "五险一金"
+    ],
+    "industry": 100022,
+    "contact": false,
+    "showTopPosition": false
+}

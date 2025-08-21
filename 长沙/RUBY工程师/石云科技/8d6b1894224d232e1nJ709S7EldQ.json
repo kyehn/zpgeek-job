@@ -1,0 +1,63 @@
+{
+    "securityId": "r0DswjGNRzm22-c1rBaovp0TJXvCXL_ccneAeT6DkgyPtrvazLvT2MY9zbovOdi-SrkxFwpRdEE4goiImD0NZUWB3UiWbf8-MVuwGrZcIV7obiDh",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "d28de65f2075b6711nZ939i-FFc~",
+    "bossName": "覃先生",
+    "bossTitle": "长沙技术负责人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8d6b1894224d232e1nJ709S7EldQ",
+    "expectId": 0,
+    "jobName": "RUBY工程师",
+    "lid": "3oxI7AFPttE.search.102",
+    "salaryDesc": "7-10K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "ruby ",
+        "mysql",
+        "redis"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长沙",
+    "areaDistrict": "岳麓区",
+    "businessDistrict": "麓谷",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 102,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.871332,
+        "latitude": 28.233467
+    },
+    "encryptBrandId": "a589981dcdb6a46a1Hd42tm1",
+    "brandName": "石云科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160803/620c8dfb78f5ac9e6e150303d7bd8f988adff86022b09fe28784a25789b7c19c.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网金融",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "加班补助",
+        "年终奖"
+    ],
+    "industry": 100206,
+    "contact": false,
+    "showTopPosition": false
+}

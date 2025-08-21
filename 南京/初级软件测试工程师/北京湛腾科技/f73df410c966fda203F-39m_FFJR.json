@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江宁区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250627/607f1f3d68754fd012771a69abf201bfebf4588505752920378b4881f53bb0f790da37d83e29e472_s.png.webp",
+    "bossCert": 3,
+    "bossName": "蒋女士",
+    "bossOnline": true,
+    "bossTitle": "人事主管",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/50139ad459d4c5dd363182fe891a3da6cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "北京湛腾科技",
+    "brandScaleName": "500-999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "百家湖",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "52b2164917e4d0150HRz3NS1EFNY",
+    "encryptBrandId": "830973d7d345e15a1nRy2tu4",
+    "encryptJobId": "f73df410c966fda203F-39m_FFJR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.931663,
+        "longitude": 118.832486
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 57,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "初级软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "72m0GatevHe.search.57",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "7BDQYyOP6Svvl-j1vdVMZTmQBUI4j8NBLym9j2lyobh4VNgBSY7Skm4aj7SH99XBPmOJ1Jcj6nwiAHduc8BK8znjCYjeRBVUaS4Uwcf9El4fCe3xtJUYe_T_RTB2-XMieunkqZ5w9wws-SE-Y5SHf6bliaGt_kWUUmK8pBWElX5zeJQz",
+    "showTopPosition": false,
+    "skills": [
+        "性能测试"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "加班补助",
+        "节日福利",
+        "五险一金"
+    ]
+}

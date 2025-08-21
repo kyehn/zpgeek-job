@@ -1,0 +1,58 @@
+{
+    "securityId": "11NHClR8eFbR4-E1ztZ2euH5xESz3Pkh6OAk9NWFHu15N5DGoutUbfG6yAlawLc9MuP8A-7wCZiLnkltci26e3fh8vVE362xQTZqcmMCtb99Cu1Oi6AD",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "671b2965fac875190nF52dy-E1ZX",
+    "bossName": "黄女士",
+    "bossTitle": "行政",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "868f8b9ca8df35c41HJ-3NS7E1JX",
+    "expectId": 0,
+    "jobName": "数据运营（项目）专员",
+    "lid": "PWVFkWmEte.search.276",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "项目运营"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "无锡",
+    "areaDistrict": "惠山区",
+    "businessDistrict": "堰桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 276,
+    "city": 101190200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.275285,
+        "latitude": 31.675954
+    },
+    "encryptBrandId": "2858b674a38fa5f31XF52Nu6Flo~",
+    "brandName": "江苏华溯",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "大数据",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100005,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "松江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "李瑞",
+    "bossOnline": false,
+    "bossTitle": "副总经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191014/29b01b14641534350ee3c2dc4821ade8742c6d1cdd1bd081bdcf2c158e74fe21.jpg",
+    "brandName": "上海应谱",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "新桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "15da7df012d292e90nVz2Ny5GVs~",
+    "encryptBrandId": "2687022fa08780331Hd-2Ny_Eg~~",
+    "encryptJobId": "3bd6e92ad10533641XF609m4FltX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.094177,
+        "longitude": 121.320573
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 85,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "技术支持工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "656y2hhDdJj.search.85",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K·14薪",
+    "securityId": "VpzZNGTNs3yUt-r1j277CPwjg4hev5-U_5zChorb1lbX3k_MEsBu2_dSy3Pf7sLPvYEE4aKh2LBCN8-MgTn0ekMplsycJDsXQij0lIvkGs8DX24dgyj0ELXFPBYWwAcO-I_i_l_LKCTV",
+    "showTopPosition": false,
+    "skills": [
+        "售前/售后技术支持"
+    ],
+    "welfareList": [
+        "交通补助",
+        "定期体检",
+        "员工旅游",
+        "节日福利"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "HXyDHc7ZYCmsW-41AvTrnUmWsg6v0FKfKpHOTzeCGFztZ_ru9-hVdGtxQmZXZQek_uONXVKjbFV48Uq5wJ1kXuRYw_IguD3XAviDPzeu3JxY22tkMU0~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240905/607f1f3d68754fd0b439eaaab2199a391baa3779e87092aab88f85f3baddfc5780f18c41e7ed6c8a_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "c77cdc1b7472890b03xy29q6F1U~",
+    "bossName": "林女士",
+    "bossTitle": "职能专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8026dbcb517aab5b1Xdy2dm-FVBW",
+    "expectId": 0,
+    "jobName": "Java中级开发工程师",
+    "lid": "5NaImlpto7C.search.41",
+    "salaryDesc": "7-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "昆明",
+    "areaDistrict": "五华区",
+    "businessDistrict": "黑林铺",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 41,
+    "city": 101290100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 102.647837,
+        "latitude": 25.078549
+    },
+    "encryptBrandId": "86e1c2e24924db271nd-3tW0GVU~",
+    "brandName": "信和科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210604/c3f958b4de646fc8e671e8cd0845eda60e7698fb7d48af00ec9e23296e963883.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "员工旅游",
+        "节日福利",
+        "带薪年假",
+        "定期体检"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

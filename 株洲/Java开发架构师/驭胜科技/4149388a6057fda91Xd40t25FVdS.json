@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "芦淞区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "傅女士",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200310/73219fca1526af93e829d21be9843baed02a8d2e360f9911278c475c3f3798f3_s.jpg",
+    "brandName": "驭胜科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "株洲火车站",
+    "city": 101250300,
+    "cityName": "株洲",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "41407c835fe812040nJy39u-EVc~",
+    "encryptBrandId": "a883ebf5c85e57f80Xx739u6FA~~",
+    "encryptJobId": "4149388a6057fda91Xd40t25FVdS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 27.834599,
+        "longitude": 113.153046
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 52,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Java开发架构师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5VCfnaW7Le2.search.52",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "RZOStUcgwS31i-N1wi111u3Vecn3uEYx6kuXZLdJ_0NPM7It8qoKEPoOCgLrMvjsRQ3PcRttrMPBbksnUNCjsllBZQtowJ74UHgVhGqkRQKaVQNAodjiEyx8Mtqmh65APY_9IEc_xXlS",
+    "showTopPosition": false,
+    "skills": [
+        "架构师"
+    ],
+    "welfareList": [
+        "节日福利",
+        "股票期权",
+        "五险一金",
+        "员工旅游"
+    ]
+}

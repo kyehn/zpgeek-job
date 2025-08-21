@@ -1,0 +1,63 @@
+{
+    "securityId": "XC6y2caBxokSL-U1o-IWbh2O4Ul6zEqjstBPm30RYhCWPaTdn5G61kg1o2rvd_NY0xRsowcbnKKqFRDBfyNmm2SQVVjDibh1mf6Zhm2QuYuIy4H6HyNo",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240731/607f1f3d68754fd042a509b6a85fa66a1a73772d56491d2a469ca848d111943dd5be7e0962083316_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "2c3d94931bbaccad0XN629u0ElRY",
+    "bossName": "李先生",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6218f03a53e6e4a41HN-0tu5FlBQ",
+    "expectId": 0,
+    "jobName": "基地运营",
+    "lid": "29VRcMy5CEs.search.263",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "不接受居家办公",
+        "新媒体运营",
+        "抖音运营",
+        "小红书运营"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "都江堰市",
+    "businessDistrict": "青城山",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 263,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 103.613175,
+        "latitude": 30.844323
+    },
+    "encryptBrandId": "6a37af16057c089c1HJ53d6_E1Y~",
+    "brandName": "成都攀达利亚体育发展",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240806/7bf6f160950405e974c7da445658fb61b4313d702ab34a68469ca848d111943dd5be7e0962083316.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "体育",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "底薪加提成",
+        "绩效奖金",
+        "五险一金"
+    ],
+    "industry": 100105,
+    "contact": false,
+    "showTopPosition": false
+}

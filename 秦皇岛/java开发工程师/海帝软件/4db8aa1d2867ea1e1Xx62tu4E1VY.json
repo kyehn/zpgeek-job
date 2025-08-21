@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231231/607f1f3d68754fd064698a06e919ab5ee65f552ce06ac3f2e97ce7924b4773993a751e3a52780475_s.png.webp",
+    "bossCert": 3,
+    "bossName": "郭照明",
+    "bossOnline": true,
+    "bossTitle": "董事长/总经理",
+    "brandIndustry": "自动化设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190304/763eb926ddeb6426c4ee03510ff99c0be97ce7924b4773993a751e3a52780475.png",
+    "brandName": "海帝软件",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101091100,
+    "cityName": "秦皇岛",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2d4be81e5eb13aa603Rz39u-Flo~",
+    "encryptBrandId": "8ebf0fa470c3e0b21XV809q_Fw~~",
+    "encryptJobId": "4db8aa1d2867ea1e1Xx62tu4E1VY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.935898,
+        "longitude": 119.50377
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100914,
+    "isShield": 0,
+    "itemId": 17,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6RNcgOmoFO1.search.17",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "dPQGruU8_7VwK-y12gCHcPd6PQct3qrvPmXcSFrzn12RqP1ZLqM_8sluktfJdpbutfPFpLjWy4NnUqjK7ODpjgLk9q25P75wih8yO3cWksF3z_jfIBpMmDDAfVYJKcSycMn2fsU48Q2J0ZtjZpK1RV9nNHHgkfzy1G0GO5o7MVuus9To",
+    "showTopPosition": false,
+    "skills": [
+        "不接受居家办公"
+    ],
+    "welfareList": [
+        "五险一金",
+        "交通补助",
+        "通讯补贴"
+    ]
+}

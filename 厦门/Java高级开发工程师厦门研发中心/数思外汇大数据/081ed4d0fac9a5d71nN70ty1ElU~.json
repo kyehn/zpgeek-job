@@ -1,0 +1,63 @@
+{
+    "securityId": "XIKNKFum9tZQQ-21bpu7a8KIJVqrnlDV5NMuMqsqVVVDve00L5T7j3BO_jrPwEECJfjHmQWgK6OE67LcMm-IqvDRgujI7gp_mLtE1jfDpMDnkxuKy0oZl2dycVSTH-fUwywebrft-A~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170414/cefc9c5e61cf9e5db244fc3ea87eeccbfef32e2b433cc49d51ee380a796e0e52_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "496cba85cca1d3fb1XJ929S6E1M~",
+    "bossName": "苏群",
+    "bossTitle": "高级经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "081ed4d0fac9a5d71nN70ty1ElU~",
+    "expectId": 1014042683,
+    "jobName": "Java高级开发工程师（厦门研发中心）",
+    "lid": "2AKTf5Zl6lB.search.101",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Linux",
+        "Android",
+        "Java"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "厦门",
+    "areaDistrict": "翔安区",
+    "businessDistrict": "新店",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 101,
+    "city": 101230200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.240358,
+        "latitude": 24.571908
+    },
+    "encryptBrandId": "e79c8e4aa560eaa20XR-3du4",
+    "brandName": "数思外汇大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170421/ab92e4e315be0d154c0a095dab6670d69134f1a23833aed5c65d5418d0acfc9b.jpg",
+    "brandStageName": "天使轮",
+    "brandIndustry": "大数据",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "股票期权"
+    ],
+    "industry": 100005,
+    "contact": false,
+    "showTopPosition": false
+}

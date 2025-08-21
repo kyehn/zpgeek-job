@@ -1,0 +1,63 @@
+{
+    "securityId": "ZWcIs4wk3mkwk-F1kdoTqpgdQCUs4wEwbn9Kgdrn634OMF8jkpHaJfxqelwkotKjuzRSR_YpC0g9SRulCbHbrUm1nX4aR-PIQOJvyOEyEaW_-Dd6yQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171216/c3d40d0148bae6907e206bc2fc81514330d33125c0fb7202fcc7114b1ec4da1e_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "e25a96c3e1c5aa5b1Hd43921GVY~",
+    "bossName": "王女士",
+    "bossTitle": "总经办主任",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "76a92d1fbd9b59b01nN52t67EVtQ",
+    "expectId": 0,
+    "jobName": "软件技术实施工程师",
+    "lid": "1iG5RU7Itqk.search.3",
+    "salaryDesc": "7-9K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "Linux",
+        "服务器配置",
+        "MySQL",
+        "SQL"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "西城区",
+    "businessDistrict": "马甸",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 3,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.3825,
+        "latitude": 39.97164
+    },
+    "encryptBrandId": "dab9b97da635c4621nd43dy-FA~~",
+    "brandName": "强讯科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171218/fd3f6be8d2fc98c363e8fe6f2aef5a7fcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "餐补"
+    ],
+    "industry": 100024,
+    "contact": false,
+    "showTopPosition": false
+}
