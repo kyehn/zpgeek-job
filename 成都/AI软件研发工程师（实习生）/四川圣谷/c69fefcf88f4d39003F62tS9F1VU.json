@@ -14,7 +14,7 @@
     "brandName": "四川圣谷",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
-    "businessDistrict": "红牌楼",
+    "businessDistrict": "紫荆",
     "city": 101270100,
     "cityName": "成都",
     "contact": false,
@@ -22,17 +22,17 @@
     "encryptBossId": "707a1da85c06f52e0HR-29W0EFFS",
     "encryptBrandId": "f004f49e6ba9867c0nx-2Nq-FA~~",
     "encryptJobId": "c69fefcf88f4d39003F62tS9F1VU",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.63841,
-        "longitude": 104.040492
+        "latitude": 30.58837209171204,
+        "longitude": 104.06738198136608
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 18,
+    "itemId": 72,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1czCqUxOlnK.search.18",
+    "lid": "859LUjxmkAs.search.72",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "3-8K",
-    "securityId": "QzwSSCMpRJwkC-_1su8U-EyoCX1wem7NuaAAuAR4c-gVIiNrl1JwgCqI1zYXZL64a9EAVVOqy5vlY4ZUyFJDAenXTiH-Ta-iP1BuR-yocDo1ZYAbYR__gkDooKVWcRc7Oh7HjY2r69mKhg~~",
+    "salaryDesc": "2-7K",
+    "securityId": "KPLPVkieVXxyB-O1pPkcs--_1IbMTijnSo0RX5bLxx26NkKK8k9WBrFZOKxKf74igxdmio0c8wZkmb7WsIS6mBjOa_NA6H5hjgsDJgwEZ8TlgsOPRcHsKqX9sPOeCy_X--T9Sy970PBbEw~~",
     "showTopPosition": false,
     "skills": [
         "Python",
         "PyTorch",
-        "MySQL"
+        "MySQL",
+        "Linux开发/部署经验"
     ],
     "welfareList": [
         "全勤奖",

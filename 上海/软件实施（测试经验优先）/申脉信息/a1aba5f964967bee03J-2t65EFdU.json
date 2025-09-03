@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 33,
+    "itemId": 13,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fDj0ERUi7O.search.33",
+    "lid": "85By20SBxYW.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K·13薪",
-    "securityId": "dq_TOwoqWY-wi-Z1Lfb1MG_4KBqMwjp9yQQuaL9O0BuJHyptaMCtUYBKr-EHP9mJxeudp7ku-vc8u0CD8YQLCoBuPyHraUzy6f7kkEOS-edcxapnCRMQPKuCxqcabm16DNfrHEEHgPilayA~",
+    "securityId": "NVW1cu-fveOSa-K1aamuX9VFykcka3Sw3kmacggP14mQPGC7B5gVySDSzOolg7Yx9Pi5ueNZdmABGl5GOOtxLDu0vkmthVACnoGEpk_FmODMYjIGK4YKWLZ49mkSg2sjXfUvYMljWCOv1R4~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
-        "可适应出差",
-        "熟练掌握SQL语句"
+        "熟练掌握SQL语句",
+        "可适应出差"
     ],
     "welfareList": [
         "底薪加提成",

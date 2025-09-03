@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100601,
     "isShield": 0,
-    "itemId": 14,
+    "itemId": 12,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cNnNcR1MCH.search.14",
+    "lid": "85yAXJ1DrzX.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K·13薪",
-    "securityId": "hLXSbINVdiPIn-z1vbUGy_OD732wbzqGnfm6YHXID3cvL9NwsA7qroHz6mM3MKie9YV39RwNAnhd2SlevEaRNQVU9EeAmCz_UKgVOHVaLE6BpM9ojJYwr8rpigpf7QJf8T8i2JjwMHyTcLA~",
+    "securityId": "3PGfBk7PpwPfa-N1WLLS9LaxQg2Pxx9baDep0Ewe7-tKSgzCM0Yf28TzEA5Ak2P6i0h_arR3NeaxF7hI_3N-ve6SwtAU8ywtsr24CIgk2ITXvh_U4TgcviW3SIqRdg9Xg_2cEeUmLo6c8Nc~",
     "showTopPosition": false,
     "skills": [
         "自动化测试",
@@ -60,5 +60,22 @@
         "计算机相关专业",
         "Python"
     ],
-    "welfareList": []
+    "welfareList": [
+        "交通补助",
+        "住房补贴",
+        "员工旅游",
+        "宿舍有空调",
+        "高温补贴",
+        "全勤奖",
+        "餐补",
+        "五险一金",
+        "带薪年假",
+        "保底工资",
+        "节假日加班费",
+        "加班补助",
+        "团建聚餐",
+        "绩效奖金",
+        "年终奖",
+        "通讯补贴"
+    ]
 }

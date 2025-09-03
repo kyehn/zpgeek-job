@@ -22,7 +22,7 @@
     "encryptBossId": "f80d48ec416f48ec0XZz2ti8GFtZ",
     "encryptBrandId": "7086632e949dc8e80HB-0tS9EA~~",
     "encryptJobId": "fb1b0774bdada2d41HZ92t26FVBU",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.53912,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 33,
+    "itemId": 68,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t4OkJI12b7.search.33",
+    "lid": "85aXyBCK7SU.search.68",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "26uGGhs8c9_To-p1XueQfF9Lea4At4nUfRgVnjrT1wpoTvUEsNU08D75-IRDGJx8DqhYMrEd-o1GjiMFRF0sYOCcPMxFpxT64DTRZW8U4OFCGPel3cTyb26t_tz64ee_6yqF4gj-oj0t_Q~~",
+    "securityId": "IcmQ7CPpqB8BL-r1zz5ONaCXYL1xwn2Z8H70BITm4HoKotdQafOtc8q46OULTNnBFxj3yh98ajycBFTJHACxDRv_zWXjLQCQNz3MtRXN3hRMr2t0SwIzj-8sBYm_mEvIbOKl9TlLKD83Rg~~",
     "showTopPosition": false,
     "skills": [
         "运维开发/DevOps",
@@ -59,17 +59,16 @@
         "运维经验"
     ],
     "welfareList": [
-        "加班补助",
-        "夜班补助",
-        "项目奖",
+        "法定节假日三薪",
+        "定期体检",
         "员工旅游",
+        "夜班补助",
         "带薪年假",
         "生日福利",
-        "股票期权",
-        "定期体检",
         "节日福利",
+        "加班补助",
         "年终奖",
-        "法定节假日三薪",
+        "股票期权",
         "五险一金"
     ]
 }

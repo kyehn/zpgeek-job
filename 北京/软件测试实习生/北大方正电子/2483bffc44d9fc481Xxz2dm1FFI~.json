@@ -22,7 +22,7 @@
     "encryptBossId": "4a24d4c3df44a6cc03x50t64ElM~",
     "encryptBrandId": "12a27bdc590195ba1XF_3dy9",
     "encryptJobId": "2483bffc44d9fc481Xxz2dm1FFI~",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 40.04086,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 16,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1dGQkLkq5lP.search.10",
+    "lid": "85z2Tj4jSOH.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "9JNn-E_7GfiS6-P1jgm49m0I8ANXfoKTf-q1cN3qguBxvsmrvVquJT-YLVl1QMoPWLgh2vM8Drswu2CUy9RYMvIPO_bZUusqUXTZvgoyZBirlHR-4dzKxxJQbC5AVVdLCF6JnIwHhQ~~",
+    "securityId": "Kt0jkllgttRSq-11sM4xTTPA7HOG28HH2CbK0Ux1L8BWAOaemHLBnBbFlp3ts0o3kMRFVPoKe3bSI6dobtaXNCpHCi8j4kXFE_PVVehV5_XRic7vna_nOYVLe0yFRjv853X4LhY5ig~~",
     "showTopPosition": false,
     "skills": [
         "通信相关专业",
@@ -58,16 +58,11 @@
         "计算机相关专业"
     ],
     "welfareList": [
-        "零食下午茶",
-        "节日福利",
+        "五险一金",
+        "补充医疗保险",
         "定期体检",
         "带薪年假",
-        "餐补",
-        "补充医疗保险",
-        "通讯补贴",
-        "交通补助",
-        "五险一金",
-        "年终奖",
+        "有无线网",
         "带薪病假"
     ]
 }

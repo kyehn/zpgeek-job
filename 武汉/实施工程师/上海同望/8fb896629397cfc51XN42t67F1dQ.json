@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "智能硬件",
-    "brandLogo": "https://c-res.zhipin.com/jrs/f7e42849240eaa379e68135c2edc3915.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250714/7b5b554d84f9729c02f1dba5981c1b2b6fe4a1c5de729b576bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
     "brandName": "上海同望",
     "brandScaleName": "100-499人",
     "brandStageName": "未融资",
@@ -22,7 +22,7 @@
     "encryptBossId": "bb6dfedb486dca4f0nd73dm0ElNX",
     "encryptBrandId": "6cd5744f6443286a0nFz2d21Fw~~",
     "encryptJobId": "8fb896629397cfc51XN42t67F1dQ",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.455601,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,17 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d4OtBU04tT.search.72",
+    "lid": "85klEWWBwZG.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K·13薪",
-    "securityId": "88DySYDJf1l78-u1rawAbJSflXqEBgdPrqgtmu550UUPb2dYIvWpzZnQe59dGAFNQfYVHltrUC9dgpyZedzXhcgvrGLJ2XRBW5QyuYdKl4_06RBTPgp_AI5pPhyMudNa2pQbNHPHx1rhsA~~",
+    "securityId": "-R_C2OfwI2-4B-J1TsMamL4SCfbdgIYwDzQYC9nZVy3oKyegapHX6gNEdzJsirOVy_WciEOaOtZXEfZPGaMUywL9ympXTAVwjLNLlZXmUd69TwEKxd7-AbMVOA1UfMXgyOqpeK3pMPoTHw~~",
     "showTopPosition": false,
     "skills": [
-        "计算机相关专业",
-        "可适应出差"
+        "可适应出差",
+        "退伍军人",
+        "有C1驾驶证",
+        "会开车"
     ],
     "welfareList": [
         "五险一金",

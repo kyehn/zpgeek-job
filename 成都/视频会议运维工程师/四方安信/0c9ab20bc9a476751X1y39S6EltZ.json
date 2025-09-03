@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "计算机软件",
-    "brandLogo": "https://c-res.zhipin.com/jrs/8_66b3970d763ed42b1b921481fd2e0983.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250714/7b5b554d84f9729c7633525538f022c28e21103a7c0faaf16bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
     "brandName": "四方安信",
     "brandScaleName": "100-499人",
     "brandStageName": "未融资",
@@ -22,7 +22,7 @@
     "encryptBossId": "94b9456501496b380nxz09y8FlVW",
     "encryptBrandId": "101bbff76610460a0XF60929FQ~~",
     "encryptJobId": "0c9ab20bc9a476751X1y39S6EltZ",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.632007,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 43,
+    "itemId": 51,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t5mOM03LNr.search.43",
+    "lid": "859LUjxmkAs.search.51",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K·14薪",
-    "securityId": "-4PpifFiZNReZ-d1NumxvrCweN_NGWiTVmEukzjjXAKX-tL2wADZa_m_PMWaUduVPXo7bMVIH2oQdEktw_5jHgy8nYWonVZmIalvrOddhqiHXg1xWTjkj-W0v7PUsm55kpXbu9CcpKaoYg~~",
+    "securityId": "zhA5OLArVQhk6-Z160E40aTIyOfR2U-F0Jhu1VABpE-lD92WT9VdepU5V9OBkTdHeUp9W1NMZwLMtxWuUaFvWNgQuzLFWFpWKyjZIkQmYJSqPMdx-5euY14uVg2PyHzRpWGLYG9cjaARIg~~",
     "showTopPosition": false,
     "skills": [
         "华为视频会议运维音频"

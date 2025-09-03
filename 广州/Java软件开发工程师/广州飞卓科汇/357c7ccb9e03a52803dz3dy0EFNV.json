@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "张静茹",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘主管",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250715/7b5b554d84f9729c391cf59b8292845d89f1421248efadd16bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "78687075b3728a290nF909m_FFdV",
     "encryptBrandId": "cf7d29d2169659451XZy29-7GVU~",
     "encryptJobId": "357c7ccb9e03a52803dz3dy0EFNV",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.121191,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 85,
+    "itemId": 89,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cV3g8xeL3r.search.85",
+    "lid": "85t8D16sApt.search.89",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-12K",
-    "securityId": "akKxPXC5u4aYf-Y1iLUGx1NJlIZicEMicP6BlDz9cFoCH-vXbEG49zWXuikUiCHxYQOj-6QKAOn0iEyb0gUXwFxsfbUHWmwEog_Nsl_whsiKq85PuSILtz663pvmghF5WUky1BDrbthHoxU~",
+    "securityId": "QAswJo8GEWz7T-A1QZ8wLloqoZz0wGFdYgiz2GIbQ262-JPQhHtqLf027-qGjXGwQAHIJJlrCjx-06oVD1fJcMFtFtdIe6AlduDFocuFOg3LKXgU-d1uq7CEobwrBXbBcucKXeHWyHiJX4Y2LzJbwBWfsctSUXEwfwWnqpGnzFeOkHR6xTc~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -59,5 +59,10 @@
         "MySQL",
         "MyBatis"
     ],
-    "welfareList": []
+    "welfareList": [
+        "绩效奖金",
+        "五险一金",
+        "定期体检",
+        "带薪年假"
+    ]
 }

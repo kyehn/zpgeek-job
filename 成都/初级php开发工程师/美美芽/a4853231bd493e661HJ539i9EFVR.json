@@ -22,7 +22,7 @@
     "encryptBossId": "ef2955f7531141940XB90tu0GVFY",
     "encryptBrandId": "1114b667d135cbeb1HB80t-7GVc~",
     "encryptJobId": "a4853231bd493e661HJ539i9EFVR",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.585054,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 50,
+    "itemId": 54,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t3IziUSQkB.search.50",
+    "lid": "85dszHalSIx.search.54",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-7K",
-    "securityId": "OgGa9av2ebY8u-o10yLFvGXAX9WtZ2Bsf48ltCizZZ_5yDlTjZ7AV2P_2AM6qG80RTQIkx1Ab-VkRoDz64mEvxlX5oGcOuoHTAeUEAXiYHT_qppxhz7zWfQG902B2JZdoLV2iM-Ruo0B2so~",
+    "securityId": "Ht7XfDhyPN7Cu-g1ca1ONVO008X6yTrBb-1O4BsnY8ANFcqlzElbGmxeArFyULXBglU6WuB0JnXCVe92fdWOMLYIC60vj_VpJeKwHHScO0oqDM_Dd4N7Q9XTnVJebptJhUJ9aIX59MWj6SE~",
     "showTopPosition": false,
     "skills": [
         "PHP"

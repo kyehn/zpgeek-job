@@ -22,7 +22,7 @@
     "encryptBossId": "38a66158625de96303F72ty1FFI~",
     "encryptBrandId": "8897c0bf196c15351HFy2Ni5ElE~",
     "encryptJobId": "f47330eca17c260a03F73N-5EVNS",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.566703,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100017,
     "isShield": 0,
-    "itemId": 32,
+    "itemId": 31,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,18 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1czCqUxOlnK.search.32",
+    "lid": "85dYdePdsS4.search.31",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "7KzfNP2W1uIW--41t5gTHKw4me6Qiw5D8XL8DXWbTvd_Ela1t41NtXU3DncegO22LzXIoMHaussYwCy1bCMUMop8rsSbwQSxL5M3bCHMefgd4iJb91_587OVcc5BIhdkbiXu9OEuKPc4qQ~~",
+    "securityId": "xSndm48i2e5ms-t1lafOvyYJhue48iZ6nOPoSZIXLICeOCjc9s2ry9ohOA4xBD5QmyZ4lwwz8FASyACjdfD_nUi0ltes_yaE0UQRZ7QVK8jGurVR_xcKh8cefxf5dhyBX0rdvgIW1r_lzg~~",
     "showTopPosition": false,
     "skills": [
         "PostgreSQL",
         "MySQL",
-        "Python"
+        "Python",
+        "可兼职"
     ],
     "welfareList": [
         "节日福利",

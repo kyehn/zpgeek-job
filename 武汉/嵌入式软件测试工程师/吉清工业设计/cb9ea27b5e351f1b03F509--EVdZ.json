@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241022/607f1f3d68754fd079a9a2b1d085e832d0dbf0650a6d58a4f960d016fa6153a7968074f891edf83f_s.png.webp",
     "bossCert": 3,
     "bossName": "张廷伟",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "项目经理",
     "brandIndustry": "汽车研发/制造",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "43882ef1e015ebfc0XF529W_F1VU",
     "encryptBrandId": "3d096a78b8b9e9f41X150tW4ElA~",
     "encryptJobId": "cb9ea27b5e351f1b03F509--EVdZ",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.573742,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100801,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 86,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d1mzKbU7Fn.search.35",
+    "lid": "85jozWlh27o.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-13K",
-    "securityId": "Zkb9mciSlbdam-K1WBtHVMUWoEW-RRXzwZj_7fLHByJivPL41NHD7rolTfdn1CEw5nDkFlfCIK44HzzLkoKBvzlgEvgLsE-hXHoZGELDsXEERa0nFiEHe7WYJ1nzpuvckF3i3wBvYZbWv9NNnQZbIWDWvBfFcmAKxj10QWhBPKCbIRR6QPs~",
+    "securityId": "Ya86T68N7ULPX-L1_3kEmPEYJBqPJAImA_E29qXwYFlig3l1LwK2HMOrI6lYQWOUk0rieazpqiDNOQD9xBBYZBR087VpxMkdHeCvkGVv4JZ6_iiZPO7hh1E5teTexYktOnyEruzuBhGkpi0~",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [
-        "加班补助",
-        "保底工资"
+        "餐补",
+        "五险一金"
     ]
 }

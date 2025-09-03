@@ -22,7 +22,7 @@
     "encryptBossId": "133a96b2884c0c1b0nB-0tS4EVdU",
     "encryptBrandId": "74eb8535283a46d61nV63N27GFI~",
     "encryptJobId": "7012c430cfd6d81c1HF52Nm8FVtR",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.125087,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 49,
+    "itemId": 26,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,26 +43,26 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cQRTpmIJIN.search.49",
+    "lid": "85v6Hf8YVR5.search.26",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "3-5K",
-    "securityId": "4fowLOAYTjGqI-e1GMmmrfsAiloDfTwNx9f-7BVWct_yuBTyEujz0Fc6N_vJQiJ4f9fpFbbe23Yj-7tzqL-MnC-mcfzEV2dbqVVIN-yM-timyVG-4u7ZvrAEkwduzYuHPRCRtLatMErAVNQ~",
+    "salaryDesc": "5-7K",
+    "securityId": "NpHUoq6wiYr1L-W1LNqBQ1IhBIBIPad9TOdu3euOPXM8Ce91WE55HUZPXy_ke091-Y8TdRSJ8s0Fzdjojz6070Ol_Z_IK6TyKsmhbPr7lOOt_3FEMR9CD4tC2d3YQoNmhF2MlJAsIPETR4Q~",
     "showTopPosition": false,
     "skills": [
-        "可适应出差",
+        "五险一金",
         "康复科",
-        "应届生",
-        "实习生",
-        "五险一金"
+        "可适应出差"
     ],
     "welfareList": [
-        "年终奖",
-        "员工旅游",
         "住房补贴",
         "股票期权",
-        "五险一金"
+        "五险一金",
+        "节日福利",
+        "员工旅游",
+        "年终奖",
+        "生日福利"
     ]
 }

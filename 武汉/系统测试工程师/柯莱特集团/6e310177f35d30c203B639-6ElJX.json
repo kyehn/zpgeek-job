@@ -4,7 +4,7 @@
     "areaDistrict": "江夏区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240821/607f1f3d68754fd02b801de88cd79a83165a6636fd4618e1aa1bf2ff58d440d081f824d4662188bb_s.png.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250814/607f1f3d68754fd023efd7890f18b0d947c91fde8dde8602aa1bf2ff58d440d081f824d4662188bb_s.png.webp",
     "bossCert": 3,
     "bossName": "唐涛",
     "bossOnline": false,
@@ -22,7 +22,7 @@
     "encryptBossId": "c18af8b6f74a3d610XV92dm7F1NU",
     "encryptBrandId": "879cece58f6a7e7d1XR929W0",
     "encryptJobId": "6e310177f35d30c203B639-6ElJX",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.452116,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 23,
+    "itemId": 22,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8sWvzfXmrSB.search.23",
+    "lid": "85iUkLsOwla.search.22",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "J1lgfYFlJjQ4P-71eDoPKJnpN0jcNXIjO6fgprKKkgw8S7WchlwXcMZ0gF37j8-kpAFKtx6zYscyxa_i5rF8r7Fe9bWs4DUEZJnJ2roWBkaLnlTWE_uLyE6BtEVW0Ek1ZW7MdTCMfOOp",
+    "securityId": "gOEhmMxZR8DlO-X1rp7SLXJvPEiCaGwUd7ifJSGYXRC4EC6B9OKbVUfg6ZNSeufn8qFf5aYTLy0galmzKpcj4kNp5yW-CyBe7Jlv72G4DdGYrVOKx1WoZEDyv9Zs-d_BnI5EbUizof2S",
     "showTopPosition": false,
     "skills": [
         "性能测试",
         "功能测试",
         "计算机相关专业"
     ],
-    "welfareList": [
-        "交通补助",
-        "节日福利",
-        "五险一金"
-    ]
+    "welfareList": []
 }

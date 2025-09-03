@@ -22,7 +22,7 @@
     "encryptBossId": "15e0f02595d858090nx42dm-F1dZ",
     "encryptBrandId": "04a5322012b7fc281XV42t27FVs~",
     "encryptJobId": "14ef68560b2788f803d72Nu1FlZT",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.502701,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 43,
+    "itemId": 16,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8m6oNqiOgwB.search.43",
+    "lid": "85oeAGmOgLb.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "uv2JWdh4BIhXn-v1lTjvMduhJT66IoqljSQ0w1TE1PNNam9QVqGIES-7hNOpTJt_x3sirM3F3Wvz8z8WJVFbDkU4_7dB3yW3Z2yokjkKpEoOKtPsG3V3J_HSClInHVdtzgRcg10nLOq9XTQ~",
+    "securityId": "JtVZ26wuv8eHx-k1PF0bFo1gXD9JkSFKd1pkwS7zyVVZUer11siGrHkdLVQSvLoCc_YoFqLpzua8SzPcQQnPOUvxs0barQoPeLi0klyI0fSyNuDjQqdimsy_xjmus3pZHilLdfcAAR5tSCY~",
     "showTopPosition": false,
     "skills": [
         "Jenkins",

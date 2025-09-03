@@ -10,10 +10,10 @@
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "互联网",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250820/7b5b554d84f9729c1d3aa1db11357a25bb201d9c97e176476f43dd08af2625b8a3381fa40a86f6d5.jpg.webp",
     "brandName": "划峡桓",
     "brandScaleName": "100-499人",
-    "brandStageName": "",
+    "brandStageName": "不需要融资",
     "businessDistrict": "",
     "city": 101200100,
     "cityName": "武汉",
@@ -22,7 +22,7 @@
     "encryptBossId": "aec8be19a2aa0b220XFz3d61FFNY",
     "encryptBrandId": "a0aa2d123971012203Z40t-7GFM~",
     "encryptJobId": "4fe7644d7b1abdfc03F53d-9FVVT",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.490748,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 47,
+    "itemId": 32,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,14 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cJpiT5Rbgx.search.47",
+    "lid": "85gVaG2zq3a.search.32",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "GjS6rNABskpNq-w1Uvv_ux_VxxPDeAC_lquR24lW-w2aCOzXoDY_KwSFE2yRn94ftfup5CQvbCCJEC5SovUwY8dnRDj6kVX1nK1rYU39jxZh9n7FW_2oQ-X0gUMc3cJjJJjwHRzZM0Qd7Lw~",
+    "securityId": "5KszlUBnWg2S3-v1OGCDKubrxEcsO7XrJfGBFtOtEBR1iDJZveLKmpiIoWgybMKNaZtPZuPpitcAMU-5ULd0mo2LVUQuUeqxWLUDYnSQ_nYz9IrE42JS3KKd1I6hLyOe_s8sL6x5MQYZn1Q~",
     "showTopPosition": false,
     "skills": [],
-    "welfareList": []
+    "welfareList": [
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+    ]
 }

@@ -4,7 +4,7 @@
     "areaDistrict": "武昌区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250619/607f1f3d68754fd06a18eaa3aac28fed6ebe4731e4d171d23d03a19d3e72f448df0a50f1b3477a1e_s.jpg.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250723/607f1f3d68754fd0ebbba372952555b2a232dc67c81da36f3d03a19d3e72f448df0a50f1b3477a1e_s.jpg.webp",
     "bossCert": 3,
     "bossName": "余女士",
     "bossOnline": false,
@@ -22,7 +22,7 @@
     "encryptBossId": "47a91cc14b07f98403J509y-FlA~",
     "encryptBrandId": "690f03422efeb3b31HV83di1FVs~",
     "encryptJobId": "6d2c16977b3abcba03Zz2ty8FFFZ",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.582547,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 71,
+    "itemId": 50,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,14 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d0mL38IV2Z.search.71",
+    "lid": "85lmpiIEAMR.search.50",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-6K",
-    "securityId": "Qmh5OffjN3JW1-91qBslrmZn-gWXWLMOIKgGJPP9vB8WBoiFnCD0UyA3--38hHtYady3lPCW8rN2Lb9PoLRcNJuD7nm-bniRtbimRb1RdQrOKSWMXwNAJ1xdY1a3diFYwDxPBE_RKDw8Bw~~",
+    "salaryDesc": "5-8K",
+    "securityId": "se8oQj1qB7wS2-O189h39KwIhX9pU0OavXULOiwvlTAKxkN4mgejIpGG-kle4h2yu4wWtzRpzh17vFPmMOUfIhFr3U4fr-8P3X2aers6Z6tWgTSSryzYfkLi2crPccRgmACIYzYYhhoVUg~~",
     "showTopPosition": false,
     "skills": [],
-    "welfareList": []
+    "welfareList": [
+        "底薪加提成",
+        "年终奖",
+        "保底工资",
+        "绩效奖金",
+        "团建聚餐",
+        "五险一金"
+    ]
 }

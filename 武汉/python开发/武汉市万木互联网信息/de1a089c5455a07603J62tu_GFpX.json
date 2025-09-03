@@ -13,7 +13,7 @@
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "武汉市万木互联网信息",
     "brandScaleName": "20-99人",
-    "brandStageName": "",
+    "brandStageName": "未融资",
     "businessDistrict": "关山",
     "city": 101200100,
     "cityName": "武汉",
@@ -22,7 +22,7 @@
     "encryptBossId": "b5d4f9995f0acfd40XB-29-_E1VX",
     "encryptBrandId": "de0fb9736097c83e03V409i8FVI~",
     "encryptJobId": "de1a089c5455a07603J62tu_GFpX",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.479087,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 54,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cKENb3ceA9.search.8",
+    "lid": "85irlkKIQyM.search.54",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "YTYHVSCgBTGMm-J1fIbf-XIjr07kifgTMVsfVSaJlHuLVYADoRgrwjqN4z5g_33DCvQa8pX128jOw12QqohJppapdPf-PbvTJKcoCz02QvZHy-55YOssk1OwOIqSHzjt4ipyGTf2kgGaEGE~",
+    "securityId": "W9OnKxu2kpImX--12C7Cae4BZEz6qgSk8srX09d2Z_yExpt4z75OgEJfK1eUMg-w_mHLpdRAjgbjK-f0a00WNYZIs7CAMPFcjrPb7lTeiEgfKrJVO3NiHRQv-398p42mViPaDDZ7syabEls~",
     "showTopPosition": false,
     "skills": [
         "Python",
@@ -60,5 +60,15 @@
         "Linux开发/部署经验",
         "爬虫经验"
     ],
-    "welfareList": []
+    "welfareList": [
+        "定期体检",
+        "团建聚餐",
+        "节日福利",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "年终奖",
+        "零食下午茶",
+        "五险一金"
+    ]
 }

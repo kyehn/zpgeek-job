@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231211/607f1f3d68754fd0b61716ca998e9f4b39f51b8c75d430b043e713ff26cdd25bc82c8e60d997858e_s.jpg.webp",
     "bossCert": 3,
     "bossName": "张女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事专员",
     "brandIndustry": "自动化设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200326/4e9989409d63044b1f17cafda3b93bcb3b7e0722a6a1894c1697239095ca79da_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "f3595bbe767f2c101Hx639W0F1Q~",
     "encryptBrandId": "cc50c4065af099620XJ43tm_Fg~~",
     "encryptJobId": "39189538c30009fd1HB52tS8ElNQ",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.702691,
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cYAWEU8aRI.search.31",
+    "lid": "85oJfpPqAFD.search.31",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "r9S2cJgNKEfxP-51mAqTRd-ggQtyseK6oCf-ZNTPTQCWOGAlP0XJaN6Zvws_0szmLx5rZygzV3yDPuxOenwSSVzWeeUhSgAXsp3xKtqkj_U5xNkxFA5n8pcMZQLjEUuL7d05tPPjaf59miy4EP_BRXL0-8b9M6_ra5RyFdgXH9SfXgwv",
+    "securityId": "QMlMF9sS9ZEz2-U1ALlSgjptmuhrFRCxuClAqwn-sruf-04tShq5JI-wSkzLgsiaW-adD2X-iYm3d4w53iApc_j6zfU6BXOWw3VKhLlV31MH_046aJT6VQkMCKD0uFCbmJCgmlzwjQBB",
     "showTopPosition": false,
     "skills": [
         "可适应出差"

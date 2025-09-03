@@ -22,7 +22,7 @@
     "encryptBossId": "3562e553897764541X183Nu_EVs~",
     "encryptBrandId": "241bd3d84e5e450e0nZ809i0EA~~",
     "encryptJobId": "ab8517b7f12bc1741HZ439q8GVRR",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.989793,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100025,
     "isShield": 0,
-    "itemId": 67,
+    "itemId": 59,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "dy4NrVJgWF.search.67",
+    "lid": "85wbY5EFkMw.search.59",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "sW6wLzGpz9Em6-H1XLG1_z7KxQXfHG-Y0vNj96OLtcFB1-ZovL075xWJ7JkED3UjlTVEENYK1HJtNKCsNDu978afz9gqZee1qilcw08wPLHjzO-7pxhq-CbowNvnYvP6WwgNKDBW180g",
+    "securityId": "XVo5oTJ9pAVjy-G1dZSs2ClTUzuN9kB-ZmJZlFrspPJ8teoUDUwpu5HVAYhbho-D46eWmOgNVOroovZiOVcZAt41Pjnu1G6P9iJUXutVw8rcvkgrovEPjov6QiI-dR6kHDhwgQBNWl6P",
     "showTopPosition": false,
     "skills": [
         "电气自动化",
         "数据中心基础设施",
-        "电子/电气/自动化相关专业",
         "IDC机房运维"
     ],
     "welfareList": [

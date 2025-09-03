@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "刘敏",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "da2dec6f6588e78e1Xx93dS_FFM~",
     "encryptBrandId": "f88bba00331f8df41nB82t60EFQ~",
     "encryptJobId": "f8e31d9045f725721nR83d-7FFFR",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.036069,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 32,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TrsF09KUP8.search.32",
+    "lid": "85v6Hf8YVR5.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "7D8RewmHcR_56-l1oGZpSm9hx9yPcUqHovgmMM0bYQUp2U37Pco4QoYXUf5x7z-TM4H2S-IO6DuUbt49cH0h4BN77j8nBcQa1-grJoy_GqwtKvM66lzrL5ryWyG_ZX2vAL8-3STYSomO2MwPaEJhdGEYn0OMszjKBCOLFxoJA92TKT4DxQ~~",
+    "securityId": "_MheHFHehU_dk-s1SLOs5gnxvAt6clxDWDmd4Np82Pg9ipmPsV_mqSwvOKmuA0D3AxSMf3cRCRlPrw3DmjADcGlnRbexJnxW9XKORe9lNQdDbXZIiXWaKlhhIfUXHsm1bZnSN3H5En0Qhw~~",
     "showTopPosition": false,
     "skills": [
         "实施工程师/顾问"

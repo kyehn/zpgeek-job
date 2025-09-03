@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "彭飞",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "行政主管",
     "brandIndustry": "计算机/通信/其他电子设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "acb07a2d05d773590XR-09i7GFJX",
     "encryptBrandId": "afbbd58180f0e05e03Vz3ty5FFU~",
     "encryptJobId": "bb4db2510db6457b03J6392_GFpX",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.147889,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100915,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 16,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1d30fxSH3JT.search.7",
+    "lid": "85qDZQbD5tS.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "ImPGVgoIgz4oO-q16hzq4k95Eit8Q613kymMT29I9kEOSp7C1cqwktlf1x_FQ6I8YkrZbqb4yR1rYwUHdoGzD57NCtY5oZA4N-tWAvC-LhFr9xZdCwPvaGP43RN24q3ZLlu7RVCAkT9jAITLEIuUIegNReTwNhoBT0oqiBgQKtgAJPT8ohg~",
+    "securityId": "7I1UNZCeFkfix-p1HGJL3rcO-ZJe4_liEgWCfATI8WQ4eRhKwwbZLy2koFQqucu8A-Bm_CUVHFswtFoHRqQDPQMURIwf8FQGg-qfJ_WWl1CvCahzmMS2Fh71imL6HNSDUHffrOpB_Bvu0ok~",
     "showTopPosition": false,
     "skills": [
         "电子/电气/自动化相关专业"

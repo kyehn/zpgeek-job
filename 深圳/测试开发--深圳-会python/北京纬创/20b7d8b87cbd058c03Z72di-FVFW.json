@@ -7,12 +7,12 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240222/607f1f3d68754fd011262e2f405ef5864467b22d6d3364c33ae0a27807f176ffeee0f2c02a735adf_s.png.webp",
     "bossCert": 3,
     "bossName": "徐女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "计算机软件",
-    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180613/b7f898a719b8167123e2075f57a5c37ccfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250828/7bf6f160950405e94e7aacffe3b9870823dfd3a5ce0712c8e4755cc2f231346f53dbbf68192f4674.png.webp",
     "brandName": "北京纬创",
-    "brandScaleName": "1000-9999人",
+    "brandScaleName": "10000人以上",
     "brandStageName": "不需要融资",
     "businessDistrict": "科技园",
     "city": 101280600,
@@ -22,7 +22,7 @@
     "encryptBossId": "00a3231b6936738b0n1z0t29F1tQ",
     "encryptBrandId": "a3ff305faae8963a1XRy3tu6EA~~",
     "encryptJobId": "20b7d8b87cbd058c03Z72di-FVFW",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.545463,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 65,
+    "itemId": 6,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,25 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7QoY2i4OtFa.search.65",
+    "lid": "85qbWDtqR4k.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K",
-    "securityId": "90xKnYSBzDRmm-C1p6cmEjseM67n9QnDwaEXx27AroLmNz5KO56Kus29xlk6TFumKrO-GbMSNhqkUA-Sv4ZIt9sPi7C515AWwh8639vDJsWb4BnOKuij-MYwK7hbBzK6qjovyy_8I0UAhQG9rkB3at6iixRfV2FRuDGY4jCr8N2BmHmmGw~~",
+    "securityId": "3F0blFQJI45zW-S12s9h2O1KD4khhvL7enFBxZT3Gb6_l0QEhV1K98GhN1IkQGQYNhkyzHgKIT6w-0BmRI5i44YfWX9jlZw7jZvulI300osk9rsBXet5dj0KQUWfQ-wRWvcT87nalyc4cA~~",
     "showTopPosition": false,
     "skills": [
+        "TypeScript",
         "自动化测试",
-        "Python",
-        "TypeScript"
+        "Python"
     ],
     "welfareList": [
-        "五险一金",
-        "定期体检",
-        "带薪年假",
-        "员工旅游",
         "节日福利",
-        "零食下午茶"
+        "带薪年假",
+        "五险一金"
     ]
 }

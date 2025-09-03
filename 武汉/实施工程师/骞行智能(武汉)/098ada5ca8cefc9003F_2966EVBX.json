@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240304/607f1f3d68754fd0d0447b65216040d8d7ea11a4cee046a6f439daf8c666bfe4da94a40857744492_s.png.webp",
     "bossCert": 3,
     "bossName": "项女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250113/7bf6f160950405e92d1921d009d5afc22a01b46032be48f2f3922c3ddf552e15b327cec232cd40e5.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "5183bb3068809ce60Xdz0t2-EFFT",
     "encryptBrandId": "52cbf735c032514a1Hx609-_F1A~",
     "encryptJobId": "098ada5ca8cefc9003F_2966EVBX",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.578134,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 43,
+    "itemId": 77,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,23 +43,27 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8m9zEziRBgU.search.43",
+    "lid": "85lmpiIEAMR.search.77",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-7K",
-    "securityId": "xI08pXVvVOMkp-A1aIfDQTBNt3rl6CK0YKlyHLLNgXVMhebudhTRmRAYEUgRftcBVajJ__rNlaKerGIPnk2MIEelFFgnTlLveRhcjZncXzbbw7UMM4TLI3Xgy92S8PaFlhiVBsvkzNAgJLWWBkcOdU94B_aQ--1iKoW9_gHRo7t_SvAgjuw~",
+    "salaryDesc": "7-8K",
+    "securityId": "re5pGOqkJQbdM-p1-WYw0eJmPVed8R3d_deu01DyVFWohPLXtvM-OFMW24lAgzmhYRee_eRbLTiQ1r4lj-wI0xyYAnILn-iCqArgwFUP-TTqx6zPknTpWHnqv-JwF0sHkjYZVlAcopPCWPU~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "备份软件实施",
+        "制造业"
+    ],
     "welfareList": [
-        "绩效奖金",
+        "夜班补助",
         "法定节假日三薪",
-        "带薪年假",
+        "零食下午茶",
         "加班补助",
-        "节日福利",
         "团建聚餐",
-        "五险一金",
-        "企业年金"
+        "节日福利",
+        "绩效奖金",
+        "带薪年假",
+        "五险一金"
     ]
 }

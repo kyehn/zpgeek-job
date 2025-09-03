@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 54,
+    "itemId": 75,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7QdpczwsFXM.search.54",
+    "lid": "85yAXJ1DrzX.search.75",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-11K",
-    "securityId": "K2fgnqybbFYvG-w1hqbdkwUBhqLz1xJ_bIbiEw6R2XzSDnj1U17B4VV53eYTWu9xVlkMfeAUf20YcNeNae_LyfNhvYHNQPONSBpzNIZLIxS_CDRodOgIZ-zco19z8XiJs2G2lL6o2KP2PTusg4PvZ8sZzDVlFtDKaYs3sGklJq8k6rk7rg~~",
+    "securityId": "IpqOWdOBbiKhL-917GRAC1iuAOxcq3sRo5ZC9aLdEBYg0t4RxJTbjRhxu-lj5vJ9fHABz454xAPHY2EANdu2WousgtzVnbYZSUIIDowidbfzqA0Nxr4HwlyvR1f9a5lLwPisWaETsuEu1c3GrHz6mev9UlpHK4IhK4rjlEu3OM-G9u-w1w~~",
     "showTopPosition": false,
     "skills": [
         "APP",
-        "自动化测试",
         "功能测试",
+        "小说",
         "Python"
     ],
     "welfareList": [

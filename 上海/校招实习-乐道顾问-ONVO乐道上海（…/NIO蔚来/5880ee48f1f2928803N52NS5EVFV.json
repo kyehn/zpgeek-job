@@ -1,0 +1,74 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250522/607f1f3d68754fd0c909dee2785ed40ebe0f1127d8f77a45dad531ef32a1f5def563e4a6dd689d75_s.png.webp",
+    "bossCert": 3,
+    "bossName": "何女士",
+    "bossOnline": false,
+    "bossTitle": "校园招聘",
+    "brandIndustry": "汽车研发/制造",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/f074178f63c9b52aec4d08baaace477ccfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "NIO蔚来",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "eed4234f469b2dcf0XR_29-6GFNQ",
+    "encryptBrandId": "c61d023bc6632dd91XZy2dQ~",
+    "encryptJobId": "5880ee48f1f2928803N52NS5EVFV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.395145,
+        "longitude": 121.481938
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 100801,
+    "isShield": 0,
+    "itemId": 14,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "校招实习-乐道顾问-ONVO乐道上海（…",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "85C6TE2EkOi.search.14",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "YXpaltCwHKCjF-D1jqqEv1Qwux7m1DYr2p5XlII6R83WbKhsBo4_AkhTbd7ED-iM-QzOlmOOjr7MloJwJ3Ib-w60o92Ftkyl_IHOZ8UoJQLPAuFiZWM5Dg4awiAUil6gmbVl8QzwULY~",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "股票期权",
+        "五险一金",
+        "加班补助",
+        "定期体检",
+        "补充医疗保险",
+        "通讯补贴",
+        "餐补",
+        "定期体检",
+        "绩效奖金",
+        "年终奖"
+    ]
+}

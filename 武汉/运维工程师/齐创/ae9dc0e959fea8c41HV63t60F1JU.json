@@ -22,7 +22,7 @@
     "encryptBossId": "978e28593d4c1a0c0nR939i8F1JV",
     "encryptBrandId": "67e9be74bb94f8481Hd92Nm6Ew~~",
     "encryptJobId": "ae9dc0e959fea8c41HV63t60F1JU",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.527964,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 14,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3Q08juCZbcF.search.14",
+    "lid": "85fUKW7MdJn.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "FSoJ86SYOvKO3-a1l2Tni4KjCfAVn2cwtqy8p0yeSX2LjeldLo06bskXfxwzwbetaSHbiRPxp7ANJkP-s15iW7WjZNFXwDrj2NUunCdbYs-RzKsvmI0FfFouBS7Krinye1vE9LYtMKiN9A~~",
+    "securityId": "msj6kyF91WPYe-Q1OVfoTWUbwRKyRWwYhxhMjwzjAmQRCVzWImbEcvlwqf8I2DoLfH9hBSz3xxOjWbpgq63WfDXUT1gyZX-axHt08uJNXYMUzrR0hCnKBZm6wKXztYLNL94iLPeGcijKpg~~",
     "showTopPosition": false,
     "skills": [
         "网络运维",
@@ -57,19 +57,12 @@
         "系统运维"
     ],
     "welfareList": [
-        "交通补助",
-        "年终奖",
-        "定期体检",
-        "通讯补贴",
         "带薪年假",
-        "包吃",
+        "高温补贴",
         "节日福利",
-        "员工旅游",
-        "餐补",
-        "住房补贴",
-        "全勤奖",
+        "五险一金",
         "加班补助",
-        "股票期权",
-        "五险一金"
+        "全勤奖",
+        "生日福利"
     ]
 }

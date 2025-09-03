@@ -22,7 +22,7 @@
     "encryptBossId": "6ba471e160a62fa51nV_2tq6FlBZ",
     "encryptBrandId": "30ea32e3dfe15cb83nR909m_EA~~",
     "encryptJobId": "567339d9ee49ba521nN-2Ni5EFpX",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.473605,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 35,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MwGRlkH74q.search.11",
+    "lid": "85klEWWBwZG.search.35",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "4w4OelnLBRG4j-91YQmwh6BvrTpcbj1K1HJKl8nNHyI0iRlN1cqsfHeWUa0UR0JPrt6IVVitFRKXXHEw4-Av5IayuBYKu6gJFo4NUJObF9VtMVAhUK7xaLz8u2lJq80JaIuqR0gl4qtcuw~~",
+    "securityId": "fnFOsYKM1T4CV-l1gfPrXbsYeYcwxACotdD16Nu_acVf1mVBXJgZmLIZsfytRtYG1egC74oFr-Oub4U9lX00z6QYeRY-3GlGjzABPKYuMChIjY4tstJ6MEhyegMh7PahsyLbACk1BHnDxw~~",
     "showTopPosition": false,
     "skills": [
         "C#",

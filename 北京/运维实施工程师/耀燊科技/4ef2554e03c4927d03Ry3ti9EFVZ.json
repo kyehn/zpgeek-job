@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "朝阳区",
+    "areaDistrict": "通州区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
@@ -14,7 +14,7 @@
     "brandName": "耀燊科技",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
-    "businessDistrict": "安贞",
+    "businessDistrict": "宋庄",
     "city": 101010100,
     "cityName": "北京",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 39.973151,
-        "longitude": 116.403378
+        "latitude": 39.940654,
+        "longitude": 116.709794
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100025,
     "isShield": 0,
-    "itemId": 42,
+    "itemId": 44,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cPk6tN68Iw.search.42",
+    "lid": "85Aym6MA5EP.search.44",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-7K",
-    "securityId": "3gkt4BiGAZBJW-C1w59J5O050_UavKuOKYW0mZ5yMyZ4JgsaMnuHBuD2mXHhCTGjyNmHUznDRt7_5hyxINUKaXToJbKmYLFvfj33bJ0d_S9YOYawotflsKx1UA0wnX4Eszp-CdEtvC1O5A~~",
+    "securityId": "Y9twVShglLNPp-M1lh0EMeFiecT4vsOf4SanWB-HkIkw1-ZsbJoWwCd7kk36SWXaQ8fvMyWf0BeYg6cM-PW117hIrTaodEjUb5kbcX2uhdr0bz1k9arn0YrqZY7SL27cQvbm-PDIGg10ng~~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维",

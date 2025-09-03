@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250708/607f1f3d68754fd0b4bb562b2964eb5840732f5b757f3e4d3ce42c8eedc62aa18c2d6d65f7a0d16e_s.jpg.webp",
     "bossCert": 3,
     "bossName": "任女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "高级人力资源主管",
     "brandIndustry": "培训/辅导机构",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250709/7b5b554d84f9729c12f55a670c82932d95d2df5492900fbb3ce42c8eedc62aa18c2d6d65f7a0d16e.jpg.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "fa15fb65fd317a400nZz2N20GFY~",
     "encryptBrandId": "e2016749c91a629b03Z_0t-6FVA~",
     "encryptJobId": "e7b3f6e7c38aaf5603J53N66EFRQ",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.488597,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100303,
     "isShield": 0,
-    "itemId": 77,
+    "itemId": 44,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cMnT0Llz88.search.77",
+    "lid": "85klEWWBwZG.search.44",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "BmdQu7huzqJoP-i18nsNRJDZOXrzc-xwENtC7H1Pgssp71keDy4am1dSRX1KtvunEzWcV0_7mqpFsNhR5yckCYLEkIii1b8p5byKzL8NUV9RtQ4hI-M8s3Mi27II56qKQ5K1ch2e6HMaKMfRubIu_-_rLuhgVXQ-2yWeUlIJQxR0C4yoWA~~",
+    "securityId": "VxejZyIlx5ciH-G1MxcBBAJLXQBV4IQ9VoKPa0dZUR4fRbSs_5EFuFgeIr8iZ860QGnlTfsLqO_b-CAw7tuAUhl4ks7RDah6U9p1_GeqR4lv5HNBb0FjvosTrLSdq088dnFlP7OyNWwJPQ~~",
     "showTopPosition": false,
     "skills": [
         "不含销售的客服工作",
@@ -57,7 +57,6 @@
         "企业内部客服"
     ],
     "welfareList": [
-        "五险一金",
         "团建聚餐",
         "员工旅游"
     ]

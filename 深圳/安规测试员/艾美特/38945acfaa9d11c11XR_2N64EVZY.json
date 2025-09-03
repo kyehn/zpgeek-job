@@ -22,7 +22,7 @@
     "encryptBossId": "0aeb8c1ba3c194280nV73d6_EFdX",
     "encryptBrandId": "0ba57ff1bb6983911Hxy2968FA~~",
     "encryptJobId": "38945acfaa9d11c11XR_2N64EVZY",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.66592,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101010,
     "isShield": 0,
-    "itemId": 41,
+    "itemId": 73,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,26 +43,26 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "r2vDd61zkE.search.41",
+    "lid": "85mKunhQhfs.search.73",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "QNxhbei9RbbNL-M1NHAXys1LFmJ0oLOqVsHkoGDMdCRTf6VH-pn2tNGpHsPIRwaz41R5qoOS4xFfhanwYJfHoyZ-_y15uKGVH4MTBxHJxK48PFBpsGj1IHQzQylUKSczo4KZZA6w3ECsbw~~",
+    "securityId": "ZyPUUbZ8hsAqZ-w1PTS31ODiTWZ2kmCOj--_sXaMR9RHW_eXlpRzy1MuMjhojm2bOKVXz7SjYA14uG_EJRJEvkL2Obw4GCmrsE1_rBqvMUEjwgMokiBVqBfCaBImxG1herkMeQqTtCjt2Q~~",
     "showTopPosition": false,
     "skills": [
         "安规测试"
     ],
     "welfareList": [
         "提供住宿",
-        "定期体检",
-        "节日福利",
-        "加班补助",
+        "宿舍有空调",
         "五险一金",
         "员工旅游",
+        "节日福利",
         "年终奖",
         "带薪年假",
+        "绩效奖金",
         "提供餐食"
     ]
 }

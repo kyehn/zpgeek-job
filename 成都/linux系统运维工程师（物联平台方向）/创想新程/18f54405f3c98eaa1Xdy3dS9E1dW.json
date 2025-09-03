@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220727/607f1f3d68754fd048b2eb9282c343229e9edd251566daa869f95062b290cfb4d1ab7f1e286bee0d_s.jpg",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "行政人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240123/7bf6f160950405e9c8d7050a869ef83251df9c7a2fed0b0e69f95062b290cfb4d1ab7f1e286bee0d.png.webp",
+    "brandName": "创想新程",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "金融城",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "78053c5bbfe357620nF43tq0F1RT",
+    "encryptBrandId": "25008a4275e1084e1XZ73t--GVE~",
+    "encryptJobId": "18f54405f3c98eaa1Xdy3dS9E1dW",
+    "expectId": 1334030427,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.585054,
+        "longitude": 104.061255
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 36,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "linux系统运维工程师（物联平台方向）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "85dszHalSIx.search.36",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K·24薪",
+    "securityId": "42hWMK7dVCjxB-_14a6k6uzfymR4gSq_0sxM4wTsbc8mkSLQtjvEnB2JTEX58XGvHhdDmlNxZGdlj6-xZPP7Zshy97Tl_Xn_04bcM5P-QN3pu9yNRvQkOBGJJQ7KcQQ7FvjkI7Gf0LstE3c~",
+    "showTopPosition": false,
+    "skills": [
+        "电力物联网",
+        "lT服务、计算机软件"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "五险一金",
+        "带薪年假"
+    ]
+}

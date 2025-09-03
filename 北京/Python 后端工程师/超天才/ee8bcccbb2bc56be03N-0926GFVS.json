@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "田女士",
+    "bossOnline": false,
+    "bossTitle": "项目经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240408/7bf6f160950405e9b74bcc2fc8af6adb922a1272cfb3fd86eac13c25dc01daddc3037ee85bdbaffb.png.webp",
+    "brandName": "超天才",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "上地",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0135e2a22609189e03N42N27F1I~",
+    "encryptBrandId": "550fa03833dc06bf0XB82tW8EQ~~",
+    "encryptJobId": "ee8bcccbb2bc56be03N-0926GFVS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.03618,
+        "longitude": 116.3072
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 9,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "Python 后端工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "85xEbs27CVU.search.9",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "3ek3oe2Xkf0cz-L1K6ifYJCOKGrRD0su8Kqd-wQOfUKpf-d1DPjSe5887HXlriy7_bMjSUOU3myObSWj3yUsOACA9T7tP9sD0NAaNFQibGU1Sa79xBtLyDYB7F_OAyOqwxWA-gW96lH2",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "Java",
+        "Linux开发/部署经验"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ]
+}

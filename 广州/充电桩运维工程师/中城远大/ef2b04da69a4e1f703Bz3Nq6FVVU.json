@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "张女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事专员",
     "brandIndustry": "其他新能源",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220506/7bf6f160950405e9fc0f7bc95664c4cd87bb0adbf351036dfd8d180683eaaa3150afd73d4f2d32d2.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "51ca8096888173320nd-0961EFdZ",
     "encryptBrandId": "40d64505615eaf971nF729i1F1A~",
     "encryptJobId": "ef2b04da69a4e1f703Bz3Nq6FVVU",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.765904,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101212,
     "isShield": 0,
-    "itemId": 82,
+    "itemId": 57,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1d5cKjh9SsP.search.82",
+    "lid": "85r9mU9zV0j.search.57",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K·14薪",
-    "securityId": "jhq7tqwzZF-s2-l1gFofkHF-OW_YqQ6iwPWaISthuF5t88afRrGnONfT4Ha8Jv9TkpO7wWhBM3XdDmUuoFdmTbwfT5A0RDXcczE2LansU3fVYzWZtx-Eh5kCg0uk2arzjQ-XhTyyD9Q0bW3RPm4u2UoBPmDSVlHEOZ5XSVNKc-kviDA5JiA~",
+    "securityId": "cjyik2_15F_ZN-J1Ncy9AesOAGsBoybsOPdmCm2NUr2yDAPf_ywtc1wA_kPXuK4HC7LIqFZrhWxpdkdH0Uk4HfvFvY7HdM2N2-MPCGfYoN1vLBoJEZiK2mf9ayZCBCHY_RnKUUGmwmdzU-0~",
     "showTopPosition": false,
     "skills": [
         "充电站"

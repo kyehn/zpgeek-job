@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
     "bossCert": 3,
     "bossName": "沈先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "成都京东方车载HRBP",
     "brandIndustry": "半导体/芯片",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "c534d4a1016dbbc80nZ40tW4EVpR",
     "encryptBrandId": "d23983cad5c667d51Xd93tW6E1Y~",
     "encryptJobId": "5b33cd0acfdf567c1HB50t--F1FW",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.76588,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101405,
     "isShield": 0,
-    "itemId": 84,
+    "itemId": 45,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cwW7iMoez6.search.84",
+    "lid": "85cY0JENx0O.search.45",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "TO_TxDp4uoJOb-j1TJiKg2Fm96--F6w_7Pw98mYQYiqjqURUb60MYrQP_TSy9bXhTON3DLyfTdB7ucQ7z8414K2O0OUe-tTjg1tXP2rOxUSYpG8j-X4F5IlUdjnB06BiSQiobJKaR_6Hyxk~",
+    "securityId": "Cc-1sDKXLPD9h-g1PI9B-8YLOPb6NCZF2jMLHLw0XuYPunjFsq2YovwRaKE7UlE6vk-Dn8-uvIs9HLdZivoruGIVEr4xKAMT2TPTmcIsVXMgXFgODxliBvu3OyU0PHsed0TEq6bzwHypR_wWWvIukB1E2uM35qn0ftRs7GfNi2648Iw-3ig~",
     "showTopPosition": false,
     "skills": [
         "电子/电气/自动化相关专业"

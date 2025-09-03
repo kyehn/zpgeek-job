@@ -22,7 +22,7 @@
     "encryptBossId": "0cdb18f5b4c6f1310HB62dS6F1I~",
     "encryptBrandId": "1068a6aace193bd91n1839S1E1Q~",
     "encryptJobId": "49b4c26ac71667ac03Zz2Ny8FVVV",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.668398,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100901,
     "isShield": 0,
-    "itemId": 12,
+    "itemId": 27,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4S2T5n4uz32.search.12",
+    "lid": "85qbWDtqR4k.search.27",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "S6MekTdBREJBK-R1uAFbGHeDSqFBA9m3GOSXici4ZfcTXHRkbx9vK1Wm0UBGZTZ6GWJzruz6OhK_WrDrRLn8i8eY1NFLTRBB7QM20dg0YAtFidtHLuUX-eoc-tvsIrv8_h6ejZ_bv_PDHg~~",
+    "securityId": "zosZh4RKhITkS-H14agIVK-ymsb6KgemPffHNC-vw-ZQzIlFVHyvD9gD_fRgRwvT2BZfyz9Ui7n4BIEQmvKzrJwQZwLejyoYbq6d3peWTYRgEHubwvDwcpZXnKpHJoDtGGA-j4N4JGG6HQ~~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "MySQL",
-        "架构设计经验"
+        "架构设计经验",
+        "Python"
     ],
     "welfareList": [
         "餐补",

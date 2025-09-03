@@ -22,7 +22,7 @@
     "encryptBossId": "3f559a07958be1691H142dy_FVo~",
     "encryptBrandId": "fa3e0c77402469ad1HZ_3Nm9F1o~",
     "encryptJobId": "cb6fc6a8ccff755b1Hx-39u5EFZS",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.538135,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101402,
     "isShield": 0,
-    "itemId": 62,
+    "itemId": 54,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2xqfd4Qb5n5.search.62",
+    "lid": "85oeAGmOgLb.search.54",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K",
-    "securityId": "4Hwm1TSR528pd-P1CXqJitiy9OBJk4fEchue9YyBxkYsnuJcWRNe9BeUKQmLH976UKxzdDmuz3Oso5uHXagRpluAh-ihREhGq82qnO9gXVxKo3EcaQKvMyWGDhsvBkKiSBpItq51tcndfg~~",
+    "securityId": "j89uRNLoWCzpi-x1KsQ53Cd7RUVIB6aPqwUeVdnQHX6Hf8vzkB-OcknpITm0nY2V8-i2GeP03stThdJU9xBeQ2C79w2vXUZoZv5eawm8ItBMvTV6op4fjlzkwljpSuxH1i4ECwMVij-YfQ~~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -60,13 +60,14 @@
         "不接受居家办公"
     ],
     "welfareList": [
-        "团建聚餐",
-        "生日福利",
         "五险一金",
+        "带薪年假",
+        "绩效奖金",
+        "生日福利",
+        "团建聚餐",
         "定期体检",
-        "股票期权",
-        "节日福利",
         "年终奖",
-        "带薪年假"
+        "股票期权",
+        "节日福利"
     ]
 }

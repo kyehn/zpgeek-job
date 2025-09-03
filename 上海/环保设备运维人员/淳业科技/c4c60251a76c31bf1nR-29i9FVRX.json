@@ -14,7 +14,7 @@
     "brandName": "淳业科技",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
-    "businessDistrict": "曹路",
+    "businessDistrict": "金桥",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.286428,
-        "longitude": 121.654868
+        "latitude": 31.249488,
+        "longitude": 121.604325
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100913,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 37,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "64CQ6vTu1Mw.search.90",
+    "lid": "85By20SBxYW.search.37",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K·13薪",
-    "securityId": "91PdEVUAc5nKV-F1QomIn3QhJohfcfTY1qGzd3KgerNSClJ5Z8_lI4I25_73ZdC6klVyMgeqoIVwd52vWVgP2APLh_5yDjmU7QseSW9TsuP4lUf4w448htbqBNjBUAiKUN8l1vc-ovfQhmKaD33r1ZahtFLNMOHP-BzT-iM-2790LeuA",
+    "securityId": "wGCYXNC41gY72-o1cq4ry0FomaxXrIv3jxX29NUVAMO42KLaGP0x5x7ACDbFfr7-TbGvESemrFCRUjbgAksCFDzW-Rv61VIfAxsxgOVcMNm7JKRK9L5XgtASxIqsyHAqxtHACBdWEFBsVEi4VJ92qT9mgmaOPz8LIiPBf9PL20VU-9MS",
     "showTopPosition": false,
     "skills": [
         "运维",

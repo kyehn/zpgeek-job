@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "杨女士",
+    "bossOnline": false,
+    "bossTitle": "hrm",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180223/c865600f3071830570da81725ca2a240cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "邻元科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "上地",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "26b041ef6ac2348c0HR92tS5EQ~~",
+    "encryptBrandId": "04cf4cf2fee4759b0XN939S_",
+    "encryptJobId": "e93d82c5191fba2003J_3dq8FVJY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.036804,
+        "longitude": 116.307951
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 62,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "产品助理（嵌入式/Python基础）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "85xEbs27CVU.search.62",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-12K",
+    "securityId": "QzNX_t6M6KeBk-J14QICZ7g4-Mgs_yZRzZCp0Yw4AUy9vIGBeK9YEGmX1rD8PV2gY9VuFZZRsxcuW0MMYlIDJufbMabMVRik9exf68TetuL0LAjEhfehPlVQ_O2n6El2xds1gsWxXA~~",
+    "showTopPosition": false,
+    "skills": [
+        "嵌入式",
+        "Matlab"
+    ],
+    "welfareList": [
+        "节日福利",
+        "五险一金"
+    ]
+}

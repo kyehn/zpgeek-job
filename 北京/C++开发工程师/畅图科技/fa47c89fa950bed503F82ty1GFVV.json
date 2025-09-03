@@ -22,7 +22,7 @@
     "encryptBossId": "1a34cc94b6f1cee00nN40tW8FFVX",
     "encryptBrandId": "bd3c764ee814c9c10XJ63t26Ew~~",
     "encryptJobId": "fa47c89fa950bed503F82ty1GFVV",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 40.00165,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 57,
+    "itemId": 83,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,18 +43,29 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1dFPfglBHdN.search.57",
+    "lid": "85xaDEhk1RE.search.83",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K·13薪",
-    "securityId": "W5Qukx8EKe2xV-q19jodBIK87mWGpZOG7ep39noDF4BIRnUWPLqGO8ZTelZfLg_NJLwvDPKND5m0HKM6lUmtl1Y8_Cul-NAOKx2YhRF_cHoTuIxYjfdajm6OxDMTheNZrz8L2aldBkKCgA~~",
+    "securityId": "7xyodx_zzbeg5-Y1_dEp7TsxBHPWkjHqQ7iNwJfPqOOnxZ1osGSdYMoqbqkwgpDSs3uDZRWWbTznezUjajVHU-GmkdZ1AKUpxVsy98mCIX68BSONRFXDWFFDPCXDldXKOpdFDNN5tLmPrQ~~",
     "showTopPosition": false,
     "skills": [
         "C++",
         "C",
         "OpenGL"
     ],
-    "welfareList": []
+    "welfareList": [
+        "五险一金",
+        "包吃",
+        "带薪年假",
+        "团建聚餐",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "节日福利",
+        "定期体检",
+        "年终奖"
+    ]
 }

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170714/904c6959ee20fab4aa722a8f5045ed758c7dd922ad47494fc02c388e12c00eac_s.jpg",
     "bossCert": 3,
     "bossName": "黄浩",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘人员",
     "brandIndustry": "互联网金融",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250220/7bf6f160950405e91ac03389f13c7f2419ef8f6653b820884fd3d43ace972c4ae57ca672462809a7.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "742f9659fb87b9f51X1-39u8EFY~",
     "encryptBrandId": "dc7dc1ba11e08b551HRy29m0EFA~",
     "encryptJobId": "2f86c2a9d539a86e03Ry2t65EVZY",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.507592,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100206,
     "isShield": 0,
-    "itemId": 30,
+    "itemId": 20,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8sVZH1S4k1z.search.30",
+    "lid": "85jRxzr0rnW.search.20",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "LLg0kLs7MV93f-q1JZ2IDfT-n1ny5V1vSUaF-JjuURImTnQxXGXiMlCqtALQgfryLdSQO4MtRXhyyWeNl1ofEaZ9e4zCwUPu6t5q5ftPR-HT8l9_4epjYlm18z32KQzK14TAWMHdbzLHtg~~",
+    "securityId": "0JWqspF0gCLk9-l1XcaeJyLGJLm8Tee19hpdgvjehpRly7DSB_HLixByYi2pltnSGF6LVJxw9dMsE7wF7lyckYCGXhzVPiPYPipE5EW4RnEumvG2b3J6hMJv7w57h5z8d2UadTCLUa9U-SYPRcIc2PoMFVoxGUBImNsLoPn3-YSFRqWeUA~~",
     "showTopPosition": false,
     "skills": [
         "自动化测试",
@@ -63,6 +63,12 @@
     ],
     "welfareList": [
         "绩效奖金",
+        "节日福利",
+        "工龄奖",
+        "全勤奖",
+        "带薪年假",
+        "零食下午茶",
+        "年终奖",
         "五险一金"
     ]
 }

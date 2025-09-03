@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201217/0a51a3eab302a901805806722cb12cbc225a6d6c253f6c4554af3a9246060472_s.jpg",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "HRM",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201217/c9aca8f187bd63c739bada1c6bd593fb9d493202cc7cbdc4f7749aa4a8ce2e9f_s.jpg",
+    "brandName": "上海新炬",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "四季青",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ec87f071ceb8c53f1HZ_3tu6F1c~",
+    "encryptBrandId": "c876521677cdfd830nN53t6-Fw~~",
+    "encryptJobId": "827a04187f87ccb61X1y09q_EVtZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.958768,
+        "longitude": 116.268012
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 37,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "初级中间件运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "85xEbs27CVU.search.37",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K·13薪",
+    "securityId": "kWQlI4FUuTMPD-R1uaJG-8bsrIdNiOL9Ak7bS1vlW0vy4Ipkt-G747qEro09tKdKvb9jPRnTI9am-WDKZUppLlv5Uw-NH3oY3n-t2TgwjAEpdv3KedV2ZNj5f-5fYcFre8ouIipafWrw",
+    "showTopPosition": false,
+    "skills": [
+        "Nginx"
+    ],
+    "welfareList": [
+        "员工旅游",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+    ]
+}

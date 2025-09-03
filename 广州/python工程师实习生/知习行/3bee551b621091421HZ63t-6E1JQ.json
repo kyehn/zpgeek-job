@@ -22,7 +22,7 @@
     "encryptBossId": "e63e78b10f1159d40XZ63Nq4E1s~",
     "encryptBrandId": "eb8a3dcbba70587333R-2dy6Fg~~",
     "encryptJobId": "3bee551b621091421HZ63t-6E1JQ",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.117646,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 26,
+    "itemId": 25,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1dbS73JvFlx.search.26",
+    "lid": "85sENE3GyI7.search.25",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "g4_h_DYFcf1kY-I16yGexZIKGh9DFvVTVG4NSyr-pD10zESbOsusBYfpknpKo6S7rjrA4kH6yMMWzadRGULz6RV0GSK6_9tXvlsr6HYLgN6iYTZBMHC3tbc3IQZ9HTbyGYRd76sltqz3",
+    "securityId": "V72RwXWguGVA3-p1A765LjOlsRjAz-s2tr_u9E2SkLRMrZkVMzG3QHX3T12U5I0uug26al8GOxfxAe7_fPtj-5ggr3S8nOqq7KV8z6W315sAeG1PuJb8i637lxmVuXjEqf2wZgPR0sNZ",
     "showTopPosition": false,
     "skills": [
         "PyTorch",

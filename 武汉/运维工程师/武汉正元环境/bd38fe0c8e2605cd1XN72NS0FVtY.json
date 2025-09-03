@@ -22,7 +22,7 @@
     "encryptBossId": "a40c1d41cb07bbcc0nJ42tW1FlBR",
     "encryptBrandId": "1b77da906b577da71nF83961FFI~",
     "encryptJobId": "bd38fe0c8e2605cd1XN72NS0FVtY",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.409417,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100913,
     "isShield": 0,
-    "itemId": 85,
+    "itemId": 48,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8sZb82c7lxx.search.85",
+    "lid": "85hWTIi9An6.search.48",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "5SM1GwXiD0PrP-b17ICNSI5UfUU6WqoEZE1ikiBign-1UOK5IbOnzm158ClqEX504Eg6Qrj3PU3p6ypjW3VzESfa36k6w7rzonGwy-se0nn5CO-2o-k15RQ__PtX6US0KJH_XYzZW5ZX0f0~",
+    "securityId": "39Z2jZ1D493Wd-f1YlWyJWTuaOGA13lKPVlpUqL6B4soVzEjN-x6sawo-J78X22yRvPfh_uXgd9kEySyH-VgA_8NRootXWCXsKzG3XV6yU6X0ulk6KZj3GRkuSAnYtHn_cO-xvA0tXDFLx4~",
     "showTopPosition": false,
     "skills": [
         "设备运维",
@@ -57,16 +57,15 @@
         "环保分析仪表运维"
     ],
     "welfareList": [
-        "交通补助",
-        "生日福利",
-        "宿舍有空调",
-        "全勤奖",
         "工龄奖",
         "节日福利",
+        "食堂",
         "意外险",
         "带薪年假",
-        "通讯补贴",
+        "全勤奖",
+        "交通补助",
         "绩效奖金",
+        "宿舍有空调",
         "底薪加提成"
     ]
 }

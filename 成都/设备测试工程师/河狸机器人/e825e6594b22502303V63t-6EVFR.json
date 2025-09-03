@@ -22,7 +22,7 @@
     "encryptBossId": "d44baeda5c000e8c1nR73ti6GVJU",
     "encryptBrandId": "c53eb1eef76bbca103R92tq6FA~~",
     "encryptJobId": "e825e6594b22502303V63t-6EVFR",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.767503,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 39,
+    "itemId": 88,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t3dr2SjdDO.search.39",
+    "lid": "85eqXZAzOIC.search.88",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "OlH52hJvQFIqz-k1EhLrHETtmU_KvDbqPBM-Sxs3cXbTPSAKhjctH4o-fWbcM47O720AX85gp-dzW-BLJR79RO92KaQKsvnKvkWpI22iyN7WDWKfW4VcQ_rRwhlKxpvbq6PfFR6lPbbNnA~~",
+    "securityId": "b2N6tlRE9r_z8-F1im5sO5Pnd1YPCa4RRo6rdBOG7oxefrOGy8-sv13nmG_FL_Nb9mUout-ER8s4XyAgKM6c-KiWNWYqri1BSFXblNEtzoZWOcQ32caov18AxZlhMvJDhpRmP0LCGPRNSA~~",
     "showTopPosition": false,
     "skills": [
-        "计算机相关专业",
-        "通信相关专业",
         "测试工作经验",
-        "自动化测试经验",
+        "设备测试",
+        "硬件测试",
         "嵌入式测试"
     ],
     "welfareList": [

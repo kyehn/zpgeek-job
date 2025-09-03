@@ -22,7 +22,7 @@
     "encryptBossId": "b22ef503f0cbd9c70nR53Nm5FlBT",
     "encryptBrandId": "63f742e2d5f9920e1HF63tQ~",
     "encryptJobId": "b757603338365a971XJ_09-1GFFY",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.296863,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 50,
+    "itemId": 4,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8ta6ByHiGjG.search.50",
+    "lid": "858LDCqDNrc.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·13薪",
-    "securityId": "YWydig3J8fW69-Q1bghzu0vO9-CNG81IKvcaySkttuO6JzFxwlA9RO2wkC4u6VMrsxySOi9IkUi3hgASzySstRd8EuaYW2zXYMO0JKeUnnPddrpZf7WuDLeLdw94qL4xz7zdGSb9dck~",
+    "securityId": "BQqa98NzVU96z-A1qkOlxfmGOQmOqO2DxLvVbfJfUsn3Rsbgs3P9Kj-r4hBkURVzowMng35wOgOZoJb_Y9odf_DqsGSjd2fWumXwtKSVO6xERs-9K6HsBpTh7QIfbGf82UhMKhjAjR8~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
@@ -57,17 +57,19 @@
         "可适应出差"
     ],
     "welfareList": [
-        "团建聚餐",
-        "通讯补贴",
-        "员工旅游",
-        "带薪年假",
-        "定期体检",
+        "工龄奖",
+        "零食下午茶",
         "五险一金",
+        "法定节假日三薪",
         "年终奖",
         "绩效奖金",
+        "带薪年假",
         "生日福利",
-        "补充医疗保险",
-        "零食下午茶",
-        "节日福利"
+        "团建聚餐",
+        "通讯补贴",
+        "节日福利",
+        "定期体检",
+        "员工旅游",
+        "补充医疗保险"
     ]
 }

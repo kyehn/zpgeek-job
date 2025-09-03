@@ -22,7 +22,7 @@
     "encryptBossId": "c07b4c8ffcf1097203J929S1ElY~",
     "encryptBrandId": "5d85af401f29efd51X192dU~",
     "encryptJobId": "958bfc835a4f964103By0tm7FVNT",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.208487,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 20,
+    "itemId": 35,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,15 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1d30fxSH3JT.search.20",
+    "lid": "85qDZQbD5tS.search.35",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "8uXTWIS65ZB1V-x1q1MY6WsO-qddP8vAYB7Jon9vfnegeXfSwnStR73Yy_q9hmiYJyytenmQ89Tmq4jhuH5Qt_j-4Zn_txP7zvgIt5MFQRFHTsJK2-WdjuxdYZzY8KvVdElb5qUXOw~~",
+    "securityId": "4eU6WMjkDoQ4p-01apQ3Gr-NzkK1bkxhRAR1pJFXGMAquYoy5sL4JrrJnxK4X0cKbhwfYV2Y1uGXW-Qc0nCcEvbo160bf9ojqAXUilfNxTfTeDmddKDbh5wK-I7j_tP_86EYd9SDQw~~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "汉语言文学专业",
+        "行政相关专业",
+        "人力相关专业",
+        "文学相关专业"
+    ],
     "welfareList": [
         "五险一金",
         "节日福利",

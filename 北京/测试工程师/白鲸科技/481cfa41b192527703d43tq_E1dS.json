@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220325/607f1f3d68754fd07336e795a4e598ef655c92105e3d893d8d06b9b07acfa5b2f43a5505e527ea06_s.png",
     "bossCert": 3,
     "bossName": "于海莲",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191022/938b85021dcc99ebe308574e9e6ff38b2d3a997683e327c7cc686781522360ac.jpg",
@@ -32,37 +32,39 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 17,
-    "jobDegree": "本科",
-    "jobExperience": "1-3年",
+    "itemId": 41,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
     "jobLabels": [
-        "1-3年",
-        "本科"
+        "经验不限",
+        "大专"
     ],
     "jobName": "测试工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2z89NGWPXv0.search.17",
+    "lid": "85zx2AnM1wb.search.41",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-9K·13薪",
-    "securityId": "WzHPjFDsArjCm--14986VhRRui-EfioxttB6K2Ji_OrBgNbb5tXOonMp80IFWuDRxz4aWi1hqhFueZjdofXsM6PJ7TcTwjMcVGyQNWMxVUB9ZdForY7a7LKCB_8Ju0E_-gDtxTSgtLc~",
+    "salaryDesc": "8-11K·13薪",
+    "securityId": "SX8kKFPyUNL3Z-Z10LceB6SqoBDodfSpyYlSOFfSTxQQoKTzbuyYlwZKR5od86TPrtKI-aVLeTJ7iiAqR4U8Xi1DBaoUjgG4JHsvhUgDw63_bHz33-LA5IZdEGgxeRQjVENW7CZjotZqlNIBu6lC6M2uLu7MlBz1O6lnn9Nb7UFENEk~",
     "showTopPosition": false,
     "skills": [
         "功能测试"
     ],
     "welfareList": [
-        "零食下午茶",
-        "节日福利",
-        "团建聚餐",
-        "五险一金",
         "餐补",
+        "员工旅游",
+        "交通补助",
+        "五险一金",
+        "节日福利",
+        "带薪年假",
         "健身卡",
         "年终奖",
-        "员工旅游",
-        "交通补助"
+        "零食下午茶",
+        "定期体检",
+        "团建聚餐"
     ]
 }

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210319/f0ea3bd1f633b70c634184acd7205f7d0b273c5bff8e2395aba1fe938e39e580_s.png",
     "bossCert": 3,
     "bossName": "潘晓丽",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "物流/仓储",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210524/24a41c85ae721a0bccf6a9125ddb13ba4196b6931d0c507545137eb722e16b4c.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100502,
     "isShield": 0,
-    "itemId": 40,
+    "itemId": 35,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4dGgBuG4BEM.search.40",
+    "lid": "85By20SBxYW.search.35",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-11K",
-    "securityId": "4km9_A0FTSXt3-Q1KLWc4XBOsT33UWyD_JBDhX8XpXDUVLv9EE7nnPFrToU2yYJUt8JlFxWoPEts1-jGUJuJwWUbV-B6KYrgdnyb7iYI0B3OXiCWxESQHTjw4YMie5q5s62Re4z9oO4ASg~~",
+    "securityId": "EHEB1fGCx011M-L1vU6P_dpUDssRkQDIrGKjqzWjfwjidNA4gG8498O0JGNMf6wjIjLeZiUdQ53HQZ6pbooA686_Mnks4YhUcdE58f8aXpKNWlvyq7HbYp8EPurNqkflbK5JbuvvfZFHRc8cQBmfOfXesZJnXqynISKzxucXGSoJn9Nd9Q~~",
     "showTopPosition": false,
     "skills": [
         "电子电气/自动化相关专业"

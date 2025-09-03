@@ -22,7 +22,7 @@
     "encryptBossId": "dba4116860a1eddc1HN62tq_Elc~",
     "encryptBrandId": "31d1549dd905a1423nV52960Ew~~",
     "encryptJobId": "44d26f6ab24911bd33F43Nq5F1Y~",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.671766,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 81,
+    "itemId": 21,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d4OtBU04tT.search.81",
+    "lid": "85fUKW7MdJn.search.21",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "Zu125ITqe5ygM-o1FgVJm2xo_Rm-N0Qr2WCT5HmtNqUlFoDWxzNyQCF19T0H6FNouxxgJATiCWdhAKHLM0QhXRlAyFGkDfACT0tiHTMsvJfDR8fyCAKaoblWet270OxQgwEXCOwb9e8~",
+    "securityId": "s3Oed6JV_ELhD-_1sdP0s18QcyrmDGKiQkThtdSjArNKAx8RHoklT5_EAO-wEk7jX1bQs0Fb3uDvtJ-cU1fEB1xpWPKODhCwIRJEJJWJKk3edBLnIVZUBSfxbdUWvvN2JLNLQXWPx5s~",
     "showTopPosition": false,
     "skills": [
         "Nginx",

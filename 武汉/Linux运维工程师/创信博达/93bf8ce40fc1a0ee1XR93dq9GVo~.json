@@ -22,7 +22,7 @@
     "encryptBossId": "84a976e5c59218d41n1909i0GVI~",
     "encryptBrandId": "cfd7d138d5461c841nx529--FQ~~",
     "encryptJobId": "93bf8ce40fc1a0ee1XR93dq9GVo~",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.455626,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 19,
+    "itemId": 30,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8sXx7YL9R8Q.search.19",
+    "lid": "85irlkKIQyM.search.30",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "YQx7e3NEY2GLh-p1QnP1lPTQFwBm6k8t-eRjebHVLPu_tbuatQGgS-pDyJvepijX1V39a2T1O46uNXvmKr9FIKtqvq3OQLHC9qDdDJnU1igBZ1n-N6uQMVZj9Wca5XBdUclI4bephcQ~",
+    "securityId": "MSguxguzn6OL3-c1Oea3lL3tCry19Nh2wsezxvCnwFyR4Vh5DUILQ7nfIiFdYe5JcTadr6_z5XQzGIRDSRFa23_Kk9V9Q4-vyb708lruTuqAp9w4K60oojFCtySk3WkCmtrqzbxTydg~",
     "showTopPosition": false,
     "skills": [
         "Linux",
@@ -57,14 +57,11 @@
         "系统运维"
     ],
     "welfareList": [
-        "员工旅游",
-        "年终奖",
-        "节日福利",
-        "股票期权",
-        "通讯补贴",
         "带薪年假",
-        "全勤奖",
-        "交通补助",
+        "节日福利",
+        "加班补助",
+        "团建聚餐",
+        "五险一金",
         "零食下午茶"
     ]
 }

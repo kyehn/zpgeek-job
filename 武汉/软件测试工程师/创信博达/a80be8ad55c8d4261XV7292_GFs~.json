@@ -22,7 +22,7 @@
     "encryptBossId": "84a976e5c59218d41n1909i0GVI~",
     "encryptBrandId": "cfd7d138d5461c841nx529--FQ~~",
     "encryptJobId": "a80be8ad55c8d4261XV7292_GFs~",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.455626,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 76,
+    "itemId": 49,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8sVZH1S4k1z.search.76",
+    "lid": "85jozWlh27o.search.49",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "NoeKy0GXmjIs7-Q1QFhhYSP6hcEf0nxs1KNZ1Tl9-gdwHKVwR-KOeenpMPR-0hn8Gttyc0RFRGDan_TuR_fhK6USeTXNbSVGc_-QMx8xOsZ7wMk1BiKHEL0tkiPFuDB6s1gUf6DXiN4~",
+    "securityId": "DtYU_qOvLhVAv-71T2aiJdaS6jboxSn2xVUGPfKHup8lLG90_xQNNZRJcvqUD4bfJF6SNvKNZ9NLwK-LWa6Ne1qicaay4cMqkXtuzYyiRdDm_yimIee2ju5JYwNxa3hrw-6-2eojxGo~",
     "showTopPosition": false,
     "skills": [
         "软件测试",
@@ -57,14 +57,11 @@
         "手机测试"
     ],
     "welfareList": [
-        "通讯补贴",
-        "全勤奖",
-        "员工旅游",
+        "加班补助",
         "节日福利",
-        "年终奖",
+        "零食下午茶",
         "带薪年假",
-        "交通补助",
-        "股票期权",
-        "零食下午茶"
+        "团建聚餐",
+        "五险一金"
     ]
 }

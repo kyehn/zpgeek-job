@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240306/607f1f3d68754fd0c54c6c2b88df5cbaca75f66285399cd35f7aa9eb46d366d7280c0bc3211a4c01_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "蒋女士",
+    "bossOnline": true,
+    "bossTitle": "人事招聘专员",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "上海君兴",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "陆家嘴",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "51a5b2ddf77961731HF63ty_FFY~",
+    "encryptBrandId": "5f0daaa6a0030e9603J_39W-",
+    "encryptJobId": "73fdf59f3183652e03Z_2dW5F1BY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.221298,
+        "longitude": 121.529403
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 28,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "7*24运维监控服务",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "85By20SBxYW.search.28",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "4nqtn2_sPozh--L1sJq-0YDr83PONG68VFPl9V3vWQdktvBuhgI0ygiP12kHRVpSmT6sHsQgYKVmX_qNzjsjiZJr3zzpyKtnKe-3UYRr_kCH749hcYCNU4DRMkFr-n-3wwwHOrz4IXxajlzYw3lQFuiAe1FTVjuyffrNO0KNMaVvEWo~",
+    "showTopPosition": false,
+    "skills": [
+        "桌面运维",
+        "724运维经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

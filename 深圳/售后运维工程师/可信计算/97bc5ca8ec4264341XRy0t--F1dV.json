@@ -22,7 +22,7 @@
     "encryptBossId": "e9bca59a105415791HZ70tm_FVM~",
     "encryptBrandId": "ebb419ba913ecff81nZ539i5EFI~",
     "encryptJobId": "97bc5ca8ec4264341XRy0t--F1dV",
-    "expectId": 0,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.561024,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 44,
+    "itemId": 33,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,17 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8kNLaguPDp5.search.44",
+    "lid": "85mj9iH9PjS.search.33",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-10K",
-    "securityId": "6jp2mbCwQFRMQ-710ezZGVn3Jl1fEsH_ZzFZwkPLbqMd4zGiXIBIMwdJGP3D-4saf6Vtpl3f0570ix_oFoXvRxl4VDozZOyVW9OaOr_sW_QTZfXnv0c~",
+    "salaryDesc": "6-11K",
+    "securityId": "KOjrahfmHSUXZ-I1SihSDOLoAZmM8M-fNPZcvtQhKI5_Sy3P_H3H_LiR3mh36IAhM7AuVF5IJ_1I_4kEgFPfPG1A_8rLjH4jxG80JHSjR49kGYbDavnoM6lmKa5KupHZbbTRrD4D1aFXkw~~",
     "showTopPosition": false,
     "skills": [
         "等级保护",
         "信息安全",
+        "计算机相关专业",
+        "网络安全相关经验",
         "网络安全"
     ],
     "welfareList": [

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "松江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220304/607f1f3d68754fd076537accd64a0328d40283f4c17e608e46e9c188821514809f5ed2359cd59fb4_s.jpg",
+    "bossCert": 3,
+    "bossName": "殷女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "其他生活服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250408/7bf6f160950405e967db19a35c4ee48e92da6fed715043f246e9c188821514809f5ed2359cd59fb4.png.webp",
+    "brandName": "点特",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "松江大学城",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ac4a60cc951b4ee833Ry3t68F1M~",
+    "encryptBrandId": "7c351110cda1782c03R93tu5F1s~",
+    "encryptJobId": "dd015c5d8db229d803N-2Nu9FFdU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.090772,
+        "longitude": 121.260208
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101106,
+    "isShield": 0,
+    "itemId": 10,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "线下运维专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "85By20SBxYW.search.10",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-9K",
+    "securityId": "coHJ9WWPz44o4-31AG7tDx5ejT96Tp1h39Ac2s8ASAj4IrfUnRtGNGz4F6w5RNwmNiG_gG6Wjz03PCZjAPz43fO4rVOv4KlCG_dz9144egFDr6k2Y6HveoX-3_Qejt8PANURzgbSVKK0BA~~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "实施交付运维",
+        "运维经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

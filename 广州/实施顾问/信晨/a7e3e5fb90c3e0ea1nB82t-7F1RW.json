@@ -22,7 +22,7 @@
     "encryptBossId": "905aa4fa76cb98e70nZ83tW-FFdY",
     "encryptBrandId": "9b90dd30b392cc0f1nxz09-7Fw~~",
     "encryptJobId": "a7e3e5fb90c3e0ea1nB82t-7F1RW",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.135146,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 43,
+    "itemId": 46,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1d472lU49P9.search.43",
+    "lid": "85v6Hf8YVR5.search.46",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "ecbZXR2tcDQwB-p1jdhEDL52S8JlvIic43ZfB0OMkWKQ_hhqmht0YyjOTsqmiEtdq3SR94O70zcWfg9Xp6EKx0XWCKJo9fl7LeaUepdt7pcqA1M6Xavs2cM2y-v0_4CMPe8ol-EhvuWSRg~~",
+    "securityId": "KgGINTGPKijLM-u1s7-BLJVzNxX-BSa3JQtetZeTpl10wo1KGGm9vKzsBzPOhepw04F26e0DGBDlcoHg2-vxkfowiZsHYkBS6ZhkG9lFOUoBX0I_UoQKlUufjJ5PXg4NApgnVhCfuWD55w~~",
     "showTopPosition": false,
     "skills": [
         "实施工程师/顾问",
@@ -61,18 +61,16 @@
         "蓝图"
     ],
     "welfareList": [
-        "交通补助",
-        "年终奖",
-        "团建聚餐",
-        "员工旅游",
-        "聚餐",
-        "免费工装",
-        "带薪年假",
-        "全勤奖",
-        "定期体检",
-        "通讯补贴",
         "零食下午茶",
         "节日福利",
-        "生日福利"
+        "年终奖",
+        "通讯补贴",
+        "带薪年假",
+        "聚餐",
+        "免费工装",
+        "交通补助",
+        "定期体检",
+        "员工旅游",
+        "团建聚餐"
     ]
 }

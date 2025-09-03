@@ -22,7 +22,7 @@
     "encryptBossId": "ba3e8f8f754166e30nR-2d28FVJW",
     "encryptBrandId": "4a5812fad3ec85c21Xd_29m_GFA~",
     "encryptJobId": "20b99fae07ac9b3703Zy2Nm8ElJU",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.539642,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100502,
     "isShield": 0,
-    "itemId": 39,
+    "itemId": 30,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,15 +43,21 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "rgo1NDiuxM.search.39",
+    "lid": "85dYdePdsS4.search.30",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-7K",
-    "securityId": "6FLN00-WwXi5N-11qCwiBfX7OTdcc4ZOhnA4MR2XvykVA1fWnxTasIKftLvwfvEjCTio2iY07WGyRbjc5sTibP1tWKUVjUMI8Y6jO2NnhE43L-pNYDNv2EeRRgOq1QlMpwPGNgV31JpaRB8~",
+    "salaryDesc": "4-6K",
+    "securityId": "j8WW0HkE-ZdFe-v1gbAk1kd9dEIpNb0Wup5N5Fvf9gKtXOprN8g_29zKevRJV0t_QMQ7wbPy-necQfEZAgIY4ptQUloaDNCxZSFKlLNp7hJBvEqXgtjBUZiyAIgFasEQbDSsS0xm-RDWbFk~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "SAP",
+        "计算机相关专业",
+        "WMS",
+        "英语",
+        "可适应出差"
+    ],
     "welfareList": [
         "年终奖",
         "带薪年假",

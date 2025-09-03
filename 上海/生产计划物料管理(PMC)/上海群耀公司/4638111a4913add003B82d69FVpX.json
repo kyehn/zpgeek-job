@@ -13,7 +13,7 @@
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "上海群耀公司",
     "brandScaleName": "20-99人",
-    "brandStageName": "",
+    "brandStageName": "不需要融资",
     "businessDistrict": "松江工业区",
     "city": 101020100,
     "cityName": "上海",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100917,
     "isShield": 0,
-    "itemId": 69,
+    "itemId": 51,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,14 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fDOGSFs9Hi.search.69",
+    "lid": "85B2THOhhFi.search.51",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "nChCGjWVltP50-s12gvzJ8MO-GnChZXVcv5rxty7uzrkERw_UmIxwDJL3F3jpnd99GKTxWLPsTlufrKJhdBfn4crX94f1gftKogHV4mDU0FsAwsReqGafpCX0unE9lcWOPr2XKEsRwONJ1Q~",
+    "securityId": "3DYIEHmkZ0DMo-M1UXY2qdQtvRLtzrVSsMF3fbpCadE5SBVqJqjAryRCQqYZIoll_IM0_nIf7_x5jGOVTyffxjrwhSTY2Jb5113TwWRPoZ-G5n2j6G9bLze67Vc0Hd9gRjlPwCn89dm9Zko~",
     "showTopPosition": false,
     "skills": [],
-    "welfareList": []
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "加班补助",
+        "餐补",
+        "节假日加班费"
+    ]
 }

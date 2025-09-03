@@ -22,7 +22,7 @@
     "encryptBossId": "aba67b7863ba978b33B62d-4EVI~",
     "encryptBrandId": "fbe7a6b43da6ce071nZ929m6",
     "encryptJobId": "37e9fad6777cdc971XZ52tS0F1FR",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.613612,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 85,
+    "itemId": 74,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d0mL38IV2Z.search.85",
+    "lid": "85lmpiIEAMR.search.74",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K",
-    "securityId": "zuNp5t3ju6D96-J1590I7ZxLpe3J_yf7f5M9EvMCPczlC3Z4q2bQUZC2ZchjOC0xbRT-vtGpe4VIt8qXczZQ1gmUH4TOcw7o-qF1n4vf-JoS629hcFhamK4cEdMZ8Scxmo57PmwsyBE~",
+    "securityId": "2kj3OOF4Ec4L4-_1nd6afPqPOUyo1AVKFk8nPa_OkHzWSHKfi-Jk_xX59NkXquu6xzN9RqzqPO8jL6c-3IpEXD2OCVHBmtuHXDaYu1sN5odCGPTaYCgaEKlZ64INeRviQofs8J3d2ZE~",
     "showTopPosition": false,
     "skills": [
         "售前支持",
@@ -57,15 +57,14 @@
         "项目验收"
     ],
     "welfareList": [
-        "零食下午茶",
-        "商业险",
         "节日福利",
-        "培训+福利",
         "免费工装",
-        "法定节假日三薪",
-        "全勤奖",
-        "团建聚餐",
         "五险",
-        "年终奖"
+        "培训+福利",
+        "年终奖",
+        "全勤奖",
+        "法定节假日三薪",
+        "零食下午茶",
+        "团建聚餐"
     ]
 }

@@ -22,7 +22,7 @@
     "encryptBossId": "12cbf83e7666eb670n182tW8EQ~~",
     "encryptBrandId": "f7c41892953469e81n1z3Nu_FQ~~",
     "encryptJobId": "1afcdc6211f56b381HJ439y7EVVT",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.894,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 5,
+    "itemId": 46,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1dd44Wx6152.search.5",
+    "lid": "85xEbs27CVU.search.46",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "6uEOE4m8gK4li-k18FkV99bFct3ZOCcbm8Vl-n2piixTbPwfC3xLi_iSDGnKFGrYy07-eN7Nj5OOacPZPTd_iXtqasqgSi8VQVI-zur7KCCnKqzot1q68BqTCaQojs40ocpeuUbDBiw~",
+    "securityId": "mw7ApwxF7GTAu-91WKfENyUlcIqPpHN8Z4xGAM6_lVdzB-qVc6FulUHqekr8NrU-nvpBLDbipCA0vYifDcxS1LT1CnBoAYtLcQUtRGh7Dxjt61vgB2Cp9kuNQGXMT6e1jb3ueUk3Ky0~",
     "showTopPosition": false,
     "skills": [
         "Python/Shell",
@@ -64,14 +64,13 @@
         "Django"
     ],
     "welfareList": [
-        "股票期权",
-        "节日福利",
-        "年终奖",
+        "生日福利",
         "带薪年假",
         "定期体检",
-        "通讯补贴",
+        "股票期权",
+        "五险一金",
         "绩效奖金",
-        "生日福利",
-        "五险一金"
+        "节日福利",
+        "年终奖"
     ]
 }

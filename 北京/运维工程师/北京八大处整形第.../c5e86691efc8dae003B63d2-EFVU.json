@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231101/607f1f3d68754fd00ac93a79cb3f6849b6734c4d838c4d328a94c405bfd2d39fdb429d329266575f_s.jpg.webp",
     "bossCert": 3,
     "bossName": "郄女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "医疗服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240804/7b5b554d84f9729ccee76666ea7be9a13afd146a83da875e3cff632e84aabf7ddfd8c5ea79d5902b.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "3dfc522d8480167f1nV729y6FVNR",
     "encryptBrandId": "2dd34f061c0323501Xxy3dW0F1c~",
     "encryptJobId": "c5e86691efc8dae003B63d2-EFVU",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.783276,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100402,
     "isShield": 0,
-    "itemId": 75,
+    "itemId": 45,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1d8v2kttMZs.search.75",
+    "lid": "85wbY5EFkMw.search.45",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-9K",
-    "securityId": "179kvWhmAf8IY-c1r6HO35yo_mXAKFpMnQTWt4aBzOBTQJgl8PzaY2I--Ha6350ig5m0dJHzYCKcDMwDOQMipcADvckskEHfvQVdgnsfMnAm9tqrZihqT06h0Fzu5AozKGV_IUF3vlFAU7Vxc0ho2J0dF-HYLGC3395KnI3ss1s_kQ6w2_M~",
+    "securityId": "xM6mzQL9b6t7y-F1gQ5r3TTW2jL2hbqzLzoSnx45oRBuUayTgyYRTk4VnniKDqiLk75ktz-QuJNAnaXZ_69pSOQZPZIPx9imI3OIbOvHCyf8UrfgXzlBhFsp6t7hvv1Q6udFUCynRpWRLf4~",
     "showTopPosition": false,
     "skills": [
         "网络运维",
+        "医美医院",
         "系统运维",
-        "医院",
-        "医美医院"
+        "医院"
     ],
     "welfareList": [
         "免费工装",

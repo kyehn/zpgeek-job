@@ -6,8 +6,8 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
-    "bossName": "刘志丹",
-    "bossOnline": true,
+    "bossName": "刘女士",
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191024/37dc2f78bea33b9839972884d42a66e1cb1eb392ca5588a965c3787e47b25348.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "76cc88de081331d20nRy296_F1FR",
     "encryptBrandId": "9b03b2ed7a87f1f20Xd63tq5Fw~~",
     "encryptJobId": "447013a6abda094e03By2Nm8GVFW",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.53603,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cORbXq5NTf.search.2",
+    "lid": "85lNtMSjUHO.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "vkaoVa7W2FHAs-312tv3PvwOo_0QxBiMDFVSA-OkLu4tJcqwoIV4BsAkh605e6LBaOkNaYjcVTim7tNajb7niimSxE0SvwWE8pgMto-8xnIFQZljMA3b8_TSM6Tt0H1Ugc2VFW9Qpra8KY4uLEtpams2WXFhRgilJkXdrY7vQEqiMUK4Yw~~",
+    "securityId": "-QglqfojjMEC3-i1j266YrPdAdpoWUADmspPtkcPijqiv_0RFhLBle3rbYu8Zo9_Ffmi0-nRZv4BjAuk4zI_e3FUSP1RzQqW0dxR7C5eREo6gY5RKYyJoavQ2dPBdD5IgdGob7r913Dhsg~~",
     "showTopPosition": false,
     "skills": [
-        "IDC机房运维",
         "通信相关专业",
+        "电工证、制冷证、数据中心运维值班、IDC",
         "电子/电气/自动化相关专业",
         "运维经验",
-        "电工证、制冷证、数据中心运维值班、IDC"
+        "IDC机房运维"
     ],
     "welfareList": [
         "餐补",

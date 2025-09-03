@@ -4,7 +4,7 @@
     "areaDistrict": "洪山区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250822/607f1f3d68754fd01eb6b91847477234c0055eee39fc2b43490276c58d0a3bbb93e35d82bdd23164_s.png.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250901/607f1f3d68754fd0c5c3a8c4edd3f824da83cc51ae33fc89490276c58d0a3bbb93e35d82bdd23164_s.png.webp",
     "bossCert": 3,
     "bossName": "刘女士",
     "bossOnline": false,
@@ -22,7 +22,7 @@
     "encryptBossId": "dbabc586abb8159f1n1-3N-0E1A~",
     "encryptBrandId": "c59d9f2c3e9de71a0nV_3Nm1Fw~~",
     "encryptJobId": "7dec2aca1da8419003Jz09i0E1pV",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.513655,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 65,
+    "itemId": 5,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TkuuMYEVTi.search.65",
+    "lid": "85hWTIi9An6.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K·13薪",
-    "securityId": "IFDNMEmDqg7TX-p13QVr0sjTfnmbnDQCs9HViwc4EhXHBNmXUuRwQNKKWer5AXuXzRwVnV3BhQ9UgSKiVYP-B9NMYb_OFlRMOllaRLPBxf_I4ULxhwCRoid55BBr0-GBaCNZpFjf56Zp",
+    "securityId": "voEAtuyVy5_wN-01nRUiS53rNHhRZPNLBcK7ZMpLWZWJpgSNI2k4wMWPwv4u0lmFLTz841ctUw75hldAvVf3ChaBuy2yLNEYqESuBRS07BDvU3LKtUInsfOl479uX_hIjR4p-bfT7lu0",
     "showTopPosition": false,
     "skills": [
         "系统运维"

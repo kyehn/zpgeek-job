@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230317/607f1f3d68754fd02f7455a1b465b629d733014d3a1d2f5a48342e1b4df7de77d09bb9f2278d04d4_s.jpg",
     "bossCert": 3,
     "bossName": "夏女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170606/3117e7f4e5296a58c6698f4474d0c88d42bed8cc8fd453c71aee1ad2e2ce3573.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 73,
+    "itemId": 64,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,26 +43,26 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7QcpZgKYyHO.search.73",
+    "lid": "85Aym6MA5EP.search.64",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "vWyWhjuvCM52a-z1LlFAuEfXIDgnamawAFQcocxlIyWbzslMvADEPeIuErtWdDZJ7r0yD6xEpFsLm6EqYRXat_9XB-hiSfDOVaFRC40eUIiFRQ0ZcYH_eWzL2UNd7hBOnJOKA3z_mNmInsDx1D-P4BWfHFHKV_ezD7xrcvZDSNEb4wM~",
+    "securityId": "VG923Ko3gsmYc-s1pPa_aLUTUdxskAaNOZQ76frUcAMSIFjVlmuG8vEnszK6q58EoBaJLTO-c5PiQnFKZsQS8t1NPpQqTxBLZtnLQqR6nZeZbmliz9mMaHjSuTHli9B2g2CgxsdqfWM~",
     "showTopPosition": false,
     "skills": [
         "ERP",
         "PMP"
     ],
     "welfareList": [
-        "全勤奖",
         "节日福利",
-        "五险一金",
         "绩效奖金",
-        "带薪年假",
-        "餐补",
+        "交通补助",
+        "五险一金",
         "通讯补贴",
-        "交通补助"
+        "餐补",
+        "带薪年假",
+        "全勤奖"
     ]
 }

@@ -22,7 +22,7 @@
     "encryptBossId": "133a96b2884c0c1b0nB-0tS4EVdU",
     "encryptBrandId": "74eb8535283a46d61nV63N27GFI~",
     "encryptJobId": "cfc50d8d2607358c1Hxy09-1FlBR",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.371136,
@@ -32,35 +32,38 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 75,
+    "itemId": 16,
     "jobDegree": "大专",
-    "jobExperience": "1-3年",
+    "jobExperience": "经验不限",
     "jobLabels": [
-        "1-3年",
+        "经验不限",
         "大专"
     ],
     "jobName": "医疗软件实施工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8oFkYT0tfnv.search.75",
+    "lid": "85lmpiIEAMR.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-6K",
-    "securityId": "aEQ8qR83ynBrj-P169PIznXGEVsLJ7x3FChEbEsFQn5zm_AdI6n4rUR0vL25Jh8_QLdLEyrG__ZVx81wGvU9rwhL_Zsb5wpqLptd8tB2btJLA9VTMrsUYC6xTfIL4T5EMT7R7wAv1XBZn5E~",
+    "salaryDesc": "5-7K",
+    "securityId": "AkqctpDlIjE0c-y1wlze6xSLzNxMe8QghsQWw_AEkv2LDt6nPBndFV-fwRuRbmbjIzRV3F-9dIWkoqlmbn9FCvLw2_K1aZcdaww93yWoYPpbPwLaDkANC-d4iURWSzzRCyLDsGEBwxXakII~",
     "showTopPosition": false,
     "skills": [
+        "五险一金",
         "his",
         "医疗软件/康复科",
-        "医院"
+        "可适应出差"
     ],
     "welfareList": [
-        "五险一金",
+        "节日福利",
         "员工旅游",
-        "住房补贴",
+        "股票期权",
+        "生日福利",
+        "五险一金",
         "年终奖",
-        "股票期权"
+        "住房补贴"
     ]
 }

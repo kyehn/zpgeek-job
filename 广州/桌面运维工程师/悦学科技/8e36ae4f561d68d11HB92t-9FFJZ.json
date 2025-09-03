@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_11.png",
     "bossCert": 3,
     "bossName": "曹女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事行政专员",
     "brandIndustry": "通信/网络设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231012/7bf6f160950405e9cb6b985ba297fe32638f930f8a58926025b06c083ba4bfa793660fa46f5f1d2a.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "8177f1bde9d24c5a0Xd839S_GFtW",
     "encryptBrandId": "43e5335c5facda351XB63du_EVM~",
     "encryptJobId": "8e36ae4f561d68d11HB92t-9FFJZ",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.162826,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 46,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1d5cKjh9SsP.search.74",
+    "lid": "85r9mU9zV0j.search.46",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-6K",
-    "securityId": "xhtBgko2hubpj-Q1dqfdyV78vEoJ4S6RNBjVCzMoB2PYOECVX8shT98VrSPogWzbKLiFiZaKHXTBEumw6bP8aW6C_TWICleuLrl4m-jhgUI8qH1NY9Dg1Q_jI4IGy4fSOoI1irv7Mw4rKLLj64lVDruns2X2cfNWLepRti1fgOaVF8V-0sY~",
+    "securityId": "dCsUxNiEDw1aS-F1F4MhjJMHrvHubr3vbQJdkAiGSrqV_zLcWawBVQ6pL9Y0owS3TtyQ64Pg61CILi4ba1A9qqFzRZ_k5lzjR1UQPmXClxZa3htI-rVhmjIT9vshwD0QiaMFWFxH3H2p6NI~",
     "showTopPosition": false,
     "skills": [
         "桌面运维"

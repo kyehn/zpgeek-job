@@ -4,9 +4,9 @@
     "areaDistrict": "",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250512/607f1f3d68754fd0baf5910bd7883c62dc82bfc2f7028b0a196cb82cdcdccf8b80b4c89ee2fbb3e1_s.jpg.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250805/607f1f3d68754fd0b736d0e08eb7a4ada19b051c74db3eb2196cb82cdcdccf8b80b4c89ee2fbb3e1_s.jpg.webp",
     "bossCert": 3,
-    "bossName": "袁先生",
+    "bossName": "袁龙",
     "bossOnline": false,
     "bossTitle": "人事经理",
     "brandIndustry": "咨询",
@@ -22,7 +22,7 @@
     "encryptBossId": "77c5ef22fc8e3f800HR73dm7EFJQ",
     "encryptBrandId": "b973361b7217223303F-39S1EA~~",
     "encryptJobId": "94afdbd45aa70e4503B72NW7GVFV",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.629762,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100601,
     "isShield": 0,
-    "itemId": 82,
+    "itemId": 41,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t4frR45F0e.search.82",
+    "lid": "85dYdePdsS4.search.41",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "I0IqpfU2GLeYX-V1CzRRMT6E6v-2ddnTKxCc8AgGqSZsr1yPuWP4J9-CtoTSDgR2PUspL9YcDsfHUJk3j9wqYKYtY9U6BG_3l0WpkdO88ah9CZ5d7CGiDUtEvluMqqK2UyNIPgl1rVw17g~~",
+    "securityId": "756WlWZ7kzNmN-911ss4oDr-LTYRItech2xoCMC0jk2bAK6UUpceikP2WuFtjyTZ2iEo4KzwwamVg5xJPfNntL93XuyCwInPxb465eUHGuB4UjEPZrTULddQrgADlZ7_FstL8uzC-6Fj6w~~",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [
-        "五险一金",
-        "全勤奖",
+        "节日福利",
+        "零食下午茶",
+        "团建聚餐",
         "员工旅游",
-        "零食下午茶"
+        "五险一金",
+        "全勤奖"
     ]
 }

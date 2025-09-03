@@ -22,7 +22,7 @@
     "encryptBossId": "68625863ec5e05830nd42tS6EVNU",
     "encryptBrandId": "75e4fa07c3b81e531nN43ti-FFM~",
     "encryptJobId": "255d097eb962ae211H163tm7FFJZ",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.533792,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 57,
+    "itemId": 56,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8sZELDnKVzh.search.57",
+    "lid": "85eWF7skUOe.search.56",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K",
-    "securityId": "hsHH0qFbmUexz-W1mCuZBaITwmHVKCrB3cnGZVu6iH5jnMxZtNIMxI5m6qC6f-8SaMHpfsn3OdWKsG6WcYs3H87s42gq6A62zKTHVbUUQimJ7XVY6QZXZaQn84m5JaEbALzL45BwKF7QNxI~",
+    "securityId": "V9t9e9mKzY6Rh-F1xishs2sxlKVG-h5ZOVfN09iGZmpsoCuYu0CPib1gC2p09zoSDXNfDTwngN2967ZF5UhWgoeqdJyEhbtwfi92OUa2JSmvnIbhz7R45385w3ECfODa5JdumlwSkPLhmkM~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
@@ -61,12 +61,11 @@
         "可适应出差"
     ],
     "welfareList": [
-        "五险一金",
-        "节日福利",
-        "交通补助",
-        "年终奖",
+        "带薪年假",
         "餐补",
-        "全勤奖",
-        "带薪年假"
+        "年终奖",
+        "交通补助",
+        "意外险",
+        "五险一金"
     ]
 }

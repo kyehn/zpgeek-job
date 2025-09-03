@@ -22,7 +22,7 @@
     "encryptBossId": "ac5ed81918ee238d1Hx_3t60FlU~",
     "encryptBrandId": "cc65fecd9ba2d2651Xd93Nq8",
     "encryptJobId": "ec5664a7be4fee3203d909q1EldV",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.530374,
@@ -32,30 +32,30 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 14,
     "jobDegree": "本科",
-    "jobExperience": "1-3年",
+    "jobExperience": "经验不限",
     "jobLabels": [
-        "1-3年",
+        "经验不限",
         "本科"
     ],
     "jobName": "软件实施工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1d11FkYTw3Q.search.2",
+    "lid": "85pHeWZccjc.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K",
-    "securityId": "pBx67fFZ1Bl06-w1k_lQ0z2c4BkgViFyPwm_iy1mmEf3MPzl9-ilSRRtu4TP0SMJckc1XUw7wqBN6rFqbLSQF5WtJ8M4b8WC8499aA1DOiAVp8QfGrAyWsR6cQhhcbtGCBU65PVpPk4~",
+    "salaryDesc": "6-9K",
+    "securityId": "kXAOmWnulUai_-g1mLyRodYrmqsDZskHZPMqeloKOmqHlG18RVW94rR-1iHolYimoGxlV2CSG9gRhKafL15lvsCFamBkEyM8kTV_lphXF1s_synCwkGZ6TnAwlamFyuEug72It0aJzM~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
+        "双休基本不出差",
         "财务相关专业",
-        "业财收支",
-        "双休基本不出差"
+        "业财收支"
     ],
     "welfareList": [
         "补充医疗保险",

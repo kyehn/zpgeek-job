@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170401/e99de6725fb1de6b7dcdb06b1dcab0058c7dd922ad47494fc02c388e12c00eac_s.jpg",
     "bossCert": 3,
     "bossName": "俞曙光",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "CEO",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "660e28b2e8f8d0e11nd52di-Flc~",
     "encryptBrandId": "d3f9967fe5194a521H182Ny_GVY~",
     "encryptJobId": "dbc13deae58ecc1303d62tS_GFFW",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.455082,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 26,
+    "itemId": 4,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8mbwfpjBQqw.search.26",
+    "lid": "85jozWlh27o.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-6K",
-    "securityId": "7m4BdaQjQ9BxG-n1aB9dpe4_vaT3pczyQoyLPXsMI57Qhs8Dby0PLaItJ-mr-AmjJbtSmN_3WqbxnKkUjQw5dbm6tG-h02I_VZxvxUEp8_R20HpbUbhWsmWwD2HOsZHZX3-PM24OKWtJ77qpB1OM-WOpGgDUYuZeD2S3CsEnwuH7jHzyUA~~",
+    "securityId": "jHkx9UBETJsaU-n1d4mzgYKYREZqV7FboRE7wvVZwtSS7jaTwtwzI4vQgntiOVUHDUGDDj2mVED0O4AhOCzIYOPa_t6Xjdz2cRGacAL5_uQwbc0c8MxHZroUyjriXTLtL0AhB9ZTiG3M4A~~",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
+        "自动化测试经验",
+        "测试工作经验",
         "自动化测试",
         "压力测试",
         "MySQL",
-        "计算机相关专业",
-        "测试工作经验",
-        "自动化测试经验"
+        "功能测试",
+        "计算机相关专业"
     ],
     "welfareList": []
 }

@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "青羊区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "曾富强",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240826/7bf6f160950405e9336843dc05299ae9a100bf70219919a1005e508f3354af89b1ce14a1059e7b5e.png.webp",
+    "brandName": "移柯通信",
+    "brandScaleName": "100-499人",
+    "brandStageName": "已上市",
+    "businessDistrict": "天府广场",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "326b210242c3c68a1HR-39i1E1A~",
+    "encryptBrandId": "053d5b69ce143a681XRz2di5FA~~",
+    "encryptJobId": "cab0892765c40fea03Jz29q7FlFV",
+    "expectId": 1334030427,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.653525,
+        "longitude": 104.059147
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 62,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "85hs3NwfZhR.search.62",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "MWGXRgnleDn5u-g1ENXyVdq1odonLW6MUUId8rUnK1pe3CtiGpRgfc5-ym4v32MFbT0gkXS64uvq8PPKb4Uf90UrmOSalKK59mI5FKcda5_8ptWEcV_eimWaDbiXwzWBTQMQW2MWEyVl",
+    "showTopPosition": false,
+    "skills": [
+        "通信相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

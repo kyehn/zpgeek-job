@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 53,
+    "itemId": 82,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,30 +43,29 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4JKTtioMLrJ.search.53",
+    "lid": "85xEbs27CVU.search.82",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "YOIf1X4Y6NgoG-H1FkUfFo-CXxiCkotqtAOitn7Ys6pkGdJJsdxVtxWmYi4kSEWMT7QmDRmxtUPYkXoFglB_fuz6EMDfsCiT8_Os4WLT8zzDu8dkjz7ozccxCAdf1Ea5KfI7vJ2CS9cVqs4~",
+    "securityId": "w1dg3XennEM6S-y1EMVTyokb-qybDHftDopIl8Qj6JEGUJdKrToeBKUkoek2JHeGXDuvmsQk8mafvSHBBt2Bo2rIPMzboKu1zhtJ-XR4G5QoUlKENRX1bS64BwCOmdpXl6M3mwggY1aFyxg~",
     "showTopPosition": false,
     "skills": [
         "软件工程师",
         "python"
     ],
     "welfareList": [
-        "节日福利",
-        "住房补贴",
         "年终奖",
         "提供公租房",
+        "五险一金",
+        "餐补",
         "员工旅游",
         "通讯补贴",
-        "加班补助",
-        "餐补",
-        "带薪年假",
+        "节日福利",
         "保底工资",
         "海淀入学资格",
-        "五险一金"
+        "带薪年假",
+        "加班补助"
     ]
 }

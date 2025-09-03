@@ -22,17 +22,17 @@
     "encryptBossId": "0c9a55e0360c32d21nR939y4GVZU",
     "encryptBrandId": "629fbec0399dd1f30HZy39u-Fg~~",
     "encryptJobId": "36902edff7bf1efa1H1z2t-1EFZV",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
-        "latitude": 23.126764,
-        "longitude": 113.254295
+        "latitude": 23.126607,
+        "longitude": 113.254359
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 73,
+    "itemId": 83,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4Qi6rSHzDpg.search.73",
+    "lid": "85t8D16sApt.search.83",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K",
-    "securityId": "UTo57LdZr7od8-Z1C3zq59oO4t9WtzELxzM185YXlwikuVMf0RvH66WtBMxQhEEauaH06PbDjhNlE-XUSUfV0787ZZ6U9xZgS-AxhcV1QhAHIQ_GF8FW1K3UZlWZ1u8u_JfQrG8Zmcbgeg~~",
+    "salaryDesc": "6-11K",
+    "securityId": "PAv2BX27R80Ws-v1hKEQwHvO4FH2thPPkrbdTHC9HMDLjWzTj6KsZyX7BaY5juYg-Yu1wiT03OoqcDex_OP-0yWdGZwO1GqqEQd7ztwlpLQiydPuZ0T3kwy0KGGzPFsUpk_CAMrxIlX5yw~~",
     "showTopPosition": false,
     "skills": [
         "Nginx",

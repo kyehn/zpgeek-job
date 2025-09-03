@@ -22,7 +22,7 @@
     "encryptBossId": "d9b1962d663676521XN93Nq0GFI~",
     "encryptBrandId": "807f53d4a63cd6420HZy29i_FA~~",
     "encryptJobId": "061b6b4dd8792bc81HN63dy9FVNX",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.447588,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 80,
+    "itemId": 64,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cOhhDxpzoo.search.80",
+    "lid": "85lmpiIEAMR.search.64",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K·13薪",
-    "securityId": "mUgyvOH3DAaon-i1jux8IqcE5KnCQxvmm4l4pmYIA3fKUdyJi8bVCgLDX6skEX8riv4BPmuA-q1DhI9vKVH7In6G99Ukc-VmVouPr-FYlWlI7CWQumElFtTtlIvEZ3kEcgUhobgl8yo-",
+    "securityId": "IJVG6jGYbhSI3-J1Ve0pcecNjwiATR2o4pfzbWwPHH0AKu8dkTe39iFmvIR3GUyaPRJvyZxWkvTk644xHeFh9QK7d9ul4KEPPMIl4F5pY70HKg9LeI6EINzzem1kWiLODewNLy2BV0Qc",
     "showTopPosition": false,
     "skills": [
-        "项目实施",
         "系统集成",
-        "技术支持"
+        "技术支持",
+        "项目实施"
     ],
     "welfareList": [
         "五险一金",

@@ -22,7 +22,7 @@
     "encryptBossId": "12b6e0db1918dbb40nB90t27EFs~",
     "encryptBrandId": "7086632e949dc8e80HB-0tS9EA~~",
     "encryptJobId": "627a310ed26cd3051n1-2ti_FVpS",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.53912,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 5,
+    "itemId": 8,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t3dr2SjdDO.search.5",
+    "lid": "85eqXZAzOIC.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K·13薪",
-    "securityId": "llzztVwboRNiB-81Sg1fNlyulBY6hzglA48kdu_CyIjq-59XHgkxtGXfw9pg-nQPpsVyKp_VaD-VJOup-1uGYIPg8f1QhZ4_xPkSXqSKf89OrB7Rxa4FjtUAIXgPHjxiWE5fiNVgg_hJ",
+    "securityId": "Wjge1GOfPc1O1-P1NSzDpAAwT3mC1v2oLSaz1qs-Z_qw7Lox085fMEMAGRCbuPvu4M5eyPCFoOiD9Tpi4GpMuKrykXmrdo7CwmepHsufHKMcCmT_i9qQnGbkAZdJl3vgQZpa1lClUZoJ",
     "showTopPosition": false,
     "skills": [
         "软件测试",
@@ -58,17 +58,16 @@
         "自动化测试"
     ],
     "welfareList": [
-        "项目奖",
-        "年终奖",
-        "法定节假日三薪",
-        "五险一金",
-        "股票期权",
-        "生日福利",
-        "定期体检",
-        "带薪年假",
-        "加班补助",
         "员工旅游",
+        "法定节假日三薪",
         "节日福利",
-        "夜班补助"
+        "生日福利",
+        "五险一金",
+        "定期体检",
+        "夜班补助",
+        "年终奖",
+        "带薪年假",
+        "股票期权",
+        "加班补助"
     ]
 }

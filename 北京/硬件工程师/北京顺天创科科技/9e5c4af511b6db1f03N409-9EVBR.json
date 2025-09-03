@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180417/acef251ffd09a7b2069684eacc8e3bdbfd9fb78d7c125d59a0c1daff2c85b093_s.jpg",
+    "bossCert": 3,
+    "bossName": "严先生",
+    "bossOnline": false,
+    "bossTitle": "公司负责人",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241028/7bf6f160950405e96b8ab7d0896d8e140f6d1d128cdb4c7afd9fb78d7c125d59a0c1daff2c85b093.png.webp",
+    "brandName": "北京顺天创科科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "常营",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b5eb9c17278d6ec51XJ429m4FVI~",
+    "encryptBrandId": "d8f8b882671dd0121HNy29m8Fls~",
+    "encryptJobId": "9e5c4af511b6db1f03N409-9EVBR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.965738,
+        "longitude": 116.56031
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 46,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "硬件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "85z2Tj4jSOH.search.46",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "NKs3kOmatdeHH--17l1WVjC-VCVLIzlcU8GzFd3l84ST4keqZu-ZT30XvDomSlqi52ozd0AncuZaHKnXZKegTR99O5V2vxq1O_4gUQqLuPPi7DsefJ8LfMwWJy_tDKsnZmxDKdcPhxRtww~~",
+    "showTopPosition": false,
+    "skills": [
+        "通信相关专业",
+        "硬件开发经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "底薪加提成"
+    ]
+}

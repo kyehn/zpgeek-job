@@ -22,7 +22,7 @@
     "encryptBossId": "524cd0dcbdbda5221X183d-5F1A~",
     "encryptBrandId": "7e9602d1e778a2ab1HF92w~~",
     "encryptJobId": "74c0b0cfeadada7103d90ty8F1ZS",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.529021,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100007,
     "isShield": 0,
-    "itemId": 62,
+    "itemId": 65,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,15 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3PEuN3UGmLh.search.62",
+    "lid": "85mj9iH9PjS.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-7K",
-    "securityId": "wZpBoX_B5YKs7-m1vlzJYB4qp_MAk_EWlAMc5ugBUHzezgQ9AxeJuy9knBEdhVqbEiONQjMRh-6FBDKyiWjsJXeydFHJPvNzhUWtwhRAT6bIATT_J1QAj_hV9PbON03OLjaDioj3",
+    "securityId": "JdsAiJKrRGqlV-Z1Bc0aAVxZhGgGbLl-YXan2GiD15LtnkzHyEVjrbd3E5szgO84WBCcPmu_uMs8lDWPzkPwbk5MH4N2zHvMarPqQ87dpECg1vASQstatpIG_H9ai5agihqMxFbV",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "桌面运维"
+    ],
     "welfareList": [
         "带薪年假",
         "餐补",

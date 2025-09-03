@@ -22,7 +22,7 @@
     "encryptBossId": "736ca80d442d45b71XV-29S0E1Y~",
     "encryptBrandId": "6f04a765e7bd0d960HZz2t27FA~~",
     "encryptJobId": "581efb936948d93c03R50tq-FVFX",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.586965,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100103,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 21,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fQJKCwl0Zs.search.74",
+    "lid": "85lNtMSjUHO.search.21",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "tUNqcmYssJzUB-H126VVRxy_rvoQThoG-3WFxK2bGfEs3Twxw6fS3FAfig8py5IIMWKSu-pB_EO-7zQmEbbthZumpezi0Cb2q4Q83dlxV8RnB0QVi-_rhZV-GpGPLv-kJoNkxdEppLpO",
+    "securityId": "pKKdR80mqz5Qc-31RwTqaoXWSaBdN7xbUV_Qv3NJfJ3TQI7uWDpzq0dOIgqB828GzMas7Q7KVApTBf36QEBfrFdonQWbTzGLGakLF4zVcSS9JK-z-qcJUI3mPyqqMwPrGBHQgEg9N_Gq",
     "showTopPosition": false,
     "skills": [
         ".NET",

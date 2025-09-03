@@ -22,7 +22,7 @@
     "encryptBossId": "b28b98742a588ac90nB73NS0F1Y~",
     "encryptBrandId": "98a5552747b54e4f1XR-3dq1GFI~",
     "encryptJobId": "63b4f6294b674b161XVz3tm_FlpW",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.136129,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 26,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cV3g8xeL3r.search.13",
+    "lid": "85t8D16sApt.search.26",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "gr_JHjsyPo3l9-T1kRMlSVCXtIfBMaGeMftaRHPyyyelU4DEwwyVgROiFQSHy0HJecIqQl_okQCPdDsnIiICFiIr31GOBTK4tP-IVLZBbltNUaKCMbDT-NkpOCAI1KYJEdE1MWQBkjvtSQ~~",
+    "securityId": "VAYR5Nbd-Lypf-z1NZfYscfkYikJ0uvU5gwfujMPrKvXV5jh5bAY_iMD1IsTHq-MEuAcFPlgyQgpXTUSr5BlGzDt8CwLd_-f1eehzfdSJmLGMbTOzU4uSCaeAb5SeZzKZSZVHctYxJN46g~~",
     "showTopPosition": false,
     "skills": [
         "Docker",

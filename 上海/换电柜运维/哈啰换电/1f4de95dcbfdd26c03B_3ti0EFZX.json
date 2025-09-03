@@ -4,7 +4,7 @@
     "areaDistrict": "闵行区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250513/607f1f3d68754fd03b9708e9904218b576edad9f4adfb9d3c1c5fccbd7d189f3ecfe9c92c527509a_s.jpg.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250818/607f1f3d68754fd099b825ad452518cbc1ee60536a38ceb2c1c5fccbd7d189f3ecfe9c92c527509a_s.jpg.webp",
     "bossCert": 3,
     "bossName": "赖伟",
     "bossOnline": false,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 41,
+    "itemId": 50,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cKj44rRebi.search.41",
+    "lid": "85By20SBxYW.search.50",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "E3ZlXsQiDPRAQ-b1HycOLRCuazvb7JRJtFv9ejxdV9O5NFh64T1hreNfYB_ldN6twLUtMhOCjqkgu6EMj1Sq7FfCOZuG7LPH3Pe5dVOb9gy_RQlNAyL-RBRbu5inaqv0x0NDoJch5RwOrQ~~",
+    "securityId": "uCFzzZ47mWeNe-p1gs4RImlbVciQzZXVws0vrtDEpp2R5MIIUjFFqaubPwMokEGPeAjI4gjmuasfYZ82lSz-YBMWxtz7LZTMa80K72dxGROdgyMbhYyYy9OwBULg8jmolUWS_LgtSpzUUg~~",
     "showTopPosition": false,
     "skills": [
-        "小哈换电",
+        "巡检",
         "换电柜",
-        "巡检"
+        "小哈换电",
+        "快递物流"
     ],
     "welfareList": [
         "五险一金",

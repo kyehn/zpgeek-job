@@ -22,7 +22,7 @@
     "encryptBossId": "656780b0018f33260nV809q5GFVS",
     "encryptBrandId": "9a8a662f5432d38b0nF62d20",
     "encryptJobId": "383e2a5c4e99d80803B929S8GFtQ",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.540735,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 41,
+    "itemId": 74,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MghQmqATFx.search.41",
+    "lid": "85nfjR0ww5j.search.74",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "6ImX-1-ueBWvR-11tcB3KQ9RdUOJkDLAS-KjUKPI4DG6G9kzhqRUfTH7yGbI9ScGIRZMhXYAe8s5manL6O-J9PQ-PF6SZ-VzfY1XkkrTHdjKyTK8mLiRDo69sSiOuFT8QDbe9Gru2M1o",
+    "securityId": "lWBsiN23nlu07-B1WJCdqdKHghmP_1NDPMKGLkeHa6d3WQ_zW7VXQB8qcWd4atCKQJlHqtWfyrYTKqn2AhN_--EQEnW3TQTsC_vARaO1KhqObVZptqGtI09MwBXLzklu5vS2NYBGfauh",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "Spring",
+        "不接受居家办公",
         "MySQL",
         "架构设计经验",
-        "不接受居家办公"
+        "Spring"
     ],
     "welfareList": [
         "员工旅游",

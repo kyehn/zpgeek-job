@@ -22,7 +22,7 @@
     "encryptBossId": "3c09461e96df28de03Jy0tS7GVM~",
     "encryptBrandId": "07f463f1c9baa1ab1Xx-3Ni9Fw~~",
     "encryptJobId": "d2aba5cdefa241f91HN_0tS4EFo~",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.595081,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 60,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t2GutrGAvV.search.11",
+    "lid": "85fst5hanMP.search.60",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "84fZBUQQw53hZ-c1Ihc8xQTEn1EhBlb-do4ZBCl4zK5z4QwX7pfVhDOFhYHeLf3Eq6U333b-fC6gvtxhXiZwVCdSCcvvT5om7sEkqH4cTPWm0sLHWUIUelHiwEu7c498BUXBjnGASy4~",
+    "securityId": "Iq3ycorRfQpKN-G1czwAtzAiMapMgJTQCaVx_2d3zJ9k_rl-jJkM6Oy9Jsg1xMwEOcVXC8TIHhnIu6lWrM5FNcYUjPUPzjDkrRqDOvxDEkPyFKkQK7xHD2TXx4FdfSzn9ZNeYkbYK-A~",
     "showTopPosition": false,
     "skills": [
         "PostgreSQL",

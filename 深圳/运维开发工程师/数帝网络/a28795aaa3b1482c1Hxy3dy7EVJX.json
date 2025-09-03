@@ -22,7 +22,7 @@
     "encryptBossId": "146060af1c66c55b1Xxy29q6EFM~",
     "encryptBrandId": "6ef0848c140d563e0XV609W1",
     "encryptJobId": "a28795aaa3b1482c1Hxy3dy7EVJX",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.640107,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 5,
+    "itemId": 4,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "10WNi5hGTDH.search.5",
+    "lid": "85oeAGmOgLb.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "9aVUIQWxHzC9_-Q1VK83CWHQBfV5e9X_5zb_3yQQPhYbGIcZO7LQyY_6iOj4aP9UvgA1kKn_vvC0T8RGfF1BjGnp1KDsoa-SuTVBZzXCckmSpqqRJvgK_-KEpla4sgYvwVH6uvhxEFQ~",
+    "securityId": "dMCggMyFB6wiL-G1zntErGJN0p1b0Rj687SQhmbnXpLQo-9KC63jpPUrd93Ip7h8QhtyTYjkhhchfd-s0w-1AmoOCeD1ziJkD_iYf-imXcfgJKQ6DaQrAU6Qh5Y3L3QmjZN5ndDd3DI~",
     "showTopPosition": false,
     "skills": [
         "Ansible/Salt/Puppet",

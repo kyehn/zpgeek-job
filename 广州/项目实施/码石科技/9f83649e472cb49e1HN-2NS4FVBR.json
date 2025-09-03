@@ -22,7 +22,7 @@
     "encryptBossId": "20accae0ab3ca7b11nZ6296-FFI~",
     "encryptBrandId": "ae1e4dde2b1570c71nd729i7EQ~~",
     "encryptJobId": "9f83649e472cb49e1HN-2NS4FVBR",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.749885,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 36,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1d279ZBKVFn.search.35",
+    "lid": "85uCZGRbIOK.search.36",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "Pgpu721o7EvCk-q1as10IO8hpkpQh2DQ4oJcReDS6NWM4fjWnfaFhs9lBYIFgE_l9iVQ_ffPvVM1EFJKkrPL69le1DLSjUT2Khl7rS1Svzg5PL3D14Q9EjFCqAVS2iCx4x_YN60XgQof",
+    "securityId": "Ry_GzqMvnHraw-x1eiNN3bKuSzLHpcmbVCk933VeT69FOLBbJA74RJ9vHqM4qA6MTITN5quhH_Xrj7SxjKF5eRRabgS3QPqoahsY8VbsDrKzbmS52nYpxNV6gYMan3imd1mxL-_InAr5",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业",
-        "可适应出差",
-        "物联网"
+        "物联网",
+        "可适应出差"
     ],
     "welfareList": [
         "节日福利",

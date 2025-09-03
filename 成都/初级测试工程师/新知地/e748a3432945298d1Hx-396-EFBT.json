@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "锦江区",
+    "areaDistrict": "武侯区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_16.png",
@@ -14,7 +14,7 @@
     "brandName": "新知地",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "河滨路",
+    "businessDistrict": "双楠",
     "city": 101270100,
     "cityName": "成都",
     "contact": false,
@@ -22,17 +22,17 @@
     "encryptBossId": "d02bdf1c7b36bd8c0nJz09u_GFo~",
     "encryptBrandId": "a50f69d20ba4af8e1ndz3d-6FVY~",
     "encryptJobId": "e748a3432945298d1Hx-396-EFBT",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.624841,
-        "longitude": 104.088607
+        "latitude": 30.633997,
+        "longitude": 103.977298
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 75,
+    "itemId": 55,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t3dr2SjdDO.search.75",
+    "lid": "85eqXZAzOIC.search.55",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "3-5K",
-    "securityId": "-pPjB89Pe7JnG-H1KhrVG5VJI87XDO2gNJEox57wjW6ET_qQcsrnnhV9qVTYwI5IkA6eulju66mRIiwRChw6AVgTgPFCZNZd-l9eaiiFlh3eN-_eW3MA9-nUWxgSJPacJh1j2CBmlHHN1A~~",
+    "salaryDesc": "4-5K",
+    "securityId": "3aRES2RlwBfWJ-N13uouYGBohLhUxsspZIBoCTn3aiFcx0NBsPtTlwt3elaWMPT2iv1i6OzH0Da4c1G3ySP1HUNimuSWjQbb6dHswO2ejSsF1DGjrSnEZC-vaMvcgRAVNuvr9J7LMLNfcw~~",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
+        "自动化测试",
         "性能测试",
-        "自动化测试"
+        "功能测试"
     ],
     "welfareList": []
 }

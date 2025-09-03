@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240221/607f1f3d68754fd0bcab066a9189dc375c3ea293bd5a94e41ced21cf05cc278b7f35d4b24cd11a49_s.jpg.webp",
     "bossCert": 3,
     "bossName": "谢女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "通信/网络设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210317/b06ba5ebbb6e4e8c245f52a4e36236e9d9f84593086dd74a1d082817d0433dec_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "bd0b2a3614aaec8d0HZ_3N26EA~~",
     "encryptBrandId": "b1d147f566eb271a0X1y3N25EQ~~",
     "encryptJobId": "7d0f66af0ca47c6b1Hd93Ny7FlFW",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.489537,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 51,
+    "itemId": 75,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,23 +43,22 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5eH9PJfK5JE.search.51",
+    "lid": "85iUkLsOwla.search.75",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K·14薪",
-    "securityId": "0NGtwzeJryP2b-A1qt6uS1uOHKiKGYOWyWKrORRuEFEjKwRtXxoAKI75ryTzWz4s_F3yut9vEIA50Q1Ek6GP7ofFlTfq_G1ktA4-5dFtVgqjZm8WH-f5WQUkK57d-4n_yHjrx1_KC6cg-AiOrlV2mtqi8no-QUqHygOI8WHB67RrkZQ~",
+    "securityId": "VOF1npeoMHieM-W10Q_Pb0xVe3P4XR6bfrtZ2VuJb7mSMgnABTAlWX4ADYjKn1GnzVl6_75Rbu70MFOSWQM2EvbnYhc6p4oL3RCI4Su8f8bgJaLdzpLfjRLCiOj9z9J5TBVarxh-hvc~",
     "showTopPosition": false,
     "skills": [
         "软件测试"
     ],
     "welfareList": [
-        "定期体检",
-        "五险一金",
+        "股票期权",
+        "带薪年假",
         "年终奖",
         "节日福利",
-        "带薪年假",
-        "股票期权"
+        "五险一金"
     ]
 }

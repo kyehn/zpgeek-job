@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "朝阳区",
+    "areaDistrict": "西城区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230219/607f1f3d68754fd0338bc314469eeb601e5a5dea50daca80f69f3b67f6b269438343759370735280_s.png",
@@ -14,7 +14,7 @@
     "brandName": "法本信息",
     "brandScaleName": "1000-9999人",
     "brandStageName": "已上市",
-    "businessDistrict": "朝外",
+    "businessDistrict": "西直门",
     "city": 101010100,
     "cityName": "北京",
     "contact": false,
@@ -25,8 +25,8 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 39.916071,
-        "longitude": 116.459624
+        "latitude": 39.919309,
+        "longitude": 116.359076
     },
     "iconFlagList": [],
     "iconWord": "",
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3kULC2HNf1X.search.13",
+    "lid": "85Aym6MA5EP.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-10K",
-    "securityId": "ZeQasRjrNQ_Vh-g1_kppsMSWiqkVp4_Q17HaSr7s48DO23waEBFUzpsH7J11Um8a_vyJtXQ2qdkfA_77LxVjunilMJW_C2799Bkpaph-ZYEwsi7SgxvaJd0GmeJn7qQqmLZX8NqAdQ~~",
+    "salaryDesc": "7-12K",
+    "securityId": "MrboMQGYc8J4Z-v1mgXXSiEjAl_KaMjqaiKuCAaQrchCbnpLdHW2o1aSL9qZ9m8lMo1sFqX7pIuf6FEcnN9LGnr2P3n0JLnrnwQ7peSPE40rT_Wn9neZVmSr0Af9_19IEPoVaYsqQQ~~",
     "showTopPosition": false,
     "skills": [
+        "计算机相关专业",
+        "财务相关专业",
         "软件实施经验",
         "ERP",
         "供应链",
-        "财务相关专业",
-        "计算机相关专业",
-        "财务"
+        "财务预算"
     ],
     "welfareList": [
         "免费班车",

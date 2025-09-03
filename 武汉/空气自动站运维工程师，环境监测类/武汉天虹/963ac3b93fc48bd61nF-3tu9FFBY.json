@@ -22,7 +22,7 @@
     "encryptBossId": "04da87d3e8d870ee0Hx62tW8EFc~",
     "encryptBrandId": "6ada0f814c07f03d1HN509W1GA~~",
     "encryptJobId": "963ac3b93fc48bd61nF-3tu9FFBY",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.458547,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100913,
     "isShield": 0,
-    "itemId": 147,
+    "itemId": 74,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,16 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "raGTTxD9k2.search.147",
+    "lid": "85fUKW7MdJn.search.74",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "LYYc7KqABBMxf-q1hvTa1LSMMle9YmO7bxMXAaO_Q-yuAp3Y4weJGTLm1bSReHiZHAnjFAy7nVZXe7Ha4Un90BeQvVpN7pRIizFH1Y9K1Rr2O3OpteFIYfU7lg5l3A-LJJkTBkPaPr86",
+    "securityId": "Ie76KGiEsKDkm-N1Mm_igbhsUJLnHSgzklf0vFLT-K443QJXvEfveNQjE4N_nr-2tOVNrjb4nC1xbp_Keq7PONEy8A1RzlOYqt3KzIMuiS_Ayc1nzwEsI-2oiYMv_V3XzbwmPfOSzSUU",
     "showTopPosition": false,
     "skills": [
-        "环境监测，自动站运营"
+        "环境监测，自动站运营",
+        "空气站运维"
     ],
     "welfareList": [
         "定期体检",

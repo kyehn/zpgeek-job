@@ -22,7 +22,7 @@
     "encryptBossId": "d1b4dd870923ae2a1Hx92d24Fw~~",
     "encryptBrandId": "ce693a3a19c841051XR429W-EVA~",
     "encryptJobId": "4ab779dd29a776b01XN80t24FlFU",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.665131,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 87,
+    "itemId": 53,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cSZKeQ22Iv.search.87",
+    "lid": "85nJyNCVhGg.search.53",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K·13薪",
-    "securityId": "VE2zgA_yXE8lR-B1oa0r3F1mZ_EnE8JMqJstS6wPOOB80r82mG45WOCVTG7bSw13FASLw2IM7SL1Y78wY_W5h2Un1bPhIPOoyXVShtAu35aEFQiwboF9miFOZJQkNBjyyOXGkbVcM2Iy",
+    "securityId": "6vbhcJ92jUkdU-Q19WtUKuK2HdA528MlZB2yAMPzCn_cIc-e-rUOhO8wWbzfcA8qStiQk5yYfmpWQ3E2f4n4lQD77_BR62RcOJMERC5oZvrfrRkiY3nZIZTxOhAv1RcQ4WBiHZQwD3JE",
     "showTopPosition": false,
     "skills": [
         "性能测试",

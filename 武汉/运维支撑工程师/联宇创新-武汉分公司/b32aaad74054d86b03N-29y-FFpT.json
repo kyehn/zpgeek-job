@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江汉区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240827/607f1f3d68754fd0bb2cd120c6cb366e5b01532c7f703854b5bbd48cd456f3c22c3e06ce9e907da0_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "黄女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "联宇创新-武汉分公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "西北湖",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e3e8b2b4d886370433B70t20GFU~",
+    "encryptBrandId": "75a4167ccc772c9e3nRz2Ni9FQ~~",
+    "encryptJobId": "b32aaad74054d86b03N-29y-FFpT",
+    "expectId": 1334030427,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.593961,
+        "longitude": 114.265859
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 31,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维支撑工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "85gVaG2zq3a.search.31",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K·13薪",
+    "securityId": "NqtCM9vy7fUKv-01zm2uPUsHHLJY4PXFKGoWhW9HeGRvjp0c0gF2WnqZ7TU5f1kNCAh-sUxSR9J68uwma76qidfQsvdKhvhuu7Z6Mk-lMHOQlPAvPk8TFV-5vkQVhVHj4rQIwwZjo_ES",
+    "showTopPosition": false,
+    "skills": [
+        "MySQL/Oracle"
+    ],
+    "welfareList": [
+        "五险一金",
+        "生日福利",
+        "带薪年假",
+        "员工旅游"
+    ]
+}

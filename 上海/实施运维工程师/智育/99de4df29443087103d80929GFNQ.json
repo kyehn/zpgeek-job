@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 76,
+    "itemId": 12,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,23 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cKj44rRebi.search.76",
+    "lid": "85By20SBxYW.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K",
-    "securityId": "b8Wl_x1ZGbJG5-Y1aS3qrEt5Zc-g7ovPcSEla_K0Un0KXRlz08pABIn6Xa1Q_ItwLl6lK5oBJP5vs3Mgp5GyNEoGsU2W8CVhwIQz7kjLgkTzelrFAkrrgWX40nCeA8aE0arcMVGHcH6qZEj7-2cbw8Z3_xjsOK0k_aJqwdbgh3seYtpGVwk~",
+    "salaryDesc": "5-8K",
+    "securityId": "IHuoAyG4ja4FQ-E1-rk_RF1t4t4ca5eAI096yVfOXRHKFqfIcaW-AoQIPKnr-Bbqms2Uu7XzzH5q0t4dwvkTywL8v8iQjg9ruVUnSfni1xGgsVFDS4s55vjuOAF_L8jK3_PGgUlkRwEcfGlff3SbTsQljR4W3Tfa6xwlxHUs_oEgo19JjF0~",
     "showTopPosition": false,
     "skills": [
-        "实施交付运维",
         "网络运维",
-        "系统运维",
-        "计算机相关专业",
+        "实施交付运维",
         "通信相关专业",
+        "系统运维",
+        "运维开发经验",
+        "计算机相关专业",
         "电子/电气/自动化相关专业",
-        "运维经验",
-        "运维开发经验"
+        "运维经验"
     ],
     "welfareList": []
 }

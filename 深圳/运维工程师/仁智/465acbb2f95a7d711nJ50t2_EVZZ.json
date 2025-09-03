@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "计算机软件",
-    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191015/4f70073925d4a501f23ac339c869fc152ebb0a6b4865e208fc648104a5ec44bc.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250806/7bf6f160950405e96677502b493ed240768224604bb858f6182abefd5abad03b9ac6ad6168ca7178.png.webp",
     "brandName": "仁智",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
@@ -22,7 +22,7 @@
     "encryptBossId": "ef140eefdb1429c80nd-2tS5FlZT",
     "encryptBrandId": "020ec5f11fcee7a50XZ739m7Ew~~",
     "encryptJobId": "465acbb2f95a7d711nJ50t2_EVZZ",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.563746,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 11,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3PEuN3UGmLh.search.10",
+    "lid": "85mj9iH9PjS.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "l6OMGfi4mLXs3-D1jX6tOuRXfROAPMhB4H_TvvlQ86mav82Dj7uFtGAd4H2_JB34CWf-Pgcy3ob5Awa4yKcYGNLMOLH4vgQ7XqrOZY5X13C9s8DEG90z74BqXUv2L9ujq-CRCmNsw2RgqA~~",
+    "securityId": "_F_VmTuArtNvO-01VTuXj4mz4nRRHSHDLYpxfwznXu1BGZNTk60A2pqeFG5KwzO06ut_wtmlia5fwlYauYt0PrMMXPMR30yzYlnTFZH1k48Lr2zieeFlp-uWlYlkmBOYHcaiFfMIZdXv3Q~~",
     "showTopPosition": false,
     "skills": [
         "软件运维",
@@ -59,9 +59,9 @@
         "Tomcat"
     ],
     "welfareList": [
-        "五险一金",
+        "节日福利",
         "带薪年假",
-        "员工旅游",
-        "节日福利"
+        "绩效奖金",
+        "五险一金"
     ]
 }

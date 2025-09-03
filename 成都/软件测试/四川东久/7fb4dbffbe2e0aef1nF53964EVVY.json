@@ -22,7 +22,7 @@
     "encryptBossId": "454f27c09baa19be0nV42dW-E1E~",
     "encryptBrandId": "de023fb00a0acd840Xdz3t20EA~~",
     "encryptJobId": "7fb4dbffbe2e0aef1nF53964EVVY",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.587403,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 9,
+    "itemId": 16,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t1w189PFfn.search.9",
+    "lid": "85hs3NwfZhR.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K·13薪",
-    "securityId": "auoHU6t9XENir-y1P3Amoco8ZszLi18HU_UqHlWBZT3I07UO6IYTngzvyknp5GCJYkxRH19KmrKHT08NOjoAYZQcxw_7es53G8uwDWHo6plXqVbzeLM28Vz33lukUZrpWM1hpQRb3ZsW",
+    "securityId": "FqiRvE5fVznLc-e18heb-b-_PXoWGj3P9jZvPsY9Mt5upAZmj_ub7VnpNcFWzZSxeLt9BEQx-3urUqfSZ8KMjh_R-Hmr8nxmfeAeIL7d6CaKylWb-KvafD1yGXyubCyKatMR5AvzeMNs",
     "showTopPosition": false,
     "skills": [
         "自动化测试",
@@ -58,13 +58,17 @@
         "SQL Server"
     ],
     "welfareList": [
-        "员工旅游",
-        "定期体检",
+        "意外险",
         "补充医疗保险",
-        "节日福利",
-        "带薪年假",
-        "五险一金",
+        "生日福利",
         "年终奖",
-        "通讯补贴"
+        "定期体检",
+        "带薪年假",
+        "节日福利",
+        "加班补助",
+        "五险一金",
+        "绩效奖金",
+        "通讯补贴",
+        "员工旅游"
     ]
 }

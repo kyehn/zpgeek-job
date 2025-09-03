@@ -22,7 +22,7 @@
     "encryptBossId": "9aefa9addfcc0dca0HFz2Ni7GVE~",
     "encryptBrandId": "fe70a8e1b250bcb61Hx53Nm-FA~~",
     "encryptJobId": "a5820151866ce87b03J-2tS0FlVY",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.673774,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 75,
+    "itemId": 23,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fTttzGQFmO.search.75",
+    "lid": "85nJyNCVhGg.search.23",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "hi1mqrW5Ntr1o-Q150XKbAu_ZE35xZd592Vkd_udy7w6OlyXjzRFc3GarGEZ6EAfyGTCLZhv7XZp79DtVQ0lPc0CEQ1p849ThRyiKYw7ZaX5IjENb5jZ2gq6_gDsfro8hE56B7ReNOqw",
+    "securityId": "146EWWH22UNMc-S1FdR2PLAyHdu4BQVBTt60VxlPse0VQY5-BUFzTYa4ILf-GAZ3B0Yka6mhktVHodNUKCvT9FUthyQM1eOn9L8PePoUm1MG1KOwnX7MZEn9WvfaA30M9bdluvFa4Le1",
     "showTopPosition": false,
     "skills": [
         "性能测试",
@@ -57,7 +57,9 @@
         "功能测试",
         "测试工作经验",
         "软件测试",
-        "摄像头"
+        "摄像头",
+        "通信协议",
+        "安防产品"
     ],
     "welfareList": [
         "节日福利",

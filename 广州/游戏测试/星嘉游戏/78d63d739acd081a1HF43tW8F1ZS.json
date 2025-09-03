@@ -22,7 +22,7 @@
     "encryptBossId": "7293391f33c192070XJ42d-9E1A~",
     "encryptBrandId": "4b57fe5e713df94903F-0tW8Fg~~",
     "encryptJobId": "78d63d739acd081a1HF43tW8F1ZS",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.118224,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 58,
+    "itemId": 46,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,16 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cV3g8xeL3r.search.58",
+    "lid": "85t8D16sApt.search.46",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-9K·13薪",
-    "securityId": "XhlqEv6nDuVe7-E1scAnrhdcTzNbUnnwrtPKRTWb7aAuePBYbUsZOc48dGbwUbmN_RjRlgRGcHk8DeXRgzt_6WYUl59WG4t6QauBkPL71NrtTrKfxq2WjdxhgBKdiIUERJj7FqSrJ9UeFPNpnyfmkn1EFXg21hrlw2L8ecnxJSIH2-iV",
+    "salaryDesc": "8-10K·13薪",
+    "securityId": "iGnO456xGzOvn-r1E7I09xX3QiGMXM-gXKZEG6N722vSqwytJEiu-VWBDsEMCOhB0PFQZkK_f5hLXf6-UAxeu-NO56t_JI7CIgvrhVgEMih2KFQepzn_jJYV4LMB8O3QepCJHjEGJKInVgoBsMURtNWc25xM9aVO7hEYV_RJikUK1wGh",
     "showTopPosition": false,
     "skills": [
-        "卡牌",
-        "模拟经营",
-        "手游测试经验",
-        "SLG"
+        "手游测试经验"
     ],
     "welfareList": [
         "定期体检",

@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "静安区",
+    "areaDistrict": "浦东新区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250314/607f1f3d68754fd0789899e2720d0ac4dd7d3404bc17a598a88f815f666d7538d33f1a4a96aa0bee_s.png.webp",
@@ -14,7 +14,7 @@
     "brandName": "冠松汽车",
     "brandScaleName": "1000-9999人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "彭浦镇",
+    "businessDistrict": "张江",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.28928,
-        "longitude": 121.426857
+        "latitude": 31.218053,
+        "longitude": 121.63149
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100806,
     "isShield": 0,
-    "itemId": 42,
+    "itemId": 28,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9SHQEVBSqGe.search.42",
+    "lid": "85B2THOhhFi.search.28",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "WxUxCSHdAIguM-Q1e6S97NXHHbypX0E9OBsXxdfMZdy7GGxeMIhBQtsV44tuDN6UrCMmdB8qbZb1IyjMMuG7VYnCvmfXKbBYmNekYkOIG_uW2mycn78OTdnOR354WtuDlHvuxxpjuiDx",
+    "securityId": "BQ9oybZ9MEeHp-q1iLzBmqwq6p9eIu6XmvfChFX7GVu5Ud1ObF9BgNUFnB7h_YvxmjLhsUGEh9urPAUouHujkPkKxu1krAddyauvCZ6qEi5Q7RL7cM0GIf2Kr2xxRvXkgcSHox0TsGjn",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 16,
+    "itemId": 64,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cOPJ0GXpIl.search.16",
+    "lid": "85xaDEhk1RE.search.64",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "nZDDDuq7otaBC-J1Et1tb5n9ScdPpsZDfsE45ovDLhXglsSXmdFGBWJJVPSLzR6kXdQ_Lc_xfloRUBgDjeOCDAccDAXOvO-HpTlXSbpOHse0x9_k0k8MK5ifSSsxbRljiqLLtGKn54k~",
+    "securityId": "nvzKXFIty6OJU--1AEVqNZz5-t-T-cmMqPgwZx5RtRarvd5-iZlG4gAk-Zu8tDDWCMhrYvy3VyuuqRlGZwbXV33NbV8UMSvo5LKQuJqmi0ybPhGyA0UtOOiruzu3IvBCIZQj-W9YMqw~",
     "showTopPosition": false,
     "skills": [
         ".NET"

@@ -10,10 +10,10 @@
     "bossOnline": false,
     "bossTitle": "工程一部经理",
     "brandIndustry": "计算机软件",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250730/7bf6f160950405e9782ff5c2f08370a0cbd16aaf0a0de279df0f6ee986721a26098be0f7c7d4a1c7.png.webp",
     "brandName": "北京盈泽",
     "brandScaleName": "100-499人",
-    "brandStageName": "",
+    "brandStageName": "不需要融资",
     "businessDistrict": "小营",
     "city": 101010100,
     "cityName": "北京",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 82,
+    "itemId": 67,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,17 +43,20 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cPQG9ziPWL.search.82",
+    "lid": "85z2Tj4jSOH.search.67",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "znDWRiCN6Pfkf-A1cP7d_MTaE2ddspbCoF2170-i86PvAzo0gTaDYG9OcDSQogWcv7R1dSoXsKKlj95lS9DJ4D7v9codjQRK5YPWtMXKonJ9J_4f8_nKGknefA-mz9-cKU-l8aQ595MF",
+    "securityId": "9uWeYlzY2cJhd-a1xwGoZaJKB0839XFBasLs_8149zfzzwvjkkHx1rK0HH_s6R0-6rv1PMYBqztpgjV7ZOy-wgfx4NCpprber1kO30TpKNs25cVjavbU26Nkpb7aIffsI90OnLdS4jIe",
     "showTopPosition": false,
     "skills": [
         "项目管理",
         "实施"
     ],
-    "welfareList": []
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
 }

@@ -22,7 +22,7 @@
     "encryptBossId": "c03021ca867bd09603R63N-6Flo~",
     "encryptBrandId": "188a69392a10c3ef1nd-0964Ew~~",
     "encryptJobId": "c2d37a384ebcf18f1HZ60tm0Flo~",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.008356,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 24,
+    "itemId": 68,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1d5cKjh9SsP.search.24",
+    "lid": "85r9mU9zV0j.search.68",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "GxzFWGKhCupNQ-J11nAaQnIKZXHoEGJ4Dtwy-VBZkTaNnRr9spboMt5Q2AXbCHxTll3mvPG_E76DKvEHdEm7CouppPKgCv1Y-UwwyXBKDf0lpy2wZWJeAbw9ZxHnnQhHpYPzThXQJQ0~",
+    "securityId": "cRoGne40g9rQp-q1L0_B7z_3z_N2N3Kj4ExDUbcGyOQaQ8Rh5QaRO3e3yxhk64b0ieNmrEyVFG7frMORgwCCVl4rR6WHbXW5SmofAXXFQ_E3tavoRp7E4rerHl-xXQPN9vIPWFScKag~",
     "showTopPosition": false,
     "skills": [
-        "数据库",
+        "网络",
         "系统运维",
-        "网络"
+        "sql"
     ],
     "welfareList": [
         "五险一金",

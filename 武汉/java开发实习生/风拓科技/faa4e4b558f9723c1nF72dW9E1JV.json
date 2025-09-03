@@ -22,7 +22,7 @@
     "encryptBossId": "56bd3e52be99382e03J-3t6_Fw~~",
     "encryptBrandId": "7f5fdb641692cc921nF-2Ni1GFQ~",
     "encryptJobId": "faa4e4b558f9723c1nF72dW9E1JV",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.487854,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 68,
+    "itemId": 78,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,22 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MqXKGzND5F.search.68",
+    "lid": "85iUkLsOwla.search.78",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "2-4K",
-    "securityId": "ep5PeKfoh86YM-j1qD4ohqtudxc_bePVOk-srKfvYtYuquIZ3iYe9kaof-7sNGROOBlJnBXZKJ2uAw4uqqoWtD-ZeGHQuDzSw18n88-xgTu1WvI7wm7HUom4EDp0_yCIuQ8DlQd9zRbz",
+    "salaryDesc": "3-6K·13薪",
+    "securityId": "OXbUDSBkFXH5u-J15m58K7YPNvb2ZvyPMUEO1bSlpZ_jfCpwnZpthkQwXxGK_aYNwXIpp2z72n1HuG5MWMP6pFgLlkfacebp3lVa6KqT7CJkf3dki-egnpVuHIFGduQj28tEJ2R8Tjlm",
     "showTopPosition": false,
     "skills": [
-        "SQL",
-        "HTML",
         "服务器配置",
-        "Spring",
         "Struts",
         "Redis",
-        "Oracle"
+        "HTML",
+        "Spring",
+        "Oracle",
+        "SQL"
     ],
     "welfareList": [
         "加班补助",

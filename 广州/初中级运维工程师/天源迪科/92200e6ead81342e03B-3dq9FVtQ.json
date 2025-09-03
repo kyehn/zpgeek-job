@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240508/607f1f3d68754fd0c883e6a1b97a9caa1b17704e62d9774418210c43f974c0097c839e225e9f9e52_s.jpg.webp",
     "bossCert": 3,
     "bossName": "陈女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HRBP",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200717/e4b7d308159c9f1b3867a6043d0f12c6cc41b9e82885bc20c0d7ef07063ee59a_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "77d59110f2309f031nV_3Nm4EVpS",
     "encryptBrandId": "525ea5bfc8b990003nB-09q0FA~~",
     "encryptJobId": "92200e6ead81342e03B-3dq9FVtQ",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.135343,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 88,
+    "itemId": 33,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8lYHwk4LmF9.search.88",
+    "lid": "85sblJfwnc2.search.33",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-11K",
-    "securityId": "I34A_rXOEF4SI-j1-RH345f_IXZSByrM3upuUo5Lt1DOEVMm67jZxiewEAZrwj6ZwJTjqVmP0ymdkB_lccNo_LPdfbDc-szEg1NNZQK70Azhy9WbUUtVrVJHHv5cHdm78UEnMRhgT2Vj6lFSGNjjbORitpRQh1eY5lexaZQysCRYLcJOnw~~",
+    "securityId": "h70UWsHnKCIeM-s1zTY40sxVdipeYEG1ggmNYtnKdjH4rfnd8HOkm10o5EAHGVSv9_21e6AuWhhXVA_1UoJQQ48Gq1w9EPocRoOVj6ixAhqIzbhTtQPLDRpinUAsP9upJEato4Ils8JyKQ~~",
     "showTopPosition": false,
     "skills": [
+        "shell",
         "系统运维",
-        "linux",
-        "shell"
+        "linux"
     ],
     "welfareList": [
         "零食下午茶",

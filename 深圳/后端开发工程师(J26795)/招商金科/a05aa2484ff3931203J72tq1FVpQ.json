@@ -22,7 +22,7 @@
     "encryptBossId": "41050e71df9a98cf0nN939m4EVY~",
     "encryptBrandId": "b373aa1254b107b61nZ43d6-EQ~~",
     "encryptJobId": "a05aa2484ff3931203J72tq1FVpQ",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.494752321720426,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 69,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cQC3O6Fmf8.search.74",
+    "lid": "85oeAGmOgLb.search.69",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K·15薪",
-    "securityId": "NOZBEwx5WCw82-d1OcYgjnZBe3egeRncBJK-P_Y-b8hrCJcOycZ3sAk-WsygXEBzf_Jl63TpuP6bpaoIoswxV3130vIkbLMzh6PlSxt2a-6Lg7DoKgiDMqpFWMmaYWFCdqOZhbAK_dCgjRpeGJy48UtvJH7Rb5eVireHmiFH7gri12mR",
+    "securityId": "riROZYOvj5pWN-b1qUC67FcS3GDO2C3iPNv8GJt1CDxgJrLh0Tr2qmkbFaOE8wkK6PZCkMYOpk24fFq5Taww13uSnLtY4_ajt_OTGJ9hTM5wmuLHEjQ8yLEJZmJ5i9duJ8TDWvcVzlxVMfIi1d0pnAMYuDHHiZqS72leOVvsBs7RmHEf",
     "showTopPosition": false,
     "skills": [
         "Golang",

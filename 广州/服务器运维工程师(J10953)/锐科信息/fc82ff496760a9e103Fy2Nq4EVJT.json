@@ -22,7 +22,7 @@
     "encryptBossId": "9796d9733bff77bc1nR_3Nu7GVNR",
     "encryptBrandId": "d1d82ac6cf8a459c03d_3Nq0",
     "encryptJobId": "fc82ff496760a9e103Fy2Nq4EVJT",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.136931,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 69,
+    "itemId": 79,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1d30fxSH3JT.search.69",
+    "lid": "85qDZQbD5tS.search.79",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "2LP0-zsCtuYL3-y1C5Jf0pezgj6argKXFh3m1LH0RSVaxr59LuMQfpZUuXrOigRJbgqj5n12raueb6bJ7p2oFWMPHwvKyvtJG_ozezuUlG2fvl_YJGNp6dHvCO3zNwSymvpT0voxLLUj",
+    "securityId": "EVyYMR6v1WIpb-S1e5uX5sn1GmtUuyy0cpFebblTmFYx1FBPiGlKxenP2bC7VkuLn4i_rGyhLZGeK0esJHxwF7MSJ7Q8_oYlKoPqQTDekNSpn-z8HmARRHi2b2YK_j--ckf1blCQ22yv",
     "showTopPosition": false,
     "skills": [
-        "实施交付运维",
-        "运维经验",
         "超聚变",
-        "华为"
+        "实施交付运维",
+        "华为",
+        "运维经验"
     ],
     "welfareList": [
         "定期体检",

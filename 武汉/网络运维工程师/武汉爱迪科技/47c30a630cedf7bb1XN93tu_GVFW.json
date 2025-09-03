@@ -22,7 +22,7 @@
     "encryptBossId": "9757d29e5ee204980Hxy3d28EFA~",
     "encryptBrandId": "9fd4341a4a655d090Xd629q4GA~~",
     "encryptJobId": "47c30a630cedf7bb1XN93tu_GVFW",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.581826,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 16,
+    "itemId": 20,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8sY3R63qMZm.search.16",
+    "lid": "85hWTIi9An6.search.20",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "DMVDmC76lsB9i-_1TF5nia0t8kVX0i8JhKsWZSFhWwiShs37Y3sGuEme5c6x1avuSyhGKNtVhPh7EkK7U9-hRTRz_JFnjnzURuWdc5dD5wwY5B8Kq7IAs2-GrV07Zj-TZKJbayK-CtGT",
+    "securityId": "GeIdgFSdI8KZ5-51cXfOHTdcxU85r1CCl-NkTb7TcgLi_Ig9kQX_JuuwoBbBtq9r1EYU6N8WLIeW8bU7XPUxXWCQmkKKQlj1CcXz7xtTb2XGJilbMzYgqOtONz8plv7Kg800189uzxyB",
     "showTopPosition": false,
     "skills": [
-        "桌面运维",
         "网络运维",
-        "IDC机房运维",
-        "网络安全相关经验",
-        "运维经验",
-        "计算机相关专业"
+        "桌面运维",
+        "IDC机房运维"
     ],
     "welfareList": [
         "五险一金",

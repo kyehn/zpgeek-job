@@ -8,7 +8,7 @@
     "bossCert": 3,
     "bossName": "禤富鑫",
     "bossOnline": false,
-    "bossTitle": "无人机测试主管",
+    "bossTitle": "测试主管",
     "brandIndustry": "其他行业",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/0f4df677bf394756352c63867104dd34cfcd208495d565ef66e7dff9f98764da.png",
     "brandName": "高度",
@@ -22,7 +22,7 @@
     "encryptBossId": "cbfbdf9fa13ba1c00XJ53N-5GFM~",
     "encryptBrandId": "3fae811fbdba877303Jz3ti7Fw~~",
     "encryptJobId": "397586239dcec9981XN92tq6FFJX",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.756106,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101304,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 79,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3PEuN3UGmLh.search.36",
+    "lid": "85mj9iH9PjS.search.79",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "DNQ3cARGoUxBa-31vrOea73lZ5YoXsTTU2yt4ylX2ybB0UQXTJdqBpjCLwdeAQCw9AxeFd-E_QORBf-CXjaJ-nF-LKhb8deifTV1ESuywi8J0PVQ-rY0YDgCtLKo8IaOSYuP_p5MW2U3",
+    "securityId": "RXQpYYoqrcRRn-X199xNk1AZHD10wa56liUBJszke9rSeTag-j_cdgioNQ-uAxljfUYV2f3Ej2kOTf7WZE1D-y5TmgQZkw5ITDdGR1FL_tpObt4e7SuJrtzglJExDLN_j8hpYSaNQPrP",
     "showTopPosition": false,
     "skills": [
-        "无人机机场",
         "前端软件",
-        "航线规划"
+        "无人机机场",
+        "航线规划",
+        "CAAC"
     ],
     "welfareList": [
         "五险一金",

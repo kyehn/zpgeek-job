@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200814/3b91cb0475933549976d53d061820dc8b21b09d96c0b385d9a265f7bbb26a0e7_s.jpg",
     "bossCert": 3,
     "bossName": "曹女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210125/46b8ddcfe5300d844046240eda22bc0be931954bdd49ab6f66da08171c9aeba6_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "2a3c83c8974680480Xx43dm0E1s~",
     "encryptBrandId": "34543a16fa49295d1HN93dy0",
     "encryptJobId": "ab107449d125d68c03d-09u-FFJS",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.324036,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 6,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3qysOZJlz7D.search.2",
+    "lid": "858LDCqDNrc.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K·13薪",
-    "securityId": "nrbMiu5k0yE4N-b1wUQpzRnRa42C0dEEnKllUstXJklKqPsoQWmrJVjBX3TNNMlUYHMGk-X7tjxsOLnzrimRRYk09-OYdN5iMCjJ4CLwM2kAUOxFeiRIkCTTClwQ6Dm_Y_7LBUfTHlU~",
+    "securityId": "F7XsXjrc7x6fo-61gzzmhvNvQs4D_oMm6aya9Mv0FsHMd31AS2oT2SQezpUR4h9xGhqhHSq8FtPrOXCIUacLZw6MqAv-MMtdEFryjV0AnzwFvSbB-spnITvb5jQuUFiJWz-bhwIIe88oozLZ47ySwTVdG0vAsSxZpqmfRvgzCuPfu_s~",
     "showTopPosition": false,
     "skills": [
-        "WMS",
-        "软件实施经验",
-        "可适应出差",
         "AGV",
-        "数据采集"
+        "软件实施经验",
+        "WMS",
+        "数据采集",
+        "可适应出差"
     ],
     "welfareList": [
         "五险一金",

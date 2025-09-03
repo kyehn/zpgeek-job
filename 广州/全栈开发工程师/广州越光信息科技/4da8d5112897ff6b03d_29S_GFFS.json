@@ -22,7 +22,7 @@
     "encryptBossId": "7f252e6450db305d0nB83NW0EVNU",
     "encryptBrandId": "d3e95bf682c0762d1XV92du9EFU~",
     "encryptJobId": "4da8d5112897ff6b03d_29S_GFFS",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.173214,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 53,
+    "itemId": 78,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1d9FtMSnP6L.search.53",
+    "lid": "85sblJfwnc2.search.78",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "bQpBud7dTzvP7-21fm5vpjnFwuDWde84vGMY5g8ttdH994Gz3MTvh9FlEpxu1urSpIbqJHFZTM-Yr7MoWd7iu7t0YFyLAwWY3sQcEfEJmnyUY__P9VTnZDMO4P9g1cKZWqYP49GFQ34BOFU~",
+    "securityId": "bfm4VtbX7pHbv-u1VtnywZBBSHQ1vXch17jFUw3WXGF0afQbtpYh1ITJk3LtGfrsSzDVHAEyQnmZNlFUWEiK-04yM6x1rPtBWK6eRkebsYsu3AUKAHjBPBgYscqj1MpZrKkCczjkETk7KMM~",
     "showTopPosition": false,
     "skills": [
         "全栈侧重前端",
@@ -62,16 +62,17 @@
         "前端开发经验"
     ],
     "welfareList": [
+        "生日福利",
+        "节日福利",
+        "五险一金",
+        "底薪加提成",
+        "团建聚餐",
+        "零食下午茶",
         "员工旅游",
         "带薪年假",
-        "零食下午茶",
-        "底薪加提成",
-        "生日福利",
-        "年终奖",
-        "有无线网",
         "全勤奖",
-        "五险一金",
-        "免费工装",
-        "节日福利"
+        "有无线网",
+        "年终奖",
+        "免费工装"
     ]
 }

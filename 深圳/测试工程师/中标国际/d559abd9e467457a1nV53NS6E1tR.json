@@ -22,7 +22,7 @@
     "encryptBossId": "1f4bade295ca7cae0nRz2dq8GVpV",
     "encryptBrandId": "e4586d860366eeb81nd73dW_FVM~",
     "encryptJobId": "d559abd9e467457a1nV53NS6E1tR",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.702522,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100606,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 70,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cTWYgYT3Md.search.90",
+    "lid": "85mKunhQhfs.search.70",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "NcpYu2sZPiZkQ--13ZkTK1aLR1_vl3n95t8x6hjAzIdEynUZGJ4NfATj1hrjLlyx7j9BJM6Kanjj8Y_klU9S0jladMAqih6dKItUyltSAKR8k3vR8A9qYxA_VR0qdKfkQG3tkZHcuPPcvuE~",
+    "securityId": "1iyO7t6sC2Ybq-i16AzeJfNkLP4xAjhILLvkoQSSuetddfj6PoOQb5QTegHJi0RyDQnDSCuzz1baQsyEqk-7z8zo23WoTPgIoOx1I-7f3NEGCCw9-szI62LQynjEozzf0g2KfA0iSQsPhKY~",
     "showTopPosition": false,
     "skills": [
-        "硬件测试",
-        "测试工程师",
-        "安全测试",
-        "性能测试",
         "检测",
+        "硬件测试",
+        "性能测试",
+        "测试工程师",
         "认证"
     ],
     "welfareList": [

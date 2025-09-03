@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20210701/ad4dcc139d2ceaa48aefd4a76f102c527f98d6727ec31f941a2d5ffd589b1bfa_s.jpg",
     "bossCert": 3,
     "bossName": "刘利飞",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210714/7c566599f41532cbf9795640a627a578afe6ee11884ebf8141e7e351c28deff3.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "04c8c894a0b94e7b0nd63dy6ElNU",
     "encryptBrandId": "a88312bd4d38baaf1nx43N66Fls~",
     "encryptJobId": "8e9319a3114d37db03dz2N67GFBV",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.170421,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 19,
+    "itemId": 23,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8eW8dRClNaT.search.19",
+    "lid": "85By20SBxYW.search.23",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K·13薪",
-    "securityId": "Ufya9Qk1CHtks-w19-Ce5Ag-7E5mWEmytxZuC_D16bWSCA-ntiXFkraD12L-gOxGZBb23kwsG4SH3F8gk4qoENrDu1k5WkBoSDbQQe8JLr47EVarUYxx0T0CA9GQTDqLYoRVQjgd1fQtilBLutVUWmcf",
+    "securityId": "gN50QQN3Flq5d-o1xYN-NGtANwKqGJrFFzSi1juUlyidsFdcL1Qczs6gIYucGYXvXMLZZ7S5sI1rKQztKUxRKfvFZEIEftBZ447lGBJRD0WcZcn4MaWNYKRZafXFjKsjNIEuq5G_Tb6tt_8~",
     "showTopPosition": false,
     "skills": [
         "系统运维",
@@ -59,18 +59,20 @@
         "SQL Server"
     ],
     "welfareList": [
+        "加班补助",
+        "员工旅游",
         "带薪年假",
-        "年终奖",
-        "五险一金",
-        "通讯补贴",
         "补充医疗保险",
-        "节日福利",
+        "餐补",
+        "意外险",
+        "年终奖",
+        "生日福利",
         "交通补助",
+        "通讯补贴",
+        "股票期权",
+        "节日福利",
         "零食下午茶",
         "全勤奖",
-        "股票期权",
-        "餐补",
-        "加班补助",
-        "员工旅游"
+        "五险一金"
     ]
 }

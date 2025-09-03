@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230316/607f1f3d68754fd05610e02794d71d91fa024560624e763ece7b65203957125d05a07060a1e2dd16_s.jpg",
     "bossCert": 3,
     "bossName": "张先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170711/7f3d3b5f9bca75aa8a2ab5f054d24693a69780276eea7d74039a417009220185.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "c704a770bcd524951XNy39m8EFs~",
     "encryptBrandId": "e232879bc3901bd80X1_2d27",
     "encryptJobId": "ab934d3b7286b5a61Hx_29i9GFc~",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 40.037141,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 71,
+    "itemId": 88,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8kkPqMAnDwM.search.71",
+    "lid": "85y7CWjaWIi.search.88",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "GiVOUvaP8nhTv-f1iMzvkVb9OVPfgbVxs6GpU8P6UrBfQpfnnZmUuh0VK_yXCdLixGM4zU3-iyfmCQ_Up2DCNyFYJK5jkJdB8gjB3GXAyVSeFpjDX5IB9McOj8KEpT2CvHIScp88XZofVCG_qxnWMU-xCbJsKZW2-HNcVuwlgL2nTA~~",
+    "securityId": "z01OXWsL2ZBKc-B1zsPGhNeC7Jg9jDmdAXx84thOgIESBrC22WeWarRYyLnU8Lc8ZL5bFHumYP0EnB48885EF-SXpoS2bnRdLdkhzPCZ39GwomS-QXinAKdKraLqHtNqovTOtfFW4A~~",
     "showTopPosition": false,
     "skills": [
         "javascript"

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250205/607f1f3d68754fd062d7175293f75a7db8a416eb0c85df9181528d3c752d91e70eb32ca86c1c498f_s.png.webp",
+    "bossCert": 3,
+    "bossName": "何女士",
+    "bossOnline": false,
+    "bossTitle": "招聘主管",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
+    "brandName": "谦阳科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "学院路",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e853751a47c508cd0ndz0tq4FVJW",
+    "encryptBrandId": "95fbe50392ac48061HB939-4FVI~",
+    "encryptJobId": "0bd41ed7917c19cb03J92NS1FVtR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.981819,
+        "longitude": 116.34731
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 39,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "实施工程师/项目经理【 北京航空航天大学】",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "85Aym6MA5EP.search.39",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "eJzXlT0fJUUQJ-21kfPeQUuy5bM-LeC-TfCt6gbOvgZOE2Qv2_GFWFk6FeRDXGxkGF_I2y1CA6CMu5feblAHYRegu4p_m_0exOJAzY9MiglxM5Bz7RcJrB0OtpwAi3WZoZg0Ekkx-r0WI70~",
+    "showTopPosition": false,
+    "skills": [
+        "软件实施经验",
+        "OA",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

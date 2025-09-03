@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250226/607f1f3d68754fd00e4a1449bb708bebc0d4a38dc7e29bf42f3e2daefbf59f72b870d55f95c59cef_s.jpg.webp",
     "bossCert": 3,
     "bossName": "蔡女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "人工智能",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210225/7a3e597166d21e6e5bc9a4b53273595bfbe90294efbe1db09f3efbce791cea35_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "aff753183ed9ade00nN539i1FFFT",
     "encryptBrandId": "2f1c99ebc84a5afd0XV93ti6",
     "encryptJobId": "a1d4b4f4b2c1d76203B70ti4E1RR",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.524175,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100028,
     "isShield": 0,
-    "itemId": 40,
+    "itemId": 10,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8mSBTQ9IE8N.search.40",
+    "lid": "85pd2ttRncZ.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "It0LeSMU8qwv4-s1f5N6M7ytUUgFbNGnfIeeI_5ZxzmXZyswSS2yR3XSkT__Z-CMQVpXUmizZikxBHLUuXn2TlyG5clbyhjIgW6exF87akBfpcBVRyc_T8URTQyPzarRFq_ROe1D8Nlx",
+    "securityId": "19a1kDp6DCNWY-v1k0T5yVUpX_6Ov-4aDLWjZD-BWrqqEiT-7ZHSm-sFbsrOkzBRYnry7026s7PiMhzGMw3as1s7179kyDxjnYzucF7cy0epgrAyY0vygph2ZtLdhCy3GEmI3NyuH7m1NqWTXmnVuzYIobFzzFl9GY5eyWKXECI97BAr",
     "showTopPosition": false,
     "skills": [
         "Python",
         "C/C++",
-        "后端开发经验"
+        "后端开发经验",
+        "AI",
+        "linux"
     ],
     "welfareList": [
         "免费工装",

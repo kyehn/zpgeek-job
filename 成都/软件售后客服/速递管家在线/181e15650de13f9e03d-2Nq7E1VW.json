@@ -22,7 +22,7 @@
     "encryptBossId": "eed22eb8d6fdad350HR929W0FVo~",
     "encryptBrandId": "a11cdca62a4e522b1nVy2tu7Ew~~",
     "encryptJobId": "181e15650de13f9e03d-2Nq7E1VW",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.594005,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 120,
+    "itemId": 72,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "rgLBgblZMI.search.120",
+    "lid": "85dYdePdsS4.search.72",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "SVaOUO_QUZ7YQ--1Ap9ZwEeYgKa33UcL1CabaQ_Nsi7n4vH_rDXKQUEWTpJ0PTKk0FeSKUnQlUCGyehgeOarGxOwxdxMhIPTUyrNofsdv-htwVyrbYqGoaOGTGcyFP9JuR4guOmv9wXt",
+    "securityId": "5bkXRPEDwtbVF-q10O9YnOK5d7CNgT8DU6ee6J4oILe8CLH8Q4vUZ-GZ__UHgi1OMe6xv3CGabH8xESBsWenZSjRdVYyVvubMuE7p_7ivUTP-s_4YzcDuetMNEEqo42Z5O9D7QErGnw8",
     "showTopPosition": false,
     "skills": [
         "软件售后",
@@ -59,16 +59,19 @@
         "互联网"
     ],
     "welfareList": [
-        "补充医疗保险",
-        "员工旅游",
-        "全勤奖",
-        "节日福利",
-        "带薪年假",
         "加班补助",
-        "五险一金",
         "有无线网",
         "零食下午茶",
-        "定期体检",
-        "团建聚餐"
+        "夜班补助",
+        "全勤奖",
+        "员工旅游",
+        "五险一金",
+        "年终奖",
+        "意外险",
+        "补充医疗保险",
+        "节日福利",
+        "团建聚餐",
+        "带薪年假",
+        "生日福利"
     ]
 }

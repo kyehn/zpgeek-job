@@ -22,7 +22,7 @@
     "encryptBossId": "ec1c9c2aa9076c6f1H1-39m5GVI~",
     "encryptBrandId": "7f82891ec7318e251n182tW_FlM~",
     "encryptJobId": "53e55a28c2dac71d1XV53Nq7FldQ",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.670068,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 56,
+    "itemId": 13,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,23 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t5mOM03LNr.search.56",
+    "lid": "859LUjxmkAs.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "tB4GGuV2xXqb5-210w4y9aiiK0cUkiwLGAGf4VmzebiOSGhe4wSpDfe85TntIRmy7QXtEzWWYTvei44JDjqDIXWJVWsw2TPntNL-8b8KqQyEVLmTQt_5PgjSxsGZ2NQz2aP8rFN8Nj6aQw~~",
+    "securityId": "eP7FUHWD1kYXY-R14dG-ndHyJTrUPQlPCCqZdYGq3VFLRk184qVJz1Ci2p4g_vCJMtYIFyoQgNiBDOkVpeTMDqf1uxFn1FKCEBotIGsZ5YwORvUXqH4BFER7aL8CzX0TaAGBujFvj5JWTw~~",
     "showTopPosition": false,
     "skills": [
         "Shell",
-        "负载均衡技术",
-        "Windows",
         "Linux",
+        "Docker",
+        "负载均衡技术",
         "PostgreSQL",
-        "MySQL",
         "系统运维",
-        "Docker"
+        "MySQL",
+        "Windows"
     ],
     "welfareList": [
         "五险一金",

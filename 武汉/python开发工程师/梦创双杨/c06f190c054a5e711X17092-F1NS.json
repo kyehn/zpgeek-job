@@ -22,7 +22,7 @@
     "encryptBossId": "dc3ffaf033baf53c3n1-0t24FlA~",
     "encryptBrandId": "2687e6b9f878cdd303B-39u0",
     "encryptJobId": "c06f190c054a5e711X17092-F1NS",
-    "expectId": 0,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.479042,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 86,
+    "itemId": 50,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8o6Fs0yZrNU.search.86",
+    "lid": "85irlkKIQyM.search.50",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K·13薪",
-    "securityId": "rXoIOMp6ubSHZ-T14RUQ_4QPB1BCEh2bsFFg_yOLW2KHnYldmEb5oE7ykeHxL2KLtoNGyhaCuCLoTSOT8u4l5qfcime5wEFffTRQwga0NTBPL3Zt",
+    "securityId": "2GTodECRYzA1B-y1qbP9uH764sQMf1eon8hCU-zDjybJdlX1uo1_meZeL5RuT--_yMrkfyCq5xIYIgOU95eCXeNa4YRuVY49Jh6Q_7CiFag9QeHEK56xpRCdzzmiRsJszIOWedFxJEY~",
     "showTopPosition": false,
     "skills": [
         "机器学习/算法工程",
@@ -58,17 +58,13 @@
         "PyTorch"
     ],
     "welfareList": [
+        "员工旅游",
+        "五险一金",
+        "团建聚餐",
+        "定期体检",
         "带薪年假",
         "餐补",
-        "加班补助",
-        "五险一金",
-        "年终奖",
-        "法定节假日三薪",
         "节日福利",
-        "员工旅游",
-        "保底工资",
-        "零食下午茶",
-        "团建聚餐",
-        "定期体检"
+        "零食下午茶"
     ]
 }

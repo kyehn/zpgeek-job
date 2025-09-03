@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20201207/5cbce80ce47127f3f972d79002ece0715cb5cc24aef63eafa08456a717410cb8_s.jpg",
     "bossCert": 3,
     "bossName": "刘婧",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "f7dc1888e464a3ad0nRz09y_FFdT",
     "encryptBrandId": "19f2d9c496574a461nd42tq6FVQ~",
     "encryptJobId": "b9bec86aa43eeb2703Rz0t26GFdW",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.390677,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 59,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1d5cKjh9SsP.search.90",
+    "lid": "85r9mU9zV0j.search.59",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "yk2G4i0PM8lth-C1Hwvu0_cs5qD7f80j98qWXeYTUwJsJQbZE6gPGTuAITt69auJDv5bnp7YZ5n7o_M5IV5mMCPzaUJE0IM-F0iEhXazxEy6w7Q6r6SxNXxl--JWzGCHR8KNBIPc4Jtd55lLGJvvdKv0e1Hfm5eeHLdj4ijDYDrP6aJLQLA~",
+    "securityId": "c509LuwUyLKf8-z1-2JfjYHmJr0cJ_mRwcAU_SO0gjWLQN29KHdNHUd6OjsSuddn11mX13F-OG8H7WItvzgiYuySFCL0O-UEjEJBlemMHDohtUNbVLonLRuO7RzNHldFgRoUcqepPZaz-F8~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维"

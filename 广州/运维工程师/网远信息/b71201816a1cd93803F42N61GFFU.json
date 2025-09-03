@@ -22,7 +22,7 @@
     "encryptBossId": "7967db361788c6250nB939u7EVRZ",
     "encryptBrandId": "d3f90da2c38558761XZ-29q-Fg~~",
     "encryptJobId": "b71201816a1cd93803F42N61GFFU",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.294457,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 55,
+    "itemId": 22,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7Mdhui4E9aq.search.55",
+    "lid": "85qDZQbD5tS.search.22",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "8G-tAlLnINU4_-B1SxzG-cZw__NojWKZRTXcT9KDfyPw-yMoCJ3MxSDpugwHvTLTlR4JzJ3jkopZBFodC-kwpQEcw7jn3YEqp5CSL5uDIxeJm53MxGT_1DaX9EVF5azSzcZ8k6_PzFAQdOBBjfJghyu52ZsOPuT3kOrjNs5aw2KnQiKW6g~~",
+    "securityId": "-E6ujiWnuuVti-n1reKibyHMJXf308x0MWGVxFgJEnOcsF6lFvOnapfGdWhIY0l1Sk_VPhAAb4Zz2t_xBPosMw1ploP3TnkHhvI8pZSKNplOZLBalL58ohcrW0sr_xwB_R3r_XkGjDqylWI0-9ut45zbo470dzUuVEJGa08sg8KP9dSdUQ~~",
     "showTopPosition": false,
     "skills": [
-        "桌面运维",
         "网络运维",
-        "系统运维",
-        "计算机相关专业",
         "通信相关专业",
+        "系统运维",
+        "桌面运维",
+        "计算机相关专业",
         "电子/电气/自动化相关专业"
     ],
     "welfareList": [

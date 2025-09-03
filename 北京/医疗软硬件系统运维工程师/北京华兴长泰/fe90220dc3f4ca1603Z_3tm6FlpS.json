@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250603/607f1f3d68754fd08c5d998319629aa996996353591ce932d7902ff76f085a8f2a71a76f6d87caf1_s.jpg.webp",
     "bossCert": 3,
     "bossName": "康女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "总监",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170627/2be3bd1ae91794b2ea6359be48e781f599efc313d974d194f9e187e822ccdf14.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "89f8f9d2539f3f141XR629m-Fls~",
     "encryptBrandId": "9b4283c9277a327a1nR70tS5",
     "encryptJobId": "fe90220dc3f4ca1603Z_3tm6FlpS",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.809481,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 40,
+    "itemId": 90,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8kmmKI8Ns8b.search.40",
+    "lid": "85wbY5EFkMw.search.90",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-12K",
-    "securityId": "cgrqzjj8OJzuq-i18bsdu_WNaYpE9Q2xKDosek3sVu4qwv8pSq6CbAPsCju7dyX7mxXEAAtO_1EvKxrEQE7EHx6mpd1EJELydNiQN46jVvm4nU7mlELF-1GXg60uhHWBw3mt3s7M4leKZbk8lO_leMcu4NGVqiBw4EsPTE9353TxH0g~",
+    "salaryDesc": "7-10K",
+    "securityId": "SdSi-aiHorD2K-z1Qs3NaZm4XRM30ZzKpduw7u1bev5icA2lokCf7wG-55TY-l83LRw7sbuCdTmYLiz47kpJDr4sQgwcFnDJSGOeWGZ-T0lmu7mz7IJjv-LVq9x3WNt9YtkONRfpOyM~",
     "showTopPosition": false,
     "skills": [
         "系统运维",
-        "医院系统软硬件运维",
-        "数据库 服务器运维"
+        "数据库 服务器运维",
+        "医院系统软硬件运维"
     ],
     "welfareList": [
         "定期体检",

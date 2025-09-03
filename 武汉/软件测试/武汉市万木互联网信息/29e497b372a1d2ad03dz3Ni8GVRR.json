@@ -13,7 +13,7 @@
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "武汉市万木互联网信息",
     "brandScaleName": "20-99人",
-    "brandStageName": "",
+    "brandStageName": "未融资",
     "businessDistrict": "关山",
     "city": 101200100,
     "cityName": "武汉",
@@ -22,7 +22,7 @@
     "encryptBossId": "b5d4f9995f0acfd40XB-29-_E1VX",
     "encryptBrandId": "de0fb9736097c83e03V409i8FVI~",
     "encryptJobId": "29e497b372a1d2ad03dz3Ni8GVRR",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.479087,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 58,
+    "itemId": 26,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cN4o9Hqvlk.search.58",
+    "lid": "85jozWlh27o.search.26",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "_HBs8o7FCvL2D-_1XjxNqQzhOGzxwVcK2BFiIcMSAEfm-Ah_uKcyoBacJ9bboif0meFShHB8KbHPo1_Ij4sxj-M-eUUgPytWHV8erfoDz2H6gHWVk-TO8Nd-47rd4SoTPum0eBOZUq6Yc_s~",
+    "securityId": "WDWx-oYeDIRo3-d1ZCk2tPsYuXSvtr_DY-0UDO2XNE4DZUbcb3G5azD3GFIDDSxmiURQlg97u2_UDpbagzQIwgT8xCwpsq2GoAZqMaXkGTaDE1tQE3ELU1Q0CbvdK-9_YV4an7UY-Ux78U0~",
     "showTopPosition": false,
     "skills": [
         "自动化测试经验",
@@ -58,5 +58,15 @@
         "MySQL",
         "Python"
     ],
-    "welfareList": []
+    "welfareList": [
+        "定期体检",
+        "工龄奖",
+        "全勤奖",
+        "带薪年假",
+        "零食下午茶",
+        "团建聚餐",
+        "五险一金",
+        "节日福利",
+        "年终奖"
+    ]
 }

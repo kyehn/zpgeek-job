@@ -22,7 +22,7 @@
     "encryptBossId": "f4986e5577e517720X143tq0FFNR",
     "encryptBrandId": "c73def63c8f3a2641X150tm0FA~~",
     "encryptJobId": "ebdc5f8c56b72e4003B53Nq1FFpY",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.642666,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101212,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 17,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MkzJ55rYMg.search.72",
+    "lid": "85mj9iH9PjS.search.17",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-7K",
-    "securityId": "zors99LSC7JIP-T1lvddlDad2qJ91K7rgFlKU2D9biVQ33qZKBd5TxthObxkAuse32MEqT3e1DVo3MV1QwbfRSR7O_5L9mOiZezOENsQZOetvbw7QyyztRfqizDd-_GWpCuVr6aB6qOk2g~~",
+    "salaryDesc": "6-8K",
+    "securityId": "5BrzceMfKU5s3-71Cc7ONXPTJL-yJFFRzJ710B9BHTKkwfqniS1li7HZNXYuyClVrV34v0ZfOg-HohLyaBOb70_iZHb0X3OPggVoY7det8-huPFyAgS-xFh37yoG8lm_dixTwue6QF8frw~~",
     "showTopPosition": false,
     "skills": [
         "通信相关专业",
+        "充电桩",
         "电子/电气/自动化相关专业",
         "运维经验"
     ],

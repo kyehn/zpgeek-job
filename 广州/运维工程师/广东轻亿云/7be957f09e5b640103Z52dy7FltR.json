@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221206/607f1f3d68754fd066965bf47edc1a459fb6747ad632fd9644beac714d845d8606c3a0e2826d1164_s.jpg",
     "bossCert": 3,
     "bossName": "卢剑航",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "市场部营销总监",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "1fd6c1cb01bf4f6e1Xx_2Ny9GFQ~",
     "encryptBrandId": "2a4197b54d4988831Xd939y9GVc~",
     "encryptJobId": "7be957f09e5b640103Z52dy7FltR",
-    "expectId": 0,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.96681,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 42,
+    "itemId": 86,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8iIEJVvm2Np.search.42",
+    "lid": "85r9mU9zV0j.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "ZpFMgmlseQJE1-x1ZhoyTOCSucVdN5itIioGg8W5F-apuOrzSPsr5noLKqExJkfgDk5dsVhzopKRvu15_74fEtzUWnUqwXp-N7-XdS7sdaMF1UsDq28SY9yQzaJkIg8osLib66MDjhXf4o6MSokgwis~",
+    "securityId": "kz_fjQeoSLuAW-518h9uUziovCctuFfGSBHmICH6AF8PM3q1n-hbdh1zXzxeSVYBGbl597KqD5Vvrl84OCTbd_vNzEQNWJ2MlXEVMy1ANC04dDli6_G0cnD_gKmLui9xw6zCflY6q9n_Cg~~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维"

@@ -22,7 +22,7 @@
     "encryptBossId": "a48de4b681791ab10nJz2928GVBS",
     "encryptBrandId": "cf94100d50a93dc90XF809u0FQ~~",
     "encryptJobId": "d018b9dba4f82b1c1Hd43Ni0FldY",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.706702,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 19,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4S1BHhU48DX.search.25",
+    "lid": "85oeAGmOgLb.search.19",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K·13薪",
-    "securityId": "F0lB6mSxQEiP9-I1pPkdeJ-7oRG0SmtcwZAc8H0zn3T6ng0WN2De_mwh3xD5rpXaV_1hjrOTX7hZBikdopjcaYTkDfn18Q1OSiz9arvFJPD8oHDNeV6nW_bscEvu7c7o_Hj7iUGZB8Te_A~~",
+    "securityId": "fhpmiPqNF9fny--19c1vzFRjpIvO1Ohwks6NIP8N90lk5_SxZ4CdCTD_TNgCvKv3-j9_f75cUj_lP1tUwQbNLyUCQNIyk3jSLGy6PB2-OmsKDMW7HF0_7zI3u2SxlAFrLI_EoSOFw9cnfg~~",
     "showTopPosition": false,
     "skills": [
         "系统运维",
@@ -57,12 +57,11 @@
         "Ansible/Salt/Puppet"
     ],
     "welfareList": [
+        "年终奖",
         "带薪年假",
         "保底工资",
-        "绩效奖金",
-        "年终奖",
-        "补充医疗保险",
         "五险一金",
-        "意外险"
+        "零食下午茶",
+        "绩效奖金"
     ]
 }

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "杨女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事经理",
     "brandIndustry": "智能硬件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "8f4bb4c318e06cbc33R-0ty8EVs~",
     "encryptBrandId": "4fe71070af770b6e1XB82dy0ElI~",
     "encryptJobId": "3e9483ca1d6f25921XJ_2Nm8ElBZ",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.360702,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 53,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cvAVtWLEhf.search.28",
+    "lid": "858LDCqDNrc.search.53",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "Qgc2sW1exipye-M18xbrcKhAgKhWp2zCDwEnuKZN6Kw57tOYvgUspvESFzewzPydtDV5qQHVYNWNbypz_uSHEzT0DUMcoTXY5sTAnOaD36GYyUDoMA8tXdjS9VAkhWNvs3TNVob99pMaqLQXsGgOEoLur_XwfSnoKxYMAwp7pyrgju4ycA~~",
+    "securityId": "A7poXrlUHlrCf-m1dueRamW8pVXgTsnlnsYjP50mb8Z5r0aokC3rxhwZXGrztDOTFNjrS1z45GHdPfxM6jdxEMW7puiG0Cu1K3BTEFtx-W0193bS0lRxaZpZvf1ilkbRELmGMJhjUu0vBg~~",
     "showTopPosition": false,
     "skills": [
         "AGV"
