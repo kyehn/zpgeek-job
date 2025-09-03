@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "人力资源经理",
     "brandIndustry": "计算机软件",
-    "brandLogo": "https://c-res.zhipin.com/jrs/d5ed73e871d65f61cd4f265601e9b7fd.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250714/7b5b554d84f9729c455389a72ceed04e33907b655e5002606bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
     "brandName": "融嘉合创",
     "brandScaleName": "100-499人",
     "brandStageName": "不需要融资",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 58,
+    "itemId": 60,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8kiiz4XSL7Q.search.58",
+    "lid": "1dIBstcPj33.search.60",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "_Ruly7sFl04bT-C19rYs_qiwH6xJREU9XtfCHMCh6ziLlWt_MyylMuhlICsBRO5xWcncqsLWDF7Ijjf8OAl9pxqw_gubPxgjheZC3QqwycWL9V8cAmNbqlj4njWGcs8jgcRyzknrzgM~",
+    "securityId": "pvE0Fbs8E7zjk-a13hMtHq1wRWvbgabXnfW20fnbJ0BV_ZZ4oFz-jckLl0UXb-D6f2dy-aOV9-To1NPJA1oRX6kDxOcXGcMBiw9hxs6y1EkrFfRtQgrBrGPaz4Ji9KHNJycZRNaLWEw~",
     "showTopPosition": false,
     "skills": [
         "MySQL"

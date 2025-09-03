@@ -6,8 +6,8 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250512/607f1f3d68754fd0baf5910bd7883c62dc82bfc2f7028b0a196cb82cdcdccf8b80b4c89ee2fbb3e1_s.jpg.webp",
     "bossCert": 3,
-    "bossName": "袁先生",
-    "bossOnline": false,
+    "bossName": "袁龙",
+    "bossOnline": true,
     "bossTitle": "人事经理",
     "brandIndustry": "咨询",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230920/7bf6f160950405e9a99f33ac84b6a62c5e5db81d2b1cc6fb8aabd4255e28497e98d8b2eade92f8f1.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100601,
     "isShield": 0,
-    "itemId": 59,
+    "itemId": 57,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,19 +43,21 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d5OVaWesnQ.search.59",
+    "lid": "1cwW7iMoez6.search.57",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "xUcCQ2uXcz5E6-e1PgzZU6ecABuKmYZHafbL4-hipWv3LkYRnKjX7igw-GKGr0SZXBcycrB1Ork-QOXTI2ALOZNCTCpg4gCgVKDLZACH7pxXOGAbwFnocle8zNyXf9s0GA4oA3KpYMeY6w~~",
+    "securityId": "Rv9c6M9XzBGzl-g14io0v6oNzp-ydEWXrh_ps9IJUfWT18G7wDfYhvOZQB94DKmufCnZuoTmtpAvjFWv90ut3aQART3ymN0vgImCAhoFUCUkXx43AkFTsYdmFNDeITTQZbwgBsvHc6PPOtN4y-9q79GEqR1Qlnz3fmV29rsK7IxwvUgjSQ~~",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [
-        "五险一金",
         "零食下午茶",
         "全勤奖",
-        "员工旅游"
+        "节日福利",
+        "员工旅游",
+        "团建聚餐",
+        "五险一金"
     ]
 }

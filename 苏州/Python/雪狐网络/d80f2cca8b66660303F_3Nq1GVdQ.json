@@ -22,7 +22,7 @@
     "encryptBossId": "44940efb07d093c21HR729-8FVE~",
     "encryptBrandId": "af39a0eacb51a37f1nd-2tS0GVc~",
     "encryptJobId": "d80f2cca8b66660303F_3Nq1GVdQ",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.260753,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 29,
+    "itemId": 25,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t91yVOkdXs.search.29",
+    "lid": "1cyYyLA6axo.search.25",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "ztfXhA1sLhqdu-m1KKZUXy6TFt89Q1Ga2__sYjnIUw0ZITn4KH4qVhC4r4vf9c1QmOUMPqiGEnK8o2pXw-u-yQG1QjBNZaRhLxIbyiO5PHq47x-8FVX_SKMOERYJit46e5DzSkimKrtlgA~~",
+    "securityId": "4eMsMwSOqcxqM-51WsY6t0ZimXMMyh4rCTns1VOKhG0nDliDNNoN3TEA6zhSRmJYavaCCjDLfW0Ha0meFZw3-uSpDXHol8hsk97ChStwgNyGgX8asVxr5E3sS04jaoo_pZpVO0-ypVc1KA~~",
     "showTopPosition": false,
     "skills": [
         "爬虫经验",

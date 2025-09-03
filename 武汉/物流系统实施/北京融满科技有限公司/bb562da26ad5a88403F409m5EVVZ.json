@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100507,
     "isShield": 0,
-    "itemId": 30,
+    "itemId": 56,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d0SPlibYVD.search.30",
+    "lid": "1cNEnGhg9g3.search.56",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "9mCTDpmY7uI62-O17P394ReSDgQ1m_YJV2um9pPnFTtyZmPOtftci4zjQWomLcVN05Pe6PSUpw5ly_vm52mzyg_SZiXt7waDFr4Bzy4KPmMRUgXinQ6LV_2Lh4WElVr5S6RAenbh6SPx-y8~",
+    "securityId": "HArg8tYacR-zg-q1cbgRz-zAodzP4Cxb84LmJtQIzSdf5GDyBNT1wEtYSLRROD9d_CR1Q_IWv8iWtcfpbbmYQsiKf7q3TTuaPP2_4MUI3nfYVmE7qtV3yMsCXdjf5neNa-OIcRr9L-HKI0k~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
@@ -59,7 +59,11 @@
     ],
     "welfareList": [
         "包住",
+        "员工旅游",
         "包吃",
+        "免费工装",
+        "宿舍有空调",
+        "节日福利",
         "五险"
     ]
 }

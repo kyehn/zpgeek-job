@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240219/607f1f3d68754fd0228c40bb5f71667d246cd297ddbb5ee64b0d4ae54cd80300cce91d5fcd797864_s.png.webp",
     "bossCert": 3,
     "bossName": "杜女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "hrbp",
     "brandIndustry": "计算机服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240411/7bf6f160950405e987ca4949ed0437161790ed3a6bb064e375c8eb3c7668cdbe05aa8747181c9f68.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 87,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8kmmKI8Ns8b.search.74",
+    "lid": "1d8v2kttMZs.search.87",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-8K",
-    "securityId": "UYxjrb3ISYZ3M-S1raRgaYQUsjGomPAzbmt-po2j41ZFOuWF0sr6FycSMlOe06N-3q_qboeaIwTACNZmI7kmXaySs8gX6VKC6FULXea3oWJRA1fnyL8wCLH7ni4Ps8pzf3xYrUqMyOY1Zg~~",
+    "salaryDesc": "6-7K",
+    "securityId": "ELmzaCke6d2y6-b1KZBrFvKcv9mrk_oOMBkze0GD93lr5cFLGdTD1v8eHuSAOsmYMKzlwL_r3u0YWzhgujpk9v27MHYedMWocWKPWdt8KDLt8vNxM_HI9BsM6OQSWSORQrBb-qpAGMMPOKxMLIZbB4hWhPWyucvNrfAQPEl7lIpmEloJbA~~",
     "showTopPosition": false,
     "skills": [
         "网络运维",
@@ -60,8 +60,7 @@
         "桌面运维",
         "计算机相关专业",
         "网络安全相关经验",
-        "运维经验",
-        "需要倒班"
+        "运维经验"
     ],
     "welfareList": [
         "五险一金",

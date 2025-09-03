@@ -22,7 +22,7 @@
     "encryptBossId": "0530aef25b92130f1HVy3Nm_EFo~",
     "encryptBrandId": "e546d8ccc6a47b9d1XVz09u5FVc~",
     "encryptJobId": "d8bbac985ace20831Hd40tm9GVFV",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.276446,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100012,
     "isShield": 0,
-    "itemId": 12,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9b097iOVS1T.search.12",
+    "lid": "9SMMz1f2wO8.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K·13薪",
-    "securityId": "L6-2SbWKePZbw-i1Q2lNh1m6xdb6f2vipprqi20jJNTtAPfs2gcIFg87L_0YV4GLLD7JejPIzrO7lZIucI9L2--DUO8JiHVaWvgJ8A9sSs72rBE8Zl596h7Hg9ozIAQHF055v5-FiLFXKg~~",
+    "securityId": "fn07GCUpWfd5F-y1pYQ6SPcNZ9MLbeOsipnA7GFfh9HDQng0d2YEghoV8y9xGCdt1_r6DoRpUpoposEpO1nrMtWoXsFy1oesRdyQe2zgHW2zzcdDMuusi_9MGWE8jciKgKKVmgC4Qqgj4g~~",
     "showTopPosition": false,
     "skills": [
         "机器学习经验",

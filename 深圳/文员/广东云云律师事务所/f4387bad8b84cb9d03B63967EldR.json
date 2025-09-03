@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100602,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 45,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8mTSOhgDehs.search.74",
+    "lid": "1cORbXq5NTf.search.45",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "hqlS1KKHv8tFR-D1sb-s6fuG1nMCmrHTxPkMbJgIZFaoE66YTVA8fhOSDO2zyqoYlGw8IHMUS7nKuguQ1bqt08XzzCdnyS2eQj-WZJj9eqCZdj0g2laeLYoTFzjNlxeU_nFcVFXFNCKyag~~",
+    "securityId": "aD_o65jstrqlf-s1C2esVhKK8m9DKXGrUmAjTUmUuIkbAiZXEN3jKG5sG89ayhZTHOlewazixv5aPe1qZ499AUH9lYlE0ZYqFV6Y-xgx-5QHoKzjeMD1srbj19Azz35zdz41if1kqPm2yw~~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "文员"
+    ],
     "welfareList": [
-        "绩效奖金",
+        "午休",
         "团建聚餐",
-        "底薪加提成"
+        "底薪加提成",
+        "绩效奖金"
     ]
 }

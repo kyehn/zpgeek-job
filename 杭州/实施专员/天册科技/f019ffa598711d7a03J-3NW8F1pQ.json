@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "临平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "桂成才",
+    "bossOnline": false,
+    "bossTitle": "产品",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211130/7b5b554d84f9729c131cd10a34234965df9b2d7c92471856ec7a593b225fbcc812f2b0150132fe1b.png",
+    "brandName": "天册科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "临平",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "182f3dbb40a43f341nV_3tq9F1BS",
+    "encryptBrandId": "fc0b8428648955db0H172dW8GA~~",
+    "encryptJobId": "f019ffa598711d7a03J-3NW8F1pQ",
+    "expectId": 1334030427,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.408645,
+        "longitude": 120.303748
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 20,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "实施专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9SQR5ohn6aS.search.20",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "cAfoLG_pz9KQe--1UBeBvmrhFIlOTw0IaaKxHuuijGPP1kb2aG982Am_2ECZMImX1V7DFmazPorT6jTgNzGAVmATyflrddfvR-Cl1cbbLo-DCjhJCD7IZH6Iw2fG3vjLMRRYo9tJNYtYfw~~",
+    "showTopPosition": false,
+    "skills": [
+        "ERP"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "员工旅游"
+    ]
+}

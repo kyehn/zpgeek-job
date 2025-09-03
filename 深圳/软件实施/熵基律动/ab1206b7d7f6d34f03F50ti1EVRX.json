@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "互联网",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250715/7bf6f160950405e908779e2ffa15e609acfb4f63ef5bbc7c157543425e27f07d2db6eb29db7d6b4b.png.webp",
     "brandName": "熵基律动",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
@@ -22,7 +22,7 @@
     "encryptBossId": "2bdb6b72cd7f4f550XB629q-FVtT",
     "encryptBrandId": "279f5d0e5fc4e8f603V52d69E1U~",
     "encryptJobId": "ab1206b7d7f6d34f03F50ti1EVRX",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.532558,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 1,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,24 +43,25 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cVnLIzckWs.search.7",
+    "lid": "1d11FkYTw3Q.search.1",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "Tkf12QB8Bl38z-j1F5OUFQgBV4VVu_Bm-jpNqHwxSz-3gyS3NfqgpqL8_Yw8EVl--eyM6OOZMWew02B3NJMmTEZ5Zt-3RYuh6x7HMwTB-NRDtNySoYeY1jcFXro9VbVeFep-0so6cpzkRi8~",
+    "securityId": "OVLuQaU1WpR99-j1BMgoF7sol0HkHyRPtR2m40BrKSc8JtSTWwDRzXOfA0-LKQiurzVG6AosQkhEQeKTg-GKYIxLA63iUT-Mnep2EHVbVChkPe3-E-X1Nc1eEEmBeTV-XwvaYEWgluBHNM8~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"
     ],
     "welfareList": [
-        "节日福利",
-        "团建聚餐",
-        "带薪年假",
         "绩效奖金",
-        "五险一金",
+        "带薪年假",
+        "团建聚餐",
+        "零食下午茶",
+        "节日福利",
+        "股票期权",
         "年终奖",
-        "股票期权"
+        "五险一金"
     ]
 }

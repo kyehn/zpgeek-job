@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230417/607f1f3d68754fd06cc4b3907a25738026a3da8a3a349b086b5bb85a08236905638dea2b6933006c_s.png",
     "bossCert": 3,
     "bossName": "邱女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img2.bosszhipin.com/mcs/chatphoto/20160309/2381afea9bca3cb7b12f4d74d9f167e6814a84e2fd8db35fc55045b3ced8dd8e.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 21,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7NJWOJ7zBnQ.search.25",
+    "lid": "1cyfvyehXiL.search.21",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-6K",
-    "securityId": "WPRvPlS3KWS1c-M1_XRI5wXHhvn6uqCCIeVL0PS7hwSQJow84PJg5N0khMlmHLK19ojmCdluVp6c4NmcSn5QQEnBCVYHSbY0q9AGzMm0KR6uKs8exlLlnRqfyz1EDsD5Tr3T0tAi",
+    "securityId": "lVqKL724mMgem-X16s4ie_Lwhsw0sNlkRiQiAMEQ5AQy2d4EaQJu6Wlf9i42PHLKNL3vEwTzknyn9ucwtqO9sBh5OErDyS4dPumWOnWicOOLoJX_NcN2ra9A5pKJtwyBvzy1FkEOypFCJe0cH2QD7WjvhFOZu_bCoLUCs0DhzEhE",
     "showTopPosition": false,
     "skills": [
         "Python/Shell",
@@ -58,11 +58,11 @@
         "服务台"
     ],
     "welfareList": [
-        "五险一金",
+        "生日福利",
         "定期体检",
-        "补充医疗保险",
         "带薪年假",
-        "五险一金",
-        "节日福利"
+        "补充医疗保险",
+        "节日福利",
+        "五险一金"
     ]
 }

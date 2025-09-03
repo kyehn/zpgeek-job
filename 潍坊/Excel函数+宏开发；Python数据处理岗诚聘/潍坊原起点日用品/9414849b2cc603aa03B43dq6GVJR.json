@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180909/ced9d1bdb9dd292bd6dafe6bbad3676f9e6e9306b1a5b57cb484367af33aece1_s.jpg",
     "bossCert": 3,
     "bossName": "崔女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240207/7bf6f160950405e91aca3d9ebbcea37f35edb017afae12b30102773a19f0a1ea69dc9d91a8c24744.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 40,
+    "itemId": 58,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aAGd6PTL2D.search.40",
+    "lid": "9TkuuMYEVTi.search.58",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "HKo9XwSpOF8TG-31IP-35ekI-JMoXTlbEFsNiMk_nz_z24Lf8GfEWG8xtpWIi5HJkPw4kopggljC-3vLn8_cwNog63N15BqT_qMpZfGkMrGOdzsedE6tZ7gfVFJ7iXJQyQ3GNz9GWfuhMQUb03unI1gBl-Ks7p1cngXxcpWWKdxrY8EziQ~~",
+    "securityId": "G94aYrAhgRSFb-Y15EXRUDPDj98rY2V-vAhG800VYQ3P6JzQPq7IzoTpJ4qr2K37j3OfhZ02kYIlYIqRnAmsVGijJAgqkjQkkM2EzUpisXbGqOkIrhBu4kF-aNf3XC-_aKnEUEJKQbhSUg~~",
     "showTopPosition": false,
     "skills": [
         "Python",
@@ -63,17 +63,13 @@
         "架构设计经验"
     ],
     "welfareList": [
-        "年终奖",
-        "绩效奖金",
-        "带薪年假",
-        "包吃",
-        "保底工资",
-        "意外险",
-        "底薪加提成",
-        "餐补",
         "团建聚餐",
         "节日福利",
-        "五险一金",
-        "工资"
+        "带薪年假",
+        "员工旅游",
+        "包吃",
+        "年终奖",
+        "绩效奖金",
+        "零食下午茶"
     ]
 }

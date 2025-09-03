@@ -22,7 +22,7 @@
     "encryptBossId": "645cee10f38e12420HR_2t25ElZV",
     "encryptBrandId": "c9e84c0bcdb5494e1nR82ty0EA~~",
     "encryptJobId": "bdfc812d56f5f7a003B629q0FltQ",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.531689,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 6,
+    "itemId": 55,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8mSUOcfgJPs.search.6",
+    "lid": "1d11FkYTw3Q.search.55",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "CskTbOxhE5-7S-n1XlX9lA_Czsxk6iskhWsKKXK4qbwjRHW072sq6qufsBzABqQubJUwNRx0S8mfavNNZJMxf8V4iLZ28ixy1P4IpxbhVLve1MiDgLS2ICYrDsVM9X521gDDyAH5mAtpJemiFqujwnyLqmZEVvlYqMGkRA6i0PQec0WHSg~~",
+    "securityId": "Od3H_Moo_6-us-Z12iD_aAG935U0nPL6TVf8XxHVt8bEjQfyGvXs9aDiCv1jPK5M1OiKhWbwVDACoRftTg_7HtGedFKcXln1ngE0iZ_43Bzb9MvSresOriQD5sThiJwm7SrqiesELUOHbSXo0MUlycB4vXE7Gn7-l7fNO3c1tBRbUknFAg~~",
     "showTopPosition": false,
     "skills": [
         "HIS",
         "软件实施",
-        "售后支持",
         "实施工程师/顾问",
-        "操作系统安装调试",
-        "项目验收"
+        "项目验收",
+        "医疗软件",
+        "EMR"
     ],
     "welfareList": [
         "节日福利",

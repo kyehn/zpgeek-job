@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250224/607f1f3d68754fd067756ddd50e8166add8226e12378e3c8500d03ac0903d266d145664a15fe377e_s.png.webp",
     "bossCert": 3,
     "bossName": "张女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘负责人",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 79,
+    "itemId": 80,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,23 +43,24 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8hG59cmX4v8.search.79",
+    "lid": "9TmBMjvKl7d.search.80",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-8K·14薪",
-    "securityId": "E8Dda955ZfH7o-j1-tPs5UCw-OJE3NrmcxIAfY877iP9XaMclrTymNuSTDbLFg1ZjBhRUE0p-DYwyzDPAfE1itUxSKdmBzVwdoOPP2JIAIXa6SN0Iq9Xdfi9aCXAxAQkqBnXIATAR-oWu2jrKsHUId2QbDb190XrvdHjuMn-Z8d4qy0BS44~",
+    "salaryDesc": "7-8K·14薪",
+    "securityId": "CUNaDuxKu1AGA-01mf-ru1dx1L5PHB88F6cGqcEYLHt-bBas07lzuw4niHMG2FNjqO3pjShpgV8F4zJ_gpkKFizE--hjZgkFawP5eUFr6EzUtLbbX-WC1f1lRBZWGnRHa7wjS4q8ONzbOzo~",
     "showTopPosition": false,
     "skills": [
         "Java",
         "Python",
         "C++",
         "Spring",
+        "SpringCloud",
+        "不接受居家办公",
         "MySQL",
         "Redis",
-        "Oracle",
-        "不接受居家办公"
+        "Oracle"
     ],
     "welfareList": []
 }

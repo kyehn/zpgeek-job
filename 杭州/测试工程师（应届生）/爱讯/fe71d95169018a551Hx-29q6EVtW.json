@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180409/22d667d77f66b1dbdb39607459d8e52154bc66e5a8f604c263a512cc60eaf1a3_s.jpg",
     "bossCert": 3,
     "bossName": "汤女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事主管",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200731/c0976513c903b04edbeb97ea8e3e26ab54bc66e5a8f604c263a512cc60eaf1a3_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 62,
+    "itemId": 57,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8iDOv9JIgsA.search.62",
+    "lid": "fIzObjXi4S.search.57",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-7K",
-    "securityId": "4Z5OwJEyF6KVZ-61h7UInxYecQQf6R1J5zj5g-0q_OvLrxr0GCtRcgSvze1OfbB8nSQFcE06accHIao8TDSVGr-qSSCRbfGUZDr1aGfJQ8skmSJQk8Jo_KKT14Cd-AxwtVVcO9P61ra4IZ1mHCK8jBMpvE1h4Zp186LQiLubAYUo2VbQ",
+    "securityId": "BRCUmTRaUpawE-01D0BXwo7tpijbbSdOSHQOpsEHOwyQBYHFCaD7xUVK9bxN04vSu-YKqalog6gPbXplCN5WHoSXZWYD8DhttDuUtQ8FCtVG4VlrZpeV0l4DbFRAbl5g_RjJQXO6-XVO",
     "showTopPosition": false,
     "skills": [
         "功能测试"

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240718/607f1f3d68754fd0869d726678f210718569472f3f83c55a090344bce5ffa6405ada3e8de706a02d_s.jpg.webp",
     "bossCert": 3,
     "bossName": "王云龙",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人力资源",
     "brandIndustry": "自动化设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200913/f5b11fca6bc4f0c6cac062c2365c7a4455517a1fa61485cf554dc51a9bc2c6b9.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100914,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 14,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8kiiz4XSL7Q.search.8",
+    "lid": "1dIBstcPj33.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K·13薪",
-    "securityId": "PeC4CQgzvJSc4-t1bVl_U-_objQQSeN6NOlbo8D-H7Bzr8FHG0O1WEBqx_nJYlH-j86Lha9wVD2DsnsJzZXkfiH34WK0HCwYIc5u2DwEjxixx0W2-T0Enx9bd-KdhCI18MHY123Tvqbaqw~~",
+    "securityId": "csrp7PKyEmPte-r1EQx7vKoqVn9jspCOFuGR9iZW1KBepuruLKFimotf-9OmtZBy1wBbgVb5Nw9swlnLA5a2l18Ohcai68G4t5EwWfY970w1fjlLF72tB5Sbkfz3XzTQr7w56iZ9Xhu3bYOGg5_ZJo47zp1uMIFgU0AcZHBq3pZXaQgYwA~~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

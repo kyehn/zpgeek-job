@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "奉贤区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "杨娜",
+    "bossOnline": false,
+    "bossTitle": "行政",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200410/c37264f4ea659c8204590f729b110528857a89d75edafed3c045869b6bde28ba_s.jpg",
+    "brandName": "汇撰实业",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "南桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "74329882db4340871nZ42ty_EltQ",
+    "encryptBrandId": "7e9af9de8e3c810c0Hx63Ny5Fw~~",
+    "encryptJobId": "a330ff9b5e6068c51XF629i_EFJZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.925381,
+        "longitude": 121.486057
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 29,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "出纳专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9SHQEVBSqGe.search.29",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "T8-8AL9UDESQ8-f1EKLAUN57cOCvaH9gLiu7tmft73yx6okyxg63_nsDqFohjaXDdteQdkauCukD63aibR89-hPRreisVGM0miyp5WxvwFMAKrUi7URkMdc3q1Zecd38akHQckDT-6pfVA~~",
+    "showTopPosition": false,
+    "skills": [
+        "会计从业资格证"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

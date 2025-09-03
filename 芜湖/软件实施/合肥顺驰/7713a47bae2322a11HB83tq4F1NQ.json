@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 80,
+    "itemId": 41,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9axCubURbcD.search.80",
+    "lid": "1eFJGH8UV1h.search.41",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "EP5NTLs1xyMTV-X1lSdLNaD9iwmQwPtM4pjoIyDBzMkBKUZrh6GaOW6z9djO3NW1G-IAqflWPJD7EEyegI2wXm4Hm2PWaBXcAGlkEagtphSvXjwCD1OC1fn7TIVZ0UKY0bidpXRka_1v",
+    "securityId": "Jyzl8ikDpN_bQ-R1-ZgqibclXdAGuHcOFeC9mF2nH2oFpfFqsNR4p5-rKX_tOJXWYh1Cg7PUViDFMYZ1DLGcrP7MiQ_DDm4c3xQEWiB4uwP5osGJ4Hfdl25iTcPwsFbpIybkuq4XA2k5",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
@@ -61,15 +61,21 @@
         "WMS"
     ],
     "welfareList": [
-        "通讯补贴",
-        "节日福利",
-        "高温补贴",
-        "工龄奖",
-        "生日福利",
         "团建聚餐",
-        "员工旅游",
-        "全勤奖",
+        "底薪加提成",
+        "带薪年假",
+        "绩效奖金",
+        "高温补贴",
+        "生日福利",
         "五险",
-        "带薪年假"
+        "年终奖",
+        "通讯补贴",
+        "全勤奖",
+        "员工旅游",
+        "保底工资",
+        "节日福利",
+        "零食下午茶",
+        "交通补助",
+        "工龄奖"
     ]
 }

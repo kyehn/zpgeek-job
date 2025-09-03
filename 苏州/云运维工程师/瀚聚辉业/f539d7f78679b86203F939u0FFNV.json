@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "苏州工业园区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210315/d5f3f33da3627049bec948f5bef5cd40090e82a05ca70b68fc0feb80909d2f71_s.jpg",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "瀚聚辉业",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "湖东",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e42314ca44bb22f60XB62Nu6GFc~",
+    "encryptBrandId": "f9b951e81b5961791ndz0tS6GVY~",
+    "encryptJobId": "f539d7f78679b86203F939u0FFNV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.289082651357102,
+        "longitude": 120.76376123488603
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 49,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "云运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1cwgIgGVvBG.search.49",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "proYl9qqiI6uR-E1e3ZKpISe-JqgC-3KZ-3jBuCiSocaJ2acvrPpk5Mk4_8A2d_voPf5ZjlVMXLJQ6S9h2MHENWOubDEiu6FEt-OADLlNKk1W4tOCblXHgCwuycfMUy3Rh80agss8Iir0Q~~",
+    "showTopPosition": false,
+    "skills": [
+        "aws"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

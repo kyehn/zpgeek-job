@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100901,
     "isShield": 0,
-    "itemId": 80,
+    "itemId": 55,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8jAzvRrpXTe.search.80",
+    "lid": "9SHQEVBSqGe.search.55",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "PAEw1PyXxVd8l-j1Keta_jcpkWt87KcW2paip4_Saxv30LhUSwdkgBMi2bjhp-bctMNzYn0V7YIZ20Jjf6LfS2z7VdwTOWmTEZe55edlIIpGQssxmGiF31rlY1AaIwumT83VGogsxhfjDQsWcsLCkixEhhZgbMsReOJm7tXTj-hJ7SovN9Q~",
+    "securityId": "KwqN_bOMDlreJ-h1Mf0YRMvzi9rR7mAThOgxcw39q6f5tAmbzEIJH0lxVuZE__sEag6owXX4Qr5V-YM5cYirTr0VoZEvdw0GV5XkMhk9reECGQDn4qhqUJfK5YznMwL30N6gKZ-20FLmb6jhynFjZ1WIR7UDrqN7H7JlUgOsUO5Zqjf5jLw~",
     "showTopPosition": false,
     "skills": [
-        "英语可用于工作",
-        "国际贸易专业",
         "年终奖",
         "其他产品",
-        "英语四级或类似同等级"
+        "国际贸易专业",
+        "英语四级或类似同等级",
+        "英语可用于工作"
     ],
     "welfareList": [
         "绩效奖金",

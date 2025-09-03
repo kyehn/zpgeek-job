@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "招聘经理",
     "brandIndustry": "互联网",
-    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20191217/e9d65446126a4f2c27bcf8a4bd43b79abe1bd4a3bd2a63f070bdbdada9aad826.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250728/7bf6f160950405e93e31d377f4b5854965ea564d922ec4f6493497b70f60874042b78a44b6719920.png.webp",
     "brandName": "金财互联",
     "brandScaleName": "1000-9999人",
     "brandStageName": "已上市",
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8komVYL8TNK.search.13",
+    "lid": "1cZWI0EL8Nd.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "HAxYmFWY90O8Z-c1V51K0fCHMLnIQ-51djAH91Fb9edD6LQ3nMWw6nGVZtNcUpwSvuGfKEDyIHGdsosznXEz_8kBpVauwyvCcWXa2dfQDYelkqNOtO3BcqwHwj0UmAFdhI8hxIN61Uo~",
+    "securityId": "jUcG2bbnKtMj6-p1VpYEmtwj5bD8b4ykp1KKyQl63baVmW5SQtsbjGvDZuxLeGp3BuvEfP-IOGQdGob9RY_oO32mHNthHLwJZGjiVqioGPiJoRp8zZF6hEP8kodS7jrx3szPtzfFVvs~",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",
@@ -58,11 +58,12 @@
         "功能测试"
     ],
     "welfareList": [
+        "绩效奖金",
         "加班补助",
         "地铁上盖",
-        "五险一金",
-        "带薪年假",
         "节日福利",
-        "绩效奖金"
+        "午休2小时",
+        "带薪年假",
+        "五险一金"
     ]
 }

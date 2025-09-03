@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210824/607f1f3d68754fd0279fc5c4f7174d3316a4ba2a44e07865bc658c8514662fbeef7f8c5d0fe9b35c_s.png",
     "bossCert": 3,
     "bossName": "黄舒静",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20241210/7b5b554d84f9729cebcc83c9845c077973f759c926435846a505daed23b15c524a23e0b86913baff.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "fee637857a98b5ab1nZ429--FFVU",
     "encryptBrandId": "2218b95c3b0676841HR72NW6",
     "encryptJobId": "f6142aaa1f1d7e1a1XN4296-E1BU",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.572122,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 89,
+    "itemId": 63,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MhJAyLELvs.search.89",
+    "lid": "1cSZKeQ22Iv.search.63",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "zZsvBrNI2gKuK-k1O48A4zoTKs2WAVxk_TBFit67Y2Q-A3JbT3WcBVYT-WqaKV3GB3o-pq9IJi43tkNO6S1K_ifS0rtFI6G6ecNBKluLkvYpfbF_T3AmSkzu2MaApUwG8SuYKibFCK2c",
+    "securityId": "NgaXRyV7AUnqT-y1kil2-IEzSwRZdsQMz5BOjoezRsDmWxPD7oB0UT4wEIIaLUJhZrZutAcNVVevX0HnyLDizR2yauXb3RDelVPX_5-vcrcKdAQVRZti5AN90xYVvTzbZA7ZRYwUS9TiGCfhUuA8Z6XWFySg5BfQOt_cAgSfH3bSOkCR",
     "showTopPosition": false,
     "skills": [
         "功能测试",
@@ -58,15 +58,16 @@
         "Java",
         "Python",
         "Shell",
+        "计算机相关专业",
+        "通信相关专业",
         "iOS/Android测试经验",
         "自动化测试经验",
         "软件开发经验",
-        "计算机相关专业",
-        "通信相关专业",
         "无线测试",
-        "oppo vivo.电视视频",
+        "性能WiFi蓝牙手机",
+        "oppo+vivo.电视视频",
         "wiFi，蓝牙，TV，电视",
-        "性能WiFi蓝牙手机"
+        "系统测试"
     ],
     "welfareList": []
 }

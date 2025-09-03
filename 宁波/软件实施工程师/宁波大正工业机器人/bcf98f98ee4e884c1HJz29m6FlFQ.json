@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "李女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "自动化设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100914,
     "isShield": 0,
-    "itemId": 180,
+    "itemId": 83,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "46TSKRoOHwU.search.180",
+    "lid": "fUNk2GEn7A.search.83",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-11K·13薪",
-    "securityId": "OHMyPgurSW_Vh-x1t06wq1r4zAeywcCPgIezfIip0dcqGdATAzwlWGC-13-GcM0m2BM7RYRnwD8XjTBxl-q9F53ubjF61jbrHV7H2Pavk7zJci4MjLYyppB5JNzvFhMSmQkhnQxYfWDRjA2ma5q_nwmWmUlp1__h5z9y2TILUwrMsev9PSY~",
+    "securityId": "DMB9jMic-rNFZ-u103Qsmf48nvvBr9smmyJLI9H3IKq0IgOWSen6Fd-Nvjf-fLpqrPKzMjSJNyppLjHcAFin01wZs_8E0f_49nqBFLGkhepGrqf9SVZP1hJZJo--pynEOaucDRdXiREnWpo~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

@@ -10,10 +10,10 @@
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "智能硬件",
-    "brandLogo": "https://c-res.zhipin.com/jrs/591baa0ba5cc0961a2b1f17ddcf3fa5c.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250715/7b5b554d84f9729cc22031978b0f4d876bd257aeee2a8dad6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
     "brandName": "上海鼎为物联",
     "brandScaleName": "20-99人",
-    "brandStageName": "A轮",
+    "brandStageName": "B轮",
     "businessDistrict": "康桥",
     "city": 101020100,
     "cityName": "上海",
@@ -22,7 +22,7 @@
     "encryptBossId": "3633f68481ca06951X1-3Ni7EFQ~",
     "encryptBrandId": "0cc8fc2a7c54f67e1XR609u6GFE~",
     "encryptJobId": "2bf1bf22356945391HR739i6GFJY",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.124912,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 65,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PLPXN1IsNZ.search.28",
+    "lid": "9SJdyItuZHq.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "xe34o3mbbR0MP-B1axzfR_B0fIYrXuu_Ip9bmt1o7Gbbp0gcyz8TMZVmAix9e0OKUi7WTYkr4EH24wOh6zsZRM0p706McskzjgB19YzPHu37V97RMzaThpB0B1AMfgrJ1UAwvVSAemyZTw~~",
+    "securityId": "YTdJ4dvJIJFhz-N1iDjRPChjn5zjW76VhRMyRTGt684ba5AD6P5jB14ORWifnuIsofQ-wn-CGufMOpsm31HAVrDEfMdWyslEvi-0p5OE8OxRk-a4TvbxcVAFHGrfrDbUJp-OBgTXHZwVgw~~",
     "showTopPosition": false,
     "skills": [
         "app",
@@ -60,15 +60,17 @@
         "嵌入式测试"
     ],
     "welfareList": [
-        "年终奖",
-        "通讯补贴",
-        "五险一金",
-        "员工旅游",
-        "带薪年假",
         "节日福利",
-        "零食下午茶",
+        "保底工资",
+        "年终奖",
         "股票期权",
+        "员工旅游",
         "加班补助",
-        "定期体检"
+        "五险一金",
+        "零食下午茶",
+        "绩效奖金",
+        "通讯补贴",
+        "定期体检",
+        "带薪年假"
     ]
 }

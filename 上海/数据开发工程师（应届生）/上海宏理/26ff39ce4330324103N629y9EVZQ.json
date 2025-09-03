@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "徐汇区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img2.bosszhipin.com/mcs/useravatar/20160222/9ba2e423c2f0f5674bfd2edaae259b4d8c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "bossName": "张先生",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200408/92d314be4753c7563ad4af326f687df341ba866be505420c2dd1daf88a5c9a9b.jpg",
+    "brandName": "上海宏理",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "漕河泾",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "864a54f94f1baaac0nJ93t6-EQ~~",
+    "encryptBrandId": "785d41052c3c53a91nx_3N20",
+    "encryptJobId": "26ff39ce4330324103N629y9EVZQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.167114,
+        "longitude": 121.395806
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 34,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "数据开发工程师（应届生）",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9SH7z0ktLtS.search.34",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "_yqlqmUUt68CV-U1pYKrcHAF45YtoBsiwYc3mdADhULzHumBn1SjmHiEpXi2I9yclPmfCwKg72NxkZYh5NW6I33cICwpTYkwo_uSWT7sw775NigmZOChSJ3ZlWdNIMwX0cA3DUJWfg~~",
+    "showTopPosition": false,
+    "skills": [
+        "接受无数据开发经验",
+        "应届毕业生"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

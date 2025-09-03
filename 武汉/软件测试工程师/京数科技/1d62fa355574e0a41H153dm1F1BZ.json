@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200103/59b8c52f79f6e298a014db66c165cf38852d5739d3bae91805e57eb398324b6c_s.png",
     "bossCert": 3,
     "bossName": "由思琪",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "ＨR",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240806/7bf6f160950405e94191c4abb69b668bc7451f396fe070224b5e17af7aa19400db11aaea83f88525.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 30,
+    "itemId": 32,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d1mzKbU7Fn.search.30",
+    "lid": "1cN4o9Hqvlk.search.32",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "C3A3_VZY6ts6p-X1kWw78wMpUtSOGJfcvhVks5liIwucM--nfmFrZsWf8Wugmz59N6g36fUN1Nw34CzINMpbXQFIJnV31ILn9RGGbYi61HlGntdnCpH-Q0iU1m_Wo7jdzFHa3r5IVIw5iQ~~",
+    "securityId": "22JDmZ4okx66M-W1ZfGAXNLhqyHHlz1NJ0QYexqJniyVGOTmXEJyZU64oWN3hknRckA_I68oUYnl7d1C7YP4UBbsn5yTbgFpwRJbqcLm57d0nGyAdNjtKHUcbwEtaRE9twthL3Iwk3G6fCPem8iHfE2z_p7Z5DPKPIysxTaB5-nm6T_ddA~~",
     "showTopPosition": false,
     "skills": [
         "手机软件测试"

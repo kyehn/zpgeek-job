@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100403,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 24,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9azGisIY1Ft.search.28",
+    "lid": "9TlT5eVmNAT.search.24",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "SNAsPkZBs2Z1j-U1HLDEQB3vChTLb_nUVxZouiEIvte-yiOVoGrRW-PcTL9gbh_voRYnJIAqC5mSF7oo_8PLfZGH9gvqL42eAG5gT3GKoROKih3d48lsItMMhgtmAmGf2WQ9aNpInmY~",
+    "securityId": "nWlh4DOVXx1Uu-a1dL1Qy7jpDrMFdH8znTQkcDZmUCAz6LXk8iUgiCG1Rwq2U7tcUlnst8oU5UMN7OEGfQxrxN9yZ4z6Iv8LrdE0h_8BOiPRX3mLO6SaDfZMPg_8G-JzuhMuNL0WBcA~",
     "showTopPosition": false,
     "skills": [
         "Python"

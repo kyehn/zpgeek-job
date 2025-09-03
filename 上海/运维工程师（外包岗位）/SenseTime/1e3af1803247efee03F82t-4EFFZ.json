@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 49,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9b17oGdszFJ.search.25",
+    "lid": "fB88CNJuEm.search.49",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-10K",
-    "securityId": "QEz7afbV5pbYa-E1DCMqcEqDCEanPsBn8pbPfWLdvNXJvlB7VnZcZWdg7O3JWq08jLk107THWz0IDwMNkCjvNydpEmxA0-3UNxPbbciRPhrehR8jR8YoRzcRe7usfL5c3WmM6g3oug~~",
+    "salaryDesc": "7-11K",
+    "securityId": "TlENZ8swDW1ZQ-k19RyBF7UlvSEndACO7S1lb20F5TadWsZMClBucKxMdwX-6K-DarYyN7ZL1Zd7LBtXfbNqL0AwSIcwe1KsTGKxaumqOdKJ00r0TT7a4gKukV-HIdiDP26J6tAQwA~~",
     "showTopPosition": false,
     "skills": [
         "系统运维",
-        "运维经验"
+        "运维经验",
+        "Kubernetes"
     ],
     "welfareList": [
         "加班补助",

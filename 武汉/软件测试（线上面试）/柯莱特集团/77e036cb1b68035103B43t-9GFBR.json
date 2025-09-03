@@ -4,10 +4,10 @@
     "areaDistrict": "江夏区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250212/607f1f3d68754fd0dfa79f7ef01d22dd0537801a26e80201e727f133347c9c7c184b46e7a4cfcbe8_s.png.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250718/607f1f3d68754fd03074f7cae091f503e65ce8ca41fb5ecee727f133347c9c7c184b46e7a4cfcbe8_s.png.webp",
     "bossCert": 3,
     "bossName": "苗女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR.招聘专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "7f7f0f563cf9e3ae0XRz3dq6GFNR",
     "encryptBrandId": "879cece58f6a7e7d1XR929W0",
     "encryptJobId": "77e036cb1b68035103B43t-9GFBR",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.451678,
@@ -32,29 +32,25 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 36,
     "jobDegree": "大专",
-    "jobExperience": "1-3年",
+    "jobExperience": "经验不限",
     "jobLabels": [
-        "1-3年",
+        "经验不限",
         "大专"
     ],
     "jobName": "软件测试（线上面试）",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7SJsQutm29x.search.13",
+    "lid": "9TnifLbuNZt.search.36",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "3-4K",
-    "securityId": "P1O8izTnhCLic-x15Ldizu5DVvfmthF_yuGknCRdMOrLqKKqoZLqVXuYGWH0AhoMAVKTIZPul5iQwnCFWQ_au1Q7kj2HLnoAKJRdop3PWegGSLmoolPHHYi3SiEVO3yeG-3VUYBW3XnkYiY5ZY38JRhJUP4cCEL6pv-xH9tfUm2E06-Q",
+    "salaryDesc": "4-6K",
+    "securityId": "Mu74nyLyvNpjx-K1EEAle-FZAyIY4aMhRt4l2tU3KpQ_RkDK8KHTBVcTf8Jjrpa-kCQ8e7mO_ND5VWa4UHCFj6LXBY1L2mi1ZC6alntFs92X-6fqQD9uYxqVoUF6v2anbBXNfRHqjK5H",
     "showTopPosition": false,
     "skills": [],
-    "welfareList": [
-        "交通补助",
-        "节日福利",
-        "五险一金"
-    ]
+    "welfareList": []
 }

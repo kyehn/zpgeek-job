@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 37,
+    "itemId": 22,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cYpdp1Sgrn.search.37",
+    "lid": "1cQC3O6Fmf8.search.22",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-9K",
-    "securityId": "8P_3SaWuB8dD9-a15Pcp3GUuv_iEYMsdJlBMXP3HX0pPjZ9SnYWwUKlrAME7pM7G7L7lGDrJy-TUMAseQrk94vMMNogDdg8T5c-XC9ue5abB_ZpCx5Eb9rctEfoH_1snId9i-WjVJ-CEH6uguqsSxrkNfWdxGp_Rr5SZYcp0SrMFxmyd",
+    "salaryDesc": "8-10K",
+    "securityId": "bcB21Dc4nRsMA-f1wy0QuxLCYUuihaXEhHLpXlt3tktV_AEbkNKvdej_xkbyE_-lKUCl89TpRAX9dHbIgtyzDKLAPKaLUE-jNO8C7IkGHaZlYKg-6L5Y9r3IvFldu7_XXI6HVpDazTTGYTGjSqHHbvE2xAZ6XWSzqDHX0Fblo2liF_9s",
     "showTopPosition": false,
     "skills": [
-        "Python",
-        "Spark",
+        "MySQL",
+        "AI",
+        "其他",
         "自动化",
-        "AI"
+        "Spark",
+        "有前端经验/技能",
+        "Python"
     ],
     "welfareList": [
         "定期体检",

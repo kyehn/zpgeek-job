@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220401/607f1f3d68754fd0040614f377298171fef838e39314eed191f6e1df1eae87d903b887d1e68fcb6d_s.jpg",
     "bossCert": 3,
     "bossName": "黄女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事专员",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190305/e975764684d007b2bb6be83ccd07698d9524b019617bd8017abb8a53683bd8e2.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "5298159f716ad6641nR639W-ElFR",
     "encryptBrandId": "43606cc223cfd5c71HZ92dS0EQ~~",
     "encryptJobId": "f43c4a0d7c0ddc5503dz0tu0FVJY",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.630496,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 70,
+    "itemId": 40,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t3IziUSQkB.search.70",
+    "lid": "1cB0S63jwVs.search.40",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-12K·14薪",
-    "securityId": "dZ1TXvb99srd8-712WRDTKJiQnJOHEQuDYrQBcYiq8ndP7F2u7tA5Yett4xIFgjNpTRUG7caBDmvOv5USeA6i-hvBnnsZQv73ucf2XEdQ288nN6pf3T66ovKOEtoMqG8yNKJaHk5CzAFUQ~~",
+    "securityId": "EYb10I4UJ4rQd-Z1eqoZLbnoBK9NBlr7yFbHd18TP97kCU27DWoXdmDIG3w3vIql6c_pgBirZxVJnLwzUHlECxDBsI2KD6l_J4lcw6sbMXuEPurqc-H46WInVtfnJ-mDOXmxtIJyJ3dan0Ft983TAPAY4JH4xqjbkpUqSksmSIGUM1lwlQ~~",
     "showTopPosition": false,
     "skills": [
         "接受无数字后端工程师经验"

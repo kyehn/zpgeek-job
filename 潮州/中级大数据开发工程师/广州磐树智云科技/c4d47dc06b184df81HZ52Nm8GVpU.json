@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 29,
+    "itemId": 11,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "88TYIHccyKo.search.29",
+    "lid": "9TkuuMYEVTi.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "4oqbtDk0H8gvp-R1AT2FU4Z7ATlBVk9zMUn3tT3wauzPPPlvt-8b9TlEiaIwtAl_or9uzXg9Aaqg1jZ_xRcoivfT1Gx0DqfeF31faVWEAwxC9fKt2abXfA3ioYpSYQHK2YE-a0frZjb4Fcw~",
+    "securityId": "NhgPXf7zPdjTY-G1Cp4MbIXhTlbae5_DHB_U6-7xajrvzDPon8zgRpO9cL3f6zEmgNsizwqNCGJ7PF-3RZSVCsBTl0frT4Vnej9ylP4YO0l4-NbRtl4nLdQCtS1qVW9_oR3UxUNEd5t40XE~",
     "showTopPosition": false,
     "skills": [
+        "Hive",
         "要求数据开发经验",
-        "数据平台开发经验"
+        "ETL开发经验",
+        "非外包类",
+        "实时数仓开发经验",
+        "数据平台开发经验",
+        "数据治理经验",
+        "SQL"
     ],
     "welfareList": [
         "绩效奖金",

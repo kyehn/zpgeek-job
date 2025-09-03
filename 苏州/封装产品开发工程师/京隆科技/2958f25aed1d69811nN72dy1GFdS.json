@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101304,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 84,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7NSgwdbh8YW.search.72",
+    "lid": "1cAjt8blAIl.search.84",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "1tHotRHo9g3LK-C1bND7fyKoHGEDYm8GZ3feMMMaOnAsXYpWd92RmuRH44v28FtReyEFKqyxtJ6oOZg9WjJOhYKJVuK7Cbw_ZA3w5GLrwgciC6RneMBlmtQYOGHlKUZDHkERhU_2dF5P",
+    "securityId": "BmVGCH3Z4tNV5-N1smqf8z-dSVxV5w1vXAVXpBlFCjbv6BJLXGi0h-VLS0tDGrtboZYLoeKlGHmebCF3bS39MZ1klanpNF7QugjIbAMNc5Bm7fqPZ4_ssdSVjUbve23g_XK8vXdQBgHy",
     "showTopPosition": false,
     "skills": [
         "新产品导入",
-        "封装",
+        "研发",
         "开发",
-        "研发"
+        "封装"
     ],
     "welfareList": [
         "员工旅游",

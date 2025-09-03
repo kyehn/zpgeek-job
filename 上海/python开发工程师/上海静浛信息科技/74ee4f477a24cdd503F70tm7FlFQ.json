@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 12,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9b17oGdszFJ.search.10",
+    "lid": "fB88CNJuEm.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "QdYta2WOBKCSX-y1qtGcHu9wCYmHs-ST91c6eOzwFaHc-TTHNejcRgM3LKWi1pdBLa0PPntxkqzw4E6kqZZFsMlWwOILzVUxd9w0Q7zs33GDHU9o-lk2AmJVm0uWtIOf72aJmsKy4opKxAc~",
+    "securityId": "mnqkd553TECBM-G1ecpSFcTp4R-puYqVY1gF2M1wqV3gRHRuNpI7E-324U5iebFrm_IRdJexr1G2CootD6VcoxGn-vnfwpRHoqNStsCZK1U9ICJN7c7D_836IEy1b1RgnFLWkXQuFyRvGV4~",
     "showTopPosition": false,
     "skills": [
-        "Python",
-        "Flask",
         "Django",
-        "MySQL"
+        "MySQL",
+        "Python",
+        "Flask"
     ],
     "welfareList": []
 }

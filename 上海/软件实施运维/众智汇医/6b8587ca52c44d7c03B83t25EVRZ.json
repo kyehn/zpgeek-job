@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 79,
+    "itemId": 76,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,22 +43,22 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5eJpuFynlX3.search.79",
+    "lid": "fBEgRnLA42.search.76",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "V0Te5QauoHVpL-K1TR24epUgaamcjYQ1a2huRG69a0ac5CxrbbumQtZ_pzyTNq3bvkl4I1jgLMhU2TigrwHCdPgOozhQgvLNPbfa-_94COoLV3abHEkmTeQxiNyqCguWD0COs9moQcjYnQ~~",
+    "securityId": "aZ8iBM4QgJmoG-21SFcaiLuMFIDeuQ8UwyzubwYhTdnENjT3uh3dTctAPWXUHypZ0jSiGdKynYDaMmtHUZVtCBc_nPVVhTkGrgywNeMffbW5mN0jVLBiUpGiiMMu1XgkWLz1mqA9u4sdow~~",
     "showTopPosition": false,
     "skills": [
         "Nginx",
-        "MySQL/Oracle",
-        "计算机相关专业",
-        "SQLserver",
         "医疗软件",
+        "MySQL/Oracle",
         "沟通",
-        "编程思维"
+        "编程思维",
+        "计算机相关专业",
+        "SQLserver"
     ],
     "welfareList": [
         "有无线网",

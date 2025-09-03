@@ -22,7 +22,7 @@
     "encryptBossId": "a48de4b681791ab10nJz2928GVBS",
     "encryptBrandId": "cf94100d50a93dc90XF809u0FQ~~",
     "encryptJobId": "93eda8b879182ec403F-2ti4E1dV",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.706702,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 84,
+    "itemId": 60,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,24 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ufOAUvGpHE.search.84",
+    "lid": "1cWkTd5bYQD.search.60",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K·13薪",
-    "securityId": "9YDzNPwVZWKlR-w1QJXJQJfKZu7q8lb94GCeocoTncW7JUUrNaCnb1VxMZhQhzQgM2U43r-VY4AZzooKSllcBVq2xAAD7jSxmrb7NTgrC9fsruZIuW1RRQ6ilcSChcn1tziAJCuNuCNRu8wLX1OQTyn3uygpq45nbAAhmyEab4LCKeklHQ~~",
+    "securityId": "WRDr_euZW7MB0-a1g0tvWldP6g2SvCW4v43GeuLOB9JWbWPxGVc6Aaej66Kn57caw8k_T79c9E9aIEosEHDaWU-55EkNXabm3JuIxiJXPMeGkS6bOBOaMwquotDmYbDjb8tF3RjX7Z3IZG98kRb2cXBGHGWmGoDWrAPE9LJeKWd-24fX_w~~",
     "showTopPosition": false,
     "skills": [
         "功能测试",
         "测试工作经验"
     ],
     "welfareList": [
+        "零食下午茶",
+        "带薪年假",
         "保底工资",
-        "五险一金",
+        "绩效奖金",
         "年终奖",
-        "带薪年假"
+        "五险一金"
     ]
 }

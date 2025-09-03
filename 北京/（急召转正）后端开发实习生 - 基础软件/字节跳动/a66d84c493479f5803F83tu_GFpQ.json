@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250702/607f1f3d68754fd05f0d3ce49a638ea9013db991a33010c2bad4e45f4d60cb1dff72cfc23d209ad2_s.jpg.webp",
     "bossCert": 3,
     "bossName": "余女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘HR",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210323/aab1b65662224a865a9b6ba9aceaab02babfa420ecc134d2606b05aa8114130d.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "3e28865bff0dff0e0Xd_2t25GVtQ",
     "encryptBrandId": "f409f37f83a6135b0nV_2d25EA~~",
     "encryptJobId": "a66d84c493479f5803F83tu_GFpQ",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.965724,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 37,
+    "itemId": 52,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,21 +43,20 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cPQG9ziPWL.search.37",
+    "lid": "1dGQkLkq5lP.search.52",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "Xaq60AYWVmIo8-I1SsIi6rtVX5Bf50SqM3I0n9LQOWl1AT4WEFdxnAy4PpKNgT5hqq1yVlx6j6j1kdm2i5ar4AGaLQsMB_MgqncWl-Zam-dNRFJ5_toBdEQMyoV5kKvehS08b_ClzibS8g~~",
+    "securityId": "QLP0_AHF8Cwl--V1S4qyvfpVrCv_gsi8RUfgEBF7fx-YEdvfcZywnqqVlMFue5EOF5NPJdPfdnVLs1HychRD3S1ffQy6l4YNr_koOWVmyDn0DauFkJRsezBrsoXrUXLwUzheBDtesRuH6AB97_MmKgZwWxE9MB8XmaQIbqCyuLHIYNCADg~~",
     "showTopPosition": false,
     "skills": [
         "C++",
-        "Java",
-        "Python",
-        "Linux开发/部署经验",
+        "分布式经验",
         "架构设计经验",
-        "分布式经验"
+        "Linux开发/部署经验",
+        "Python"
     ],
     "welfareList": [
         "团建聚餐",

@@ -7,13 +7,13 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_16.png",
     "bossCert": 3,
     "bossName": "沈建庭",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事主管",
     "brandIndustry": "通用设备",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250801/7bf6f160950405e9df89d3b856a18db1b4cc882cec9e5a1d87b6ee383bf279fd30a06281f4eff76e.png.webp",
     "brandName": "铭华泵业",
     "brandScaleName": "100-499人",
-    "brandStageName": "",
+    "brandStageName": "未融资",
     "businessDistrict": "瓶窑",
     "city": 101210100,
     "cityName": "杭州",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100906,
     "isShield": 0,
-    "itemId": 71,
+    "itemId": 74,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,14 +43,16 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8jtHejUtYhB.search.71",
+    "lid": "fFuHkjaLGe.search.74",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "Tdnrr0XsYMs0U-r1aZ03BohTZaQHW69JZ81jCS7LLyJJSFSzAFY05AXX2DBeVWs32oNWvpD5mu_ii-nctS0Gc8PF3KL31UC45aOKhUy9NGsqsoagnTXCE134EyJkPMd2W9cZrzFzi3WK0rNFZYCQKxdXvWDxAbfS3gU7xGKeVXho8SSUNjg~",
+    "securityId": "IBqLc3iU3TUw2-t16YXYlZc1d3Ie7o4J_n-2DsSRvBIE7hM_CkrGmhgtkDQpMsBw5S2DlSeCkxv7wqsPBbd_bGOGVftP7xsbTH7tm-R9l5qPYzsufZCbJesj_NsYEZxIfOmoVI2KWFo6pYo~",
     "showTopPosition": false,
     "skills": [],
-    "welfareList": []
+    "welfareList": [
+        "包吃"
+    ]
 }

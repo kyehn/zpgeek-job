@@ -22,7 +22,7 @@
     "encryptBossId": "8109e0f4c989a7fa0XB-0tm-FVJS",
     "encryptBrandId": "bdd3b241acdb589d1Hdy292-E1I~",
     "encryptJobId": "ece64d6773ddfd931HF_3926EFRQ",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 29.966202,
@@ -32,24 +32,24 @@
     "iconWord": "",
     "industry": 101402,
     "isShield": 0,
-    "itemId": 250,
-    "jobDegree": "大专",
+    "itemId": 67,
+    "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "大专"
+        "本科"
     ],
     "jobName": "办公室文员助理",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4WxeweCqtM7.search.250",
+    "lid": "fFuHkjaLGe.search.67",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "IN_blRRTUqj9O-d14hk1hyRUs9VZElen7XsXTnq3ARXDmfMzSsDtoGMuEOiX4A28Xn2cmjJiD4-3oW-F7xshiBfWe0-5Px3xRgU5xdwcxdtQT3Mtv6pTHD8QCvjEX9ZeEUq_efHMOFR_yl4~",
+    "securityId": "HY13zVWInR6HB-b1fPsQpfCGB8VVw7XnbV04PiIP2hVmoN2DrC4SV2RPzwMKVF6zdMkkuohwvWnRK9aR-1ql60T9QPsl2NYobhaJCj0k9yP7MbD7I9gnhySCHn2y1C8_nNJ9S9Q15DiTlLg~",
     "showTopPosition": false,
     "skills": [
         "文员"

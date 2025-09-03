@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181128/c7ee3109a0bb455c9ec63d5a33c91c8fcfcd208495d565ef66e7dff9f98764da_s.jpg",
     "bossCert": 3,
     "bossName": "滕先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171116/b1f264b1d63e662745d18e8b5de91a82cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "7252f9147d4179991HV609i7GVo~",
     "encryptBrandId": "72629ee3773d1f3e33d5394~",
     "encryptJobId": "4e15a741e5bc91ac1nx-3dy8FVZY",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.495704,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 82,
+    "itemId": 41,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t5mOM03LNr.search.82",
+    "lid": "1cwW7iMoez6.search.41",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "HaFXIQfkABJ37-D117rucU2jPMswtwQa7-cfyduBlcLPWw-KYj-V5ZcfhnfdmQRhxu4A-RbMaQPX0tUeCyNpKEcf6yiL3YeBNGIvhrN1vO9af0bofSF7uO5IlPRJkYAGxWLeZnvmwg~~",
+    "securityId": "mP92EB3Sist8D-G19-TJfmv11VDOhVDhXW76hwyKPkr_gwEhILOrBSgHgBrBCynT5CmLsp4CdPh4t5TB0VmlpEoSDdJJqHw7tPAnCicl6ONMlduT_2WFXjrQDu5bTtcZMjcGL0UGFUDex5er138NagyYMyUItKHFba2YuXAsHj6bng~~",
     "showTopPosition": false,
     "skills": [
         "运维"

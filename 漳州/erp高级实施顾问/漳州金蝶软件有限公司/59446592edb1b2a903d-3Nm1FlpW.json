@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250416/607f1f3d68754fd0a4ecafcb3efc3511d69fcc42751184fccdc7e0040d25e566038e25429343f020_s.jpg.webp",
     "bossCert": 3,
-    "bossName": "黄女士",
+    "bossName": "王女士",
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "35620aed22176d1f0HR53Ny_E1tR",
     "encryptBrandId": "ebd12557f37cdfba1nJ92tm_EVo~",
     "encryptJobId": "59446592edb1b2a903d-3Nm1FlpW",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 24.493068,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 61,
+    "itemId": 23,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "89NpSAIckaC.search.61",
+    "lid": "fU0clLMnsu.search.23",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "zemm_dN2zOQQp-s1hWT06TzKP3LlJD_0wLDeB9lKEBT3xHfrvtZb2Hg-KuMHqbOMk_bv2vT_b8B0uDl8YOKLBf9m7L-ajpXuk_Pgn9g2VuSbk1NA3hjF",
+    "securityId": "AveRjT6gZSWxS-g1hLidoKn5IhHfD9mZkme0vsHJ2b0WihtB6Vchm48bKpL1PDS6Hu9umTvAkC4rw7wHGiZneAldk_wsykZUvykc5t3VviYKGKhPNvDAPAbWuP41xxMdE-grcUo0SGJ2YFA~",
     "showTopPosition": false,
     "skills": [
+        "软件实施经验",
         "ERP",
-        "计算机相关专业",
         "财务相关专业",
-        "软件实施经验"
+        "计算机相关专业"
     ],
     "welfareList": [
         "年终奖",

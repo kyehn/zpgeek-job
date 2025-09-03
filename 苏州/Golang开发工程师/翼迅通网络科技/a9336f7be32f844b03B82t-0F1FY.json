@@ -7,13 +7,13 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210810/04504cb67eb49d5f230722c096f7290f3ed0dd4a7f9800f75506c24386b85091_s.jpg",
     "bossCert": 3,
     "bossName": "金女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘助理",
     "brandIndustry": "互联网",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250722/7bf6f160950405e9a11f0d5a42695faa269b3cf740ca175f3ed0dd4a7f9800f75506c24386b85091.png.webp",
     "brandName": "翼迅通网络科技",
     "brandScaleName": "20-99人",
-    "brandStageName": "",
+    "brandStageName": "未融资",
     "businessDistrict": "元和",
     "city": 101190400,
     "cityName": "苏州",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 87,
+    "itemId": 52,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,28 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7NPUcSwHYQx.search.87",
+    "lid": "1cyYyLA6axo.search.52",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "hD_9x1eZ6E8o_-b1AVXOzLdAVB0MvJY0XmTWvkTooq8-s1IlrOdVb0ILbnWN7CxD74ufopTuNjqgYclON3PDuAVXREogTWH9Rw5EXTZskO_rLQAdUkSFjts-rqK1zZ7VnE-1P9FFTVXnHA~~",
+    "securityId": "6vZEbcGQHs9fx-g1Q6MYYBdjVgHDN-0vX-97rt2oiSi5oreLb3uQbLmVovW6GyjEocNKVyKtP2MnSHMiNwAcxdiec5Wxu7qinsZY9S5iNzE5nyqc9MHERLtDu4oyr8vT24Lbn4SI7UFxb6hn9JHnIZevM5ZyMYRacmHLHbmr8P9s2L6DJw~~",
     "showTopPosition": false,
     "skills": [
         "后端开发",
         "数据结构"
     ],
-    "welfareList": []
+    "welfareList": [
+        "节日福利",
+        "团建聚餐",
+        "绩效奖金",
+        "带薪年假",
+        "全勤奖",
+        "法定节假日三薪",
+        "节假日加班费",
+        "加班补助",
+        "五险一金",
+        "餐补"
+    ]
 }

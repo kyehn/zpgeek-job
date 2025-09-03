@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 12,
+    "itemId": 10,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d2nkGQNYBm.search.12",
+    "lid": "1cLO4QOSa1g.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·14薪",
-    "securityId": "IMKfjqns-8SMu-91cmgfXVprxYylimizPmNAiENySXN5iKTvp8Mp9n0bDT9-Cf0gdXshTuR1XCumd769F8Ld_Hjg8EX-WUDmKjnj5Wv81ElEV_ZLapkGf5RKXQhjPVuIG98nxihtxQ20BhYI1pdfUXH6-U6bWSM8HWjwKvjOQmJPTQ~~",
+    "securityId": "PQP1JntIwv4Nb-v1-4fi04PHHobgXtoijdQcJ0ImCD7RT_sOwEWX4uGwyELwpvjBKi0vHzrtQcAA9qhVnQqr2c0h_Fwt_xIlvZioftejqYrZj9IhetaACflvojwFcviyygOI9P1nab21mu6GbKvvLbeWhCtl4vj_M-dlPk0ap7YPYQ~~",
     "showTopPosition": false,
     "skills": [
-        "计算机相关专业",
+        "测试工作经验",
         "通信相关专业",
-        "测试工作经验"
+        "计算机相关专业"
     ],
     "welfareList": [
         "弹性工作",

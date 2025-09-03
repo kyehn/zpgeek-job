@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 1,
+    "itemId": 2,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,15 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cKPsInea5A.search.1",
+    "lid": "9SHQEVBSqGe.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "WuNxa1JYmQS8_-C19ZqMpmutbGKhIyAY059FBV0LCdlLM9Von2VFJwP-_s5UtWdJDKgbXv8UqYs9FZvfVXLefYbNengOnnLnyz07kN_dYzlb00Fpl-A4sAw2Pd4nLyTNouaqwghDRHDA52Q~",
+    "securityId": "N2WAp9evZVfmm-51ZkClwZtNyBt7Cv9SvQ2h6IRgAR5_y82icFev3KK6AKlUg7E9p2pyjeyO2Pm4VMmTP5MpfevurCyF43efZ666eggOwXN3p82S_JB3904NNJ77nOCns5-bwJJ4JKG5qCU~",
     "showTopPosition": false,
     "skills": [
+        "计算机相关专业",
+        "数学/统计相关专业",
         "SQL"
     ],
     "welfareList": []

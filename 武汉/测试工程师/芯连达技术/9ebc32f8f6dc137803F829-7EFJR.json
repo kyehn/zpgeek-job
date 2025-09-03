@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101405,
     "isShield": 0,
-    "itemId": 66,
+    "itemId": 85,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d2QdAJCJse.search.66",
+    "lid": "1cMnT0Llz88.search.85",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "7cDUGe4NuH05Y-s1j4_SbEbgcZ4M8xzGGB1UkrXioYsKQrBRuArMfu0zKTUnmra8EnX0W5CoxGhVJKEI_H_FeVoBY-kE2CqM9bUst9JJXdGqijAlAmH9cu6LZiJDjb1E1akhQSXbqSbUdS4~",
+    "securityId": "LzUH5mgt2erJi-t1X1KJ4EsH7rPiFfOTEVzK0SA0DCBxG9cZh8ce3Iat_yU_V7TbYXPVUXsaNgRNLUW7hqZlJpIrb-pHN0q2t1UEK8dnwzH4xHZR03QF8cxPAcoQ--5HBhElNhqhBURHRVg~",
     "showTopPosition": false,
     "skills": [
-        "测试工作经验"
+        "测试工作经验",
+        "通信相关专业",
+        "性能测试",
+        "功能测试"
     ],
     "welfareList": [
         "生日福利",

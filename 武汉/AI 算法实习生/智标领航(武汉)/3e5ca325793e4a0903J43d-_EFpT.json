@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190325/571d420a0ddc1da72c90eaf60cdcc557cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "bossName": "任女士",
+    "bossOnline": true,
+    "bossTitle": "HR主管",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241016/7bf6f160950405e9aaa56fbc84ba2bdf739575785936a1a42ca949f4534974cf8f4c7ae0b89bceb3.png.webp",
+    "brandName": "智标领航(武汉)",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "珞狮南路",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6d1add1f5f073ecb0nx539q_EVM~",
+    "encryptBrandId": "301bc854280dda531HF92Nu5F1Q~",
+    "encryptJobId": "3e5ca325793e4a0903J43d-_EFpT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.455082,
+        "longitude": 114.319881
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 32,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "AI 算法实习生",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1cK1qnXw7Bx.search.32",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "6b9sVLCdrnS2N-_1XuII7XFP8VTma3AB-ytztdFr4rzwFmAPDpkTgDzFsHbnJPkV3M4o3XGnIXGJdVvVt5o0M8H54KGWGhKVpeUgCXuhC15bn5HqJIV_YFXNV400HFgorK_tmnvjhUvnybmB04qqCOFZ1OfLYr7VKVlB_LO7IDJITCL_Pg~~",
+    "showTopPosition": false,
+    "skills": [
+        "大模型算法",
+        "自然语言处理算法",
+        "Python"
+    ],
+    "welfareList": [
+        "五险",
+        "绩效奖金"
+    ]
+}

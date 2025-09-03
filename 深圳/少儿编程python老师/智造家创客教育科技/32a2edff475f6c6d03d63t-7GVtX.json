@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "宝安区",
+    "areaDistrict": "龙岗区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250620/607f1f3d68754fd09f6d86ccb04b80b569757fa1c8bebcb951010d790bf6d6224a3d4499b075b73b_s.jpg.webp",
@@ -14,7 +14,7 @@
     "brandName": "智造家创客教育科技",
     "brandScaleName": "100-499人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "西乡",
+    "businessDistrict": "坂田",
     "city": 101280600,
     "cityName": "深圳",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.58666,
-        "longitude": 113.892045
+        "latitude": 22.629003,
+        "longitude": 114.109147
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100012,
     "isShield": 0,
-    "itemId": 16,
+    "itemId": 7,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cYpdp1Sgrn.search.16",
+    "lid": "1cQC3O6Fmf8.search.7",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "cj7pkrN2RJvUS-e1LzVRNx1xh3ngShfzQWT091rWfXn7QQxpez6GEFYmSVz8-Ix8NcUWVWRR1rPKuS5MN8eO9wKHErfBgaDq-6Bi3ZKshcASHn4RPmQj4QYRMk6GQDGgpYTacACq06ui88bTo4uHDGWrVE6veyIbLvT00gtWXhYerClVoQ~~",
+    "securityId": "a3uaw0fPTgZP1-E1aDdBOaPiyeVBJ5clRLIaiCCnwKGB8_wRKfOzHF_5pmUG89vDeECYx1ks_unMcNSCWJzEsxYX6MP4f3LAb7WrIR5tUgqut5pGZGrR5ldOPZP8MSffzifr3yRnW1Ayu89CjLbeD8T7yMonCHvJdHTdfnuaTAUO6SsiMg~~",
     "showTopPosition": false,
     "skills": [
         "python基础",

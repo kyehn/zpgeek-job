@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "松江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230518/607f1f3d68754fd0fc3c3ed864f626fb25825659aa62e5181e12df93cfc94c79a0faa651c962b77e_s.jpg",
+    "bossCert": 3,
+    "bossName": "朱先生",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201121/6887eb127e24379a5ac6293c8d8cb06901803dd7176e83b5d8a84cd655cd3c75_s.jpg",
+    "brandName": "神牛数据",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "九亭",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "96b80037abae2f2c0n1y3tS1GFRZ",
+    "encryptBrandId": "4816d8c1e10646611nZ93NW4F1Q~",
+    "encryptJobId": "ae12a0bd8d78ff9003N52dm4GVJW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.13723345642834,
+        "longitude": 121.3203779717142
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 4,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "全栈工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9SGvBvoS392.search.4",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "FCTeWJIVOKcfG-N1UW_G8Vr8QnfMMXv6JV_pbi9aK-XkhruglUEN2afDw4U76a95JvgK3Flz7ec8QNhLSMPNUXZOORPHLXh8n13LNBde1OPyMUNCGuwXscZAaJwCoOUy3fK9uh_EuQuPnzm59iEev_nFeg_g1aGwcY0v3ouQItdFuovn2UQ~",
+    "showTopPosition": false,
+    "skills": [
+        "全栈侧重后端",
+        "Vue",
+        "Java",
+        "Spring/Spring Boot"
+    ],
+    "welfareList": [
+        "项目奖金"
+    ]
+}

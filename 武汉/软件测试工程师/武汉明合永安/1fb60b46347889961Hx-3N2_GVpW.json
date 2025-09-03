@@ -22,7 +22,7 @@
     "encryptBossId": "2784a603530e4ff90nZ73NW4E1dR",
     "encryptBrandId": "bd57016eaa978c911nZ62dS4EA~~",
     "encryptJobId": "1fb60b46347889961Hx-3N2_GVpW",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.57854,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 75,
+    "itemId": 67,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2v5vZFnfxud.search.75",
+    "lid": "1cN4o9Hqvlk.search.67",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "2iFDEUmXrEiJW-D1RddzoHx4p0aO3CvkizFomgCYTYabe76kkVsaBa78X2bVHghWSw-iMqXlbvdRv-aMwzWPOC4rBTPzPhf6AQt9y-t9Mik_d537eloaLH86_mOJ9s-0DwU3fTWyxjrP7A~~",
+    "securityId": "_wVKTIKU1X4J8-21mXPZRiMqgeQrdb3YSOjF8674tq6gnC04NAounx3GhdyvLRFpo1rOH837fQ6-ZFD1FC9_dW-CnpRpceEqBCU30cO2JaBZ0syZYbU2owHUDg6tkPrJ7MtlSt0Vuw-n5Q~~",
     "showTopPosition": false,
     "skills": [
         "功能测试",
@@ -57,11 +57,7 @@
         "自动化测试"
     ],
     "welfareList": [
-        "五险一金",
-        "定期体检",
-        "年终奖",
         "节日福利",
-        "餐补",
-        "加班补助"
+        "五险一金"
     ]
 }

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "渝北区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "陈诗雨",
+    "bossOnline": false,
+    "bossTitle": "hr",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "上海思芮",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "空港新城",
+    "city": 101040100,
+    "cityName": "重庆",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "06ddc4cb615e87a30Xxz3tW0GVtR",
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "encryptJobId": "db77528170ae0f7103J-29u7EFZS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 29.657728,
+        "longitude": 106.761026
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 22,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试工程师（python 自动化 车载最好）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "fSlYJRPpJE.search.22",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "BtTfaOf6UfbAS-_13vikXGg3gzBuFkBAdm7btZt3XPjpgN_PgS6fdA5FESYGSty_25dvDZrdsOPPqaaVdDoau25O8L52PCsY7TonWnuHe7Dhyi6WRiq4YHmtQAZnUF3VP-D1451zolJB",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试",
+        "Python",
+        "自动化测试经验"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

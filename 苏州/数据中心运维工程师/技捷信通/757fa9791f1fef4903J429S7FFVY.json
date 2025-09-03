@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "张家港市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": true,
+    "bossTitle": "人事专员",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210813/3594307ab28591eb8c117de85f22af59699eab88d30e64bb16d8c66d7c8f8495.jpg",
+    "brandName": "技捷信通",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "杨舍镇",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "56ee9f9610588feb03F63dS4GQ~~",
+    "encryptBrandId": "6c0714fbbf14f6051nx83dm8F1E~",
+    "encryptJobId": "757fa9791f1fef4903J429S7FFVY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.925081,
+        "longitude": 120.544322
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 46,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "数据中心运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1cwgIgGVvBG.search.46",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "AddCT3NVFbUsW-31oQqlYtwlAw3kt3pM3kRoOezZIBQvPZ4iPVJ76anNZEMdnouwjkbAwPZfYk3i4Apq8b03QBhXxwfJBcNOIoFKEHvlmQ5aQAbtfCCa3YG1lEJpbLQ3FbBrqTFIkdVc9NhmiG2tDm-E_Jett3rkzTgUOs7-jrXTmW7n",
+    "showTopPosition": false,
+    "skills": [
+        "IDC机房运维",
+        "系统运维"
+    ],
+    "welfareList": [
+        "意外险",
+        "五险一金"
+    ]
+}

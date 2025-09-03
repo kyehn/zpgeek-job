@@ -14,7 +14,7 @@
     "brandName": "中科泰岳",
     "brandScaleName": "100-499人",
     "brandStageName": "未融资",
-    "businessDistrict": "崂山风景区",
+    "businessDistrict": "海尔路",
     "city": 101120200,
     "cityName": "青岛",
     "contact": false,
@@ -25,31 +25,31 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 36.196186,
-        "longitude": 120.517997
+        "latitude": 36.133694,
+        "longitude": 120.437409
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 30,
-    "jobDegree": "本科",
+    "itemId": 70,
+    "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "本科"
+        "大专"
     ],
     "jobName": "软件测试",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4g4l9Xge6fs.search.30",
+    "lid": "fTttzGQFmO.search.70",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K",
-    "securityId": "NbYmBA95nyfzF-z1mTl8vekr4s66b804Nl1nIApgCGa_JIqADHGJ2NlYVBmAHil_oo92UESfFm-JnoKApY69kzo7A1mm2XJLv98fOce2YvaxqHpxYbTkcFXpOJbmnrY78_tQLGSW5YSL",
+    "securityId": "KGAshtptYHgRO-p1wxBBoA1Ez-kUY5DLKgK-e47Am1nos_xciIL3_2gEBhwO8hppYxKJ8aiBYIDfWZ-Fl_qeO1FT1j8C-q9eTsOtdCExxbj0sryXmoXyIVkSudyIxi3TYx9z7XTpUS97",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",

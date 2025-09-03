@@ -4,16 +4,16 @@
     "areaDistrict": "嘉定区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250602/607f1f3d68754fd052fe9486dcf4d2b5d2d201e3d96827320535dba517ff4794d29be736d6fccb66_s.jpg.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250803/607f1f3d68754fd098ac61e7162ab17bde86b53c94bcef070535dba517ff4794d29be736d6fccb66_s.png.webp",
     "bossCert": 3,
     "bossName": "李晓军",
     "bossOnline": false,
     "bossTitle": "设计主管",
     "brandIndustry": "汽车研发/制造",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250802/7b5b554d84f9729c891d643c8221b14b0909001e32a897470535dba517ff4794d29be736d6fccb66.png.webp",
     "brandName": "昕桐科技",
     "brandScaleName": "20-99人",
-    "brandStageName": "",
+    "brandStageName": "未融资",
     "businessDistrict": "安亭",
     "city": 101020100,
     "cityName": "上海",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100801,
     "isShield": 0,
-    "itemId": 38,
+    "itemId": 35,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cKPsInea5A.search.38",
+    "lid": "9SHQEVBSqGe.search.35",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "6vrNQLjW3Du8m-E1iCqiEUcpLxIyUBmdDaVKnU6GcNW7ZPHTa2zl0YUUvfqfNCeQYKSMYaNWiWygcAvKGw12FrDOaoJsdSmZEoBLE6qaGUjD-5txEqTmJXio5KHmJaef00LbkPXGPH4uEGo~",
+    "securityId": "n76NJBitBNYRE-y11wBwsOoLNg1OdsDTMPYz32G6mMqBOLT0HjlXeGEQYtzHFDoyGMYcnxCMluWGB40C7A8vUOVMyAOje4TuS8sitsLu-g3xYqWZsyylyWXBWmlgV_4mBspQKBVt7ExXt_4~",
     "showTopPosition": false,
     "skills": [
         "不接受居家办公",
@@ -57,5 +57,9 @@
         "平面设计",
         "工业设计"
     ],
-    "welfareList": []
+    "welfareList": [
+        "生日福利",
+        "包住",
+        "加班补助"
+    ]
 }

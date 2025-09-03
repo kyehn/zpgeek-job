@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "周先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "统筹主管",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220426/7bf6f160950405e9ff0ca6868600206ae1cf1d2a951e4f464d6b73200115310bad1933a8d91e5462.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 53,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,21 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MvJiAOJoKe.search.25",
+    "lid": "1cK1qnXw7Bx.search.53",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "YFEHv141onA2A--1Ld53TTlNWR8L7vsW1Ifukv9Q1HH5GBp60T2XV15MLpTVi83-hiGSNAqhxHs8GddQ9EFIe2r6yjqyqTqdFMXdWjg-God5Yd9SClBxxh1iqSG0mgd7cd2km3b9k2Gs2Q~~",
+    "securityId": "ku9Y0yCzy5QVx-b1Jh435WJosYFnNrPRGzpPNUws2ah-e4MFjr_-VD4G238UBxSCaM58eq30q-CGRlYNJPi-OS_fA9VQV9sz9gFRW9gqw6ImlqQMw-WPOsmu9zGsUkfipUuyTTn9JE5anR-sWFULiwVRSkp7wVaXUEbTG8sYjvFsu9QRdw~~",
     "showTopPosition": false,
     "skills": [
         "数据开发",
         "产品开发"
     ],
     "welfareList": [
-        "生日福利",
+        "绩效奖金",
+        "全勤奖",
+        "加班补助",
         "节日福利",
-        "全勤奖"
+        "保底工资"
     ]
 }

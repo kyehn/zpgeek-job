@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南开区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_11.png",
+    "bossCert": 3,
+    "bossName": "段丽杰",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "英信科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "长虹公园",
+    "city": 101030100,
+    "cityName": "天津",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "69167fa52e26da6a03Bz2Nq0FFU~",
+    "encryptBrandId": "7c79315479a780481XV43dy-EFU~",
+    "encryptJobId": "d2eaf1fcb1992fd103F93dS9E1VT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.132879,
+        "longitude": 117.147975
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 54,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "fKnXD6Klhh.search.54",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "tfirAFSpVi19f-p1v6ojCrjf4-bTSuKCFq9PiY69jJQ09OUchsSisKavP325DPBs2RsP4QBkb55T7aOcJfOCuleElwsGZ97iKIGAL7st0op1brAOycsjCos-hw3sPBMz9WB9ttwhOSHQ1Q~~",
+    "showTopPosition": false,
+    "skills": [
+        "运维经验"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

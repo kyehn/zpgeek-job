@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230524/607f1f3d68754fd0a39c2b315979ee187d04dd76b7a934d3f6c6ae1d47e4ee4a37074b2e8f7e363c_s.png",
     "bossCert": 3,
-    "bossName": "黄晓平",
+    "bossName": "黄女士",
     "bossOnline": false,
     "bossTitle": "行政主管",
     "brandIndustry": "动力电池",
@@ -22,7 +22,7 @@
     "encryptBossId": "4c62a56e8771811d0nx839W5GVZT",
     "encryptBrandId": "b9a0c02ec617a6b71X1_0t29ElY~",
     "encryptJobId": "0640bd3290be823003R-0tm0E1pY",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.039433,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101210,
     "isShield": 0,
-    "itemId": 24,
+    "itemId": 66,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5EyuO4JiWfp.search.24",
+    "lid": "9SSmPcNee7v.search.66",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-6K",
-    "securityId": "SOhZiC_69YAwH-m1WYpeOLxBzspFAp4TNQWLjC3tduKqDbVMHldCaJuUOYED_X6kZlime_4brCbsMludjo56VO8tEuqld5dEBkO7j7x1E4pWUqCeS57ULDfQwIJtmiswQM119CvGmnNJip8~",
+    "salaryDesc": "4-5K",
+    "securityId": "q2HJe6RgimfJ1-11bqu_Z89M-Be9PIvj1q7lInUTFv4yqp3UYqJVgt6nuYsc-H5k3UF7OKONm9InaM3_Og9QCFjmHz0ZvymCI9V9RHaCcP7vGkefGrkwf1tAgVfTHaU-Opj9kPKmgHfsfr8~",
     "showTopPosition": false,
     "skills": [
         "通信相关专业",
@@ -58,6 +58,21 @@
         "运维经验"
     ],
     "welfareList": [
-        "五险一金"
+        "绩效奖金",
+        "有无线网",
+        "底薪加提成",
+        "零食下午茶",
+        "宿舍有空调",
+        "全勤奖",
+        "高温补贴",
+        "免费工装",
+        "餐补",
+        "年终奖",
+        "五险一金",
+        "生日福利",
+        "保底工资",
+        "团建聚餐",
+        "节日福利",
+        "工龄奖"
     ]
 }

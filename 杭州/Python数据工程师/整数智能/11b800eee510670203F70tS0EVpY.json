@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100028,
     "isShield": 0,
-    "itemId": 9,
+    "itemId": 10,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aZcmxEpsfA.search.9",
+    "lid": "fFZVXi9JZz.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-13K·13薪",
-    "securityId": "O9RRu2z3M9I4l-61YVKixRE2EjbI8auMhwqUeGLukl6f4UTSCpiSutG5G_ZFTAj0et4meyCycaM2n-SswqtEXqVquGr08tWyZM9ZUDLcWVfNpq1rEAlkIi_-_DhzN8hwWn5XgzAymwTKhrE~",
+    "securityId": "qXToUseUz8zY0-E1dF-92tVvl75GkCbWcJBriodRStPMd8_43VggCYqzHl12jLbKWUc8HZWZO9Gd0VGhmmp4dJh2obPSd-kTk5NC-HutT9Oi4m72vnM1YacvNg8GmgUPSp9beYc6B9heG0c~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "算法工程化经验",
-        "参加算法相关竞赛/获奖"
+        "参加算法相关竞赛/获奖",
+        "Python"
     ],
     "welfareList": [
         "生日福利",

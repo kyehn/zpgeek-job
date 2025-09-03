@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100504,
     "isShield": 0,
-    "itemId": 66,
+    "itemId": 49,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aWfgJ6MbcA.search.66",
+    "lid": "fJ6qQ2ijNI.search.49",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "T1VdQrJ5bw042-F1wmoY2QKhJ03PPGiTwicwHQ-ftx07T-9ZT2n3TLiHE5LGGdgXNiO8PJoH6EI5jeOk0bg2rXG83xST1CBmkCqqKBcQOu04qw3vbU44MACBSmT2ZQjlJjRMEmyLnkqT",
+    "securityId": "LKDkore8KRFNf-q16ZT959pBVf3Lzj3UPRO4gUqYS5-Sfx93nGBe8ZRgXakWnnavhomsgj6ZIjl378Y1K2xhUvW0Wb3BSGMa6TOcxezn4jfBrNICEDjlHfjpzAb4ARGG0VYDXbIkTaYE",
     "showTopPosition": false,
     "skills": [
+        "考勤管理",
+        "劳动关系办理",
+        "人力/财务/行政/法务",
         "薪资核算",
         "人事档案管理",
-        "制度制定及落地优化",
-        "劳动关系办理",
-        "考勤管理",
-        "人力/财务/行政/法务"
+        "制度制定及落地优化"
     ],
     "welfareList": []
 }

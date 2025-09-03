@@ -10,10 +10,10 @@
     "bossOnline": false,
     "bossTitle": "经理",
     "brandIndustry": "计算机软件",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250730/7bf6f160950405e9782ff5c2f08370a0cbd16aaf0a0de279df0f6ee986721a26098be0f7c7d4a1c7.png.webp",
     "brandName": "北京盈泽",
     "brandScaleName": "100-499人",
-    "brandStageName": "",
+    "brandStageName": "不需要融资",
     "businessDistrict": "小营",
     "city": 101010100,
     "cityName": "北京",
@@ -43,17 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8kjSNj3qg87.search.62",
+    "lid": "1dGQkLkq5lP.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "WUwfOMl6oRhPq-A1lwOVBzTOEeYMYqR4B-P33aCgXeH8gaPl6Al0ApPntzKXULvYwdEkLoKkeDjdDYvPyYhBelhhBcb97uP-YD5sjMS_J1PPjsOnxHpIsId9Wnbd6-PFi0rauq6rNmmH",
+    "securityId": "1z-wwcTWrtLZV-Y1ZYdy7o2IzoChug-g6WhbfRPnny6MawGcI2bu47QAfQUzMRdfbeappXkaJYK509e7nH71zCknDNc4zbwjfHtC_aCmBcDnXi8WNTa47DlLfJAifijU47cO8CK_3i5L",
     "showTopPosition": false,
     "skills": [
         "项目管理",
         "实施"
     ],
-    "welfareList": []
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
 }

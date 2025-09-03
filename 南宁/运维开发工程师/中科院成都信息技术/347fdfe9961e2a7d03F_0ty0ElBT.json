@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 19,
+    "itemId": 74,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aAbq7p3KY9.search.19",
+    "lid": "fRikwkfN6A.search.74",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "DMYbkuVh5JvU5-k1DsnI-4qrcvEUVmfd2ZFJqBRZ5FhL-LM2zulA9W5cWVDKBvmef7oa_IfZJfv5i2j0qOrO_Xe-4JSp1zPku_0gqVwsA3UVOJwSLNy9l9H8XXv4quc5O2HntpS58vucxU4~",
+    "securityId": "RMwm2PpT2VaOk-g1n3CNmHeUGcjUMllx8mwWge7j_JbnTmwaVvRDbTtM-JXcQZcTv7jdQQ73suenxukJP4oowPi4AAAzs8hUwqbNNoS8jKGqLYtBQMfIBpDM2srZF94pEtulN6QNUN5EER0~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "Spring",
-        "MySQL"
+        "MySQL",
+        "Spring"
     ],
     "welfareList": []
 }

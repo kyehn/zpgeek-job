@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 82,
+    "itemId": 48,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,21 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9axCubURbcD.search.82",
+    "lid": "9ToKDI19Uod.search.48",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "svGN3Fnv3P_HO-q15bURUhGWcGrCHKa5_1Cda7cYc8oL0MhQDdqY2p_ui4arB4YM-75IT88icOICTR5JKJf7SPSOBQdNAI9UVPS75dw7dH2r3JrenkVF7mughZCcXw6x_fZALC9efiE~",
+    "securityId": "kV_wlypxC6Njl-Z1C9CaZdKjQqj4lcowjrP1aJHrH6fJ9mFL0HE-H73LMqzhvtXXMYzMJ0OJJwVU6yIoODUxOXvkm1DIE1ToFiXyaL6N2A4T-j91WZr8WrdY8oJLF8Ih4VOYyn3gf-w~",
     "showTopPosition": false,
     "skills": [
-        "实施工程师",
-        "C#",
-        ".NET",
-        "物联网",
+        "HIS",
         "医疗软件",
-        "实施工程师/顾问"
+        "实施工程师/顾问",
+        "物联网",
+        "实施工程师"
     ],
     "welfareList": []
 }

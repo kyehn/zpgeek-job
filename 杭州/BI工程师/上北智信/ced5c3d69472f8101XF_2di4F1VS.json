@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 150,
+    "itemId": 13,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "gEOMq8JgWM.search.150",
+    "lid": "fEXWAl5QGz.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "KOCMsX_fufDnW-y1zeqyGDruFLu6_4pg91pjli_MCRxpNTWihDhywoX3LliAxF8bwtsV6yh_kOn8D1OMXRHnue-DLHKm8dbQyVagj4Jxjy8i6G4kQ_ATrUIbEYKhiW6EN1LnIXtCynQ~",
+    "securityId": "RdLxmb1SLtRJP-91vEJ3oWglffJCiEGKBD3ZHcPpe376aMc6dFE0ZIEKjbiqF5CqFWrjMr9pGqNzOi8wgc4M6dTXVkw-a9x_Lg4bf7hPpGZIw3P7y8GH51NaoxIJT8ONNAaTViTI6lI~",
     "showTopPosition": false,
     "skills": [
         "Power BI",
@@ -59,13 +59,16 @@
         "SQL"
     ],
     "welfareList": [
-        "节日福利",
-        "定期体检",
-        "零食下午茶",
-        "五险一金",
-        "员工旅游",
         "交通补助",
-        "年终奖",
-        "带薪年假"
+        "五险一金",
+        "节日福利",
+        "绩效奖金",
+        "零食下午茶",
+        "意外险",
+        "员工旅游",
+        "生日福利",
+        "带薪年假",
+        "定期体检",
+        "团建聚餐"
     ]
 }

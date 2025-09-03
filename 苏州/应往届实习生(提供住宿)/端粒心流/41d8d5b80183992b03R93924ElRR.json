@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250305/607f1f3d68754fd0249d6c4c492f0f0ff312e5ae6d9af4464b21293091287868a2e849da98cdb2f6_s.png.webp",
     "bossCert": 3,
     "bossName": "熊先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事主管",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240115/7b5b554d84f9729c350297770b88a66d70e4dcde4f372923fc1eb111eb0d8e1304340c2900f6bde2.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 22,
+    "itemId": 26,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7NTdNwnBnsM.search.22",
+    "lid": "1cxyqU9DuCX.search.26",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "YemlwDl9KrcKZ-g1w_HN6IcYAC9LprGuFw-ecL9FtV0Wqs7fstnnCApuuOMYm7nx9zwE8POyxlUMNI8BCtEgZzuUe6mZYAGSHyOXqIrzzVRQMucyLC3U05wKGpLbDoUNFlEESCfF-ejF",
+    "securityId": "xbGNxsDt2hQ0P-g1KdbR71VMfUw5FBnaczaJZ2gymOsQtmjrcAii8fmG5IrFqMup8hAHKUjDNwl1ZLb839zWeHq5b8pym4_AWa_w4-T4Zc0Cck1LzrQxbmZ9M_rW3_FJK_hOIKOznXJNpaF5_KI4kzJxdjA1L-0D5ggB-ZVDGR3mByKT",
     "showTopPosition": false,
     "skills": [
         "接受无经验实习生",
-        "营销策划能力"
+        "晋升空间大，待遇好"
     ],
     "welfareList": [
         "节日福利",

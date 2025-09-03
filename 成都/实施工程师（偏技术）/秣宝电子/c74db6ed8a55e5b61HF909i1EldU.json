@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220702/607f1f3d68754fd082cf562f29bc8e924c76a359e1cb3cb5c4dbf27ffa55854f0bb0ca0e13b0486c_s.jpg",
     "bossCert": 3,
     "bossName": "吴女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘HR",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230523/7bf6f160950405e9d51acb7b178725d5f577dc6591410295c4dbf27ffa55854f0bb0ca0e13b0486c.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 40,
+    "itemId": 10,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d5iBmLlPgN.search.40",
+    "lid": "1cI5WpZ5Cj3.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-7K",
-    "securityId": "kqMVTj0tZsER_-s13IrkMO5vzlcT5yEbK7lzRXIvg_iXActEVC79WWRvI0gj8GCFo0wwnF3rbaIw87YftCrq49lU8rSGVQayvE6O0fGDtPL6xa4YGpvpIHsy2Cvi9xp0lyMGYXFQ3hAi0A~~",
+    "securityId": "L32cGE6bKm2ei-41uW95ffxX_A5HdjzZKgpZzLtwH7cFB-lhUPr0v0c4fwpxiysIeihDWVTs72nzaexn2HwiDyYyGwKhrePsgqVlA6yRifa3nyu1BbN3XNiDtwXt7mfYAgRBxOmbyuhz-0efj5f_ZqLLAB3yVMe3YEanwMNk2L2xzRBOsA~~",
     "showTopPosition": false,
     "skills": [
         "实施工程师（偏技术）"

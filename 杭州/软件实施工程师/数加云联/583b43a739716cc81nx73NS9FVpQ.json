@@ -22,7 +22,7 @@
     "encryptBossId": "dc53e32df36850221HF83N25FVA~",
     "encryptBrandId": "9bb4115775b3a6d80H150tW9EQ~~",
     "encryptJobId": "583b43a739716cc81nx73NS9FVpQ",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.187928,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 38,
+    "itemId": 34,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PFg9T5z3YC.search.38",
+    "lid": "9SRCx5fas9y.search.34",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "bgYsAPhwXEZu0-C1SUT-3MiVPwJqPRPZl1epS5KUshCllyQz0pMBbG6lywpWbbT8_s6UgROsowYWYzIXmBGckUHEMhZxl8zmqnSU5OrwceQ7bmRV5BfimFJ7GPPZ43BjWCzvYoXsnNDM",
+    "securityId": "FrsPAMiZRjjda-61Vg7hPDAykr0VmCcvw8mKe68IF4kPPyyf7e7ijtv2_t8dUZKmvgQFvubhTFh8coMHYdiNCuALp4ODLnvLW01DuVtwDBL7P-qoOXFvoE2PCtNWc4CmDYl_XG3RSNeX",
     "showTopPosition": false,
     "skills": [
         "实施工程师/顾问",

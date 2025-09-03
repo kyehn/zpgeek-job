@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 40,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cJLBnhYj0b.search.25",
+    "lid": "fDOGSFs9Hi.search.40",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "HFNUTI8NiVSdI-R1CWqXNRrSOlpMC6M9VLS_vFsdyhf9SZkXGwJhXm1ob0-aYRqcyxsDU7IohSSYtLCTR_uyj-Q6iHgTDHiVUN-w9oWQH8fV1Dmz1Zu0iQ22tPW_uIvYQ2bOnJRrqFeoH8Q~",
+    "securityId": "dNjdeotuZeZx0-_1ndGsEcDFB82_0q5OzNhuh_JpKisGAlWu4_i0R8I-LS7w3hX2cO3kQbsIAcXxbOdB8SNtFC1dcICqzqRDM8sZO3ti2pig_1CeJoUvno04EP-OSxD-LoDlCcVG1dkm-vk~",
     "showTopPosition": false,
     "skills": [
         "PLM",
-        "计算机相关专业",
         "软件实施经验",
+        "计算机相关专业",
         "可适应出差"
     ],
     "welfareList": []

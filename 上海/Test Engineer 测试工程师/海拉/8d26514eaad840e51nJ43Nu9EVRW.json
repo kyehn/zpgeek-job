@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100802,
     "isShield": 0,
-    "itemId": 64,
+    "itemId": 35,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8jAzvRrpXTe.search.64",
+    "lid": "9SGvBvoS392.search.35",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "_KkqI5_hewsxz-J1akB_fTObn5qqndOju0k5Zd2uncRNwPwtZCKe7SDxwL5jI7yuBDcjRhfPVkWmiuskQLDSWxtp7OX6T5E8D00oPJX7Ika_JO91dh23EmljgIPQxgQ6FmJfl1woH0FpIg~~",
+    "securityId": "ncXVb4UDXwtiY-s1tRnAZr67K9xpk2e8ubW4Q-r6MmeRX5eujI-t_DDEfh88q8g1cIGtQa1SvfUMZgdn1SfdgIt0eTtkaGZordAp9r4G6zZo3x_2WV79BwtWZDTzHFQLDqWL2FnB-xXatg~~",
     "showTopPosition": false,
     "skills": [
         "性能测试"

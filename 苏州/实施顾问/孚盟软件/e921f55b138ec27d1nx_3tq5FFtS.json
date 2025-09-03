@@ -22,7 +22,7 @@
     "encryptBossId": "cd817834ba31d21f1nZ709q4EFNV",
     "encryptBrandId": "5a27628a2645f5b51HR909y6",
     "encryptJobId": "e921f55b138ec27d1nx_3tq5FFtS",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.273668,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 21,
+    "itemId": 74,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,15 +43,16 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t5TLmYgYkO.search.21",
+    "lid": "1cvAVtWLEhf.search.74",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K·13薪",
-    "securityId": "IjmuwHYG1wrNK-f1Nsu501rGPscxLxpsReaQxmFObaZAFAblaJf29eNqZ-twdJ_b3hRorEB_AsGodbiZufG0aEAouZ1vpTPcMwnyd47el9hBIimm6EJsrJtzrCKgXu0R1bni0nIOeAJj",
+    "securityId": "_laYeINlZLhpn-S1Qm4ABLCakr1Z6HhC8219fDgpZ8YSEONCXrt6z7NksLuvtiubpR1j2p_sKr8Ubaf8n0kKOHgUYp4j6q_EPEzop5HMZ4AF5AlbJZSp-TBft0YNUMxlIXv0zoL5KpXo",
     "showTopPosition": false,
     "skills": [
+        "CRM",
         "软件实施"
     ],
     "welfareList": [

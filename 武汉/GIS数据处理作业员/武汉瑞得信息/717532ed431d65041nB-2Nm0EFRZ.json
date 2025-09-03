@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210302/c7a5ea52fb4b5c19c6c39ad79a1fa07835ebc2812a35e159dc5b5d6c77f21074_s.png",
     "bossCert": 3,
     "bossName": "冯女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事主管",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img2.bosszhipin.com/mcs/chatphoto/20160317/d115adc4df5c8e4f8bcefa2c829e151589bb887cbf3260362516a32371cd4568.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 65,
+    "itemId": 51,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8oGUiBOmmoM.search.65",
+    "lid": "1cIJmXfvKxz.search.51",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "0s83Qlsy9BTex-I1GD2S0m1YcaJFw4ojkqJY-X-XsEwpct92ZrYBWM_2jiqef8YoXW0tdg7bLCp4cDZt9AkTA8AQ9AVCNji8vz3SS7e7x18cLtXlb7Y_LzoBrD9-VexYVJUxzsLszdg~",
+    "securityId": "SNUwtzSCnBpfB-41VQAs_f362BLOLO1aajLZ2mvoW2j8Tk58F_cHQQBvnbsREif5Rzh1Vxbni5V6mp7d1g_BMWYHITTfYj0_0qO0QlU-uZEVinwYHmea5iCP_RLIH_cnnNPCiA_3NTiUFSGWkPeyFBrqsryHbJcMb2PGkmhpSN8guSg~",
     "showTopPosition": false,
     "skills": [
         "SQL"

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220330/607f1f3d68754fd09ee9a4a10d6695b8a4675bb9ac2ab64b90c86f804d611fbfc425c871ac6c84af_s.jpg",
     "bossCert": 3,
     "bossName": "吴女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘主管",
     "brandIndustry": "生活服务(O2O)",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200812/91d40d440871f6e879867147fdfe1c2b036daf80b405d48bfb108881e7e76439_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100007,
     "isShield": 0,
-    "itemId": 33,
+    "itemId": 19,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7NKunYC12JZ.search.33",
+    "lid": "1cwW7iMoez6.search.19",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "2KwYryTSwGUAY-f1nXqMrpz3bhu-PizRGKUMtLLZEcrn5uzaTeLknxtx68QzHIr0vuJBB0QzytfhbQIDUc85bO8RXqB-5AiFlP4EaqYFQn8OQ6lyyz1t20wsU2cFQmHuEHBTvH-sjB0~",
+    "securityId": "tXKG7sE8jAFny-Y1CeGZZRA1nzi0JJSRVLAmBWI3XWC5jLThH2P7EY-O7mOlRRpRTKbQxmB31s0myR5FjU2O1p_7r5343xurWx78t8FkOh8P9lO_6ZoDBv_Ft76WJ_7hnLHd-hSsZLK1XDP3nUo7CG7SqyUQGni6jc8jtf2ykiFCtHc~",
     "showTopPosition": false,
     "skills": [
         "生产型公司"

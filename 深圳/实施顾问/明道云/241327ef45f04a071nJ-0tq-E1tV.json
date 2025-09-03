@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201015/6d49f73a99e6033926423eb1a40a3167b19782a320563cde3526b51a60505f06_s.jpg",
     "bossCert": 3,
     "bossName": "兰先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "副总经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190923/44e28651616de43d65cee0a5b217a40b149b7a272510377ee732931b3dc7e23e_s.jpg",
@@ -22,17 +22,17 @@
     "encryptBossId": "ac6add2b85f186ec1HB539m5FFM~",
     "encryptBrandId": "ba383954fa9dde171nR52ts~",
     "encryptJobId": "241327ef45f04a071nJ-0tq-E1tV",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.660299,
-        "longitude": 114.068154
+        "latitude": 22.655374,
+        "longitude": 114.072584
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 73,
+    "itemId": 54,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8mSUOcfgJPs.search.73",
+    "lid": "1d11FkYTw3Q.search.54",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-13K·13薪",
-    "securityId": "n32EQWnBJVH4S-u1G6ayZJb6ONtBQ8MYYS6hxBUSiEcPYm0cT-AA-c6xuP8H_QSvv8MJtYSgaemHqzw7SQVv5N5XipBbTGrzgXOqk8xhMkSpY_LRJTOxdmX8HlEDrg9k1vGLrsP-AMAsuDhJ5y6xLnbtXjvxm4Xi5xpFgFr0BWxNMw~~",
+    "salaryDesc": "6-11K·13薪",
+    "securityId": "0pKyhG2H8u75k-g1x7VfuNEH7YuimqueClzsKrM63zvN4Z3Ix8dlroC1AZcez2SXC-qFrJXvXuJZdfe3HSoTPy4I20zLqihBbJfUK796mw8iv5n1b4_dtHnjICRh5U9uSZ6X2NTHkg~~",
     "showTopPosition": false,
     "skills": [
-        "实施工程师/顾问",
         "系统集成工程师",
-        "软件实施"
+        "软件实施",
+        "实施工程师/顾问"
     ],
     "welfareList": [
         "交通补助",

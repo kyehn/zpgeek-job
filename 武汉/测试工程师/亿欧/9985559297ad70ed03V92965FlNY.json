@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
     "bossCert": 3,
-    "bossName": "鲁先志",
+    "bossName": "鲁先生",
     "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "通信/网络设备",
@@ -22,7 +22,7 @@
     "encryptBossId": "6effac5ecaeb0b960nF_09i8FFRY",
     "encryptBrandId": "476c93b35bcb84551nZy2Nu9FVU~",
     "encryptJobId": "9985559297ad70ed03V92965FlNY",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.417362,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 38,
+    "itemId": 82,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8sWvzfXmrSB.search.38",
+    "lid": "1cMnT0Llz88.search.82",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K·13薪",
-    "securityId": "oC4d0DujLOvh1-q1V7P_FW5wrwECqvIK53GsdyMiwqBYzhti-8nwrYP0lrBE0aMW_6alc0lo5mv6pSavpTE3kGsjjKu8YqT08NNl4AhY_j4Qreuz_e_k_YpjbktcxKX88tWS5S4YOs3P1kw~",
+    "securityId": "AJSYfgJctkkJg-71JL5MiE-hW9HHqopKncBNzNwqU7ezosRHfjzu_PeEdLhAcMS5ahM3pDIAh-kfStnZakCfg6fD3Ad4YC98jSGR785ZBma4BPprx_xAv8_ZTzasx2DGKaurD9kRuhEzxqE~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

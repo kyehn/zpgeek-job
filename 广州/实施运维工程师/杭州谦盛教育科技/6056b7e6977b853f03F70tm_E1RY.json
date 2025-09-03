@@ -13,7 +13,7 @@
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "杭州谦盛教育科技",
     "brandScaleName": "20-99人",
-    "brandStageName": "",
+    "brandStageName": "未融资",
     "businessDistrict": "陈家祠",
     "city": 101280100,
     "cityName": "广州",
@@ -22,7 +22,7 @@
     "encryptBossId": "9417968bbe8171300nB_0tW9E1RR",
     "encryptBrandId": "81ccc8d29a3ab6dd1HJ93tu7EFU~",
     "encryptJobId": "6056b7e6977b853f03F70tm_E1RY",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.125221,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100305,
     "isShield": 0,
-    "itemId": 44,
+    "itemId": 68,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,14 +43,26 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cQkHrxt9E1.search.44",
+    "lid": "1d472lU49P9.search.68",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "zE-iRU2lwtON1-O14E2_1v_YxvP98tR_4qJZ_ZsSA2DSExLYcW6dPJy5avYepBER_6CpMhLR207mAqBMBP4iSGVKxZXRQ2RC5ANaiQKPbYQM5WEU4Jj-Bc5xupSE2uV63VuOQw5wMpn-pgU~",
+    "securityId": "RnJtCtAuFhfi6-X1zeTZsKcSNNhBxGlGTWGzrSWRB7YoHl6WhjG9HTEEf1RCrUwhGogxjhNb60a6NARz-GFg7o3RI8Cnz0XVW8UhXVvdwNcfVdlPkJW9aHXgXmtTNLPkhvi3_4ygYkv0B0E~",
     "showTopPosition": false,
     "skills": [],
-    "welfareList": []
+    "welfareList": [
+        "生日福利",
+        "保底工资",
+        "带薪年假",
+        "餐补",
+        "节日福利",
+        "五险一金",
+        "员工旅游",
+        "年终奖",
+        "股票期权",
+        "零食下午茶",
+        "绩效奖金"
+    ]
 }

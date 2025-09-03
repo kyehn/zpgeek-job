@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 64,
+    "itemId": 61,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,23 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8kkPqMAnDwM.search.64",
+    "lid": "1dFPfglBHdN.search.61",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "Kke48TGB7s_Rr-01gtmNjmam3EVouAk7j1Y-a-t4yG5HvifU506O2SKXWnQSkEJ-blRSLUnV1D5_QRVmxGqvIkGR3Mm77AveslNfEw-tKuNB-ZaD2w8esAT4u7j8QqCa1Ot46_3tcnCbSQ~~",
+    "securityId": "-u-j7lMvPKrSO-W1kLsgbFU7byqG8sb38i5zdgna5Whl6m225B5MW0-vLIAyrqMd2ok0hDnC4wyO4eOM8Be-J_-FXzCq1LcchizMaSEP3ZHkvgtShK3SljG2s1QniwFNCLsmw1ZuUhTulw~~",
     "showTopPosition": false,
     "skills": [
+        "Java",
+        "不接受居家办公",
         "HTML5",
         "Vue",
         "Webpack",
-        "Python",
-        "Java",
         "计算机/软件工程相关专业",
         "前端开发经验",
-        "不接受居家办公"
+        "Python"
     ],
     "welfareList": [
         "年终奖",

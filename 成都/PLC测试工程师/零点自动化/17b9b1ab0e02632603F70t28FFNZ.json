@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 55,
+    "itemId": 83,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MCeJPqYj1G.search.55",
+    "lid": "iykYeZvG5m.search.83",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K·13薪",
-    "securityId": "-YQRRXwqxJYc1-m1iWdwDCjw_v1lrpRidGIxcySe2JByinQHi-6il74BVnpKRtKz0WJ8gBCs2-DEpTxTo9VTdEAsmIZqjOvVXM-gq3rZZs3RRVB7oqXPxUYU80oEvHKQ6KmW16qBUfSL",
+    "securityId": "cQHIzhYxmbt2j-a1QtDjkOZyPn1hfuSOkDntN2wgMj24eI8tAa_83QpnPFUM4R-655IYXKq8yrvBNo_Az2PNbO_xJ3fZeG5ob0VsFwXcyOMRW0u1IpsWSuFiCIDoKwGzxll6cf0TVi9_",
     "showTopPosition": false,
     "skills": [
+        "西门子",
         "C++",
         "自动化专业",
-        "西门子",
-        "施耐德",
+        "台达",
         "欧姆龙",
-        "台达"
+        "施耐德"
     ],
     "welfareList": [
         "员工旅游",

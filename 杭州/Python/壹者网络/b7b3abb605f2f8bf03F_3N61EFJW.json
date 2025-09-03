@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 88,
+    "itemId": 20,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,26 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aZcmxEpsfA.search.88",
+    "lid": "fFZVXi9JZz.search.20",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "zXF2ZJyT8O5cc-X1lT3-4K2rIXyWyqpYrok2Q7Sd76uVZBaco6ascUnUzzZbhdOVUeKYsOAIuEDcrBbRFd560YWxdHb8P3BGX9N6iX9zWuAmTisrdKg8iFsi7Lc34IVoEg-IYDOx78rHeg~~",
+    "securityId": "VShRQI9SW1aIQ-f1jiArV_7drYFINZpP5JaNwplwQc_zogPx8IeJkzna4qGzryIqlJNTpaTGNvmeI8TDGYXHsAf-a98pxj2AEghE7mOlSpNcQFs7tJ2dFKXTo-ogqUgW-SNzIMAABzymfQ~~",
     "showTopPosition": false,
     "skills": [
         "阿里云BI",
+        "Scrapy",
         "爬虫经验",
         "Pandas",
         "MySQL",
+        "Redis",
+        "Selenium",
+        "有前端经验/技能",
         "Numpy",
-        "Python"
+        "Python",
+        "Flask"
     ],
     "welfareList": [
         "晋升",

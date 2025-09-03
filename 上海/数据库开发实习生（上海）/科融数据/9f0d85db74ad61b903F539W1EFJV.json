@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200713/ca11bf49cd6c1f042423a4bf560ca79ab0d5516daf6b2d50a5e264cdd33c9923_s.png",
+    "bossCert": 3,
+    "bossName": "胡女士",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180212/1b96730a57ea4ca0f37b09001d03e991419ae5dffd4c856d14b17293571a54f3.jpg",
+    "brandName": "科融数据",
+    "brandScaleName": "100-499人",
+    "brandStageName": "已上市",
+    "businessDistrict": "张江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b4f5ccc768c243863nJ-3N6_GFI~",
+    "encryptBrandId": "d0f0e66628b8c6a31nd72Nm_EA~~",
+    "encryptJobId": "9f0d85db74ad61b903F539W1EFJV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.248041,
+        "longitude": 121.671848
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 87,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "数据库开发实习生（上海）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1ensKXt43Vs.search.87",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "QZofwncjHDZiE-a12t8c8Sbg4PiajhYOgiVDo_K3015onYQK89JH2sgrOBdDONUf7JdlTemQoKRImcXfuBVTf8vbt2YbLwxH9R9_5FNp30FYHN81C5wZ1rnVHJXLcFUQD56oXk7boUhJ",
+    "showTopPosition": false,
+    "skills": [
+        "接受无数据开发经验"
+    ],
+    "welfareList": [
+        "节日福利",
+        "五险一金",
+        "带薪年假",
+        "定期体检"
+    ]
+}

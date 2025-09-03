@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "昌平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210420/3c24349bc170f85e262abc64073f79628a7dd22e97c71f35a2e301922fa225f7_s.png",
+    "bossCert": 3,
+    "bossName": "高女士",
+    "bossOnline": true,
+    "bossTitle": "人事经理",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "河南禾宇",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "小汤山",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7877ac849c8668e00nV72dq9EVdS",
+    "encryptBrandId": "0228a33a2a740d201HZ829W5GFs~",
+    "encryptJobId": "3d35de9e4899a82503J709i9FVtV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.2142,
+        "longitude": 116.289536
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 84,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "终端运维（昌平）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1d8v2kttMZs.search.84",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "jE_jv5XLz157Z-L1PrPPer3OkDAsIGry7BQ8tFLmoPZJHH5pXpuQkQ2BWb0MpwQXB2IK8fdV-crMYGDVB4HyqYu4tNy3NJ-KjOZpf44cf0fuQuWHDSTjzEuG2s1Pw2sIRK2GuENU-brGo6BxCaGo3fmmOiZ4kEbL9pc8qybaglSNDelhPRU~",
+    "showTopPosition": false,
+    "skills": [
+        "桌面运维",
+        "实施交付运维",
+        "网络运维"
+    ],
+    "welfareList": [
+        "节日福利"
+    ]
+}

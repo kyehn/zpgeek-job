@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240816/607f1f3d68754fd0b25510f263983c935193a5520c1db46d4354a496e5b240b91617a5fafa2eba5c_s.png.webp",
     "bossCert": 3,
     "bossName": "王研博",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘专家",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220304/7bf6f160950405e934ddd5d22a201752eb7197e2defb2b78eae06c61bbb89577b8c4f58adcf23425.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "aa0a77c22ccf9fbe0nZ82tW0FVNW",
     "encryptBrandId": "ba619281fbe6f29d1nV82NW7EA~~",
     "encryptJobId": "c345db25cd23e2bd03V92N60F1ZT",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.544484,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 70,
+    "itemId": 31,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "rgLBgblZMI.search.70",
+    "lid": "1cwW7iMoez6.search.31",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-6K",
-    "securityId": "v4oirm9TnDHYa-W1KgX7aRLS8fyIxM6WqJ6CVwpKgMK_vJxv5Y5fycSr7KPTIk-NjEBOxggK33nn3IIrVUuhv9qH8luhkFcvePH_HnGJQi9QG5tKAFOyE7-wL_7qxyNj5H7hkvrojffewg~~",
+    "salaryDesc": "4-8K",
+    "securityId": "tmTRn1BRZmdKs-p1ur7iqWCHYRUB4Z5VyU4k-CDtiu23t59LEQIaoZsJFd-shADYPLTlyJduKTH5d8p0hgmJZ2pKzc2XjgTrhm1u7y6OoAz3BLuznTMCrWzVGZ1cEroccvMrTOH2ksFmy65v-MRcllfSyBcIoQIs-MVYO381QJk5T5oKzw~~",
     "showTopPosition": false,
     "skills": [
-        "软件实施经验",
+        "可适应出差",
         "ERP",
         "收银软件",
-        "可适应出差"
+        "SAAS"
     ],
     "welfareList": [
         "五险一金",

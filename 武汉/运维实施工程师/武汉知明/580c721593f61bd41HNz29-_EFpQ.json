@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 77,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8oGhJ0KlVgh.search.36",
+    "lid": "1cIJmXfvKxz.search.77",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-7K",
-    "securityId": "7iL5UipJhduYs-j1ZEXUqKAjr_XFY7GBOORa-Z6RFiPogE420blhDxKFaVz49Dmzrt-lciox5JlRVsuKK6bCNXhE1KfCeLnYucjesggvvuvM-lURR2l3Rxv1MvujrKbqu7AagHs5OUn1",
+    "securityId": "BN5BvrbHa78JC-91Hkn8rFZGu2RKag8XCWPNvc96WtAoi4kRdw4607Q5rL9mIc6SWIyfHudfZHJiBUlPxuT5FrBUEX_yuT9B4pje8fSG7jLtsW8Bs4ii1Xmy_QfLH2hFTdd7kj4dz941",
     "showTopPosition": false,
     "skills": [
         "实施交付运维"

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101003,
     "isShield": 0,
-    "itemId": 20,
+    "itemId": 50,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,22 +43,27 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cJLBnhYj0b.search.20",
+    "lid": "9SGvBvoS392.search.50",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "w6xAiadDartou-A1mFYlxR0SVOygCqLQs_vOpUOJv49wXMe1rStJsic11IBsGXlfFuFiqr58J5XeG3Xf5Olmxtu7AQVjBR4IHQkiqu2RdoGK5seEPhK6WWtfuEENrKyH2GhvpEGfuPRbawQ~",
+    "securityId": "zljvnNiLFphXj-E1MJaziUZDJByFS3TIxbwbTxDi9KWQGAFZlnrbQ0NCbL-lfPczzGELheUSI8cSUMCEwBfB2NSlBOneDq0-CrMSSQWx74w3MWhahwgJa4jeNRK5mU2Uq4hNOFbgE_E3BpY~",
     "showTopPosition": false,
     "skills": [
+        "现场办公",
+        "五险一金",
+        "带薪假期",
+        "周末单休",
+        "PS",
+        "服装",
+        "餐补",
+        "AI",
+        "设计初稿",
         "外套",
         "制定工艺文件",
-        "潮流趋势调研",
-        "设计初稿",
-        "AI",
-        "PS",
-        "服装"
+        "潮流趋势调研"
     ],
     "welfareList": []
 }

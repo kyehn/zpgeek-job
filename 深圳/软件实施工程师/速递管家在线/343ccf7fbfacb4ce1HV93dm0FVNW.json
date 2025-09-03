@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 16,
+    "itemId": 21,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3PDQQB5sfBt.search.16",
+    "lid": "1d11FkYTw3Q.search.21",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "Q5lGpBq8hki7E-d1H0mY4NMpsk82s0_0HAApYEO5a3ftQLndC7TS4yw1WYl-N6RXMg6XyVDzgwkePcRXQ0_ry8vcTO3-BeNgdwaw10obOimGyGhV6iT7lxlGMPJ8WmTDQV5Jkt63SXqXcQ~~",
+    "securityId": "zG-pbdlMFmt9_-K1RwF10b4bbxlV1Z1b_2BVi99eTgOtuG7TnxH-FCw5kbM6UGrpfMgu6IVbTQ42i_KpRg9M_1FpufY_RItCUvLS4tmczwcN5sm3-kXP1g-lUF8AG-mNfCj9lLHIPq5Jbw~~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业",
@@ -60,16 +60,19 @@
         "五险一金"
     ],
     "welfareList": [
-        "有无线网",
-        "带薪年假",
         "团建聚餐",
-        "定期体检",
         "员工旅游",
-        "节日福利",
-        "全勤奖",
-        "加班补助",
         "零食下午茶",
+        "生日福利",
+        "补充医疗保险",
+        "有无线网",
+        "夜班补助",
+        "加班补助",
+        "节日福利",
+        "带薪年假",
+        "年终奖",
         "五险一金",
-        "补充医疗保险"
+        "全勤奖",
+        "意外险"
     ]
 }

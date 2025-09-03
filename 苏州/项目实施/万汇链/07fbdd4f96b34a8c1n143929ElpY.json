@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190613/c0bd441f0a761b6cc924fc5d27c8c222c19210da22336e39001f4e13a3d514b6_s.png",
     "bossCert": 3,
     "bossName": "别雪晴",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "计算机服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190419/4f8dd666d80f22fa4ca387d802f9db83ebae120b61d1d9562b24042c0a7206ab_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "54a170e4b6731ded1H1z0tu7EFs~",
     "encryptBrandId": "9f93f077451d8fea1HZ-0t60Fw~~",
     "encryptJobId": "07fbdd4f96b34a8c1n143929ElpY",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.322503,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 69,
+    "itemId": 52,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t9BJD0aBYO.search.69",
+    "lid": "1cFXiYkj6Oh.search.52",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "8zODpD936vAUj-D1C8Px5gTxcwrI0b-dHe-Jgd0D4PkrlP2K1iP0lt2Gx3y6CeCUIxVJJ5zc4L9sSRrZOKm9VvQmG2ILd3CD-S2ZLwTCYa68gI1V_J79JwVg6GK1_EINaJsApTPgV7sG",
+    "securityId": "lMramgrJmvVh3-M1QvHSZMXv7nVXcmudMa2NXVOcTCQZy_XvYuoEkNBcNZ63WJoGyrc3l3--2qVSFSws7VhCgXxBkNiHi6pu6gO4m0mrcB4GQJdiClArWcH6Gx3Wd-ycW5sFPY_CEtR3eR7YCWoOhkKssbY_IOtDg0-tbk_ME2QyV4t9",
     "showTopPosition": false,
     "skills": [
         "实施工程师/顾问"

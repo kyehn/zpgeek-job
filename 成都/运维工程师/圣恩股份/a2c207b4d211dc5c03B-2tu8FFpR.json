@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221206/607f1f3d68754fd0ed8e89dfc6d1ac1a1a8c514fb2fd8c20a579f7c3fc1411a4d98d443aa8536758_s.png",
     "bossCert": 3,
     "bossName": "邱昌燕",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘负责人",
     "brandIndustry": "食品/饮料/烟酒",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101001,
     "isShield": 0,
-    "itemId": 78,
+    "itemId": 48,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MAi6J1rWIo.search.78",
+    "lid": "1cyfvyehXiL.search.48",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K·13薪",
-    "securityId": "VD1iYN2EprLaL-E1fpfeA-5sQ83iYDGREKdhqrgAfeHYZ09C5EXBA8HMbsiUbWOm22VY0unbGlTOarLuKmVHc4KIF6xPEoQqfgTXMa2laQXdh0xulPk12O090OvfAmryYgu2T4fO_0zkszo~",
+    "securityId": "K81uoqwnACPTx-_1mw73VvyDkEsCzVxwrwkwcQ0EBcRoorOnC1bdYQxcM15q_ucuV7HBhAEXqpBjsfA2Dy2M-VbFy_i1G_hLREyO19YBAz6DUWVZeNLZ-DKzkD7INJxpxOtxN9h9Jj3w6zhRafMPFqWCBtgR5aXPwL9pqNcVNHO7OQBiXTw~",
     "showTopPosition": false,
     "skills": [
         "网络运维"

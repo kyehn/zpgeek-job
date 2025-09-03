@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "渝北区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200811/0d3ad348e677c1d81acc9f5cc8a0ab0a35f8eb45acba951d71e30b7988446873_s.png",
+    "bossCert": 3,
+    "bossName": "田野",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
+    "brandName": "重庆硕迪科技有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "龙溪",
+    "city": 101040100,
+    "cityName": "重庆",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c0c6c8bb5d39c0e11nZ709y9GFFW",
+    "encryptBrandId": "d227fd744cf5916703V82d26EFU~",
+    "encryptJobId": "ece9f8354012015103J50t6-EldX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 29.597523,
+        "longitude": 106.497639
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 39,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "java运维开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1eCLgYasNO7.search.39",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "7xAdcNVCksaXx-o1UD3kORntlJBnVwW3uthln58NMTfEdzhY80DzeQUzCl3tn0Vu9rUWTvi924aJNL03L3aLhn8RkG66E8LK9YVYVHiZ5F_Ip8h6UxnhzqmZM-2xGMY4jlSrtEgRZC7QXXmzvF-kRSrp5XnhYefca_V3CteMuM1lBRDkOLw~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

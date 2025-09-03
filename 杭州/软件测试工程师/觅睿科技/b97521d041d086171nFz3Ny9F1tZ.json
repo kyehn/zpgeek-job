@@ -32,28 +32,28 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 70,
+    "itemId": 65,
     "jobDegree": "本科",
-    "jobExperience": "1-3年",
+    "jobExperience": "经验不限",
     "jobLabels": [
-        "1-3年",
+        "经验不限",
         "本科"
     ],
     "jobName": "软件测试工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "UZ78qr5Vkb.search.70",
+    "lid": "fIzObjXi4S.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-12K",
-    "securityId": "XlF67uvF18yli-_1uEoNnjNjBaqdHzzBvRztYRvl9AH0xaYjXQKqWsq38UPYfOyboPWcrxFWnnakjpASKWzX0HkXXlZV_v-CHbyg0VzR1ERcKTIiI9uh9Xe40YFfAUyQo2I9In-LInjqIzU~",
+    "securityId": "lXdM5jkRwULfH-d13DZNFgcVo6Dalp5Py1QElJ3PJt94cbH4DQ-TY153PV6IsiB5wOW11aIxLvtsXZm2T_sShH7poZrUiGYWDCR-XIOO5Divrcl7NVCh5H9qP6k1YenbbrUf8SjHjUozFDQ~",
     "showTopPosition": false,
     "skills": [
-        "软件测试",
-        "嵌入式产品软件测试"
+        "嵌入式产品软件测试",
+        "软件测试"
     ],
     "welfareList": [
         "年终奖",

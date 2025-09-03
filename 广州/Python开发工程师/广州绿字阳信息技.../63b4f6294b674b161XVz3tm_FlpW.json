@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 17,
+    "itemId": 13,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8kpoj6QrJEX.search.17",
+    "lid": "1cV3g8xeL3r.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "S6rCTNVKrfNRX-l1tR-PtLFKIhscjisPsOA_t7bZjULAnHFnRjzkZnEi3chFWdP4wMtdQzC35du4juYU4ws4DfADGT_LNGZYBO13KHgg9x32QGpE9w8tBs4BaCvlNZEVOqJMN2HTI93fwg~~",
+    "securityId": "gr_JHjsyPo3l9-T1kRMlSVCXtIfBMaGeMftaRHPyyyelU4DEwwyVgROiFQSHy0HJecIqQl_okQCPdDsnIiICFiIr31GOBTK4tP-IVLZBbltNUaKCMbDT-NkpOCAI1KYJEdE1MWQBkjvtSQ~~",
     "showTopPosition": false,
     "skills": [
+        "Docker",
         "Django",
-        "服务端开发经验",
+        "PostgreSQL",
+        "MySQL",
         "Python",
+        "Flask",
         "docker"
     ],
     "welfareList": [

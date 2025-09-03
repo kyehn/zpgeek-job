@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 50,
+    "itemId": 44,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aZFMi2Fx8q.search.50",
+    "lid": "9SH7z0ktLtS.search.44",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "bYcFxllHiRGle-K1IWDGoMqVbFZDMIPcF_sIUmS6iMWS3tJ0DuvNsqNDtFu5l78x-PC0SgO6Cb5ivPJlllR5SnmXQkNIpqE2O0OlRf5fW0HXybEzQoCz0_6X8lc1SWCuVyimueC64urkHg~~",
+    "securityId": "yI-Vse2ZaXFdb-c1_MusQ_R3iHBjLVF-UOxmzaeK4nDEy-yjs2s2d-o1UFRZFOfIu2pKNJTgeHCG5G_FkvCLL1bNEG5YnMnOqCEf_wiT5VgOXrDxJ1D14yQgdJ4Fc7V2Gkis26FUWwOMIg~~",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
+        "自动化测试",
         "性能测试",
-        "自动化测试"
+        "功能测试"
     ],
     "welfareList": [
         "员工旅游",

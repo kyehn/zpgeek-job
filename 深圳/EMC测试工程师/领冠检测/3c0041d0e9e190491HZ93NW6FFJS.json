@@ -4,12 +4,12 @@
     "areaDistrict": "坪山区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250522/607f1f3d68754fd0ec00d06987f00b2bbe68d3f136b826e155e7b94591009e84611546bea1433244_s.jpg.webp",
     "bossCert": 3,
     "bossName": "谢女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事",
-    "brandIndustry": "检测/认证",
+    "brandIndustry": "检测/认证/知识产权",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220428/7b5b554d84f9729c76a732399bdd5400f0810cb28e7bbb2355e7b94591009e84611546bea1433244.jpg",
     "brandName": "领冠检测",
     "brandScaleName": "20-99人",
@@ -22,7 +22,7 @@
     "encryptBossId": "39f6c9a2f00c08df0nx539S6FlA~",
     "encryptBrandId": "5fdce31b6715a3891XR70tm_EVY~",
     "encryptJobId": "3c0041d0e9e190491HZ93NW6FFJS",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.748889,
@@ -30,9 +30,9 @@
     },
     "iconFlagList": [],
     "iconWord": "",
-    "industry": 100606,
+    "industry": 100609,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 69,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2wCwx91EM1u.search.28",
+    "lid": "1cTWYgYT3Md.search.69",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "1e9FPR0IsWGdR-J1NyjfetFlsLs4UL2W8zM3fHN9TbvK0Kh2TijlGU5mRhwPPyG4ar-bnEWWCOTHpgN3zum-Eg0toqXOXDOMy1Dsq2T-EGjVusxIQvkL9x58q2Yp3ulir65nIYejwh9fKw~~",
+    "securityId": "tyt4msBpK3yUS--1e-gNQ3s7RRODfvHLbbWsiCeR_YN-0FZ3TNO1gi2uKS8rvmOdwupEi9BCrA3s6LYuFUc3XgDKrt6WTD-hHIYFoYdDySjCqgB_VjdPPf_DCaFBj2QPtPBGN7AL3yYS4_GuM6cYtYhqwD1lxU68lmZwCLtx3iTRV9BSGg~~",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",
@@ -58,11 +58,10 @@
         "电磁兼容"
     ],
     "welfareList": [
-        "员工旅游",
-        "带薪年假",
         "节日福利",
         "住房补贴",
-        "全勤奖",
+        "员工旅游",
+        "带薪年假",
         "五险一金"
     ]
 }

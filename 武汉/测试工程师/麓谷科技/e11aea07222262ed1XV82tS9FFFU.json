@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220309/607f1f3d68754fd0f842a42a86ee4080d85fdfb45173eda0b56e8db8bf8066a085889992b426f981_s.jpg",
     "bossCert": 3,
     "bossName": "王彭",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "电子/硬件开发",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "090be5517dd3ce970nB63t6-FlNV",
     "encryptBrandId": "c7bc76d43c3198401XR929W6E1c~",
     "encryptJobId": "e11aea07222262ed1XV82tS9FFFU",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.487281,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101406,
     "isShield": 0,
-    "itemId": 15,
+    "itemId": 63,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8sVZH1S4k1z.search.15",
+    "lid": "1cLO4QOSa1g.search.63",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "9-13K",
-    "securityId": "7PuZYYvK7UEmg-K1yPNnPtHgggk9vtNDLwlmY3oLIMTmhLBs8L7fhdY_ldJa-xclwE6CiX34F5Da-ZB7zdatl0GCnir_5FmBa0N_UcmoVJ8vpXSHM9H2l1h9YwI6XZKUb_iD1SEAvHxcyAo~",
+    "salaryDesc": "6-11K",
+    "securityId": "ju0zXf0pg1UuD-41WukaviKhYvhcn9S2merKc7T1hbPBbf9oMfAi-UOfrUO0wsLH0T-dgi_68Mr8nTCFqlEzyqqy-REjt1XzE4T1bndgBIUtv48s626pxTYTjsx1KZEDlbaXmZaS6ZgeNFYHrBTzMtikpqwF9jBu3riZDVw-SnJuZuHFjN4~",
     "showTopPosition": false,
     "skills": [
         "功能测试",
@@ -59,11 +59,11 @@
         "Jira",
         "计算机相关专业",
         "测试工作经验",
-        "系统测试",
         "Linux Shell",
         "测试开发",
         "SSD / UFS / eMMC",
-        "Python"
+        "Python",
+        "硬件测试"
     ],
     "welfareList": [
         "带薪年假",

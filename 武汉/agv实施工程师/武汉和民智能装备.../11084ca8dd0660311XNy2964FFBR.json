@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.528263,
-        "longitude": 114.349431
+        "latitude": 30.516097,
+        "longitude": 114.381395
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 56,
+    "itemId": 67,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7QqTuHwQwaP.search.56",
+    "lid": "1cOhhDxpzoo.search.67",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K",
-    "securityId": "9VhXfFPHHsVpn-u1MQLzQCimVtdWUv2P4UfaR6RgYekhKUMGadhyRxnfbtLqohjVvipdY7NcO-Iqm5gNPBQTHdqCD0yvp2cRVncbX-LGNRrRNPTtGDf4X0HI_I2-jmNAWZO-1Qw0EQxMlEU~",
+    "securityId": "VW2Ho33cWQVX4-21JZvxyU-r4hZnjEZcGYX_5FQe3eofLfvGx_8baXmpJZPHJrpCgaelxTx5GWb7vWF0d0SpeTzoqDDDDKBHuyviftjrvnjADNdeq8h7QjG-clBBHKWiPKbKevkcY15q6ck~",
     "showTopPosition": false,
     "skills": [
         "电气自动化",

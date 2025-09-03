@@ -22,7 +22,7 @@
     "encryptBossId": "0e30265b55a07f690ndy39S-FlQ~",
     "encryptBrandId": "ca055edfde4dbcff1HV709m-GQ~~",
     "encryptJobId": "49953fd1a07ae8ab1nJ_3tm0GFFS",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.273708,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 6,
+    "itemId": 89,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PPsqtyK1Li.search.6",
+    "lid": "9SM53TOGlwY.search.89",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "duuW0COD6EA0Y-c1M2uSDx6cJxAPHRu3YDCiyZxfnhCPc7bog5Tl0yU2NH26hEcehb0sbxCZ94Ldl4NqxT4fDL07UJYnBSLwXquVjmwxAlvGuTMPaczAgFyduSz1sRE8QNDc4BqIutA6",
+    "securityId": "UVHuAquvfoYda-H1492IEn39fL8b3TfWcRNM4hZXsnh4rIwRJ7UJxVH7nS3qBm01jmLmVYi6_jqUT0Xf-uHeRE9ctL7V46rt1kVBjvl0V8SETTHzayPbq46FnDh4gpCDwAteCKCI2Jc9",
     "showTopPosition": false,
     "skills": [
         "SQL Server"

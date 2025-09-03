@@ -13,7 +13,7 @@
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "河南淇友",
     "brandScaleName": "20-99人",
-    "brandStageName": "",
+    "brandStageName": "不需要融资",
     "businessDistrict": "会展中心",
     "city": 101181200,
     "cityName": "鹤壁",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 43,
+    "itemId": 38,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,14 +43,25 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9axCubURbcD.search.43",
+    "lid": "9ToKDI19Uod.search.38",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K",
-    "securityId": "P0kIRNazfTWi0-o1dG9caH-oACxw_K5oVoIITnyqYKztSL39QE5Oe3jT8ZWJ4RGdw1yOR_k6dIR1ZuRXGilWFTPGGkqisaoRzx3aPcksk0WRRWTTyQ2Yoz_OTW5SOIsJWpk5wy33SxEgCKE~",
+    "securityId": "lrrRITAeoq4B9-p1Opad1dBqtr2pkarxVvhZ8-bTwHfX-e_XnVB0jQd4oKwr8QdUAPNBRkK1oazM2jGzwlQw0z0-z4yCToquWtRAE5cbsXJxm9-hUR2-ITKW16oR_Ljtbumf99jgcgkIXl0~",
     "showTopPosition": false,
     "skills": [],
-    "welfareList": []
+    "welfareList": [
+        "交通补助",
+        "通讯补贴",
+        "年终奖",
+        "保底工资",
+        "团建聚餐",
+        "节日福利",
+        "底薪加提成",
+        "员工旅游",
+        "生日福利",
+        "绩效奖金"
+    ]
 }

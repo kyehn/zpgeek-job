@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250409/607f1f3d68754fd0fa67ea1236f2e7ba61cfdb465a990c5a51f413378774425e9f56807aafc759ab_s.jpg.webp",
     "bossCert": 3,
     "bossName": "刘女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事主管",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210804/6cc22f2c27eb793061a8ec2a24e700676147e6a1543a301689d490c9f3ff720c.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 71,
+    "itemId": 73,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9b0DMZk1T5N.search.71",
+    "lid": "fCHES2xBaZ.search.73",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "OrSzSlVllq877-T1iRG57z9nJnn2zHFLqGZaWqg7bPi0lu1PFKU8GjN7hIwaqZUFdoOSHYO5mLrAvyNPBkE9WKvrM4M8icbBcFpyqdt_-IctuN-n0Euacy2cav97BWbnp9FhFaljR8SPfAsgbV3os1g7q3Rwo2ROq7iOsomTRh1-U8OGIA~~",
+    "securityId": "mUgjKO2ul3Ky3-11b7GvAFdFNUhFA1Us4K7FWQZKRB7dDc18IqDQCzruq8A9qMn0fdgvmRzogPdgfHB5Jgn273MNIw1_XOpHpNWcXiqYPqH17ioyu6Cw0ZBBvVOs-uNAbO_ornKuDkYn0A~~",
     "showTopPosition": false,
     "skills": [
         "Java"

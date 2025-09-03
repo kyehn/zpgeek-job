@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 53,
+    "itemId": 22,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9b17oGdszFJ.search.53",
+    "lid": "9SFTGpRqtzE.search.22",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-7K",
-    "securityId": "BYAsdlYv_feq8-B1AwNMYP6V3C0V_JcdxuTPvOTKZhmtHvOXrloW7tfL7h7BV_1y7b716IPFNL4ZWaf8S5HKCAo9GOm4kr_v6i9J26wmg1AIokL1LHlbLP6s4b5trr5lGJBm6y-xVr4~",
+    "securityId": "Pl8SKM8stocMV-m1i_o2nluqyJipdDgTXYyLF5AtIwt-uBiHO82DLce-1yGbqFkY1ThKXoHmv3QsVZdzYj7LnaiLApGCXuloBCR6Yypv3NlCvUP1n_O9n-G9nniocxrSyL0f0pALcxI~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "Django",
-        "MySQL"
+        "MySQL",
+        "Python"
     ],
     "welfareList": [
         "免费班车",

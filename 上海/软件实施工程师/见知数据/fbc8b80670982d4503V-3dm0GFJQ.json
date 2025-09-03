@@ -22,7 +22,7 @@
     "encryptBossId": "0024dd7038ae8be70nV539-9FFBR",
     "encryptBrandId": "03cffbc47d44178b0Xx_29W4EA~~",
     "encryptJobId": "fbc8b80670982d4503V-3dm0GFJQ",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.194628,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 31,
+    "itemId": 36,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,15 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aVJkZsyawi.search.31",
+    "lid": "9SKK7S4QcwT.search.36",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "uBk3GNnGyHBRG-412DlbNkT0XL--jGKmYWTJ0887T9udwa0OtXwFYja1iI9-BgoYVz_DqykiolHk57sWA7OHPogPc_DeSI8d86SPVOzEb1A2h7p8zII4SiHPj9jlpvh3KEe7Z4szbmsRJQ~~",
+    "securityId": "h9O4RDAino9fH-k1qwxWyygFJlZGHoAdvHcxV5Q5iOpkejsG5TyxGJOxJ7IzDXDUG2uWpI5VLaK6zTsdLXe1eLQVBgdZVGMcq1NWBvU5uaVh06LBfFa5aG-M2fvtQRgWlcgmCsozMsU1iA~~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "计算机相关专业",
+        "MySQL",
+        "Linux"
+    ],
     "welfareList": [
         "年终奖",
         "补充医疗保险",

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "钟女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "测试主管",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/3f2c47c41b3be330d8f80c84895d4138cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "c59573e3823ed2360nF72dW0EVBS",
     "encryptBrandId": "c95c8929496cc0281nN63du-",
     "encryptJobId": "961880d51c14a45f1XN-3964ElNQ",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.210015,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 26,
+    "itemId": 48,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PKW3Su6sf2.search.26",
+    "lid": "9SO1kmHTepU.search.48",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "3xzcgNRDVsNWw-t1SvrZcjKSEM7EKdgN_MaVn6kPI0ZhlmKwxQlT7cmlX2qnXqrxdRL9gjPBs8IGOrixJadXBwMp75nQhgG44O-yZyA1czYyGB-1EvdjDXzdiOwHmdHnukQkAIdfLHldPbQk279ovRgN1u818uUr-f8BV68KpvHUQVkP",
+    "securityId": "Iit6o6ShJQSAB-H1idG1pN-cGfvYK3g1zavNeo3CzcXTQM4pzUINwsMcyN4iUHHhvA_pZYdssHgsFasqgatSOcW2jazqrM93W8FCs5Z2Xun6Pw64UJFxFaMFyYr6Ka0KL4IdCtRuk87E",
     "showTopPosition": false,
     "skills": [
         "功能测试"

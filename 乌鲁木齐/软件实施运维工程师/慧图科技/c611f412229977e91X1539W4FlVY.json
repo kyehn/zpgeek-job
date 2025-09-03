@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230413/607f1f3d68754fd0b641179360685c0c5783d56027ed96647aa17c8b6ffe5be45ae7d9f9ab19e552_s.png",
     "bossCert": 3,
     "bossName": "徐妍妮",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "新疆分公司人事",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210115/d19dc147ab24847b6d7839f8e10ec42f03efb22441682e20cd0e4ef1a6516ba4.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 131,
+    "itemId": 79,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "BpUXtfI7fk.search.131",
+    "lid": "1eBG255jVgE.search.79",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "Up-GR8uOjrZ5--N11lErWEUcEbR1MG6MPkjtnzySHf3gawkUsdOSMj3lP7vxK04qVVcYVxa0pBx8W7bs2BC0jZD4oPlv18vd78tIBmONVt8-9_bwUq9KRqlxeBuA9qZO6eM7ym8bKha2TCk~",
+    "securityId": "JPONHIsqpviAF-j1KQ60sWgXgE0XCHWqmUCPUjRt0D-Qj3uqMJDw1aYPPZoEXwAVbii10XEwz_3WKQMYbk0uUNJb_1JTr3k41Wv5Z1nDzx5-LnoGF1LKqMMU1T58u9txEVZu9_qJrQIf6S85bPvE31UN1mxHAIJBbLH1a5V9I5T39AMWy20~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维"

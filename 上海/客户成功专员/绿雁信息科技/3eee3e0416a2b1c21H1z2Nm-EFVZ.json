@@ -22,7 +22,7 @@
     "encryptBossId": "c671ae1e382838dd1nVy29i4EVI~",
     "encryptBrandId": "3ac27e39417414d91Xx539S7",
     "encryptJobId": "3eee3e0416a2b1c21H1z2Nm-EFVZ",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.239302,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 87,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PK663oipsj.search.90",
+    "lid": "9SJUQNFz50v.search.87",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "WsImk1mbI9C4A-Z1GWXzNYKkauQUeqmpv3SpCME0fyFcGm48zn8ak1RlGf4r8dGOASszAy5h18yijl0O2TsbpvDiEqg_p-VFHFV3SgGPaOfqOmDSXcdIQeHeEtlBpM1TGKg4aC4GET4~",
+    "securityId": "_g7bXt0xSANLa-M1Igm50uBj9HdsrCiLPYo6_m3dAqpMp65JZTIm4Te7-upw078srDEY5I9kSN44EHAGugrE32IO-NN5fp2isx8KCnzL22iNWx3WrGVliB_BeU6uzgX-RBLn6Y3ZsN0~",
     "showTopPosition": false,
     "skills": [
         "企业服务",
-        "项目实施",
-        "社团运营"
+        "社团运营",
+        "项目实施"
     ],
     "welfareList": [
         "年终奖",

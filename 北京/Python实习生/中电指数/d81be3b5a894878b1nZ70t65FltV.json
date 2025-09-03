@@ -22,7 +22,7 @@
     "encryptBossId": "5281db1794a95b930nx93di-FVM~",
     "encryptBrandId": "49706e183905a0961H1z3d27EQ~~",
     "encryptJobId": "d81be3b5a894878b1nZ70t65FltV",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 40.050837,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 4,
+    "itemId": 59,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cOPJ0GXpIl.search.4",
+    "lid": "1daUKpNePjs.search.59",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "zFr1w35dzZHzb-Q1x0ivcDdSZxv6Rn4d_2YDgbBUFgSPAhqUPG8xAWxPUNksSaCZ9O2WhyyMlmYAuTTszNn4K6-74GfPRlkAoFyYDMegk1EU4ae6mwFJJiqFr7t0_rshhpEAjGQTR9Lo",
+    "securityId": "VQxInF4HhBXgY-x1D_3SKjsdN3Ybb49PpfvrqdAl3LZ26DlGTXTEwxdYmTYGpsXRolVo7FOmiMMIoxtbnu75Jah8se-EhA5vCPCusLGUqFcoPgU3jlZxfAU8pUs5PugwDnUwTLS7qZnz",
     "showTopPosition": false,
     "skills": [
         "python工程师",

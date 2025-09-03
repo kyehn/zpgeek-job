@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240221/607f1f3d68754fd026a10b671823b6ed7350a3703a1835c89553cd3beab77169e5d725270e2e27c5_s.png.webp",
     "bossCert": 3,
     "bossName": "汪先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "hrbp",
     "brandIndustry": "通信/网络设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230403/7bf6f160950405e9d0caa2e1b4f24f79d442a8923b5232ea3fd50777e7d9f2ca9ce430577de1bdd1.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 51,
+    "itemId": 73,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8ckWNiDjcYE.search.51",
+    "lid": "fC9DDdDo5W.search.73",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K·13薪",
-    "securityId": "c8UJcdUlAtJgt-J1BkWAR7Ai6kFA0SVcbufvqMjEyaSbvOJ2Xty7lo2ZvmqgGMOVFuVbopUkuUSUdVL9Lby234pjhnFjhIsWAWnvwcZ7KkvRSWCi3a79-4uO7rIvgxUf8Lf_zc45jBT7shER_OcfK8t9sBQsyzHegWCLeM8VMq2fg-wMQQ~~",
+    "securityId": "E8u74j-XU7snf-a1F-0lEX26P8uGfE7jURj1davC4PO66ZeOC6yqW07TJF4i1jFtoSfdALMbcnErvIYzFMG588GjHeR7JETRaGrnp2NSKyAgXQgzjGJmdH9j2EEzjn61bOHVHnBVuDnEgQ~~",
     "showTopPosition": false,
     "skills": [
         "SRD"

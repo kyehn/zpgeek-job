@@ -22,7 +22,7 @@
     "encryptBossId": "ecbb99ab302f05770HR53Ni7EldQ",
     "encryptBrandId": "f9926ecb362050c603R62dW0EFM~",
     "encryptJobId": "62a52210c99abae403d-3dS_FFJV",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.533193,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 78,
+    "itemId": 54,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8sWvzfXmrSB.search.78",
+    "lid": "1cK1qnXw7Bx.search.54",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K",
-    "securityId": "LcmStJ1AZMWc_-61znmkUn4pcxL2fIT4y_o8LPzY2GMRah6dBJDHy47c_ZD3d_5lGyZ-d2HZ6_Gp803UN0zcmcNP8XhGQ9NgrcCEvg5W3yf_Lp5XQxUUMD8vZSoRkQltgfkgPipkZx6ew_Q~",
+    "securityId": "UCAExxMihOqft-j1Po5kDI4Qo-GnQX5LPYn23-s_GCp7haWC7bryJTQnQbgkj5xoVSa0xmVrFJOt6qef8dQIMs1YB44VohpCx2gJnmtUCVhqCc-xblD2VostK8-pmldNT1u8Om7HQfzpwl4~",
     "showTopPosition": false,
     "skills": [
         "Vue",

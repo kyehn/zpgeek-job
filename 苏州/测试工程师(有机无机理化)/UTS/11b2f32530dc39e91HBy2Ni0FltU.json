@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
     "bossCert": 3,
     "bossName": "刘志强",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人资",
     "brandIndustry": "环保",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210423/de3f6f4c11765b3af0f41d38123157080b49e166d7bbfa3610dd493d45ce7c9c_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101207,
     "isShield": 0,
-    "itemId": 66,
+    "itemId": 61,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7NRNDdKiQ9W.search.66",
+    "lid": "1cBHqfRU0eZ.search.61",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "ySsnLCsV1zUtQ-Z11LOsAHLJOxznOvAsZs-aniSkcqUyQEWzPkQqjn-wfvYGe-uXUdmVW5RLU_Y-_Ifiqi6A29OtgNaXp6dpPLRfL84WLxfkbnx_Z7IkR_EPu4yZWQz27xdcc_XAUzX4i04~",
+    "securityId": "WW8rSOztrgogV-81pfU-rNfp0-KZfWlanBn-gnCqMXqfdgEjcYU5HC2ODFQblDu_JiGQ4yh7qlX7w0ygENBHWD-LxA0YfbiD50_TnvZJ9s6ZQ9JCog8KinNvIhJS3dQd3ie0QpXaHGeSYY_Fh2N3IXCJ3Bni8ydCM-yNUCz5o8OWDll77Z0~",
     "showTopPosition": false,
     "skills": [
         "环境土壤水汽测试"

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210315/d5f3f33da3627049bec948f5bef5cd40090e82a05ca70b68fc0feb80909d2f71_s.jpg",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "瀚聚辉业",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "西溪",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e42314ca44bb22f60XB62Nu6GFc~",
+    "encryptBrandId": "f9b951e81b5961791ndz0tS6GVY~",
+    "encryptJobId": "57929d0a8e548a8403Jz3N6-F1tT",
+    "expectId": 1334030427,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.316026,
+        "longitude": 120.060497
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 74,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "java开发运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9SNoKZ7fzhu.search.74",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "kiZOaTT6l1o33-P11rhCral-zg-mHKuaKPh0E_2kmWhI-Qc8ZqPnSKPkD9mV-VSMzvK-bjlcIkrQtpQqg0PzIzCxr06obl7FD8ZUvN5pZ62uUEgRGDMBYra87kJTTnogziqiQbN9CSws7g~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Tomcat",
+        "MySQL",
+        "Redis"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

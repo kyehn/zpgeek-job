@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 50,
+    "itemId": 72,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8maA5t68LE5.search.50",
+    "lid": "1cNEnGhg9g3.search.72",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "2x30AJYepUMjy-Y1vMUEDIgdnWvdoYggoeVfgtWbUiNGQcp6y3e0saXVYbpddl_15STdoSm1-jabC2_DesvpYwp68R-3CKkgXpb1knRBVJh6XajwMQdnsZysQkPf22MU8OhPV7smR7B4N0rbdPz29z6NrdyyLtGB_nxOtEZPqTb8",
+    "securityId": "8uT7Rj7o-FCMK-D11ngv3m-lLNeunSqhgMH3EQvgLV962MWJCTQ1lZVSbTh4_REI7XJaeJlSAWUwsdOj_tunoSXoLIZx9wIe2zGszWqG1kifa9AoulhIGQntvDlmajesn7bLNrvfzKxdn-7DKxBWMSY9U9COVlhfyRHucLe_Exr_",
     "showTopPosition": false,
     "skills": [
-        "招聘与配置",
+        "互联网从业经验",
+        "考勤管理",
+        "劳动关系办理",
+        "人力/财务/行政/法务",
         "薪资核算",
         "人事档案管理",
-        "劳动关系办理",
-        "考勤管理",
-        "互联网从业经验",
-        "不接受居家办公"
+        "招聘与配置"
     ],
     "welfareList": [
         "加班补助",

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241101/607f1f3d68754fd0e9c3f9dd0dd62c3c23f42f61b7380186229491f24deee52d36dd2d1ec988516a_s.png.webp",
     "bossCert": 3,
     "bossName": "郑先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人力发展部经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 75,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7NOYTXjyi7P.search.75",
+    "lid": "1cEvYpVGjbX.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K",
-    "securityId": "zpsd7G35bIYm6-R1bzTfG2v2T1Rwsc7nseGJlYSdcP26qDpB-kmkFgxnBm7bgvXqIAiEUOSqNFzSMBfjj-9DQo9E9-3GrPln0-Fz_x_H83vA29F4WE8M_b7fQ7-MWL2l3jdActkmbrg4vyc~",
+    "securityId": "uRiTzRX6GCxfW-61s9-LQPJpdozzdj62MDzSzvgLWdxaeYUY6q3uvty8uwzqek0iZpNg8sylcJXL7Z-enLuBfYcpIZYZB2dOuXpiKOFbsQNA3o_yheIt0oKN-0eW8gtWnjFV4MLmVOyxrDd_OwmmR3cOvQSRUfbpeUPslFF_6JL68K3BRbA~",
     "showTopPosition": false,
     "skills": [
         "割草机"

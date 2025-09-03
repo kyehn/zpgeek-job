@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "奉贤区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240923/607f1f3d68754fd0281340a9360aa5665282e496feaaa3d3212d14b4cef23a516bfacc5476f0e2ec_s.png.webp",
+    "bossCert": 3,
+    "bossName": "李灏楠",
+    "bossOnline": false,
+    "bossTitle": "CEO",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250714/7b5b554d84f9729ceb70abf8ee3bdcecff34c6a72a2b0c10212d14b4cef23a516bfacc5476f0e2ec.png.webp",
+    "brandName": "上海羲梦人工智能科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "柘林",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "983725fbe86247850nN42dm7E1JW",
+    "encryptBrandId": "6d904e07c9be972a1HN-0t66FFc~",
+    "encryptJobId": "fa6b77a0dd5780ce03F809S5E1FU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.826434,
+        "longitude": 121.511282
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 30,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "ai产品经理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "fDOGSFs9Hi.search.30",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "8TKALarG4na81-g17D024EblE0GmNIUk5e2l5eB4ntWEXPKnP-BjjyQJmjTvGDkulLdxigh7BjpkoLsImdfDAsYSr8M1Q9Car6232fbz7HhNpsLIoFmo__jGy3ArEms5OpgwKLxjZq4GNlk~",
+    "showTopPosition": false,
+    "skills": [
+        "B端产品"
+    ],
+    "welfareList": [
+        "包吃",
+        "员工旅游",
+        "年终奖"
+    ]
+}

@@ -22,7 +22,7 @@
     "encryptBossId": "03224a31ae0b152003Zz2dS1GFI~",
     "encryptBrandId": "692b5efef220c210031609-0",
     "encryptJobId": "74874153bffb72771Xx52t-6FVZT",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.832969,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 44,
+    "itemId": 85,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,19 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cPQG9ziPWL.search.44",
+    "lid": "1d657Cv7U95.search.85",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-8K",
-    "securityId": "8pRjUYRGMdEZa-a1NI7oknuSufKuZb9BtlO51tQxzGSHbQaNg-Oe5Pw_7gXriB7IgW6l99w0mLq0mnxFAY4jCYOArjrqB__acwlyjOuv0q5ApB4YDEqTilGPaDMbTOwcXzv9l-3k0j4~",
+    "salaryDesc": "4-7K",
+    "securityId": "K03g8FQqk09FA-h1IXip0ljC8RVNX6FkwbdoYJOxa8a_ZXMsN_VfV8lF_o6eSBInqO7Dd0hLAvqTnUwX_HPNCDU85p7WPMUZd1bj5HsjBn9s8gcArESnJ1iRp8icdibqTvxtz3pg7fA~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维",
-        "系统运维",
-        "运维开发经验",
-        "计算机相关专业"
+        "系统运维"
     ],
     "welfareList": [
         "住房补贴",

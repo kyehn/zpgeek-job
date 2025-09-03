@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "奉贤区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170930/cdb1e8ad321d97debade5adb805f23ef870c711149c8047ce88c2dc0eecb8de1_s.jpg",
+    "bossCert": 3,
+    "bossName": "汤丽丽",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "批发/零售",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "上海科莱优真空技术",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "南桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "27f6d6bc62f24a331HV_2N-6E1o~",
+    "encryptBrandId": "82003e3b13b95ddb1Hx_3dS4EFc~",
+    "encryptJobId": "e376f2a1af606ad903Bz2t69F1BY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.878273,
+        "longitude": 121.488939
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101011,
+    "isShield": 0,
+    "itemId": 75,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "机械设计助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9SHQEVBSqGe.search.75",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "O2_b3kAs8ndG2-Z1wOhbEB9CKb7VCkEstXAubOQoHB-ikPD7PIqE5m7MvqFHOeU9nrd1MVR1skMkmhf4cIcazjPj17lMIdTq3uQEVhcC5DEooxRF5zQym4owx7WNDES5aox3fRO8pn0ykw~~",
+    "showTopPosition": false,
+    "skills": [
+        "UG",
+        "AutoCAD",
+        "接受无机械工程师经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

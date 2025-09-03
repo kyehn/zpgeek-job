@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
     "bossCert": 3,
     "bossName": "郑先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人力资源招聘专员",
     "brandIndustry": "仪器仪表/工业自动化",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100902,
     "isShield": 0,
-    "itemId": 49,
+    "itemId": 73,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d0SPlibYVD.search.49",
+    "lid": "1cNEnGhg9g3.search.73",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "Xb8zzOlv0ibsE-H1C5zZJ2ed1arTeux5Z19iGJW3MIJ0-nyX4mxUVbJdv8sOd_ecYMsgSJGGMFecy30Y379AtHxk9CQS8NSJBgPeBYIIWspixTcEZ8dJT8NqLECJqDJg6-OhEtRaoN7IW97chtW0mHwAQZjEJSsInKXolpArpbquiq4USlM~",
+    "securityId": "yqQyt3QeGZT8g-a196ri8l5G9SuxsOmLK6XEhJOl1CE8X7P5_x62AjFH6Yb7PQVuKPKmmUEFfGJuG993sgCuvEcKj2Hy8cfy5tlpUBs46W5wUaJkXcEmTLWR-5SogmsnRL27PpT8zK8TEl0~",
     "showTopPosition": false,
     "skills": [
         "工程项目"

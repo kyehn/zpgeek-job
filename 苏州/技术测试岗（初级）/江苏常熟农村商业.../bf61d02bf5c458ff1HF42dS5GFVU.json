@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240122/607f1f3d68754fd0d4f53ced5fb766186a602e1a3c3127ef1b32e1ed44fcb0f27938143414b50d6d_s.jpg.webp",
     "bossCert": 3,
     "bossName": "熊女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘专员",
     "brandIndustry": "银行",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180823/846de9ada1556834e1c512a1475b9b2605e94da22539624e7b41b32be18f8230.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100201,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 23,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7NRNDdKiQ9W.search.7",
+    "lid": "1cBHqfRU0eZ.search.23",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K·13薪",
-    "securityId": "KuNf46pJoU6bC-91tD-FdEjnTrtj5R2yJPUufzp1B58qP3CNBVKSENTWSb5un9PsGN3u9_oXC0p4tTnXlUtLq7uQwkSFPxo84X77W_qcKAzYX7Pvu1Gpidt4x70zvUmkqWRjtnDR4BvN",
+    "securityId": "ePcpVN7CoIU5r-h18y9j_a_0L581z5V5GvBPY8h0v-KyaFG2fqu4rBkJ7IqkdEJ_bJ_czyYdnX_VUKBDZNO8wBq3aZlkE3gLhruDjRyZEOndfk6fa8zCbX24IkHPIks0Ju1W7mmljOxGBd3r-heN49vMRgkEhpWm3Sw0uu69w-HSFBWI",
     "showTopPosition": false,
     "skills": [
-        "测试工作经验",
         "计算机相关专业",
-        "功能测试经验"
+        "功能测试经验",
+        "测试工作经验",
+        "自动化测试经验"
     ],
     "welfareList": [
         "通讯补贴",

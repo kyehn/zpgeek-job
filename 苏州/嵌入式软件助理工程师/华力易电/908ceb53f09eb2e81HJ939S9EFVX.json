@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250304/607f1f3d68754fd0e211b60ca216fbb3f516294bc53560467c04d2c903dfbd3c27e5368904b84aa9_s.jpg.webp",
     "bossCert": 3,
     "bossName": "万力",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "经理",
     "brandIndustry": "电子/硬件开发",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240628/7bf6f160950405e97924fd58637e841b0a906bc8375943b27c04d2c903dfbd3c27e5368904b84aa9.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101406,
     "isShield": 0,
-    "itemId": 14,
+    "itemId": 29,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7NVA2I41QID.search.14",
+    "lid": "1cwgIgGVvBG.search.29",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "sK8w35fKp3QxM-K1DwizHK96ZLhHsC7fgpVwJeGuak_3ydbvIiZmnkArj8cUzCy8Q7fLI5vq5ia4vbXoonSpiXwAfRH1DWtX9G-RbhpVjkxDFBsvK_fv6vAtZC5HHZ9UXbwa0z4yRO5T-AY~",
+    "securityId": "ba2Kk4apRcAku-n1qy3xQCnmqlIleP6XNvrpkmnoIOi-1Hyq9pa_MyzIhK2-nmZoEyl-QNob9i4hAuMVfVc2gs993fXkHoC4hSRlssynt4-GEelzaw3zQUw31UEZThWLvNbXVsqB4eUZ9mD8m2AGOR5ztVyYqO-Ak7j0PMEPxwWCJXklGbE~",
     "showTopPosition": false,
     "skills": [
         "数字电路",
-        "模拟电路",
-        "简单buck coost stm32"
+        "简单buck coost stm32",
+        "模拟电路"
     ],
     "welfareList": [
         "年终奖",

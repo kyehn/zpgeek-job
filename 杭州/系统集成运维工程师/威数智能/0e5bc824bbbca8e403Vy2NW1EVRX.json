@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200528/7f5e867ed47d95cf059060726626489f1766bb3620a7bf8a7e2bffd1e2fc9b6e_s.jpg",
     "bossCert": 3,
     "bossName": "程盛丰",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "总裁/总经理/CEO",
     "brandIndustry": "计算机服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220517/7b5b554d84f9729cafbe935402dfca5d37e7e175a2959f1c1766bb3620a7bf8a7e2bffd1e2fc9b6e.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "742e849929db0a7033B-29i8EFc~",
     "encryptBrandId": "0facf644533a65ad1ndy39y6F1A~",
     "encryptJobId": "0e5bc824bbbca8e403Vy2NW1EVRX",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.250382,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 51,
+    "itemId": 34,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aZcmxEpsfA.search.51",
+    "lid": "9SM53TOGlwY.search.34",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "JrMMBd6jDNwWk-B1NTW94VHrsf1a_bOy7yq3W2SO53FZtd8lc7k_JTlodd78YwBeSBEuBBs8ELkXnr4Vvi2ECOm43l16DccOI3mV81n1-6CnuF0u3w1_hfYAogxNgfjyjDhxNOLl1Ve3vfJCSNOjHqnPou6Xnczm9v08M7bovF7v00Lh_g~~",
+    "securityId": "dNqzOtIb8q42K-V1RU-ldTrfqXOyivJMEb_gpHUAsJ_gSNJxjAB2jBuUuUoQUDYTdo0rtbolGXf7ah01H2cuianr9geHkUxXNSqRVbyQ85NW4d6HM0ewF30xIoA0b8Ra8Or4lApPkUx86g~~",
     "showTopPosition": false,
     "skills": [
         "网络运维",
@@ -58,17 +58,19 @@
         "计算机相关专业"
     ],
     "welfareList": [
-        "节日福利",
-        "通讯补贴",
         "带薪年假",
-        "餐补",
-        "年终奖",
         "定期体检",
-        "五险一金",
         "全勤奖",
-        "加班补助",
-        "员工旅游",
+        "年终奖",
         "零食下午茶",
-        "交通补助"
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "五险一金",
+        "团建聚餐",
+        "节日福利",
+        "工龄奖",
+        "加班补助",
+        "通讯补贴"
     ]
 }

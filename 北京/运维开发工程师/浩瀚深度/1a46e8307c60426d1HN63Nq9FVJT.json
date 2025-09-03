@@ -22,7 +22,7 @@
     "encryptBossId": "e5427e49b4017f380nJy2t65F1tY",
     "encryptBrandId": "47c014e08deb4adb1nx73ti4",
     "encryptJobId": "1a46e8307c60426d1HN63Nq9FVJT",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.942408,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 78,
+    "itemId": 16,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cOm9YS37Kd.search.78",
+    "lid": "1dd44Wx6152.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-13K·14薪",
-    "securityId": "xZtNKC-DomV1I-G1ybqbWUOBE6d2bT-a2p_tSBz90aO-4p6tdnlgzcUpzIhpzqRFoZOEMYm3v4ZmEeznEYCiSoDKYYeTLdzVFaWa5XUfcJXWY7nHOL1q2YZQz34grSTM3Mu-wRngFDUj",
+    "securityId": "5aIdVoeZf1ykA-e11eByGJMiuNQsxXIzAKWgmFYsSfjNIhzO6kZEl8xsWAgDQS4Bl4NN0pJxq452dmdqC5hFSyXvVXd6sUF44VIwni7aB2bz_oa7n5wE7wf53u5GWFSrr-I3Xqb6CXVT",
     "showTopPosition": false,
     "skills": [
         "Python/Shell",
@@ -60,16 +60,20 @@
         "运维开发经验"
     ],
     "welfareList": [
-        "保底工资",
-        "生日福利",
-        "绩效奖金",
-        "法定节假日三薪",
-        "补充医疗保险",
-        "团建聚餐",
-        "定期体检",
+        "员工旅游",
+        "带薪年假",
+        "通讯补贴",
         "餐补",
-        "股票期权",
+        "团建聚餐",
+        "五险一金",
+        "生日福利",
         "意外险",
-        "五险一金"
+        "股票期权",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "法定节假日三薪",
+        "交通补助",
+        "绩效奖金"
     ]
 }

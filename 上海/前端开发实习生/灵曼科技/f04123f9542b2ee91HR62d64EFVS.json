@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 26,
+    "itemId": 41,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4dFhjDbj1Sa.search.26",
+    "lid": "9SGvBvoS392.search.41",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K·13薪",
-    "securityId": "bWA0rbjfUJgFe-E1fvpRvbJlzDic6PsGpJhdQKRSpLV1WXFwfXAE0V7I2PEd4l7BV_nigAPkbqkaITtKsa3qAItx4bRDZF6rVNvD14wYuyQeXa3sQ_ZOXZxeIeUeTzxAllp5VjGJ_liG",
+    "securityId": "ya2KKtkKnDRY0-Z1mxdeR7gndOrJqeIFvqqnMxsd8faKsvnkSUlQMOmYkNT8hjvaJWDq9ZCvwuDS9vW_pgoE1MCsNk3mrJcxP7azhGFcJVi8S31SYX1O3vrM98OXzi2qWB0UgN7UmRVp",
     "showTopPosition": false,
     "skills": [
-        "技术博客/开源项目有所贡献",
-        "提供转正机会",
+        "不接受居家办公",
         "HTML5",
         "Vue",
         "Webpack",
-        "计算机/软件工程相关专业"
+        "计算机/软件工程相关专业",
+        "前端开发经验"
     ],
     "welfareList": [
         "零食下午茶",

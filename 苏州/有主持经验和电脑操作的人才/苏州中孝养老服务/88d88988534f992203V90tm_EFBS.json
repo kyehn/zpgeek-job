@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "吴中区",
+    "areaDistrict": "张家港市",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240321/607f1f3d68754fd0ea6f506d5aefb78d03788367511f13f95b475954e08559e275a016ee5cf1c24e_s.jpg.webp",
@@ -14,7 +14,7 @@
     "brandName": "苏州中孝养老服务",
     "brandScaleName": "100-499人",
     "brandStageName": "未融资",
-    "businessDistrict": "南门",
+    "businessDistrict": "城北",
     "city": 101190400,
     "cityName": "苏州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.272408,
-        "longitude": 120.625834
+        "latitude": 31.85531524670546,
+        "longitude": 120.5585895898954
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100608,
     "isShield": 0,
-    "itemId": 17,
+    "itemId": 40,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7NU9DdS2NJc.search.17",
+    "lid": "1cuW63Au4k4.search.40",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K",
-    "securityId": "YYPEBQ52JKyE5-r18_cA0WV2vzz5183TH3fXpke_PWLELua1gcm6Ro0rDXI-QCcz8gQVzeixL2WDOeaNFN49iGXjh0gjpzhXADI3fXlLTwDtsJkc-RTdNLWMEkY03LTU9JmsbwkxKhAzQDI~",
+    "securityId": "LM22TPbIzS_Kf-e1lonGjr7Gx8v5G69evaKnC-WZ4fb_FcGKRw787jGXPaWXsoB7kl-hV685xzMmO7tprlrLNwdn_DxTdOPMZwjxr2rJuinf1HwulL2Gl0ZWzp_Nl92qR1KiLJ9Mqmkdav8~",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [

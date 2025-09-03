@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191002/fdd18dcaed0033ee7d51517e5cc569514a26785ebde50599109f5a8fae9efef0_s.jpg",
     "bossCert": 3,
     "bossName": "杨晓龙",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "经理\t",
     "brandIndustry": "计算机服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200803/1eb588adcfef90008ab9dc338948de9c70d42df8877da36f746c331894e79023.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 54,
+    "itemId": 58,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8kkm0t4aQ5k.search.54",
+    "lid": "1dGkg6A6fhk.search.58",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "HZ_CN0NCqT7hS-_1FCF2n2cvqVwLrV9aWr1aGK3bdwc3jI_gh6xPLIL_05TmmgV0fHUvpd9dUOSL7J5nJgxZFHJNrQfaapl9TivEmE_6CWkVuYQsshPtFzuxKsgTCS-BnkOOiXbV4GId3mvGd9PsPo_wu8l7qLTG72eqPO8AR54cgjGRWw~~",
+    "securityId": "toOAn2ROjMFz5-X15-7DmEAvcMLBbkBhXTG4yzcgdjlcY7SKp_C6AGz-6FOXiHREIonZcavrVSpLC5KqFYxAaS9ChhORvMryfSS6Y_WOr5hquCNKUicbOSC0SUn7RKB6saWczvvrcN7DAA~~",
     "showTopPosition": false,
     "skills": [
         "Python",
@@ -61,17 +61,16 @@
         "Hadoop"
     ],
     "welfareList": [
-        "加班补助",
-        "住房补贴",
-        "带薪年假",
-        "员工旅游",
-        "五险一金",
-        "通讯补贴",
         "保底工资",
+        "通讯补贴",
+        "海淀入学资格",
         "节日福利",
+        "带薪年假",
         "提供公租房",
-        "餐补",
+        "员工旅游",
+        "加班补助",
+        "五险一金",
         "年终奖",
-        "海淀入学资格"
+        "餐补"
     ]
 }

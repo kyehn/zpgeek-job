@@ -6,8 +6,8 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220814/607f1f3d68754fd0cf7e146852d7bee81ac7aed18a578326582dbefc6a3d99ef88bff17675275ecf_s.png",
     "bossCert": 3,
-    "bossName": "张帅旗",
-    "bossOnline": true,
+    "bossName": "张女士",
+    "bossOnline": false,
     "bossTitle": "经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 61,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8jBuURDWaN8.search.8",
+    "lid": "9SFTGpRqtzE.search.61",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-11K",
-    "securityId": "EO2ajJfeKk5kB-_1A6pSpYzHR_RQ3aU4LFmPHMFcJ27NQGVTJnFSdMYghnX6c0BrwRdOaXB1hTk_n9EkR6B2qJQjcILUHxQZYHrJfG9UDxlG8q0ZYyUAjeM-iMdesEqhfzJlkRVgQhDyAo6okN3nkEqT0lAgjqOq6ziBkApm-5TbhyrflFM~",
+    "securityId": "gpFtiLcx-Te7D-T1KJ0ve63EcX-tDsBl4mj8ZRCYDZCHXTi9_okhj8L9Z0YtATRR2BzZUPiaan1vW39iVkgCWpLFaNmr1-NOKqM1isPh0kuRn9XzjwjqKHU_4HeYyQ2aCpgms1V2Fi5ppBw~",
     "showTopPosition": false,
     "skills": [
+        "YOLO",
         "C++",
-        "TensorFlow",
         "PyTorch",
+        "OpenCV",
         "MySQL",
         "Oracle",
-        "OpenCV",
-        "YOLO"
+        "TensorFlow"
     ],
     "welfareList": [
         "底薪加提成"

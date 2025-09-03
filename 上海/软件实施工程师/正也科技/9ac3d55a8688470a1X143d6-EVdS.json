@@ -13,7 +13,7 @@
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180221/1087193de587cbe73b12c97e4550ae90cfcd208495d565ef66e7dff9f98764da.jpg",
     "brandName": "正也科技",
     "brandScaleName": "100-499人",
-    "brandStageName": "天使轮",
+    "brandStageName": "未融资",
     "businessDistrict": "长寿路",
     "city": 101020100,
     "cityName": "上海",
@@ -22,7 +22,7 @@
     "encryptBossId": "9c17ab80bbe1e0541HB-39-0EVI~",
     "encryptBrandId": "daf7c106af9c72801nB_2NW1FA~~",
     "encryptJobId": "9ac3d55a8688470a1X143d6-EVdS",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.239099,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 44,
+    "itemId": 4,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aXHX118xSm.search.44",
+    "lid": "9SKK7S4QcwT.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K·13薪",
-    "securityId": "vW87wZ00TSpeG-z11HSNidBdqk1hEvoIJHCY005jdfWF_DPsCqtnNi3NcC01SWAPNNqVQlnW6dKYgYd3SL_IRQiCaDpgjyatalWYWLakbgg0NFoiCuz8Vc5Cpq7ATyZ3orjoHQ30qdsi",
+    "securityId": "XayBQKl41KPVN-f1o9nFfCPcHrJ3QNRBecnPQ_zDcW-Ng8JVkMwKbjbRYKNiBLoQE_v4AwegcTSBgD0-gpAKuzYk_P_6xV2B2rgBB1fxq5oqnLNJ3d0xOVWynqASIROEXvjS4A9yoIBO",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
@@ -57,13 +57,12 @@
         "计算机相关专业"
     ],
     "welfareList": [
-        "五险一金",
+        "定期体检",
+        "全勤奖",
         "带薪年假",
-        "年终奖",
         "员工旅游",
         "股票期权",
-        "零食下午茶",
-        "全勤奖",
-        "定期体检"
+        "年终奖",
+        "零食下午茶"
     ]
 }

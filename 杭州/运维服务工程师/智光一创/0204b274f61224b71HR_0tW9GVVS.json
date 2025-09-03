@@ -22,7 +22,7 @@
     "encryptBossId": "0525e02b073e08d90nR439S6GVtY",
     "encryptBrandId": "64847669df5f9e411nZ63d24E1c~",
     "encryptJobId": "0204b274f61224b71HR_0tW9GVVS",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.307005,
@@ -32,26 +32,30 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 69,
-    "jobDegree": "大专",
-    "jobExperience": "1年以内",
+    "itemId": 38,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
     "jobLabels": [
-        "1年以内",
-        "大专"
+        "1-3年",
+        "本科"
     ],
     "jobName": "运维服务工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6RNw8BcbIo2.search.69",
+    "lid": "1er4UVtEzJK.search.38",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K·13薪",
-    "securityId": "9S0PP8RyypUCX--13sRtu-RRK_VDHKjObSjxyeZcnP4S4JH04NxGDjR_7hgArdlNf3t4F9rQzIpZ7OsWBALJwl3XQfsAzhmYlhvNLHY_eikkiz9UYcDv9jUp0ms13xxEyeyy8R2SyRRHOSs~",
+    "salaryDesc": "7-9K·13薪",
+    "securityId": "UfX7Qn9mmvdem-s1UDDRC9XWIx6GdgGryX4QkH-Jzq6iDDwvQrzYDSJeDKRmOfhJCUmhaujbrZ-Gn8f4BuptDSTaomhiiqd5fEdC0Xh5zlRCiuUvNTXthXNAKIQie3aQdLlkdHx2tjqYGhs~",
     "showTopPosition": false,
     "skills": [
+        "实施交付运维",
+        "通信相关专业",
+        "电子/电气/自动化相关专业",
+        "MySQL/Oracle",
         "电力行业、通信"
     ],
     "welfareList": [

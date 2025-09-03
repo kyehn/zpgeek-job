@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100012,
     "isShield": 0,
-    "itemId": 87,
+    "itemId": 31,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4g4IUEADWLQ.search.87",
+    "lid": "9TnifLbuNZt.search.31",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "EeiMU2Q7399Aj-u1Oem6bUaQaoIVVP_6CNtOkw2pY4_qU3NL5oi_npjrhk8JBE-auf-pU9ulPR4DhkmSgscDno0MrS3xhohzMpFBGFRUjCAxb0MX6l4tidMSm1dm9dsP5QKuCifesxfF",
+    "securityId": "oaQkxouEf9xpl-q1Mp6OJQ3k6fbeBGiAz6YZrc2QUzuJhJx30Hhtt_Uhwf4NfxCT02C28_jo6vK9pGfZUp_tb883f8yQOUoHRD1iPeYeZ8_kfhmoElxgttQLEj6_ppAu8aB9ui0mNyVz",
     "showTopPosition": false,
     "skills": [
-        "性能测试",
         "Java",
+        "性能测试",
         "计算机相关专业"
     ],
     "welfareList": [

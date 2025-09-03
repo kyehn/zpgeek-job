@@ -22,7 +22,7 @@
     "encryptBossId": "06b6864345af01aa0nZ93N66GVBS",
     "encryptBrandId": "b015314928ea64221XJz29i1Fw~~",
     "encryptJobId": "b226890e16b3c95f03F72tq5EVRX",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.110186,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 80,
+    "itemId": 11,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8lYHwk4LmF9.search.80",
+    "lid": "1d5cKjh9SsP.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "mFu4zYJ12mLcI-91890R8W-aLzxGqPSTRww2UJEz708zuCiCXGLszMpGRuLUefjmjUX2JQt3rjOxsoUYu7XyDPkhxJg28bCJw8SMK1XWbhSnsVnI4ulSP7dBTEYC8wHA1l-S4z6VLPVlbPb1t40fObDlR1RKiofs9mf7UfOQXJrLHWe4Ug~~",
+    "securityId": "Jr27AeWCDpoGZ-71ov-2WDi0BAipoyxsMEij4KzOR4cFt8oW9joz9idhdlBwxNZaVvNMhFOZYb3OrXlTke4VFIlVYrud_ppWaqo4DTsi9Q9X6jeg3GH9ZvP_8MJG4MMbkVGRUt6fjMAJcjzgfnldsoUle3a2bjkb1L-RwY5S9-rUiuprsg~~",
     "showTopPosition": false,
     "skills": [
-        "系统运维",
         "实施交付运维",
-        "计算机相关专业",
-        "采购招投标"
+        "系统运维",
+        "采购招投标",
+        "计算机相关专业"
     ],
     "welfareList": [
         "带薪年假",

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100403,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 10,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aBcbkMhI66.search.8",
+    "lid": "9TjLp5mi9r3.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-7K",
-    "securityId": "mVgWAaK3NhfjX-S1A9ITgpwrzqHNPwJdomWcrAYKuRomz9JHDN-biUsLLunnvhQ1wlWgnhXwyAIeHSQHz1T8jvT34FGjjCQM_Jw6eYMc0yYx9ukx_-3Ozt_rLNWwh4s-b8mPy0utFJTm1Xcv_ou8qFjyP2FXo5k2CSpkCLsOWvuwQErHmw~~",
+    "salaryDesc": "7-10K",
+    "securityId": "BmlukDcTA8OQe-D1aprFXcinQyLbXmN6g7vcIMwY7KGq15X86tlmoNNNqjkA8njhhTDrjN81ycN-J1iN0lm4c_2Qk44GMQSwB4I-Dj3wnjab9lTrmxSkvoOcxKB3Trd1qARlGeG6c7BWCYVwEg0vYUWLyplScAvd6oV-qHjnsawmSJJZjw~~",
     "showTopPosition": false,
     "skills": [
-        "计算机相关专业",
         "通信相关专业",
-        "电子/电气/自动化相关专业",
-        "接受实习/在校生投递",
-        "应届生"
+        "应届生",
+        "计算机相关专业",
+        "电子/电气/自动化相关专业"
     ],
     "welfareList": [
         "生日福利",

@@ -22,7 +22,7 @@
     "encryptBossId": "fd3256f2acb9012e1HV53dm6EFI~",
     "encryptBrandId": "bfe6b8b0e692e3001Xx92Ni5",
     "encryptJobId": "097e00a37b2ba3941nJ70tq7FlFQ",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.01127,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101303,
     "isShield": 0,
-    "itemId": 83,
+    "itemId": 43,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cTmHYXzw0D.search.83",
+    "lid": "1cV3g8xeL3r.search.43",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "Akeq-VP3G9rba-51jHKbOmpW6Iyv8A3HCqQiw9pkqqFqrkzlx40EHZ4SnQglSkq4KOuehDk7q2obSBMsOsflpnr1i_p4-0slB1_gVJ8dF_6Nz5WAljwScieB5f5LZQthe10Obp4ZlS0~",
+    "securityId": "eVv3PFVy0aft6-4164oRsa7BGr8qgOSflWpsKNh9iJjScsI2V7VkNUJ6aGpcsxwm9lH5fXHFWtSuZiYSz6GInMcgD0AcA2sThQNIankmCd2plQGmGrgXUx1gRyzChgEtDv4bkSaAOHw~",
     "showTopPosition": false,
     "skills": [
         "容器技术",
@@ -58,13 +58,15 @@
         "Linux"
     ],
     "welfareList": [
-        "高温补贴",
-        "团建聚餐",
-        "生日福利",
-        "节日福利",
-        "补充医疗保险",
-        "五险一金",
         "带薪年假",
-        "定期体检"
+        "生日福利",
+        "高温补贴",
+        "节日福利",
+        "餐补",
+        "五险一金",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "团建聚餐"
     ]
 }

@@ -22,7 +22,7 @@
     "encryptBossId": "cbe3d2485bc665901nV739q9GFBU",
     "encryptBrandId": "28867543a311e5c31XJz3t65E1o~",
     "encryptJobId": "0dc95720b26455dd03V_29i1F1dY",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.124066,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 85,
+    "itemId": 75,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4RFcFkyod2N.search.85",
+    "lid": "1dbS73JvFlx.search.75",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "ucnMQg3HfxojW-r10Q2HGpgSk14OKIDWd44G6oCyMqC1IOwp9-8uDyuQ6mlUJgrqAv6kxcF-cR3XxzMqWxWvoQ59EOOSM9gqqkt8Hi86vn3ev8Cy34FuT_VSJkMmt39nuqKOGvskL7kgke4~",
+    "securityId": "vNdjaB9ZoAM2Z-t1aP1PXTdJXJldOIdrgc41ZpLlgCeS5vIxiJw1WMVQev7miN0JRcN4Gsz3QEO6W9IdgKh7FM_pca7gKkt1mjrnTa0mvDGnGsjFR9kZfKV7f49XotJN1DOXaUEimpSwu8A~",
     "showTopPosition": false,
     "skills": [
         "Cocos2d-x",

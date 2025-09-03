@@ -22,7 +22,7 @@
     "encryptBossId": "b440bb4f40ae08d10XBz29W-E1tT",
     "encryptBrandId": "54a53e2be55be7071HR73N65F1Q~",
     "encryptJobId": "e1d92d9dbea64a2b03Z53tW4FVZR",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.170974,
@@ -32,30 +32,30 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 42,
     "jobDegree": "大专",
-    "jobExperience": "经验不限",
+    "jobExperience": "1-3年",
     "jobLabels": [
-        "经验不限",
+        "1-3年",
         "大专"
     ],
     "jobName": "实施顾问",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aUd51EWmp6.search.11",
+    "lid": "9SQR5ohn6aS.search.42",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "PSm1IpLQWmly9-K1CSFaQrAiIFks-l21KErqj-RAcHW-rSqUYQaX2dBRu5IC0hGtQk2RFH_zFE0xHSzgAM-GPGRPAHE7hqr66k_2WdjFCBeUr9I72igkuEvLxH6KOyEau6PCOIO-roH3B6o~",
+    "securityId": "ivqhNbYQa0dGB-X1Gyb-pdtkdWBowwLEj2KSukbtU0S0T-sMH-wnqP8CmEEoaZVSwNP4qwEfU5-A8baS8kz_mn083WVEe1-TKhHjtKs4Sajx_NuB9W2CjC8g3AcWIFHAp4tPWSFoXZ3vRyI~",
     "showTopPosition": false,
     "skills": [
+        "软件实施经验",
         "ERP",
-        "WMS",
         "OA",
-        "软件实施经验"
+        "WMS"
     ],
     "welfareList": [
         "节日福利",

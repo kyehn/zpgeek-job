@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200724/2298ed9b0a1587dec0770e2ac932c0031c9c9f04cc3e18207fe9acdfd6290faa_s.png",
     "bossCert": 3,
     "bossName": "李英楠",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人力资源总监",
     "brandIndustry": "储能",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221227/7bf6f160950405e91e88058822467e560ad316c2e6d02ec0344f9b66fd4179c1d28613e47c586c15.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101209,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 73,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cKj44rRebi.search.8",
+    "lid": "9SFTGpRqtzE.search.73",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K·14薪",
-    "securityId": "eLv0890I_6s8g-z1LNQYMMDrw0IwnF1QRtutTyuPfyoYecnKJC24389L2IZLMplXdBVqCUzosy9d1fSmhWs_Ilj_Vu1qPNB9Uz002HOF449VdQedBVCuykTYe-CfIV8CCMuNFvifGFtg55b-Xciuj-d5pREsiuz1D6weAVOQtZPL8aoyPQ~~",
+    "securityId": "hF5ATEenka7Qu-h11QiWZlQ5yKIUv423K0yqNferYgX5yOG0fhoO_ts0RdqCytvCGA3OFn6glD8M-zkD9kgnXeothPpByBLFWf0B5El-P1kF20CJXJCvYdYdUnIEHzFTZN_6X5K6oqV5rA~~",
     "showTopPosition": false,
     "skills": [
         "运维经验"

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 26,
+    "itemId": 44,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7P69FqJuZZv.search.26",
+    "lid": "ixl968s125.search.44",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K·13薪",
-    "securityId": "xsGZlCEA2beaE-O1YLIb0-lOQ08pqYRH9SPyHfSHo79M0WCNh6Qz-XpgpBNkr4-YAm35KF2fyJifocpi0OR79WFuTb1AB-72B1Hdylb2HukDs0JontF9cp4dIAvEaYZLzvKgo6sHFOU~",
+    "securityId": "ohqMdU97DkMCy-01qdjQT9kamvpy9c9m7rpU_Xi6H4ZHNJ4FVX9aSolXPEfjQdiPpcievHq1gIxn6IeqmCTmiWn-WC6HmZ09zpRt-4d1S2_c8hAa8VcAvHpSc2PZX6uAYVS1u08Kyq8~",
     "showTopPosition": false,
     "skills": [
         "MySQL/Oracle",
+        "运维开发经验",
         "Python/Shell",
         "计算机相关专业",
-        "运维经验",
-        "运维开发经验"
+        "运维经验"
     ],
     "welfareList": [
         "补充医疗保险",

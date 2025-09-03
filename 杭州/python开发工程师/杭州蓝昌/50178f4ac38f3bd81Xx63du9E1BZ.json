@@ -22,7 +22,7 @@
     "encryptBossId": "beb845cc85bd51f91HV-2dS_E1Y~",
     "encryptBrandId": "a98cff4bcb6d51a81nxz39q-Ew~~",
     "encryptJobId": "50178f4ac38f3bd81Xx63du9E1BZ",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.303745,
@@ -32,29 +32,30 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 57,
+    "itemId": 7,
     "jobDegree": "本科",
-    "jobExperience": "1-3年",
+    "jobExperience": "1年以内",
     "jobLabels": [
-        "1-3年",
+        "1年以内",
         "本科"
     ],
     "jobName": "python开发工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PMJSqW1Uwz.search.57",
+    "lid": "9SNoKZ7fzhu.search.7",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·13薪",
-    "securityId": "Lvg1wQKllClhJ-b1sIJYb3YRV8e7zbrcMMQ6B9oxuV9SMxabCXbJbFE-Hh58pZX4tsE33m92kAxDtk3DsPMh-PhohHFmZrLm0E1dy_vzGhlEnPwBFqSfx9YG2HHATwXauVsOhz3sx_I0",
+    "securityId": "ZWjZ26goX8kuu-r11aJft76RLIc2_zc3fWGlDBn4nfbVzf68oZE9-1KruayFHmICeNZ-IE-YM2A6ao_1akqnQgO6L-uAlD5LCfWTDZQyplbeWhDddYpDQdBWJtGudOjLV-2ffL1v4Sdb",
     "showTopPosition": false,
     "skills": [
-        "Linux",
-        "Windows",
-        "Oracle"
+        "爬虫经验",
+        "Django",
+        "MySQL",
+        "Python"
     ],
     "welfareList": [
         "周末双休",

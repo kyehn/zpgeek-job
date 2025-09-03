@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 71,
+    "itemId": 47,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8oFkYT0tfnv.search.71",
+    "lid": "1cOhhDxpzoo.search.47",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "PqYWaVEjFFAKT-21NJc7zStHGnzXh5dXe1ux2dxRL_asGj3T_nkpQ-KmlKTL8NTDn2BiaVzblS-9Dig2lwUQww5bNpPJ5tks-vZgrOM8nYHWH9XAQ5EMwGvenKKvoFik9KztDbj5KxPe",
+    "securityId": "IEzetT79yB-N8-R1cq7tlST6J6bzlNXIMqAI9hR58o_cQBcz6-Ii1_yXvBW8WbQq2g-h2xVMNCMo66UB3sjdB_JeBKGpjFN_oyrz6-eP8FKB4hcKlF9f5rRMSaKTAD_vWGaFmFDHoJg0",
     "showTopPosition": false,
     "skills": [
-        "可适应出差",
+        "软件实施经验",
+        "系统集成",
+        "视频分析",
+        "视频图像",
+        "AI",
         "计算机相关专业",
-        "软件实施经验"
+        "可适应出差"
     ],
     "welfareList": [
         "节日福利",

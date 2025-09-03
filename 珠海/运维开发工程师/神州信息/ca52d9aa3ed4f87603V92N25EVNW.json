@@ -4,7 +4,7 @@
     "areaDistrict": "香洲区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250627/607f1f3d68754fd012ca870987ded7d22199d6c8e8202578336e4d6e936fab5215f20f520feef92d_s.jpg.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250723/607f1f3d68754fd06b27674954a9fe3472ce58db6da98b76336e4d6e936fab5215f20f520feef92d_s.jpg.webp",
     "bossCert": 3,
     "bossName": "李女士",
     "bossOnline": false,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 60,
+    "itemId": 82,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8dheWdJTVcE.search.60",
+    "lid": "fRikwkfN6A.search.82",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "3sJmB2Cy9lTWX-O1aY5zYrYUpmfBl3fbHTxpAxew3r7iFZXyMX-kIMJcbQZCc_25xZ7ZpfeO5ehgXrGeqp5M3UEuHA3mT8YvHrT-NesSpjHkIIZp4Fh33w5fgEN0DXmEBNsKZmiDSvk_RA~~",
+    "securityId": "jVTMH9ihlARFX-91krqBDVXOVwSQR6WWOs9t9bSfWDCqmq7DsStyfilEOnvGC7pqRa15iAGMxPev3hYVCDE63EG7JLGc6HsKiqRcDM0QuUwSxpWwykGLKgWnWu-qzhDzKw2_NViX3ufH2g~~",
     "showTopPosition": false,
     "skills": [
         "Nginx"

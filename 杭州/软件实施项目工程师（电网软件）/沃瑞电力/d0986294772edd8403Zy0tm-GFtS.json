@@ -22,7 +22,7 @@
     "encryptBossId": "73f25a9fcfb52f211HRz2tW6ElA~",
     "encryptBrandId": "b0029ae652c6347f1Hx929W1",
     "encryptJobId": "d0986294772edd8403Zy0tm-GFtS",
-    "expectId": 0,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.281351,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 86,
+    "itemId": 32,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8G0azLHAc9T.search.86",
+    "lid": "9SRCx5fas9y.search.32",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K·14薪",
-    "securityId": "t7pDDkfIcDJqR-K1rBlynw48TNXqhPC6Y8mw4cXnYTyjxjHlEukEmt7pkYlzpNwfxkWM5Ot6MbheMHvmpuD5FzwdWFbIxU8ISeSToUcIVvPJgqcp",
+    "securityId": "g89VH81zWLwxq-V1faAdXBWEpsu0ELbBCmGqJ1It58tXa5Hi6SUnGxNznM0CGGgJlFQwNLN-KhizD3HgKwYmwFDe68DBjmbIHqeQqZvzcm1-ToQLNcR1knftzugpwXTaf5K3fjIAcxU~",
     "showTopPosition": false,
     "skills": [
-        "可适应出差",
         "K8S",
         "linux",
-        "数据库"
+        "数据库",
+        "可适应出差"
     ],
     "welfareList": [
         "带薪年假",

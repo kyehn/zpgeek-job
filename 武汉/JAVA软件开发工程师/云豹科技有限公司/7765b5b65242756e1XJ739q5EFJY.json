@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
     "bossName": "胡雪琳",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "行政人事",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181105/c5d782efac2da5f7717e7dc09c8b593dcfcd208495d565ef66e7dff9f98764da.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "9c0ca52c4b70d16d0Hd52tW0GVA~",
     "encryptBrandId": "a5950af5524247f81XB53t25EQ~~",
     "encryptJobId": "7765b5b65242756e1XJ739q5EFJY",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.558792,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 28,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4ZzNtA6po1I.search.8",
+    "lid": "1cOhhDxpzoo.search.28",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "VTyaguLJ8zGrn-Z1rfhycZUF2G0ZyZcjUXOcFMXRdCAF40RgDp4FGfNuwwL0csaus0AsobesI8lqLp0aVks9yo-AZ9H0oPGo3L9dteLS9dzq0ULC0Bm6m8rIAu8StP-QwtIkPfnx0U2t",
+    "securityId": "4jUyFEbkvsFQR-v1vLschJE6jVd9tnyQqI0uqV1a1imlSTaIGncrDbrNSnKw653xi85G7hca6i4kfiYEol1n9eUdUipYsuXcGDwXpsiRXDuglanRCfXpTYZmEIAI8_g6-QDyv24kqz7uaGYOlkWhq-vdLWv9crJUSTZU4xbOTZwAlSZl",
     "showTopPosition": false,
     "skills": [
         "前端"

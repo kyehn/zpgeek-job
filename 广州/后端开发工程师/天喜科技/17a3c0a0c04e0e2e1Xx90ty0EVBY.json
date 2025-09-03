@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230316/607f1f3d68754fd07a0b994c89467f3e6d6e0da16576e31af4285d9b3af7a3c67560277d08229802_s.png",
     "bossCert": 3,
     "bossName": "安先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "总经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230317/7bf6f160950405e9300f51f4ab2408231da2ab2cdde750d7f4285d9b3af7a3c67560277d08229802.jpg",
@@ -22,17 +22,17 @@
     "encryptBossId": "2f5d9362faee0e7b1HB_092_FlE~",
     "encryptBrandId": "751153c53680cda31XFz2d65GVM~",
     "encryptJobId": "17a3c0a0c04e0e2e1Xx90ty0EVBY",
-    "expectId": 0,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
-        "latitude": 23.119741,
-        "longitude": 113.403007
+        "latitude": 23.11959,
+        "longitude": 113.403366
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 51,
+    "itemId": 74,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8iIYreYPLBX.search.51",
+    "lid": "1dbS73JvFlx.search.74",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "FXrp6hWKZntn7-N1ZXkACuRmIAZtgXDOzJs6axMDUr-hYc7PUQNmp7vnnrIC46Dbpt4o5v2kH4aEV3ViTxkozR8HzgrMDeMuJtQfkwYMmA8y0f8J_2hMlklDBWC-XZ5J7lUCqBDtbOlXNUMp_vn-4yg~",
+    "securityId": "rTKMnSRqnsSEC-u1AJTQ0Wm0kJ_ejE2MgHY-iBc0CnpctiL48vb2gkz2YndCdBnVtENz_BXLHV73dYfi7fbn7AofzAZZ_MGaBpHH2p2dZ9GSu8ulpBOB9862m1cOvuRv6XCKKFjdSqNNLw~~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "MySQL",
-        "Nginx"
+        "Nginx",
+        "MySQL"
     ],
     "welfareList": [
         "全勤奖",

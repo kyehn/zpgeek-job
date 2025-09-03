@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 76,
+    "itemId": 64,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,18 +43,26 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9axCubURbcD.search.76",
+    "lid": "9ToKDI19Uod.search.64",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "xMUlDPURF7cgn-U1F5jGzKgPv-RfR6_ymB_DgRmqKn4yh-2ibTB5sZffo9SyfPRcpTi_-ZGmUjltNjrI72b0EQMQ0P88JCwORCrDjuQY6hpCYuEo8VgQT43Tgnf-io1RWmWIa_aJ4aU~",
+    "securityId": "fDrR_uQ9p8D05-41-gYBiHzZeXMdKdnBc7tMW63L22Rc0I8CZe3y0utb8YyZe9-odY3bIrd7Avw868aYbpwD5MqwfKVTYVSYOP4YN1qSfznipnro3TDaoC4zt4-M9WjUm0SCaY8N638~",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [
+        "绩效奖金",
         "带薪年假",
+        "团建聚餐",
         "员工旅游",
-        "节日福利"
+        "补充医疗保险",
+        "五险一金",
+        "意外险",
+        "保底工资",
+        "节日福利",
+        "年终奖",
+        "底薪加提成"
     ]
 }

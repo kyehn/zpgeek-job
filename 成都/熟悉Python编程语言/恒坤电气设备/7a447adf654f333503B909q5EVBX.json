@@ -22,7 +22,7 @@
     "encryptBossId": "a57c285ccd3499340HR82Ny_E1E~",
     "encryptBrandId": "af7fa53a368535170Hd-2tW-FA~~",
     "encryptJobId": "7a447adf654f333503B909q5EVBX",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.514465,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101205,
     "isShield": 0,
-    "itemId": 56,
+    "itemId": 43,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t2GutrGAvV.search.56",
+    "lid": "1cB0S63jwVs.search.43",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "7n1HhC3v6uUWB-K1Y1NQzq2PL2b3XUfCezXZ0hpNo3eSnTbOBIxhIvEBvscPBx_EgXtghJsaTGRqfFRVNhhr6MA9E9YE_js8kDmKOI2ySJm238Wjpo_xdQqiu-5dMPAN0F6rpUSClGiZ",
+    "securityId": "VhWcgj5tCBFYZ-r1NEbDDFo9YfO6ksB4BqaxQWQ75Szi3R_grsbAqKPh-YJcAAdy9wwsJgEAST8nf0zwdlr5HIBQNECdD27bYJZFx5_MvO5jhcOgV2boPHoJ7w-eEIbtPn5q_PescUBL",
     "showTopPosition": false,
     "skills": [
         "Golang",

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250814/607f1f3d68754fd0665080b1717896973bdb1ddc4842da6c3895f9dffa524b63f3124a74e66f8576_s.png.webp",
+    "bossCert": 3,
+    "bossName": "刘雪丽",
+    "bossOnline": true,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/50139ad459d4c5dd363182fe891a3da6cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "北京湛腾科技",
+    "brandScaleName": "500-999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "东栅",
+    "city": 101210300,
+    "cityName": "嘉兴",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e690be6e3af962a70XN_39q5EFZY",
+    "encryptBrandId": "830973d7d345e15a1nRy2tu4",
+    "encryptJobId": "c9a0cce2469feaeb03N43tS9E1FZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.733075,
+        "longitude": 120.834047
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 25,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9To3ffaTUaY.search.25",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "2mqZfNxEFSY4v-E1Oae5EzomxayxXLCQSveJE6kutP8AMle-5_ZRpqkCbFXDels3n0l414dZdJ_tWdaG19-0AP1iRBkDHZA2SUiUKDjaFpCi8YDIOgd2EyV5nRT5gV2tE32JYEBoRvvxsWf6oCf8VBDX-0i9PgGFF4NsutzV97LfGX7i",
+    "showTopPosition": false,
+    "skills": [
+        "性能测试"
+    ],
+    "welfareList": [
+        "节日福利",
+        "五险一金",
+        "带薪年假",
+        "加班补助"
+    ]
+}

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250703/607f1f3d68754fd08adce219ceb04827f5625ebef722ac5613a041ec8c4866001690634c83bc0b66_s.png.webp",
     "bossCert": 3,
     "bossName": "勾先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事专员",
     "brandIndustry": "计算机服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220211/7bf6f160950405e9c078559dd3c14d01d76909ab2e1eea5cad9b9fb1f52f7d8b6025c887c917c551.jpg",
@@ -25,34 +25,38 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.774041,
-        "longitude": 104.097149
+        "latitude": 30.775583,
+        "longitude": 104.097484
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 17,
-    "jobDegree": "大专",
+    "itemId": 12,
+    "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
         "1年以内",
-        "大专"
+        "本科"
     ],
     "jobName": "初级实施工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d5OVaWesnQ.search.17",
+    "lid": "1cHlHpqL2y9.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-8K·13薪",
-    "securityId": "zO5jN5jbi1ImT-S1hgVv_GsngkKZ01nKTvrMY3zLw_2hUqJi9EXp6GnD8EYVIbkrQ3H9A_TMPMuJLGbo1S6uDxXwmOOtfpYlhk-qQFcYmI8Wv7VVlNe1tKBDC2jAAiTd4WoDy_J-zZ0F",
+    "salaryDesc": "4-6K·13薪",
+    "securityId": "sPfW0gyVBmX6B-h1fu5qXG-8yZNEMriuinwzD0sDz1EBkv00428QlJDVIEIAEzSC1rlZjAtVJOpRTTxCzhy6U7SBMj0cGVDSn6QZs_HrtQIDptvj7Bkc2aXiALqtNEjLTGAahGke83GBRWuQojiIfln3B-b36iZ8gG056UeFvE1FQO2Y",
     "showTopPosition": false,
     "skills": [
-        "软件系统"
+        "软件系统",
+        "软件实施",
+        "oracle",
+        "医疗",
+        "sql server"
     ],
     "welfareList": [
         "底薪加提成",

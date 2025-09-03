@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200618/c716de5bf90f13977a4e62c4eac5866e789905ebe36dff4acee576652653d21f_s.png",
     "bossCert": 3,
     "bossName": "靳女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HRBP",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190527/84388a76923e1e33cb2c77fa6f391615cc6e698d91b71acffc447b734c88c804_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 63,
+    "itemId": 68,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8kmmKI8Ns8b.search.63",
+    "lid": "1d8v2kttMZs.search.68",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-6K",
-    "securityId": "xYNWdOBPNJ9T8-D1z-EnHDg02g7WEYsye2t6PiCBVDvbY7Pan0WMo2cyBqZW16n6qjcUSts0UcTjoAP5Ggw_LWvuTdDmU908UUNZIQTbrWKxOG7WzS-5ii3dQwlda-29HaXq0Ejt32ZX",
+    "securityId": "72sbuLssPfuCC-k1SzAyXbs5ysE5oEGIHTbzBQ2fCwrip0Jo34hFsLkMmFa_0hTfweYyQfmjPPF5FP0IdpWfXWLokKRzw7FDPZPF3f53i62lOCD5ZT6fGrxnh9K4hHzDWAwc_OqnqZ0hMh1wzF0wSIWlHpMQMul9-qxxdtO_3TY0iObA",
     "showTopPosition": false,
     "skills": [
         "系统运维"

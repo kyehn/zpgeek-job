@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100019,
     "isShield": 0,
-    "itemId": 59,
+    "itemId": 40,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ueG6eIHVUV.search.59",
+    "lid": "1eGv804C0zl.search.40",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "xVFN6EdaLVEpo-h1Luk0V_nw5-L2QtUDqFteLdc_e9GDhGWkxPV2GflyatLdcEdjzuAPj3DqVBuu62XHF_mNpqKkB97awqUNu2Edwog9T8nUHouYsIrFkrb0nHBoWP52FAmnhYTUdCQAqNkooan68F41VEQN6QOJBlx80Y1Z1d6ZZtD7Uw~~",
+    "securityId": "0zXM4vgRyBP37-f1UaWSEM3Kzoyc6GOV2OJ1PRYsgv-ZW2W_OFxq2b_lK5ayRxz2Q4UqD7kzdk1o8XTY83BR3Vjdy9X5cKtxIJNG8yzJHW0YZxeMqmib32bQfN3YOIanz3OCOp7kP2zkk_-ek8jHLmKFLRx4SNA6iSCpmPzcUfLanayCbg~~",
     "showTopPosition": false,
     "skills": [
         "Linux  MySQL"

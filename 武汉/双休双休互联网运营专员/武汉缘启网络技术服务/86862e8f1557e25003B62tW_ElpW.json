@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "吴梦",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250103/7b5b554d84f9729c275733996b0f7ed07fa8fa286ea0293fe35b46ecc28a5a7e38a730c3e5786f76.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 79,
+    "itemId": 16,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d0SPlibYVD.search.79",
+    "lid": "1cNEnGhg9g3.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "-Y2GWBOwcIN63-B1xUOW4_iQFYztp_Pdgh43Ww7G6Kmm5sgwm5W4sxrcthoZTwVCGjOeOhxCr_SJISAJIFrlv6LHQGH2YltYPqXJ4LiLMTmzxSm4DGJeGluTmckASRsCyQjlBCLkJHCdFwQ~",
+    "securityId": "HjVMXR8XY9XG7-r1wQW3YZejqGKjac8wtymE2YoEr3sog5FjQ8OBav8mIPfaaqSooCgqjaFnfF_16h2q9SlkjPpNGL4_NjxJIMSZesDPyXOJEY2HHhW8dVq_io2-aGc2brNOD2xUMcfXork0KSTTlXtlymnOek8srwCcWC9j6gN4LnfRhX8~",
     "showTopPosition": false,
     "skills": [
         "其他类型线上投放",
@@ -65,11 +65,15 @@
         "教育培训"
     ],
     "welfareList": [
-        "五险一金",
-        "团建聚餐",
-        "交通补助",
-        "保底工资",
         "全勤奖",
-        "底薪加提成"
+        "五险",
+        "交通补助",
+        "节日福利",
+        "有无线网",
+        "双休不加班",
+        "零食下午茶",
+        "团建聚餐",
+        "底薪加提成",
+        "保底工资"
     ]
 }

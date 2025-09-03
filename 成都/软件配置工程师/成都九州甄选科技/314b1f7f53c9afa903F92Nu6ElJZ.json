@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "青羊区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200815/c2e9e33f73095f8b33c9ea1a659a1266f5d1196b1817c33fe07cdfd74fd44978_s.jpg",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": true,
+    "bossTitle": "HR",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221009/7bf6f160950405e99d1a604c62cf39fcfb1c6930508c3a3e56a26995dfe20758f99fb7b1b1645ef3.jpg",
+    "brandName": "成都九州甄选科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "八宝街",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c550fb3d638a0fb51nZ42dy4FVVQ",
+    "encryptBrandId": "ed2d6b0a21e1be6b1Xd52tq4EFc~",
+    "encryptJobId": "314b1f7f53c9afa903F92Nu6ElJZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.670303,
+        "longitude": 104.073445
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 61,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件配置工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1cI5WpZ5Cj3.search.61",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-7K·13薪",
+    "securityId": "kptyc7K4pItYL-p1dwYotNYzPvXYmfy_On6tAxx7DcELRQsHkFDv1PZTMouK6hUrF2m_foWScWdUr_nFK-mfJz1WFNiF9JiOwZW-zrMICM0si4QtxjT2nSezHODZC7kPU5pYbPzITNSYD31jl9OoCmSbsdiY0hr6Lc8cQpS4Qcj5N8fSa14~",
+    "showTopPosition": false,
+    "skills": [
+        "软件实施经验",
+        "抖音电商",
+        "AI"
+    ],
+    "welfareList": [
+        "五险"
+    ]
+}

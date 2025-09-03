@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210225/8ce49eb602653592ad2ff59ce27e499a2aded4f09bc44e6ca11198f8ad715b85_s.jpg",
     "bossCert": 3,
     "bossName": "葛女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230313/7b5b554d84f9729cef8be089a5823e569268f5f734ce173e55a353e7dc561a622c12b38454321da0.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "0a197b333b0ed8dc0nNy29W1E1Y~",
     "encryptBrandId": "7615bd9a7043eaa21nB43du1Flc~",
     "encryptJobId": "78f7dadf3879e8441HVz2t67FlpW",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.373219,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 78,
+    "itemId": 51,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t91yVOkdXs.search.78",
+    "lid": "1cwgIgGVvBG.search.51",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "l2-KwGqiNFaYA--1h30xCDBLJsHYUbNw4IVdax4Tim8Zf9BWfAMnVrriQSjk26WBHWLQKx-hNU8GGQ7LXZhQ-mis2M-RUU0CicEohJq4s0TZg_iVAwx7Vx94RyM3kDUmqumIeTwrXr7CCA~~",
+    "securityId": "QG8RhoouK51xE-a1W_b1wpK47NMALH6lG8OUV4cDsGkccwMqPBMFJXOucBn2OdUvS5w9t82BPHnL5IfYAbwPsefZAL0uEDUZQiPhJLPAV--ZMmBHScDlByUo0sWnmY5x3z9t3Ga4aiEgq0lIOk1HQ0WJGOCY5uAf2KGA2fmeve3cudiobg~~",
     "showTopPosition": false,
     "skills": [
         "财务相关专业"

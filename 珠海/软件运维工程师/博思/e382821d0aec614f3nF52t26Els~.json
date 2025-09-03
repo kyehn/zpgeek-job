@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "香洲区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180926/9662bc91a498e3dc445223f3dad7c96ba6234ce00188fc618c12ba3d9154517e_s.jpg",
+    "bossCert": 3,
+    "bossName": "孙红丽",
+    "bossOnline": false,
+    "bossTitle": "管理",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "博思",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "凤凰",
+    "city": 101280700,
+    "cityName": "珠海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fed5f72802e811111HZ52tW0FlQ~",
+    "encryptBrandId": "0dd6d573155104371nB92du-EVo~",
+    "encryptJobId": "e382821d0aec614f3nF52t26Els~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.272689,
+        "longitude": 113.579267
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 69,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "fQ7YpcpAcR.search.69",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "wPaH0oDFWl2jI-r1JaB6WACFZG9fg7s2B7xOQqSOTa8gWpwGi4ff59hKunerDR47RaOHnGmgw1SDupzSdpdIuCi6-hQQny4DvdD4WZUMYjCkTIsp8zQdptd98E0oPOYCl-EslNXQ4sKB",
+    "showTopPosition": false,
+    "skills": [
+        "运维工程师",
+        "自动化运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

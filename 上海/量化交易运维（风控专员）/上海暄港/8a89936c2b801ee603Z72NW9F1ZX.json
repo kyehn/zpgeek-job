@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "王女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事行政经理",
     "brandIndustry": "基金",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240103/7bf6f160950405e970f83e96f4eae2ad7b293d8ac3642dc440988beea9ff9c1606ec67cfc66d3cc9.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "11b86d8c17c105f30nRy3d61GFZX",
     "encryptBrandId": "a3129388f29a25641HZ43di7Flo~",
     "encryptJobId": "8a89936c2b801ee603Z72NW9F1ZX",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.157232,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100204,
     "isShield": 0,
-    "itemId": 85,
+    "itemId": 54,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8dABZWmGuzj.search.85",
+    "lid": "1emMUMT3MMe.search.54",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K·13薪",
-    "securityId": "tz8XedWrjSw67-M1d5qxT9rhfGNnemOQDqpcbftHfQ7Tag8quhRatKUvcmWTcAYlEjKKKyvzoGCV6yIm79MWVMngVNjsT1wDYhnlFRuT7q5c4xivdoU4Br8o3HN-SFL_6Zp5IgafTURnCfI~",
+    "securityId": "9vn43IRVIHT2a-41IwFpHTKwd_BgR_XIEHcIZjXaCRwVZM-liBunTtIDybSNbovPVCgyRqLCpnJO1iq3nad0xRpAsG6aug-aV-0iQAB1Dzithk5alonGWbg6HdbGylvVZWBuREZUuHIyb2JkdAR2YcFYiqytCBPAgYHEsONLhV3DUILcppQ~",
     "showTopPosition": false,
     "skills": [
+        "C++",
         "Python/Shell",
-        "计算机相关专业",
-        "C++"
+        "计算机相关专业"
     ],
     "welfareList": [
         "零食下午茶",

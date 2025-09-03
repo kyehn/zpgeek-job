@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 6,
+    "itemId": 4,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9axCubURbcD.search.6",
+    "lid": "9ToKDI19Uod.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-5K",
-    "securityId": "I9Ws-qBFjer74-a1ln2tfIYLpvKFTOawcQIwmi-bNsvFn2fSsc9BjMCIP3r6DR93SkaXFvbh1ntM9KKwV186VFLt7FNRwbqNLEdcW3ETvjvjvHtHsEafIK6XU_b6M9p3iv9952wom2vIww~~",
+    "salaryDesc": "4-7K",
+    "securityId": "mx_a1nldOAgMz-h1-01Nxu7z7Z0qw4uLf5Y9lVz13lT48S5BqPktUgyJM5Sj-Fchujv8GkuZR4gn5jDZauE0taFjDlWHGlgRkL8NhEwXhkrqVgrcvH_rRFnBjAG7FI-Ihbij6Y9JLCgLAg~~",
     "showTopPosition": false,
     "skills": [
-        "ERP",
-        "WMS",
         "PLM",
-        "管理相关专业",
         "软件实施经验",
-        "计算机相关专业"
+        "ERP",
+        "计算机相关专业",
+        "WMS",
+        "管理相关专业"
     ],
     "welfareList": []
 }

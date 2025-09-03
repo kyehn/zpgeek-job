@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 26,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aYcwsMaCV8.search.28",
+    "lid": "fH3skrAwh7.search.26",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "L9ru_Mk0QJHK3-g1xwltakmxPRrRutJss2D1wrCAXKvXqUnldAev7UYygtTr-_j-U75D_hyIjmXq3IE2MfyOCUpPOVe6B9ljf10ZLNW-EUtcYomRoYXRbh0Jaap8DLKxhjHbCW9lb0vKxQ~~",
+    "securityId": "QrqNhSrwM89Q2-I1PsjOPE2pKtWK2hvOxmTskoDu59TuEDkLgN4GdbZsM9g8ot2xD8u9SuIhoi3YtSvTT0w4t3KVaYrQ1IgTHiN_b0YBZO5B1YV1Kw2NPhzCqL8sZvtQrQ32qjBnyPlilg~~",
     "showTopPosition": false,
     "skills": [
         "怪物类",
@@ -68,20 +68,19 @@
         "毛发"
     ],
     "welfareList": [
-        "团建聚餐",
-        "生日福利",
-        "加班补助",
-        "私教健身",
-        "股票期权",
-        "定期体检",
-        "绩效奖金",
         "五险一金",
-        "补充商业险",
-        "员工旅游",
-        "带薪年假",
         "节日福利",
-        "年终奖",
         "补充医疗保险",
-        "全勤奖"
+        "生日福利",
+        "绩效奖金",
+        "补充商业险",
+        "年终奖",
+        "私教健身",
+        "团建聚餐",
+        "定期体检",
+        "全勤奖",
+        "带薪年假",
+        "股票期权",
+        "员工旅游"
     ]
 }

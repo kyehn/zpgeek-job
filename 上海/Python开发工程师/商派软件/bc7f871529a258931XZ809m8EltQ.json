@@ -22,7 +22,7 @@
     "encryptBossId": "a2517922447acb0c03Ny2t65FFU~",
     "encryptBrandId": "888f3ecb7ab767951nV-2dW7",
     "encryptJobId": "bc7f871529a258931XZ809m8EltQ",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.176457,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 70,
+    "itemId": 60,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PQmDnTYOkY.search.70",
+    "lid": "9SFTGpRqtzE.search.60",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K·14薪",
-    "securityId": "BClbwtQ7q6qu3-01fMG3Nty6SF6hivgCRQBAwBW6zSVDcNPldYvYAfyjKVD4b5sVQ7gW0qiyM0-2w-3ne9ZbeAVqvSF7PKjbamOhBjKk7H3VLjcAiXejONF74vx4NhoNxwmFJJvhUM0~",
+    "securityId": "eeaTsYV8Sd9jg-I19l9hjnzgqUWwjsIlxL28IhvQjLMmNlL8NyBkSW_6qQ9eWUr65w4SwX1QWp8mOOWfgYonZX8GQiZRKQYwunRsOCuIGiTK3b55lNkQ8k8Juh_3QDIiRvPBXwraxsI~",
     "showTopPosition": false,
     "skills": [
         "GIT",

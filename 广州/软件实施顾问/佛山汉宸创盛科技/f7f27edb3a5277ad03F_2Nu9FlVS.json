@@ -33,30 +33,29 @@
     "industry": 100020,
     "isShield": 0,
     "itemId": 1,
-    "jobDegree": "本科",
+    "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "本科"
+        "大专"
     ],
     "jobName": "软件实施顾问",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8knmgupV6Kq.search.1",
+    "lid": "1d472lU49P9.search.1",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K·13薪",
-    "securityId": "_Zy9lDlg8L9jq-M1IxyVx-4VJ9yMR8p57eIn0qlC92EyPht0g9H6_havzj3hi6jx2Nzxgh3WmjBFZSFgb-u8gwfwVXNIe0wlrzssnRuwVH1nMdl9khJ00O4ii68IPVXli1BZWkk9gMCI6lAZVlen3nDU6jIHG1kk-PCWSYVESeWCzuWBFdQ~",
+    "securityId": "v5kgec76VcIoI-k1EQQv-2sr0Zzw5dbip9snqOj-KF6ayHItx1H3rO18eIdUfdkF3bqdcxO8ZrOvUQJmZ1nmJJ5fP40q-87OjX2eipEiMqJEMUu_QdvWzIHJa9gVXWymfOBueazuXPZeHsA80MqYmbyO2LNU1WeXZMkuh21hrjTozsKv8e4~",
     "showTopPosition": false,
     "skills": [
         "ERP",
+        "SAP",
         "计算机相关专业",
-        "管理相关专业",
-        "财务相关专业",
-        "SAP"
+        "管理相关专业"
     ],
     "welfareList": [
         "五险一金",

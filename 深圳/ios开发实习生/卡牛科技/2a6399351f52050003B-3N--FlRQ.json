@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.533945,
-        "longitude": 113.955032
+        "latitude": 22.534005,
+        "longitude": 113.954768
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100019,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 64,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cYTEHgH7WA.search.72",
+    "lid": "1cQ1ZxcxeS6.search.64",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "z41hZ7lqJe3Fp-F1nwdlsJIvHzM9JMfOqZwm6z56mm9NO5W-d37OxpaNDMV3yYuWvtn1wwPazLC-dahc0D7bjBM0a_tpjSB6akj43Mx1eAxje39a6Z4BaaU2rq9aCw1kI-wk0OWJgk4~",
+    "securityId": "fubVVZEsqLf7e-21SQAB6fmNZnEX2zOjMlWwyQ6ritY2U8CsvD8qxVzNhbeH0rfTtibirMCa6KI9i5HsOlGWWqqcfbSmURTY25CePu4Cjz6qDAfOAHlgDaLlw-uCSlihDCMg1g2aRgc~",
     "showTopPosition": false,
     "skills": [
+        "ios动画",
         "Swift",
-        "计算机/软件工程相关专业",
-        "ios动画"
+        "计算机/软件工程相关专业"
     ],
     "welfareList": [
         "补充医疗保险",

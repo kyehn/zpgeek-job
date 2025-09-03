@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210927/607f1f3d68754fd07dab59bb544fb137caed6647697d1cf6650cb1c96d84ea6e57a074c91c02f28a_s.jpg",
     "bossCert": 3,
     "bossName": "李女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210524/4a95255c53d30fd5225da0a9f736b0a096b264bc17fb69530b826b11fe022b1b.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 80,
+    "itemId": 62,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MtOlKFgdiH.search.80",
+    "lid": "1cK1qnXw7Bx.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "nMpKC49rwuTUj-F1wRQxEHSFhFY_qXRxif0xXzrB3kdntQjdS6PGFEwjR8WZA6LF0BxMSpb7bCjXv9miTgyXvoIruhetbh3TKun8uVz0-f7hSUcjbHpOFfZ3gcspQb7EylkE1E_AvQZy4Q~~",
+    "securityId": "qiszTStRvifr9-j1ED6x0GxCM_UbXe_5Wp_VXfsQncWugX6vIIA45P8OjO17jCFU-gTKJC2-0TWNIiMbul_fISYVIgLcd1Q6ymHqDjpcsrBG_u6bXijGWjmzvYXYebYKekU9T9900SCsb46VT33OSZkZb3PHTEB4lrSALCLfkwAI2BaimA~~",
     "showTopPosition": false,
     "skills": [
         "亚马逊精品开发"

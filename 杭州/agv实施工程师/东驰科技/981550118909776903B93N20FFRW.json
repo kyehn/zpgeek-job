@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100206,
     "isShield": 0,
-    "itemId": 42,
+    "itemId": 43,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,26 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8iCLkCfNvZm.search.42",
+    "lid": "fJDH38HTgp.search.43",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "GDLn_7IDBQo3L-O1Sxss3peYxziUcOlG_2QY3tBhNcYJCG0HRV25EPeji3Mtvc9RS17zOWxBPJRqwsdzS0hEL16EKU8YF7DGYPVkaG-eC7ubqSX1Wf3tNCsPi9dVN_TjVJJNzfuURg~~",
+    "securityId": "p6NAwkooMDBbF-21q53ldwyXjgcQD1SLH2HeO9zRa9PpDgy2O5du44pXKU7k8w9uE8ucrItQcaXlqT7hwvvqPEm6OPt3gyU1eEJlmlI_plNSyqJp1t3j7iVkrAen1h53qwMH3JmxkA~~",
     "showTopPosition": false,
     "skills": [
         "可适应出差"
     ],
     "welfareList": [
-        "生日福利",
-        "员工旅游",
-        "团建聚餐",
-        "五险一金",
         "带薪年假",
-        "节日福利",
-        "餐补",
-        "定期体检",
-        "年终奖"
+        "五险一金",
+        "节日福利"
     ]
 }

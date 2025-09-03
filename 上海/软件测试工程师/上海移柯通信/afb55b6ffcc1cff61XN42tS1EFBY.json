@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "闵行区",
+    "areaDistrict": "徐汇区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221205/607f1f3d68754fd0732987d10b1e18f030edf12b9ec29e13d58b762adc47ee64c166031350eb770c_s.jpg",
@@ -14,7 +14,7 @@
     "brandName": "上海移柯通信",
     "brandScaleName": "500-999人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "东兰路",
+    "businessDistrict": "漕河泾",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -22,17 +22,17 @@
     "encryptBossId": "b6c0a9002349778c0nR82tu9ElVQ",
     "encryptBrandId": "2f0a6f3ee43ec7241HB93dm9Eg~~",
     "encryptJobId": "afb55b6ffcc1cff61XN42tS1EFBY",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.156651,
-        "longitude": 121.396382
+        "latitude": 31.16182,
+        "longitude": 121.396808
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 82,
+    "itemId": 57,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8PBeLdAJjF8.search.82",
+    "lid": "9SJdyItuZHq.search.57",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-12K",
-    "securityId": "OfVBUQX1urmCU-V1KiZ0bNWrKhwaTrqLaZFrWuQz3d39gUSQLfRKiyYhVx2w94Kn8NulSR3bdzorO16FSrSwaqqY94SzO4yOrh_AqC7sHm45Itvh7aI-Qxipm3kveGChXuogLyl8q1l2Mw~~",
+    "salaryDesc": "6-10K",
+    "securityId": "AoXf56mBLjiUV-61OXzvhq6aopSRdYk98Rx64eL2jyHAVGYZSx4PlUCzsm9sZxvRx2vCcswv1L8dyTl_n7bAtj4rRWHiNFkRakCob3otsoiP8ZnF6YKOIc8dnCfpD1PTC6jzxVkfygqSdQ~~",
     "showTopPosition": false,
     "skills": [
+        "C++",
         "性能测试",
         "压力测试",
         "嵌入式测试",
-        "Python",
-        "C++",
-        "Jira"
+        "Jira",
+        "Python"
     ],
     "welfareList": [
         "加班补助",

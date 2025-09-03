@@ -22,7 +22,7 @@
     "encryptBossId": "0440e213bd6ba2600nZ92NW-GVdZ",
     "encryptBrandId": "3802a679c3af8e201nJ739m6GA~~",
     "encryptJobId": "45dc4e5fd8a8379403F_3Nu4GVNX",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.336989,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100907,
     "isShield": 0,
-    "itemId": 53,
+    "itemId": 48,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8iFLupDniqP.search.53",
+    "lid": "1esoFhKMSBX.search.48",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K",
-    "securityId": "JHTMM3gkdu48a-a1QdbvjPRg4TyzT_ln2RS6Z2xaz6w5vGSg9b_9YsIkc-Qtn8hr-Pg53HchZHdoIpMPpdutGIMOHs0YCGO585e-cFAV-Tm3HUPg22776XAS0y9P_VQzgP6Sbc8pyJSlGF10KmNuIM7vEMtnCWLpdXAYTDGrn4iHx1QW1A~~",
+    "securityId": "sp9SLqQfJNr96-m1GKdnpux3Der5VpGxiYI_VSHidjtj2num1tWFJn7_AFn_kTk2urdKUvIVHe5v52LtjH5qeLJ-ZQPansjv9a-n-pT3uDaSbkhVj1CYCGeoQub9XvnNwjD0BDCNcrTHMJlx3PLoKAAjBgrzm7rd__QEH8fAalYGyplJJg~~",
     "showTopPosition": false,
     "skills": [
-        "Python",
+        "C#",
         "C++",
         "C",
-        "C#"
+        "Python"
     ],
     "welfareList": [
         "餐补",

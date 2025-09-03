@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 37,
+    "itemId": 34,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PS24ecmxcm.search.37",
+    "lid": "1emMUMT3MMe.search.34",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "SMrM90REfGSA0-x1S5xq4UkKL8w7jf7qUn39auKVxs_STWAiFvjZXA1eME3wweKWahlfegDfrg41J9-jLzx-I8d3ByeEiRePPTNaX6el8FEL1ur7k_aTiO6V2UXiV55l_T-Ah-wiky2rHw~~",
+    "securityId": "zUWr_XkqHFjdJ-o1vT9atm4lCeg2BoPX1Afr9C-rUgG-nUXv9EQ_KH3yYwapQfrGom8kj-sBhy2sfjnMSU-WTZtfPvTiNxpUXMsgVMXWOAYj2YdmXracnlPpigLelSWkpgAwvxx2-XXsVA~~",
     "showTopPosition": false,
     "skills": [
         "Flask"

@@ -22,7 +22,7 @@
     "encryptBossId": "c72dcb3ed5f5da1e0nZ63tm6FldV",
     "encryptBrandId": "db3b131e8fdccbb41XZ709W1Fg~~",
     "encryptJobId": "87724aa71d61ab001Hx72tq_EFJX",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.287478,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 21,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PGYddCsp55.search.13",
+    "lid": "9SQ2ZX3Hxo2.search.21",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K·13薪",
-    "securityId": "rP0O3FisL4okM-C11QgZr6mBSIk57MsQZfQJEnKbucnPEupI06XyKBFja-Mp7rJ5GuvI2-IAeVPzPzVQ0oS3vab3u_Gr3r5hVUH-XiFHccB_ynv0ojzjmFB1ocoFO8MepvIKQMSy9_t_ud24BeyEAlWb8EjuXpGFHFSLj5aca6b4qebZmQ~~",
+    "securityId": "KhoNzylqd4r7q-31wfCID9__qFKkDBeNHDnvhfdyS4eFT-p0G1vG8abNKML9ppquvdu8dti2p1CKxbhoImI-iSAhEaQ5UgLGHv1v8rvoMj5QJiq5IM55olkyaqB6wDqU1mbW4cg0wA0ag79UOgutLJBc2M5mqnMFSURPSrenhA8jOsTmYg~~",
     "showTopPosition": false,
     "skills": [
         "功能测试",
@@ -58,5 +58,14 @@
         "JMeter",
         "Postman"
     ],
-    "welfareList": []
+    "welfareList": [
+        "交通补助",
+        "节日福利",
+        "通讯补贴",
+        "餐补",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+    ]
 }

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230128/607f1f3d68754fd0d37be85066cd25daadda0cde8a180782e845278ae02da391d9b652111322e0d1_s.jpg",
     "bossCert": 3,
     "bossName": "门女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘专员",
     "brandIndustry": "仪器仪表",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181029/7fd064c5b29a1ee82139010cb9a1c954cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "0abab285d32350131X173d-7FFI~",
     "encryptBrandId": "4e729da16d8b08ea1X192dW7EA~~",
     "encryptJobId": "c234d38c0ddcb64003F_2tW0FVZT",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.076414,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100913,
     "isShield": 0,
-    "itemId": 77,
+    "itemId": 11,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8iCcfk28yqz.search.77",
+    "lid": "1ewqUiIxKDU.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "Y0hs2nCuN0_uU-C1qWiZHoLIyUWaGZQId2nKQAA6pi1YTxmsN_RMIxDH6Qaa86PeJ7cp9Xs-E3i2DDf5J8oINbnxy515Yf2uoxBnyLc7VVC6LnAFfWlFNS69W5aIFzp7dbkz8F6VG_NN",
+    "securityId": "U99TxGpbGrMZl-81qJtjdBSTcA6iZ06ETDPb08cipcDxvB4_LP94VQzxVESDDUQVJaKu-AT11FXi43JGbcqESY3BlLHsZLYWwGWfwbivT328lIIhaHYi0gvRq5uaZDGkgZ5pFeWaflCtFpXdvaM6QFeYWdJsbnq7Ichw9N3Xx-q1o8uy",
     "showTopPosition": false,
     "skills": [
         "实施交付运维"

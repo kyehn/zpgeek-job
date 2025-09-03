@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 52,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8QtqUOaProw.search.52",
+    "lid": "fB88CNJuEm.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-8K",
-    "securityId": "tg0ROyvJ8qLzc-s1JZ7tMmbzCi_72uvymu026LQ_24Nf3xxX6cf_-IgpZQfXcd1Fk2rjhWLLc-xcmCdKKOwZgV79boZShlYZAiU_TDck5aS94db1zrM2R2D6SvVMTahpFhEszRS_y6du",
+    "salaryDesc": "8-9K",
+    "securityId": "nU55wghpv0_Aw-B19DsNBHStQq4zUq-iLH5d0dYdVS4YmwsQbW16VD0Hs7iiu4cUCvA_fF0jQQy1fPN_mG4dTl3_U6fl6PAykO2RDpMH0VMfJLjMzG6HvdzyEVGIpmZKgHHo5A6_fDxe",
     "showTopPosition": false,
     "skills": [
         "网络运维",
         "Python/Shell",
-        "计算机相关专业"
+        "计算机相关专业",
+        "年龄22-32岁"
     ],
     "welfareList": [
         "五险一金",

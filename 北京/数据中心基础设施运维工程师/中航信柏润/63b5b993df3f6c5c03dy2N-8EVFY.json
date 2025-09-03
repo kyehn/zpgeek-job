@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "东城区",
+    "areaDistrict": "朝阳区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220120/607f1f3d68754fd0368b740e6956e66e83a913403b6ce313216a02e0bcdbf1973fd9cd2b4543b11a_s.png",
@@ -14,7 +14,7 @@
     "brandName": "中航信柏润",
     "brandScaleName": "500-999人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "美术馆",
+    "businessDistrict": "望京",
     "city": 101010100,
     "cityName": "北京",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
-        "latitude": 39.9249,
-        "longitude": 116.411556
+        "latitude": 39.975546,
+        "longitude": 116.49698
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 87,
+    "itemId": 61,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8kmSUM31M0f.search.87",
+    "lid": "1d657Cv7U95.search.61",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-5K",
-    "securityId": "NBRK1e7RtXRLs-i1oHZ9jETK50QHn9QRbLcOJV4CN7_-H40CkMn0LrDgyoQujIVMjF37FbxAUEZe7gCkBQe1kAdJBHjDc-io4rnGQS97r8157A68f1cU896Md21k4B69OSRFjQCJ9JpE",
+    "salaryDesc": "4-6K",
+    "securityId": "VvUiqhCwVnCDa-i1NJSa1kxPT1o0i7ctjiF4hvvdLidrD7-tvLMXtE0s9OdWsTfFl2YBP8qSkWgryZ3xpvSZZsRkV8LiRd4r50mh1TwgT_vQbk1XIYZE-wdLB5SkvGgCg6s5UVmRVca9",
     "showTopPosition": false,
     "skills": [
         "大数据运维经验",

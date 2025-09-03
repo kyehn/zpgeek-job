@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 37,
+    "itemId": 89,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8m7cHrFMO1w.search.37",
+    "lid": "1cQ1ZxcxeS6.search.89",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "WIIaBFHwZVnqn-N1KdOvznPMVvcvcMM4dFfs0Y95NKwJ5D7pTEFkRSKCzgYMUVH6jxtNsMJT25Zi0Gby34V_w3HwUSs9jQKhf0ISHKnj4Is0AMT-dPJKUKMy6w4ecxXDSoPRZxu_-_Dw0mGEkKWp5y3XKh-Ddq8bSODlY-xXpahHoHpI4T4~",
+    "securityId": "BxVcC9UFFZNmt-419Qav-O5HYb0ZPPrVmmjTMw8_55rCyxgx0WVnXn4_DXqZ2sPkHc8lEEMlO7Wv0bsmTGyseAdSCwIPXRXymVcX9B7uSg8BCx8BpoXdpBQIeNlVdLyKRhbqXEJ5I8d0oZphvIo5rE91jYU_6HE5bRdrBNcgv2SURgNiW1Y~",
     "showTopPosition": false,
     "skills": [
         "跨境电商",
@@ -62,13 +62,12 @@
         "Python"
     ],
     "welfareList": [
+        "节日福利",
+        "加班补助",
+        "带薪年假",
+        "零食下午茶",
         "全勤奖",
         "年终奖",
-        "员工旅游",
-        "节日福利",
-        "带薪年假",
-        "加班补助",
-        "五险一金",
-        "零食下午茶"
+        "五险一金"
     ]
 }

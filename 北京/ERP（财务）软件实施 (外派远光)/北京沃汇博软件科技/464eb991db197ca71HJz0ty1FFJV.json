@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 30,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cLjFYj2XfE.search.8",
+    "lid": "fUNk2GEn7A.search.30",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-7K",
-    "securityId": "SUIJ-zacKpRwG-11jrPGwkQCG2RUmuUhH5vtVSzwZN519kqNdSTWtj8bImG1lJ_Icz5Mc73hJPQi7CLSNDoLADpkf2TWB0q6HbJt5z-j9VJFHB4sgxnJAZlhVcReVpqC56ngHNGOgWZqtA~~",
+    "salaryDesc": "6-8K",
+    "securityId": "8Ro0NphNMNQUz-N1yGfhVW8vRb9bXw2rSmL55S7MATIY6HZpVgqfZnLLIVN8a9HDnoCKhcuE2MZ3J-yY__sDhDdbADNvgQrP2brPmwmTw870NWSnPVT3bg-4kP_HQ9oxwjAc1-Eh-EmGJA~~",
     "showTopPosition": false,
     "skills": [
         "ERP",
+        "U8",
         "财务相关专业",
         "计算机相关专业",
         "用友",
-        "U8",
         "NCC"
     ],
     "welfareList": []

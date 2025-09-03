@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241128/607f1f3d68754fd077588eeef1430aee56071d89ea7ab4be8607949cf1a6e75c956a69abed84288e_s.png.webp",
     "bossCert": 3,
-    "bossName": "杨云生",
+    "bossName": "杨先生",
     "bossOnline": false,
     "bossTitle": "员工",
     "brandIndustry": "计算机软件",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 56,
+    "itemId": 84,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9azGisIY1Ft.search.56",
+    "lid": "1eCd2Mwwx4h.search.84",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K",
-    "securityId": "ddsBP2lxaBijH-m1WpiNCt_r7sqWZ-KcrrWq3vOTPbliCzbueZd709ECdw1Hp7BiIyCKtKOgJlMdW970q98IwmUeZmvXTykvR6ocz5nRNY-xaKU3HZ0kceRQJUPlUks8eWbb2K98fMUb",
+    "securityId": "sx-g3FZRkFX40-p1b6z2KodnlIMv2cy-AKHuFx0b2bfblIGIXAmaFViAN6k6som_7sCUcQWjS_NBLxdmV53GFE6S82tvfQZca8NWoGafh7Ac3gq8N72GD0tzOyIwpL_4uqjU5meKH66G",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "MySQL",
-        "机器学习经验"
+        "机器学习经验",
+        "Python"
     ],
     "welfareList": [
         "包住宿",

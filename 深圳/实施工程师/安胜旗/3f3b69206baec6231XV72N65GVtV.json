@@ -22,7 +22,7 @@
     "encryptBossId": "6b4b440aec5b8fd51HZ82ty9GVY~",
     "encryptBrandId": "a81d20b679907f401nZ-0tS5FQ~~",
     "encryptJobId": "3f3b69206baec6231XV72N65GVtV",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.562227,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 26,
+    "itemId": 59,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cVnLIzckWs.search.26",
+    "lid": "1d11FkYTw3Q.search.59",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "3htQf0DrqVSWh-21OoEBwLaytLD6FR67k99c9xhdj6EDR2Vfn8wtVXfDea5CL3M9Q6qq4iKiHQugOXlasRijOaFsTk1AXd-IXQdVuTOj0Go_CSxUqOwQnhvuS8IMTQsa_I073DTIuFot",
+    "securityId": "Mke0lIgaaJ5cM-91L77zBeoGfXO_mRag7DkPe0oPe_xjk3T5XZV7bylpCbxRYmGDVHmsKnaJ57mwWPjWNopqAv5haPScR31Lpmr8X7k2ZV6_yn8rM0iSjy6PgKc868n67SFsm_wVZ-QF",
     "showTopPosition": false,
     "skills": [
-        "软件实施"
+        "软件实施经验",
+        "软件实施",
+        "PMP",
+        "ERP",
+        "SAP",
+        "熟练掌握SQL语句",
+        "计算机相关专业",
+        "CRM"
     ],
     "welfareList": [
         "员工旅游",

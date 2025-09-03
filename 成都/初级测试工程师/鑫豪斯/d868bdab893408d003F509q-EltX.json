@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250428/607f1f3d68754fd0d0dc395299d36a08a3dcc3c10c47be35942e18bcb3ab3273cbe6e108a0873b51_s.jpg.webp",
     "bossCert": 3,
     "bossName": "吴女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HRBP",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201224/6e08f65ae622063316814235742daebce08d5392ed4eb2cdc33bdbff86346a85_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 85,
+    "itemId": 55,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MCeJPqYj1G.search.85",
+    "lid": "1cDM6Z3kQIu.search.55",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "Dpe50hUk0uB70-K1arHDxnP8NFg9jR6wNBEkP-oUuGl1ZFbqCh45P_8fF8DuMoe7NGVNBLsvPIv2d2w37114VW8UKq_tieqsRflGO2HSnLVqtnaQlQyPE6kZ5XWF4t2vDkfAUAReTi_FcA~~",
+    "securityId": "d2Me5suFnrpfY-41RephxxORu-2ZtFqFhjzY9p_37Pv1cSA0bumElGUAhCSRlFy1piakXphSqtDFsZN_qdGc5kbFME2QFZEpgqwPWV1xOi3qrf4scZx8Ft36BwkGJbgJKMUKGfKkr-tleT6XCAa3np7mPsgPdWVCZJNGg7pC57KovTWeUA~~",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
         "C++",
+        "功能测试",
         "嵌入式测试"
     ],
     "welfareList": [

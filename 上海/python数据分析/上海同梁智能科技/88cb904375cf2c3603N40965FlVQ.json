@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "杨浦区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250612/607f1f3d68754fd03945dc3e7362e4c6817aed83cd37015498dacda216aa2cb94e74c38160b4ddfe_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "白先生",
+    "bossOnline": false,
+    "bossTitle": "职能HRBP主管",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180815/d3a2ee705085ee0768d0525a385133fbcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "上海同梁智能科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "鞍山",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f2329f19016971370n1-3N-7FFs~",
+    "encryptBrandId": "06581f15c91488c41XF40t27EA~~",
+    "encryptJobId": "88cb904375cf2c3603N40965FlVQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.281268,
+        "longitude": 121.50754
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 1,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "python数据分析",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9SFTGpRqtzE.search.1",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "riA1am34k7bYP-f12m7N6JvOPZML2UgkY9uFWsxO-VvKqmmWqNd_qFOzVyibGF3L-CLfzqALothPi_2jFHr3Pmxgt7c2-VtqEZJPjr6w5pfEfu8YZtav2TLkoC_gl4O4n39Wd_nVh3R_",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "五险一金",
+        "节日福利"
+    ]
+}

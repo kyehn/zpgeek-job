@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "虎丘区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241230/607f1f3d68754fd089314d2ac9fffcf10c0e3976f5163ca8f796f61f0e3801b7b168149e01c7e88d_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231114/7b5b554d84f9729c05283bf28f1e2e59beeb27471aa5cafabaf043a5ac41685403ef86311198cbae.jpg.webp",
+    "brandName": "苏州禧致科技有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "狮山",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1671cd857474c7230nx409W8F1RR",
+    "encryptBrandId": "0c43e2b5a7b806e11HV-3dq4FFo~",
+    "encryptJobId": "ae79ca4f73734ffa03J529u8GVZY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.285825,
+        "longitude": 120.570546
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 79,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "技术实习生",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1cD5zdEZDUj.search.79",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "94nkTScRPSAYi-E1KeCGFOWuVcFf_4m6z3UQbDkA2N4OxfTBeeSmWYH2hfrw6RPHKMHgm-0Lb3puFVuMvGraSqhs4kOh04RAngI_zHZBNmi12r1S9I9f5S4sLQJ8Vs5qho2R5V1D300xXIM~",
+    "showTopPosition": false,
+    "skills": [
+        "性能测试"
+    ],
+    "welfareList": [
+        "年终奖"
+    ]
+}

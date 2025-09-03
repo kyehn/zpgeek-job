@@ -22,7 +22,7 @@
     "encryptBossId": "cf76966de3daa81e1n153Ny6E1s~",
     "encryptBrandId": "63f742e2d5f9920e1HF63tQ~",
     "encryptJobId": "3d3e5189bc6964de1nZ939W5GVNR",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.27634,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 17,
+    "itemId": 60,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t6qgxkwBg5.search.17",
+    "lid": "1cFXiYkj6Oh.search.60",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "HKYXGFX7U2zzm-J1M0vl9sEsvsbc30gZ9V-nnbhJxxienqtmcLjSHu9US3D-3QjMew0IKjzZvpn3kk2QHmNz7Dk2fx28--seAc8-g3wLGX280ajbjskdKtePi3bYDJ2UOGG18Mc-qQ~~",
+    "securityId": "t1bpcE-SiOwXh-Q144qbqQecN_6koUmn7IAKrRT_mUB-I4uArFod2SuC5I8-K5vTnt6h9JEIyF06EiIdsL8OpM-5-iWfxf2_rw-fehXv3NdDZ5TSmG_SOJblI0qkSvSaGjZD6Un2Ug~~",
     "showTopPosition": false,
     "skills": [
         "信息化",
@@ -62,17 +62,19 @@
         "实施工程师/顾问"
     ],
     "welfareList": [
-        "生日福利",
-        "节日福利",
-        "通讯补贴",
-        "员工旅游",
-        "零食下午茶",
-        "五险一金",
-        "带薪年假",
-        "绩效奖金",
-        "定期体检",
-        "补充医疗保险",
         "年终奖",
-        "团建聚餐"
+        "带薪年假",
+        "工龄奖",
+        "团建聚餐",
+        "节日福利",
+        "绩效奖金",
+        "员工旅游",
+        "补充医疗保险",
+        "法定节假日三薪",
+        "零食下午茶",
+        "通讯补贴",
+        "定期体检",
+        "生日福利",
+        "五险一金"
     ]
 }

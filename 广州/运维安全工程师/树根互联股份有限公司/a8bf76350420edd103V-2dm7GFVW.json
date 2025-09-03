@@ -9,10 +9,10 @@
     "bossName": "常志强",
     "bossOnline": false,
     "bossTitle": "运维经理",
-    "brandIndustry": "大数据",
-    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210421/29f6a6c38c7c51ca27041bf06d402f46f0ed85007f94de4971e5ba2c250bbac2_s.jpg",
+    "brandIndustry": "物联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250714/7bf6f160950405e97c4cce591467b7113ebc4202081f3bd742072c817e47cbe6ef53bd26d281ea25.png.webp",
     "brandName": "树根互联股份有限公司",
-    "brandScaleName": "1000-9999人",
+    "brandScaleName": "500-999人",
     "brandStageName": "C轮",
     "businessDistrict": "华洲",
     "city": 101280100,
@@ -30,9 +30,9 @@
     },
     "iconFlagList": [],
     "iconWord": "",
-    "industry": 100005,
+    "industry": 100030,
     "isShield": 0,
-    "itemId": 48,
+    "itemId": 44,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4QiL4hJ6KnZ.search.48",
+    "lid": "1d9FtMSnP6L.search.44",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K·13薪",
-    "securityId": "UB57esCiOZ5u--l1dddyH4XIJDZN68YrUmt0t7M418kyyODY08-6jU051ja9gsBSOZKwsPRRaG-yUwaM_HzSWG9Ua_FETn97poAsC9XHv4cCYcqQNPaohTb_42UNoKJnOzSxHdX-bRX9_w~~",
+    "securityId": "zYyF0lJDIMsW6-W1jjX7IqHBJUYyDiPAr98CCg1PZpsUFm_A8lWLVGVpUqAEpzJoeiXseMsnf344Oea8pdqk1-hl92-vPukl0BZTm8wMtSNdKAMBe6u7OcEwNAzrtGwfBz2h_NxyWrEQkg~~",
     "showTopPosition": false,
     "skills": [
         "安全运维和保障",
@@ -65,12 +65,10 @@
     ],
     "welfareList": [
         "年终奖",
-        "节日福利",
         "定期体检",
-        "团建聚餐",
-        "交通补助",
-        "免费班车",
+        "节日福利",
         "带薪年假",
-        "五险一金"
+        "五险一金",
+        "团建聚餐"
     ]
 }

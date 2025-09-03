@@ -10,10 +10,10 @@
     "bossOnline": false,
     "bossTitle": "CEO",
     "brandIndustry": "游戏",
-    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250815/7b5b554d84f9729cc6f9b8f7774896aa44a4570907596b8a8b31bc684c84f8d09f0e37e3a6f1da36.jpg.webp",
     "brandName": "上海萨丝奇妙网络科技",
     "brandScaleName": "20-99人",
-    "brandStageName": "",
+    "brandStageName": "不需要融资",
     "businessDistrict": "漕河泾",
     "city": 101020100,
     "cityName": "上海",
@@ -22,7 +22,7 @@
     "encryptBossId": "d30e83f6f479106a03F509i9FVI~",
     "encryptBrandId": "a3d80e1a1260253f1XJ73tW9E1Y~",
     "encryptJobId": "696f6329fc3e87ff1HJy0921F1pV",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.171712,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 64,
+    "itemId": 36,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,17 +43,26 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8kgJwVejpQD.search.64",
+    "lid": "9SGvBvoS392.search.36",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "2-6K",
-    "securityId": "LXZjERHOi3JYe-r1_QzZYNzVDQZm0F-YeK93KAL6TGit3nUUi81DFFnbFSCsEhr3Tgxehfev-pQKa5c4MfYSiseFy8ktDg1yYXydVRmg-OWmygDBn0TlAVCPJBG0McqFOvjA5Us4gp228g~~",
+    "securityId": "E94NcKNBwBiXr-v1QWCh4bGXBc1X0cPi7aZbx56LlKSpIKkMiHEe6MF5I4yY4Z_KiafmryJBAAd-rxXYfLfGVK-vmfCdKWhgn_2EUiw2L4NJOj0XIwq87t8X__lXmPkVeiiuBk6g9CaScQ~~",
     "showTopPosition": false,
     "skills": [
         "C#",
         "Unity3D"
     ],
-    "welfareList": []
+    "welfareList": [
+        "零食下午茶",
+        "底薪加提成",
+        "年终奖",
+        "节日福利",
+        "住房补贴",
+        "五险一金",
+        "团建聚餐",
+        "绩效奖金"
+    ]
 }

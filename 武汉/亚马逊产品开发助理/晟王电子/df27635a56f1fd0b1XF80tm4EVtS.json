@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250120/607f1f3d68754fd08e0d8528b38e6b2aaf1ae47f3697dc5235ce73faa45461d6a7b41f1ca6f021c4_s.jpg.webp",
     "bossCert": 3,
     "bossName": "金先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "总经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250117/7b5b554d84f9729c9e1ca1c4fbca66562f5f22827b4045f935ce73faa45461d6a7b41f1ca6f021c4.jpg.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 75,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d2QdAJCJse.search.74",
+    "lid": "1cK1qnXw7Bx.search.75",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "hPhbdj1K3YCDQ-31OM8trha4phKE5tqZFUzMPAB2bjY1voVaZoPhJkXuAxaVirAbIktsXyLl0UfDqCQ-0yhx9Mungv7bS9psQSam-OMzbd5YwtbH8Hu7ixNOo5dhTUyeefZhGdXoawZkIJRKRZSa4p9qnB7BxIb5fYN68VkblZvBlsF0Gw~~",
+    "securityId": "DkryU8jfqqmLY-M1PyA0Uo-B6w1g8teMzBOIMBIJzEcUJrjS7yBU5xa9NPnBStmHQEksymndp85OcL8ZJGqQXl0NbWg7CfrLaTO6zajXlGnwPE8KRB-HFtXtkX_tARGFumwA632DZV86yw~~",
     "showTopPosition": false,
     "skills": [
         "亚马逊产品开发助理"

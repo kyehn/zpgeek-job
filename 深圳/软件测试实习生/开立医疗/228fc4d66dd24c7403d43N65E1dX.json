@@ -22,7 +22,7 @@
     "encryptBossId": "9bb3894dd1658cb11nZ73t68FlNV",
     "encryptBrandId": "cdd0823a397708580nJ_2d26",
     "encryptJobId": "228fc4d66dd24c7403d43N65E1dX",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.767883,
@@ -32,24 +32,24 @@
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 69,
-    "jobDegree": "大专",
+    "itemId": 3,
+    "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
         "经验不限",
-        "大专"
+        "本科"
     ],
     "jobName": "软件测试实习生",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3PC249bLexh.search.69",
+    "lid": "1cTWYgYT3Md.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "J1ZnslYFA2kHO-81TAZKga8Bh0kArHPvt0b6lpRbjlkU-UL5h8xtai9JJyWpGpe7L7RuuKTh96gedMc4Ac53KeUHg78EWoBRTaT7TeDcHUMDuNVaYzYEXy7_NHEdRmhLjAJGv2N2siRK",
+    "securityId": "nGcX8egKNA8mN-x1sUbnRpJrr9NsxIAT4v9hDdnfnUItZ8Z2GK1t53AnIGIOEMuLYgD1wvbz7DmooNeHb5uPrjm-R_wPqo9j64Avjl3E21qMIgci4N90KGAMhhirGzPqkru4_qE43REP",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [

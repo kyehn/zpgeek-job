@@ -22,7 +22,7 @@
     "encryptBossId": "6aead45011ae89251HB_3Nq4E1U~",
     "encryptBrandId": "338b6fd2c5674b1d03V62ti8Fg~~",
     "encryptJobId": "39616f815c612a7b1XB439u_EVVY",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.327528,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 65,
+    "itemId": 62,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t91yVOkdXs.search.65",
+    "lid": "1cyYyLA6axo.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·13薪",
-    "securityId": "lcdUZ88FkhC4v-O1x-ZF9WFF-24gMCuwqsNQWJRc7u2ylz1Slq7ZR88BaUBfeDrNsC2QNGWDRV2cgSEAo4lKPZA8v1xn2kxcK-SPfmOdXh7gIop6dJRs7nFVVhLyJeNGDZ3hf3kSxAdX",
+    "securityId": "KOiCuCXjw32LN-01IHZktbgj5JfkRGoslk7tTcH75PX6HqxdCWmVh0zTaBFgSTve9bk0-e0ariwgtFhcW29UQccYiidfsETNs0aZtAC_Aai93tHrv0o2Yfcj9YrskaOqXL1LGEuv-2NO",
     "showTopPosition": false,
     "skills": [
         "机器学习/算法工程",

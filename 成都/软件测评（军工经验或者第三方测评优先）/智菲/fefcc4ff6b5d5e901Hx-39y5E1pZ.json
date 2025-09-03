@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250623/607f1f3d68754fd0af2bab68297cf1d0353b02e409941f524389c6d322d09d46acb586ec405d23d7_s.jpg.webp",
     "bossCert": 3,
     "bossName": "王燕",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "企业服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220808/7bf6f160950405e93867c650560d896d7d16df8a673280ffb3fd1e9154c4d8edd580b656492f9522.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 80,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7NLYetywkrH.search.11",
+    "lid": "1cGFIJ3Acgn.search.80",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "3Ac21p2ncz61O-a1mWx7WfWwOq_6LfMJc584TyKgDGa7kw5705Y8vanuR2zSnXojFOYs-ywaiPWxW1jHHlicKw-DB4Ph4FXuAlk-G0fEBrkp0fcjCR2vI4RheTZK0bu3b3stbkyd4Q547g~~",
+    "securityId": "v5BsDtYSo1Qz8-W1JXchcbyd8_nEJ7laLie5jUr1MRLRv-cUhYajFaAGP0lOrAIyGVe37jqG7l3g6yDtZ6nM-78fs_xHR5H_5B-IdQju7Jv-wywv8_NhoSaFFpe42ehZX-t6Ub1g6WQCbTca-E-baB_lPrC_VAZPsZLKWs-Efn5mI5mlJA~~",
     "showTopPosition": false,
     "skills": [
         "第三方测评经验",
@@ -57,18 +57,18 @@
         "嵌入式测试"
     ],
     "welfareList": [
-        "带薪年假",
-        "零食下午茶",
         "团建聚餐",
+        "带薪年假",
+        "工龄奖",
+        "员工旅游",
+        "交通补助",
         "节日福利",
         "五险一金",
         "年终奖",
-        "定期体检",
-        "工龄奖",
-        "交通补助",
-        "员工旅游",
+        "零食下午茶",
         "绩效奖金",
-        "全勤奖",
-        "生日福利"
+        "定期体检",
+        "生日福利",
+        "全勤奖"
     ]
 }

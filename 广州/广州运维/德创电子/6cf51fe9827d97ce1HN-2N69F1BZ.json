@@ -22,7 +22,7 @@
     "encryptBossId": "3bc514e100d02bcd0XB93du_GFs~",
     "encryptBrandId": "5acf2baf82b6796103V_3tW0GQ~~",
     "encryptJobId": "6cf51fe9827d97ce1HN-2N69F1BZ",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.126495,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100914,
     "isShield": 0,
-    "itemId": 16,
+    "itemId": 83,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,25 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cUSrEbqFn4.search.16",
+    "lid": "1d30fxSH3JT.search.83",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K·13薪",
-    "securityId": "ORJKIWP0ZLw9S-u15bg08V9guPc22ROad4QArmzJQvmo6M8oqNqjmoEjVKYoXOgtWE3X75x0aLT13fjMataN8X-_h4JAj5bu61ZCWQ0xZHM-S6aiWs6HTFfYHNA2fhI0PclbyWyXY-kmuYiwxaxAm5zlJt_rb5Zh6YNpp7K36PGRfFXD",
+    "securityId": "PKkahLvCXmoNn-A1WZQZCI00_Re4qvPznD9ZVV0PRXdtck7tRRDhqwfqXB-ukPFYobrauVjD0OLhDucq4XUlgvPg6L1xbI6FZvQ-r3nY7SoylNcGGLXis4hXkmxWqwmIaVLqkxM6zRonHqjI4GaCplDknot6SHKmEe-hNbEj5WncVlPN",
     "showTopPosition": false,
     "skills": [
         "电子/电气/自动化相关专业"
     ],
     "welfareList": [
-        "五险一金",
         "员工旅游",
-        "通讯补贴"
+        "通讯补贴",
+        "年终奖",
+        "绩效奖金",
+        "团建聚餐",
+        "免费工装",
+        "五险一金",
+        "生日福利"
     ]
 }

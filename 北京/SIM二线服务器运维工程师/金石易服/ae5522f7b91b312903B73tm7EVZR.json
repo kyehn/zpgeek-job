@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240811/607f1f3d68754fd0d39942f64d40ce93907ac095138730abc955ee4ead1b602376c34283ec6d65ca_s.png.webp",
     "bossCert": 3,
     "bossName": "李慧森",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "大数据",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230510/7bf6f160950405e9a0eabd2c792c51077f965ae16527d928f24e1cc1493363b791a819076b4e2e6d.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100005,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 38,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8kljp1ABsTA.search.36",
+    "lid": "1dd44Wx6152.search.38",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "RO-qOVbeptuGQ-V16nZDCU4sBEgytB6iPN8B6UYIdeAqBhmtubTvXiKbBlgr-xXcAs2CJ8JN-RcG59pUFXmOeE0M35DdP-xKX7Hp2QgY10e4J4oQWjtA3fiM9sCup84JMyT3DHawtfd4KKM~",
+    "securityId": "_6sv14XUG2UPk-f1kobFCkgnXeU_tQWV7k0awlHvk0DCX2CXm9NzA_d2a3wudiet2bsJwAL8RCDFSDOYoDMpn9YRmZQSaWI3qzjy3Kpc7IFmyaSPWcbjAL7WDr3OyausD4R6Wno3Rjz0HF8CNlYZFWOGR_2kzHzE6XtnvAZRfAc3ONM9LD8~",
     "showTopPosition": false,
     "skills": [
         "IDC机房运维"

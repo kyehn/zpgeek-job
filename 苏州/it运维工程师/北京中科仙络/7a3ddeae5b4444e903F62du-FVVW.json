@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220429/607f1f3d68754fd086d99ed208d3146588b55d414494bfbf4a08036a2171c0796dc629f3172e2023_s.jpg",
     "bossCert": 3,
     "bossName": "晋婷婷",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180427/53bffc8e899b97671e9fa739bdc7b635cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "b740556a65b3e28b1nV939y4Flc~",
     "encryptBrandId": "2acc2e58843b505e1HVy3tm9",
     "encryptJobId": "7a3ddeae5b4444e903F62du-FVVW",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.692956,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 9,
+    "itemId": 50,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8taB6dWTtHo.search.9",
+    "lid": "1cwgIgGVvBG.search.50",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-6K",
-    "securityId": "jgH5i0FTJebKs-01zAG5IBr6Zlzyq0r81k0Ou4qg1PP6ppBboj1fFpSunVQIUIeZH6S31Jd6Hk9YCvs6wZkDG871E9iNOaQOKW_ELxluydX30t3pyLUphRJREGyw5E-fA1O9AoLXZUE~",
+    "salaryDesc": "5-9K",
+    "securityId": "NwKNQjLDEuZOH-r1sQdUsU84VWlzywGLetim1wAHAJbUn2V9J7FoqzEpKp9eoyD4mFji2BFTa6K5JTi5yVYtzU5CE4_X5JQPqPWbd0-cxfowqT-C0Q63WJI_q3SkhkKLTsTvu93WXNrNkp4JQ-sjpImjL8x-49NKTBz0yjwyCxEELl8~",
     "showTopPosition": false,
     "skills": [
         "idc"

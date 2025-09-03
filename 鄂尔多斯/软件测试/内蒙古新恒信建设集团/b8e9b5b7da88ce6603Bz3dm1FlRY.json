@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240403/607f1f3d68754fd0a0fb914fb1ff042623bf4336a0fec43554510dd52c6a3d90f1d28a37f55ca379_s.jpg.webp",
     "bossCert": 3,
     "bossName": "张女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事专员",
     "brandIndustry": "土木工程",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100709,
     "isShield": 0,
-    "itemId": 30,
+    "itemId": 83,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8hEY5hwHLGN.search.30",
+    "lid": "9To3ffaTUaY.search.83",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K",
-    "securityId": "56NJa0fBjH9ft-21DN2_Lp9_bTpbd9rr4Cv5y8iftgrg5g9L0L8_1FIKHaClPZTVrMkslKXOioXf9L02LIi_DO1DJr6RrdBTljc1WqUWtcsPlxrPMYK1v1PCNKNODqmKprHiNox0dzTJO1UUL8BM9LBTkwt7_jQkSX41wDa3ftzsscGSqw~~",
+    "securityId": "VqcPzzdTsGRvA-E16BIyh38Ul4Yaf8q0nSmNObJqil82UcYcX0DUFHk6aET4n-fXh6f0vI63XgRjggFjcoAEzQOmH_u2MPrm2aoGNGOLaP6THpuoro59hrL-5GozZBioMOK9mZFQVV_2nQ~~",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [
-        "包吃",
-        "五险一金",
-        "包住"
+        "节日福利",
+        "五险一金"
     ]
 }

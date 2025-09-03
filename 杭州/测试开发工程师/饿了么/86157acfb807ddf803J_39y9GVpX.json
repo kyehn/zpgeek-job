@@ -1,0 +1,78 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "秦女士",
+    "bossOnline": false,
+    "bossTitle": "校招HR",
+    "brandIndustry": "生活服务(O2O)",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221215/7bf6f160950405e9b708a65f8d8e4b7f7a59c09ad80309c2d9f75fb95824e8a8a42e8932ab8f5039.jpg",
+    "brandName": "饿了么",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5010896486651cfe1nV42t69EVZW",
+    "encryptBrandId": "12e92393bff967950HNy3w~~",
+    "encryptJobId": "86157acfb807ddf803J_39y9GVpX",
+    "expectId": 1334030427,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.222724,
+        "longitude": 120.121288
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 100007,
+    "isShield": 0,
+    "itemId": 7,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "测试开发工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9SOErKHw2KC.search.7",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "Ztzpf6g9UuGpI-S1BxI8dnTzs6I1QO88iYqPO4Fsyhn_BILRHka1o7rbb3nrDnnkO6L29UF4u_V6r4hb4KFvFHXa30rYvgB8IjAixlbGIAeZMNpHJyNWQ4AeUBRzSxYRJTSAtjWuLA~~",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "包吃",
+        "免费班车",
+        "零食下午茶",
+        "交通补助",
+        "餐补",
+        "通讯补贴",
+        "五险一金",
+        "公司团建",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "节日福利",
+        "员工旅游"
+    ]
+}

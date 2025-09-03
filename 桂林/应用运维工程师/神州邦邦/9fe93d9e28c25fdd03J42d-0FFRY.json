@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "七星区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241031/607f1f3d68754fd0ffd93b16c50b0d544a780b78e9553ce94dd45085750dfc44869a5d939da9ad50_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "谢方",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190402/d0d7b2bbd603e2c36c98789c6c92101c4097c9a44df10db9ade4a2213402ffdf_s.jpg",
+    "brandName": "神州邦邦",
+    "brandScaleName": "100-499人",
+    "brandStageName": "A轮",
+    "businessDistrict": "万达广场",
+    "city": 101300500,
+    "cityName": "桂林",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3ea926c511ab3d6d1nR60tu9EVVX",
+    "encryptBrandId": "3a90635e96ec956603R42tq-FA~~",
+    "encryptJobId": "9fe93d9e28c25fdd03J42d-0FFRY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 25.249277,
+        "longitude": 110.315282
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 45,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "应用运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "fKnXD6Klhh.search.45",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "fd_4IWYPLfIjg-V1cLe_PXbsG6fiiFF6BBmf3aPAdj6xuN7fqHrgGSiipOBVywaD--3YwHVs2P3swnMcXuS1vxAs0BaKpyFhNaoaTe1qHOuCUU6zG1oL0mDts-WClRIAKZtfocd7KceGCA~~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "餐补",
+        "通讯补贴",
+        "五险一金",
+        "节日福利"
+    ]
+}

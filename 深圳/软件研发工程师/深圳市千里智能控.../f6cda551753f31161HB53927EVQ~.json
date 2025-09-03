@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220120/607f1f3d68754fd0658c91e6b9a91c8256a5be9cdb6f8058aa363995aa4a53f7e5306a4e3b227e04_s.png",
     "bossCert": 3,
     "bossName": "江静",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "行政主管",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190227/d7dcae26742d4147f3a7d38c379ba329aa363995aa4a53f7e5306a4e3b227e04_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 57,
+    "itemId": 38,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cZmNmd4ttp.search.57",
+    "lid": "1cPtFqrgEby.search.38",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K·13薪",
-    "securityId": "jK6YzSFg2vDQd-N1SX3ZGA7gs1h8UiUtAmo7hdB0kvuFrxgg7sEo_3iFX-rkxMYRLn1c5t8hxc3HOzqw8ROHKZ7VQbDyOCsIvOksBzK3XaTY1o2I4c2rPjCqikA9lT_Qr_ke-mhmZ2A~",
+    "securityId": "81xtLM0vBz8E4-t1LebWd8Jfw-IaRKJON-FMLfdSspJ2xdOD8W0MIti-0Z2S7_7M-NDs1F23-qpGi0anfqKMtisNdiW3RqJCWeQF1GlQmwUhi13KfqtHXqUQychDEHwomBG_psZFZTE2UiDuUW8zGNZsOqVHY7U9-uCIJ1GrO1of6Zg~",
     "showTopPosition": false,
     "skills": [
         "解决方案"

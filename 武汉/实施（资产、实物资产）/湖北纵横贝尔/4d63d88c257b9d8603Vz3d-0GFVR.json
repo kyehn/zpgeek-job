@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231129/607f1f3d68754fd01800adac28addc3dcb729f543b2a6446e9490229c125f35e2834d7a114be6422_s.jpg.webp",
     "bossCert": 3,
     "bossName": "李少莹",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR人事",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180808/65868c4223cc97b01123d0b6afdcd5a67e5942d2820bbbd76286020ec96dae6d.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 53,
+    "itemId": 63,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "r8QtFMcrFm.search.53",
+    "lid": "1cOhhDxpzoo.search.63",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K·13薪",
-    "securityId": "gAYtyTGaPaXcL-C15JENvqgRXWVqhSnqNmjOLRqf2ejqMm9eCYjw-nWSclPWiHpfMVMr0HlBiigRmaufsfpp7c3oQ9vg4DMxg5qide6QGzxsRCDaBd2GOtRefCr58AId8b1SJ6mFZ8Av",
+    "securityId": "-j0ebLRgT6kEU-u17gPK-dF1H3Gc1WK3JgdeUXdY888ZBO2xF_9B_VoaDkMR7AnieWpfknMAYizou-FFWuzn096TS74lV6WUQI_WmmHdXdXnH4II6hKRxY7qnVY5DQiPPgHIxmb6Y6lcZN31Kr4G-Bi55gZt3eXCe0W1Rt7y07yDHmTF",
     "showTopPosition": false,
     "skills": [
         "用友"

@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "坪山区",
+    "areaDistrict": "福田区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
@@ -14,7 +14,7 @@
     "brandName": "华方信息",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "坪山",
+    "businessDistrict": "上步",
     "city": 101280600,
     "cityName": "深圳",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.704296,
-        "longitude": 114.378096
+        "latitude": 22.55505,
+        "longitude": 114.085066
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 41,
+    "itemId": 27,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8m8NqnCNt7t.search.41",
+    "lid": "1cORbXq5NTf.search.27",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "fnCZIF5kjYKTx-A1zkFvEyHemOP-QfnpjGKQnJCyoovYeWH2FKsFqkD7d50RGgbTY5UpKhSQtOJkKM1fKSUY4C4oAD1TwTlwa4kYpjO8JXrl3QdDbPCoX6fJgkpcEHzBhPQaRPvAmrO0EA~~",
+    "securityId": "RYYUjXTP84Lst-n1HI1XJmXDff4LgYyek6c-A_FBy2dp6COf1J2NByffWs0WN4lyB6xZvwHcprQQyKZ5ch1-InEHyOx2rsAoL0texUOg1qz51PoODxvFzB-PGRskakurmUZ6_H8DSIpD6Q~~",
     "showTopPosition": false,
     "skills": [
         "IT技术支持",

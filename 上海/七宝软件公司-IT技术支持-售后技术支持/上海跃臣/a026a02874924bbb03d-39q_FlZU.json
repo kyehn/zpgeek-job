@@ -22,7 +22,7 @@
     "encryptBossId": "4fa1edae0404092903F53dq1F1Q~",
     "encryptBrandId": "0d5c70ae1a63e6961XJ82NW9Fw~~",
     "encryptJobId": "a026a02874924bbb03d-39q_FlZU",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.136717,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 59,
+    "itemId": 28,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8khNo1ENJ7C.search.59",
+    "lid": "9SHQEVBSqGe.search.28",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "2YxZvhK5kdm02-D1zE61T6UqZLtcdMVe-pnzbMSaHSqJJEzY4F06OK9oK1CCn7R-eJCjx0JcNdtwdjsfXiSgtuMoQQWWKK-NQH3pDNi-I16q4doocmxZmS3BU5Bwji-XbB6I8YNbMI3F",
+    "securityId": "RAvVMSbRWa9wH-x14OSL6l-llyTv7tYAbC8GFVV9CHYci_gzIcOidB9il0S-x7YDnGmAainKVP9beqypbWVY4yLveqNxfLFRkgPxwzL2-8LkSuTtdRQ8-mJPZmV1sJ-cKJSDnSZP6XA1",
     "showTopPosition": false,
     "skills": [
-        "售前/售后技术支持",
-        "售后支持/客户响应经验",
         "IT技术支持经验",
-        "计算机/通信相关专业"
+        "售前/售后技术支持",
+        "计算机/通信相关专业",
+        "售后支持/客户响应经验"
     ],
     "welfareList": [
         "保底工资",

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
     "bossName": "王女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240911/7b5b554d84f9729c3d6d77f98bf62b7ac8b4b7d557d9cc9e9a6571c7584f7ca76348b73bd0be6259.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "c9e018ba6aabcf010Xx_2Nm8ElBT",
     "encryptBrandId": "3976c9a7cbcdf96e1HJz2dS_GFY~",
     "encryptJobId": "860c8f1234f2a59f03d72Nm8ElVY",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.308088,
@@ -32,24 +32,24 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 46,
-    "jobDegree": "本科",
+    "itemId": 81,
+    "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "本科"
+        "大专"
     ],
     "jobName": "初级软件测试工程师助理（双休）",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8bDYW24yKzV.search.46",
+    "lid": "9To3ffaTUaY.search.81",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K",
-    "securityId": "Hw4YS8x4d1sEu-21rMP7_wVaOdtmMNf0cM7Uy7qLSZPrtJN8hwJxqwBaZdjUdoxqYPIsJZwJQMZeLXbyfqIOP3l44RQN2lx6xvpOWSg0pVWZdTFn0LrMROZDqxp0KR_FleUNXfMz5RW8UWHApvaRvdtD",
+    "securityId": "diFyWBGPWTWB9-r1ewFHquG3NSNyj5Bc-E0jThhPYMm-gyZgc3Ve7TuZpFQglz4nKRmLgdC8AGS1bWnj3wFnAgzQRp2zFY-nBSMf8Lxfc9GyX1LC3hWKrqcoZ1NiKAi1uM7wFkQoIcpty6E~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

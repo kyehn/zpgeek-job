@@ -22,7 +22,7 @@
     "encryptBossId": "0a4e9b5a0db82efe03Z909i-FVU~",
     "encryptBrandId": "c3d0466b95bd86b41Hdy29i1FQ~~",
     "encryptJobId": "dfc32a91798398bd03R80tW4GVVT",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.344575,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 34,
+    "itemId": 58,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t91yVOkdXs.search.34",
+    "lid": "1cyYyLA6axo.search.58",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "HQN3D0Hv1fKc1-_1221kgFPhbIUnoJNKlO6SBUowh03e0FVcov9dTY0C9Jx5LaVyPqlD_VLbLiwOUYFaQuMAoyfGQt1C6jM50MeBk4BD73ZJc2Nha_72ZqLSAgp08qM0fAFKDtGfkbEC",
+    "securityId": "dSKzmEwNAY_bu-51AQg8S-NF9KCcIfyWmjLblGeTzRjl9Y_SA4gTw5rMHn7mbTRdBIKzOxqaeXCyGw-P98mU3Bp7bSkFUcz7b0J3KMoMhFEjDNQ7CZUzniduXCMDnozXFnW2O-g1QP5L",
     "showTopPosition": false,
     "skills": [
         "Python",
@@ -57,17 +57,16 @@
         "MySQL"
     ],
     "welfareList": [
+        "定期体检",
         "年终奖",
-        "补充医疗保险",
         "交通补助",
-        "员工旅游",
-        "全勤奖",
-        "五险一金",
-        "带薪年假",
-        "股票期权",
-        "餐补",
         "通讯补贴",
-        "节日福利",
-        "定期体检"
+        "带薪年假",
+        "餐补",
+        "五险一金",
+        "员工旅游",
+        "股票期权",
+        "全勤奖",
+        "节日福利"
     ]
 }

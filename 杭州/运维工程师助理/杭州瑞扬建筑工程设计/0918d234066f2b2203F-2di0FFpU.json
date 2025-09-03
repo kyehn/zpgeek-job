@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250223/607f1f3d68754fd093192e61c6eea01e02680cbb3670acafe6ce78d9f6b73efcfeea9c544e42551f_s.jpg.webp",
     "bossCert": 3,
     "bossName": "程先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事经理",
     "brandIndustry": "建筑设计",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "047d87e4e49feda603R83ty7FVo~",
     "encryptBrandId": "3058bbced06d2e5c03R72NW8FVc~",
     "encryptJobId": "0918d234066f2b2203F-2di0FFpU",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.243974,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100703,
     "isShield": 0,
-    "itemId": 24,
+    "itemId": 30,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aZcmxEpsfA.search.24",
+    "lid": "9SM53TOGlwY.search.30",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "LPWDpbd8pSsC4-P1WoLkycxbxL2gZvwxo9gNX9SIPEkGGoHFlgL4GJ-TaxNx5-qua2iDb4m9QE35KNY5UyEENgfLjV_S_IkRQ-1-SDXeHZcx8-Aewq0cCkIRELeCDsy4gsNzUVE2JYQk5c0gPQoQoxptOIpVLg5ZKlDxRkqc2XvSJ_P-_Q~~",
+    "securityId": "AI3VAzbWH5YUC-61O1gNVzN5G25BU6W5QEIAwU3OFV5Bqa70UKCmWo3-HdPL_E7W4nyCrhK3Kld5h44dKsviV-TMxJqHrKUYpOdHKIt2DTmPJPqpNXTASBld7uX3yQQ_DcrP0V_P37Ihzw~~",
     "showTopPosition": false,
     "skills": [
         "桌面运维"

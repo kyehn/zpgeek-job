@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 21,
+    "itemId": 23,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aYI4bRL6Zh.search.21",
+    "lid": "9SHQEVBSqGe.search.23",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "Ty4AhLgn9VAXv-c1oK5qjCEb3q07GRIuyU_FBOHEPLugCivmB1f0S_oEyNY1dppYrCyZWmHrvyV1KVIR-pTe0CAOEuxE6j55c4Y1rQ_oJcQiBVYT2l0nlpwqVLOXWSt9wqTDzEijuwm-Hw~~",
+    "securityId": "R1ddWPXPlodzD-R1oBLi4DJmZ3dlvHPGvjqa29Rb6ER6rx5YiaeNU4ugNIYzXkRK_q6LB6WEjGZYJr2_vpaXeeR5FcehLWGBV2wG7eQ2q94Z1xCMIvrwmmR6K5WWmW-LCZng7sLrRmEMWA~~",
     "showTopPosition": false,
     "skills": [
         "功能测试",
@@ -61,14 +61,18 @@
         "测试工作经验"
     ],
     "welfareList": [
-        "年终奖",
-        "全勤奖",
-        "股票期权",
-        "节日福利",
-        "带薪年假",
-        "住房补贴",
+        "绩效奖金",
         "五险一金",
         "定期体检",
-        "加班补助"
+        "节日福利",
+        "包吃",
+        "年终奖",
+        "带薪年假",
+        "团建聚餐",
+        "加班补助",
+        "生日福利",
+        "员工旅游",
+        "全勤奖",
+        "零食下午茶"
     ]
 }

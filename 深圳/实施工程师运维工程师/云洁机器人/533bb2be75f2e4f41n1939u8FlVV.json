@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210923/607f1f3d68754fd004d62cc511f7366b6d7c1cabd52faeb8a2e8c939957a7fa3be08c838ed61385a_s.png",
     "bossCert": 3,
     "bossName": "赵先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "总经理",
     "brandIndustry": "人工智能",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240911/7bf6f160950405e9e0d876e7731c9f5735b901ed9ee9eea1a2e8c939957a7fa3be08c838ed61385a.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100028,
     "isShield": 0,
-    "itemId": 9,
+    "itemId": 20,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cZmNmd4ttp.search.9",
+    "lid": "1cPtFqrgEby.search.20",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "wt_7HODeeFGPi-K179-qs4NcbYvtKB8GmTMAc1QtbCjN6g-rnrZh8jyrNepX3ZWBbFdCqU5gW-tpRJ4SsP4HfkPDCqoNT9a98oUgcRObs79goWPVgHiyOqpq41PVRJ7EYkfmnYZGNmwfSiI~",
+    "securityId": "XWqQEc-rDF1TK-q1UfWtzX-31FEoTUUV8jRKjxH2Wjqbdw77QlZ78_fbX-f62qRFgAIjH-AooX-soUkafHzW4gkapt5yFJvyaJO7c06cTxJ9VB-LZuQFymxuD6qc9dHS-aEsgp6R7ZMXlzOeUeo69o7eDh7MJMbuBI3ZyK9vFkWL6uXYDK0~",
     "showTopPosition": false,
     "skills": [
         "机器人",
         "实施交付运维",
         "实施",
-        "运维"
+        "运维",
+        "计算机相关专业",
+        "电子/电气/自动化相关专业"
     ],
     "welfareList": [
         "带薪年假",

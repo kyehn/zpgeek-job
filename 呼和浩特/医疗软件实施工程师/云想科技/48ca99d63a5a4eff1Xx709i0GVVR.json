@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 59,
+    "itemId": 85,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,24 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7P3x7m4TD6l.search.59",
+    "lid": "1eFJGH8UV1h.search.85",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "GmyAd9B21awn8-119tMoZ66wGTc1h4j6k8NvYAMDI21B6135kejIL6M6g_Z1aKJoyNfDUEk_rCbxScAEWtn4BFB77RkVpt496B_16GX_4ht1GHW-nEqlIVUt15mt4B5igPpmj_2a0LyKftBTrjKf_xzn3BgbCQ3q17kCrx46r6S59QgUbvc~",
+    "securityId": "sX_NjqqCLBCti-R12swQXpKwQ2JTUvrVJlEto6k1b1sG-rJ3Wk4nHNFPagyAzM6kVFRKhku3TW3clmmLOOytSW2Q-g6C9RLgUL0UXEJ-WtKXlJ7mTil4I6lvECye0Ng7h0r37O41A8tnmu_1e6B2w2a-R1iXaIuYTBOdcpU30jz5_9VfEhA~",
     "showTopPosition": false,
     "skills": [
-        "计算机相关专业",
         "软件实施经验",
-        "可适应出差",
+        "ERP",
+        "HIS",
         "MySQL",
+        "计算机相关专业",
         "Windows",
-        "SQL Server"
+        "SQL Server",
+        "CRM",
+        "可适应出差"
     ],
     "welfareList": [
         "免费停车",

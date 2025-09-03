@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221007/607f1f3d68754fd0770f91bd16ea50a028ef42934c44fe209b0e70b07bf02f576a533de531001947_s.jpg",
     "bossCert": 3,
     "bossName": "陈岚",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "区域人事",
     "brandIndustry": "医疗健康",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "555caf39329f16b70nJ40t25GFFZ",
     "encryptBrandId": "c7ce95d8c1a0d8af1n1_3Nq7EFY~",
     "encryptJobId": "c04ae35ca23fed631Xx83Nu9FFtU",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.674052,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 17,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8sZELDnKVzh.search.17",
+    "lid": "1cI5WpZ5Cj3.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "khnXh27UqoswV-j15K_WpkWWwvgleWwcAGaFC-YiTrYW9e1ZMnT_Z0tw2vAKw3oqdJfxCjYWBTaZfyX_xSJi1XY1_9D0mGwbJZpP-mKCWyjyeSCgNJEifeBGu-bNbN8BCgAE8ujU7ykUh2s~",
+    "securityId": "cbeYlFLEdNmTQ-W102VPKOJmkZvDH6CgPvDrG5DA7m6Rfk_snj6qY3ZkX2hhZvWxqJ4QmZPIy1Yb_OmmUCQDNm2KtuWmFyLIuipaRQPFG1viOEe19zlJ25UuXzL7_LQFJa9RZwFA2Sawa0aQ4WyeQP-QmKF3pGl1SIUcn0oac59c533SYFw~",
     "showTopPosition": false,
     "skills": [
+        "软件实施经验",
+        "PMP",
         "HIS",
         "Oracle EBS/Fusion",
-        "软件实施经验",
         "熟练掌握SQL语句",
-        "可适应出差",
-        "PMP"
+        "可适应出差"
     ],
     "welfareList": [
         "工龄奖",

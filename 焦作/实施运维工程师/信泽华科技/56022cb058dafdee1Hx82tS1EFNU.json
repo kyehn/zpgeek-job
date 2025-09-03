@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 52,
+    "itemId": 8,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aSz5n7Vl0k.search.52",
+    "lid": "fKnXD6Klhh.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "uEzSpjbX1MNZd-S1671-eYDQCKAWadQynUNFMpH83RYv8LYIzFyuNiUz3iIgRi8Y8WsU41MtG9eYmZV2htne7W8Hl1hnVsrjz7kjYX73zkzdBTCqX1C50g-qZL1c0nxsB2JKtpS5NrkO",
+    "securityId": "wBJuIzZUwjVo--_1hk3V-2hax0FZun8Vz8-B28NfFcEBeqD18w48nCUiklNpPf_4c6WaXaCRf3ttc9eJ2XLMYdp7ofwfFGcqpvXd0pGbW5uupEJNUyzYF0z6MFkmsHdNO3vhH2Y1kAmJ",
     "showTopPosition": false,
     "skills": [
-        "计算机相关专业",
-        "运维经验",
+        "MYSQL",
         "大数据运维经验",
-        "MYSQL"
+        "计算机相关专业",
+        "运维经验"
     ],
     "welfareList": [
         "年终奖",

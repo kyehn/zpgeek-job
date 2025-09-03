@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "芙蓉区",
+    "areaDistrict": "",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
@@ -14,7 +14,7 @@
     "brandName": "深圳瑛雄",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "马王堆",
+    "businessDistrict": "",
     "city": 101250100,
     "cityName": "长沙",
     "contact": false,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100703,
     "isShield": 0,
-    "itemId": 84,
+    "itemId": 57,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8dhPbV7RM9j.search.84",
+    "lid": "9TkuuMYEVTi.search.57",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "tNv9mkWSP3Neo-616ZZn3gtcUZNkHpigwYQEiHPp5M5nXMlH6tfr9QaIb7uJSDfOIMAi5NM4pKRXVPa2msMt-EUbrxNMIw_lGOpD9TNIeGKhZFM6yX2UHBS9Kj0h8vpr7UEsj4U_kQOSEhU~",
+    "securityId": "9gDZtAiWUdRJ--s1sHLIyvGolne0GTKKBlJS3ALDMa0wRqpEk8R_WHCRZuOf4bbyuVb672yXDoThHjXWFH052PD8y-Gf5VjwgHIAGJsvq3vif5SlTMXobmiLSJaBE-Q5l4jJeDqe-IO7UK4~",
     "showTopPosition": false,
     "skills": [
-        "SQL",
-        "Python开发"
+        "Python开发",
+        "SQL"
     ],
     "welfareList": [
         "年终奖",

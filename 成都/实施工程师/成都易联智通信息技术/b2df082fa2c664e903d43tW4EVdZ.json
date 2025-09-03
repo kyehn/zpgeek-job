@@ -22,7 +22,7 @@
     "encryptBossId": "67e2fb24cab639d00nd-2Nm4FVBW",
     "encryptBrandId": "f18e39069781e7771HZ53tS4FVU~",
     "encryptJobId": "b2df082fa2c664e903d43tW4EVdZ",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.592836,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100915,
     "isShield": 0,
-    "itemId": 57,
+    "itemId": 43,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2gbnUJ3m0o9.search.57",
+    "lid": "1cHlHpqL2y9.search.43",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "K11bK5sYr8vJI-J1b8F6LLAeWUK1s9P5FKqvr8p5AWAhduQziF3RlsaXe2a7FR7YvCB8K1VMCHcu6PAaGv85huXciPZ2R8HdNIFH9PwIuAmxLpoyE0TkTkeI-Q2MdDTAp7dXG7ioPbBhu6w~",
+    "securityId": "mzlJSGxq2pbip-v1KRSx9rtOuJcRSgg05mqriD57mgGZVdRERTpYKD9XYgUQEQw6xEn8evATDm0r5xvYknafujYSSvht_-8VoVD_c0g5M2Bg1LRYTn_-bEfypwNVu3Robll_J2Uc-NSvSE0~",
     "showTopPosition": false,
     "skills": [
         "OA",
@@ -57,6 +57,9 @@
         "计算机相关专业"
     ],
     "welfareList": [
-        "五险一金"
+        "五险一金",
+        "带薪年假",
+        "节日福利",
+        "绩效奖金"
     ]
 }

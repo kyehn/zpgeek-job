@@ -14,7 +14,7 @@
     "brandName": "万通兴业",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "西直门",
+    "businessDistrict": "长椿街",
     "city": 101010100,
     "cityName": "北京",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
-        "latitude": 39.945075,
-        "longitude": 116.371492
+        "latitude": 39.891298,
+        "longitude": 116.362275
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 83,
+    "itemId": 76,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,15 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3Pp0F3uNCja.search.83",
+    "lid": "1d8v2kttMZs.search.76",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "94u70LDLhytuv-O1ZAjvYGYRuSchcUpLIPMnXrW36Hv_z2Qu69VAg2bEA-VJxZENe7cAp5L9udGP51FqwtHdmsvac_2oPHsYHc93D-3a99m_fI0WK3OTwAkB5hJ69Yhgj-trdwhQpkKx",
+    "securityId": "4LWbaT4zl23Ms-51550h9oQAnBzqFMv7E1oYz_fZ6re2FV-EQmHmquTbGa4sVkgpduzgOwQEDF2lgSy8OzMQQL19oDPVsV-B8QjR8M6wwMgaMQqphYYord9Q4-kK5RhbDPjTPvfWbJ5c",
     "showTopPosition": false,
-    "skills": [
-        "电子/电气/自动化相关专业",
-        "运维经验"
-    ],
+    "skills": [],
     "welfareList": [
         "五险一金",
         "工龄奖",

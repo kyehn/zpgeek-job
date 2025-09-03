@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "吴江区",
+    "areaDistrict": "虎丘区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200716/99957bc48e89c77490226b5e11bd9628a011fc37a1fc267b7db46cae3d820a96_s.png",
@@ -14,7 +14,7 @@
     "brandName": "维环环保",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "松陵",
+    "businessDistrict": "狮山",
     "city": 101190400,
     "cityName": "苏州",
     "contact": false,
@@ -22,17 +22,17 @@
     "encryptBossId": "39b15eae84b4c2f11nVy2ty1FlBY",
     "encryptBrandId": "def80bbb2242783403F42di4FQ~~",
     "encryptJobId": "b7c76f4f89a9d9d61XB-2N6_EFJT",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.135064,
-        "longitude": 120.642317
+        "latitude": 31.307539,
+        "longitude": 120.524225
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 101207,
     "isShield": 0,
-    "itemId": 4,
+    "itemId": 56,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t9BJD0aBYO.search.4",
+    "lid": "1cuW63Au4k4.search.56",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "fGVAGCgaN6idH-B1Kg_ONn4bGcqZKd5GVB5Ty1KwBwJdzPb0wf2tSHAOXjXleh5O31GBFaWt-3dtjRiKcGi3aiaRfpijeSV3V8v3XwqFSrC5ld1sMRSWL-9SLp0ELhZ8RqaUEb2JeHPhRg~~",
+    "securityId": "obEkfiHInTx0i-g13zt5E-kC-3PeOywbfW8R-TabyRJzxn8Fxxn0CWfZGNuNzWD36Xo7Vg4cW7sfy8LkJjxlJkUbgQMgxXOnx2YfxmVzZl_n48KJHTy7v5RTH6DD7jUEkjAQ8MiMMatp4w~~",
     "showTopPosition": false,
     "skills": [
         "电子/电气/自动化相关专业"

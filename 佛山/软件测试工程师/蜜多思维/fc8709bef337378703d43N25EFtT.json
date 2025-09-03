@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220204/607f1f3d68754fd0cd1cd3813e588c5514139b7f5851d41f05e1d08fe3da97d9ed5c924e2abba8b9_s.jpg",
     "bossCert": 3,
     "bossName": "徐女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "商务总监",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "b4551bd6c7ba17231nR42tS1E1FV",
     "encryptBrandId": "5578512190302f621nd53967F1c~",
     "encryptJobId": "fc8709bef337378703d43N25EFtT",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.01485,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 179,
+    "itemId": 86,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1IqyCWII4ha.search.179",
+    "lid": "9To3ffaTUaY.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-7K",
-    "securityId": "3x6KH12ksCVpk-E1b2DmD3Q1E6SRoiSW0T0rR9CxWcz9t21dMQLX0803GXg9tEb6Zm-brbAGTqBNGJj-2u40B79AWd-H7hrgd4UqEb6Jyppy67Ywd2Tb917ukv2DVe2uJX1hiQV6RcJttiQ~",
+    "salaryDesc": "5-10K",
+    "securityId": "vRnuWNjrbLuuq-a1emm2Batgz8i5Fqr_ydg-8QPTIQ1eXVjMOgvJ0xYDNpGUv9kRASOqSmuIikFBq8FrzAzqZyXO3eYi0wnofFZgo3yfCRAZSNpPOqVreCyGVddrlAasW3LtQkX6xGSp4il9T_t73qluW1v70lNmvfVOsGcpel6evCGimgQ~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

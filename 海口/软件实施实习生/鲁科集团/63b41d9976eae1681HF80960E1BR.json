@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 66,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "88PN7BeETv8.search.74",
+    "lid": "fU0clLMnsu.search.66",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-7K",
-    "securityId": "hfLpghwwTlfGb-J115k-iL5mfORQoJt8uSHO5Qeu9_KjC3-ziIVpLAoEu-4tArOYjWvWpFYQN1XIBFb0dwEJ_WShR3wUNOEfgmxbEohsL2OJ6zJrhBDPb3cvSstGS84XAY5_4xs5dwj9Z-o~",
+    "securityId": "Sk29mEuwpFVMq-t1VnBMOYauRabNla2BLAzmNM1DgaCxn4I4-KZxGAIsiz-oY_wZuRtn6p7gH8J2orF1efXa1XvKYurh44RGA1EYICJcZ7hS3MgCAG1Rkl4pn55705Te4_GdyGzDEqoyd3k~",
     "showTopPosition": false,
     "skills": [
-        "ERP",
-        "CRM",
-        "OA",
-        "计算机相关专业",
         "软件实施经验",
-        "熟练掌握SQL语句"
+        "ERP",
+        "OA",
+        "熟练掌握SQL语句",
+        "计算机相关专业",
+        "CRM"
     ],
     "welfareList": [
         "节日福利",

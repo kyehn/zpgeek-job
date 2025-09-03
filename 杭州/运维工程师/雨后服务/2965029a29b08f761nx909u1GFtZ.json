@@ -22,7 +22,7 @@
     "encryptBossId": "d820e61d314a19de0HB_2ti8E1A~",
     "encryptBrandId": "2f78b77d9ce80fa51nVy3Nq-GVA~",
     "encryptJobId": "2965029a29b08f761nx909u1GFtZ",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.393175,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100007,
     "isShield": 0,
-    "itemId": 118,
+    "itemId": 58,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,24 +43,30 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "ig5q4suenW.search.118",
+    "lid": "9SM53TOGlwY.search.58",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "J2NZpkcKR83f3-n1uRfrt5ZNSXy51jA6zD-1e3Z7tIZG6Ugg_NYHPoB4PNm7z0QpfA5x1KfspVTIDUByCbfTZ8fmH0ttUiP5EcO-z27lae4cHn58ARrDe9KBLHwvGlkqRpOCWk9sVRJdiQ~~",
+    "securityId": "eT0vhVpFP6aaO-d1QtPh8zML9iFe3WM5laiz9FioufvpUkm3RLSbRrxW5ybCkgpkYAzfPbT72Hq_wv7b_YaD2gKwu3Gw8Fk09NgS85f3aLx1GEdwkdIGMlOkEolYYqhO56xPiI6YSef1fA~~",
     "showTopPosition": false,
     "skills": [
         "系统运维"
     ],
     "welfareList": [
         "团建聚餐",
+        "绩效奖金",
         "员工旅游",
+        "餐补",
         "股票期权",
         "全勤奖",
-        "餐补",
+        "有无线网",
+        "节日福利",
+        "意外险",
+        "工龄奖",
+        "带薪年假",
         "生日福利",
-        "节日福利"
+        "补充医疗保险"
     ]
 }

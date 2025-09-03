@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240527/607f1f3d68754fd023fb863fbcc545702e98d27793df3107423631c5cbaec89026aaac4b771cf3db_s.jpg.webp",
     "bossCert": 3,
     "bossName": "凌明月",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事主管",
     "brandIndustry": "环保",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230615/7bf6f160950405e9c82248ef4e5b0f0d12149ef209ba97943e83998e26e7a50dbaa904fbae511b3f.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101207,
     "isShield": 0,
-    "itemId": 87,
+    "itemId": 32,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7NRNDdKiQ9W.search.87",
+    "lid": "1cBHqfRU0eZ.search.32",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K·13薪",
-    "securityId": "0rbyn12G5dpNW-c1Tu-fosdJrr9ZBhA_v1nJz0Kwl-FG3qh5aZTyYMlgWADIZXATuTlstfVOfwMoXx4lDz3OK_Mmw8p3rbHl1zqTDqFj1QEAPmeQ7k38cQ1wslKl7p_UJIAaft16Yr5n4g~~",
+    "securityId": "jr8406OtkBI2s-t1qkRG88p1edV0Nrb67jTmAnCcrZnKJQ-_Lb30xDxNaoedqu-Zuuz2S3tsy38kQb-W7434moztR1wXr4qNHbxCIMUJjA-AHQ1Jb8LJnxmwgakV9Yu-wIyo7vf_W1IjSJ-AlZ1A-ggli71Nv3_4xkrmSmvIdA7yHBbqjA~~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

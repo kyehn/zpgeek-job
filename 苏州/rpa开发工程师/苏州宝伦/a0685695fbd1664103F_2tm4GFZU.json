@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 16,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9azb69S56Oa.search.74",
+    "lid": "1cyYyLA6axo.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "OxH2m0zMALK8C-z1sYz91yr7UFXrifwYfRPVinraNva8LCf7647-gSx6mN9CdmAXkhVBaEc1QJenk67q8PZRnCEym1MV2d3xxTAaGVsAS1xCwRcdHt2OCYkq83NwO9_lnTKYv7GrpF5oTh3a3Oq5yUmj3KWNfBuwklWPxJyq7f53-i5xXw~~",
+    "securityId": "IAUjSUGasgrvf-31uAMnd4L1gppRN23wEUArerprlteerUQ7enqvNwIMy8V_ftR8AKiGgY07nYxrSj0ZZVhjdqiDBwLeg3rjW5BpbRRvEcaMWFs2UMFpcY9_NK_U1L3T-piwq8cAEV-P1fGJsbvzFUtBzC6nGFQoMlwVbmxkvM76oC_z_g~~",
     "showTopPosition": false,
     "skills": [
+        "Python",
         "影刀",
-        "Python"
+        "影刀高级证书"
     ],
     "welfareList": [
         "生日福利",

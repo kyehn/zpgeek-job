@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
     "bossCert": 3,
     "bossName": "方先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "电力/热力/燃气/水利",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "bf74ce7c2ff84c850XRz29y5GVZR",
     "encryptBrandId": "f667f4376d4382501nBy09S5E1M~",
     "encryptJobId": "1fe307d8b1885f5703B50tq8E1VS",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.222911,
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8lYHwk4LmF9.search.46",
+    "lid": "1d5cKjh9SsP.search.46",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "WgtYxHU8af0eB-U1cg82nnjpaNFyVs99P_htLQZbAOSyhUGnSkQCEIOgd8ypWhzxQPg2RSTcgYmVIKaTqZOvbLc_D0FMw0hWZv5ICVZdrB7gxn-kbGZFVt6k03RCFJypuBXbzU-o_tFSkFrr_bF0kov62R-t3Z2LEZE7zM8-wCbIWJm3mxk~",
+    "securityId": "Zi9dG5aqddW3K-J1o2nFDor4SJnqLPGiRBKTtFj8HNw9DDUi-AESPggKek7agWq-InQkYZVRUZBdGzvEH8j4rE3BTQtfxx8-XKvl5tJ_WxE3ACDN7H2PEXPMkFjd9CBDTXJ3S8BD2N47_oc~",
     "showTopPosition": false,
     "skills": [
         "电子/电气/自动化相关专业"

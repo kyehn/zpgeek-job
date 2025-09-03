@@ -22,17 +22,17 @@
     "encryptBossId": "be0fa7c361a1bd271XN40tm9EFA~",
     "encryptBrandId": "97265911db7ce0dd0nZ72t20",
     "encryptJobId": "827518275face7b41XVz0965FVJW",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.950071,
-        "longitude": 113.10584
+        "latitude": 22.964563,
+        "longitude": 113.115492
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 22,
+    "itemId": 78,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6SvvDfvuysY.search.22",
+    "lid": "izTTH3FGnj.search.78",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "DBLreEejZTJ23-31lu4om2BTFtn1l8IfC5ELRzRwZF7szgW0A2jTS8Z29FvLesnTqhaP7CxgqOX9vPff9vuBwzgYFtWcdrU3yqgaFyB2tZIrOQj5cw0CSpkZcIfKEHKW52QcRI_7MZk~",
+    "securityId": "bGRWZPwfOFjwv-u1rMY_QNMvCqE0yU3P1fCxKasFQcOSLo38Nv_wzdxoY00rx3T-PSu7wvGN7fy3L2Wu_hxfI3CueLi8QRRqk7IUfPnX07g1oZNrdDAxh-zOR8g_nphzv-yZyFYWeBs~",
     "showTopPosition": false,
     "skills": [
         "软件应用培训",

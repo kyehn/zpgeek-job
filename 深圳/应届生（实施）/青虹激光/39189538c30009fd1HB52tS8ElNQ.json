@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231211/607f1f3d68754fd0b61716ca998e9f4b39f51b8c75d430b043e713ff26cdd25bc82c8e60d997858e_s.jpg.webp",
     "bossCert": 3,
     "bossName": "张女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事专员",
     "brandIndustry": "自动化设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200326/4e9989409d63044b1f17cafda3b93bcb3b7e0722a6a1894c1697239095ca79da_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "f3595bbe767f2c101Hx639W0F1Q~",
     "encryptBrandId": "cc50c4065af099620XJ43tm_Fg~~",
     "encryptJobId": "39189538c30009fd1HB52tS8ElNQ",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.702691,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100914,
     "isShield": 0,
-    "itemId": 26,
+    "itemId": 31,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cVUdJoUjaW.search.26",
+    "lid": "1cYAWEU8aRI.search.31",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "6xRbxBKtVQ4j_-h16LUx9gZ9NrbRV6U9qicGdDrLx7UasjZ51H_px-EfGopGGfVQtL89KM1oEBvlJHzm0dnS2cAcyOJjAsfQg6A36C7giMGGy2ngvxXsVopjq5EdWRPU2DXXF-4ltF-R",
+    "securityId": "r9S2cJgNKEfxP-51mAqTRd-ggQtyseK6oCf-ZNTPTQCWOGAlP0XJaN6Zvws_0szmLx5rZygzV3yDPuxOenwSSVzWeeUhSgAXsp3xKtqkj_U5xNkxFA5n8pcMZQLjEUuL7d05tPPjaf59miy4EP_BRXL0-8b9M6_ra5RyFdgXH9SfXgwv",
     "showTopPosition": false,
     "skills": [
         "可适应出差"

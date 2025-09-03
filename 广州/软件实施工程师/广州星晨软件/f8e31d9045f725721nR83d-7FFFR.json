@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "刘敏",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 52,
+    "itemId": 32,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8lYHwk4LmF9.search.52",
+    "lid": "9TrsF09KUP8.search.32",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "MLZjaVfyGVir3-01bhkUX4oACn71mVUBjSFAlcnM1wddGkpe90gBMiMi6r0ZXQ15h_JjwcIEuQ8mLObSRYFbv5qmtMSNW5jKmBPDAXYY_fqB-G1Kx7koNt1MRL9Zj6GsFvtqub3y9j03Nw~~",
+    "securityId": "7D8RewmHcR_56-l1oGZpSm9hx9yPcUqHovgmMM0bYQUp2U37Pco4QoYXUf5x7z-TM4H2S-IO6DuUbt49cH0h4BN77j8nBcQa1-grJoy_GqwtKvM66lzrL5ryWyG_ZX2vAL8-3STYSomO2MwPaEJhdGEYn0OMszjKBCOLFxoJA92TKT4DxQ~~",
     "showTopPosition": false,
     "skills": [
         "实施工程师/顾问"

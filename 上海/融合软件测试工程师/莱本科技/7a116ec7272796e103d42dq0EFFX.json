@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210811/5508033080efd6aadde2c4cbcce613393953bc0cfdfd70af0e366da30d16fa8a_s.png",
     "bossCert": 3,
     "bossName": "陈巧佩",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "汽车零部件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250205/7bf6f160950405e900f276953b3e0ebc305c9ddf48c16d233953bc0cfdfd70af0e366da30d16fa8a.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "67fa5ce98d06827a03153d6_Elo~",
     "encryptBrandId": "8e6d2cf21bc3877d1HRy09q6Ew~~",
     "encryptJobId": "7a116ec7272796e103d42dq0EFFX",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.276943,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100802,
     "isShield": 0,
-    "itemId": 48,
+    "itemId": 82,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PLPXN1IsNZ.search.48",
+    "lid": "9SJdyItuZHq.search.82",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "rCbPqUCbK4LM5-N1m5WufhpRGf7BmM2ch3e5xfv97_lyPJ4uFJg5Z3lyo1U5IJFySuub8FFbx35FolkpVU2wyBLtaqsVeYknYwEVuQgii39PYNKOmHol3V8ZGKb_oH9Qa85z1vP94_ObLNQP15bcJ6OAy5gnX-dvSknK_p9vAKrQRboM",
+    "securityId": "EEiiYUFfi5UYQ-11vlQwitiKzf8daOuQL3iNHIKsn0orQEReJAnNBoKNbZo42OCBobxAsUQdIGJU0t1iWr4P6NNQGajX-aAyFQZYxUN9Q8mbgxgfP0k0xfIQI2xkCh0OOjtXuP0S2q8X",
     "showTopPosition": false,
     "skills": [
         "Python"

@@ -8,7 +8,7 @@
     "bossCert": 3,
     "bossName": "袁洋",
     "bossOnline": false,
-    "bossTitle": "招聘者",
+    "bossTitle": "招聘经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210817/1522cc667410a89aa2f300b666ae11fef9efe73f44ad3abde5bf43405fae1320.png",
     "brandName": "翅程科技",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 51,
+    "itemId": 70,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cKPsInea5A.search.51",
+    "lid": "9SHQEVBSqGe.search.70",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "YgqMORMQNL3WJ-J1spMZbGcVI3_4tFUre2C-dfZACsBbunAy8k4fYZnK39KHiaEHb1PHktXfBEZ_uY7eDInUPVRCJIHcFFwLGre4rvq8CllR4A0hhKBEZRgEuYuAuDieM0UV3Hjqb40~",
+    "securityId": "MNDh4Yjwjk0qG-z1VEzDWOci4Q9p67N186ffKhbPfiDPIxPoVxJqsfOPp6by7cIFTJAjvfW6tmemsB3jgHV9aYkavZfYAFquyvOqykhCsNvs3t_OHXc5VxHU8TxDIv3HY35lnbiFZkE~",
     "showTopPosition": false,
     "skills": [
         "C/C++"

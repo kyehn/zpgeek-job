@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "钱塘区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "孙女士",
+    "bossOnline": false,
+    "bossTitle": "人事招聘",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210605/ec37810bfce0d31f8347e146be85c1e6b2f76abd0be808fde120fe863d5d316c.png",
+    "brandName": "司链科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "金桥街",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "dd046777dd7722260n1y3d25E1FX",
+    "encryptBrandId": "21c2c706a379bb021nF_2961FVo~",
+    "encryptJobId": "3843b4187b7bac4703B-29y8EFNS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.324671,
+        "longitude": 120.340591
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 62,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "市场监督管理协管员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "fI4edmw5Gx.search.62",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "7jMUNpxBkTaxu-k1NpleeNJndo6Q7LdDMws9_Q9V0jrGLAM7YlHRfSn30qiI31MVN64Z8IF8X-1RnNbBfoAIo2UmDqXpJpV9eBBsLumbwkPpBK-VQaXHpUyHY3tABETi5qpC1mmkP9v-UYs~",
+    "showTopPosition": false,
+    "skills": [
+        "双休",
+        "五险"
+    ],
+    "welfareList": [
+        "五险一金",
+        "员工旅游",
+        "零食下午茶"
+    ]
+}

@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "招聘主管",
     "brandIndustry": "计算机软件",
-    "brandLogo": "https://c-res.zhipin.com/jrs/21_03cc563e77d28a09c82e394992424aa2.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250715/7b5b554d84f9729c391cf59b8292845d89f1421248efadd16bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
     "brandName": "广州飞卓科汇",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 77,
+    "itemId": 85,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4Qg6fsQhEX2.search.77",
+    "lid": "1cV3g8xeL3r.search.85",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-10K",
-    "securityId": "Ha1pnL0Kd5BKT-a1JpFrX-s7IPsTCupzvlN8A4b2MiW0z6aRiBxzuochLX3Dpu0g5lzVuGKygCoNwBMnRgQCpFD7RWImmKKNuKfAQf7HwAutxzpCddZSK0QvW_of0AabeIpYrsCZHDayY34~",
+    "salaryDesc": "9-12K",
+    "securityId": "akKxPXC5u4aYf-Y1iLUGx1NJlIZicEMicP6BlDz9cFoCH-vXbEG49zWXuikUiCHxYQOj-6QKAOn0iEyb0gUXwFxsfbUHWmwEog_Nsl_whsiKq85PuSILtz663pvmghF5WUky1BDrbthHoxU~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "SpringCloud",
-        "MyBatis",
-        "MySQL",
+        "不接受居家办公",
         "微服务经验",
-        "不接受居家办公"
+        "SpringCloud",
+        "MySQL",
+        "MyBatis"
     ],
     "welfareList": []
 }

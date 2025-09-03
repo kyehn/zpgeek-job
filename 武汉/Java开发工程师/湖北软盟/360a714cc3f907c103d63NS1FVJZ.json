@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "项目总监",
     "brandIndustry": "计算机软件",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250615/7b5b554d84f9729c735b2249b2b07334f596748408356abb200b84a503d8126de2a258939f6feb69.png.webp",
     "brandName": "湖北软盟",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
@@ -22,7 +22,7 @@
     "encryptBossId": "9348279df99dd36f03Z82Nu4GFA~",
     "encryptBrandId": "07d137758603896603R839S0ElE~",
     "encryptJobId": "360a714cc3f907c103d63NS1FVJZ",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.599104,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 86,
+    "itemId": 61,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,23 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8o5ZWqPZZB7.search.86",
+    "lid": "1cIJmXfvKxz.search.61",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-9K",
-    "securityId": "gYB72azlIL2rw-p1WccmaKxp9Ux2GQLYRiV_D0GiKQtJOf9N1lyy0OuaA4gO4fSLCJ_GZWrh3zl_xK3FVFvFu3jvPytgWO6JQS9Q40okWsOKt6ayntM~",
+    "salaryDesc": "4-7K",
+    "securityId": "7k1NHVZQkzJRH-M18z3zgwFCOBE__fUREUKEKymVttuOjqUbcHKNj8-aJ-iD8e20Y9kbMiNuleA93vRs7GSy515FeTp3OfWHhz83Ts-N5oOwNpwFW5QUgAizod_u1Xi6Gb4MY9vONECReQ~~",
     "showTopPosition": false,
     "skills": [
         "不接受居家办公",
-        "致远",
         "炎黄盈动",
         "ERP开发经验",
-        "泛微",
         "低代码"
     ],
     "welfareList": [
-        "年终奖"
+        "交通补助",
+        "底薪加提成"
     ]
 }

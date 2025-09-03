@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
     "bossCert": 3,
     "bossName": "杨莹",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘主管",
     "brandIndustry": "半导体/芯片",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200806/611f6cc61fdc2b229544248810bb9d2a1e14b7af0c006b87af18f8564658509b.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101405,
     "isShield": 0,
-    "itemId": 89,
+    "itemId": 32,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MyHF7m1Wbv.search.89",
+    "lid": "1cFdMmgMb1O.search.32",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K·13薪",
-    "securityId": "yAkEx56DlDdPS-q10Wh1OsG36ZpexXZ8Bl0Xnmbi089BooEMZWPvV-bhywKDez5HKlHjopJoGdL8tYJLh98EUFsMGKI7rrq-G3TkjXJTSD5JWxVOB465R-YOUyvKBeETiEM0U1w24wdYuQ~~",
+    "securityId": "XKlAzQn1ArICz-e1Tzs0gu-PWqTGyqxkggB8L-YLau-TuQCSeaDOsK-8sv-F0RrkXR2QIq8qQtyu_ghcQKdF5Em42sD5-YWhNkPyc4WKX6lI6ycjxks4PFTrU5rBIikSLYlJ2_f5wteTTFHGCYhNRRoR9RTrUiFQDZCtvNRcpcKzxte1kA~~",
     "showTopPosition": false,
     "skills": [
         "功能测试经验"

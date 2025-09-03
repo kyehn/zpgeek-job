@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
     "bossCert": 3,
     "bossName": "吴女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "4675ff469b6a9de40Xx82Nu_ElZY",
     "encryptBrandId": "a6456a2d12b3f56f1Hxy0tu6F1Y~",
     "encryptJobId": "d45ebc75c0a957f803Ry29W7EVJR",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.568744,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 69,
+    "itemId": 43,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t4frR45F0e.search.69",
+    "lid": "1cwW7iMoez6.search.43",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "y0pcf0nsMvaWf-H1eLTiJocdHCXL4uGhVRvNWAmPuw1oA3DfgyEIvtXaxEGsleJhPVpLTC0_xUTUtW_EvNfi1MOag5xgjKVXwyyw4_t7o_AxudF3vBHB_Ee-3HsYOc_YOgirSE-wvKHdyug~",
+    "securityId": "ey5XBa9bWJoeN--1btfFHX9a_SRKwZjVT5TsUgRSUKnK2m8ccyfGxS8M2c_Pa2qrqdZERCQVsSEg5Af1S9p_EHjsST-2uHrV1B7PrVsEXB9oyvphozUtWS-q20Kx3ydQqdtb2PF3Jz3o0QOj0RFBkZzDWEZ636BH1Or-nHlw3pDhCfjgoTs~",
     "showTopPosition": false,
     "skills": [
+        "自动化运维",
         "网络协议",
-        "安全运维",
-        "自动化运维"
+        "安全运维"
     ],
     "welfareList": []
 }

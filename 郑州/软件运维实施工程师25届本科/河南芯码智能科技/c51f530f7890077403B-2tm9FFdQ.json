@@ -1,10 +1,10 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "中原区",
+    "areaDistrict": "金水区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250214/607f1f3d68754fd01f5817563559b06dc152a1078b19b523c6d0a04baad6e0bc0274b8cdc5af42b8_s.jpg.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250806/607f1f3d68754fd051a665a4a380eb836bdd23bc72494e0dc6d0a04baad6e0bc0274b8cdc5af42b8_s.jpg.webp",
     "bossCert": 3,
     "bossName": "韩女士",
     "bossOnline": false,
@@ -14,7 +14,7 @@
     "brandName": "河南芯码智能科技",
     "brandScaleName": "20-99人",
     "brandStageName": "A轮",
-    "businessDistrict": "高新区",
+    "businessDistrict": "CBD",
     "city": 101180100,
     "cityName": "郑州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 34.800809,
-        "longitude": 113.565297
+        "latitude": 34.763197,
+        "longitude": 113.717905
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 14,
+    "itemId": 38,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aBcbkMhI66.search.14",
+    "lid": "9TjLp5mi9r3.search.38",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-11K",
-    "securityId": "d2UkbmWjqgKBh-b14CDJr5WyHf0IMmtA7iV9k56AI-s7B_aMfIMSZ0hvQ5uVfEDD7umB244bXKoa7VzWOPbsM97hH9onS5kZvnkm0pj_wHFG3mc5qvQfuruW6kRyrdt6j-ZBKujM3peYl-w~",
+    "salaryDesc": "7-12K",
+    "securityId": "M607k5w9H1Sw1-X1RP-HdXLEQqrN_AWEje0H7TTP8IrWPVACA5JwLcvIZ6ES1iGvmkuE5SCk3SylPT1w9cF6u64ZsbQz9uYFJiXFgRfEdLZ-mewiY7_13sgciUNf1Sw41kzUE7lEgGeHgF4~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

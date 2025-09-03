@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "芙蓉区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230505/607f1f3d68754fd01ab1ab7f100283c97d283e4c4dee24600a90aba8645c5e84414ff2bfa50ae226_s.png",
+    "bossCert": 3,
+    "bossName": "罗女士",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "检测/认证/知识产权",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210423/6faf966dc2a452f0bc042f84fac9af78b005543463a981788393a81c5960aa26.png",
+    "brandName": "启承集团",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "袁家岭",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a27268f2183235cf0nJ-0t69FlRT",
+    "encryptBrandId": "33677fcb1fca4b631nB62tW8ElQ~",
+    "encryptJobId": "2db8f034d8e117c703N42N69EVRQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.193581,
+        "longitude": 112.99865
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100609,
+    "isShield": 0,
+    "itemId": 78,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9TrsF09KUP8.search.78",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "LKjUSNPEbXUF_-G1cGZK5oFQ9phwOzubd-CKaUOUTUx7UGwqRzg56xT2GF5vvx8YUj4GjUnGbMtHL9qgwfW1c32aHU5N5e9ZWml781IBlDesFMr82NpwQwDnBniFOCqTUh58e_gzAtXB2IY~",
+    "showTopPosition": false,
+    "skills": [
+        "软件实施经验"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "保底工资",
+        "五险一金",
+        "年终奖"
+    ]
+}

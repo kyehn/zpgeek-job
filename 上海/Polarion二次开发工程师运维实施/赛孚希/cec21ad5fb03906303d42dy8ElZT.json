@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
     "bossCert": 3,
     "bossName": "董女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210107/1b9c7eb2207c60a7ec1cb2a5234fb6edf6b4d082c2b90cfc2c57707384e5462e_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 7,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PS24ecmxcm.search.8",
+    "lid": "1emMUMT3MMe.search.7",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-12K",
-    "securityId": "BMzc_UFCuIkU3-R12TATbTyeHgH2MvYkcKY4aYX3VR9MZQx8YKAREH5K-E3rDdWOgdnW8JKgqOjE-Qc-VwkS__c7FrTrJT2FXg7WyEQXwDSTbJbshDrwnShoSS_94ej3PyQfGbx-kLb92g~~",
+    "securityId": "8CdTpnh0yOGNN-g19w5MHHpnSRDmifw9kZqRCwm9kEPh-dI911r_3ODTvGvsy24uEYgGMBZFS0XKYrgFZQoMstv6SyIIS_f2a956q9-FAcWXgPJzLCQy3v8lwa3zcipd3OW6qMuJhxiqt0nJwAcOIXvBxHVRm-VLWCEe0UBXpJUPMJTzEQ~~",
     "showTopPosition": false,
     "skills": [
         "java"

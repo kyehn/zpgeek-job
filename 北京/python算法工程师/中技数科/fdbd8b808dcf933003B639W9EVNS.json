@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "通州区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250509/607f1f3d68754fd08049735d55cf35e400759cccfaa41d83f9e03e253bc3be5df98164a7aa138211_s.png.webp",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "中技数科",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "马驹桥",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b2106b5343339b0d0HR83N-0FlpW",
+    "encryptBrandId": "556099b865ca2f681XBz09u0FVU~",
+    "encryptJobId": "fdbd8b808dcf933003B639W9EVNS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.775772,
+        "longitude": 116.543142
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 22,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "python算法工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1dd44Wx6152.search.22",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "eLWt-p3hmJ9Ov-U1ukMR8pMd4wFw6zr-RFYLZtw6n8LU766ZXj2wSUY6oB1G7Zf5kLQTwAHze0NsK5GaPFy_ffoF2ooJrpY7CiBYXiCw2EwIoP4X1iolrufpdfecb92z9GEn_6hBwv7FSJ0~",
+    "showTopPosition": false,
+    "skills": [
+        "PyTorch",
+        "MySQL",
+        "Linux开发/部署经验",
+        "Python"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

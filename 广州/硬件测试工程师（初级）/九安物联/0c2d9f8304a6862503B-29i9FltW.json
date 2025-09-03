@@ -22,7 +22,7 @@
     "encryptBossId": "47424b402bc535e80XV639y8F1ZW",
     "encryptBrandId": "3a6a03c8d70e5b001nF-39S6Elc~",
     "encryptJobId": "0c2d9f8304a6862503B-29i9FltW",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.020081,
@@ -32,32 +32,31 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 88,
+    "itemId": 62,
     "jobDegree": "大专",
-    "jobExperience": "1年以内",
+    "jobExperience": "1-3年",
     "jobLabels": [
-        "1年以内",
+        "1-3年",
         "大专"
     ],
     "jobName": "硬件测试工程师（初级）",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8lVWAyO1uG7.search.88",
+    "lid": "1cV3g8xeL3r.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-7K",
-    "securityId": "qNFNwxkoGkNuN-m1jrX04wMatzrQ7Vg0BFa-1nxSPWA22aSmVq7V4FXEF0w3LpVP22dYFcEz137_HgsltrCxE_-eDW_DE9Ul330uxpm2pDAg5Jeivq6jCrSoKN39mdMcEHXjfNsBGWy1DX8b4Vv8GISvW2oj6ps8pTxANh7Pd545kSdLiJ4~",
+    "salaryDesc": "5-7K",
+    "securityId": "3jpJX1Ij2TPkZ-h1wU5IXNwX65JnP5_vo01I8iHDP8wDmEyPoqs7MHtgQJcH66ZGN9Ocgqq2N0drT-wtei3U6nkJld4cj_4JIA9OsJ8vnlvwwv5zqs-rVWxU60rZOCmLp_0tMfc4OzToMZCqlU6alxlTK_L5xz0r4JjaOvaxX-O6kBEaX64~",
     "showTopPosition": false,
     "skills": [
         "五险一金",
         "安防监控",
         "智能硬件类",
         "物联网",
-        "测试经验",
-        "摄像机"
+        "测试经验"
     ],
     "welfareList": [
         "定期体检",

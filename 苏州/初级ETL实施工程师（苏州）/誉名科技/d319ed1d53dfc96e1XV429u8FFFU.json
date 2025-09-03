@@ -22,7 +22,7 @@
     "encryptBossId": "66a3de5082945d8d1HZ62ti-FlE~",
     "encryptBrandId": "cdcfd3b1ceea78820X163928Fg~~",
     "encryptJobId": "d319ed1d53dfc96e1XV429u8FFFU",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.371376,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 18,
+    "itemId": 75,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t6qgxkwBg5.search.18",
+    "lid": "1cFXiYkj6Oh.search.75",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "2O11Qn8QwadNG-V1XnU48UbGMN2cj4Vygg17rykYwChy3vyF4dBem3ivBbkt_zoxSu4q41M44tBMQeaVMisuGtdp-P5b08at0QtItc8-md398n3ASN6NfNj0RXwkPiFj-4ME8IfOaW5r",
+    "securityId": "sKEmtmIGY3qDl-41qOFRmgL0g0DObg7JWGUtH5dHB4jH1YuP9HTVEXHu-ra5_Wyt1LzCZ9soTDjhaepEDb2NnbTMHHg9qFEwdtqzVxW5JnNlJSiXoDY0SGVHQLJZLTUGzSf7RTOjAKcw",
     "showTopPosition": false,
     "skills": [
         "Kettle/Informatica",

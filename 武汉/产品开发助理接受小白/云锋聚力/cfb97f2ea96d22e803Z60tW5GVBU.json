@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210623/58c4988517e7a53d51cc428fe1fd093a93841eeb1a59ebe36426a2f4096c53ed_s.jpg",
     "bossCert": 3,
     "bossName": "高女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事专员",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220317/7bf6f160950405e9d77f0e22bf4abc0369d54f45449403cbebb9b0b62d9bbac8fd8a84483f81cb7d.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 14,
+    "itemId": 19,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d2QdAJCJse.search.14",
+    "lid": "1cK1qnXw7Bx.search.19",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "z4v82zZdc9nuo-E1LWXU6gmCeS-zMr1ariyNXcDvt_UrzciH4PTtkkGtD6pR57JaWzexwCLo0i2XyAMhWgZDsA6vhyxMYFeQDsVR_ONb47aHSG4RTz4mZbvOv09UHBwoOCvPHXRApx0PNA~~",
+    "securityId": "9z66YR_6FyZfj-11ZlUZvOmIHmeOHk8ZyG1lJN_t7mKZQYl6FMCZ6U7EM06IqxWQFezqgoFd1sv6ynHAROc-JKiPeUEbNtPCZ9uwutZAjUD3iE88XbYW6Lj9C9E8E9qV9Q2uJmixkAm3gaQu4jooCbCnfPU0N2SNtEuV4eaw3IexHFgPog~~",
     "showTopPosition": false,
     "skills": [
         "产品开发"

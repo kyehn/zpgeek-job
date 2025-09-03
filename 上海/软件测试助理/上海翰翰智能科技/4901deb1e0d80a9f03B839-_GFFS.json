@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100908,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 4,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,14 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4g4l9Xge6fs.search.13",
+    "lid": "fDj0ERUi7O.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K·13薪",
-    "securityId": "ka8hZTcS7iI9v-w1iabgJ332f0NBCUdZw7L-3sOFmV7kBeE-OIS8iCTen1jkT8VIy8ARUK9q9ks778rSOF2Dyk3xzWLOUg_kbxoNzhPh5J2GKaiL9ZqvALBhCocQzNPHs1VuJ-0tivuAsRQ~",
+    "securityId": "nj4dy9qZBiwjE-41YQeeorRNzibHV3DwaSQKLaI5TMkWJC-8q7BKvqB3_gSYLlZoxAE675sNFv5rlCYmoFS1Yan7Mssm_-gUg9_lI1DOYaBzPIQ0WxWacJOU7b2GzqBlZU5c-rzgGRlVS-4~",
     "showTopPosition": false,
     "skills": [],
-    "welfareList": []
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
 }

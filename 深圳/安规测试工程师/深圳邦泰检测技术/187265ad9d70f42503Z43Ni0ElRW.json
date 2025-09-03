@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "廖圣帮",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "行政经理",
     "brandIndustry": "检测/认证/知识产权",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100609,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 65,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7Qnx5kC2c4b.search.36",
+    "lid": "1cRgAtPV4aL.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "wMcOFhl9yw71C-A1n8JE8KOpBAJEPI5e7KlsJc0TYSORmLq3zRQ73K4KrLor1SMjbAHXSxlZZ9KvsQ-gZS2ee8LYYxfgt1CGsPKFkwjuDnLkW8JtNX3cdlwcfT-CmpyATJEp211UhkELZIg~",
+    "securityId": "zUq504dqDo_5v-41ZA4AWROzFFRnzYm5JOXsX2A56GI50JbB8oV1nzS711owg5MouKPOP_NKWLcGsXD2jFGwjhW-NufhWpMo6UPW3JM5MxnJroA0SO25-MsOA-Xew0NA2lm0CMRp1j9BJXh_gofx4puEfEEvQMoMt-sN0z3Mz1dt-N6INp8~",
     "showTopPosition": false,
     "skills": [
         "测试工作经验"

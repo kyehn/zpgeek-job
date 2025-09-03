@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 49,
+    "itemId": 46,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9b097iOVS1T.search.49",
+    "lid": "fEXWAl5QGz.search.46",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "yiZLhYrxh0DMV-o1K4xRtZgoMoihAX4ItAiNiK8cO9G6kYMPc6yifpdNGT3jRPvV1juBk2uDm2Jv4T5uvDJAyiyFdxe7R61aHKdZBKGfJzCMKH-imcYbYrJoNZgZNO1OPHe9DxcHRtyCAg~~",
+    "securityId": "yDbu1ZDddIMvR-I1RxsMI1ZkSHTdmBenWl7nOivgAk7btz68wHIfS9d81ByjRxCbKBTCKiDUGBNhMBQWKJP_iFy-PNcDg4xUPjylUkR8X4KfJX57nn1d7xqg0vCPAb8B982UJLmcSNMFnA~~",
     "showTopPosition": false,
     "skills": [
         "Lua"

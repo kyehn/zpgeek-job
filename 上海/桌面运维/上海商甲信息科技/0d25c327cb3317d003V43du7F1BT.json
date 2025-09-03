@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "黄满英",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "信息安全",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 44,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,14 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ngsStSEqT0.search.36",
+    "lid": "1dJHs6dWpHe.search.44",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K",
-    "securityId": "NsQf75e6oAsMD-v1UWwv7sWPo3SbC7Gw6kD5IIn5FoiDxt4nRoDNVfvzlwgIbX_kXM-45bbvnJbSfo7yADPajGB7ECmWKAoLIR9kU7xBVWCnJrQskbsz-TO-BY7uQlhOyHYwZHVuMc3k5VrwbNx0Ca4oAFyZSoVE2wZb-JbCsJ7jmkm20A~~",
+    "securityId": "tFrflkZ1_yq2f-R1TUpJ2ZNZivl5AnF34fSLqHDqQaZmJ9tNDT9Lq0hkPg82rhP7SnIvfoMdwJ_YzVUN7xNr9IWjvWRaQJON6tnn9KvvhrfO36UarZgWRDWHq3dYm4liDZCtg6DD5je-Eg~~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "桌面运维",
+        "计算机相关专业",
+        "运维经验"
+    ],
     "welfareList": []
 }

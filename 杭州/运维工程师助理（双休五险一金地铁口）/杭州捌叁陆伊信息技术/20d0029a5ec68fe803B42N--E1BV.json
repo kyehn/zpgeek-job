@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 8,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,23 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "72nCUh6QXma.search.7",
+    "lid": "fFZVXi9JZz.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "Fq4P3uQgb1pqy-31r7JAhXCSQ6R_45ckk0XWwVNFduHdmpdhe9jYJeP1VWghE_yToxzgnKq8okajvLzI20PjrAPxD6GAeB8KiKfn1cO7xvI0skULkHqJJ5ytBx2Eo0yATBXnBHphDeoedA~~",
+    "securityId": "hn8Sx3Jfacqwd-e11LI4vmjZ9k5QoNMstPYk_x2GJEUJkvyGChTeUE2D6VSlnQUfFMB4ZsQk9MUvkdOExFwGWyfn9Ah5JBL-MpQHZImT5qZOf1QF7OPZ1e5pumuMsaweN_S0zitIHbl_uA~~",
     "showTopPosition": false,
     "skills": [
         "网络运维",
+        "Java",
         "系统运维",
         "桌面运维",
-        "Java",
+        "本科",
         "Python/Shell",
         "计算机相关专业",
-        "双休",
-        "本科"
+        "双休"
     ],
     "welfareList": []
 }

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "黄培科",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/86ca3e74daf633a271321caa53553844cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "b94770c867f351421nR83t66FlpS",
     "encryptBrandId": "1947e93f01e5744733J63tu9FA~~",
     "encryptJobId": "c8c56452c70d6bef03F_0t6_EVpU",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.894612,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 15,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t9BJD0aBYO.search.25",
+    "lid": "1cxyqU9DuCX.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K",
-    "securityId": "vL6yYZMxtkS5--t1WOTV3RnPC0y1w8MnaOs9biSI5gmZk637HG8ldfJ0O2u4nYtwcYcjV9vGZIZIc3J9miLuVDKMjICFrUFFjOmt6i3RmjKhL6C92En8gMiNZftc2W7uj4wJ5sS2MMSiqQ~~",
+    "securityId": "VauKfN-fQVbzm-c1G0xG7NVKziHODlzefYzuc4URls2s5IpnLa3EZAxwfZdBZ_FGav-izSmVdxktuKAmkj5Q_nr6WMiawqm1NaMIM2dB-t8xggQu0GSGZ_gTeakwfZBhi1sirrwsNTx0ybPL8gIp6M85rINw6AoXcGmZ4DWmtLxS3BiuNw~~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "Spring",
         "SpringCloud",
+        "MySQL",
         "MyBatis",
-        "MySQL"
+        "Spring"
     ],
     "welfareList": [
         "五险一金",

@@ -22,7 +22,7 @@
     "encryptBossId": "1a53ede232d994f60nR-2ty4F1ZX",
     "encryptBrandId": "aeea1321662e46411Xx929q4GFo~",
     "encryptJobId": "6a6a8e29a0bf20e303Z82dq0EFZX",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.327207,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100512,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 42,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,14 +43,24 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aVdX9QG7cW.search.90",
+    "lid": "9SOErKHw2KC.search.42",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "WmMHK2xauWaqC--12CMuhfI7fG-y7I1Xl2CUrYtU_uVZJcIHb_SIVPOeyoiZgmqs4L2tnw4JuZZHKrE03pjWy7JGxpbgbNkBHZ1hdMrLZ_oyogg7CC6RVVPpZeQoh8X-7DDJxc-RwaaMpt0~",
+    "securityId": "VTP0sAfGZdtzv-w1EFs30ZqVolZhmvfKW5uJ-IK4d-PdlkRjvZ2yZEnufvB4QAuVGRMipXgAr9-HbBT8YAqnRD1r8Z2FIGDdg8x9Bon8coVBh5AMkIaI_8ILHETMcQwOMgdPkbGjw6UFqj0~",
     "showTopPosition": false,
     "skills": [],
-    "welfareList": []
+    "welfareList": [
+        "生日福利",
+        "交通补助",
+        "包吃",
+        "零食下午茶",
+        "团建聚餐",
+        "五险一金",
+        "节日福利",
+        "定期体检",
+        "餐补"
+    ]
 }

@@ -22,7 +22,7 @@
     "encryptBossId": "e62e5dab92e329971Xx93Nu7EVU~",
     "encryptBrandId": "d142388b03fcdacc0nx70tS4",
     "encryptJobId": "296db8218e0af34d1XZ42du6FVA~",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.281468,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 85,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aYcwsMaCV8.search.90",
+    "lid": "9SPjC9JVmSX.search.85",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "ETpbVT_t_aZsJ-I1Tpy7AcpsZpogbJ6cy209RLoPIjHuy_VqUfnm4Kh1AiFw8cowMRib5oVQnIOKqcfXY5Shacri6_MNWBpCyroEBD5k4mrUBZ_4IX3mN_xAFfYl6aZqFBCdsg1YNw~~",
+    "securityId": "1hs4fZb0ppIu6-K1E0SnAIrNsjHLeIbFtmxNGxWZnTuvxjPsla570WHLKuDRMDamHcotmz5DEk2iUh-vxr9KRBrzxePlbwlkpuZlY9vEC_40NvTGF3gX5ZzNSijVi7b0eKQTQmT9-g~~",
     "showTopPosition": false,
     "skills": [
         "前端开发",

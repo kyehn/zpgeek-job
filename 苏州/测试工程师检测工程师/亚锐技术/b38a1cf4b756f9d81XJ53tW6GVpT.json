@@ -22,7 +22,7 @@
     "encryptBossId": "b54ed79b6107b7f11nV83Ny-F1ZX",
     "encryptBrandId": "4172d90bed4357041XR629q-F1M~",
     "encryptJobId": "b38a1cf4b756f9d81XJ53tW6GVpT",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.185678,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100609,
     "isShield": 0,
-    "itemId": 38,
+    "itemId": 60,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t8yjrRftAH.search.38",
+    "lid": "1cAjt8blAIl.search.60",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "B2HKoLKZgrGR1-M1YFC40drgVvpcN1xJNv8EVOmEAG4vAl9TMRU9T3s7X23vl-cnH-p5U8xQjjxZEzQe-FbONqhLsUNrR90lLYNstZusosx6mig4Yvv6LaTBHTiy0u2HqeBKl-t7v4dGZpc~",
+    "securityId": "Vx2SF4vygJcus-31dQiDzW2K5C6nBYqQcZ9gdLFGpLEEVZeSh_pcmoXwoUERk6Bx21z_kl9Yvtr0er7Nh3V0Z8xXtlELEqYfTDbZ8HwrOOy7VrUqmvI1beO3gT4W9KbTQd_w59XaUZtZHCk~",
     "showTopPosition": false,
     "skills": [
         "测试工程师"

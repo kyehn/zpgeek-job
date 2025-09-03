@@ -9,11 +9,11 @@
     "bossName": "辛先生",
     "bossOnline": false,
     "bossTitle": "集团副总",
-    "brandIndustry": "电子商务",
+    "brandIndustry": "广告营销",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250408/7bf6f160950405e9751b348160f25435a62998e0ecfc47d0eb2e4b785e33be7fa5eff3ebb5bc4bc5.png.webp",
     "brandName": "圣誉传媒",
     "brandScaleName": "500-999人",
-    "brandStageName": "天使轮",
+    "brandStageName": "B轮",
     "businessDistrict": "",
     "city": 101280600,
     "cityName": "深圳",
@@ -25,43 +25,50 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.648988,
-        "longitude": 114.132355
+        "latitude": 22.64392,
+        "longitude": 114.065566
     },
     "iconFlagList": [],
     "iconWord": "",
-    "industry": 100001,
+    "industry": 100004,
     "isShield": 0,
-    "itemId": 81,
-    "jobDegree": "本科",
-    "jobExperience": "经验不限",
+    "itemId": 82,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
     "jobLabels": [
-        "经验不限",
-        "本科"
+        "1-3年",
+        "大专"
     ],
     "jobName": "软件测试助理",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2wD75HDIT76.search.81",
+    "lid": "fTttzGQFmO.search.82",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-11K·13薪",
-    "securityId": "9dhZoLfpEHb8--Q1d30R-kFOX7DCXIle3D8jMhFSruwizOkgn0bJx81h1wX_OYn33X4MAdxBu8wDa-8Z-vouw2ltyfN_6vX6lBExxrwoFyXpVYZMOUyJ413GI6j9TLjkhwh4C1NtMnLn1w~~",
+    "salaryDesc": "6-7K·13薪",
+    "securityId": "vV8QAbe54VsIG-I1wbzzJpIo5PIu-liw89LQNXUdu_1bMTTa9dwt7eiWb1iFpde9lsk7tTyMUXZCu0JaFJE5iNJmar01jKBEnolA0D6JUk0CBmzDwmT0AgeAj_mTtksA1crf08OUBbcfSA~~",
     "showTopPosition": false,
     "skills": [
-        "不加班.朝九晚六"
+        "离职可随时到岗",
+        "不加班.朝九晚六",
+        "双休"
     ],
     "welfareList": [
-        "全勤奖",
-        "保底工资",
-        "节假日加班费",
-        "工龄奖",
-        "五险一金",
+        "团建聚餐",
+        "年终奖",
+        "节日福利",
         "绩效奖金",
+        "员工旅游",
+        "工龄奖",
+        "定期体检",
+        "底薪加提成",
         "带薪年假",
-        "法定节假日三薪"
+        "全勤奖",
+        "生日福利",
+        "保底工资",
+        "节假日加班费"
     ]
 }

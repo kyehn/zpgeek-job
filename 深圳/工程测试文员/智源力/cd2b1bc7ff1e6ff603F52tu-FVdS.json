@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宝安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231019/607f1f3d68754fd09b892d7151937bb6d42b0c3b7b4d4b7fd07948c50df234e93982ccd1120482f6_s.png.webp",
+    "bossCert": 3,
+    "bossName": "黎晓东",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/tmp/20190423/8008a20d5f8da4f1872b7a9fcd7fe7a863837c7881be090415d81293a0fdabac.png",
+    "brandName": "智源力",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "西乡",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "809e62832dc8c3220XZ52tW1E1ZT",
+    "encryptBrandId": "0166bfaeea695d230nd72Nq8",
+    "encryptJobId": "cd2b1bc7ff1e6ff603F52tu-FVdS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.611,
+        "longitude": 113.845
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 65,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "工程测试文员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1cTWYgYT3Md.search.65",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "8O9vX3n9oqZ2J-C1ib2NABpRP84EmBXhacQZYpH4nPdXvXdnvxYg3YeZO9leveUTSfW6lD01PpXQzcDPapa_0f9D5Q4GVHOQ-VcovMx7_gm1Cj2gqi1tLo66UqAwH_-hUP04vpxBEIbx",
+    "showTopPosition": false,
+    "skills": [
+        "产品测试和文件整理"
+    ],
+    "welfareList": [
+        "包吃",
+        "带薪年假",
+        "全勤奖",
+        "餐补"
+    ]
+}

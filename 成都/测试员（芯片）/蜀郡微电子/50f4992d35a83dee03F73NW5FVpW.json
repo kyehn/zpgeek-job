@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241220/607f1f3d68754fd05a5021670c4316e8b1faf52d16640d95f557e32ef9f40ce2a9026dc2cac93116_s.jpg.webp",
     "bossCert": 3,
     "bossName": "雷女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "半导体/芯片",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221229/7bf6f160950405e9704e3aa7762f3e696b6f660c1b40ad76c5e824827889014d452dcce13c3823b8.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101405,
     "isShield": 0,
-    "itemId": 3,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,18 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MyavN8wJyk.search.3",
+    "lid": "1cGFIJ3Acgn.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-6K",
-    "securityId": "5J193Fi1z6pv9-01uBpMsO5mgT0pxLOB8W-18-GmJ6fqst7Czjuxx-Me9NZtn6PQtqfbrRgkESDJnjq6p9ClKScf0-pRhHPz5ZGATPLswb19Ch0gayVkcMerkXlHsHCXPkWRXSjDOHxTGbs~",
+    "securityId": "JTZXIdMuVhiOS-d182ne17orOo-V-8EfVgrRMwrZzCBsCD_LNJki5lSCRQ47d5gHGhGy78jOSPLus8ATrfz4QL96C1KehmwNLZfC9jt2373xme_w7CYq21LbZuJbfE_hcOWFarwB5Pr6YN0tHxvNEvzEvbEoz8Gd-mAG-wLCC3jCg0BmO5g~",
     "showTopPosition": false,
     "skills": [
         "芯片测试",
-        "电子信息类",
-        "硬件测试经验"
+        "硬件测试经验",
+        "智能硬件类",
+        "光电器件类"
     ],
     "welfareList": [
         "交通补助",

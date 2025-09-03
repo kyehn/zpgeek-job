@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙华区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "何女士",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "电子/硬件开发",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240912/7bf6f160950405e9dcc8c31e950d70e2fe5f00ed6e803fc99c3854e9ed4208f42df17916f5861318.png.webp",
+    "brandName": "储电科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "观澜",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b119c6d0f351e04c33Z43ty0FlA~",
+    "encryptBrandId": "49a02808e47de6231XFy2N-9EFE~",
+    "encryptJobId": "132028421cb9c0e003Z92N28EFRS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.687359,
+        "longitude": 114.065556
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101406,
+    "isShield": 0,
+    "itemId": 20,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "电源研发助理工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1cORbXq5NTf.search.20",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "tQcFsyIL_lAx2-W11Ip9WJDAC9lCCLnAmYSpZHlGgr5m6jbIVqCuKG0DSTqKBplQ5-YuOrss67Ap4m9qDVR2zyarstKDoaaoiV_wRBNcmhfwR60v0pY2QfjK7hCaxcyVWDLUDgmG6-GNcI7YoBwJFq_GKERYBM2r6FYdoRSEhkYtSqDq5A~~",
+    "showTopPosition": false,
+    "skills": [
+        "电源",
+        "储能"
+    ],
+    "welfareList": [
+        "零食下午茶",
+        "绩效奖金",
+        "五险一金"
+    ]
+}

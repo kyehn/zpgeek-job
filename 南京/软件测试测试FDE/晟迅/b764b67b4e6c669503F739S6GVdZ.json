@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 70,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,15 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7sHHxKjuVDN.search.74",
+    "lid": "1eFcGqo8jQH.search.70",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K",
-    "securityId": "2guG_ERF1Qhln-o1B36RG5NOAFgK2Me_1LH_jiHw4VaXf_mv35uJ5CcShxLzo1s5ZHIglqhq5CWmfa-mkmVkzNcxNVce3OoQgflIl54o4PHI_ay9GSZwOmDF9oPfC4l-QGCXlrqJEhj8sA~~",
+    "salaryDesc": "7-9K",
+    "securityId": "pHFfzMqBy6ZOj-E1N5JXf8d2GSLCA2149pO_LpfxogN_nX6uJW14GL9qLXIJLVPw7KXB_dzydevAdkdbW81eTm4cpKgiLKM5GLE3k8peP1W4O65_v981hqbkm96acYFMHqJ9X8uazEz8sQ~~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "测试工作经验"
+    ],
     "welfareList": [
         "全勤奖",
         "体育运动",

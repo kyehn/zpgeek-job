@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "普陀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "陈考景",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "迅融科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "曹杨",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "16a9fb1d27eafe740HZ6392-EFNV",
+    "encryptBrandId": "066539b4eee0e4e51XB73dm1FVU~",
+    "encryptJobId": "39f0fbd020c60eb903J42tu_GFVT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.245167,
+        "longitude": 121.409475
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 1,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "软件实施",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "fEortqQ5fc.search.1",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "Q6y4TxHl4WW9d-b1KsXHT9K_xUAvudsbYlVdv1raBemOtm5TBNQYEJ7VDORwVXUjqiJGJgoUp3Ueo7snOD_fTUh2zOQgKfWVk1Zuj91yv2Cd8u8cg-iktyN_32Kv5_gELEi_LgugROW_IjA~",
+    "showTopPosition": false,
+    "skills": [
+        "售后实施",
+        "技术支持"
+    ],
+    "welfareList": [
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金"
+    ]
+}

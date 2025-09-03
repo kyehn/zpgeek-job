@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 47,
+    "itemId": 44,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,29 +43,27 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8koU6MGQMYo.search.47",
+    "lid": "1cXnWAp7EL0.search.44",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K",
-    "securityId": "pS47XMLOBA0AK-L1UXo2DLdgljyU5z9wBqiKEQS_qV_DK8-4mf43bLlLjuf40md7nqfpxgxUE-kOpxrNn-CHVs8NM5x5C1M9zqWLOL0P6lsZvdB4E29fOUVw46MiE3O9ezhgDRZbG8zB",
+    "securityId": "j1Yu3bcangf9p-z13hdZOW2y92rB3izP2PtGOzJTFT0_UDtJ8uvg2Wij_6rynp5EsqHcWPHiyeZZQjbLbQ0XxKrp9jQhF8D-ucj-2OveqDphX9Mz185LfvhtkgDkM7NZTF3uAXyYUDgI",
     "showTopPosition": false,
     "skills": [
         "手游测试",
         "MMORPG游戏"
     ],
     "welfareList": [
-        "全勤奖",
-        "绩效奖金",
         "带薪年假",
-        "五险一金",
+        "加班补助",
+        "年终奖",
+        "员工旅游",
         "定期体检",
         "包吃",
-        "年终奖",
         "零食下午茶",
-        "节日福利",
-        "加班补助",
-        "员工旅游"
+        "五险一金",
+        "节日福利"
     ]
 }

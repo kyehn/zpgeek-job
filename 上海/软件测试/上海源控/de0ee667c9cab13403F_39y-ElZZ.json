@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230723/607f1f3d68754fd000b1432a929d1e3719075fce32c0fae676db699de0636dba56ba24dc5573bbb8_s.jpg.webp",
     "bossCert": 3,
     "bossName": "许女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "半导体/芯片",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190513/da845b2d45d01753fb75515b34dd7e9904586712cdcc534f56fa7f5558a69233_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101405,
     "isShield": 0,
-    "itemId": 19,
+    "itemId": 86,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PLPXN1IsNZ.search.19",
+    "lid": "1enXQvAKwoo.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "x7vs_vtIiC8QX-x1UKaVLQgRXcAYccXofmBsEdmHvGSbR5KrB3TK6O177Jsk76hyHOU-1MEY2GL6Jo-iT7KtPV3j-6LOI0ok_LSabfQPswm9Bey3cuFVcs2dkFElOATCX503t2w1kS4wc1dL4HkJoq1ElLV_bxSgd_LpTZ7hpvej5tbO",
+    "securityId": "b0czADTI6O8BP-d1BjCFu0Gx-dyotdzjv6vJStl0sf7CHzX9XgaAE1hYly_WyOBVntMqAgHEx8obWdDY4vN1MUEFBZNhQsPo5k6DHP69Mpo52H0tLIZuG9ZZl0BKb9o57wMkD9rCtT8v",
     "showTopPosition": false,
     "skills": [
         "功能测试",
@@ -69,11 +69,11 @@
         "思维逻辑性强"
     ],
     "welfareList": [
-        "年终奖",
-        "五险一金",
-        "股票期权",
-        "带薪年假",
+        "员工旅游",
         "住房补贴",
-        "员工旅游"
+        "带薪年假",
+        "股票期权",
+        "五险一金",
+        "绩效奖金"
     ]
 }

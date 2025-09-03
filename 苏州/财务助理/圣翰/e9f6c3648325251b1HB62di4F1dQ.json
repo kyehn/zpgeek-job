@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
     "bossCert": 3,
     "bossName": "张洁",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事主管",
     "brandIndustry": "其他制造业",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200819/f453771482d6aacf88f97c186c230016864f66d73f62febf473dcf6117b07e68.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100917,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 83,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7NOtGi4GSHP.search.72",
+    "lid": "1cD5zdEZDUj.search.83",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "5GLMXOCLAt0Hb-P18MSv71d0FhmRNyS-rG18VgejSr86N_x64YJdI9gqtkTYboBUYerA2hdOIJMDT0AZKY5k9tnCFDLGHJ4esdO82Z2WHhYgTyHvHS9KCzThXd5Bq8CiDdWFF1i0EKQlOzeASTxdJnkdo9RJXyTxi3p9XI8AbXVl5wqZOw~~",
+    "securityId": "A4r7E7fl2ukK4-W1dC8RmU-yb2kyhDVx7VzmqYMUDPPfXCHrQBCy7WwqL83GoKaulwc5BHTUSSVPLITWNQS9OwJb63aSdgH-dl0dCdTSO6rbPi6rcBn3aIhdcj3PWXZdC_M-4oJu_4AnvA~~",
     "showTopPosition": false,
     "skills": [
         "制造业"

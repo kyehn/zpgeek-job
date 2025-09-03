@@ -10,10 +10,10 @@
     "bossOnline": false,
     "bossTitle": "广州大区总经理",
     "brandIndustry": "计算机软件",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
     "brandName": "广州尼森网络",
     "brandScaleName": "100-499人",
-    "brandStageName": "",
+    "brandStageName": "未融资",
     "businessDistrict": "车陂",
     "city": 101280100,
     "cityName": "广州",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 41,
+    "itemId": 35,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,29 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3PwMg52pzTL.search.41",
+    "lid": "1d5cKjh9SsP.search.35",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-10K",
-    "securityId": "ZU8Vj0rfKfKtW-O1_Z-WDx5kN3bIzfw2Uh1IRRhEuQSxmMCN4v1U72rV80UCImCBYHOcxwYEc8D-gVTtBbwn6F5lCqtL9B9QHJzRHWT_fbgoLlQ7nTHz-YM_EC0UHQ613vw90ArwbkYW-6o~",
+    "salaryDesc": "7-8K",
+    "securityId": "02uOkTsXVjX1L-q1JpcH9OBuvqGrF4kx-84UtL52J4oVlTzT2MzXkijebb0IGvuKE3D0Izb0CXnVih9-zR_LaSKoIEZcOsyYRPsITzvmCQXpdk-fjLcQibJuHFfHb0vJV1C2QmgeZOB-ozc~",
     "showTopPosition": false,
     "skills": [
         "OA运维经验"
     ],
-    "welfareList": []
+    "welfareList": [
+        "通讯补贴",
+        "员工旅游",
+        "餐补",
+        "五险一金",
+        "定期体检",
+        "包吃",
+        "团建聚餐",
+        "交通补助",
+        "带薪年假",
+        "节日福利",
+        "年终奖",
+        "绩效奖金"
+    ]
 }

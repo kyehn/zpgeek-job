@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "陈女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191011/3f8d8ab0d9e9a9223d333236f1c278f66a1ac1ccef6b96ec83f152a5ea9f7d61.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 36,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MwGRlkH74q.search.2",
+    "lid": "1cIJmXfvKxz.search.36",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "B8xdYy_9CtoF--51jjFTrhYs0Op1__ZjKjKj234Wdvz-ePZ8FUFYEVcRJ_2tknyUquXNAnr8LDWAQ6_1FheFALpZ1qnd-uvx-qtxbWV1MHTRfJr5qKCz5Z1ZOROc_io4tgZL7TEbJV8~",
+    "securityId": "VKKNNWXFbkGIK-x16Q2M2dLehou0aFMWrhXruEEMAN8bGJQ_APhdzbKbtgWzmlvnSkdqKJ_x4cI04hahQ4XC3IdiJKpyZVIvja2jp9jMgrrHKp9XcCVloTjO6bp2ygYE60qakfTjhU_nSn3rFqxhvOSIoovcsU9eyQpNtOIqr1PipwQ~",
     "showTopPosition": false,
     "skills": [
         "接受无数据开发经验"

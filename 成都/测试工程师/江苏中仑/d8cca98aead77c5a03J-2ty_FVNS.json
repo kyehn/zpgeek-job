@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "郭晓晓",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240715/7bf6f160950405e9658f0d64cd27e9734b7d1eb4757c01f5dd6bbd056518b61c260445393a6c9784.png.webp",
+    "brandName": "江苏中仑",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "中和",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "06df59b9e07757710Xd709S0GVc~",
+    "encryptBrandId": "a132aa3bddb6451b1HR_2N21GFE~",
+    "encryptJobId": "d8cca98aead77c5a03J-2ty_FVNS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.556249,
+        "longitude": 104.042656
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 74,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1cDM6Z3kQIu.search.74",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K",
+    "securityId": "mJrZJd3AwhrFd-313lwKK76FB8Q_ZpIEafXW-xSZXUrwlvemSPPKPWnYeI7TczfWbhpWaNOAbVuUMMbkLFq_x_bCsqhmOPPwR2AJst5rxLGhM1QC44i-TPnjHx9PNmOQir6fdF_h5oTRKg~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "自动化测试"
+    ],
+    "welfareList": [
+        "团建聚餐",
+        "五险一金"
+    ]
+}

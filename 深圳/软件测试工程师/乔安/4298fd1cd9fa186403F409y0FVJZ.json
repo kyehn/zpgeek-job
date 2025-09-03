@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250623/607f1f3d68754fd0df5d445c50bba3916abf74354d5761153770987ac7df485a1d6f893ba0998582_s.jpg.webp",
     "bossCert": 3,
     "bossName": "罗女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180727/43551c7cb948a32dd985cfb866dd0bc5cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,30 +32,30 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 64,
-    "jobDegree": "大专",
+    "itemId": 49,
+    "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "大专"
+        "本科"
     ],
     "jobName": "软件测试工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cZmNmd4ttp.search.64",
+    "lid": "1cPtFqrgEby.search.49",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "JP888fdz9rqQo-p1WdhXBt2BrTS0U2IZ2T8goZXN3jBig3GJHgqH3313NcJpQPgE1KxhJjQudLTfG2AmTrFsBPVMw5EqNx7dyJD4sbNmQ-jbzmL5_pvD8mG3NvN3Wz8BdEVe1F2jh57P8f-FOlYTmO3XKpeGCIbInmIqhbJfN_vOU7Y~",
+    "securityId": "bOFk8TNdiZfmv-g1TJOjMlmBkfuXFvT9ydCiPfpy9DfXHUQeQOIUPr2L_vd2AxBfVfxclbxknlOt_ORFiUiOvu0uU-wPUqFXCur24cOQoZaJJU9jEsUWWF8zSMnqDe9jwIRUPQXbpeg~",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",
         "iOS/Android测试经验",
-        "app测试、平台测试",
-        "图像测试"
+        "图像测试",
+        "app测试、平台测试"
     ],
     "welfareList": [
         "五险一金",

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240618/607f1f3d68754fd05661017cb8046d4dfd18e0f92f98ec252b96539a9be23f5791a7e3be1f5128cd_s.png.webp",
     "bossCert": 3,
     "bossName": "张容",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "自动化设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190415/0d814041154ed7573600a8580094c50099073431c0dc4e88287f61c29bedbbae_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100914,
     "isShield": 0,
-    "itemId": 80,
+    "itemId": 82,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MugBdn9JF9.search.80",
+    "lid": "1cJpiT5Rbgx.search.82",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K·13薪",
-    "securityId": "m9rUl8Mefe-Jq-712KSPnfh3DY6xkD1o9DagD5z0dd8ZAvsUGpWAgtsjlz1kxJgdknV_E3KwaxIZKdANesjS_CvjLXKfhRHOCUy5qcJP5N7Y5g-6QX-iumaaHKxDWNDKJgl8XCq0CDo0",
+    "securityId": "xAhe4sna6szXT-V1Zo5vHzhSBCZU1CUZE5pWMOFQMSOy2gCsExywepw-84n4SOV-pVipBxbrSkAp9tyKX5831AsFTmL7-vviJahN8VI4BZUk_BVZ8Q4o7rULPLfbaeFIxfdrFfvupzwfGrkDVClCKpU8mYvTs13zLtgyLeLZ3BOY7CUc",
     "showTopPosition": false,
     "skills": [
         "运维经验",
@@ -57,8 +57,13 @@
         "运维开发经验"
     ],
     "welfareList": [
-        "五险一金",
+        "通讯补贴",
+        "绩效奖金",
+        "年终奖",
         "员工旅游",
-        "通讯补贴"
+        "团建聚餐",
+        "生日福利",
+        "免费工装",
+        "五险一金"
     ]
 }

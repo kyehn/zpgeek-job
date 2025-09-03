@@ -7,14 +7,14 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "肖先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事",
     "brandIndustry": "通信/网络设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
     "brandName": "瑞鑫祥",
     "brandScaleName": "100-499人",
     "brandStageName": "未融资",
-    "businessDistrict": "天府广场",
+    "businessDistrict": "太升路",
     "city": 101270100,
     "cityName": "成都",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.66406,
-        "longitude": 104.071394
+        "latitude": 30.662979,
+        "longitude": 104.073205
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 101402,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 11,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,16 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MCeJPqYj1G.search.10",
+    "lid": "1cDM6Z3kQIu.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "8GnORvIHhz0pM-41_DWOmDizRm2uu5m527i-ziCRFVvy3J-F4R-yyUzeJGUGSmltaWbUkoVyM07CJrD-Ifq5x2PDIDCtzNFDgjGyfLSgDg3LISW8rLUFS6ZERKcBu3J7o5DszJgppyqDZhI~",
+    "securityId": "Z8JZfvll50lBQ-O1GPCNxvidaEkJtUeCRL9hP7ulph29HX6Tz2LyfQ-lhzJ-eoOrCTCIcdzQJT1ilFv0AobYYMcUl31U1yIpkMuKBW5HPY74TqxkTACR9FjLbiBzWudy0vtdP1hIoTXFwYiMg7UqWgVIUnJuNbry2Qfh5NXTUWEirZPva1Q~",
     "showTopPosition": false,
     "skills": [
-        "性能测试"
+        "性能测试",
+        "功能测试"
     ],
     "welfareList": [
         "底薪加提成",

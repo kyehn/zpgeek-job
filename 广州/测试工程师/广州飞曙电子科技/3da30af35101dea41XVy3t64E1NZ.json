@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "程女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事行政主任",
     "brandIndustry": "通信/网络设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190301/8809832bef0fe5b3b4b12e0c1fa87b7239d4a6c6002ac448c473d65657e5eb71_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "bdbbeb9250d174561XJz0t6_EFc~",
     "encryptBrandId": "6af5ddb5982d25aa1HF539u5Fw~~",
     "encryptJobId": "3da30af35101dea41XVy3t64E1NZ",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.168523,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 65,
+    "itemId": 71,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7Qj8SMXSO4U.search.65",
+    "lid": "1cZWI0EL8Nd.search.71",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "UKrkbXhLKdCWa-z1z0g7FJeY09Sm2kmJy22SyD7vfI-Mot_foXcvEbQSDX8a1mHo-ZVYdaWHV_T4v7Zpr4Et9eBQzt_NhK45jsltFSOoWe0-zz5AyM_i7MaUtiNnR22ch-cL4DUACL8IkObhiwu42BpamYGfHEsDOeRXCH0tD_lbyzoO",
+    "securityId": "2I-IH65Quzy5p-O1emAzlO7YHXNq47AQ34EulIXf0hx1Zg--LeBpj7y1sz753mo13YBK-Z8VzY8gJ5hdQoNmFQMxp7sXKU2MSe1JEjQvTXhLntVcgVvp7BMKy6zvzbMXaqamrqlHntPl",
     "showTopPosition": false,
     "skills": [
         "Python",
@@ -58,15 +58,17 @@
         "软件测试"
     ],
     "welfareList": [
-        "通讯补贴",
-        "交通补助",
-        "员工旅游",
-        "零食下午茶",
-        "带薪年假",
-        "定期体检",
-        "五险一金",
         "补充医疗保险",
+        "定期体检",
+        "生日福利",
+        "带薪年假",
+        "零食下午茶",
+        "员工旅游",
+        "五险一金",
+        "高温补贴",
         "节日福利",
-        "年终奖"
+        "年终奖",
+        "交通补助",
+        "通讯补贴"
     ]
 }

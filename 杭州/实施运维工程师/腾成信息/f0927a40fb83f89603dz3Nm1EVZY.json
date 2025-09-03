@@ -22,7 +22,7 @@
     "encryptBossId": "b1ac9c8c8e7c0ab40nZ_29y8GVRR",
     "encryptBrandId": "4303748867db8afb1nF42Ny_Elo~",
     "encryptJobId": "f0927a40fb83f89603dz3Nm1EVZY",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.186102,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 81,
+    "itemId": 26,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,14 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aTGDwOVjcc.search.81",
+    "lid": "9SM53TOGlwY.search.26",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "i1Vd7iuXs6EbJ-E1Ow-zfPALFebm2nbEDCYqLllbeORy5Y_G5_LnBAjbeVel10bsc_KMoKtFZEXsFYcGOdDcHY62wXMPGRJ44o9ZZy-vbHfQF_t8YpUEAiYwe5LB6-PksKMdT1ImD5EYJNU~",
+    "securityId": "1XBy5RajNel0Q-i1-Y5pAVrIV-lhwEJ4rf8IfJtPGnUGj8Bh1NsFpbmfgFmJK-stZnG5FayglILIF6CKZKWO55J78OKpUeVazUErbp3Mgzsd0B8XZu80iq0b7RQ9QbcqD9efb0nByakvgzI~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "实施交付运维",
+        "电子/电气/自动化相关专业",
+        "运维经验",
+        "需要兼具弱电安装"
+    ],
     "welfareList": []
 }

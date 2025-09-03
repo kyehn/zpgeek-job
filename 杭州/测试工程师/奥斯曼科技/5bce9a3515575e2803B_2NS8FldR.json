@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100028,
     "isShield": 0,
-    "itemId": 59,
+    "itemId": 90,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7wq56mUc13Y.search.59",
+    "lid": "fHzUzbMu1C.search.90",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K·13薪",
-    "securityId": "3rLNputT_lpET-j15zX5NWqjOGAYbixK_7yp4g8FXJwaby6oLjCnAUVibXdAX6ZLVaxtJUycsF0gDxO_Dzr8hpm70amui27bSpg4ZlAlR85avWMxhx3hQ7Uvh86gtaAi9WfGxmMv3ySYxA~~",
+    "securityId": "Rcn2hbujYOz70-I1iRqII5OhdL7Qdac0BUywMCo0UeNRVF3QiTxGPtarPpr4M1UJWaqC4A7uNDICVFMax62OVe7A5nFLTznHf3XKIzM51cd3KcCuk6U5Sbb9CnK720UjvkmH-7R6la4iMA~~",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
-        "性能测试",
-        "自动化测试",
         "Java",
-        "JMeter",
+        "测试工作经验",
+        "自动化测试",
+        "性能测试",
+        "功能测试",
         "计算机相关专业",
-        "测试工作经验"
+        "JMeter"
     ],
     "welfareList": [
         "股票期权",

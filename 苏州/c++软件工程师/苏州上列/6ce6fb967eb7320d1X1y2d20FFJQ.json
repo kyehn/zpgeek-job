@@ -22,7 +22,7 @@
     "encryptBossId": "d9a9314ca7d9b1f60nN_29q5E1A~",
     "encryptBrandId": "345c31b2fea29d0f1nx50ti-F1A~",
     "encryptJobId": "6ce6fb967eb7320d1X1y2d20FFJQ",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.483386,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 55,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,21 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8taB6dWTtHo.search.35",
+    "lid": "1cD5zdEZDUj.search.55",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "3-5K",
-    "securityId": "ejn1dTEEEcFkz-u1qLKd_syJfTxaCTjfuuqf9dOj9R2igNdw7aZK-lX2pWHlV8VpRswJLzA28ZRT5q8lkHn6CYeDEIoQXIPe7Pxxq5HFCgV9fGGGXuNir5T3DJnAaMHvyBJXNfTHREI6CQ~~",
+    "salaryDesc": "4-5K",
+    "securityId": "wkpg0WKW8RjKt-C1SJSkzsQLO1Sv3Pf8x3zrwS9xMxCI7eCDaSPJy2hB6ej_WH2QLd9uljB19cASvUD1Jd9qd-dry5T0cVJIegBhRWa8z9bnkr2VtX46KhGqrK8rNoi71m3Xa7OWVnisfQ~~",
     "showTopPosition": false,
     "skills": [
         "C++",
-        "计算机相关专业"
+        "MySQL"
     ],
     "welfareList": [
-        "五险一金",
-        "全勤奖",
-        "包吃"
+        "带薪年假",
+        "保底工资",
+        "有无线网",
+        "包住",
+        "五险一金"
     ]
 }

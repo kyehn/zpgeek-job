@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
     "bossName": "徐婷婷",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HRBP",
     "brandIndustry": "自动化设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190412/1a391b24d6be02fc6bda764baf65649420e888aaa682985711c597b0955d24e2_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "6528be3b04aefabb0X180t2_FVNX",
     "encryptBrandId": "d191d2e3e3968cb503Rz3di1EQ~~",
     "encryptJobId": "bef0ee12990213bf03Zy0t64GVZU",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.725434,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100914,
     "isShield": 0,
-    "itemId": 86,
+    "itemId": 75,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cWVo7bnUu6.search.86",
+    "lid": "1cYAWEU8aRI.search.75",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "7jn7U46RyQCLE-x1LqBen20bsoZ-inki8gwlgMl8SjQ9qB4iQJP3u-LM2TtcYAeryUNBwR8xdns2LpEBegOn8GbBJiYEzJc-DD9YmMoBNP90jjv8vw4q77uaAS1L2QC64Rryp54jinf2qg~~",
+    "securityId": "Z414vq2637mdS-X1uVffDyCZJuZPC6L5U40kE2JavIO4VIFI0IaSedvTeekULzaVLZ43mVGOqYHXnRqsgiEjNNVBk-QscSjF5h7p26DEz39sN33LOxpG1iVpkhJmYOu4DYpcg15HioaODmzi-DPzkhaAOMUmxX1iUAQnOr9E9RQbav1Kgg~~",
     "showTopPosition": false,
     "skills": [
         "C#"

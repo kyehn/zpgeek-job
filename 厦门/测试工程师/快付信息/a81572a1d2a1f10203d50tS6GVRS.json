@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100025,
     "isShield": 0,
-    "itemId": 144,
+    "itemId": 55,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "HYOybPnEnM.search.144",
+    "lid": "1eE4FddBNSm.search.55",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "YOAuMytFERCsx-11fTKV6tP0cYGwRwnbzvtYqPypxtYrXt1XKVR-Hyi3S9l2QqWNujkSfQLS8vshRPhVwyuv5UMUKi_iharMgRqMa30_w9u7uQoM0x3Q3W3JbpIRoQ8pelEYXun9w1oy14mG54RnBez5JzzliXFP-6op4V9G1y67O-fLKQ~~",
+    "securityId": "QUDlW9DeguDA7-z1ewgT6X19X2_KjRnNP7AFo3quTDeBq7T6O0SvkXeKKNkZnt93FL_Xw0FO78XbmDbq6teiMx0JmUJiZM9oVbS4m8PN9zAWvKHiI8fZwFDy69TVqkuKkbEkRshPJYOScujJO8muyfFZW4iIrM2MvjNSNVxSvqBChtZCAg~~",
     "showTopPosition": false,
     "skills": [
-        "自动化测试"
+        "自动化测试",
+        "性能测试",
+        "功能测试"
     ],
     "welfareList": [
         "节日福利",

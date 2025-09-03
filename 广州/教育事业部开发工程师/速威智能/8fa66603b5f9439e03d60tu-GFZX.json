@@ -22,7 +22,7 @@
     "encryptBossId": "731a64c647da35821HJ80tm8ElY~",
     "encryptBrandId": "8bb1f750e1d9bfa13nF_3tS8",
     "encryptJobId": "8fa66603b5f9439e03d60tu-GFZX",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.121954,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100801,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 48,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2xQ7PwqDTCZ.search.2",
+    "lid": "1dbS73JvFlx.search.48",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "fu9UZcbmxW4xc-K13bvXbuIcDb7Lh8C3nd-edkHApN-__p_8tmbQqnrAzVJkh8Z69MB4urJ34FTBkizDG__8Y81YrZ1mXp2Pi7dz-zWO37Xw2Q_H-L48X1Wyf8VcTjU7JMTFY8Fdr1M~",
+    "securityId": "OkK4DK1kGcdTO-R1QsyGwOuXKiTz1rs4AydcvHX572HEQCf0P_8IBUAt35GDYB0phbUb9KCiOxBcLflBXdUH5ocUk5Ddd0ESkA5siKR7lh10F96mHAWHf5aLPZDt51OV7mhb9-WgZxM~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "Python",
+        "MySQL",
         "Spring",
-        "MySQL"
+        "Python"
     ],
     "welfareList": [
         "餐补",

@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "松江区",
+    "areaDistrict": "奉贤区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
@@ -14,7 +14,7 @@
     "brandName": "泰坦科技",
     "brandScaleName": "500-999人",
     "brandStageName": "已上市",
-    "businessDistrict": "小昆山",
+    "businessDistrict": "南桥",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -22,17 +22,17 @@
     "encryptBossId": "8c5bde7bd49bc7170XR53t26EFRQ",
     "encryptBrandId": "46c7c07d5490f4401nN82d20Fw~~",
     "encryptJobId": "e366cb8066bebd1f03Z62dW_ElRR",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.02968,
-        "longitude": 121.151527
+        "latitude": 30.945303431149046,
+        "longitude": 121.432430937143
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 101202,
     "isShield": 0,
-    "itemId": 51,
+    "itemId": 24,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PLPXN1IsNZ.search.51",
+    "lid": "9SJdyItuZHq.search.24",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "41PPGSS8MFAWY-j12hktglKuV7l5dGgfd3l_1E0WN9xMidTUpxWVqYgxn7vTKMgI6gKTmcLjtxyaaIYFIQHshbXGt-uGmdaopWRjLC67m7PROUZuawJPKo6Jwv8L91yZ4Q6NB1frJ4mlSQ~~",
+    "securityId": "20Kt9J7J4YXri-n1vkveHs8uyWgdR8xYNhE6MuwdpSUazGdBA1FNMvBEFWYRpVjOXw2AVhbnaXSOtn3AEtiyH3ODx18uyoUnRhK0B7jTkIu4Vkq_Bvbl3woxYMQMWt1QG7JUhinJsnDhng~~",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
+        "Java",
+        "C++",
         "性能测试",
         "压力测试",
-        "C++",
-        "Java"
+        "功能测试"
     ],
     "welfareList": [
         "交通补助",

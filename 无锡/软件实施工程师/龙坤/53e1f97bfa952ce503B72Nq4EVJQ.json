@@ -8,13 +8,13 @@
     "bossCert": 3,
     "bossName": "叶海莲",
     "bossOnline": true,
-    "bossTitle": "人事",
+    "bossTitle": "行政经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210630/ca394d2235038628ee207ba534dfbf3c495fbe95b176dd237c7e8a890e7bf1e7.jpg",
     "brandName": "龙坤",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
-    "businessDistrict": "华庄",
+    "businessDistrict": "蠡湖",
     "city": 101190200,
     "cityName": "无锡",
     "contact": false,
@@ -22,17 +22,17 @@
     "encryptBossId": "316a2531bdc1c67e03J80968EVA~",
     "encryptBrandId": "93cef5917eeb6c331nZ-2Nm1Elo~",
     "encryptJobId": "53e1f97bfa952ce503B72Nq4EVJQ",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.503514,
-        "longitude": 120.34279
+        "latitude": 31.547797,
+        "longitude": 120.245614
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 45,
+    "itemId": 77,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8G0azLHAc9T.search.45",
+    "lid": "1eGv804C0zl.search.77",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K",
-    "securityId": "CQ9nZopbPoZ0t-n1VC4C3xuHwQMjgWsVGm-fuf4KT7SYI1Hlp-xeELXOx4IIdwnRxUflgb4fpQpV7qVAL4C7KAEdZeDE8Fxdcd2UDINYm4Txo6kuKnmztBZnsJjc2kKnBFDCU83SBIJfuQ1wi-ZDa-4~",
+    "securityId": "cZns7XN7CDxBa-X1z7GwF-rfKY8Qz-WegjPvYA0caXd0D6nVc6EnN3yAF4JfITMStqOv2EpVJX9LRmkF5muYlQuxrKWekFEUyX7WOSe_RCPU64Ek8fZn4fQPoshHEW9Rk2UYUbmx0pzbw-y4FPTj4dQdazARsSuAVyLOuU2i6gJM3eAWjA~~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
@@ -58,10 +58,14 @@
         "可适应出差"
     ],
     "welfareList": [
+        "交通补助",
+        "节日福利",
         "五险一金",
+        "补充医疗保险",
+        "团建聚餐",
         "通讯补贴",
         "全勤奖",
         "带薪年假",
-        "交通补助"
+        "生日福利"
     ]
 }

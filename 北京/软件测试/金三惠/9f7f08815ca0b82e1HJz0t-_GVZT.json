@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "胡女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事经理",
     "brandIndustry": "物联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230726/7bf6f160950405e903e37b9978515c441455597eff4290b01c7912f427d6b11ecf80dcddee6a36a0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "e9e95d12748189cb0nR_3tu_EltR",
     "encryptBrandId": "678f4399ad7b4d431nZ52Nu_Fg~~",
     "encryptJobId": "9f7f08815ca0b82e1HJz0t-_GVZT",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 40.108749,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100030,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 66,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cMmzsA9Amk.search.72",
+    "lid": "1dHqIxbyDMW.search.66",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "uTEe3qANlk1r1-21L3XqpjHVE0Y2ktrc5kqrXqocz_PmMdKdlPcBWxjGhazE2WNaU6GciX9ekUi45QFc0HjI-zk_MIjia3DzQJhWUxkHoau7Jqa6K519H2dKAwvzbUGlN19U1FSA9xvMDA~~",
+    "securityId": "KtrlRl9dJDcZh-v1mg7pnRGnRgqEruK2nlP4bfw4q1bPln3W6Lxh8DEVnx-IP-1pgM0jNQAF6r42-_nmtjr8R1ydFtuIHJ-OmmZSmUAkDrKTrJlzzu1OwSUwUFeKHkEu6ALqyVam5UU1TKbdAOPqzqy1wfJD_dRJqMvJhT__eT1SDCNE8Q~~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

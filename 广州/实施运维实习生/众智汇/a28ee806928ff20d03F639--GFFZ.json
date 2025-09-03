@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220418/607f1f3d68754fd097d04be0839dac9cdbf1a9d183b1c9969f1dca821d35ad2388958467f9339e41_s.png",
     "bossCert": 3,
     "bossName": "伍女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "负责公司行政事务",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "6db8ae784dffd7be1nZ-2tq0EFdZ",
     "encryptBrandId": "968ae2273d89c9ab1nN_0tm9FlE~",
     "encryptJobId": "a28ee806928ff20d03F639--GFFZ",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.088809,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 40,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cUSrEbqFn4.search.72",
+    "lid": "1d279ZBKVFn.search.40",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "VZJFezotc8iVY-v1msSrmKMolkjGngSGDPHV2RbOWJNPOBAslWxXd_kxmEwnZpVYRKhIYCUEd-LS3E0ZIaZY8dUTxR-NrfluGA4Yv4kz48mN2wvlPafSpW34tL6zyISrndtuhRutP13IdV0~",
+    "securityId": "oHOyInZitNMTx-21yYmHTwuF-_plpMEItuSo2pFWlVwKKAdsXtFSdDqoBfArVrzgHItPSUh0jOwHwm-40t4ogz1mjO6t_qW4s8M2qYj48-0UVLfxTu20YnYQ8jqxjAevv-fvWsUoQzcdONF9nTb7eoYZTG65ySimmTaLxGt4pAcw70ycFw0~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维",
-        "计算机相关专业",
-        "财会类，信管类，计算机相关专业"
+        "财会类，信管类，计算机相关专业",
+        "计算机相关专业"
     ],
     "welfareList": []
 }

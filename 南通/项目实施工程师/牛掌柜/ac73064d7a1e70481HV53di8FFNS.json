@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
     "bossCert": 3,
     "bossName": "陈杰",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "大数据",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240826/7b5b554d84f9729c4532b7aedf0e7bf7920ad744945cce20ac7dba6e65daac600666e0816bc66ddf.jpg.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100005,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 12,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8hEr2WfWcwk.search.10",
+    "lid": "izTTH3FGnj.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "TN7wCN5cwVxBF-q1vcW9tLKLiJrOQa7WDEHXwzLCoSo_AKiQBC602mAtx6VszKuR5jWaynnEZ91-OyuLbUbR1I3-wumCoPXnfZkjyz--rKHXuQHsCrrBBTXKSBbHf8L_MYMwt_8THALayXXvw3NkeCtnRYsPxNLFFNEYn0o77eK0OjbWymY~",
+    "securityId": "cbSpsKQO8VkYm-Z1QiGK6f_usg9EAMhB_dqLSiHnfUm6cEYszMHLnj1fNAWaYEj1aqq-mNsUllwwUEv9k89Uc8L522xQB8IQtxEH3FFAv7dfwpXQAkQBwfh4vo-V4ByQaBJODc69Cb-tM-o~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

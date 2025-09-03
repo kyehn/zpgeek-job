@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "青羊区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230130/607f1f3d68754fd09bfac95a741cdff7ca5bc477dfcca334df8b933d284c2432f7b7fb67e0efdf78_s.jpg",
+    "bossCert": 3,
+    "bossName": "马女士",
+    "bossOnline": true,
+    "bossTitle": "人事专员",
+    "brandIndustry": "其他制造业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "成都武德科技有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "东坡",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9e1dd5e4c6ac520f0nJ50tu9EFI~",
+    "encryptBrandId": "25f892979aef31a81H1639u4FVA~",
+    "encryptJobId": "34245b8250cc32e803J50ty0F1ZT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.66929830686936,
+        "longitude": 103.952987569143
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100917,
+    "isShield": 0,
+    "itemId": 13,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1cyfvyehXiL.search.13",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-7K",
+    "securityId": "85pT0Tcs0F5TO-61BFI3i_nz462p2-nRgjVa5ttv9jl6AN7HVwtuqczVmxOQeUVtEdZF9B4FaQQxexbB1hzHUqnCfkL4SdNAbipGRnC1GI87-2tg3_ouFOVVn0LofOF_XOyovTR_YDJahT6GCFiTWfUPMOsw5dqNXsvYUpT40UM5ilBN5g~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -22,7 +22,7 @@
     "encryptBossId": "98ba834fb4c8aa7c1HF43dm6EQ~~",
     "encryptBrandId": "b66adf62a5b584a31XR52dk~",
     "encryptJobId": "e26b08d97b1ae7ae1H193Nm9FFZS",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.604382,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 52,
+    "itemId": 86,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t2GutrGAvV.search.52",
+    "lid": "1cGFIJ3Acgn.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "Kd3H5lqJXu3Fc-_1cZ9fOqir6uDBIPTRC_PANdhZ-OdEnI8ezV-9YAw4X28GVur04B4dtb0pkTI0aI6ElHQSzcjWU-UWOY2ftSu20Rfd5a63rg5aQzSgXThj6okSkW85R2eC4naH",
+    "securityId": "75p43PFi03YzR-N1mq2Ql8ztucEMEpcq0mC6hbp85uppZ5iWqF27_zF2mZQYoe_t_chKunw1R99ducPXpqmCQf5nD7T9e2gl9eVLgrCHp4Ay4VQAaYwTAka_9MJxixVAPb-RDrOL",
     "showTopPosition": false,
     "skills": [
         "Fiddler",

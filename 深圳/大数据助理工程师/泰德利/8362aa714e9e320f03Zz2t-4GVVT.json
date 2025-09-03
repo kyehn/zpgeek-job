@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 6,
+    "itemId": 4,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,25 +43,30 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5cPCeW3zvnA.search.6",
+    "lid": "1cQ1ZxcxeS6.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "Qigl1NvAFjrUl-e1kIej5nN7rkXYe9ErpYUpjVvkClaTamdhNvNUqdDHeOLZJMJFsdJboAY87hmCiNs-kPLoQVAtsQXAJJqAI6yNoSZF3Oc5T5WezdAlcrg3Z5r618SKF7Xk6Ff5qqIR0BUam4J1fYt--Ca-0O_kortNjACo8VhYMxyx7uk~",
+    "securityId": "YiIVz1mhP65FF-L1ae397I6AxnteEUSq5Xl0ugBI5aK6czgG3D-yNQfNlj61E3Bnp69n6iMTFuJQ5_rV0gdUziqhWU6AbHE1JtLNJaMkoBMNCxvcfukZ2dqTa_2yWnVfKqXj3QkNxnxIqk3ZthaC7ZDhQRtI94E0l-aq04QurhpfXefAY6c~",
     "showTopPosition": false,
     "skills": [
-        "接受实习/在校生投递",
+        "Python",
+        "Django",
+        "Flask",
         "MySQL",
-        "Python"
+        "爬虫经验"
     ],
     "welfareList": [
         "五险一金",
+        "节日福利",
+        "底薪加提成",
+        "生日福利",
+        "带薪年假",
         "保底工资",
-        "包吃",
+        "零食下午茶",
         "绩效奖金",
-        "全勤奖",
-        "底薪加提成"
+        "包吃"
     ]
 }

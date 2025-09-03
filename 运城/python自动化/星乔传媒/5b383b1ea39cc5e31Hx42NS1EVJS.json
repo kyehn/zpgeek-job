@@ -7,7 +7,7 @@
     "bossAvatar": "https://img2.bosszhipin.com/mcs/useravatar/20151020/e47206a1f8dcc198034f159434b2de093473c7e76b30db964bb21fdd7ecbd4e6_s.jpg",
     "bossCert": 3,
     "bossName": "张晓娟",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 31,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9azb69S56Oa.search.25",
+    "lid": "9TkuuMYEVTi.search.31",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K",
-    "securityId": "uvm58qD2aUm8f-E11cR1Pi-6UTekPAahSUZgI7MuG318FE8zSvG9pazevIgtq5L7M5V2saw1tWkxRpCnKTv0zQxrpovq8ZwNDLJL006NFrL_ai3vrMGuD3ncypQ7XLUXLxoNRrQRQDeGsi9GGk10qCvf4DZLV7U3uuNcZtqtEfMF2400",
+    "securityId": "Sc5ACu9R3LtbP-x1xdOX_v8v2ntk_t7FFPfGIyyb47aiUVbYl4KhXLKenkSZiGK-Im38u2Fr9gMx623OC1HDar0dGw00rlQiRT7LbeneYVR7VDZturDngbTINfhle_t24RCHLUAnHTZz",
     "showTopPosition": false,
     "skills": [
         "Python"

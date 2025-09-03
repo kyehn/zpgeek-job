@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100103,
     "isShield": 0,
-    "itemId": 56,
+    "itemId": 74,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,16 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4g5YQ5VHiQY.search.56",
+    "lid": "fQJKCwl0Zs.search.74",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "Zdua9ImjnKr1f-21MCOS9t4f1iknWgIi9Z0hQhW7CdT-j-pqJjILArIP48w4zLLXb1Fi57EExSN8WpDYmwGbGP5p82z_YCRwKEN-UzJmlT-h3opZrxvh-HtL3NzQ5iYk9uA0REayL2LR",
+    "securityId": "tUNqcmYssJzUB-H126VVRxy_rvoQThoG-3WFxK2bGfEs3Twxw6fS3FAfig8py5IIMWKSu-pB_EO-7zQmEbbthZumpezi0Cb2q4Q83dlxV8RnB0QVi-_rhZV-GpGPLv-kJoNkxdEppLpO",
     "showTopPosition": false,
     "skills": [
-        "打字快"
+        ".NET",
+        ".NET开发经验",
+        "打字快",
+        ".NET Core"
     ],
     "welfareList": [
         "年终奖",

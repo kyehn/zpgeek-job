@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天桥区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250709/607f1f3d68754fd0acb204c0f68fa23f03933687586d293fd681f464829cdec21c12a013b283d3d6_s.png.webp",
+    "bossCert": 3,
+    "bossName": "李大伟",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220707/7b5b554d84f9729c4886d79a71e6f61c5ecea9841555949c1f5c1f44c1accc33fc542ec921dc8468.png",
+    "brandName": "解供信息",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "无影山",
+    "city": 101120100,
+    "cityName": "济南",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "736fd80d546376910HVy09m4EFtU",
+    "encryptBrandId": "6de84bfce4d0e80c1nZ-09i-Flc~",
+    "encryptJobId": "79e24a47a3a4643b03F93Ny7F1NZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.708782,
+        "longitude": 116.951592
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 28,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件实施",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1eGv804C0zl.search.28",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "IF_1cWpNqP7j1-71VL3O5g69_jvCaOqmm64rFircI1xeTS35uVJreBV_OK0W8Uj9cckUC_xK4D2_M0h_8-5w-a9315a7ZlAgUL2GlhpJ6dUDsHEVbJADUF_STxoOXnpVdIcC6nPm0Xt3GT4~",
+    "showTopPosition": false,
+    "skills": [
+        "软件实施经验"
+    ],
+    "welfareList": [
+        "包吃",
+        "五险一金"
+    ]
+}

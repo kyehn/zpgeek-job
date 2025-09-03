@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "陈女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事专员",
     "brandIndustry": "医疗健康",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "7dbccf537e581a201nV83NW6F1BS",
     "encryptBrandId": "d89b8442dc9a29e21HJ509W7EFY~",
     "encryptJobId": "ead303234ddbee4e1HNy2dy7EFRQ",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.126029,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 45,
+    "itemId": 32,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7Qk5gbqtboL.search.45",
+    "lid": "1d9FtMSnP6L.search.32",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K",
-    "securityId": "Dr_rvx71rjfrr-U1cgYYjepQqaztkx83GG7dKvESeVP0FAvE8YId7qQfkGJ4dEEC3bWo1qWIvNafafLSo3Zl8aHHz0yMUsABrMYbE2rP-Ldk-mhmMQNlCgs39ijyBsoIjLZDDWa6syN5iOQ~",
+    "securityId": "XSx94mx3iaSn6-W1eg6MTZ9DecF9VCmubYMbD7SmQ9z0pjP-79LzDbx4CHsLy30Vamyw1ZUgueXEx3AWP6M161Y-QSgtJ4q6Pjr2eeXd1qiFKbU07pSdPw11sgQboL6Ty1fXPMGTRHLwU-lx9yq6GFag8aMIsyb2KXrxKt0EEnzp0neoshE~",
     "showTopPosition": false,
     "skills": [
+        "计算机相关专业",
         "运维开发经验",
-        "计算机相关专业"
+        "C#",
+        ".net",
+        "医院his系统"
     ],
     "welfareList": []
 }

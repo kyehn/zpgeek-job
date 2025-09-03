@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 63,
+    "itemId": 46,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,34 +43,29 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d3PBqTr9gA.search.63",
+    "lid": "1cK1qnXw7Bx.search.46",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "2-4K",
-    "securityId": "_u259iJ7YU7Md-61YR-tEq40Sqd5hdpSoQ-UEix2xTt_mYQnftmpaAFp45IRrHN5_S2thUEbHMRnfGorxy5Vu9oJh7l5s1f-wlfGUntNV8YbQbihWZHk8D_i1YZm4h1uR-71sBug6Ds~",
+    "securityId": "427R3piOpap0A-x1oiKP2d1PjuJlSYDu8JOpkGzkh98JHCA5L7MYdp-a_ZlyDKEn2U0kPmQgmXFvGolb4288uGkfW4G1oIDwM3EFydwB7P0EQva0f5cZWDxYxaCHqBkoTA1D3wdah3E~",
     "showTopPosition": false,
     "skills": [
         "深度学习",
         "视觉图像算法"
     ],
     "welfareList": [
-        "保底工资",
+        "绩效奖金",
         "年终奖",
         "零食下午茶",
+        "保底工资",
         "有无线网",
-        "团建聚餐",
         "员工旅游",
-        "带薪年假",
-        "工龄奖",
-        "加班补助",
-        "五险一金",
-        "股票期权",
-        "绩效奖金",
         "生日福利",
-        "底薪加提成",
-        "补充医疗保险",
-        "节日福利"
+        "五险一金",
+        "带薪年假",
+        "节日福利",
+        "团建聚餐"
     ]
 }

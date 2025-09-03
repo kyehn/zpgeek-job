@@ -4,10 +4,10 @@
     "areaDistrict": "杨浦区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250520/607f1f3d68754fd0489d1dbf570695b1985f908030536d2db7757b1a3cefdf4b865a298acc7de258_s.jpg.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250718/607f1f3d68754fd096b1aabde6ca2433b603db6cd6e4d5cbb7757b1a3cefdf4b865a298acc7de258_s.jpg.webp",
     "bossCert": 3,
     "bossName": "马思洁",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事专员",
     "brandIndustry": "房屋建筑工程",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100708,
     "isShield": 0,
-    "itemId": 52,
+    "itemId": 8,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,14 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aYI4bRL6Zh.search.52",
+    "lid": "9SHQEVBSqGe.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "uCEDCJQcKcoKn-H1gdHHP-6etioCmbbX7kGoKNYgUwPqOWaitpGD_0YsEDG8PYxnarRLPXvHbxQLlHfNzrcxrJZIrYvFwK-bl5ppUOLpZNoqf0-unk4OSVU1VofQ5pENY7Abu0nk2mWO2Co~",
+    "securityId": "v3DY8W1W2oXvm-61Ldbz3O658hhlpSywHPM7CbhlsJxHNeZL1zAKdvv9xP3CAv_hPLhynsihrH-Mpo31wEDQdff7Hq3UoeE3z4ngIn58NZ0Njm-DRMH3JexjXpEwM7vs2453UJJBS7f_zjMrTxpC6nDlKLhsN2YDPT1HhyeLXIbPRV4q580~",
     "showTopPosition": false,
-    "skills": [],
-    "welfareList": []
+    "skills": [
+        "大型工程资料管理",
+        "招投标",
+        "建筑工程类专业",
+        "监理资料员"
+    ],
+    "welfareList": [
+        "保底工资",
+        "五险一金"
+    ]
 }

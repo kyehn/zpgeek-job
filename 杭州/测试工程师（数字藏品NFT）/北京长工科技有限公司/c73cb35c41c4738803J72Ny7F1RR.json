@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "拱墅区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250529/607f1f3d68754fd080b2fdc2a570d4f5485551a89ddefc595413020fbc1d4a4a12bbf615c8839582_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "范先生",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "北京长工科技有限公司",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "上塘",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b3c2aafe47bf1ed103Fy2tW8FlQ~",
+    "encryptBrandId": "f576e482573ddadd1Xx_3t2-GFI~",
+    "encryptJobId": "c73cb35c41c4738803J72Ny7F1RR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.326366,
+        "longitude": 120.179975
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 39,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试工程师（数字藏品/NFT）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "fHzUzbMu1C.search.39",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "mkIf9PaYEn9h6-f1mZOvdljMDwfezyT-wl-xPlr_XbdAugVpGvGGoEz7gN7PyUKzyikgi47nNmXL-frNP-r3s6NanZ2iJdr6CMN7V75ZNRh-2RP7pKKgYZXhggXCWqryBOBAhHxCi8STQQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "海外电商、直销",
+        "功能测试",
+        "数字藏品",
+        "NFT测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
     "bossCert": 3,
     "bossName": "关女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180413/420b8f01b6216799a0712abc7289c0da784cdd11d0491233235bda1ade7897db.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 58,
+    "itemId": 84,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8hDQ1zXOgJt.search.58",
+    "lid": "fUNk2GEn7A.search.84",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "RpprW2HmXKjLf-J14LTAjjyvVSo8FzN3s8_IRcAcoEWCjBLgTNQ07yXIBzgHafWXQZQ9k7xNBb4cP83QoakpwSMcajBKZmKFwB6UrPn91SSJTLY83K6GUTc40cWg0FcG0PFKLEp_Rygk0tvA4k2DQ0e_TmwawCn75f34_rt5wKJfcA~~",
+    "securityId": "GBiZF5qvnT4Lb-S16QjK6sz-g8rtsY_k1z6bElmCIIy9eWAn4-0hFKqRw9nMow_HtSeqHq07Wk0lgC5vdSIASgNUMY24R5Sb4SkkyEKlqLqNdA_umSJK6hrh_BCa_BM3M-C1vwrVGw~~",
     "showTopPosition": false,
     "skills": [
-        "计算机相关专业"
+        "软件实施经验",
+        "PMP",
+        "熟练掌握SQL语句",
+        "计算机相关专业",
+        "可适应出差"
     ],
     "welfareList": [
         "员工旅游",

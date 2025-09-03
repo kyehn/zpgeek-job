@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100028,
     "isShield": 0,
-    "itemId": 69,
+    "itemId": 73,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PGozyUxOEd.search.69",
+    "lid": "1er4UVtEzJK.search.73",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K·14薪",
-    "securityId": "zE3IGsn9M89e--s1ZA3obRCdk1qFBqppSSxIpWaMj6HLltghMkBZfq3UcCrQ9xW83r54GgCzNCHg0vNyqmDvFBG_ZSZLNDlTjIO8W4fw8GYDZp_bgAPYmEmDfLBH-zod8r5uXxbkCeTBfsA~",
+    "securityId": "3QlIJ2hNfbpKB-E1g0Ah3ZbEgpy1u0JM-uNG0Y-JrZJabHVbsqdE7eZ1I5bAlalChCKP2492PU5plEK-pK8pNeJadkdxUVyHbyLsP9vkxv80Y83kfniAGMWLFK7y5EQ3KunCEk6GMRs3kbI~",
     "showTopPosition": false,
     "skills": [
         "网络运维",
@@ -67,12 +67,13 @@
         "IDC机房运维"
     ],
     "welfareList": [
-        "免费班车",
-        "宿舍有空调",
-        "包住",
+        "有无线网",
         "包吃",
-        "五险一金",
+        "团建聚餐",
         "保底工资",
-        "团建聚餐"
+        "五险一金",
+        "包住",
+        "免费班车",
+        "宿舍有空调"
     ]
 }

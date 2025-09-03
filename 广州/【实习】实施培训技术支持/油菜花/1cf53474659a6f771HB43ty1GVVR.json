@@ -22,7 +22,7 @@
     "encryptBossId": "aad4e6fd7f76d4c51HNy2NW8FFc~",
     "encryptBrandId": "e3356ff748100f8e3nN839i_",
     "encryptJobId": "1cf53474659a6f771HB43ty1GVVR",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.969702,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 46,
+    "itemId": 53,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cQRTpmIJIN.search.46",
+    "lid": "1d279ZBKVFn.search.53",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "SHw14gXf_LRdo-x1c9LQlpkcv5MVW79q6uf51kZwUUWbUWqlWPYYD6ZVdxLSoaDLjh9VLBeFbtYfNAj6YmsY3rYkd1gMAi7qUQUcmZ0jnjAISNvDKE3z7FPF4FyZ--uu0J7-x0USD0s~",
+    "securityId": "pFGmi1FSvO3rt-U1bXP-KzPHYjbqZ7p0tNL-bVZ_ss5mAGXAv1RLw7h_89ffZjSUEMrBgoRKVMawYpPc8Mj3AUq6q7ETk9hlO9d_DQvRlHZxh18qRY5928FT3lvxkYu6uzAKaADw5uQ~",
     "showTopPosition": false,
     "skills": [
         "系统部署",

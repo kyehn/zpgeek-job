@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190926/d160ec0f8cca50016c8cc7dac0a278eac77d095af31fa5084a712627268253ec_s.png",
     "bossCert": 3,
     "bossName": "邱元晓",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "半导体/芯片",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240604/7bf6f160950405e936a584651d038c1dbcfa12cc4f7dddadc77d095af31fa5084a712627268253ec.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101405,
     "isShield": 0,
-    "itemId": 42,
+    "itemId": 35,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d2QdAJCJse.search.42",
+    "lid": "1cLdd2i3E3K.search.35",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "yWX791JzvNwwd-S1vYNjb_M4eq4YJfZ_nxoUF8WCWMdOMMwoXYA-WaCuKeq_iTE1JZYRRclqxprT5PPenFFQ4fgUOtReZDHboMFJ-Iag1nN22lVcH444wdL2wifE8WeoFg4rMJbzwvsx",
+    "securityId": "yk0RYn2Z4jMtU-j1wzZ1k7PymABOt-2wwJbDzV4LmDCiLU32_OLya0u51iD0g_RUNcfa15IQey3H3-6PigwbLDCP0mtPdfK2imxwwis9Di_o-4FhhVfJ0ZcZNK52wf55jTsNPfMlL12kvuaq6sJxDUJ0xOCDJYU-Lrrnzk2HJbI1-G_m",
     "showTopPosition": false,
     "skills": [
         "嵌入式测试"

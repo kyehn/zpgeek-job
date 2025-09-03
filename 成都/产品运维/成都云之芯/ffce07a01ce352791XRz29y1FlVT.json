@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
     "bossCert": 3,
     "bossName": "骆女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人力资源",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201009/e5d8358940023a51acc1a36c81754ce0b39e8d1093f652377654549ce404f55b_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "cefac311cbffe4610nV82d--GVFT",
     "encryptBrandId": "6dd3b7342c3886201nZ439y9ElU~",
     "encryptJobId": "ffce07a01ce352791XRz29y1FlVT",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.623714,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 36,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7STPtJrddTC.search.28",
+    "lid": "1cyfvyehXiL.search.36",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "GNahfrM23RCPD-A1-lb6_UbEJApwGJLIBZoMwsYhu2ug8pkGXARPgazczM2uOtElmChB5fiIvGxV0HeSpRMmiCSZo5oLYTJEbxD6Kl3-gmZnFx4SJCMu4H5yb_SoKhRpmKzMcVB_JAbui_w~",
+    "securityId": "hPCl1Fq35Ir1s-j1EmA5Ik78F5wz9c6ctgRfhRPuSfRzTcDojPUkJ5caQTqzq0pN35MmXEtDGa3GDZsmwYxOWcBbY11ljdnQaDXaHCTE6qg8pJL3VDD3kzNy0oe-NB5rHxZDEZm68_YbM_N9qrRphgrzLNeKVJB9FH1DAXtFbjktzcBoU4s~",
     "showTopPosition": false,
     "skills": [
         "Windows"

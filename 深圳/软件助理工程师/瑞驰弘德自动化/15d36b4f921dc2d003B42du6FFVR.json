@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙华区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201126/6f25a8ca28ae8f8c8d750f643a8648f17070da5f78f2c0e33968bec7e474cf70_s.png",
+    "bossCert": 3,
+    "bossName": "胡川",
+    "bossOnline": false,
+    "bossTitle": "厂长",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181218/7e801921c628dadaf0f287d06791527f20187637ca6ead04002ab3abbd4eae07.jpg",
+    "brandName": "瑞驰弘德自动化",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "观澜",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fa8d6a4caaf094220nB93t61EFA~",
+    "encryptBrandId": "5c287f6917b03b791HZ739i0EA~~",
+    "encryptJobId": "15d36b4f921dc2d003B42du6FFVR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.710026,
+        "longitude": 114.099128
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100902,
+    "isShield": 0,
+    "itemId": 40,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件助理工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1cTWYgYT3Md.search.40",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "CMHCwaLTj5X8l-r1pUGJ9-7J7GVM3ys1S-vpJnxu30jShQJX-BJqdfiGy1QMJNNPNGM4-1C52UlPFDQv6sj7oG-J3AFuX6if688Qu_iqrtnMtLmQ-gfycLb5RnDMgzBSCYaso34ZAzN_",
+    "showTopPosition": false,
+    "skills": [
+        "C++",
+        "c"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金",
+        "年终奖"
+    ]
+}

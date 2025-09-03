@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 57,
+    "itemId": 33,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4KnfVlTuuk8.search.57",
+    "lid": "1d657Cv7U95.search.33",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-7K",
-    "securityId": "xdsQn9PaFIZOQ-P1SvrpwMEFcqgG1vEL-wtktxmiVyplxiZhpMEYKyJqVWeC5xNquvZXICZWLo01dBp0BSLFx8L3lRfGdBCUrRvB6npT5ifEQ6ZTk2evW2Fli66hnLU6tVlrHu3fbGfYflE~",
+    "securityId": "vzwDjw4IzrP6p-t1x-5j-w8sJ4oieQEnOK35wEaLG5e1s8qiWx1pUHHx_QUNp91qfQw_OmaFPAsUTZ30zAS9ZN-gCvaAv9BhrFvRwwl4nVWoZyMz67pflrPng1jH9JlB6zsDQ_JDlL0ffMw~",
     "showTopPosition": false,
     "skills": [
         "网络运维",
-        "实施交付运维",
-        "计算机相关专业",
-        "电子/电气/自动化相关专业",
-        "运维经验"
+        "实施交付运维"
     ],
     "welfareList": []
 }

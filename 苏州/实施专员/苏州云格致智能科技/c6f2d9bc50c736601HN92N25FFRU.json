@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250427/607f1f3d68754fd0a355724225bb982367d1a934970ba4779613b62a49ccb1b75f22a53944787f05_s.jpg.webp",
     "bossCert": 3,
     "bossName": "李女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "高级招聘顾问",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250219/7bf6f160950405e91781794767e0feccc69fde3874c36f9d9613b62a49ccb1b75f22a53944787f05.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "a0f3143c107fdeae0nd42969F1NS",
     "encryptBrandId": "2eedd86f8fb670e51XRz3tW4FVY~",
     "encryptJobId": "c6f2d9bc50c736601HN92N25FFRU",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.292342,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 31,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t5TLmYgYkO.search.35",
+    "lid": "1cvAVtWLEhf.search.31",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "1WAJ5UhvHAqks-s1Op61GkKxLtieYMbcBVMzobXs7SZWxcsrHuZXfMwvIjRA7N7QRRQPz5JrAaj1XhmAdUbTyVHIJCXCE7LESETqCyQLzBmLsPnWXOt2yVZiULBaUshCLoLMM-4HGTsFipY~",
+    "securityId": "A2ZFU5j6y5hAU--1tyZ_QYyVSnLq7fv6ycUfXsOP4aOX4DltJB1OHnA1G1t5ts413YzzlEPlik9M4q1pRHPvQyQqbJkn8WrEhFmvc9Rtt2Dcmr8d2_pyykbnuFSJ0bSb4V5_P2ttrM1_9ejc1WRBdan9q6kHu05qnGHLWd2M79-QZBaR10I~",
     "showTopPosition": false,
     "skills": [
         "可适应出差",
         "自动化专业"
     ],
     "welfareList": [
+        "带薪年假",
         "定期体检",
-        "五险一金",
-        "餐补",
-        "带薪年假"
+        "五险一金"
     ]
 }

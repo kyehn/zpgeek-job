@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220512/607f1f3d68754fd05d00f543af9d5af5a6efa5a5b7016adfcaf0b8e70b52106e9d927d0f8f1998ee_s.jpg",
     "bossCert": 3,
     "bossName": "孙女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事总监",
     "brandIndustry": "游戏",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "86b196f2c8ed108e1Hxy29S6EVI~",
     "encryptBrandId": "b7b444ce53cda5e61XV939S1FFE~",
     "encryptJobId": "737c5bd0ce1b699d1H163N2-FVdY",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.375676,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 58,
+    "itemId": 67,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8sWvzfXmrSB.search.58",
+    "lid": "1cLdd2i3E3K.search.67",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "W4Gt-ASvlXQHq-21lCLLYoCdA0jgbeuhHsjGxXESoIw95e7K3F4eKSU8-ZWDxxRP-riZmRTGcBlTzjMwCKOY2rkrXpncigaYzF8sABzAvfVVWSkxkmxCWToPCNOKT529gsMX7FyYqYrRMg~~",
+    "securityId": "DycBfOCSeZj0--01glgCgbkAsBM2igqCSpGu7Kua_U5pju3X635xvZ57lE3QkcfDJ5jfTqF31lcI41O86YGQaDvIWLrbmeIYjDZy64CEAub0fm5dCHLxLyPtZnfpg5T7cd2TecmYLZJ1kulNqDpqP6YU7ALF7FjrPtcq5Gqwg2nUfR8bfg~~",
     "showTopPosition": false,
     "skills": [
         "FTG游戏"

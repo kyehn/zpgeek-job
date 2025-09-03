@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 70,
+    "itemId": 88,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3Pw85o5Y4oM.search.70",
+    "lid": "1d472lU49P9.search.88",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K·15薪",
-    "securityId": "29BzsnlZWRDUu-51n90e1_EB9MbrilxJtm5VhzQOYHqOImI5dyu7Ruskkjpg2ntPT7cpptm9Iwx5WAD4ZHPKBrvjGC3nzuyx_ZQoKbpg_w99n7wt3tHnuWcnuxR9xNTrXJCjhdEBGs8JPw~~",
+    "securityId": "G6iwdpylHFLEv-b19u0I-aFjxF_7lP7ra5OQFoH5ZTBXczB-Po_Zb7ZMGOSY8nFHp1_tBYyKP_z4P6qPHCP_mnoM3hE89PODRjYf58kq1B6Zu7sGQooWTVNwwQ3OKmuDuXLwAbNJtmVTfg~~",
     "showTopPosition": false,
     "skills": [
-        "ERP",
         "软件实施经验",
+        "ERP",
         "实施",
-        "交付",
         "运维",
         "服务",
-        "售前支持"
+        "售前支持",
+        "交付"
     ],
     "welfareList": [
         "带薪年假",

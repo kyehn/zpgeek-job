@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250119/607f1f3d68754fd02e880541980914a8fefdd0b4ed18059f212feff5e78addeaaf76a15380537e81_s.png.webp",
     "bossCert": 3,
     "bossName": "邓先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "人工智能",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250429/7bf6f160950405e91c24323c9e90e98737bf76264c677c90212feff5e78addeaaf76a15380537e81.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "aa23cdde40b5761033d-3dW1FVQ~",
     "encryptBrandId": "6adaede4ce43888e03R409u0FlY~",
     "encryptJobId": "2944e4e7d297006803F_09S6GVtR",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 40.065674,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100028,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 48,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,20 +43,24 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cOm9YS37Kd.search.8",
+    "lid": "1dd44Wx6152.search.48",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "k5FzR4WbcQ6V7-j1-3bcoMn-rhlxZ8ZHyARFSL4BYB2Y6NdN8ggkp3st77-XpyqG1Pyu6r0TVo6aCMVskMF23iDEAsLxrH_MQjm0Tf1Em_LyHdjkdZfBMsqWrZhLdFv85SSVk-_P-phijQ~~",
+    "securityId": "Jl_AFVmUCYVfW-I1JjHhNzEFo4Y9GCmbwdwdbQ-nNTX_n_-VOpGvhg8ri2wwRnSiWLZ-C44JhG1ZPt2kmPUty_YI2B5tbaaZoiwAT_lEhVoaYLddrwa2V4YvKH2qoniIm1bSlFbS94Ymxn-6kb_m29_c7GpzB49ofJ5lagG7VKvFSJhfUg~~",
     "showTopPosition": false,
     "skills": [
-        "Python",
-        "MySQL"
+        "MySQL",
+        "Python"
     ],
     "welfareList": [
+        "带薪年假",
+        "夜班补助",
+        "五险一金",
+        "加班补助",
         "零食下午茶",
-        "五险一金"
+        "团建聚餐"
     ]
 }

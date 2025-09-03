@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南明区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250811/607f1f3d68754fd0cf9d0592d15dc05e79a81093498953b10e327a9dafa887467c755eb911fb6c4e_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "吴先生",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250811/7bf6f160950405e9516c582ba7c6c21d3e9b56c799cf703b0e327a9dafa887467c755eb911fb6c4e.png.webp",
+    "brandName": "贵州靖柏科技有限公司",
+    "brandScaleName": "500-999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "遵义路",
+    "city": 101260100,
+    "cityName": "贵阳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a3647836393b5e7433B_0ty5EFo~",
+    "encryptBrandId": "9d1a9a8d30f3391003Zz2921ElQ~",
+    "encryptJobId": "01a515b8f338e2a103J42du5FFFS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 26.569153,
+        "longitude": 106.699163
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 12,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "初级软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9To3ffaTUaY.search.12",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "lKF8wh2saLESq-z1i7ASlMpoUeaZFRlLCjcDQp1-i5QUVFO2fidw2DmXOpQ8EskzgbAhGRhXoDVzN4cIsAqelhsRoIEJLA_ID9LOLHevJuU20bTkY1oGBfVgJEL1IJZuiUpuxEjH9thRgpWLhlmE1KiwXidJACIs0XKl0DnwihBA7ArAvA~~",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

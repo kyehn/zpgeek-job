@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 4,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1w4KbFcwEOW.search.2",
+    "lid": "1eE4FddBNSm.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-8K",
-    "securityId": "bwpXATFTcNRWz-N1cj1NiRgkgfpCLnFb7PKiVzO22pF2w97xSAzYwWnJTygM83DII3nMJLoPBz31fWGX_NU6Xd-gjVMvQUcXZ3vPXA9c-XZAAnFtHi01Dpr7tb5JZRqdrf9Ewa046lPBEXBMNTA70w9tDsgAO0CgW-jPBRNDCWiKL_XkUA~~",
+    "salaryDesc": "8-13K",
+    "securityId": "qVxpJjOPMaKQx-Y1eE9lCzhswTtLbmWAYz8bCX6XBmoJeoFLuIuEc-JiSpnMcyk_sFJNMOk2yKua4_-C0w-a-Zq1pxbd0o-llC2n6irbbPV6wTB3DfhBQlzGxh3ObiFBXPWs3WT7r5p6kKabGY221KGMMWTvw0Iy4ZsWqlTp5jVX20NFbQ~~",
     "showTopPosition": false,
     "skills": [
-        "自动化测试经验",
+        "APP",
+        "测试工作经验",
+        "自动化测试",
+        "计算机相关专业",
         "Python"
     ],
     "welfareList": [

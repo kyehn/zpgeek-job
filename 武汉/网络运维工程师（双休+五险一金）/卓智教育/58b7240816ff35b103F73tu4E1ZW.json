@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 18,
+    "itemId": 86,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,15 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d4j4GBywtV.search.18",
+    "lid": "1cJpiT5Rbgx.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "UdFkJVE3JxXSc-J1suPkAq41H0Svd0vCUOUlvGI7tUPMguBhhsWV_pb_S6C5fFKjh6QgxAxDFrR0Sv15XzZHiwHJEynYot1SwZ-jWG0WCtWIs9uJg1JuTzXzd67v1i57uLVaNfc5iL_D",
+    "securityId": "KpxgG9u0OeqZZ-u1c8GPn-HUsKvJ6NumyZYE94OAeoU9nEi6i4YYZEYuDyHvR_ZdfWgxuw9L2FuT_9g1Ytmf2Kn_7xG01uILBFZ6nJ8-yWIPVJro7c1RZoYuthR-zFO2-L0AYHOPEeeH",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "网络运维",
+        "网络安全相关经验",
+        "运维经验"
+    ],
     "welfareList": [
         "五险一金",
         "定期体检",

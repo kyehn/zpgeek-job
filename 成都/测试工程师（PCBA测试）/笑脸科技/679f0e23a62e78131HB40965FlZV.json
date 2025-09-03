@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "华女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘专员",
     "brandIndustry": "智能硬件/消费电子",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230605/7bf6f160950405e9c5f4af9c0d96b5ba8d8f7de70dfb860dc7407b8de42636bb81a4cb3954550ab4.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101401,
     "isShield": 0,
-    "itemId": 24,
+    "itemId": 56,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MCeJPqYj1G.search.24",
+    "lid": "1cDM6Z3kQIu.search.56",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "oJEseYvpwOwHm-z1boZkxfNUYpkPq-R7ZJu8-cry_om4I7kSIKMhQsxRTsyfyCX4gW7pHaNbKfk8n-sjeyloV4uX56r9FHdOr7M-ZhLl3LAC7geF3P4A6Ij-TEeXeqYaczP1t77uQbqo",
+    "securityId": "DHZwQeuhmkGGt-z1_LyMKtkULFTjWFbjsieXGeaqV5DOFamA7cAUskHdTnkOJWJpKoQKXkD0qdsCaiRzVxjdJ2mj-aq1lYY335wF0dFRRrHTBXftRRjRX9eW7XDgFvespcX7QZTBaTo5UuqFwgaiHjHhmosro1M9WXB7wa6Btfup6NHe",
     "showTopPosition": false,
     "skills": [
         "pcba测试"

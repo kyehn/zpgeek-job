@@ -22,7 +22,7 @@
     "encryptBossId": "470f88cfca50980c0XZ_2tS8ElQ~",
     "encryptBrandId": "bc3130c9b216259a1HF80tu5EFY~",
     "encryptJobId": "ba5ef3250b3a17c603F52tu9FVtT",
-    "expectId": 1213281944,
+    "expectId": 1077417861,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.122048,
@@ -32,24 +32,24 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 14,
-    "jobDegree": "大专",
+    "itemId": 53,
+    "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "大专"
+        "本科"
     ],
     "jobName": "初级开发工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cSoYBx4vbI.search.14",
+    "lid": "1cV3g8xeL3r.search.53",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K·13薪",
-    "securityId": "HSFqfZfLttBdN-j1JKQ0ADMKEY4bYynZqsHiHDF_jVwtwdi0VPg4eMnN2a9V7pPPXd6vow4CGZyhwi63LmfAiKQrOWTM67UgtcarzBcxmUaYVVdGcLXGQY39QdtsUnJnSchFf8_ZkPezDOAB4t3-BmVp_SIvrWtb1sFZCwTQiNUTzBVUng~~",
+    "securityId": "YkxjlWIooZTCP-R1gvXVOVGRKnj0E4WX_6tj4Y0Pe8C19bsiH72noV6822PqhiGNBoVQ9GHlX-bYr2A2rABH-6D5N3lgjKs4Wk93m6wBr1VukJWlC6s6_gcI9hl0q7kgzedpEK3085EwOA12N6XsozWTMJxRZGqlP_XirOejnbdIo7-BCg~~",
     "showTopPosition": false,
     "skills": [
         "Java",
