@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "徐汇区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250728/607f1f3d68754fd01691a96ff0e6fccea6fde6cf6e3df3ac129829a177ba6892c01542b6f0b98568_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "柳菲",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/50139ad459d4c5dd363182fe891a3da6cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "北京湛腾科技",
+    "brandScaleName": "500-999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "康健",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4584fb2dcd7462870XZz3dq6EFdR",
+    "encryptBrandId": "830973d7d345e15a1nRy2tu4",
+    "encryptJobId": "572f425c68a611c403N-0t26E1BT",
+    "expectId": 1334030427,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.160815,
+        "longitude": 121.433499
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 78,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4UgaRK06XtT.search.78",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "UM348FQq1k6Nr-c1Rm_r2HreHBOhltPQErnyMUq91X9RBhVVBf003ZIsiiT1_XrnD5CdS2R7tKFWwmWjYJ2CrXJn3_iDBzsSSbOqp6oYdYalfo3ymUT-67uIMmh6LoapwnvggGzHCAkE",
+    "showTopPosition": false,
+    "skills": [
+        "相机测试"
+    ],
+    "welfareList": [
+        "节日福利",
+        "带薪年假",
+        "加班补助",
+        "五险一金"
+    ]
+}

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "余良开",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR Manager",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "6d10bda73d6d470f0nx63N60EVtQ",
     "encryptBrandId": "058231d929feef771nx_3Nu1Fg~~",
     "encryptJobId": "c59987ef32a843671XJ92tu8EFBV",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 26.011675,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 83,
+    "itemId": 76,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,19 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7oNUWxTFwZB.search.83",
+    "lid": "4Uiu4mCZaAs.search.76",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "wxWOlMcSSxbm6-11tSh5vMCQAIMhp8luWf7ULYsonFJIZCrDehImDmfJNEL86gTZw1Gxgo9yznz5rVQwBTEXyPbKOd9-IWuXnoQnHbJEEFoHxPRA0KJRNWjJEwVfT-eiwiWyj0BQ_dU5oWgzTxJ63gTteGXiGw0SgJYMqoiMAaG9vuJipQ~~",
+    "securityId": "f5W18qWtlwxaH-J1QS1dvj3qXta8x35OfTmfkEuHWN8rV3jei_IcyExu0iRW0tsxvt3kFkaeDU5lZ17whi5QwN3gFXf7sovpf63SM31IJDa9xZE3XzmZQb6W8dddsG1ixRqczluS85dC4Q~~",
     "showTopPosition": false,
     "skills": [
         "ERP",
         "CRM",
         "计算机相关专业",
-        "软件实施经验"
+        "软件实施经验",
+        "外贸服务经验更好"
     ],
     "welfareList": []
 }

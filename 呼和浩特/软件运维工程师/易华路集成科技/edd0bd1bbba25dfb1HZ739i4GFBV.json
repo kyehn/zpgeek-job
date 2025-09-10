@@ -22,7 +22,7 @@
     "encryptBossId": "18da8fe51a36185f0nx82d6_E1dQ",
     "encryptBrandId": "27f10d2d1ed59c911Xd43Nq1E1U~",
     "encryptJobId": "edd0bd1bbba25dfb1HZ739i4GFBV",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 40.840279,
@@ -32,31 +32,28 @@
     "iconWord": "",
     "industry": 100005,
     "isShield": 0,
-    "itemId": 88,
-    "jobDegree": "本科",
+    "itemId": 49,
+    "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "本科"
+        "大专"
     ],
     "jobName": "软件运维工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3K9iTOn1lvp.search.88",
+    "lid": "4UbeSgJ5Aag.search.49",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "rY_dqL_9FdYfn-N1IXvDszC0ueNgl3D6Ji3Us6xx0c7RS69P8w_ztJyyl6MjdmUHh655JXO2WX8BLoa2y79UydyjFEwZpVklVWBCAz0hC7WMvFSfxzwlIqS_u5OjyqKWX_d2y4HJIaT_954~",
+    "securityId": "1S-R9MEP8aYT_-51t8_Dw7D5KHAFaAkQq07zr7GVnxRMxktKdmxLDPXX4mYGGnVEwnIvuOrrvM7qNMTfHFRQSS7NM6OXbENCdPv1o8116HAzGbw4VWfDWrsyvhx0I8XSGyUswwQHa5RQl0M~",
     "showTopPosition": false,
     "skills": [
-        "系统运维",
         "网络运维",
-        "通信相关专业",
-        "计算机相关专业",
-        "运维经验"
+        "系统运维"
     ],
     "welfareList": [
         "交通补助",

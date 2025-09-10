@@ -8,7 +8,7 @@
     "bossCert": 3,
     "bossName": "程女士",
     "bossOnline": false,
-    "bossTitle": "资深招聘专家",
+    "bossTitle": "招聘专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210630/1c03de51a5f612ad010f257eb8f69b9b532f7268e1e568a48783cf7604ddde95.jpg",
     "brandName": "网新恒天软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "e84c18acd066f2c80nd53tu4FlBR",
     "encryptBrandId": "e7cddff7f8c24afa1XB72N6-",
     "encryptJobId": "753d9fd1155fa1dc03d-2dy4FVNQ",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.290495,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 69,
+    "itemId": 87,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,16 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5qDduOVKh8P.search.69",
+    "lid": "4VEOxggUATV.search.87",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K·13薪",
-    "securityId": "66r5jDsNBvGQs-G1T23tw6bDNWSj7UF8zLnJjGbd3l1SpF4Oiy5f7ggKM3U0qiO5_jF_F6ugCXBblGIomG-omQ8_2Pm0t2W7zCDAmtM_hHIDCcCqZo8e0pvTMlGsnIonLJGSeX6Ady8M",
+    "securityId": "VlAZm88sBuPTe-I19kYn47ziKkZYs7czIVxEZPzcndnlz10kWNSQ7MAZM9nCLUyjLCxFyxx539njpZeEI0lhUS8BLFlfegGTFQP8CXxrptt_Fqnh6e2YnsvRFBE_xj0c98o734Y5ta4o",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
-        "MySQL"
+        "性能测试"
     ],
     "welfareList": [
         "补充医疗保险",

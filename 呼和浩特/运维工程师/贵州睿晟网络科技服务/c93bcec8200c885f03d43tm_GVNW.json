@@ -22,7 +22,7 @@
     "encryptBossId": "10f2bfae992febeb0XF_3tS7FlpX",
     "encryptBrandId": "9c4e9f4be0080b0a03R93NS6GFo~",
     "encryptJobId": "c93bcec8200c885f03d43tm_GVNW",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 40.817445,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 60,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6SuIbrMNy7a.search.35",
+    "lid": "4UcRJUKtDzw.search.60",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "ZCyIOlH4L8eLy-M1hoVS5sJsXGQnY8KYbVtMIVrOsIA2kyu1A9DQPpl9V0NMRBf2VTsfVm-nosVD8pdETAZOABch0url3njhH3HGAgBws_DbVCRBKs6_cP7CSMcitA1sm9MS8kxjkkFlekM~",
+    "securityId": "IRVxDNBxXdhjA-w15WeEhkbHhpificGiREGwZeK9hldgGoED7qi2ph5xBrAxDMxmQEazQNwCdgxUNBIrPotAjQPeISWnt-5iUl1YnqjhNL20_0wqrLzsQyS3_C7iEZjroS8RA5_zgrVTil8~",
     "showTopPosition": false,
     "skills": [
         "系统运维",
-        "计算机相关专业",
         "运维开发经验",
-        "运维经验",
-        "接受实习/在校生投递"
+        "计算机相关专业",
+        "运维经验"
     ],
     "welfareList": []
 }

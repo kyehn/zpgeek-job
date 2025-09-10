@@ -22,7 +22,7 @@
     "encryptBossId": "72ab7e8b851779e00HV62d-_FFc~",
     "encryptBrandId": "c206a983767283821HJy3d28ElY~",
     "encryptJobId": "3a2e1d49d834b37703dy29m_FFtY",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 21.848455,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 21,
+    "itemId": 86,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TkuuMYEVTi.search.21",
+    "lid": "4UcRJUKtDzw.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "inK37AtRzngJj--1FyGH7KCAZnUAnundXl7ZyGE6EiMxc_4ZDUqzb52MfciEpZvWCDz9YclrrJz_5vteJO4VFfPpSNbVDg9xMkh2bVa1YxzQPqq144a3PYKqvRH85ZAfimSTObIKpHKghmlujz3Zh0zUTMkU6RikYwafU6QasmVpttdDmQ~~",
+    "securityId": "L6L17XBbpzxWz-Z15P0qempHynhy5NPktiTWCCk1dO5YeBcOPHqferQYkrolcGVHnwp3mGVt2L8Jwk6VSx801TSTLkw-NjO5IEO_B1VWqykCnCVjaIEIJ472OmVftzol4Ul38p_C6v5I3otiIpV0Dxenwn_ODCax_h6Zk3QwfxwbNOJ6Hw~~",
     "showTopPosition": false,
     "skills": [
         "Linux开发/部署经验",

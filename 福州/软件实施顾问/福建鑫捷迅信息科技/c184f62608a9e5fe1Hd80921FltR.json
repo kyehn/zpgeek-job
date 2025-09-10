@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210324/fdebcc40da39fe9ca0e831238aca9fe6784b79ec857b6b09a1492b43e0055075_s.png",
     "bossCert": 3,
     "bossName": "陈女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "行政副总",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240222/7b5b554d84f9729c58447c4592edabbc667e44ce68d14514784b79ec857b6b09a1492b43e0055075.jpg.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "7385df525fa15dbd1nV90ty-FVFX",
     "encryptBrandId": "5c455468ed2085ee1HZ-09-4FVo~",
     "encryptJobId": "c184f62608a9e5fe1Hd80921FltR",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 26.078805,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 17,
+    "itemId": 86,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "72k9HzLnxah.search.17",
+    "lid": "4Uj9QZO0Ipx.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "U18PBXvb_ekWm-b1DBCYgwbLJdLCFh981kxryKcAfy3oplpiRHsr3EFWVeewNvKoU7u-zScTskoL_BJmZD9DAdIS2AQKRL7a1CHXVyKzBC-dVq8dr_NVXabJmCTDxO96OZbSrCJHxq0emd14m0XejajSPertgyPtL9H8TufTUeqWgD3E5Kg~",
+    "securityId": "PlQVU1U6ushgP-Q1GZq79fkvdBw_2i6BLfTRO06hVFyWcTTWOFXXYHJoX8QJJjFkDQdJY0Z9mohmnJdUtCCkYBW6sIO7pmS4_a2fHsAzpagtrYXPqVxMYlh0Eu9lYXCL4N7fYh_9fs8sZl4~",
     "showTopPosition": false,
     "skills": [
         "软件实施",
-        "项目验收"
+        "项目验收",
+        "医疗行业"
     ],
     "welfareList": [
         "定期体检",

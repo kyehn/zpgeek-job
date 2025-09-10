@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170804/dabf5f358a5aea249600b9c1f9d95bf5e3ab50e6fdd2cd460f50958c3dbbbe65_s.jpg",
     "bossCert": 3,
     "bossName": "杨红扬",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240410/7bf6f160950405e9b81980599ca218a3faf93a8950d6c627f07034ce49b61c4e7784416aa50f2329.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "6fec89bca9e75a3d1HR60964FlY~",
     "encryptBrandId": "cab0d1d01bc4d43f33xz39S6",
     "encryptJobId": "2ae34626596e16661XBy3ty5FVtV",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 41.794002,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 89,
+    "itemId": 33,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7sHHxKjuVDN.search.89",
+    "lid": "4UhknI7kh8D.search.33",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "KWojhQXoRDpDW-512xZ9XUWoWaCHLUbflcWmSnclHTbJSqoSIn9CUX883yrRJbT_WDs5G0PDHk39AVSe9IJigaQg_2FjSVtslQlUmXutFhBwI7tglmTpc4Yeu8unDoDQSaU1jjLnQya1MLNXGX1wa6MkyPFk7-SpXk0tm3MM5YRuKEs~",
+    "securityId": "bKNUSDAS_r9D_-o10ISSVrfLm7_BnL-XhmTq-qqdtnAI6HZqaEKxLPX1bBAJ09Nlw44ag5QOuRbd0TmHsKdkTmCZwFSVfEj1RiO0KyGkqxPp6DrCy55a07dv8bNKCl65nsHE5YJI-5U~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

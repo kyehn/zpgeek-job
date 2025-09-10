@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南岗区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210615/0307485abeb726a0929beee20d26cc4e13fb5d2b3b7c6d5a597a52b37f24bee3_s.jpg",
+    "bossCert": 3,
+    "bossName": "孙先生",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "南京匠运信息技术",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "宣化街",
+    "city": 101050100,
+    "cityName": "哈尔滨",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e66a503eb2b74b8c1XV42du4EVY~",
+    "encryptBrandId": "c39fb08e5e6dce1d1HJ609i6EFI~",
+    "encryptJobId": "e8e4a2b68dd4db0e03Z939-1EVRX",
+    "expectId": 1334030427,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 45.761629,
+        "longitude": 126.641411
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 14,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4UcRJUKtDzw.search.14",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "vUQYwLs4DYnJt-b1aftPhRweptsxSkDKm8oIg4hx4DuGArpFe54iDmlID62-WPIZedQT4WFBPC9RT0KVgsjuP6w9U3gF6u6KrAT4f0odoI2kFo2WUMFe_Tev-U6v4iugZS7Tcf4UFS0hFA~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维",
+        "系统运维",
+        "运维经验"
+    ],
+    "welfareList": [
+        "意外险",
+        "五险一金"
+    ]
+}

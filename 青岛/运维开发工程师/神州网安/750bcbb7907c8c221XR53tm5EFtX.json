@@ -22,7 +22,7 @@
     "encryptBossId": "04a44ebab4ba7b990n140tq_Elc~",
     "encryptBrandId": "2171731b9cad19b11HZ-2t21EA~~",
     "encryptJobId": "750bcbb7907c8c221XR53tm5EFtX",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 36.145265,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 28,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "HZv0gRO1Bh.search.25",
+    "lid": "4VCzb235k1y.search.28",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "O4ZgV0Fk_ypZt-f1xvPzX9u4bkW9S51grkAZuFW7ogDPyeB_OMwzrYkK0QBL1Gkjktvij8OHntUiF3m5yLX18XuS8Nuup-7ZgkZn1BKIqnfEdssXjmvpkhUHdh9E4RqCHSMAiOkQDyHR",
+    "securityId": "f4Ua4sRYfrynt-i1w0e328EXDpNEPUaSLEQahNQe4I1KSOXcGvzcs637RW3jacr1uHyvw9lSgjqg4J1MfC7TS6hQyC8mH4FlUfKFDQWSfSetvuH5XTHfHyV4WYdbjvsDmu7Kv8rtZrXy",
     "showTopPosition": false,
     "skills": [
         "Zabbix",

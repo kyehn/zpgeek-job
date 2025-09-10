@@ -4,7 +4,7 @@
     "areaDistrict": "吴中区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250905/607f1f3d68754fd0fe039573d1bf916b72231f63e154e74901dfcd564841f29e713c88b889bbedc1_s.png.webp",
     "bossCert": 3,
     "bossName": "郑女士",
     "bossOnline": true,
@@ -22,7 +22,7 @@
     "encryptBossId": "509e4d0167e6ddfd0HJ93t64GFs~",
     "encryptBrandId": "8494fd8f27b7665703J42dq4",
     "encryptJobId": "933734110617161e03F93Ny7GFpX",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.18404,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 1,
+    "itemId": 42,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TjLp5mi9r3.search.1",
+    "lid": "4UbeSgJ5Aag.search.42",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "vmyjC4Pw3YWpL-i1aMDUAAV7zEAzr885xDVDL7UMwDR3Ch4Mv75geuyblnhmcM7EjOIHFRMDyOV2J5BxVXsm6hw2fXu0vyHyxlabpoSho5euYa3mDUIzuw3c1bO1CxL90OpbhnGiEBk2AuVDU2-55ZEagvYkgMadp6yG9dOoK0YnB1E~",
+    "securityId": "zX5Xasn4idrgp-V1ksXb9XMSZOnIG_bhLwYXPMjrG7O17F9Io6kF6ZgEU1ADvDI-cOuEVl_1QxPiEG__wLu0ITo6tSjLfNDC3opoLJ0k_k3C44dB14rr1DfsctqJBp_6Fs_UoTmdVaiOmXqPoGq1HUjQBreay2Bb3iRlWN6GqVWBwhk~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维",
         "计算机相关专业",
         "运维经验",
+        "项目管理",
         "项目交付",
-        "项目管理"
+        "需求沟通"
     ],
     "welfareList": [
         "生日福利",

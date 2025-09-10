@@ -22,7 +22,7 @@
     "encryptBossId": "dc0d5d4180f855930nB829-8GFBR",
     "encryptBrandId": "e2316ab4384b22a01XV809W-F1c~",
     "encryptJobId": "e8ad81b3a1d4591a03F609i8E1BQ",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 36.341264,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100502,
     "isShield": 0,
-    "itemId": 3,
+    "itemId": 25,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,15 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TjLp5mi9r3.search.3",
+    "lid": "4UbeSgJ5Aag.search.25",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "yqi8fr6e3QjHi-v1ZtuvtpgqMY0749WgyKyixzklXc5caedFoALh29bCs2vU4TNoqipA4oRFB_9EcM5ev5Fsn3RZQrvAxAN_e_DowzWYY-2tlcvv6VHBbSiAiOpDHhqM8v7mAH-jQPHa0jHnapXbs3EWvtEEtlwaygMpK2kUPfkDUXhWWXQ~",
+    "securityId": "Ur1lNGVaHhVBy-U1oeMfWS00fvWu7ouRGH2QpdKBykPB7gwkRAXIZbFfgEOgU_Ly4EmcR_gBJhPces2DY4Yv5e4tCDm4oCdiG0peRyQ4-xFnsKvxoFT3YJ7Hw1MGgQDlcC6-WNMAYnJfmBc8GTbUYYtUSUodMQx2qeJhYp3Cd8nGCG_6p1Q~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "系统运维",
+        "电子/电气/自动化相关专业"
+    ],
     "welfareList": [
         "意外险",
         "五险一金"

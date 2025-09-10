@@ -22,7 +22,7 @@
     "encryptBossId": "b4aace830b8bdd430nR929y7ElRX",
     "encryptBrandId": "d0fe547c65dcc6201nZ90ti8FVQ~",
     "encryptJobId": "b980fd41554ebd831n143dS7FVFW",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.185775,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100703,
     "isShield": 0,
-    "itemId": 57,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TkuuMYEVTi.search.57",
+    "lid": "4Uf5rKVrqul.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "9gDZtAiWUdRJ--s1sHLIyvGolne0GTKKBlJS3ALDMa0wRqpEk8R_WHCRZuOf4bbyuVb672yXDoThHjXWFH052PD8y-Gf5VjwgHIAGJsvq3vif5SlTMXobmiLSJaBE-Q5l4jJeDqe-IO7UK4~",
+    "securityId": "Dnt9BvJ8fh45X--1MAVNg25js4u0IevSPcRxCY08buyZ5eSFWj-1FFO9ZDBptxcjdqCkCiCgaxIou_S2Xy-SXUY5AQg3tyMUteD0BJn9esJkWmWTDk6EwaVcxRq46utqfIuph24anYM21D4~",
     "showTopPosition": false,
     "skills": [
         "Python开发",
