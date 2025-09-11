@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 73,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,15 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85t8D16sApt.search.8",
+    "lid": "4IZCoCNTufQ.search.73",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "PGy6-dNXo5294-v1HZxRqThwe1FWrqtIP_nzyRPD405-1EtcKHI1xy_EcFsYiTrK3Q00u44qxZ9FC_cKnTUXTyalx1T78vNsbxvKqiojvPvt0jAUeDOssPEi8NIpUYiLLz9967Dovs0e08w~",
+    "securityId": "y3JMUdAuuTcEk-S17Jn3VH5U41Ib4ZdFoEaXwoU6rHwsSqmKw41XzLF78ZrEZ74OiTU-NI-KQUSba_Ygn_ghmhZOvqywsO40ZVapmRFmYlEvO_o82kwHjPSmxISeWYk9mwfwT34FsEFdqaQ~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "测试工作经验",
+        "性能测试",
+        "嵌入式测试"
+    ],
     "welfareList": [
         "全勤奖",
         "团建聚餐",

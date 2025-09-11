@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "滨江区",
+    "areaDistrict": "桐庐县",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231120/607f1f3d68754fd089e8f5cb3b2cbb7a156ebf8784a6e21f603a7dca588677a49ce1dc95759ec4f0_s.jpg.webp",
@@ -14,7 +14,7 @@
     "brandName": "阳光雨露",
     "brandScaleName": "1000-9999人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "长河",
+    "businessDistrict": "桐君",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,8 +25,8 @@
     "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.210116,
-        "longitude": 120.223028
+        "latitude": 29.812701,
+        "longitude": 119.743714
     },
     "iconFlagList": [],
     "iconWord": "",
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9SM53TOGlwY.search.25",
+    "lid": "4EQok4QIW2a.search.25",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "BP6P5VrFogZWL-r13QKlLHQ7TqgrcvCQjbPH6Mtp1cDZIMzrsK6p_z4Msq6BlJNy_wQL8x07axzUI8MHdqIsaQKPBrKTbSNjD5hW-H48f_MRb9KjS3qa6G3UmLRV6Ypfl8yKfqME",
+    "securityId": "ANgv0WVwXwON--h10n9Qy3Uw3l4jde7YJIzHNweMIepl7DO3oaW5MNTXEA8-Ul1N2e6RWyukQ59bftXApYM5VbvdSrL8tCR4CH-Xilor9K8dohiJezX__WOJUgCy26fi-FbbynEt",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [

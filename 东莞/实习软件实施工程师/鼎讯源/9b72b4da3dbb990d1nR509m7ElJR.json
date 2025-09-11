@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
     "bossCert": 3,
     "bossName": "方明春",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 45,
+    "itemId": 30,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4Uiu4mCZaAs.search.45",
+    "lid": "4J1ULFvrOa5.search.30",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "Ep_ZsK6woHXpV-q1DnqnbwduCvJ0wilBCH_9sfSbR_b4UYvseG9tYFdKWwSyz-TVxk5yWLolo2P7nMO2hEtLGRybkkbOYvq9JCJZmHwRbC7Khh-nHGfGN3KRw4mkYIlL-vAbnh6QCmBYX2I~",
+    "securityId": "32vjkaeQfWgZ--X1yVaGlRAmO_Xxf_-02g7X6V2_gjdrsagCOCowPnSUyo9gLTG2UmxJPfUxhDyXmT9QYtJqunpKuVCADYdEj3FiM6U2XelfwJZxi4CTBs-ZPS0F__3239F2u30EQznRBIwq1JBsXDeX9Zliw_auDTS5cHztH7ZbGxexAT0~",
     "showTopPosition": false,
     "skills": [
         "实施工程师/顾问"

@@ -22,7 +22,7 @@
     "encryptBossId": "c2ad6e2a12e7fab40nd609-_FFs~",
     "encryptBrandId": "95b4b47ef9141c671nd52ty_",
     "encryptJobId": "e115e64f9c16156c03Z52dS0F1BU",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.492393,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 69,
+    "itemId": 74,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4ZjSxipNdOZ.search.69",
+    "lid": "4EQXZdCzLqt.search.74",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "QbtJ6Zqo02jbU-N1B1cqQyTliah09foX5FaNbM9JUFMpci3AeC9WnGiwThWZcprxUMaKiOVuZb2L_WFQfPQsAt_-k0bmWsXu8gnb3Asp1SpCCQOCrloWQHl6Bkam-CkuOmlmqzZCsyJw0oXIZWeU4yW3VXyu4jkWywYNFdJg8kjXpRQ~",
+    "securityId": "PUWcpeCOif1Bu-S1bvmJzPZKqcjBF-XqmEKNMKB8pQV8cI6u1yWEHzMy_jNrQuL6_dTF4FH5zjTNcrO-XtIMH7VTRuxVrtOlaO9seKSndW3GARrvNU83m9S7Qb0qNoZZdXSI5Enop-qY2aBHA_lCdcyKDghupEfLhUFxv4wmC7F-C48~",
     "showTopPosition": false,
     "skills": [
-        "IDC机房运维",
-        "服务器上下架"
+        "服务器上下架",
+        "IDC机房运维"
     ],
     "welfareList": [
         "企业文化",

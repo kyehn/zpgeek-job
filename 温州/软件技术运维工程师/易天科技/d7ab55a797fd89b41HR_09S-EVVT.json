@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220126/607f1f3d68754fd0e99f991d5f2ffd72227d751aa17fc95e81aa784415012d438692ca7b2689c74a_s.png",
     "bossCert": 3,
     "bossName": "蔡女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人力经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220418/7bf6f160950405e9f6cbfa1357fff3c16e1385a371aaebabf5393d789f3c313c8ec685159cae43c0.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 77,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,21 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9SSmPcNee7v.search.72",
+    "lid": "4EVAj10i1rh.search.77",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "hgaH5dCi-rnYe-d1SAtAB3BnJ7CF7Cyjo8r-tT7T11XxQouMTbXWCBnOBOWhM9FbwDmKTNhcdx6RK7viHTzwilsjX20eWEeO7c6xWQH5EY7XKnY4Xhw13xYSUcz-766aiPE-87PH_-c~",
+    "securityId": "aNKbsanIGinYG-H1yKpOFxH_V73mB-cHyuWnI74PYysudUpNX9Xyy4OvfkUUhsUzlgqlZDzIvQASRjr3xuTVnu4pIlQcnRLDUZYcKVSHKZPmju3l0pm3Mqhqvx6U0S11TM04TCq2X02Dmyn6MbOJkmWHu5X0C7ySCGnwLnI80WpYZ7E~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维",
         "MySQL/Oracle",
-        "系统运维",
-        "运维开发经验",
-        "计算机相关专业",
-        "运维经验"
+        "系统运维"
     ],
     "welfareList": [
         "全勤奖",

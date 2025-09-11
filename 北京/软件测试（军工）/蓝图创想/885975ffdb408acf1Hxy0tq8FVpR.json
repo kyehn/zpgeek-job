@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "魏雅菲",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190703/c19e1c219f698ab5b16f7d4341f62f22184f1cee382cc1d588eb8eb4aa077ba7.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "b4d7c884136c3b671HR43925GFo~",
     "encryptBrandId": "acd2bc1670f1a1411XN529S9Fg~~",
     "encryptJobId": "885975ffdb408acf1Hxy0tq8FVpR",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.982517,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 39,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1dHqIxbyDMW.search.28",
+    "lid": "4EIpepGP0uC.search.39",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "1g9rg3vB7hsSL-j15_LQofpMVql0hzdbcSAbYhoEl2LUqXMFW2nOz3LDt-7Q88WNswuXoeNkdpK_ggatUdPldgna9QnzBxQRY7N5-NjKOZrpFZPGOfhq5GfuW2CLE_sjv2L7eEh4pqXC",
+    "securityId": "ykG630MYX2R9i--1D-j_XKDDEzcpOYHpgfXGpGnUpIYs9L5jBzW8iK1xPFXA80jKYUJcudKTO1MnXJO6uBsSkOjZWOl9he9Ye55gTitMm65qBvKV7RIyyOkhsgc0rh13sl4BW9M5MP-IqFyJ34MxkkvoynWejRwaVO2qrr7mxJ6X1Rd-",
     "showTopPosition": false,
     "skills": [
         "地址信息科学",
@@ -59,12 +59,10 @@
         "magGIS"
     ],
     "welfareList": [
-        "定期体检",
-        "员工旅游",
-        "带薪年假",
-        "零食下午茶",
         "五险一金",
+        "包吃",
         "年终奖",
-        "包吃"
+        "员工旅游",
+        "带薪年假"
     ]
 }

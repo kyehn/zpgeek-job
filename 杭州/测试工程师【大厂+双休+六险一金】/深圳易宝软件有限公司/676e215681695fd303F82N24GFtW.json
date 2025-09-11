@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "余杭区",
+    "areaDistrict": "西湖区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240829/607f1f3d68754fd00cef482a5744ac657e5cdf3635c952d4791e12045a2ef74485f7c116b0f58ba2_s.png.webp",
@@ -14,7 +14,7 @@
     "brandName": "深圳易宝软件有限公司",
     "brandScaleName": "1000-9999人",
     "brandStageName": "已上市",
-    "businessDistrict": "仓前",
+    "businessDistrict": "西溪",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,31 +25,31 @@
     "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.28337,
-        "longitude": 120.023164
+        "latitude": 30.267023,
+        "longitude": 120.107822
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 29,
-    "jobDegree": "大专",
+    "itemId": 43,
+    "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "大专"
+        "本科"
     ],
     "jobName": "测试工程师【大厂+双休+六险一金】",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9SOErKHw2KC.search.29",
+    "lid": "4ESCM1u6WFU.search.43",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "M0YwwAJ5YrORR-O1VUCiXKNKjeAHKLr50XL8OFMM3VOmzN79OMROOe-Xxg9qq8sI72Womya27p8uhW1-8DFfk2e5_XfAvkCRy60BtlYpfs7tUTOP_nBbFgdXZ_GxLItm8Nsy1DVJ3zxoU8w~",
+    "securityId": "ZTw6ErYjuF6AJ-A1B4NP17dWVm7VetLXIT5tS3ejvEHn5-8QIjV-Yhr7fgOjU9TI21pFlTWJ75Re0HxSdmmX-ggoDWgn8Zj3W19f6JLeUVKyVefepdDdQYSHuwFcAGi_djxzy6Y-ZzmUc-c~",
     "showTopPosition": false,
     "skills": [
         "自动化测试经验",

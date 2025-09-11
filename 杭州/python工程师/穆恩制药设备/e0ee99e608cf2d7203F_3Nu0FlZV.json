@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241115/607f1f3d68754fd00dc3e8c1fad6b0eb5a4707649765db427c8e8c272dc3c1390a0294e83e88ce76_s.jpg.webp",
     "bossCert": 3,
     "bossName": "韩猛",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事",
     "brandIndustry": "专用设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240313/7bf6f160950405e98a22b1ffd4dedff7665a7a1e4cee722ce0c79b360cb0ec0cc46987bb265d98a0.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100907,
     "isShield": 0,
-    "itemId": 63,
+    "itemId": 69,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9SOErKHw2KC.search.63",
+    "lid": "4ESCM1u6WFU.search.69",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K",
-    "securityId": "xVZgjReXNK65N-41hQRXHKy3CGKfF-94qS9zuXB6VlVWnTXcEugLgqhigcdyblOBdaYXaXephLEIIdkbydGFooiCwC5gbGt8mheGV6ZO75K7jtIhZNxX2_ZXJH_MMLep-GRbSMHViYJHOg~~",
+    "securityId": "dyjXCQDTispbz-71tLjdD_lzX6j_nDzcmXQJVNteLsIF-8QbUEnmwLxG16ldU0zmSwVuciaywo0Ek5A9OiTM9mlJ5vPR8CtPxDoXhQBBql5b6NryT1CxP0Pd2x1HLDMz-W0Y5Gfl6zi-bz1EPfDcdkG2s7RQdUu5mwPWxAJZltIkSQcQPw~~",
     "showTopPosition": false,
     "skills": [
         "Python"

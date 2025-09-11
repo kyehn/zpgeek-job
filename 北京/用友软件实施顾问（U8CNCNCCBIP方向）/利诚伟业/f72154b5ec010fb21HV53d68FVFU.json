@@ -12,7 +12,7 @@
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160713/80878aed62b06cd8cdfdd7c3586d3a34f34c9fd0bfde69fc64c855fa5b663d90.jpg",
     "brandName": "利诚伟业",
-    "brandScaleName": "100-499人",
+    "brandScaleName": "20-99人",
     "brandStageName": "未融资",
     "businessDistrict": "紫竹桥",
     "city": 101010100,
@@ -22,7 +22,7 @@
     "encryptBossId": "46394f80bdec4f640nd-09q1FVdV",
     "encryptBrandId": "30661413ce1051b233J93dg~",
     "encryptJobId": "f72154b5ec010fb21HV53d68FVFU",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.94329,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 83,
+    "itemId": 89,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3PomRlztGuo.search.83",
+    "lid": "4EJC9RNKity.search.89",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "mNNSM18Fl1VNN-e1HN_DEdSkAbR1mDKoo3AGC0uUf9bVaMqpWisWy4NLwCN-LrR6HgUXfglAMR3UBqHdCy612aOvQrTxHkW0yp3a30nVfjj4IjvifzKnU4QwMc8xcIcZnstTMMDQ51U~",
+    "securityId": "uGIq0aYKFFYJo-W14vNHUe6Z43lRHG1Bp0Rv0lfFmZYaTLPd739dp6onx6SDHxryVIiSMQVocJuMurZBQwppgT7aU-INPt5a0lzb-ldsln1eb5JVQ9CF6a-KNvD_1ybQzr5PQ4rTJU0~",
     "showTopPosition": false,
     "skills": [
         "ERP",
@@ -61,14 +61,14 @@
         "用友"
     ],
     "welfareList": [
-        "零食下午茶",
-        "年终奖",
         "五险一金",
         "员工旅游",
-        "带薪年假",
-        "定期体检",
-        "全勤奖",
         "交通补助",
-        "节日福利"
+        "全勤奖",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶",
+        "年终奖",
+        "定期体检"
     ]
 }

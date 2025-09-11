@@ -22,7 +22,7 @@
     "encryptBossId": "e68dfdac1c5248380XB929u9GFpY",
     "encryptBrandId": "4d8aa5ea4fe6d6521XV909Q~",
     "encryptJobId": "a39d336968ff619d1HBy3Ni1GVNR",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.177233,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 76,
+    "itemId": 29,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fCHES2xBaZ.search.76",
+    "lid": "4EMqbKdx4hk.search.29",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "hrViozyO3lD1v-s1VPIV2YZO5Lvxe7Mo9lcI5zMU31nLTKoD9uWwOvpvCaP057ZKXxAaNwYDcliQrY5z-Tm9tpW0gqeIk83Nx-fOEEhmPGcCJ9H2z9Y7dqYAd2FAgtxXmT0ayUSSCnE~",
+    "securityId": "eW3do2MQVs69Z-M1C8rDhC06p9bGO5SAopIlKo7dfEFid4oG8zu_twSLCS6EvE_w2NRsM6mRZsHxFh162UTnjA56cytJry7fuJe09W6q-rTYNcgZO0qwnNAC0u-PARzPhLqXdpA_cKM~",
     "showTopPosition": false,
     "skills": [
         "iOS/Android测试经验",
@@ -63,15 +63,16 @@
         "Postman"
     ],
     "welfareList": [
+        "人才引进落户",
+        "带薪年假",
         "零食下午茶",
+        "季度激励",
         "股票期权",
-        "节日福利",
         "员工旅游",
         "自带健身房",
+        "节日福利",
         "五险一金",
-        "人才引进落户",
         "定期体检",
-        "带薪年假",
-        "年终奖"
+        "年终激励"
     ]
 }

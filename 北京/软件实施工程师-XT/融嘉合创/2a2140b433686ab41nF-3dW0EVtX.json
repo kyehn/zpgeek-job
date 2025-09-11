@@ -22,7 +22,7 @@
     "encryptBossId": "44facfdc743079600nF53NS6FVc~",
     "encryptBrandId": "4ed14c85a6b4b72b031y0ty6",
     "encryptJobId": "2a2140b433686ab41nF-3dW0EVtX",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.95448,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 60,
+    "itemId": 48,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1dIBstcPj33.search.60",
+    "lid": "4EJC9RNKity.search.48",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "pvE0Fbs8E7zjk-a13hMtHq1wRWvbgabXnfW20fnbJ0BV_ZZ4oFz-jckLl0UXb-D6f2dy-aOV9-To1NPJA1oRX6kDxOcXGcMBiw9hxs6y1EkrFfRtQgrBrGPaz4Ji9KHNJycZRNaLWEw~",
+    "securityId": "QxH4DE_BaAvwh-E14TXJxcbtifkNc-nN5Y6hGj2qAdOog-yjLzpF8Qfr3HNhfLMXsiCs7edjOoA-FEHoskge13m5fHvgFwgVxw-Hzb6Xk_UEnN9N2NBDxSLKi3enrlgP6swh_TAiZwE~",
     "showTopPosition": false,
     "skills": [
         "MySQL"

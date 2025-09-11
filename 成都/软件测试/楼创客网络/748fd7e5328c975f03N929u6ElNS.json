@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
     "bossCert": 3,
     "bossName": "兰先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事HR",
     "brandIndustry": "通信/网络设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101402,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 37,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4UhknI7kh8D.search.36",
+    "lid": "4J0KPEQO3K1.search.37",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K·13薪",
-    "securityId": "-8wipKEFtiUuN-w1niGPzSHl-ViiKiY65R7TlcQri8l7rItRcLpxq1WSNLa50pETVyfcWcVdhhf8x4-a3z8GLNzaGisVzVF73sAgFqy0zYJFOaRACXko7ZTCNdy7sTwZCrmrsFlAW7xcPFo~",
+    "securityId": "D3Zb-s_i1fT3D-W1PkJGbcLuHlMl5u493CK2CsvTOfy8dhrZXCuNiZFCT6snCVN2Z15YoeJhPMZZzoYMcuXn5HhCqrERerfz0wx7SfMmCxyy3k05jzQNq3Up0tihA8wge4PLlo1buEAo5ao3WiAS_S3Myf4JOo0xpHzbFBvlA_8c970-qU4~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

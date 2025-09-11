@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250828/607f1f3d68754fd034f4bc55319ca0722013b91f2e0e186a7fca6663a20fc3cc00e6b0f58d576e29_s.png.webp",
     "bossCert": 3,
     "bossName": "王周荣",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人力资源",
     "brandIndustry": "电力/热力/燃气/水利",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101205,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 13,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4UbeSgJ5Aag.search.28",
+    "lid": "4IUFIIQPSgs.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "XlPZsS5zEX_TK-G1ydwaS82gjtjZS7byDcVwICQ3fK55mBfgUHR-rkdnwHOit_IvlaV7mhUcRJxdY6nZPGifYsIZ5iaoukXRBGLn3eMFO7lcN5SSaYpMldLI4Uwz-GDXR2wH1vuVLFs1tnY~",
+    "securityId": "G1bI2pEQQ1Vxb-b1aUfVDvIPmFlXyWcCst5ogdQzRNfsuvQHkCsfRi7KnEzEvwcVGNVIuwEiAXd6UZk3um_6EymiR_cp-d6di6WET9r5WTiuGNIVbykjzsK4wQRatW8lEHzH428OYtK8Wh9z2lMASd4LTzDBK-ufyOXuBXPcrCbX_VEGAac~",
     "showTopPosition": false,
     "skills": [
         "软件运维"

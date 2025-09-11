@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 84,
+    "itemId": 83,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,22 +43,21 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9SMMz1f2wO8.search.84",
+    "lid": "4EQXZdCzLqt.search.83",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "fnPsC1ii1xQaS-51MyM9M0ux3S-GPnRg9Vncuw-FdELNEQyoc3hQT0Plyfss-rALCr7wY0-MpJrPRkgWTBjowE81OB3geudPWdGhMhRt8c66ulOWvTTqtvEDu3DCyNzDokHof-FdqeEb5Qo~",
+    "securityId": "jKfhawK8kiIWI-r1bYFZZvsgXNpSS55a9amBnJDK_ZOVWZTONigXpclWhOvV6A3yYKt9huFS-kvUlsHTQvxNMKMw3pkx1K_JcQLnxk2oF2u8kU_T8zhcMt3J2rH5608qOlvb6QIlEndXWKE~",
     "showTopPosition": false,
     "skills": [
         "RPA"
     ],
     "welfareList": [
-        "带薪年假",
-        "团建聚餐",
         "节日福利",
-        "五险一金",
-        "有无线网"
+        "团建聚餐",
+        "带薪年假",
+        "五险一金"
     ]
 }

@@ -4,7 +4,7 @@
     "areaDistrict": "静安区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250409/607f1f3d68754fd0fa67ea1236f2e7ba61cfdb465a990c5a51f413378774425e9f56807aafc759ab_s.jpg.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250820/607f1f3d68754fd06ff7b5c006304cb152691d2f0b60a2b051f413378774425e9f56807aafc759ab_s.jpg.webp",
     "bossCert": 3,
     "bossName": "刘女士",
     "bossOnline": false,
@@ -22,7 +22,7 @@
     "encryptBossId": "9a3414facd503a180nFy3ty5GVpQ",
     "encryptBrandId": "1782af29734c99291X16092-GQ~~",
     "encryptJobId": "0fe9ea95595f154103Z73tq6ElRZ",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.294447,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 73,
+    "itemId": 24,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fCHES2xBaZ.search.73",
+    "lid": "4EMqbKdx4hk.search.24",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "mUgjKO2ul3Ky3-11b7GvAFdFNUhFA1Us4K7FWQZKRB7dDc18IqDQCzruq8A9qMn0fdgvmRzogPdgfHB5Jgn273MNIw1_XOpHpNWcXiqYPqH17ioyu6Cw0ZBBvVOs-uNAbO_ornKuDkYn0A~~",
+    "securityId": "GgNcEr_atxlQB-I1NgQaJxd-WuBhFC8iftBwIzMFpOWthQ0Pz08kdg-xOoD6DPhiwOgx76yLiT-Te7QcrUwThkbt_hIakg-3iRqOfNiKOqbzCi9aXgDpPCQw3wTfEgkSGfgGtIEhnwxdEQ~~",
     "showTopPosition": false,
     "skills": [
         "Java"

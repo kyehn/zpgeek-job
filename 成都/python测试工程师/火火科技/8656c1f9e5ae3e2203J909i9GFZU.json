@@ -1,10 +1,10 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "郫都区",
+    "areaDistrict": "武侯区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250910/607f1f3d68754fd0ea4f565f5395d60b44c8b5635e315a1f42b6b0a761f8abb808d53acded7c992f_s.jpg.webp",
     "bossCert": 3,
     "bossName": "唐海彬",
     "bossOnline": true,
@@ -14,7 +14,7 @@
     "brandName": "火火科技",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "郫筒",
+    "businessDistrict": "紫荆",
     "city": 101270100,
     "cityName": "成都",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.79350099391716,
-        "longitude": 103.84145202292306
+        "latitude": 30.589624,
+        "longitude": 104.06627
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 4,
+    "itemId": 50,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85fst5hanMP.search.4",
+    "lid": "4IZCoCNTufQ.search.50",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-10K",
-    "securityId": "M9xHXJA4_6A05-81zvWUrXbNRPtgRyi_xtFz23r49xKVXE1WiSbVQ9o-0FdtndRqaNdH1eAfxvkmmDSM9mM4dEsTn6hi8aHIein3lPQuV5-eE2_qTS2mbYjuGGpcu_bAVq8hynqhLjoU_y_0Ryros4743k2MN1o_Ym7W9a4AtW9iOQ_2IP4~",
+    "salaryDesc": "9-11K",
+    "securityId": "WjqIcyMyQU6z0-w1JTr8i9fpV4jVnETOV_awwgnmU3AhbQFv1PlZ74iiU914C2ClsFGfSVuaWNUc6H4j1wMyeuIJk2OQBKazWPR1lzB_XUVpv4oYPJtfNso5KL-bcOKUEXyoICgtAFz1z7pasZJpqzrpxhTsFCNGFkxiyVFoxw3HLtnt38Y~",
     "showTopPosition": false,
     "skills": [
-        "Python",
-        "Linux开发/部署经验",
+        "服务器",
         "UniAutos、存储",
-        "服务器"
+        "Linux开发/部署经验",
+        "Python"
     ],
     "welfareList": []
 }

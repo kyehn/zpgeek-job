@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
     "bossCert": 3,
     "bossName": "姚女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "电子/半导体/集成电路",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100026,
     "isShield": 0,
-    "itemId": 61,
+    "itemId": 54,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9SNoKZ7fzhu.search.61",
+    "lid": "4ERwgERNStF.search.54",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K·13薪",
-    "securityId": "dwKkyoV5CFURH-51XL-GOy6G5HYTODr1H0coH6L8zJys6jV-yK1m35-lMgtx8QAZnBwxgKjCAGt9bqHBrqPHuk96MT4hCRpVwP3MjsPy94VPToaW2ORFuGtxCNDExTas-Emh8PLgCu3CCw~~",
+    "securityId": "YB_HhfsWJgMWN-q1H16D7HpJMtCqGBjO4Rg4JidtNrpeZTm9NA3DSxPmlPDMWCECdDdCSnJ6LPWzDROui7dLOApUf0GukAQHeMBhnXz8-3BA_j7dsSM2y5TAc9NagOSw08iFvmdNuVF8GvYaTpwuJTqIIGuJFCv2ySW4iFCpiWP-TUtusg~~",
     "showTopPosition": false,
     "skills": [
         "Python"

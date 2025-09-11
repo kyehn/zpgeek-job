@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
     "bossCert": 3,
     "bossName": "张女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250714/7b5b554d84f9729c09f5351a13b74688417c8a9987ce20e26bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "8ebaab442d61b2bd0XR73t-7EVBR",
     "encryptBrandId": "eea963ac284bd7ed1nF53dW0FlU~",
     "encryptJobId": "0b5714b889376db203N63t-_FVRU",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.260207,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 42,
+    "itemId": 16,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85By20SBxYW.search.42",
+    "lid": "4EKJCdiT8u1.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "3Ckh2JNtRL3jC-L1bEBahuOik0OQRnvd27thgLXPHwftCCLZV76FHO_nph5f43EzrGSf8MP9y_PrhqvE4HR8plC-DAxm4VPe6DBlzkKujbYmpzLbgQP2-SmLQsISXkudbnZiXq3BK5SP7O4~",
+    "securityId": "m91C-1F9MtJZj-O1CmSTpnhSz81qnHh2ZDggw5oO7-1qKTuXAjna_RfI0piKhnbvxQ0X3Xfm5GrN42b5QE3LaA_MI82PO7FZTFUnF7WtdyVO3e7Obk3qiNKMITKEsb3JcLFgwsU1XR4rCkr0HvkNN6s2-yMujWM_y-dJ4CbXU6w01N8iKK4~",
     "showTopPosition": false,
     "skills": [
-        "电话客服",
         "不含销售的客服工作",
-        "倒班工作制",
-        "正常工作制"
+        "电话客服",
+        "倒班工作制"
     ],
     "welfareList": [
         "五险一金",

@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191117/a51fe40c8239e30c4fcbd0273f3fe85c351e50661217f9cc0b97681827cd0b4c_s.jpg",
+    "bossCert": 3,
+    "bossName": "刘嘉",
+    "bossOnline": true,
+    "bossTitle": "招聘总监",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240221/7bf6f160950405e92cc98006676693cd17a2c801e7d9c4200b0e824f987c19804497672f64efaad9.png.webp",
+    "brandName": "敬博",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "浦江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "41052f746912cd7b03Vz3dW7Elo~",
+    "encryptBrandId": "6d1733c70cfd274c1n1_0tq7EVI~",
+    "encryptJobId": "0c606e1ffb609ee403N529m6EVBR",
+    "expectId": 1334030427,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.099934,
+        "longitude": 121.523122
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 38,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "云计算交付运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4ELS2PhqWWv.search.38",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-11K",
+    "securityId": "-t7gdZIFpG2mm-01xFSBmdUaUySDlwM7BIt0grywQZrBGX6r2Pb9hspblOcEvEp-4LJwdULczX6vjHkGplIjDdIc-l58OdjNqRgZ2qVUW6Xx0Qbpf1XnqUdwOtOH4E-4yEDjRmOrdKEwvnaLlJiQwkFeUilU7P1yGeGajdoovYV7ZFxwHg~~",
+    "showTopPosition": false,
+    "skills": [
+        "云"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

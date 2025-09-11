@@ -22,7 +22,7 @@
     "encryptBossId": "3a93d3fdbe53f2e40nd539q1ElA~",
     "encryptBrandId": "9c47d22a41cfde371XR709i1FVo~",
     "encryptJobId": "33d689a997b79eee03Z80t61E1FR",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.20285,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 20,
+    "itemId": 21,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,14 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1dJHs6dWpHe.search.20",
+    "lid": "4EKJCdiT8u1.search.21",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "EhR6mHtoxZtBL-v1OvkjY7bp1a0BZllAB1GEFTCYY7NDgNI_rfScav9G5KOkdKzYN0a3mwf6zEHgdqhcWSKg9ZdMY8Wh0XmRNed9hlULOtnVziLS7sYXBMHPhNV9MDKrsuNCPui_UMOT-fs6_EvovotZnWR436pg1oM-yYoyopsxgbOpCQ~~",
+    "securityId": "QBZkgpmurdTkm-d1eru1HF_2RV1pmbLdqu_-kMpJSh1zJpZjD-lnlss4l71S4j3VDsdoo7GJy127_BF85cpR61xEujX_IMamIjG3FAYeSOyEAPCAI1SMklT5fyKkNfQKRlEAXIf0WUkQr58cLhq9T7XGYj6aQiLOE-QnH5baqEOBGoxQMQ~~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "桌面运维",
+        "网络安全相关经验",
+        "运维经验",
+        "打印机/复印机维修经验"
+    ],
     "welfareList": []
 }

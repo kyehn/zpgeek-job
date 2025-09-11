@@ -22,7 +22,7 @@
     "encryptBossId": "5fa40af6d2fca81f1Hx93t-6FlA~",
     "encryptBrandId": "52aa091a0a947c2a1n1429W1EQ~~",
     "encryptJobId": "74c14081907ade3603dy29y9EFpY",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.273193,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 49,
+    "itemId": 40,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9b17oGdszFJ.search.49",
+    "lid": "4ELS2PhqWWv.search.40",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K·13薪",
-    "securityId": "LzjCVLIt-vPWe-M1xOUYmQ015hlaE5583QkdVgxpywFv-xWgSoB4Sts-SKP0vOpdzSpJrZnE8iupXSqXLhZnGPmV3fxhl7piGZ1jQhHb0VG71zjkeMbVl0B_kJEdpHN0dVp_56V2aB8R",
+    "securityId": "92Dy6PBHhh0H9-k19to3UyCppV0QCgIXTecmkf1E7xYLjEMGyczp4A7buAwUA8CX8A22_rFZsQD7BtJyB4f24N3Nd4gW-JLO5BOY9mpa6RBatjjbl_ATuxQj5JCWfizwar-UemBRx52H",
     "showTopPosition": false,
     "skills": [
         "Python",

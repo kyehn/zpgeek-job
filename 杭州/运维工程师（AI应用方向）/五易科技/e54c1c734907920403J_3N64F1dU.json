@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230315/607f1f3d68754fd07f64bd477e0c9f45208633f404214e8f2a8e6861237fe3a1a6c7c77c6f88f496_s.jpg",
     "bossCert": 3,
     "bossName": "周颖",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181130/0ed2ac917f7a666aa4f116ca153e4735cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 37,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,15 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9SM53TOGlwY.search.35",
+    "lid": "4EQok4QIW2a.search.37",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K",
-    "securityId": "lBSRXFniidm3P-h1buxQ-FE-DgDM3gEmPN9TH6inPLHBRSQTVo5eiQG0HPUxPhvaFobqddTwyObWHzyQ0A38xD8lJmTyjkqmsiIy-pRAyl0rrOrQdjqHFbtAcAP0OdUegrGeQ8YVnqf3",
+    "securityId": "Wpa78YXmug7ND-r1el9JNaUY5RIuWvbYR7KMcWms_-pTRPt6GtrkRyFcwgilQGr4kdZgu1e4M3SnuanvkpBL7wq8D0ytAW0DWQyyOZ9niHYLUZ2JUjT9fyo0m7K3yMZNHu2oc2v6DvR82rrPuXTWnS9KXU7KAuJpRy1rp3z8Uao1i6bn",
     "showTopPosition": false,
     "skills": [
-        "数据标注",
         "图片标注"
     ],
     "welfareList": [

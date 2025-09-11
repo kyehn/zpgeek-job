@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "HR高级经理",
     "brandIndustry": "医疗健康",
-    "brandLogo": "https://c-res.zhipin.com/jrs/d5184a5be97b0041869c41c6624d8531.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250715/7b5b554d84f9729c47d1f36ba0d7e8ba344f41c0d221ac966bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
     "brandName": "数坤网络科技股份...",
     "brandScaleName": "500-999人",
     "brandStageName": "D轮及以上",
@@ -22,7 +22,7 @@
     "encryptBossId": "82fd6fa22c1fbd8c1H1709q5E1U~",
     "encryptBrandId": "293548364dd0485f1nxz2dW1FVM~",
     "encryptJobId": "ddc0d19a21e1ad8c03Z809q4E1RQ",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.161591,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 50,
+    "itemId": 34,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8PAAJV4Ml4R.search.50",
+    "lid": "4EMYisQECQu.search.34",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K·14薪",
-    "securityId": "zzAWgY9ss6IDQ-N1yAwK_erPnJaiyiM3MGHu-392QGNZzZfbTgoTn1onbJ8_dNJIDwVVY-Fr5GeKsgPlmqsSv1PwERyIUl4knIGjC2cvkPqkiBF3Ksn0r9n6l-T1l8ZbjkYa2sASrJR7TQ~~",
+    "securityId": "L9XCIAF0lmoz--p17Fm8lC_plp_SVq4ZFzrmyNDTNFc3F7CcncBj-cPEig4-qx85xJxMXXLc1OVM8e7Bd7pjBBGgtqV_BiP2dpg326v6YLCmpuJYklxwGryqMKlc-2DncFh7T0M7m5AucA~~",
     "showTopPosition": false,
     "skills": [
+        "Java",
         "自动化测试",
         "性能测试",
-        "Java",
-        "Python",
         "MySQL",
-        "接受实习/在校生投递"
+        "Python"
     ],
     "welfareList": [
         "法定节假日三薪",

@@ -14,7 +14,7 @@
     "brandName": "好思达",
     "brandScaleName": "100-499人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "滨海大道",
+    "businessDistrict": "金宇",
     "city": 101310100,
     "cityName": "海口",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
-        "latitude": 20.025298,
-        "longitude": 110.332647
+        "latitude": 19.976266,
+        "longitude": 110.334897
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 39,
+    "itemId": 90,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9SSmPcNee7v.search.39",
+    "lid": "4EVAj10i1rh.search.90",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-6K",
-    "securityId": "vA6broOn4Sls3-N1hlS5D2qxzlsiW_6Fx30raWsG22u-AgrB2kS2oThLcMv6fjlN3tuFWjdmS3MWss3QmfNv1ygv2ucGmc5611H99SnPxoSTYgxvW26t_ar9Zof-Cxn4EZWdeI5VtYCiOg~~",
+    "salaryDesc": "4-5K",
+    "securityId": "qTGy0F2nVD2uc-u1drzsB7Z7JgEBiMM4T8Cq3q7QypRqpmCGkfLzuj-M3XUIv8Pl1AuY0fstoj453LFo6rSjjJHBFHhrk7EK8BDQV-m_36QMLmBR0FrkLIL9RdF4kT4C9ThSTUa8pvWMvQ~~",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
     "bossCert": 3,
     "bossName": "辛宇豪",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "行政人事主管",
     "brandIndustry": "其他行业",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160726/59d69d8ca202af743e6f0877c10cca2a7a330a5cabbd8c9816e8f9d64cf923ed.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "ea4ae50d984648d70XN62Nu8GVQ~",
     "encryptBrandId": "f4d057ed97a277671Hd409W1",
     "encryptJobId": "a076e0910279f3c01H1y29y9F1NW",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.410596,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101304,
     "isShield": 0,
-    "itemId": 30,
+    "itemId": 11,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1enXQvAKwoo.search.30",
+    "lid": "4EMYisQECQu.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "HHGvL8Mv8Yd6O-x1NtBIK_c1347rdXzvs02OJXXri-lGHx4R1DqLV255UZSC8By569aE5lQHIA5s1Th1eRlD2LUFzOd6kEUF95oc_wSKqqDeE1OS-u9peRMh4WlUlgJ4FC9b9qkVEfU~",
+    "securityId": "SuEeG0NHrs_gA-z1ZmfzS0FShEVgDXrNmyfrV3x__z5eYKQn2nlxN1_flItb268AWGc4Yseg6FKQVPHx2HjFUhgQ9J0GE4OMr3SrbhT0_MbI3Vd8O5fon1ZuwWzIPN2cdQ83xVdgcwcg69o2KQDjILQn-ifcRh099C4m3i5kGQ-6K_E~",
     "showTopPosition": false,
     "skills": [
         "可靠性测试"
