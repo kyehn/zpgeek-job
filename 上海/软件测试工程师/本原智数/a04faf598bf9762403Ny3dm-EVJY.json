@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "徐汇区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221231/607f1f3d68754fd04f969dcf1df977396616ac815aa3973d1cb7f8112bce287e7b9639b96bd18908_s.jpg",
+    "bossCert": 3,
+    "bossName": "黄先生",
+    "bossOnline": false,
+    "bossTitle": "招聘主管",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240508/7bf6f160950405e90e22440f08f5454aa4e8f2f9a602bf48a721dd6624dee98ec17edcc98b7b36f9.png.webp",
+    "brandName": "本原智数",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "漕河泾",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ebf6c5b1012dd55603V63tm6EVs~",
+    "encryptBrandId": "df2ff527436fe3381HB-3dW7E1Y~",
+    "encryptJobId": "a04faf598bf9762403Ny3dm-EVJY",
+    "expectId": 1334030427,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.170706,
+        "longitude": 121.400992
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 58,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1NkLIh9kn5u.search.58",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "YrekrvQuv2aJy-d1F-PgrmOUHTIpn71VOWYWECIZ1Vi77SUqfBzHF9QKhsA5QfpaA36RqPzdg9gBrw4kAtSjNepivq3nE0s6zWYiHkVmzVln4DdHTfli1CouA_3TRNiD7WIAOmQKnXL12Q~~",
+    "showTopPosition": false,
+    "skills": [
+        "软件测试"
+    ],
+    "welfareList": [
+        "股票期权",
+        "五险一金"
+    ]
+}

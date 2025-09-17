@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 27,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4EJC9RNKity.search.25",
+    "lid": "1NeuIJ5P2Wv.search.27",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "6NtBP0-lhKhw4-T1Ys2h60bVcxp0Gp_LXaQ5IDjORVy_iTWkFXp0o3PAqbrVKLVX8mgBmQD6IedQf8IzJvRr2gORbE9VG970nchh7sJKc7bQuc5z7aFR-P4cXFjwBW4QPEa7CO6saRxPog~~",
+    "securityId": "1NFLSf1Ri0kQa-b1CqS2vMNI6uFCdNJGC6sn8rfOGIHTXv0XjxVEg7-LMPXx0Gkf1sLrGSpfkbh0l6YmrvCvnoWQoACmBljfYgE6tzUaIFSmRKq3DaI2snYxCPf3hXm6E-XbBwOrB6qkxQ~~",
     "showTopPosition": false,
     "skills": [
         "MySQL"

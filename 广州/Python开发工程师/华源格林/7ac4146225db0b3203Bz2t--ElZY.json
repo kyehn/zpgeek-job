@@ -22,7 +22,7 @@
     "encryptBossId": "ca1973bb0f048e421nV42NS0FVZZ",
     "encryptBrandId": "29f659cc3a58f5e51nZy3di0FA~~",
     "encryptJobId": "7ac4146225db0b3203Bz2t--ElZY",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.131808,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 6,
+    "itemId": 89,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cV3g8xeL3r.search.6",
+    "lid": "1X68srbbQL4.search.89",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K·13薪",
-    "securityId": "URq9lHi8ac7g7-I1bPDvXOBbxwxUMec9-DemVf_bMIvAg7ZA_6kT59B9SmgvBwuGigaTTduWlrAelAhzj95FXPeLqzUnAIqQSa2vWNvGD2QiGPwiMjPRGCjqthybAL-y3RgI-c4foVaxuNudgl064mXSGlxKQdkxt8y37IwALJ8cAFRu-A~~",
+    "securityId": "BcSL9qKPX3A8V-r149eTVZ0HTSeSRfgtcPyEdf_S5c6-yUD25B3JYXeGOGOMs6eoIBG5TYVQ1DpX0gkROq5Uu1KYXkWMO-FzMSUCWHf4N4G57OcIAYwRrjZuiddV2I3PH8mKrRW6K5-BbyXORxOKI7Ss8mO5qVWuyIRlCpxHmUUuTwrRxA~~",
     "showTopPosition": false,
     "skills": [
         "爬虫经验",
@@ -63,17 +63,17 @@
         "Flask"
     ],
     "welfareList": [
-        "交通补助",
-        "定期体检",
-        "节日福利",
         "全勤奖",
-        "员工旅游",
+        "节日福利",
         "加班补助",
-        "带薪年假",
+        "住房补贴",
         "餐补",
         "通讯补贴",
-        "住房补贴",
-        "五险一金",
-        "零食下午茶"
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "定期体检",
+        "交通补助",
+        "五险一金"
     ]
 }

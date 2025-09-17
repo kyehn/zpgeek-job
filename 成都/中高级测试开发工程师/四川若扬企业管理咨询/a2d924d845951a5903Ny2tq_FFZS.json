@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "金牛区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250905/607f1f3d68754fd0ae6a4ff486626e54406766bcde668e282f6bed3b8e19e487bf89567e453ebd40_s.png.webp",
+    "bossCert": 3,
+    "bossName": "何帅",
+    "bossOnline": false,
+    "bossTitle": "何经理",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250902/7bf6f160950405e97fef13d43b5f11f1549b8093dbbc9621eec7aa442856fbc428a13902f0f6f9d2.png.webp",
+    "brandName": "四川若扬企业管理咨询",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "人民北路",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2707ac61ac7b183a0XZ_29S8GVtS",
+    "encryptBrandId": "d9ccd41f9eaf402303d-3928EFY~",
+    "encryptJobId": "a2d924d845951a5903Ny2tq_FFZS",
+    "expectId": 1334030427,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.689196,
+        "longitude": 104.073862
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 40,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "中高级测试开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1RpJTAkc6es.search.40",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-12K",
+    "securityId": "ouf5wdsObKHUQ-y1Y5OZeXq444CsiiYyGr67I37Kn3dEq84J6evMx90beFnm_6JPmGq5UKIwz212cghYtfZl4X_nC_kcUdoW0vimL1TJWAYUS6F96dvKuH9nyvEfv9PNNlCe6shD-K3q8vQ~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "测试工作经验",
+        "可居家办公"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

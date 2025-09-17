@@ -22,7 +22,7 @@
     "encryptBossId": "8375254cd91600820nR73N-6FQ~~",
     "encryptBrandId": "a7391833c6cd76a81H1z2N0~",
     "encryptJobId": "56a4c53d249d9b761nJ53NW-EA~~",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.81205,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 104,
+    "itemId": 87,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "E41EDw3yEo.search.104",
+    "lid": "1X3SUNSj81P.search.87",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "FrTq1kBKUPlCM-Y1CZeOeyq-O-DT9Ns7B1XcCQebBxDe0liBBPbBLOrUhNQfJZRF0LQvSh2frM7_xmxzwUhi6yOeNqI4Zvqfdjs1WMq2WPb78aucp3_PWK2Sha1BnmBo1lSPxA~~",
+    "securityId": "rx4MaLlqT2UG--e1y4GMMf5pupVM2WDfxwAtoP-H5RWg_SQY0M0YFZg4und93EfyPLwM7Lv1P3hBeI3FjKwjsAN1IcQD78XCRVhFsWgWaXeo-AYbSOqerdKsHZz-IgeJ-nLCAw~~",
     "showTopPosition": false,
     "skills": [
         "centos",

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240923/607f1f3d68754fd0e834bf2097598ad3ccf07b3110b209252ebb9330f31ac061c9fb8b066bc31b87_s.jpg.webp",
     "bossCert": 3,
     "bossName": "洪女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "hr",
     "brandIndustry": "游戏",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240402/7b5b554d84f9729c8958f297346459ef871a55e4b863eb161c24624d81cd59a1f44d391488f9f248.jpg.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "a4c0a8f774e1e8c81nJ929i1Ew~~",
     "encryptBrandId": "7d04dd502892d4851Hdz2Ni0ElY~",
     "encryptJobId": "7727b95d08df95f71H1_29m8EFdY",
-    "expectId": 1213281944,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.267216,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 38,
+    "itemId": 81,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aYI4bRL6Zh.search.38",
+    "lid": "1NirIKKPNaF.search.81",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "3-5K",
-    "securityId": "2V-VTB02YXCaN-Y1KMTPWJZ56dcqL5eDYwYZsFC-y6apTX8gWCKYtQoO7qJYzs1YtvL37fxecoazCPTEI4U62Gdx99fNhy-24ExAyclo_P87s85ev1WFLgcfmqXv56JBAoYIr2V2aabKSPbhQYUloC35uNrUalVtNPYjFqL2KmdDQQYP",
+    "salaryDesc": "4-5K",
+    "securityId": "VQ_p_SoJP9V5V-q1eyMKgfUhJnZhVpDf5LP28ZlHaJwKGkvnZxx5Jee5vZyjSxX7q2BBoDajG_bgabgNSVkOWC0242tYwgzD5Q1SqNSDIyu2TpUugCqMs5wyTY-0qmEzMGtYsptP1-7l",
     "showTopPosition": false,
     "skills": [
         "手游测试经验"

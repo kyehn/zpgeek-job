@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
     "bossCert": 3,
     "bossName": "王先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 34,
+    "itemId": 35,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4EMqbKdx4hk.search.34",
+    "lid": "1NirIKKPNaF.search.35",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "0zaHjm2YbamNn-Z1peTvkS_YHgXtOG5IGIp1j6L8cLHpglL_KsFuqaUYA3hhtM6UQ8kMopx80FZ7iDUVYmtzJX76OrA-7pE10iQkw8IfGeSJeR0LTrNifIvwM167ZU6KXLGZTUxnfjT_U6puZhApMUa8EX-n2eJv5KVoQOTQW1jJDB18DOM~",
+    "securityId": "oHmxUiKh1KiWs-I1Ybd5N1yrIEla20awOiM5pmTq3bnnib9UUGcqcIH42lcl9pJ4fRuBHPMNGf7Rd94zryZz8_f6DADb3xb7JD4WnJgVsyiRR8uCZ-OFYrHUbYRsFgHCZML1ljz-OuLvy0k~",
     "showTopPosition": false,
     "skills": [
         "数据采集"

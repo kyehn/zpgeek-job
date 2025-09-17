@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 86,
+    "itemId": 82,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,23 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4ESCM1u6WFU.search.86",
+    "lid": "1NriJAiX3ir.search.82",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K·13薪",
-    "securityId": "Yufh-SONN3GMB-d1DZKnBgzEuMR9rBqFAaqGAae4BbO9QqB0YcFy9XHzXY8n69zitykfz14FcjO8q6M2YIgEeJ0X5f2MH5Z6sjT5cS850DsS9oo1q6UjXzmIT-oLg6zkzFhJifbJWA7m",
+    "securityId": "1duXMOAVvoboK-d1HmdapQg_hM78dVKTWc32Gy-3MC82GBfR4E3WpHNVrNuvqKonPnKiGBQFrNntlEO19LOJcrLp0-PtUbyQ9dJU7XaJQCY_o5q_dzOSWZyYyRExIJFnrIqGheLRRZbA",
     "showTopPosition": false,
     "skills": [
-        "自动化测试",
-        "嵌入式测试",
+        "自动化测试经验",
         "C++",
-        "Python",
+        "自动化测试",
         "通信相关专业",
         "嵌入式测试",
-        "自动化测试经验",
-        "掌握软件测试理论和流程"
+        "掌握软件测试理论和流程",
+        "Python"
     ],
     "welfareList": [
         "员工旅游",

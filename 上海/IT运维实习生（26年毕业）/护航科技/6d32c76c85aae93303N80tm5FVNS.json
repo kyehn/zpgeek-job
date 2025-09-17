@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "浦东新区",
+    "areaDistrict": "嘉定区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250424/607f1f3d68754fd04fa3ced7af85b9d2a5cfd50d6d8c2aa83a400f09d3c70e75f0acb3cda3dcec4d_s.png.webp",
@@ -14,7 +14,7 @@
     "brandName": "护航科技",
     "brandScaleName": "1000-9999人",
     "brandStageName": "已上市",
-    "businessDistrict": "外高桥",
+    "businessDistrict": "嘉定镇",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -25,8 +25,8 @@
     "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.32336,
-        "longitude": 121.603189
+        "latitude": 31.419891,
+        "longitude": 121.211662
     },
     "iconFlagList": [],
     "iconWord": "",
@@ -43,16 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4EK9zlItfdC.search.18",
+    "lid": "1Nfc7C8pF8B.search.18",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "MdLWqHTg-Jx4T-o1zoiz-wwjs_5Og5I999K3tPqNLN04rSZ1FfEQQLduXSOZcG7vrb2wggvO8usjQpoh3nGi9_rkbnEM0b-WL-X5TuytITlRLqONSlMTHT9dZG3dxRtGNht0QMrlck8wsA~~",
+    "securityId": "2Pwa1YyGwRGAr-b1vOzu5AA2f-mGh5fXhoGgKI_-wRBY96In195pX1kYRvYzGPXBU6o_wOsEeWKZgOM3Z0eUilY1jHkpwH3iW2rf9jCy6HFcEtOayUk3JScboriQFjkQPYswA6uZb8ljAw~~",
     "showTopPosition": false,
     "skills": [
-        "桌面运维"
+        "桌面运维",
+        "26年毕业"
     ],
     "welfareList": [
         "员工旅游",

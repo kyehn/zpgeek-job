@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "水磨沟区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210907/607f1f3d68754fd082c9b1d135cbeb745a4cb1576e4070ccc634cb5cd0f99151ca232d61ccaf8e87_s.jpg",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "交付经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160722/59dcf69e1038e1cd232f265a2287ff8b364962b5535b9b61faee41d8fde3cc38.jpg",
+    "brandName": "万德软件",
+    "brandScaleName": "500-999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "南湖路",
+    "city": 101130100,
+    "cityName": "乌鲁木齐",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "29e6c976eb4f299b1HZy3tq-GFc~",
+    "encryptBrandId": "29fc84c0053e40cc1HZy09q6",
+    "encryptJobId": "3d9dad9452e1c54203N92t2-FVRV",
+    "expectId": 1334030427,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 43.874556,
+        "longitude": 87.623846
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 82,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1RkjXfq4ki5.search.82",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "Gsd1JsJiuss8w-E1h27hqdHfs41zfy6aS3JAeO5A85l8I4qzcDo4JCgRxWPIPFt_sXXfNGWGfOoV37Ps1qizgSdML0pipey49IpCDEtOakKe2EsskAvrjSRA2dLG5fJbbRd0JhP5kMc~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "MySQL/Oracle"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "定期体检",
+        "五险一金"
+    ]
+}

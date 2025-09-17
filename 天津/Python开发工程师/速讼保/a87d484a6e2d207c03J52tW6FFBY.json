@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "河北区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211201/607f1f3d68754fd0a7d325fd2e4f7ee7fc6be9fea66da6f37c08ea0754490d68a72bb224d34e0fdd_s.jpg",
+    "bossCert": 3,
+    "bossName": "杜女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "法律",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "速讼保",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "中山路",
+    "city": 101030100,
+    "cityName": "天津",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ed9f76bf9bdf11bc1XR-2NS1GVA~",
+    "encryptBrandId": "cc1b59537b55654f1Hd839m5FlY~",
+    "encryptJobId": "a87d484a6e2d207c03J52tW6FFBY",
+    "expectId": 1334030427,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.167832,
+        "longitude": 117.201027
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100602,
+    "isShield": 0,
+    "itemId": 82,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Python开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1RpJTAkc6es.search.82",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "Yz42ImclHRNog-g1FOqxnxdv_jBOyKxh4LFfVC9xZfeRDVQr66tf9EvuWz0t1Wrn3oP-Zi7qbGvK8zndGRs3BkNGEno0SndGKxmWmowyjHxOpTRbLgfN9iKPuklhgVG2laBA_sB55M1tyw~~",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "保底工资",
+        "五险一金"
+    ]
+}

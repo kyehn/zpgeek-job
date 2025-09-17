@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "朱牧",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "hr",
     "brandIndustry": "通信/网络设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 26,
+    "itemId": 24,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4EKJCdiT8u1.search.26",
+    "lid": "1Ng4Z6aInNe.search.24",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "Ja-X0a_5ZSnGn-u16VR65-8fMHdi3kczK1-wtx8PLxuJgl4Uw_LearTbWUUwEY48JvzN_aLHai08gZKQHvUhzjvcV7guC3Z4pEP5AvzFplq5uMc6kgijkMF44GsnhI6fTOhp2f1PSu-4SVgBWTZ30LW5eI1kuM12W2_3B-oxu1qN7GoQjOY~",
+    "securityId": "Lsu1STWaD3Hom-K1KlKSAlLWmhyozYp5ZZvS_hr8nBSKIJdqoe2L9rfrgydDWkqiQtY79AkDVDEKofIKljnyuEYfCPvX2agO-WAb07HuZ8jtMNb1EMMWzwWPi75x_u6NCG3O5v6tTHcd9yU~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维"

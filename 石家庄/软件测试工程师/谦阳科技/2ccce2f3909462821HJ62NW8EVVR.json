@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "李紫薇",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "商务",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 55,
+    "itemId": 62,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4J0KPEQO3K1.search.55",
+    "lid": "1Rrahtmoh0T.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "IxzCqARMX2jOn-C1d2dx4Ac0u_iHM0rdNuDtxmpeC_CBQNt4Sr4TyIuH3x_d6BlkXgp9ayv1qxgHqLMTQnnr_sLNebIigFw_41VTEPNtDH-3LLKunIrWShQJwotLzA-N-tKx991NjpDQFQ27zRkss5hXPXiD9KSS1BC9WsTYbOSflC0tTnQ~",
+    "securityId": "W8hP6NKOlvn5W-T1yncZc_w_tHF8vyEn2vBwKb25chiBHMkDLDpbazS9zWk-112uiHuZff_qWUu5H-8n-PCDdi7Kcn29nprWGeNDkVyVePRX877inpsc64LCYTVHWERCfbRPZo_pv3wLAbI~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240808/607f1f3d68754fd04d585f77b376bc40b113545df24b605d0704d3e02704b83226396dca484e87c4_s.png.webp",
     "bossCert": 3,
     "bossName": "宫女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230530/7bf6f160950405e93863a5492a8d3341778127f1b066b9f20704d3e02704b83226396dca484e87c4.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 48,
+    "itemId": 32,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4IWi2rcUemr.search.48",
+    "lid": "1RlJ850SnjJ.search.32",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "cQjbOJI5LCR0y-11Dguc54bsLSkVmik7OSe3_pU0SEZ9CPBwY9oYJdBE9fOvzBybaawlKy_dofblotsxTPeUJvxHDSxpKHhEehIZb8Num-HTFccWaB3ApOOtXYnKgqqrhsVKOa_hhhrg0YbWaFH3ogyeJgwDQ5CPGyh1wY9BOoxk915HOg~~",
+    "securityId": "YUIHpXfHo0Of4-51x_2nk0vNIpQUCG-P7E3EIQk_0FAlxobfZJBV2J958ru4mY3PgHP-i05hyIMhNRgj0O3Lpu4tiy0oSHlm7uXPRUZTuY2KrTHcIefaLy1Jq-_0PRSXcGBT0WM0kMXmQw~~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维"

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 40,
+    "itemId": 44,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4IXpeZCxLyu.search.40",
+    "lid": "1Rn7V9Wb9Eh.search.44",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K",
-    "securityId": "qak6MecgfnJPU-l1m3WqzYw3oYVlB6NYht3Dh9-qdgj2kAS_SKjLmwGMBXF_4fDFuKCu3_MXIOIVposEg0x3m1fLyMY14tZ8FYLVX4mjGXx8esX0D_l7ji5bYJ37HXRCa8MzzViV1I-B",
+    "securityId": "bf63QV3jFUscv-v1THlMvhlzbpb6ehlN421gwdlQGyewCxR0dH09j7RN7EAiazT7Svfjd6a2AEdKsuEMbdFaP1KuUx-F5v7um3odpF8rYVhgAQ9YB62VUZXvZKao4MJgCFfgLk8EVsKL",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "Golang",
-        "Linux开发/部署经验"
+        "Linux开发/部署经验",
+        "Python"
     ],
     "welfareList": [
         "购房无息贷款",

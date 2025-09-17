@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "上城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250902/607f1f3d68754fd025dcac993741a0078d91b91f8b6331fe4f20ef19c1f9175cf456191a450be800_s.png.webp",
+    "bossCert": 3,
+    "bossName": "谭雯骏",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250902/7bf6f160950405e97fef13d43b5f11f1549b8093dbbc9621eec7aa442856fbc428a13902f0f6f9d2.png.webp",
+    "brandName": "四川若扬企业管理咨询",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "近江",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ce64599d7c03014b0Xx52dy8GFBZ",
+    "encryptBrandId": "d9ccd41f9eaf402303d-3928EFY~",
+    "encryptJobId": "45909760b542b60603Ny2tq8EVBR",
+    "expectId": 1334030427,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.248901,
+        "longitude": 120.213898
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 89,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1NpLA57859Z.search.89",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-10K",
+    "securityId": "a8mN87zs20yvX-Q1-4DvFAVNaMVvfXxwG3tE6TETLAeiDk02pBXk8nk6NeslCftdQ3aqS7yFiXoF4Ahma8dWK6EpnnKN2RXvQzg7Euhdb5tDKBgInHpaiC7MkBOWDo3DZN-CQevn6--6_vs~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维",
+        "Java",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

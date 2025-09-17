@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180507/4c69d809f92e2332b5d2fd0cec8dfa5dcfcd208495d565ef66e7dff9f98764da_s.jpg",
     "bossCert": 3,
     "bossName": "周先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "hr",
     "brandIndustry": "企业服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180507/6c39aec0991e4e787b10b5431a3a1d59cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 86,
+    "itemId": 89,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4EJC9RNKity.search.86",
+    "lid": "1NeuIJ5P2Wv.search.89",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-13K",
-    "securityId": "CMbgSyWw65veP-11TA6hTI_ulJczT0j1Gw6k_CvHTDrekuHIxNdihUZI6vIxakNwe1QjoJ2ForoZkpj3L5Rle1OGRDxFdRhJa8jPWoJFBHpvzyFj24fuOMG1s8Stb4H0jXYfd88z1CG_PXKkX-qmTp1YRaUmzBLRonkK5TnfswrLGTXl",
+    "securityId": "QLQ8chBDY5UVP-91ztM8Eo0yR3qR1k_U8cqn_-lG5mMG8YUZUvKRllmEZaf1L-p0QS-PhNwzIwRfZKbILhpPFPMd2gDmVqF1lAwi4VMdoOLh8ZSJLgOtfcs6IPet8VoXyUH0zWQYlFQ6",
     "showTopPosition": false,
     "skills": [
-        "工程造价",
+        "造价软件",
         "工程管理",
-        "造价软件"
+        "工程造价"
     ],
     "welfareList": [
         "生日福利",

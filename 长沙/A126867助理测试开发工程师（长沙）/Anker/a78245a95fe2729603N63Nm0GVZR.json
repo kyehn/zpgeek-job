@@ -1,0 +1,73 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231229/607f1f3d68754fd0cdd2c3cbf26d94cdf0094b226e44fa6076aed8c9a5bbe83bd0a98ccffc02f21b_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "王一楠",
+    "bossOnline": false,
+    "bossTitle": "招聘HR",
+    "brandIndustry": "智能硬件/消费电子",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/eccf87304cf817c6d52b80861b29f56bcfcd208495d565ef66e7dff9f98764da.png",
+    "brandName": "Anker",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "adfc05d6e8a471e51nV-09q_EVNX",
+    "encryptBrandId": "57325b9cf168bd441XB72d61",
+    "encryptJobId": "a78245a95fe2729603N63Nm0GVZR",
+    "expectId": 1334030427,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.228693474586514,
+        "longitude": 112.88290759549662
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 101401,
+    "isShield": 0,
+    "itemId": 46,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "A126867助理测试开发工程师（长沙）",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1X68srbbQL4.search.46",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "CdJUIUzvWOGzE--1ZPscIaamNrnW36Lem4A9s1qFU5XnAd_GkEmOm0TP675jNjIIEbYl_2C7bjZvilELtyEpge-cmJv9o2Dz_5vaFZJgtx97n3rpMmn0c9z4DvhN9VtH7hO0JfXTMGGe",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "节日福利",
+        "包吃",
+        "带薪年假",
+        "员工旅游",
+        "年终奖",
+        "企业滴滴打车",
+        "零食下午茶"
+    ]
+}

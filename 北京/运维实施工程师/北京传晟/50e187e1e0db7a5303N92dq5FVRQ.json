@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20210331/9e8425aaf4e6bf275ec6aabe1538b1817732d27de92c799ab0e3af622f9ec5a9_s.jpg",
     "bossCert": 3,
     "bossName": "何女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事行政专员",
     "brandIndustry": "计算机服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230417/7bf6f160950405e9b34af5103f3065ade8a292bd6cca79cb7732d27de92c799ab0e3af622f9ec5a9.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 62,
+    "itemId": 59,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4EJ1g8fKR8H.search.62",
+    "lid": "1NdAr35StH1.search.59",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "Y7HXna6ykgR8_-G1mn4Q5dorsDiG6ZxcnUtf3UREQs6PTScV5_CHlu0c2U7kcKb72LXw1p2b4yqwFzMyqSEpvXgahUjt79YYdr_-tsIaC5vd7D8NKNXITclLyXIKgu4PMIzYJTs46l9AimadW_MedKkmO5rpNKlpFZJzyM1oG1jG9R-9hw~~",
+    "securityId": "eQDXmxW8h5IZ2-m1zEDyufSk5ipyUjHzJcUljbSThHCP82klVFxGq6ECdp0uX30v1KnI8OTjI_MfwpnqQE8ivMMjN4KQSM61elaXuBa1iBlyPhfVtBzOybAEPRJAft63SebSO-Ts5uwSJw~~",
     "showTopPosition": false,
     "skills": [
         "运维经验"

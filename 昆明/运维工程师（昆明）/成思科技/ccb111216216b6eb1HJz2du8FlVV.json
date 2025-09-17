@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220811/607f1f3d68754fd052dbbdbf30b6cb77a10f39b7af63255a77762b5e648e898f43f546cfcd8b45b2_s.jpg",
     "bossCert": 3,
     "bossName": "肖雨",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170412/ae3e906057a5471d880a30c33733f51f80703fa6d239c0ad20b6fc4be21458d5.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 48,
+    "itemId": 60,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4UdYJIf0G5K.search.48",
+    "lid": "1X3SUNSj81P.search.60",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K",
-    "securityId": "P0DecNGRKhErt-L1thskRgV6eiB86MRu9tIlnRSWSuH8RBq4lWgaLDfj3y36l777qyRAVOIuraHLprvp5CBLOusbR-a7rnJV3aeyMc70bOKb0VZbnh57idcDHCnf633tPq04sI6g7Q~~",
+    "securityId": "Uo4nWUsPYP6iB-316Pd_N9j_KUYCbJyek-ORC4mbxXP9WtRQz1MSorMK63FIq82ZV5_f7FwwRFhiDnn5Nx_Vimdl8HUeGWMyU6dYftN2pkvR9aB_bHNvhPIl7SH98lNPY3titKhl_IWb9jc88IObEEjbD2IXlyZ5XGJtipA8MidLjQ~~",
     "showTopPosition": false,
     "skills": [
         "网络运维"

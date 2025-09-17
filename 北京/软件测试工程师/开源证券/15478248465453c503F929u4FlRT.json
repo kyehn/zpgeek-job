@@ -9,11 +9,11 @@
     "bossName": "段小路",
     "bossOnline": false,
     "bossTitle": "互联网金融部总经理",
-    "brandIndustry": "互联网金融",
+    "brandIndustry": "证券/期货",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/96ac7a1e0d4fcc67c2e6978dacf51a9b.jpg",
     "brandName": "开源证券",
     "brandScaleName": "1000-9999人",
-    "brandStageName": "已上市",
+    "brandStageName": "不需要融资",
     "businessDistrict": "丽泽",
     "city": 101010100,
     "cityName": "北京",
@@ -22,7 +22,7 @@
     "encryptBossId": "b23ca8d009193c3b0nZ-2dm9Ew~~",
     "encryptBrandId": "e680390f2f1c7a8e1n1y0ty0",
     "encryptJobId": "15478248465453c503F929u4FlRT",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.86706,
@@ -30,9 +30,9 @@
     },
     "iconFlagList": [],
     "iconWord": "",
-    "industry": 100206,
+    "industry": 100203,
     "isShield": 0,
-    "itemId": 26,
+    "itemId": 38,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1dHqIxbyDMW.search.26",
+    "lid": "1NcFo6Myeo0.search.38",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "mpOSlc2L6Vvr--T1qIlex84RCfJA8m1ShThN-tzB93Csbe_rwIdsCfNnRW_qWect6gp1khIO2TEhgKZZ7yB5LuduiKZrnRT3AOs4nJR45IzZ9IHtph8IN_M2RGlNGkElnwIF-pvYsg~~",
+    "securityId": "WLy4nWo3iopM9-81frsSrLtxUGboSiMnN8q7ZkNUAMroOLfYdMfjGa506DFNFGMVxuozZ3OrtrLUZL0wChNjBkSsog_-Kb6O_-tGX4qf6Kt7dM5c4Y_zzG64HvyFPdwej_Upj7WjaA~~",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",
@@ -59,10 +59,19 @@
         "计算机相关专业"
     ],
     "welfareList": [
-        "五险一金",
+        "餐补",
         "年终奖",
-        "定期体检",
+        "带薪年假",
         "员工旅游",
-        "带薪年假"
+        "保底工资",
+        "高温补贴",
+        "五险一金",
+        "生日福利",
+        "绩效奖金",
+        "节日福利",
+        "底薪加提成",
+        "通讯补贴",
+        "定期体检",
+        "补充医疗保险"
     ]
 }

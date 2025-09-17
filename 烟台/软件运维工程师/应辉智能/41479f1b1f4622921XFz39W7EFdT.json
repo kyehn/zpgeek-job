@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220727/607f1f3d68754fd01fc4c82666bba24b71b9cc652386f94efe837c19337e37393c516ed9d23b390f_s.png",
     "bossCert": 3,
     "bossName": "汤宁",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人力资源部",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210413/0bff57ff7565966f6c042b6f58ede21cf4787115aaf3830b40e7cb649cc9e2a7_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 51,
+    "itemId": 19,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4IUFIIQPSgs.search.51",
+    "lid": "1RkjXfq4ki5.search.19",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K",
-    "securityId": "M1p3wBHzj0819-Y186O7PAEgNqDqoTgZr9bKJw3ykYV8nD-mQhMGZy0x_TW8lIMxu_MkKbIrlrE3jFmv_e8nX6D-LDhq2Yqaq21MAEWilbqHNkKodyuJHIHZCYYOAw4shca0RYV-ivQbgfd5tk5zeobeOvtMbv9SP-OSwQDBd7A-4OFBvQ~~",
+    "securityId": "f60ZikK3tiT4H-H1lL6OEBmiHXKnlvnfrNpBnTrfkvOzxDJcducGmLIGLyYbkqJTvj9BpKHs-JlYDJVhBchpGslxzqLFdM8lptMq5SO2GMWlyrvJNoADNiK5ONyrTw6_p_E54WhPBjObLA~~",
     "showTopPosition": false,
     "skills": [
         "系统运维"
