@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "李昆",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "铁路/船舶/航空/航天制造",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100905,
     "isShield": 0,
-    "itemId": 20,
+    "itemId": 19,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1Rrahtmoh0T.search.20",
+    "lid": "1BUIoJmssBv.search.19",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "3SYFmK_oE2hy6-710DzE-l0r6fRjSuHT7oAu_Fz6DsS76N8nd4VPegmXVhEzFx3LhVi87Yh3guSbsRGhkKuS2k0uSRP6gIuEsE-4nBDBeqvv5sBFuaOmw7seYbnoAJEXNMGgGuhyLSBa8Bk~",
+    "securityId": "2hND4of4YSvIo-91xNyOLrCmesKgeMxv74m1i5NpVOWzxZjIkFYHPOzU7RA9GsXAiWpfIiP37J-v9UAwefMmOdlt54b66A7Eq59KRHrB26255_FxN39r4e09DiCA-v_0Ta4ACCWal0Xw0i77D36i2Mkjkf8B9J7txYh3k3W4BacNgzkOExo~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

@@ -22,7 +22,7 @@
     "encryptBossId": "b998125f62fba55a0nR93t69GVtW",
     "encryptBrandId": "e833457dc7971abf1H163Nq4E1c~",
     "encryptJobId": "837f386ec1bcff3a03Bz39W_EVVW",
-    "expectId": 1077417861,
+    "expectId": 1334030427,
     "goldHunter": 0,
     "gps": {
         "latitude": 29.491567,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100028,
     "isShield": 0,
-    "itemId": 46,
+    "itemId": 18,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PMJSqW1Uwz.search.46",
+    "lid": "1BRxt3jzBXz.search.18",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "UaIl2HitxPSnH-51sY9I9J5mMjzvYmtKDqxgdLXB-kF1YPTwfmg4NBHjvRFO9Rj8y6b-JJ_p3fnCoWqM-xqf0j5Yi7cWepIYx1A1waEKpak1SOuTcBT9XZA_da1yY8bpzD5wx9JXiDLER9A~",
+    "securityId": "gYGS2keeBbY6K-A18zQt9Pwo9hX_LdYvzGZVchTEjGwkhgEW6mFbd2AUrV4Id6baV1PyOBk07gFuk7qQLuz4Vt5oA3aFS8tUbnJj_Lmbz78NSLkjLrDQ7uhW5FZD8qbEcndy_y3nzrWv0y8~",
     "showTopPosition": false,
     "skills": [
         "JavaScript",
@@ -60,12 +60,13 @@
         "前端开发经验"
     ],
     "welfareList": [
-        "团建聚餐",
-        "包吃",
-        "宿舍有空调",
         "五险一金",
         "保底工资",
+        "有无线网",
+        "包吃",
+        "团建聚餐",
         "免费班车",
-        "包住"
+        "包住",
+        "宿舍有空调"
     ]
 }

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210324/4b7956738327ca108cfb0c9540055a2cdf404a639fc86ea071dd8583cf3d22b9_s.jpg",
     "bossCert": 3,
     "bossName": "余璐",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人力资源专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160930/fbfa016975f6118a097c9c5dd91269242ba64e1520338c15dfc9414d3de0d679.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 48,
+    "itemId": 47,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1NpLA57859Z.search.48",
+    "lid": "1D6ahyN62Ke.search.47",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-12K",
-    "securityId": "V7oGR7SOptNl8-Y18FLH028eCOzbj3f_cBSP2fMVD4zVo05A37xc-NeWSn9NBjU6Ruw3BQa5DvWMh-N34mwIrdOhR1fNdJa5ZwBYBCCIoWhngJHoznUF92eEbZUqFjrz9t646cc0pNiP",
+    "securityId": "YtnEpj9d8K-S0-y1CKhPDKwHL-iSc6NXprS1iCnTrq2k0ZS-SR9PCvV6j6Enhvj2Su6tWGaRhMhiZuZcOUkVcL9DNcnWMVYTnH7zi7--IG-BQlTmymPs_aGHuVWaMsPB4KhUoJ3sJmPN8OJbLKSKu_usF6Ph938jxzTKeKoDr9VKJP3o",
     "showTopPosition": false,
     "skills": [
         "功能测试"

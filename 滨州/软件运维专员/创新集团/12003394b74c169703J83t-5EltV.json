@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241111/607f1f3d68754fd0e914766575694740264c179ef06a79b03f0a0ba9057f8901687ff917f792ba17_s.jpg.webp",
     "bossCert": 3,
     "bossName": "商胜凯",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘经理",
     "brandIndustry": "金属制品",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250715/7b5b554d84f9729c179459d72ba9275f960d2897c85e66276bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100909,
     "isShield": 0,
-    "itemId": 64,
+    "itemId": 69,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1RkjXfq4ki5.search.64",
+    "lid": "1BPpGYlchsu.search.69",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K·13薪",
-    "securityId": "lCBv8arjYbGKe-Y1SbxsAObyzZtPWPrgMb1X55JKRZm-CA-Oz5ebdTGl_JAAeqx1WiBqga4XL8kCoV7htbQo2PENbZlfeCzTpFprh_M_0ucyLHyAl51nTTLeBqgSGd385Vg9sj3JV6bY13I~",
+    "securityId": "PA4bc4W33kvIO-H1MCgRqv5rat8LqtkmUp-Jbu7qxvcUfgOGZ6nmgwSbT5ACC-gPO408evJKDz_qKXefbZdbH_iVtSWYT4kHZ9RL-7qGnrMFB2HMW1-bFarxB4bE-YJUqlWEssdoy4MH_IXLIA1cSRKf9OleYnGBPpXoEwRD60A4-xIHg0A~",
     "showTopPosition": false,
     "skills": [
         "Java"

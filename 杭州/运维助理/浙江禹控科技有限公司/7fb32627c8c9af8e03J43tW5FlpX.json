@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "何莉",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事",
     "brandIndustry": "计算机硬件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101404,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 88,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,15 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1No6FuhjtT3.search.10",
+    "lid": "1D6ahyN62Ke.search.88",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-6K",
-    "securityId": "PGui0sWDnQXnT-y1-BJqRyGse-oPdHQWGIUtBIncQv5MPmOOuu19BfLNrd1UTDkEUcrk0AsEnoUf-RZde2F80eAJCur_F3zT_-WZNvYAm4Qa4pSpGmv1LjqQQc_KUVpUwdEq0dQfyZTrNLY~",
+    "securityId": "_elU_Cbtmnqng-z1beIhCSpkaYbKYJh8Y0YfWXpvIPXM9gWsMC97PBdavwSTz0BYi3T2LPd247DYYpUAO0o4d6NKr8cz-jx_0xqQvAVNlCg_t7yWqWiiJwpwn7fmlST6rDPKsPqmt0JMu8Dvp9H2eRnUks0NaQIjykCw-omjel5KuMFiuTc~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "水利专业"
+    ],
     "welfareList": [
         "节日福利",
         "高温补贴",

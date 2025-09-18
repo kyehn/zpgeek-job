@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 86,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4IZCoCNTufQ.search.90",
+    "lid": "1BTCu3DYjJV.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "NqoQO8255QwiE-U19kot1wX740BQvGe8A5e9CdN9F60MYQXdfDS_aJZ7fm_wZeStkfx8MrNIaQY7jKpjEt0lMqFm8cvMhqyXLnbNYs_1BCMA9Oe_XWj5yAGJEfo0DpmgxODakFpdAx2lEHM-ACO4goREQul2dq3U_jnseYdF8Xi4wX4~",
+    "securityId": "7RF7Q5Uq4eiB4-g11HZ-3jCS4J8gxoglmEZg9f-YKRilfVBng-jxP5rupbry7zB-io6_eO4UQK2wlRLLiHcYsOGCNsNofRAE-AQZAAlBhz6lfkRFHbe-k8koiNyVYr7frHuBq1gdaIX0EWPKW0D27kCHPRSPwyLbZt88DjNpXrHQrwo~",
     "showTopPosition": false,
     "skills": [
         "Python",
         "MySQL",
         "Oracle",
         "XML、REST、api、JSON",
-        "SQL"
+        "SQL",
+        "scrapy",
+        "selenium",
+        "requests"
     ],
     "welfareList": [
         "五险一金",

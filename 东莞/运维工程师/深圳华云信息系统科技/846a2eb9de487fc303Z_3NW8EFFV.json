@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 46,
+    "itemId": 43,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4IXpeZCxLyu.search.46",
+    "lid": "1BRxt3jzBXz.search.43",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K",
-    "securityId": "9Lz1VDKIJqgdv-U1b4wsXPWtOE-1O1QPK24jrxOkjnYKROd_daQpJw4Y4gyFP-b2n97_rQrx8fW1aIPz2drssQi5ckwvRL-FNY-LwGInkrgfbdTH-hPAXofoRSJ8rr5k24DOsr_iYJXmQA~~",
+    "salaryDesc": "6-7K",
+    "securityId": "zpFpKEUklw7wy-61wdMxNLCUgmgzL6vK-sGbmkmScIEPAurIjSmaNgOEIcIKFdZzB-N9E2IPM4qt_7YXwYpc9tU3lZixmSBg4cp1EKuoL_7plXiYkP0HMX3xMhQC8z0FeShM70_D6jjHhA~~",
     "showTopPosition": false,
     "skills": [
         "网络运维",
@@ -63,15 +63,11 @@
         "IDC机房运维"
     ],
     "welfareList": [
-        "零食下午茶",
-        "有无线网",
-        "节日福利",
-        "团建聚餐",
         "生日福利",
-        "员工旅游",
         "定期体检",
+        "节日福利",
         "带薪年假",
-        "五险一金",
-        "意外险"
+        "意外险",
+        "五险一金"
     ]
 }

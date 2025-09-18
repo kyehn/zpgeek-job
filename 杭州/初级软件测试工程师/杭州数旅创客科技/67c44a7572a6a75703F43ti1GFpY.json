@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250619/607f1f3d68754fd0c15271e790df22fbf565749ab277f8b4daadd8eef34dfee1d2dd2be3da29c468_s.jpg.webp",
     "bossCert": 3,
     "bossName": "郑女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR副总",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 63,
+    "itemId": 54,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1NsYKQEXyia.search.63",
+    "lid": "1BVeJbrwRZu.search.54",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-13K",
-    "securityId": "OL6cpmaabPV7w-x19458o0-dmZkuxkr-3a7moHEz4ycOrBksSdowOPPTHsVcss3_7Sa8OP65vTfNoAj1s9VXdsHpAynByZa6ZvCBIH5sLJxHQ-D7HTe5JN0fs2u5ALZ9frWrAkn6E9ZRNQ~~",
+    "securityId": "SnZ6sX8fTjBKq-e1wQ7sI7TGU0pPk8vbm33yW0J9CJEule5xKQu1WcDlCB00tBcnCc5M6cYxRoQb_3-CVCBfnclq8nWXXY5upvnoAGIGZLXbAYaflCqf9XzPaPr2d36DV22-v915DJOioBZQ292WsFoXiRYiQFJ_wBqlRDDwVMHboqri8g~~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 19,
+    "itemId": 44,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1NneZyw6c2r.search.19",
+    "lid": "1D552Asar0f.search.44",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "LNowHmiLmpBog-E18EzctvENM8RfLAgj_8ST0VS6P-w9MyI5IaaeAuZ9ljKtfkheUsCWJkotZdTOUWzUT9qzgVZ5gEyVvDIqUz2QqJrG6wdQAiBXBtzJyp2VcacBatZXbTRfr-CwxmRh",
+    "securityId": "8fah1rQsIejOt-Y1PTKQH8Qa4ww3mlkRKe8YB2G7VoGG7YqzOl5stPcA2sNtePDVcHmZHk-I_Qtkq7cTb5U4p6nVjIF3brW7PFQyMjD43Dh-orKF7cmM7Yte-UcKYAat7PDAaAkw40eK",
     "showTopPosition": false,
     "skills": [
         "SQL Server"

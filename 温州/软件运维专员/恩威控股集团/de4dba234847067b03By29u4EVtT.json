@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_11.png",
     "bossCert": 3,
     "bossName": "周爱",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人力资源部总经理",
     "brandIndustry": "通用设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100906,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 7,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1RkjXfq4ki5.search.11",
+    "lid": "1BPpGYlchsu.search.7",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "qAauc8j4JNAcS-N1WUxA3Z6kQM7XBs1whT8IihitFWJELjgV3oP0rpgVSSTz6nB-PSsFxen3PHEZDxPnA09fre5MdOeOOH-T2StTBdizomC8m1vxKmnpmn5Ll26l1lLs-929mRZNJ-TlGrg~",
+    "securityId": "U76REY8BbckSD-f12QpsEw4scy_rT4xoiOgYRYngDUPEj0wf801_nV-iNPxJCPTFB_E6xJ6yiKp59LBXH0PpiDvwwOieKucpVPvI0b3hmQc_HBsQ-8lgmxQ-7-qa7RkRc-duXAcKMcNrS8qw0JNZ99aTxNYv4w8Uzs8EWBORow-AXX7aQVE~",
     "showTopPosition": false,
     "skills": [
         "系统运维"

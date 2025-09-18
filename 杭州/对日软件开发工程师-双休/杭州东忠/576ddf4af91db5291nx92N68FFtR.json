@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 51,
+    "itemId": 50,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4IZCoCNTufQ.search.51",
+    "lid": "1DQ1QGodFwQ.search.50",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K·13薪",
-    "securityId": "DZWsRW3C9pxw4-e1B_4209d5Gf4LJg58nAAA4fe2mUUfHR_6Rz-0qRzV8C8M3lMECzL7yKiQ2XvexI1dgwkTe9Ez__QIHZDIqDhGWONkpyBqcbjQmx3iNnhH6QjPKNeKUK1RGPtzgBMblI_44yzru1aYcjc_9ikKzu0WxslP59gknvU~",
+    "salaryDesc": "8-10K·13薪",
+    "securityId": "dRTbQWhnSP7jn-l1ajdNieVbJ92QzReUfaAQYssjVaP49use8gTAt18lWkZpfCsuYjaeXDClKM-Fhi6YMXNlmROrdahABit-Zv6_JNf9kLsabuhpm3yVPWL4zf-jc1vT8liY2wpf8EBgW2RGkxNktiJE_xQUanjwYPEFJSrbvIUBDgc~",
     "showTopPosition": false,
     "skills": [
+        ".NET",
+        "Python",
         "Java",
-        "日语",
-        ".NET"
+        "日语"
     ],
     "welfareList": [
         "交通补助",
