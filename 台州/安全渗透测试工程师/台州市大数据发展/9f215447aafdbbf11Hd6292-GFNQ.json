@@ -22,7 +22,7 @@
     "encryptBossId": "0304c62d21b512130n1y3d-5FlVV",
     "encryptBrandId": "d6ce6633604add831XB72dq5EFI~",
     "encryptJobId": "9f215447aafdbbf11Hd6292-GFNQ",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.658771,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 67,
+    "itemId": 75,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1BSAgRLh7L2.search.67",
+    "lid": "i1aDorYNEC.search.75",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "pVDl7G3h9tchI-F1v_XT89BDrZakYP_dV815eWiqgJSZ3C3QpvFxEOlUMYR2ze3HHIlE1ARidE44RwTQn79XenysvBEXCbbONerViuzZd1DH9WRXzTJNlc3hpTd133jaQTFmvxE_KQ6Cik4~",
+    "securityId": "ziPQh9QzwDyc2-x1w6ylunNHiiUSCOTkVeUrdCZKnGvH4b51pkUJEQqBDMLBpYwx7EMe65E8BsPLVSfxg1Z9bTNNhuAu3EJzlERWqtu7oQ61NUJECtjMqq_0f-KldjT8paF6yysiQoeL_Hw~",
     "showTopPosition": false,
     "skills": [
         "渗透测试经验",

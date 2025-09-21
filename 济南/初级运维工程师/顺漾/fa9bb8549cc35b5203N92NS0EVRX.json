@@ -22,7 +22,7 @@
     "encryptBossId": "1daf5758c46bb4410HZ-3di1GFJS",
     "encryptBrandId": "00093368dd07835e03Zy2N28FVM~",
     "encryptJobId": "fa9bb8549cc35b5203N92NS0EVRX",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 36.686133,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 49,
+    "itemId": 51,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1BQtUlcES0L.search.49",
+    "lid": "hVJFq1jQfW.search.51",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "ix7S7iZsRqLEa-S1vMAnJNOlb624lsWc_AiMQxI7tzZLrfKQLqt3pkGglxG5fQ_iMqAZYKXfyjaZc09lb1-UmMh6wP5mGlBIDvLVkwzeJKcvHNZ2C5BNJg5Tr1T6i124MGX4tt5HL-iphydxCvGfrsStxfqh4JhzOTVjEVHY_I4UEzja7lU~",
+    "securityId": "AtLtrZDCaoCEF-U1pFP3aaKH7LjD-ub0sOJVTsOdC4ysapSFbQ9yyZgZ-GmpMjCKdj3ZVhW32E8Mzjl0Aa3HgbLwCO_iWJkGCsGkGaMK7Fa3U-MZswcoHgGE_-JT_8eM9r5QL5_v4tus2UHV3g47OrQ40dfr7z3HI2TAsu5jmroBGmGAr9s~",
     "showTopPosition": false,
     "skills": [
         "系统运维",
@@ -61,5 +61,19 @@
         "运维开发经验",
         "网络安全相关经验"
     ],
-    "welfareList": []
+    "welfareList": [
+        "员工旅游",
+        "绩效奖金",
+        "年终奖",
+        "保底工资",
+        "补充医疗保险",
+        "餐补",
+        "节日福利",
+        "住房补贴",
+        "带薪年假",
+        "五险一金",
+        "生日福利",
+        "团建聚餐",
+        "底薪加提成"
+    ]
 }

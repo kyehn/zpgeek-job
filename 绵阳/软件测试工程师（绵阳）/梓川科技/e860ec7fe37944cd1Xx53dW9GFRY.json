@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 67,
+    "itemId": 82,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "HZkhZtE2BJ.search.67",
+    "lid": "i1aDorYNEC.search.82",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K·13薪",
-    "securityId": "Cmusy0FJPosNe-F1PKUN9bKkN9zT4zuctm8HygAT2TblAwy4WZ1QzK6FpDD7qT1u6QGw2mWubslV_vO5mHLPOuoXS44mWooRt29sod0xzNqj0X7e4nc3EVj5R55SV-Xu6G3XH7sZ2MC82mE~",
+    "securityId": "Sop0dA7THgQVt-U1of1fbRQtP4ZKaC9YpebtbrmpJfCIdSO0QxYtoZcoCII5tdUJtmBso1HWizWwf96tyXwsRQ2u_Llb233xGJf4GObH58w6AB_PcdQjIHK471IYVbeh7hA5jTXF16Nu8dM~",
     "showTopPosition": false,
     "skills": [
         "功能测试",
@@ -58,15 +58,10 @@
     ],
     "welfareList": [
         "加班补助",
-        "全勤奖",
         "定期体检",
-        "零食下午茶",
-        "股票期权",
         "节日福利",
-        "年终奖",
-        "员工旅游",
+        "带薪年假",
         "五险一金",
-        "补充医疗保险",
-        "带薪年假"
+        "员工旅游"
     ]
 }

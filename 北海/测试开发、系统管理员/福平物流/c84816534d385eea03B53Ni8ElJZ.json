@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240720/607f1f3d68754fd0bd26c84357a8a1f60ec1abc7247a638982f6f68330fefea00655a2fac333dd25_s.jpg.webp",
     "bossCert": 3,
     "bossName": "何茵萍",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事行政",
     "brandIndustry": "物流/仓储",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100502,
     "isShield": 0,
-    "itemId": 83,
+    "itemId": 22,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,25 +43,30 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TlT5eVmNAT.search.83",
+    "lid": "i1aDorYNEC.search.22",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "rBZBUktFYmQoL-W1p8O6Bxqsukg2wiLmhl47DoLo3M4xI8-PL250OGSiPE7xyz0IwFL5etf_S8YrD8k0YOrU9VKip1IE53zYGgAhbpbd4UW0wBqzPdSk6IAP8gWOfMXcwcSWzWL7i8qDigI~",
+    "securityId": "jzKKKpIxq1TTi-I1AGoecSNZptL1o0Wob6UC-MAhfeSY8_XzlHTYbhLVvz23XI0PbYP3AKzMXA8GAv0Mm4YlrpLg-uvQS08nCMrSz5shji7kaHuYRQr50jqBmSvBuHby4CWRi2--EqC4I2qMRMGYT8lx3wZS_fG6jzNv0S-aEbr96r8gQnY~",
     "showTopPosition": false,
     "skills": [
         "IT系统维护管理经验",
         "计算机相关专业"
     ],
     "welfareList": [
-        "工龄奖",
+        "包吃",
         "宿舍有空调",
-        "五险一金",
+        "法定节假日三薪",
+        "包住",
+        "工龄奖",
+        "高温补贴",
         "意外险",
         "带薪年假",
-        "包吃",
-        "包住"
+        "节假日加班费",
+        "定期体检",
+        "五险一金",
+        "有无线网"
     ]
 }

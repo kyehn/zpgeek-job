@@ -22,7 +22,7 @@
     "encryptBossId": "266e2079ff4d8ab81n143tQ~",
     "encryptBrandId": "576ea5a910d01a2d1XVy2dm_EFA~",
     "encryptJobId": "21156aef7c7c91b603F83t-1EVZT",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.238021,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 32,
+    "itemId": 37,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1NuO54nyteo.search.32",
+    "lid": "ibN25FuuKU.search.37",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "bSTF_IEi8UCG_-o1MZsL9L4OfQ22xYG405ypKndoZ_H6a0PtXCAsxY1mIorh_LR-xNiol-Wv1Qe1FnmrzlaDi_zrjTE4jNpjtI9I8vmTH16NBEHsPGnCn-2Mon7-NoXVBTzzSzhZcQ~~",
+    "securityId": "f5RCVmCEJAmbY--1GGKp8c0_QkX8W5oHhRC4EQttaXYzutAYpUOd0e38Ca4-QkwQ8A6uO0ARqbWuLnszaX8zVGPdvq9Wyj5Zs8hOyxKev_QfIiO7amAicdANwq4hAhPW_ryfd4hf-A~~",
     "showTopPosition": false,
     "skills": [
         "ERP",
-        "WMS",
+        "MES",
         "计算机相关专业",
-        "可适应出差",
-        "MES"
+        "WMS",
+        "可适应出差"
     ],
     "welfareList": [
         "带薪年假",

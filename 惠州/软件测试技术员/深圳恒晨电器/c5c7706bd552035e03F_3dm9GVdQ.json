@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210603/fa3eed8b2cf7cd6d2b3695dfe1d0081986186394effa79fc296ea417c87dcb0f_s.jpg",
     "bossCert": 3,
     "bossName": "魏先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "通信/网络设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200609/7e7e5840f581b170cc75ab27719cf055623ab71aec23277ceece44125f07d036_s.jpg",
@@ -32,29 +32,27 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 88,
-    "jobDegree": "本科",
+    "itemId": 26,
+    "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "本科"
+        "大专"
     ],
     "jobName": "软件测试技术员",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7P433aY4UTz.search.88",
+    "lid": "i7uSRE8SST.search.26",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-10K·14薪",
-    "securityId": "IPl1cvjYPBSJ6-S1TSF-2i2KETN5uIua0mk0DbrnKNFDi_yxpcjwFzC0-Buua895plb12_HTKnYIkL_iooqIEGXFgoSHsQRd-ZHjbMIVIFUJy-usqEbAE-2lYzL2U6D578Wy0w3q7pUnr3tOQ3IQ2oepgmma-x_BViub0tBrgn4zVOwB",
+    "salaryDesc": "7-9K·14薪",
+    "securityId": "y5yX2DhTH025U-A1BWTlN34RPkn_pGyVGT49pPEfqV86iBNX20V77vHhg7sHVMVSzrFBdr9WLAW33BLzoTw1YTEuO4T26BnrL41E3kPD1H2QwSr8N2a-x2fP2SJqhSFYzN9WQxHxWECu",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
-        "性能测试",
-        "自动化测试"
+        "功能测试"
     ],
     "welfareList": [
         "员工旅游",

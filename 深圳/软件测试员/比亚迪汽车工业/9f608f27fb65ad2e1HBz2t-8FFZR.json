@@ -22,7 +22,7 @@
     "encryptBossId": "1814d723b60fffa70nRy09y1GFBZ",
     "encryptBrandId": "57a2926ed776f6dd1nN43tu8EFM~",
     "encryptJobId": "9f608f27fb65ad2e1HBz2t-8FFZR",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.761374,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100801,
     "isShield": 0,
-    "itemId": 4,
+    "itemId": 25,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,34 +43,31 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85nJyNCVhGg.search.4",
+    "lid": "i7uSRE8SST.search.25",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "QJdstn6vedoqT-S1lVngOMUwQXn_IHsrIsv6Nuu496-ruS9kMHtnTBSnFaw8N7jpvPdtfb5uHwQEphQN6u_tVOhd6VHbeXyy_R2qIdjpsZG5xl9zfBNvHspYvXkrhNLP6oPiyijCy8HZCEM~",
+    "securityId": "z9N8T8GYWw30j-W183IAbDNy5f1JlQdxdVzFj2C6AXgfTg4ENYGjBwZc_YZm2b2wsSBtrAz0N7bbjo-I7mxRy2b4BAAIYGiD0PdHnIjf00CohG4DVmveoZpBLQ9GYX7SEXZ1MvwORgP7nCo~",
     "showTopPosition": false,
     "skills": [
         "软件测试员",
         "软件实验员"
     ],
     "welfareList": [
-        "节日福利",
-        "五险一金",
-        "免费工装",
-        "高温补贴",
-        "有无线网",
-        "节假日加班费",
-        "包住",
         "定期体检",
-        "周末双休",
-        "法定节假日三薪",
-        "带薪年假",
+        "高温补贴",
         "工龄奖",
+        "周末双休",
+        "节日福利",
+        "包住",
         "绩效奖金",
-        "夜班补助",
+        "有无线网",
+        "免费工装",
+        "团建聚餐",
         "宿舍有空调",
-        "免费班车"
+        "五险一金",
+        "带薪年假"
     ]
 }

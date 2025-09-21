@@ -22,7 +22,7 @@
     "encryptBossId": "384ef7ed73f269e80XF93Ny-GVo~",
     "encryptBrandId": "56fcc3e5c3f3939d1Xd929q4",
     "encryptJobId": "d92346ad24e1852003N60t29F1ZY",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.562884,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 66,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85pd2ttRncZ.search.7",
+    "lid": "i1aDorYNEC.search.66",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "OL22ONjwz3KZO-61seWEzlep--qJLc2eRdyHQ5yeknBA9YThCmSn5swd6-A07cYSuhkxRr4RUt4hNABhh7km6k1OvCYx-tsD02cIV2R2BWlXx6qPcRMZb3G2Hm-qdMxXa2pTrhlWEWg~",
+    "securityId": "qTqStlnQGwi0n-01GOeikbBklbQvM5lqakokWdqQl4Kx9ZLc0a3PWyjLQ2osEXaOVUyHlQdRsAp17nFAiG6NyzifgcwxEdlWIF_oIPjthtWOmUGq5RB0Z-PrQBwbOYbnj0y365qaJCQ~",
     "showTopPosition": false,
     "skills": [
         "Burp Suite",

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200905/e0a2da1882703e730fdb11fb7105d015eab56f8c4f54edeb09e687fb2a441be1_s.jpg",
     "bossCert": 3,
     "bossName": "梅女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "hr",
     "brandIndustry": "电子/半导体/集成电路",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210421/fb9f2028efc9709356ae26bcbb83ff4b6d3ae916d4a0fa7999d1f0b779061983_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "5127083f63e7d6aa0XV-29i5Flo~",
     "encryptBrandId": "87fd80545c1414f51HR43tW_",
     "encryptJobId": "2bedc3abc08385aa1nF90tq6EVZT",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.243636,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100026,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 61,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1BTCu3DYjJV.search.36",
+    "lid": "i3nlxVhHLK.search.61",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K·13薪",
-    "securityId": "JfZWt1W4Z49en-e1gmfhk2UXIIYkrfDrr56cNUNRp05veV7k8EIG3vZPZI4xKBQvYERxeyY7rgiiUvTOiIROUmwdTOHedhIWMjaCPyJwRuQk2peINrI4mjz9qnwIzhhG6a_U6yYAermoOXcV_rrz61hASyNO6Qhw2ajKM2xU3a7GmG8~",
+    "securityId": "Vkw3ezQxuUu9p-H1xBs0DHPGedHaz5NzyR9psyZXVmaECXLY4sRA_5-28teuBrbUQmQFHk8Wn_bd8b6JlMT5mXocLbp9YeN4ve7eLJACre9RhLyXoftimyY-BPACZfOiQHkR3qVXEJw~",
     "showTopPosition": false,
     "skills": [
         "自动化测试"

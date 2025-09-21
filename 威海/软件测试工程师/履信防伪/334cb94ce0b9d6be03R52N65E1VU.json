@@ -22,7 +22,7 @@
     "encryptBossId": "da53338afd91f1fa0Xx_2N20FlZR",
     "encryptBrandId": "e3af65afb98a8a340nd839S0GA~~",
     "encryptJobId": "334cb94ce0b9d6be03R52N65E1VU",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 37.420276,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 79,
+    "itemId": 64,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3q3kTvDM6uI.search.79",
+    "lid": "i5JS5UZD9G.search.64",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-6K",
-    "securityId": "oi67kvWN6VE7N-11FL1iVRg3UobkT8UNiE_w4y20pW0jYsmpwyYPM57li91xUDR2PevTOf6PVom5Wlasp7xNjHIyq_3IT7E7go71QV6ebQ7mSvwe1juOSrDuXzDnT9Pua5NDPPc-SDAKDg~~",
+    "salaryDesc": "4-8K",
+    "securityId": "p2VKBewAjvzJw-Q1aff7cVPa59lUiJ4u9wsNfVmV8ivdc3rjDfpqdL5o81YWBTZ8wRJ5GvETKRIxtoNDUdxVxZPP6ArtRs_NZi3I9hZOFOWgNgObKJgUzY5AxR1EhoUx2oUS-pCGCZvp2g~~",
     "showTopPosition": false,
     "skills": [
-        "计算机相关专业",
-        "iOS/Android测试经验"
+        "iOS/Android测试经验",
+        "计算机相关专业"
     ],
     "welfareList": [
-        "节日福利",
         "零食下午茶",
-        "五险一金"
+        "节日福利",
+        "五险一金",
+        "带薪年假"
     ]
 }

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 75,
+    "itemId": 46,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TlT5eVmNAT.search.75",
+    "lid": "i1aDorYNEC.search.46",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "hc0kzi5ut2Lpj-81_iECxGNpQexPitZ6JPK7JAA2XpA5QZbWVTR9u3qZs78-RwgVW2zE5QA3tdOYvdOErhBszoQz-Me4OE3PT6GliRpI3MG2I3yS6FLPbk3dIoAFNq2BEwyTk3bVsesYiDY~",
+    "securityId": "zppc8hqd6Aj8p-K1kC7sRX-nfv1FxLN3Xu1D68dHX0iSb0uPXh8x3Rp-6h8qIoERLk-1GX24MruexOdq1pif7wzkRAmbzqO2C-KzYnqhwqJHYifQENzb052wYJHg-MPWM6ZMjoKOnquUTNE~",
     "showTopPosition": false,
     "skills": [
         "功能测试",
+        "计算机相关专业",
         "Python"
     ],
     "welfareList": [

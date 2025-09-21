@@ -32,28 +32,28 @@
     "iconWord": "",
     "industry": 100026,
     "isShield": 0,
-    "itemId": 81,
-    "jobDegree": "本科",
+    "itemId": 86,
+    "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
         "经验不限",
-        "本科"
+        "大专"
     ],
     "jobName": "软件测试",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fSUVsGNZtR.search.81",
+    "lid": "i5JS5UZD9G.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-6K",
-    "securityId": "qJ-zHSNOJZVG2-C1nQZbXgw_65IITXatIyWWy0U7XbiO56MJRO5Do5nPL5rLx8NDWryIJtOrCGQna5_te9gZDlwyETdzgdsxpDTp4FeOxQN_obt62jPlJEDvauCYAWvHHLBYV8yuv_x7bg~~",
+    "salaryDesc": "3-5K",
+    "securityId": "a8DUdU2XCwAMx-i1OjE2YGDDYFLPW8KLoLYYXFPH5K-QNeYaXWojayb_mVeTrolp8LVgeozAcuT7DH7Yksypn0Q-50Py-kWGwCcR0t3wcahZy0DiENYesJjKkLj2KvXc11USH26WxxcqLQ~~",
     "showTopPosition": false,
     "skills": [
-        "计算机相关专业",
         "测试工作经验",
+        "计算机相关专业",
         "掌握软件测试理论和流程"
     ],
     "welfareList": [

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 23,
+    "itemId": 8,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9ToKDI19Uod.search.23",
+    "lid": "i9pLJ7cJHP.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "WDXU4CuRCeTRc-V1grTzIN_tKOyV7hict0iARDikWxbu-Z9DmbPiFkG1KX_WpK_U5r46JMAN1Eqz9zqQL2RI60ZrKIhXcnAn2AObYaM_9RRvok4uoKrsBjZZeZAbW_oG6DctIBHsMxj8",
+    "securityId": "vvg6ThQ8jxvqa-E1Fa3pflgTZc2OpU8gE8jdOfBdKaQRe_8taeHjsBAHqrq8tHjH6iTyArLBTu-U6yiUxhWqgsVL4y39D2hoTrzD4a7-Ax8prC-5-KvJVIRgGzFjWW9H1xs1MHCSl-CS",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业",
@@ -59,15 +59,18 @@
         "CSM/PSM"
     ],
     "welfareList": [
-        "五险",
-        "生日福利",
-        "工龄奖",
-        "年终奖",
         "带薪年假",
-        "交通补助",
+        "工龄奖",
         "绩效奖金",
+        "包吃",
+        "保底工资",
+        "零食下午茶",
+        "五险一金",
+        "餐补",
+        "交通补助",
         "全勤奖",
+        "五险",
         "团建聚餐",
-        "零食下午茶"
+        "生日福利"
     ]
 }

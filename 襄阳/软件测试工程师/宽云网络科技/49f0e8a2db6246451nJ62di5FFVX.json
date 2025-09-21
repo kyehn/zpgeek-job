@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "史升彩",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210429/afead9dd4988073bde833a633c13b55be039e809d1123a1f417197e28f0ceb0f_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 24,
+    "itemId": 62,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TnifLbuNZt.search.24",
+    "lid": "i5JS5UZD9G.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "s1sHXTo0kibdo-7123jv-uuc-qKTMI03TiuVcP_tB5bTf6F5w-gKkV083T-vXn9chwrKTpx37Qln6vhG32EMupbLraSog47lhmIF38P_frg0bftdDOsrxC6x7Hd01Z4_QWNM6vFBhdOsfYEOIGbNDDEU1nh1ZvcmFwzpHbVWNX6xw32i06k~",
+    "securityId": "30BQtD6Dq0Uo0-U1DXgCJEfwgAb7RFfC3CqKVX3zLgC1C_CGUHrpQcJapmZg9iNQvV95HbFPel79znKYhGQhF4o1tyCoFg7m5gGmEdsu-t6DrnKCIhkm-6JEjcCZ4wHlSIAEs9f4A8W45n8~",
     "showTopPosition": false,
     "skills": [
         "软件测试"
