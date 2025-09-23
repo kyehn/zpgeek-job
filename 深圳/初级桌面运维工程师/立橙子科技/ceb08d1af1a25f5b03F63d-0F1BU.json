@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250703/607f1f3d68754fd0daef94deef38f48d2699c600f8c34e55bca397390bd7deb9f20e94fa623b3125_s.jpg.webp",
     "bossCert": 3,
     "bossName": "盛先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HRBP",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "72a1642c721544d90HRy3dW5FFZT",
     "encryptBrandId": "51a7d7fce28c312203V82du-EFU~",
     "encryptJobId": "ceb08d1af1a25f5b03F63d-0F1BU",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.581647,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 54,
+    "itemId": 43,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,15 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85mj9iH9PjS.search.54",
+    "lid": "zBmI5SgCde.search.43",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "RnOFLK8X-LlRX-I14d_8LFI1qXgpcNNFl-2fx_h-QftIDvF3KiSwJRg42tzG4aAMSWozWJzCteWfDniSLiOoeqCcrHzspkm0hPmfZ2Zz4x_bxXEQgrWkqGCS0dBjW2i75ewMUE1TYCIBe7Q~",
+    "securityId": "-gt7GDntZThPT-d1_y26Cbi20FjRYdzkmmQkD8JKECxpZXn3accJsd7PtaryuZX6oJEGKULG9QOpPLG_ulO_dJXFf0vQgy_kx9a9G-7HoUYxw8a7fijzkohxbcm9XzvfmN03crQl_46HAb12LmDcar_ImZPAMuKJaBpKxi8lBxjI6C2jOyc~",
     "showTopPosition": false,
-    "skills": [
-        "桌面运维",
-        "系统运维"
-    ],
+    "skills": [],
     "welfareList": [
         "五险一金",
         "工龄奖",

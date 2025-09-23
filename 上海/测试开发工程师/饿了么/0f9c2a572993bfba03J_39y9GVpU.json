@@ -3,13 +3,11 @@
     "anonymous": 0,
     "areaDistrict": "",
     "atsDirectPost": false,
-    "beforeNameIcons": [
-        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
-    ],
+    "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
     "bossCert": 3,
     "bossName": "秦女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "校招HR",
     "brandIndustry": "生活服务(O2O)",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221215/7bf6f160950405e9b708a65f8d8e4b7f7a59c09ad80309c2d9f75fb95824e8a8a42e8932ab8f5039.jpg",
@@ -24,19 +22,17 @@
     "encryptBossId": "5010896486651cfe1nV42t69EVZW",
     "encryptBrandId": "12e92393bff967950HNy3w~~",
     "encryptJobId": "0f9c2a572993bfba03J_39y9GVpU",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.303168,
         "longitude": 121.341579
     },
-    "iconFlagList": [
-        38
-    ],
+    "iconFlagList": [],
     "iconWord": "",
     "industry": 100007,
     "isShield": 0,
-    "itemId": 4,
+    "itemId": 16,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -47,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1NjbipbzAik.search.4",
+    "lid": "zu0ax9Q1xg.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "面议",
-    "securityId": "PHCJdf49cLrP2-u1DVDUGSRHAVvWvNqlUV-bBuK0uC2LtwEF2AX6J2HRlxlFlqe5dUdzHblJewFtwN6yRWZzEixZzuK0kZqzLuQkioerbWj-8UOoEsTSLe4yZcQgWGxXlXhdOIithQ~~",
+    "securityId": "VNzisGntPmaSM-21bf7mVhwo0UZ50dY2sUt-nPtolW1VrdurHQry-XIQOfT8cX12-ylRyyNlV2HTlJYWx-mofmkjWAh9_VBRhrBe28kfomHx8mUXyj4pdr4GvdLL-Rs74IPDxmlnBu1duJY16GxlO0ita8tegOH7ChYDWxtcLYq8yQ~~",
     "showTopPosition": false,
     "skills": [
         "校招"

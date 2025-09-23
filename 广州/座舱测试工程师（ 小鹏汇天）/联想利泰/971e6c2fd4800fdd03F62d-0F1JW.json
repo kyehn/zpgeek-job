@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210409/873c2d541b10142dbb718ca1c40e40b7e0cecac597e9eded4244fb62a4177803_s.png",
     "bossCert": 3,
     "bossName": "李先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘leader",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160614/246d6aabca5fc8b18273cdf7ac78a3fba913d92db28697eac97819731866a743.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "509d8381908a515803By3Ny1FFQ~",
     "encryptBrandId": "4b52c04a84d7aced1nd92N69",
     "encryptJobId": "971e6c2fd4800fdd03F62d-0F1JW",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.051242,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 17,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85t8D16sApt.search.7",
+    "lid": "zu0ax9Q1xg.search.17",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-11K",
-    "securityId": "P09wM2AmOGXTW-Q1ktoenl0h_pHOnWD5kTwJAPICVsDhtBC5QvsQECXBytLRieIjVCdN1uj3OuKzwTy5qWJomBuUAwRUMwd7QkUazlAYv-sxkkVp5GdXDlvjXPUBXMUR1FzLHbC1xLQ~",
+    "securityId": "oEoB-56KUB6t8-b1dk63P3VNBcRickgCT-dD7Tgy1h1_Or1IAt7_uh14qRLQamvajTJUXUo2eiv73SFuqrmcSppYjL4cJypbXemftlok55H8VoCoidDPu5DmVAKgiUtQ3YapD7P3XpRQW0FnZ5y5ODU1OiSqWv-NZY_-axB4ILEocFQ~",
     "showTopPosition": false,
     "skills": [
         "车机系统测试"

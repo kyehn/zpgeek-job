@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231211/607f1f3d68754fd0fd4432887c25fad00c63dcd4a3b8f7eb308e3e187a9cb14c50e8d5c236947b79_s.jpg.webp",
     "bossCert": 3,
     "bossName": "罗娜",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事主管",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "0ce1208040c775520XZy3t-7EFtZ",
     "encryptBrandId": "821afbd248ea3a241HVz39m9GVM~",
     "encryptJobId": "ea7ec84948a729f903Rz2N69GVBQ",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 32.985569,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 70,
+    "itemId": 32,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1BVLEBvYZ2R.search.70",
+    "lid": "zqkdAHTbgE.search.32",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "HmCOPayGoVkwK-q1yN8xfSBYwtcAjehTR3NAGWVPJ5FHK8YiIfdOPA2DBKvZQiZqbRoQZBnlWXaG0atQVsek3PRJ-jR9XtbRdV9AfMJaYRnDdMY8xSDtHPFPd5O5M-VxTl8p_S7eKpJ09JY~",
+    "securityId": "sEZwUyeVMXKTc-b1EyYgcBNkHI6XmlkFnh9z5FR9S2nWLX9fGa2BUJ93Jir3Ebpab7u-bLZnZbQjWK6Ok_-mFkGKVU8XS7xkL20VGU2qsjg5jZdN5pb0MXs5N0_fire-hLG8avfw4LOavu1N5-HwKTIPeiJxCEREmrkytxyCzqv1KEe1Fnk~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "历下区",
+    "areaDistrict": "市中区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
@@ -14,7 +14,7 @@
     "brandName": "顺漾",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "高新会展中心",
+    "businessDistrict": "纬三路",
     "city": 101120100,
     "cityName": "济南",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 36.686133,
-        "longitude": 117.13037
+        "latitude": 36.655287,
+        "longitude": 116.998454
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 51,
+    "itemId": 81,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,23 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "hVJFq1jQfW.search.51",
+    "lid": "zzOfqBI5jb.search.81",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "AtLtrZDCaoCEF-U1pFP3aaKH7LjD-ub0sOJVTsOdC4ysapSFbQ9yyZgZ-GmpMjCKdj3ZVhW32E8Mzjl0Aa3HgbLwCO_iWJkGCsGkGaMK7Fa3U-MZswcoHgGE_-JT_8eM9r5QL5_v4tus2UHV3g47OrQ40dfr7z3HI2TAsu5jmroBGmGAr9s~",
+    "securityId": "legv39QnF05Bx-W1KCGt2OhvIxFXnXzJzO122fDXD0hMkbt9bUSkNJyBGDRplDRyoxE6kQk7L8mYN_kTw35mi-dz45oh4RDkXbzwKYinnVmvMC3nxErHGQ0BPenP5pm58PTvVxvhVjn26NLLEvOuzdjm30iDIguaWy12mOl2fZT6JcRoBko~",
     "showTopPosition": false,
     "skills": [
-        "系统运维",
         "Java",
-        "MySQL/Oracle",
-        "计算机相关专业",
         "通信相关专业",
-        "运维经验",
+        "MySQL/Oracle",
+        "系统运维",
         "运维开发经验",
-        "网络安全相关经验"
+        "计算机相关专业",
+        "网络安全相关经验",
+        "运维经验"
     ],
     "welfareList": [
         "员工旅游",

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 69,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,23 +43,23 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TmBMjvKl7d.search.11",
+    "lid": "zu0ax9Q1xg.search.69",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-6K",
-    "securityId": "wKwPl22R2TvU3-a1BI9CNArW7rO0WIcSxq6Gmbo_gql_BfgS_kUM-Wsn8WOwOm0RAa7o4vcz7HvHAUf5LUqGQCeGezgKseNttl22BZ--VIlwOc2AgBOURge8HdpwjwMWpC1bwOXLL8Cy",
+    "securityId": "i5WQgm3cIdZCW-a1hYWEoycC09JJ8mmwNTN9BkTI8UppnG2uqbEoPrnEkYW4ufZiRbj1Od-d3X50kUpMrsO3VQZbzUGDL_lU5mvHDrXXHgNvW8RijPSleBzvgqoF2LLCzcfkqMReCVcV",
     "showTopPosition": false,
     "skills": [
-        "Python",
-        "Docker",
         "Nginx",
         "PyTorch",
-        "其他",
+        "Docker",
+        "PostgreSQL",
         "MySQL",
         "Redis",
-        "PostgreSQL"
+        "其他",
+        "Python"
     ],
     "welfareList": [
         "带薪年假",

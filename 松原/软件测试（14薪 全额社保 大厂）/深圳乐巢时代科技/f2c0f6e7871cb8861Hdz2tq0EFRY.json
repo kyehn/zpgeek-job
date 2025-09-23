@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "黄旭辉",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 16,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9ay9t7loVU4.search.7",
+    "lid": "zrfvFlW5Wb.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K·14薪",
-    "securityId": "rmYQc5AcIBgIu-m16vlTG6DpDDMW-K-t_eMfQuZzAEDknNm0FMoYndaPPDdKIKVAWgpiCU827uUvL7_Cb8gO1Qj8MpB_Btow75N6EVqGdyDPiuaRxMtUjMo4aXCGX-Anho-3WCagF0459C_jbta00k4MXsk4A9_N5EmoESJuqhPA6LKbww0~",
+    "securityId": "UTgkpmM03Mg2y-71oXmUPS1z7XEXVzoo5AHgTGiT0yUJvSz1CdJgLZ45WWelYXQAs8k8ozPFm7keNrBY0Zr18djXdz-PUkuuI4QY6krPmfNUpKbz9QFWNiUNlYh9cYqn8xttWATJEtqkHt4~",
     "showTopPosition": false,
     "skills": [
         "测试工作经验"

@@ -1,10 +1,10 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "沈河区",
+    "areaDistrict": "皇姑区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250922/607f1f3d68754fd0dd492662afbd6d83e5e1b7b41505410c6c7b8ed74c4122fbddd90c43b228238e_s.jpg.webp",
     "bossCert": 3,
     "bossName": "刘先生",
     "bossOnline": false,
@@ -14,7 +14,7 @@
     "brandName": "沈阳开焱科技有限公司",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "五里河",
+    "businessDistrict": "北陵",
     "city": 101070100,
     "cityName": "沈阳",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 41.764387,
-        "longitude": 123.436228
+        "latitude": 41.841035,
+        "longitude": 123.418988
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 23,
+    "itemId": 33,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,14 +43,16 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "i5JS5UZD9G.search.23",
+    "lid": "zsf2mFFFQi.search.33",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "rGNceNo1h8SOK-61vaflQimb7I0cBsdWbWHnvowIX-Q5pEQ13UrP902X_tLSPs7bJu0AwGV40jta-Ve40xiwxuakblwj2pZj9bTvUdwEZBHyIRapekssQOjgrbOUHmc9LzP0qJtCkDAPwMQ~",
+    "securityId": "-h8oY4IFiQ_b--x1Do9s2shiK5XDB_N9GnAa2yQKcJcauHCdZOXS12Q6YTLQlUjLooURHzVRaS-I1IC6Wb3ObCk_IwYI6aQZcfWmvd7nQAxOtdnL-PeKl6HFPWmwlFGqK5dh934etaeZbOk~",
     "showTopPosition": false,
     "skills": [],
-    "welfareList": []
+    "welfareList": [
+        "节日福利"
+    ]
 }

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100914,
     "isShield": 0,
-    "itemId": 85,
+    "itemId": 31,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7sGzPba3epN.search.85",
+    "lid": "zp2IzRBiNp.search.31",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-8K",
-    "securityId": "4ThFQyHmh0Ht2-L1rdEB_LKU3sIMIaBwGQxT7FgwXyvgvRVCobhYkswQto0SaLA34suTzqSIYoppsGa5qi5JgVov6gnXM0CQCOO3zHEvNCjqc8MVnyq_vMpIwSOOP0wfxu9Z8a5cfbUtFo2tuYjqXwGl-PU6zkNFhX4L6BqDTwpbfVgY",
+    "salaryDesc": "5-10K",
+    "securityId": "NH5HKlsLM8Iv5-012Hxghl2QXtmLVJ0d-DXXiGx8fDgk_p-bfE2aETyqPvgkgtG18yxf2Wwuckd3d2su2dFqvU2leOJ9CW3GGtPGj321K8an8k8xpWzD4SIBCVbRGA0Yi-Px5tq7W0AQNEywD7-uZZCIKbdci3YBNuSnRt8YTXOsV_Ru",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
-        "可适应出差",
         "SAP",
-        "WMS"
+        "WMS",
+        "可适应出差"
     ],
     "welfareList": [
         "加班补助",

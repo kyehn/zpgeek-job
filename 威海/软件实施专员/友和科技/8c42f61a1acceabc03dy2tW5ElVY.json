@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "郝鹏",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220510/7bf6f160950405e95aa595f8ea54e694b2a5ceaca1d057a1acf14843f16e39be7b2dac56a9176049.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 27,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "ibN25FuuKU.search.27",
+    "lid": "zp2IzRBiNp.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "ARKK1wN4iAshi-51wBawdwXJ-qH0jE6_rFD5Q8Ggi2VIeXDc_GLj4gXtysQHEjwpAOalLIGYZfwzO9NtcV19g6Y7t1frI4IUmTCja4FEmW24WmNFFUASaftMVq7UrofkKsh2lFgJwvIWHQ~~",
+    "securityId": "DreFkgnQAZFOb-G15J0zYUGYmUAdA5uncB9FV8ipaPuZBBeRUAc7q8s8LnluGpOp9WOUdOYZDLrLnOO4JiMZXEO_QeMltbvfhT2GhRJ2NDecbZOdVBnSTannT9ABGmWdSuKTva4lPdKjmwJ7G17sQT_Nd19oIK2ZfAXbKnUdPCSPiE1YLQ~~",
     "showTopPosition": false,
     "skills": [
         "ERP"

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 20,
+    "itemId": 7,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,17 +43,16 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aAbq7p3KY9.search.20",
+    "lid": "zxPcoEg6Uj.search.7",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "EGKI9a-z9b4D5-i1T-bwTRXmFvwN0qWZZF4-U-aTPJzGk1dbUC926uTfkjzHiyzoEeEs-4_D7mviCpcuqBC98O5_tL35QOIs5iKo9Ji6N-oJJpuXLCsbetmkLOW-yOU4URPylD8QYt0~",
+    "securityId": "_E2Xfw9xmOn7F-61Vmn93s_bbB6SdaCmiWIURMOeNzaQX3Ul9yvGKyKJUVPVnfmMQmkF68eLbNC7MgKhgyBdunugHcsUpgllpGvSrxhaYBwu5UCtrTHSoKqDw7chSJ9rGxwS7vj2VmM~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "MySQL",
         "运维开发经验",
         "计算机相关专业"
     ],
