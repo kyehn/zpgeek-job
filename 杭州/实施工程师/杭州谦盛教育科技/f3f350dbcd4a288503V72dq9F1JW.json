@@ -1,20 +1,20 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "西湖区",
+    "areaDistrict": "上城区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210305/2ccdc04d6cd840783d56d91faf0d2a04c6efe0efb05b494fd170ee50f302036e_s.jpg",
     "bossCert": 3,
     "bossName": "王守辉",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HRBP人事主管",
     "brandIndustry": "职业培训",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "杭州谦盛教育科技",
     "brandScaleName": "20-99人",
-    "brandStageName": "",
-    "businessDistrict": "西溪",
+    "brandStageName": "未融资",
+    "businessDistrict": "望江",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.272543,
-        "longitude": 120.126975
+        "latitude": 30.238771,
+        "longitude": 120.207838
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100305,
     "isShield": 0,
-    "itemId": 17,
+    "itemId": 25,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,28 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "63nBFcFmJ68.search.17",
+    "lid": "1UwPXu9JSZy.search.25",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K·14薪",
-    "securityId": "8uoxQcUbVKwb_-i1LNgLzqWVg-lXbJ07oDSKL-U_QN3AwtHGV3IwpoPhNj96Ve1JPmDf9k73_MFOSiZtSccoSgZMOD58Hah1ZLjWVgf2Ga6tcnLBfI9eLUw2Q_RzI_ngsAsB2kv3r8fJmw~~",
+    "securityId": "C4QfQvhLtnJBQ-s1Bim2G6x3Bu1Q7hrQj02qHyxZ0OqbKGXvDLkN31Z7qsSA4N0J-VC-H1HwYbJG0M-iHWYauR9ZnMQinNefaZnvRaHBDspoBZ-N_t2G1MdgTNJf4a2g6WoAAAuOU-jDNzu4ADJ4NSoGm6g40TmFhi61xtO6tJ-E0JZ8EQ~~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"
     ],
-    "welfareList": []
+    "welfareList": [
+        "绩效奖金",
+        "年终奖",
+        "五险一金",
+        "节日福利",
+        "保底工资",
+        "零食下午茶",
+        "带薪年假",
+        "生日福利",
+        "员工旅游",
+        "餐补",
+        "股票期权"
+    ]
 }

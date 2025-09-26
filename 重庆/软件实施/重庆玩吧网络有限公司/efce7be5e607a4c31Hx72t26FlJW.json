@@ -14,7 +14,7 @@
     "brandName": "重庆玩吧网络有限公司",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
-    "businessDistrict": "渝州路",
+    "businessDistrict": "大坪",
     "city": 101040100,
     "cityName": "重庆",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 29.539107,
-        "longitude": 106.516211
+        "latitude": 29.540465,
+        "longitude": 106.516413
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 66,
+    "itemId": 62,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3KoF0OnjQzU.search.66",
+    "lid": "1UwPXu9JSZy.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-6K·13薪",
-    "securityId": "u811RgxWGiPXL-c1yV9zTg-bSXlPd3e5FP9vGdilmMZkybPcw02ZBqMwAW-l5JsN3vC-Dy5tLNiBtgcqAX_McYQWyTm9Fit1920VBTaA1lC2Z0DOtUZi-mfsXu0hFhdo1XS41rCtsjS5_2-aZ35q2efr-MRPcaglENLvzd0PiDQr55Tv9DU~",
+    "securityId": "AjWo3pJxQDsP3-R1QN2SDDueW02x1K1Vl6_Cb7kTn4khyZ56jsKWNG4-M53CRgFhM2dIas55f2JSt6x4umkKoBv09fwJCXlA_Js4t3OOJQg1QN81wfsnYmV5hy-i0s1ojuTagm7rvgJHW0Av4B7o-qKtlx2ykDfwWm_lBtbNxYXtaWp4yv4~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",

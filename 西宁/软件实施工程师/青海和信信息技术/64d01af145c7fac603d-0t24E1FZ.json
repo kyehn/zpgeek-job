@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220705/607f1f3d68754fd0dbe78ecaf8ee44cdad9108f8915992075653e51f59b6b5efcd8d9ef54f2c9c7c_s.png",
     "bossCert": 3,
     "bossName": "赵先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事经理HR",
     "brandIndustry": "计算机服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 9,
+    "itemId": 69,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,15 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5cO0xZngSyo.search.9",
+    "lid": "1UwPXu9JSZy.search.69",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K",
-    "securityId": "N4DrAZBxPzbm0-i1W6Pv7cjnGqf499zlJMJAnqgX9LpIDuJEtKaw6OOSHqEWSlp1xTQIhKzOFjJ6wbQbflaWV5gXgvWvqUrMWiQuyx3UDnqBrGpAj-4o0ZJwQ7XUEDPMMk323c2tdSEToHzw__5Fdfec4ZWTKx6e5swwAcJ-_xsFUrCZuLc~",
+    "securityId": "NLTkgvDBk1d0g-S1JXNhu_e9zzUtW68QctvfwskD2hWu_06JTknONB16yEqI2nDtjz3PcdXv61STVuidshdNh-28D1r-Ejr7MYQNsKpAKekpu0Qjr7m66e97m-lh49naVP_TFXbc5baWUV8~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "软件实施经验",
+        "OA",
+        "计算机相关专业",
+        "管理相关专业"
+    ],
     "welfareList": [
         "节日福利",
         "五险一金"

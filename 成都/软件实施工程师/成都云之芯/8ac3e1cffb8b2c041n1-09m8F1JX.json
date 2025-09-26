@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "骆女士",
+    "bossOnline": false,
+    "bossTitle": "人力资源",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201009/e5d8358940023a51acc1a36c81754ce0b39e8d1093f652377654549ce404f55b_s.jpg",
+    "brandName": "成都云之芯",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "高朋大道",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "cefac311cbffe4610nV82d--GVFT",
+    "encryptBrandId": "6dd3b7342c3886201nZ439y9ElU~",
+    "encryptJobId": "8ac3e1cffb8b2c041n1-09m8F1JX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.623714,
+        "longitude": 104.036392
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 79,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1UwPXu9JSZy.search.79",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "Knx57PI90t_2s-C1OUYc0Q2yD5tNbjCDXehZr2QCLQIOLmUEz0e2ynuJ9TFTszJk-8oVcOKJnBeroz_Hp7fCLZAdb3u4GA9goxIyg71K3AgxD-Cz_d6p7X-JwGuNkZfEuT052NGjgUx8vNE~",
+    "showTopPosition": false,
+    "skills": [
+        "实施工程师/顾问"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "加班补助"
+    ]
+}

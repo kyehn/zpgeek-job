@@ -3,9 +3,7 @@
     "anonymous": 0,
     "areaDistrict": "",
     "atsDirectPost": false,
-    "beforeNameIcons": [
-        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
-    ],
+    "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231229/607f1f3d68754fd0cdd2c3cbf26d94cdf0094b226e44fa6076aed8c9a5bbe83bd0a98ccffc02f21b_s.jpg.webp",
     "bossCert": 3,
     "bossName": "王一楠",
@@ -30,13 +28,11 @@
         "latitude": 28.226406558375952,
         "longitude": 112.88534664307873
     },
-    "iconFlagList": [
-        38
-    ],
+    "iconFlagList": [],
     "iconWord": "",
     "industry": 101401,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 29,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -47,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "i3nlxVhHLK.search.25",
+    "lid": "1UAAhWyDcPj.search.29",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "面议",
-    "securityId": "XWZR2dwJli4J1-t1opnnMrSYp2PxsW1KPlca3JLR5eSokX1sg_vMSxft_PPR6f4_Hec6IVonkIkijQmUnMJanbrWUP3CQ3GeMhlgvP1Dz_0SMvwIotN50V6UcsDzi16jVxFGDby__x-c",
+    "securityId": "3S9WCTAiazKwO-r1fZCUCcj0cS5ycCVDwInAVDpYZgVO_lEyh6LvLjXAfHe4gsP1xgbUR1bltGUsFs6yxJETLcULghxX9AGTNoQ5Qwwbm3TPozU-X7Gr0yncolvvBEKb26vbBg2NaiXh",
     "showTopPosition": false,
     "skills": [
         "校招"

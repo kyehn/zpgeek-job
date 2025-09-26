@@ -14,7 +14,7 @@
     "brandName": "摩太科技",
     "brandScaleName": "100-499人",
     "brandStageName": "未融资",
-    "businessDistrict": "宁南",
+    "businessDistrict": "安德门",
     "city": 101190100,
     "cityName": "南京",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.961825,
-        "longitude": 118.76965
+        "latitude": 31.970189,
+        "longitude": 118.750439
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 60,
+    "itemId": 78,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8hEY5hwHLGN.search.60",
+    "lid": "1UyA7mIV3mp.search.78",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K",
-    "securityId": "7I8Xd0vFNjRr1-x1q5h9w49wdWUKCA8W_803VRSawCyxwtkM0BmNV-VMSzBe5B3GGPYZCgCA5BQIpHTSs9Qp-rK3d-luZ4_DFcDJoSh1TSNxx3gJOLCK-EoGazEeIdmPTj5aLjnpFg45ssVGX0HsOILqisDy5jF8pVcdP1Z47OcJGPcM",
+    "securityId": "hFKnr022ieJd_-x1FlgPA-q2Iw8dkZwGV9heuov-ycgYyeHp0jp4L_ICJO4rWnFjWmBm9vN9RIQrxL64z8NtTFa3NlzbTslSSZOVnUQvoTvdP--TtbJpNxL5v4C83JMmjTo5rF9ibul7CpuC_Y4aPe8Rk1UHWhxM6KW27I9VgFhxDaUG",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
     "bossCert": 3,
     "bossName": "宋强",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "行业总监",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190523/fe400098ba5c15c1bc18b6f22cec981a03aaac1497f6e35aecbb1f06c3919d56.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 29,
+    "itemId": 86,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aAbq7p3KY9.search.29",
+    "lid": "1UCYU3nrhSS.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "v4o125DbHMBUl-z1E2HCcDvA2v_0kKSTrl8SOrLd8P5q8bsAlAvixTCkTQDxcMPSFqGOluGxjUojtsVkjRfmFUt7KuNDmau4XxFzqUf_uZMyf_XGxCwzdxomS7ZuR1Z108UwnfICy14FxGIDe8SLcDu8q45PKfARpng1h3Ol41ZUWYZy",
+    "securityId": "0x4HbehdzlzPP-D1mT65D-kgGEv1O_GbJdjTGOD79u3d3XfLqD5UGrYgRrZSkPRPQ12vyeKVvHqiFqV2k6NXDaxU7EnpZXwyzVCbaCDZXDLOpsKwO_6uZzZqSiECICMDch_MVQB-iQzD",
     "showTopPosition": false,
     "skills": [
         "Python"

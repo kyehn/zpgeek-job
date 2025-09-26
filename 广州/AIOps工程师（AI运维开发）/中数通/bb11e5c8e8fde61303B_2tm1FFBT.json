@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220215/607f1f3d68754fd0364c648daad24bdf8a0bde59423bb6e7c5d71b70c4dae0860b3f1aec7c1699eb_s.jpg",
     "bossCert": 3,
     "bossName": "张浩",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250318/7bf6f160950405e9f39f74f14ba17e84ad2bc5117efe56d62184fe7c05116371ffc6ee3a793e548c.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 21,
+    "itemId": 30,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cTmHYXzw0D.search.21",
+    "lid": "1UCYU3nrhSS.search.30",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "wMTGddGL5HTYI-d1ZGDUJi45GVececuWNYaPnk6-btsQqFzS0YwV6ByF5tAtHPUkuG5633P3Xb4dKvBp52l1dzgjQD5mhEa_bUDw0cIDL047ydnGlZdPumQT8Z6qzXiY9GtyCR-_",
+    "securityId": "fKUorI9aaSd46-r1iNbvNA81K1VCOyTntusct3jEjn0e3D4KYtf-GhDo1ZqnyiCd-uQe9YK9m_j0rYG4wlFnAVUM-n5ybiMKLZo0bC8mmjyGBezwd3xLOrORA6vCZEBHvQYHDU1jdCfx1PHJbzCIopSBblxkHkyCw6VL4Qfl7Ujw",
     "showTopPosition": false,
     "skills": [
-        "Kubernetes",
-        "Python/Shell",
+        "Docker",
         "Hadoop",
-        "Docker"
+        "Python/Shell",
+        "Kubernetes"
     ],
     "welfareList": [
         "五险一金",

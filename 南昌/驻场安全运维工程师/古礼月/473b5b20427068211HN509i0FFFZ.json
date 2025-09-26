@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "青山湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "魏女士",
+    "bossOnline": false,
+    "bossTitle": "副总经理",
+    "brandIndustry": "信息安全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200519/a0938785037944cf9adc3d69e379b31d43d16196b9bfbc4aafe2c30d8b57439c_s.jpg",
+    "brandName": "古礼月",
+    "brandScaleName": "20-99人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "瑶湖风景区",
+    "city": 101240100,
+    "cityName": "南昌",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d4fd07c5c78f56ef0nR53ti6EVBS",
+    "encryptBrandId": "eee7772b812b6ff633dy3dq_EA~~",
+    "encryptJobId": "473b5b20427068211HN509i0FFFZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.675549,
+        "longitude": 115.989201
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100016,
+    "isShield": 0,
+    "itemId": 67,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "驻场安全运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1UGo6onthFi.search.67",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "fUe68couGyIeY-s1jXr0--_lGlofDpCXKqVrZHtQEso_PGAohRul4TxOOdp1bgOwIgpkLbpS7hYrjkwTgCqQKPixw6I4lttgyqr6zFb0ahY28s-l0vubWBkk6QaayMqRJECBoFaAC4yviQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维",
+        "网络安全相关经验",
+        "CISP"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

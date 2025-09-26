@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101113,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 10,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,16 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TjLp5mi9r3.search.2",
+    "lid": "1UGo6onthFi.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K",
-    "securityId": "zpsjjt9X8gDlP-F1Pc71TCMdYZ9CQkXDsaPebFDaRB_W8HsEp_HqJ-N7Bz2FBKgmWFZDyvZQa7cUXgaxajEJZ5ArKhz3R06blsEhVJs8MXUOXlieYW2MnREYuEqpiRqWmeh5IndF6FLDNJs~",
+    "securityId": "QoCCz632nPxfA-n1U-z5x66MfHOWgoe7U_C-qNwcGQFfSf4hiGf4Zr4hHLFxzPr8cKObv2F8GsBAC7XJVzBYAGgyCCizZlKZ8KtWkFvzFmhjDm7djIPIs0OwFGIEEUTH5m3J1FSg-rH302k~",
     "showTopPosition": false,
     "skills": [
         "企业内部IT技术支持",
+        "IT技术支持经验",
         "Java"
     ],
     "welfareList": [

@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "金水区",
+    "areaDistrict": "管城回族区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180628/719d22000dbe59e61112f719740be8d28c71e3517af39b47f3d92758ebbd85a5_s.jpg",
@@ -14,7 +14,7 @@
     "brandName": "星空企服",
     "brandScaleName": "100-499人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "经三路沿线",
+    "businessDistrict": "郑州东站",
     "city": 101180100,
     "cityName": "郑州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 34.784021,
-        "longitude": 113.692154
+        "latitude": 34.743366,
+        "longitude": 113.77327
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100605,
     "isShield": 0,
-    "itemId": 55,
+    "itemId": 82,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "ixl968s125.search.55",
+    "lid": "1UCYU3nrhSS.search.82",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "kwI4bMLR_WOpK-c1WjC7kqLk0LWfImTO_SXv2TrjUvxLLPVfSwR5slaJZQGEXsSItjMjTYZCxkJvoFjllS3MWiTzG6Wv8T87xZlpnPstJRDR9-ERX7nz579TxoLehN45x5g8Ms7qD3UC_YLO6gn1pIYK3Kbv5vux_lTRyBLJ4auEb4C8CQ~~",
+    "securityId": "MDnQxUOiLxKqj-h1kcppvh8wNah-Z-gAyF4z4spAFxXEwL5lLDss0DeSJOHWbY68b7P-vjLoMaw4B9XENYVMAIHjhoV74f2ga0Fzl8UOa4Ir96lkXXw2k8J9_wMzyEGRmYIW7HSDNQmwJ_iNb5zgq6yx7bpoz7vztsDTvtEi4J9cfOAkFA~~",
     "showTopPosition": false,
     "skills": [
-        "后端",
-        "数据开发",
-        "机器学习/算法工程",
         "Python",
-        "服务端开发经验",
-        "全栈开发经验",
-        "爬虫经验"
+        "MySQL",
+        "MongoDB",
+        "分布式经验",
+        "Django",
+        "PyTorch"
     ],
     "welfareList": [
         "节日福利",

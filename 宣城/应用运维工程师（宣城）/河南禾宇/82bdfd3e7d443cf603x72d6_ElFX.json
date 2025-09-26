@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "宣州区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250804/607f1f3d68754fd0e4b85e0c42c88c4d97eb6adc040d95520762e4edc2714edf5397df969d345572_s.png.webp",
+    "bossCert": 3,
+    "bossName": "吕曾连",
+    "bossOnline": true,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "河南禾宇",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "丽晶国际",
+    "city": 101221300,
+    "cityName": "宣城",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "86f7a815c8361cac1nRy2dy-F1FQ",
+    "encryptBrandId": "0228a33a2a740d201HZ829W5GFs~",
+    "encryptJobId": "82bdfd3e7d443cf603x72d6_ElFX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.956262441582403,
+        "longitude": 118.78206015073654
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 1,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "应用运维工程师（宣城）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1UGo6onthFi.search.1",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "ShJalgJxpZEjR-D1Dc9tnftf_AWDiT8-ZebJs4EKkVvr3_JLE4bd0PhNCqPWRZDZ75is-0opjvq4zaJdwx7IShDYU1Y7Q2zpu8IdePrNM-8zZIzSn5e2H6MMZdIKiCIeqIdEnikWUnJof5Dob1vM1EXdw0u5dv8Amo-B1kODO7i8mpHjin4~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维"
+    ],
+    "welfareList": [
+        "节日福利"
+    ]
+}

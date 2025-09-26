@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 38,
+    "itemId": 35,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1eE4FddBNSm.search.38",
+    "lid": "1UAAhWyDcPj.search.35",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "svmyq9Iu18oPb-I19Fk81aSR7JjucL2s5MXhtXW30wAh5yMbA0Nvl747c_71QzeLgRNrPvbicFE47LKhjD-TxbHvm5vF3ovmndihFSUaKBpq-L-DzyRMa6r57USAS2jGZfeSXfE2JpEHBTwgIpD8Bj1ygtVGuizQCycBRDBXWbZ8Gwz9",
+    "securityId": "W59Obb_K7DmO3--1Hg3vBUFKysHXjMY03FQKWgZ5ob2rymhKSuGDudM1SumJMyuYGOjwBJRjcsTXsNgZu1Pgm0xI0Kh8MmHHLE_PWo6t_Gk_I3c8yP_ph7FMcTPPckKRZYFb8r_IsxtEq6ma6ZCODhXHR0v70NeqI7JxLBdwVatFd0o4",
     "showTopPosition": false,
     "skills": [
-        "手游测试经验",
-        "主机游戏测试经验",
-        "计算机相关专业",
         "丰富的游戏经验",
+        "手游测试经验",
+        "性能测试",
+        "计算机相关专业",
         "活动测试",
         "测试流程",
-        "性能测试"
+        "主机游戏测试经验"
     ],
     "welfareList": [
         "绩效奖金",

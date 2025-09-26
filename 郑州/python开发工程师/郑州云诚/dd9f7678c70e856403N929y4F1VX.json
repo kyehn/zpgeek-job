@@ -22,7 +22,7 @@
     "encryptBossId": "3cf747a93dc572110XJy09u-ElE~",
     "encryptBrandId": "80a7378295e4f24b1XRz0960Fg~~",
     "encryptJobId": "dd9f7678c70e856403N929y4F1VX",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 34.842138,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 63,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,23 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1BSAgRLh7L2.search.11",
+    "lid": "1UEFtwCunpj.search.63",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "fxZqwVoCWUp6x-w1qHJzaepgL0qDnzej6ST3yvrUnFCtv3_93b8wW4T4uefax4je8ljFt0R5-5Q_050nSw2NrgfvBiVBeFWe6_zppK7gFbapNUWLvDKY2gvQGRdEZEMgnKbyKE4N25PwXbLPQJZAg_n9zQAmu1upvQ2t3-AbZhfX4XGd",
+    "securityId": "ihnhGp-ZcctR7-w1sgQJi6ZVXjC3Y7AtICQZTK-MApyXdu6DY6nomD5okVfL1np-1ENYq4XyKQDSfDia3fjee-u6QVzr-cnqzJ3cnELn8oH1EJ19k7-kJPeAYILqtCdZdvUNN956-kPqQ9nXSjGedM2tZE352bjnrD1sFkxNJrCJxwCb",
     "showTopPosition": false,
     "skills": [
-        "Python",
-        "Django",
-        "Flask",
         "Docker",
+        "Django",
+        "PostgreSQL",
         "MySQL",
         "Redis",
-        "PostgreSQL",
-        "Linux开发/部署经验"
+        "Linux开发/部署经验",
+        "Python",
+        "Flask"
     ],
     "welfareList": [
         "员工旅游",

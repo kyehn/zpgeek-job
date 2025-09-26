@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,30 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "zp2IzRBiNp.search.2",
+    "lid": "1UwPXu9JSZy.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K",
-    "securityId": "WqTYfH6JB3FnL-Z1fkIkEIz6o6tX92aVcSCdj3Z-_8GWHLceHajIRwtOB3mlM0cP2xvJu0Ah6MY34e9klWAZZ6hDtnVZiCEnx4QDukInI1CM9ZBIFVSKE6hiWvdwUFGWxOVH9pRtB0nk1jyhS7zZa-5JlncqiWm9uGWKmgjLMH-pLzA9",
+    "securityId": "kI7IqRx8zHYbF-A1M0fFL1BO2fM7OzzzeKYKnM7UqEVbEC_5GS7APC7E1PvntkAOwKulGOhzlsnqe1JneHOM2IVfPK7qxy_qWLLzz5hdXkkNOGFoxJLRTV1-2ks9CBlQ6PBNZrXN3uxRXm11mdkj4_ejg4hOMUs0Bdy67eWE-2Y6IQqo",
     "showTopPosition": false,
     "skills": [
         "实施工程师/顾问",
         "软件实施"
     ],
-    "welfareList": []
+    "welfareList": [
+        "补充医疗保险",
+        "意外险",
+        "节日福利",
+        "免费工装",
+        "生日福利",
+        "保底工资",
+        "绩效奖金",
+        "工龄奖",
+        "有无线网",
+        "底薪加提成",
+        "交通补助",
+        "团建聚餐"
+    ]
 }

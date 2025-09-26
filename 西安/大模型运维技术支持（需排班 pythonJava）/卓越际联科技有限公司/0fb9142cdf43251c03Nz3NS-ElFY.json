@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "雁塔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250922/607f1f3d68754fd0956c778c9d62464fc3e56d249d58713fb3cd2579edae1583a33d22d7fddf044c_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "杨女士",
+    "bossOnline": true,
+    "bossTitle": "高级招聘",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240105/7bf6f160950405e9763d940637ab43c1b6bf9ec44707a6cd04c5cab85daa86eb9e7e03c57e4518bb.png.webp",
+    "brandName": "卓越际联科技有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "鱼化寨",
+    "city": 101110100,
+    "cityName": "西安",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "47d20526691dbcd91nV92t24ElpQ",
+    "encryptBrandId": "9a80334346a8f4661XR73Ny1F1Q~",
+    "encryptJobId": "0fb9142cdf43251c03Nz3NS-ElFY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.206951,
+        "longitude": 108.836117
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 34,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "大模型运维技术支持（需排班 python/Java）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1UCYU3nrhSS.search.34",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "Lw-qmEq0u186x-s1luEzQCtzI8DOo4MxM148HJVvy4F_mfMGIrm-z_vI36ZmJUZjcCiie2Lm3bfSaFSDc7ywTK-rMSy0VSQn2IdJ_s8YmE_CjeZEe3VFc-a81aGHdGaAEgh54AwhFm9YfGFJon3SYAceguwugw2-nQMA3H7vVKxsjjtC_0A~",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "Java",
+        "大模型算法"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

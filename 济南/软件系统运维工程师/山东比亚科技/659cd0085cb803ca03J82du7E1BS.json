@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
     "bossCert": 3,
     "bossName": "徐女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事专员",
     "brandIndustry": "电力/热力/燃气/水利",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190222/bad6c3f17c656a33471c48b9ec9329411180bac9f9123d082df2322ecdefb520.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101205,
     "isShield": 0,
-    "itemId": 33,
+    "itemId": 72,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "zBmI5SgCde.search.33",
+    "lid": "1UGo6onthFi.search.72",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K",
-    "securityId": "C3DU8tvUZnEmJ-C1fsEQ_G4KhzYMguqsyHhVV23eEITPDV9JB7FzJDmDfjEpNGaitX7WG2mGdi5vmCVk4jBVeSDvmntqSj-rqAZzesA7RntBdvf0GRt7D-fWTXi8T0w-cL_Umxa03S_4zvdcQ58VCBnhPM5AbR78Mhjwe-U6d3zPJLNP",
+    "securityId": "ClUGMr-XiL6VH-y1AGqeKc2IQ_c6mmqz9fXLaUT_4wdvGAj9L50nY1Um5PnBeUv_EAYCnBHcyVqVVkRaD5CvNyS0K4j-npNmvSi7VRmkv87IWMMqoaLT6HXA2VSVZVSyO52zuBhFHcuL",
     "showTopPosition": false,
     "skills": [
         "Kubernetes"

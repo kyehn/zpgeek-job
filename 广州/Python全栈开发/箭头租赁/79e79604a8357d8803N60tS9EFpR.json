@@ -4,7 +4,7 @@
     "areaDistrict": "荔湾区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240318/607f1f3d68754fd0fa1c2a6e4287e811ff10c37662d6656a810b4a9c640c26fabb4191a9490dabef_s.jpg.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250912/607f1f3d68754fd0a7dbe298bbcb87c621615ef8a0619f00810b4a9c640c26fabb4191a9490dabef_s.jpg.webp",
     "bossCert": 3,
     "bossName": "冯女士",
     "bossOnline": false,
@@ -22,7 +22,7 @@
     "encryptBossId": "1057cc11d1dfc8830Xx93t66Elo~",
     "encryptBrandId": "4f032feff7f165771n173tm_F1c~",
     "encryptJobId": "79e79604a8357d8803N60tS9EFpR",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.052157,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 80,
+    "itemId": 75,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85sblJfwnc2.search.80",
+    "lid": "1UCYU3nrhSS.search.75",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-11K",
-    "securityId": "nFBHsih3Lqtz0-f1J9pXRb7Wea14MOgoEIq0y-YkSUpp4Q2eAbfTPXoBS-bH6y-1HCb5nXui1moKmPHyApkH2Yd8IeNs0uRnP1bHEKfp23E30Ii42T-HEq2TPYOFsTis0gIn1lOnClSsoA~~",
+    "salaryDesc": "9-11K",
+    "securityId": "L9Wf6qPIAM9kY-j1Hhskn8iNPL2gTAJ9LlDh8eplGoAcNFvlReyjdZ5NN9YpKMclkxsqcei32cPd-PnZA62vflViygPmQdQHaeI7dRWA0TDR-ulpmpomwTz6g6N8of9kUnyq0ltiQwxS2w~~",
     "showTopPosition": false,
     "skills": [
-        "Python",
+        "爬虫经验",
         "Pandas",
         "MySQL",
-        "爬虫经验",
-        "架构设计经验"
+        "架构设计经验",
+        "Python"
     ],
     "welfareList": [
         "带薪年假",
