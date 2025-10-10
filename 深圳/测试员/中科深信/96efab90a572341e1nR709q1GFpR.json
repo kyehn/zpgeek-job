@@ -22,7 +22,7 @@
     "encryptBossId": "a5bd0ac4294137841Hd-0tW8EVM~",
     "encryptBrandId": "26635a787a8d9de31nVz2964EA~~",
     "encryptJobId": "96efab90a572341e1nR709q1GFpR",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.68372,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 80,
+    "itemId": 62,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,24 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85pd2ttRncZ.search.80",
+    "lid": "8nsKqOFmLjD.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "B7zo5IKsdzX4H-l1BdCwCvBTEyGvXafBQ-XtDzu4Uq8oDLODqFQLuvhDNEIaCxVPbNjI7VzVHXPHAg04r_jQj0Uh6Xfb708EZT2XmPSjDCTehRwPynF8pbBFNWSLAN_QorWcXHFfMK6L",
+    "securityId": "lEJG8pfRPJbbL-C1__L6GAO25CvgmL88IMAIOnJ6weGOM-EVZRVISUWrjVHzt9BYqlPuuQlUSvIwxjSkBuwoLUo1FCRyYDOPQniKDc-PhN9evJxgojb77P9RqPPbwn5Hz3OHvmBnpMdg",
     "showTopPosition": false,
     "skills": [
         "测试",
         "测试工程师"
     ],
     "welfareList": [
-        "五险一金",
-        "定期体检",
-        "团建聚餐",
-        "生日福利",
+        "员工旅游",
         "零食下午茶",
-        "员工旅游"
+        "带薪年假",
+        "节日福利",
+        "定期体检"
     ]
 }

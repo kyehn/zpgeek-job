@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221009/607f1f3d68754fd0f456a234bcd952ec4732edb20954eee63a599138119379920dabd4ef8bac7f00_s.jpg",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "行政人事",
+    "brandIndustry": "游戏",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250624/7bf6f160950405e924a7c36318c589f56f4b8a11576b3cac3a599138119379920dabd4ef8bac7f00.png.webp",
+    "brandName": "杭州芥菜子科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "西溪",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "57619edb8de777520nZz0tm-EFNV",
+    "encryptBrandId": "04fc75ce983bcbb91Xd-2tW8EVA~",
+    "encryptJobId": "1ed8dc4b64888bac03N42Nm4E1tT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.281348,
+        "longitude": 120.120738
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100002,
+    "isShield": 0,
+    "itemId": 27,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "游戏系统策划师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8gNr9Tj0gKa.search.27",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "kGikR3pdeL0cB-Y1rfkmnYIMU60ofuhb1RvLrCbJIpcTsMPK8F2MC4Am9f_jvSvzRpv7WF1pppnZV9xchLH-o-SZ4FdP55pIST6DRwNiBOK67LBi0DBxn6LnRF8x-5gagU8VDVwEDQStH14~",
+    "showTopPosition": false,
+    "skills": [
+        "动作冒险"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金",
+        "节日福利",
+        "团建聚餐"
+    ]
+}

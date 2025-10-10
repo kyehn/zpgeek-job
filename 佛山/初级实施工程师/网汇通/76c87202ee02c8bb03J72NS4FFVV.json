@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250722/607f1f3d68754fd023264ae84bd854219e3ec9b917ddd6f06c5ffb346ffaf352b8c98c73797f977a_s.jpg.webp",
     "bossCert": 3,
     "bossName": "戴女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 66,
+    "itemId": 22,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1UxQd83iOPD.search.66",
+    "lid": "8dbd2Boz6jz.search.22",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "GzWNuGFWMgnQ2-f1cll3k2Cs0kmtrItI_VSIuH6RoCOb0gR28Ozs8E34wphEUsRgmbSvqvMQU4tFH3rJl6lLjpCM1R8cFpx3rkCtUDYYS70dpd9YMUXeiW2DoZiJA1eo_Dh2jnPIHvTgFHg~",
+    "securityId": "FMRBjyDOl1Kql-319HM5CLCGDkh6UYitIwSsM3HsCglesJE2jdoyjmPun7rHS-wCIyoGr0l68tzWttXM0C0dcm6ptCptxNUSEMjLbff0bdMU0h7P6y4KWgFBsVpWQsGbLsmM_kKrOZrgFzVwXVxKPOJ4xsrUmAigusDsGpRxH6R02BgLxCw~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
+        "可适应出差",
         "ERP",
-        "可适应出差"
+        "运维",
+        "售后技术支持"
     ],
     "welfareList": []
 }

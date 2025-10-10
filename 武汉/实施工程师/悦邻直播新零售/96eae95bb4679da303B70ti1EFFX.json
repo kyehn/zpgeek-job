@@ -4,7 +4,7 @@
     "areaDistrict": "江夏区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250401/607f1f3d68754fd0bc1a102ad593da77731f19e035e3f1438fb1d2b902303d9834c28ef13302cb35_s.jpg.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20251009/607f1f3d68754fd03677728b71b79ef7d7e64fc23299f5058fb1d2b902303d9834c28ef13302cb35_s.jpg.webp",
     "bossCert": 3,
     "bossName": "姚明慧",
     "bossOnline": false,
@@ -32,42 +32,43 @@
     "iconWord": "",
     "industry": 100017,
     "isShield": 0,
-    "itemId": 62,
-    "jobDegree": "大专",
+    "itemId": 44,
+    "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "大专"
+        "本科"
     ],
     "jobName": "实施工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cOhhDxpzoo.search.62",
+    "lid": "8nynVGyvjoG.search.44",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-11K",
-    "securityId": "4qrJHr6mrlyKA-z1_CzBkzlD7u7sfKASgZn_A8c1pt4I3xMfci3NTS72tkYek9piDlIqgNkrpo6uKTq2FLhVgoeOoVqnfY16TGi49jTr6WFSxqS8W8UeNsLMJsj_BRRdHXXYNFYo-KIkjw~~",
+    "salaryDesc": "7-12K",
+    "securityId": "UdgZagJtLCKYC-G1FkrKkJGT6GzmiTOukguC6pQ7iUWKWLOXo4ggp9jynKuH61LNNXYJXd40V7D0DV8ttzGR7-bBv2IWQ8pQxyK3ET8iYtGamEJCbBUMBERho2HWWnaDDkldZM_7mA_xQg~~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
-        "计算机相关专业",
         "ERP",
-        "CRM",
+        "SAP",
+        "计算机相关专业",
         "SCM",
-        "SAP"
+        "CRM"
     ],
     "welfareList": [
-        "有无线网",
         "节日福利",
+        "有无线网",
+        "带薪年假",
+        "年终奖",
         "股票期权",
+        "五险一金",
         "餐补",
         "保底工资",
-        "零食下午茶",
         "绩效奖金",
-        "五险一金",
-        "年终奖"
+        "零食下午茶"
     ]
 }

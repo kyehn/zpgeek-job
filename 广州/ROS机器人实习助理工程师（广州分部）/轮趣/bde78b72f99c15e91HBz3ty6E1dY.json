@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100028,
     "isShield": 0,
-    "itemId": 78,
+    "itemId": 84,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,20 +43,21 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cTRG0duiMq.search.78",
+    "lid": "8nnGXOEsY0I.search.84",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "n9S3OQCQVvcUF-f1ahkv4TcVrmxQ_VgICLUErH-kd9XPpjYYt8SZGMXITVJ4JjX1ZaZOB6Omh5MjqDEkPLXDFPvuatYlNotevxPPJUGcaCdXiZgQCPKl5r3RBP7iwDBzM8b15Y9cAE0_3g~~",
+    "securityId": "5LPSwC21SHU7F-v15CJhTpSnpmNdtDh7hVY5gF-aYEGSXRFwzv9KQIIeOfqM0IdnOlQEseZ-X07oVDyHilcHXT8LPox95kI_LyrPiGh-g6ZvnkgFAlV68ps0-zV6W7Hlf9ggmJPXCI9LEA~~",
     "showTopPosition": false,
     "skills": [
         "python",
         "Linux",
         "ROS",
-        "c/c++",
-        "ros"
+        "ros",
+        "全国智能车竞赛",
+        "c/c++"
     ],
     "welfareList": [
         "生日福利",

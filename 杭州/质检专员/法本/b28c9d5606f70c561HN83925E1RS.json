@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230626/607f1f3d68754fd07d62a93ac37f00a0fb07b143f78e35df46782360bc250ed12a89020977d6b20e_s.png",
     "bossCert": 3,
     "bossName": "赵紫瑜",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/32931505697e3fbef594fb9ca3fd94a5cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 33,
+    "itemId": 59,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "63oyZN3u8Gl.search.33",
+    "lid": "8gQSlYt34wG.search.59",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "t7QTRoy3QpOjN-0123r9ASF_HKUroQb1nTVPSlAv05UkOMBGHKnsqLzM5v0t2EB8sapURYXH9lKsGNJPAzY8EpZWV0PXfbylFNttdLmtpaeeKtqqQo1algKfnnV5rsb_q21MPuAT_AhyRzqxffszLkax8ATC6SmRlCa9gNMUaQONiNw~",
+    "securityId": "7KFtfFW8TP1Yi-a1AYAZBo5PP6UNdyl5nJTirNbfQcws-NobQYOnZ84uRHy6os83k53GjvWx5lS3xlqQYn9CCoqcVW-koMgLCtKrrQIV9Jco_gpWDJVT_3_BiZeT9EnJD34-NgaUF1s~",
     "showTopPosition": false,
     "skills": [
         "建立审核标准经验"

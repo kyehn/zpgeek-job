@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
     "bossCert": 3,
     "bossName": "骆女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人力资源",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201009/e5d8358940023a51acc1a36c81754ce0b39e8d1093f652377654549ce404f55b_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 79,
+    "itemId": 71,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1UwPXu9JSZy.search.79",
+    "lid": "8dahkO8a8MC.search.71",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "Knx57PI90t_2s-C1OUYc0Q2yD5tNbjCDXehZr2QCLQIOLmUEz0e2ynuJ9TFTszJk-8oVcOKJnBeroz_Hp7fCLZAdb3u4GA9goxIyg71K3AgxD-Cz_d6p7X-JwGuNkZfEuT052NGjgUx8vNE~",
+    "securityId": "gZQUjvFuym_zO-O19wy6USOO_jq04pZZWMFsM6P8HvrI0Fy6IGGf1fMP5YYjdgY-DxfvPqZsXnfWFhO2tM0MxWp7Q_4kRx7siCIDvtBKxGtPKFwzpvpZtK-ZesNsdIFrOdYFX6BG9C6ZpFgNVMOQpXDULK8nRj4RsHwOb3vSp82rtHFK1Zw~",
     "showTopPosition": false,
     "skills": [
         "实施工程师/顾问"

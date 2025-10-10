@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 66,
+    "itemId": 77,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d0mL38IV2Z.search.66",
+    "lid": "8nynVGyvjoG.search.77",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "1GhSKlaKsjhQu-51NVPJn6pK8rdvtxJgbwhQXUIVgWr7OTDgXMwN3c-g-oi-bzaombAecztAOb0dCT6iPV3eQyXZ2hu8JMC6ESgRZSKWzbVqmQNwjKVFFaxrL1EVqSFpyxFqcrotCiwo7g~~",
+    "securityId": "akcE74EYMS4Ee-E1baAdq9Qk-DJ0r9R3NcuZijOHDMSocNIm8LzrNlHGx7xhNEuv4hEusDxBRM05SE4t5wBgR3BpL6510-zvhJlNch7iOZNV5s98qVm5K4xbig7Ws-x4lAbc9zMeNlVcDw~~",
     "showTopPosition": false,
     "skills": [
-        "ERP",
-        "计算机相关专业",
         "软件实施经验",
+        "ERP",
+        "PMP",
         "熟练掌握SQL语句",
-        "可适应出差",
-        "PMP"
+        "计算机相关专业",
+        "可适应出差"
     ],
     "welfareList": [
         "带薪年假",

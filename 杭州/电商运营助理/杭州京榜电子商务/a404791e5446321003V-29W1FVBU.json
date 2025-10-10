@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240528/607f1f3d68754fd0268bc4c6e0a4f493476b6ef82e42202d55d811f684a52ed5577b7a442d526c74_s.jpg.webp",
     "bossCert": 3,
     "bossName": "赖先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "总经理",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240723/7b5b554d84f9729caaf96d51364ad8446059e3fcac7116b555d811f684a52ed5577b7a442d526c74.png.webp",
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.130724,
-        "longitude": 120.171823
+        "latitude": 30.148947,
+        "longitude": 120.166118
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 50,
+    "itemId": 74,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fI4edmw5Gx.search.50",
+    "lid": "8gQSlYt34wG.search.74",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K",
-    "securityId": "HBnQFUDml2s4J-N1em8k5EA05jIs0jvHvtEnBxp91HbtaLRlav2IFM2expaoYLWeTr5NCTOdv1PMgCA1TeH-e6NWf4lwbkzwkbwEYYra4E0v8uUcy0lqtYheKrNvjP9pjut9fUb4kuKdIw~~",
+    "securityId": "6BbC9JvN7Sn68--1zK5izgfyk2sRS6Jq7MJrAtpJbb_buKiGQEt_oXDDR5oUjTy-79oE41ImftWYZt1tJaCzp9uEoCrazJBQZfd9ZsaB3We6zITXamfnhKaUs5fHkeG5zMcLss1w08yZCebdSPehbE1qhBuTlR2PnukEUvunxBjZaupUwA~~",
     "showTopPosition": false,
     "skills": [
         "服饰/鞋帽/箱包",

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 41,
+    "itemId": 26,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85xEbs27CVU.search.41",
+    "lid": "8neGgrunpeZ.search.26",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·13薪",
-    "securityId": "KDDto0wKJAQzO-e1-iRm-3Al_h-UHSHiiGl6enFxoHQ7I9U_IwmWMecKAitz6clmM4r2Od9dYpLMVPaxYOyp6mC9476CUgpXQPvEC1TsXcGndcmrAXQ-AAIR8g-RfwfKvZMIW99f7ddz",
+    "securityId": "xhMixON6iV15z-L1emjs7MorBe_5WNuRigLmZuWhBpu0-TtM9h8F2RgGT5kFAhZ_vuIP0X-K4k4F8JG0OT9CcFfsCmbOQn16IAk6EXko3QIpqlg2NHG4IbD8kDX8R0Hrgatx3BYqK0E4",
     "showTopPosition": false,
     "skills": [
+        "JS逆向",
         "python 爬虫工程师",
-        "selenium",
-        "JS逆向"
+        "selenium"
     ],
     "welfareList": [
         "加班补助",

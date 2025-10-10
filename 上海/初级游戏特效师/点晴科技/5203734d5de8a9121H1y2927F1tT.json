@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 1,
+    "itemId": 5,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85B2THOhhFi.search.1",
+    "lid": "8n8tMqdDA4n.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "smRgHjLhbvfY3-L15_dYH3yODeP_RytuHuwDl1HQPDS8fgHfhRaxqVdhZX1lqGtbaiTKUqy7L388EnTLKUhHPytce3f9c5GVOgpGL_qvHbAD0kl6Sue5cJR6iQKHE9zdziEkevWvtWF6UsjBPSxeuZ9IwAnEAtWAs1rqF8G5acNGQ6OB",
+    "securityId": "YiQO5CUZfiVKy-p1y7dgVS1YFH3tHN9d8u4o96ta2TmY17OaUg6cd51jUDQ3JxUyS6Q74mFq2_4R7d47U8SKiVUqoskmHQAKDb2lhWdRTyf0zNjh6n_jU-ugT-rZfiHKvaJAEPBkcIkKZnC-TacOBtsha-ob5SDY78dV9bPrlliECuH2",
     "showTopPosition": false,
     "skills": [
         "Unity 3D"

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "周女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180223/93cede0e2ca156b279a80046d0f6891aa888c11a44dd5d12b3d9e4873ae5e5e4.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "db583975d166d7700nF42dy0ElJW",
     "encryptBrandId": "04ee6eb2b6eac4341nB839-4FA~~",
     "encryptJobId": "4eaf3ffc52b378f803N539q5FldS",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 40.036804,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 40,
+    "itemId": 22,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,17 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85wbY5EFkMw.search.40",
+    "lid": "8ngf2u8JXxO.search.22",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "XpfSDlr0BCijp-e1T80qomEZvfe2zQY5vOtru_mcZZC4yzqtGHgdBenxGysj5yNeSc-uPfZQ9H8ehtgGweV7pgvmCzApy6UvhJrFqm53_2Okml-iZTugTpPK3e632kuhYFbnmRw4ty0he21S8PVG7UoAUy0Ph3dAswptDuiQYPt9iyH-MQ~~",
+    "securityId": "mq50jKdCdP5EO-N151nP3q6UtgI3LsoIjxEb9LRfOYwRtDwOtc1mCuZgSvooDOVYtSoLs0ZEV6gLO99L6j-agxrtaxXHk4MQlPM4FU3xnQ0zPuG4kIwi_m1rRVRCMGtHnO65KG7bYHc1CA~~",
     "showTopPosition": false,
     "skills": [
+        "Nginx",
         "软件系统运维",
-        "设备运维"
+        "MySQL/Oracle",
+        "系统运维",
+        "计算机相关专业",
+        "设备运维",
+        "运维经验"
     ],
     "welfareList": [
         "交通补助",

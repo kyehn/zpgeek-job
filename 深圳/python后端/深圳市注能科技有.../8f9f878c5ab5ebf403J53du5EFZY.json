@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241225/607f1f3d68754fd033b0a6abd6cbffbcf8b0f8dbceec7c1c160f756bc6993dae5cad9508a6800ec5_s.jpg.webp",
     "bossCert": 3,
     "bossName": "杜先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "管理者",
     "brandIndustry": "智能硬件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210527/0a0e96783d75d98ca0c808caac2ac39bdaf8f6284c7663e97b6e2acdb68c3257.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 38,
+    "itemId": 42,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cQC3O6Fmf8.search.38",
+    "lid": "8nveVsSg9x6.search.42",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K·13薪",
-    "securityId": "SY01LM0ICysd0-p1owzPaKV2XhxZq73jk_evvYTur3V3Apb74YSPjkZ6ji0Npe3SNZ2bH9OUNZZlYVGSvnTKMTTMDlEryjP1VIqPHqiQog9JiQOljS6k0wQEXRoqElX4TSOSBZ5WE4LI0W6yz331jnKzE48J2pGoel4YA0R3JF7IG7-FJVY~",
+    "securityId": "rg2XvIbU-kM8B-M1nlzq41XOLI4ZwZc82Tnmfpjpx6WVA4KX_aClaRpTsH6sMjvyds69CiUvSy0HV3MOML3pCbq2q56q4rFelYoGMimOK12pUno65getjAOijjogclrMmtKn0VS071LgX_k~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "Docker",
         "MySQL",
-        "Redis"
+        "Redis",
+        "Python"
     ],
     "welfareList": [
         "免费工装",

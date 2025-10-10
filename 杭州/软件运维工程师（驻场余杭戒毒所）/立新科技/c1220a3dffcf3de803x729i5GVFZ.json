@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "余杭区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "檀女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220512/7bf6f160950405e926c1f4503b1045208204949681e13099be8275f445ceb28c5c2c93bc685bcea3.jpg",
+    "brandName": "立新科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "瓶窑",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fddad506cbeebe730nV93du_GVZR",
+    "encryptBrandId": "31fe00f45c2003b21Xd-0tS6EQ~~",
+    "encryptJobId": "c1220a3dffcf3de803x729i5GVFZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.366677530705374,
+        "longitude": 120.00942644738072
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 56,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件运维工程师（驻场余杭戒毒所）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8gPZ4IT8bE1.search.56",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-7K",
+    "securityId": "12JaLzA2TjrL8-01SkvY0hZNvbV1_oSfsxQShn9poy15VlITzdRwf2tv1jOm8g6JxUo5tpRw3ueGKQ1PwADwyKGgTTUuNnrSLcVJCrvVnJBwQQXgM51K6Wh2103E6JObXBVlrvIA3lSkyg~~",
+    "showTopPosition": false,
+    "skills": [
+        "MySQL/Oracle",
+        "服务器虚拟化"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金",
+        "零食下午茶"
+    ]
+}

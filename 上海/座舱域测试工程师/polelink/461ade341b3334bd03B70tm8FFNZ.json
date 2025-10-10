@@ -22,7 +22,7 @@
     "encryptBossId": "c6d353304e411c7533Vz2di1GVA~",
     "encryptBrandId": "49186b7fa2e4a15a1nN829i_FQ~~",
     "encryptJobId": "461ade341b3334bd03B70tm8FFNZ",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.284998,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 68,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1enXQvAKwoo.search.28",
+    "lid": "8gTDamEzkRF.search.68",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "9-13K",
-    "securityId": "zCfWSFpWLVdVA-Q1sXFAjen5qN9-tDizl-vIZjsOP2MbPp6zMHvJiB9qeCWoKFMz1QzHbGjUhnKDbXHnO5FeunEPQuYqIo1Tw9H9rj_LOW9rDA17UpCUjf78FSB5xbE8KZlx7dnrr1ly3fTpscEItRfacbq8yT-qPBmHZXkBN4CLYnLS",
+    "salaryDesc": "9-14K",
+    "securityId": "cjdrKeiQaqU2m-e1a0_6hdgzV5JnkEYpXqu3EbxTP-4GNOvtQ3VbBQRFPVMZb7-qPkVOV5lRQD7ido7jVImwCzFC71ZxLNfLE3rtCM_vEMElD35Y6JyaWuLfpFceeVSzqxxgs_OvL9NLUuRdtBJHVnhjGcyFjYnL3fVkxZOIaWzPRKWa",
     "showTopPosition": false,
     "skills": [
-        "Python",
-        "CANoe、vTESTStudio",
-        "adb、CAPL、Python",
-        "语音、蓝牙、车控车设",
-        "语音嘴、拾音器",
-        "机械臂"
+        "诊断",
+        "台架环境搭建",
+        "座舱域功能测试",
+        "大众",
+        "大众项目经验"
     ],
     "welfareList": [
         "零食下午茶",

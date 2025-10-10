@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南关区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210702/a9bf78402e36678ac95b690827f834e3f677fce3b847b850eb13707791322a11_s.jpg",
+    "bossCert": 3,
+    "bossName": "杜荣妍",
+    "bossOnline": true,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211206/7b5b554d84f9729c419b6bd866877a139a52fc0c0d85742b5458814d0acb4bed2ab8a294f181035a.png",
+    "brandName": "行展软件",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "临河",
+    "city": 101060100,
+    "cityName": "长春",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a4e531497802c1701HNy3dy1GFU~",
+    "encryptBrandId": "0897615d9795ffbd0HR90t-_EA~~",
+    "encryptJobId": "a692db40609c381f03x439q6FlVR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 43.825044,
+        "longitude": 125.313701
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 5,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件实施运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8dahkO8a8MC.search.5",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-9K",
+    "securityId": "IC24W7j2p4WlT-p1LAs6XArY7nhyPUdiQAkBbTAO2wGElGM17OSJAhwNmYQD0hDfwicmlCXIKn3Njz__KlGrZbV4xC-Gam8Z4o-gLzQy6gUfWZ4fn46-US0yQI15uNZwNO1MhIQ6K2VHVl-hnkN1BKBuRa1STji3QieGeSaZa9vmjLNV",
+    "showTopPosition": false,
+    "skills": [
+        "ERP",
+        "CRM"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金",
+        "节日福利"
+    ]
+}

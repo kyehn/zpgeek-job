@@ -22,7 +22,7 @@
     "encryptBossId": "76d70ba9c4631a0c1HR40tm4FVA~",
     "encryptBrandId": "b6592bad82c648901nR_0tq7EA~~",
     "encryptJobId": "677f7ba4ed77ef841nZ43dy5E1dZ",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.141732,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 70,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85sblJfwnc2.search.36",
+    "lid": "8nmWm6lxd7y.search.70",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "hNyEBElnsfXhu-m1_I67csL0aqRJ-zMZvCUdzARweegrPaUg3QNKV6qRy9Yg6pSx5VOF-tdZegbGg8PdVNJOm_vIG7N_-BdHW1zfWNUDLvJAZYb1BzoyyhzGwPgYSAwCZ4G5VNoHIDpX",
+    "securityId": "W7_shKG6QEbYC-C108GVc69KvnP45FwWtYh5thwsRmzUatFNIiCzBflLxxfwSuRXSvAj_b2pmc4WZX5wWUo--osgqLm3cBMDLjzQtgneaGeTnxslpzlyGRoDWiLauhmJJC56NR8Sh0p9",
     "showTopPosition": false,
     "skills": [
         "自动化运维",

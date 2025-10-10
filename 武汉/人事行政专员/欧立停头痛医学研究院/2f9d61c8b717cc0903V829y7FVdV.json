@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100402,
     "isShield": 0,
-    "itemId": 88,
+    "itemId": 68,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8maA5t68LE5.search.88",
+    "lid": "8nze7Xp5rUC.search.68",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "7PmZZMKuQPLKN-k1kdhJ5no9mYonNv60aWRz_wjwx2YkQ9ORA_BkjqIsjpoUfWFQUfKMHN79JXNEKZ9PttHYAMF_6pc88UzgdgQK0-qx5bVLpInQD_cqvGdlAFqyvmJs20R60beTFV84EQ~~",
+    "securityId": "YUsNFKXbzHHNk-r17bZAxFjYxCgjZQpCPWJwTtr-gwJ6IHc36zTsYHoC6tU2ZdYXBkEQEEaHXv8LtM7-CVaSk19iRoOMlrJOAYtF0HczlLzBJHo6WMm1BMHSBQU0U1p2bU42eSbHMrx5PQ~~",
     "showTopPosition": false,
     "skills": [
         "培训实施",
@@ -57,15 +57,17 @@
         "绩效考核管理"
     ],
     "welfareList": [
-        "员工旅游",
-        "意外险",
-        "通讯补贴",
-        "团建聚餐",
-        "底薪加提成",
-        "保底工资",
-        "节日福利",
-        "交通补助",
+        "补充医疗保险",
         "年终奖",
-        "绩效奖金"
+        "团建聚餐",
+        "节日福利",
+        "员工旅游",
+        "通讯补贴",
+        "绩效奖金",
+        "保底工资",
+        "工龄奖",
+        "交通补助",
+        "意外险",
+        "底薪加提成"
     ]
 }

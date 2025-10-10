@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "石景山区",
+    "areaDistrict": "顺义区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230213/607f1f3d68754fd023323ac70486f0f864730a63db8f879942cab286a5d2d356347036b69e1e16f7_s.png",
@@ -14,7 +14,7 @@
     "brandName": "捷科智诚",
     "brandScaleName": "10000人以上",
     "brandStageName": "已上市",
-    "businessDistrict": "苹果园",
+    "businessDistrict": "光明",
     "city": 101010100,
     "cityName": "北京",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 39.921053,
-        "longitude": 116.200559
+        "latitude": 40.16243775521912,
+        "longitude": 116.66203028134903
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 80,
+    "itemId": 82,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cNnNcR1MCH.search.80",
+    "lid": "8nd2amuE94f.search.82",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K",
-    "securityId": "Vpw95MnRCRzmg-F1NueRSoqYOTjYfSh7PbAeAbqcdqtyKfw1rl3ZvxsU4W3IedcBZtvEZgqbWp0EPyoZBwlk2mjqh3rcdOI-Iclr8LiigiMiVaBTHxRj6XG2BbuvBGJSVrYH7Tr2Dwcc",
+    "securityId": "PEToKmKOecfw0-Y1UP0S16_3BDGFVmilwrImtSJ3wvNCAi56lboWuzyOXjIFFRHRoDNtVtDiNU0P25TK0uU1OtzCb4NQnDnUdqDUzWDZmBbcZEDcSkIgIFWhCcHIV8zVvMnS4cKmyLqc",
     "showTopPosition": false,
     "skills": [
         "功能测试"

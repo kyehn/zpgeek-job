@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240618/607f1f3d68754fd0ecce6dc6cd30edea70402f01a4522c28b521944f70e77eb7f36e63bd7b71a93f_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "孙小飞",
+    "bossOnline": true,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "上海思芮",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "西直门",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "394f0cf382e1801c0nZy3t66E1FQ",
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "encryptJobId": "c55b2be2034c017603x42tq5F1RY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.919309,
+        "longitude": 116.359076
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 46,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件实施工程师（自考本也可）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8dahkO8a8MC.search.46",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-10K",
+    "securityId": "jl9eKHTSlUUzh-k1tCMLAFuNjxSuhY34CRukw7WHSLVbsqTyoKmZRq2v5M0blbh8sh2bkjeeHAoi7k0t8EXrS6fs0620wFCoMLfIAT9ICuTD6nqK_puw5pF5BbNzlHwkdhOpzqlJq7aK8kzf5PM2b6Mcc-HaFiCoX95sak8U6d6mXp8I",
+    "showTopPosition": false,
+    "skills": [
+        "TA",
+        "TCMP"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

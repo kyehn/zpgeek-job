@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "李先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "企业服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210107/6d24202b3dbf3c28d0acac43a8866d16318330f95a5d2db4f78db1925065f933_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 67,
+    "itemId": 62,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cNEnGhg9g3.search.67",
+    "lid": "8nze7Xp5rUC.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "SCGhjeKNohggw-i1F6iDV_fFe2HcUqM5-4f3LhmkR4II4z9hJKG_6VvDoFJ4xbHJlH25IDKFmrqm-7Xc-Q4u0yFMv91ykZFuvjZYp8NWxC2GMuU4BuAUEE1bHYv3f3juDNyL2QTwLeVsSWX0YQBmjll46GZAZgpUIgrOosbNpqHDD3K_iw~~",
+    "securityId": "h7cHuPdliZ2X5-u1GaN_Bv6ntOEKC1tvvN6CevtNU-g2m-TYuMYmTMSPnVOm9xItR4XLowE3OV08GdhP2K_bXYTDMRF17uHTVk1NVVZHxSDCRm798AHKo-qJ2iAUUWjdJAjIZ7PFzbPbLw~~",
     "showTopPosition": false,
     "skills": [
         "招聘与配置"

@@ -22,7 +22,7 @@
     "encryptBossId": "76ad5b4307df642a1nZ-29q4GFI~",
     "encryptBrandId": "6019d0286cff14771XZ62Ny8GVc~",
     "encryptJobId": "2c4c75fc858b65eb03B63ti5E1ZS",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.275318,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100012,
     "isShield": 0,
-    "itemId": 88,
+    "itemId": 71,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7Z9d5iIV8WZ.search.88",
+    "lid": "8gLO6gkbIV5.search.71",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-8K",
-    "securityId": "luttPk3OioUI4-G1kWG6Tf8DvfYNeVRVM7lSpY02EsI_vDKz0-AjQdzTpMwY-_mOWIXTwupzoza0r6h_Coc4mvg8noUA4PYngURpMGRY3-m_I4c39iA~",
+    "salaryDesc": "3-6K",
+    "securityId": "n6lQLn0vburjw-V186IU9BJaPjG5iNqtImK8WekcqsncXs46wq6ugFYPpdhAGtbMDEQbP1IBtpkG0Do6-hoTiks4Y1hY5mBKDlvnPtbexNZVD6Es6ETMLXMRb3AUnFlnQZ_7v2Mqf_rOng~~",
     "showTopPosition": false,
     "skills": [
-        "PS",
-        "1年以内平面设计经验",
-        "甲方公司",
         "五险一金",
+        "PS",
         "周末双休",
-        "现场办公"
+        "远程办公",
+        "1年以内平面设计经验",
+        "甲方公司"
     ],
     "welfareList": [
         "团建聚餐",

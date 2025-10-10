@@ -22,7 +22,7 @@
     "encryptBossId": "96ad857db1d54a671nV83N67F1Q~",
     "encryptBrandId": "df53acb47f6bd46603By2dS8Eg~~",
     "encryptJobId": "144ed727397776d91nR42964FVpU",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.140101,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 73,
+    "itemId": 51,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85u7tui7enu.search.73",
+    "lid": "8njBPOvNMcr.search.51",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K",
-    "securityId": "3CVSixGpkQ7jw-81T9nxBPxbsqk1lkiQL61Yz91C9qybOEdj6NFmZMlcTG_LmouRql6nU2LGdMu6UkXUERv4NBwPpn8-kBIHNVE4WpxZT8mI_MyEr-2OqMFjvGXwAWrmbOBf1NtbCf4U",
+    "salaryDesc": "8-10K",
+    "securityId": "JsqqUVY2-6sbt-s1MWkeeaEfmpvmkv6DhQhjXD8eNbgUAwR56AZ3-oXnbh5aVnAMbWVh9wHOyPM0igqhcl0dEL4x2Y_5blY-LGuVY9Evq5vTU-5_u8zEOUt58Q_SmTfhtjS-803JxsKi",
     "showTopPosition": false,
     "skills": [
-        "计算机相关经验",
         "硬件测试经验",
-        "手机/电脑硬件类",
         "性能测试",
         "硬件测试",
-        "功能测试"
+        "计算机相关经验",
+        "功能测试",
+        "手机/电脑硬件类"
     ],
     "welfareList": [
         "法定节假日三薪",

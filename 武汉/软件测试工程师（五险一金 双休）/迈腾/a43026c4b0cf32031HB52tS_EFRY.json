@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 75,
+    "itemId": 64,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,23 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1JJOhcqGa0q.search.75",
+    "lid": "8nzXBH1MyoM.search.64",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-10K·13薪",
-    "securityId": "rooRm8X57swfg-71Zt_vk7P-REBylPfU_h6bdMvZTiC86waji_npfTN1xxTO-200SvMLAQy7uS7DpKQK9za0lhdjoqrmmacAz8XLWdASfWeJ8O8Gcqc5p5rbtdXMc0JjXjpe3DfTb7s~",
+    "salaryDesc": "6-10K·13薪",
+    "securityId": "ZQbbL2WKTBhTU-z1WjA7T_m3CMOOuMW7tnjEu8w6VI41A0u5sfLKDiSdX8oNXwpButhVHAX40-XFw0b0oyIxQa6pfzancaHdjy-zHE5y_h-ru6lXWtEZsvPQ28dn9CwqgClqI5oHS6c~",
     "showTopPosition": false,
     "skills": [
         "软件测试"
     ],
     "welfareList": [
-        "五险一金",
+        "节日福利",
         "带薪年假",
-        "定期体检",
-        "股票期权",
         "年终奖",
-        "节日福利"
+        "五险一金",
+        "股票期权"
     ]
 }

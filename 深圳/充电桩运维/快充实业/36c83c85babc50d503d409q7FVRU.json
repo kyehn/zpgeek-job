@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240402/607f1f3d68754fd0f402b53d3402f7fed14aebf5e33c0131364066c4dc9231b7724e991039f22842_s.png.webp",
     "bossCert": 3,
     "bossName": "熊建兵",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "经理",
     "brandIndustry": "其他制造业",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100917,
     "isShield": 0,
-    "itemId": 17,
+    "itemId": 74,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cZmNmd4ttp.search.17",
+    "lid": "8nwLJSaG5qN.search.74",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "-YxY9Kc7Gz98L-d1JKWwH9T9OGntjh5kGGe9YXBCAezcdamdq2sFuImr_uWPTr8Ucxjb1Pj2csnzd7HRp40hicYV7FLNy1FF-n1wlSzBYbbpjgbGaS5kj7K3DGfX9gA4LctzPSFT9kV9vIBRhOzEqEat_4vGKB9hJxvK1cG7x3VNyNFpTwU~",
+    "securityId": "5Yah2EJGiwlJD-t1Pburg2YdpmCG0at5WIl0MkFl_T4hZYApqJ8GomYs75CmB53DQa4CIS4BPV7X40FvsDvOcbDntmIlr6hP2yXnOXQiuXkt5gDNeZATuqjK-pfi-gdti_nHMy50fnBt5nA~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维"

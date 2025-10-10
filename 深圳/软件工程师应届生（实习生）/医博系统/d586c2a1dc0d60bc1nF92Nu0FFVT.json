@@ -22,7 +22,7 @@
     "encryptBossId": "a29d58ff839af2ba03192dy1FlY~",
     "encryptBrandId": "92cea028e041b7df1HV529i1Ew~~",
     "encryptJobId": "d586c2a1dc0d60bc1nF92Nu0FFVT",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.539703,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 87,
+    "itemId": 65,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85lNtMSjUHO.search.87",
+    "lid": "8nsKqOFmLjD.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "ELBeaZRaRM0tO-11TJ9wYmnGyp76lRAMo6h-gQoQQ68R7Yql0Z3TuMMEtltEYH_UlLXiIEGoGPcOs0Jr5y_WLJQQpOWZUeXTwIAPZmHMezqQq2Ylmra5IMfbBOCEvvDGzru7DKwQlA7N",
+    "securityId": "y5_cKhVgVm1R8-U1fRR_VTTzs3F_FNLY5s-RsY2dr7Nrtf8HL_yxURKDnGqxU4zt4XO0bFbs1Nz1ans5CXDGiyimTduvEFNJNGghKbs60aLp2hivkWN6v5s6mwlzVcyKa_8sM-X-4icx",
     "showTopPosition": false,
     "skills": [
         "Linux",

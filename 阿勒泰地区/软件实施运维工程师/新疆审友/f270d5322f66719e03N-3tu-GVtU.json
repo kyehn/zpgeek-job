@@ -22,7 +22,7 @@
     "encryptBossId": "2b560fd7d092293c0nR_2tm5EltS",
     "encryptBrandId": "39b70d76fe4fe0c51XR52dm1EFU~",
     "encryptJobId": "f270d5322f66719e03N-3tu-GVtU",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 47.79520151875409,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 77,
+    "itemId": 89,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,15 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1Df5uxnyyyz.search.77",
+    "lid": "8gI2FyQLb1M.search.89",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "hVfOpmyKhbE1W-z1RECf9y0BKKBl0CzQ1mA-0KyVpX0N7C91BW1pkwNyvD2yTeXIDoAHCF82ckZUxpXlHU-NW5442p_K9LG0DvIGsgiEu1N_UVQywJe0ae8frcoSflSju6D7A2ByiJARG3g~",
+    "securityId": "De_lh8lhhSaYR-X1Wfpvy4TzF30PxgxgmWCEksNd3cV5MiPYB2e0A4pqZJW7jHy-EW6u9CQJXQFRB_zTlS5aynVnfWb7CA_UstglF123zEbv-ufbZqxeSCLtK186XldSNJfXNhUf3FsnypE~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "实施交付运维",
+        "大数据运维经验",
+        "系统运维",
+        "桌面运维",
+        "计算机相关专业",
+        "运维经验"
+    ],
     "welfareList": [
         "员工旅游",
         "餐补",

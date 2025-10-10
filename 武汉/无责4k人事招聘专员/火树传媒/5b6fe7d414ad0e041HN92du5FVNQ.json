@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "江岸区",
+    "areaDistrict": "武昌区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240925/607f1f3d68754fd015e25eed95eef421854caeef43586fc69b9047faaebe4c70d3a630312f21b7e5_s.png.webp",
@@ -14,7 +14,7 @@
     "brandName": "火树传媒",
     "brandScaleName": "100-499人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "百步亭",
+    "businessDistrict": "积玉桥",
     "city": 101200100,
     "cityName": "武汉",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.657344,
-        "longitude": 114.29281
+        "latitude": 30.57854,
+        "longitude": 114.329257
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100104,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 65,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8oFEhlFttrD.search.10",
+    "lid": "8nze7Xp5rUC.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "HBuuB3qzI5Iyw-D1CmIpe8wCkHfQOUjXVZZks7Zjj5PqL_rHW0eJYfwsNjLCF5vCNilsW7-jbFHjGkjiyhjgsAVgpvWAHFImo40L4Ssdk9FdcO9lN6GDIAnBRbnDECy1cVte7p2rMhmIgQ~~",
+    "securityId": "bRG7rBDrYgMAv-j1o0lQa-1usmG35Vo3I0zoi2XDs-2PNcwhBY3Bgq7E-IVNDiR2KWLwovasKuw_jR9oxuYnFLiGHcnhLWpco0scmWEhdRzEG6JRSUX-w1XpG0CUXx-9tIZjvr0K_PlMAQ~~",
     "showTopPosition": false,
     "skills": [
         "公司氛围好",
@@ -57,15 +57,12 @@
         "人事"
     ],
     "welfareList": [
-        "宿舍有空调",
-        "生日福利",
-        "五险一金",
         "全勤奖",
-        "有无线网",
-        "绩效奖金",
         "节日福利",
-        "团建聚餐",
+        "生日福利",
         "零食下午茶",
-        "包住"
+        "绩效奖金",
+        "五险一金",
+        "团建聚餐"
     ]
 }

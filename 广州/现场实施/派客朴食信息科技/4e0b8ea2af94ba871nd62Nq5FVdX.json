@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240320/607f1f3d68754fd079ffd53d5fee3da11a377971a1edb09db7173fa76f67a1cd69ea67eed57bcfe9_s.png.webp",
     "bossCert": 3,
     "bossName": "郑女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人力总监",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180704/89fe8e529d6229aaeba1dffe790fd203b93e40dba9a705bd6391f8cd88b5b5dc.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 22,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cQRTpmIJIN.search.10",
+    "lid": "8niKBcQEIxB.search.22",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "kIDdKkbC3bXYL-91Dxz2fdBAFcIIbGYKyMyXZmRO8irA-4ZMStLzvexEtDFANXTKGVg4fS_otzMwJhL8hUZS3OdRT55Fiv0pKj9_k2n4Bx0IIlNsdXmy6GcM7nKEeyTE33WymzmJ4j7gAnN2oAVdyXlNhJqFBqJfoXfh5QNn3aPsSFegvA~~",
+    "securityId": "IUmLguwlyAQ7n-B1M0130fxPDSnWFBkGwAsBISo-U9pluPDhQMc3GYApZq_fGSrFJ8QQM0-xn2t9kDtQHAIE7xVIcFZpuX86RYJaYOGSo1SR0klA5aJhtevbSfCzaSeaTRCVlkTeVFSJdQ~~",
     "showTopPosition": false,
     "skills": [
-        "财务系统管理",
         "收银设备维护",
+        "财务系统管理",
         "售后技术支持"
     ],
     "welfareList": [

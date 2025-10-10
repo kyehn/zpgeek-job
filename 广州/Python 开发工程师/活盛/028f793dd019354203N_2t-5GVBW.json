@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "白云区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250912/607f1f3d68754fd0e9250f723448db1a56361e6382b2bf15665541c24896beb6351a3ff5931cb6c4_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "杨晓红",
+    "bossOnline": false,
+    "bossTitle": "人事行政经理",
+    "brandIndustry": "大数据",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210806/42a143874b8323eb43ce0ba0c76e40bc818c2077e1a9b2c758a6fd91c49a85b9.jpg",
+    "brandName": "活盛",
+    "brandScaleName": "100-499人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "嘉禾",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "df2817714c9af8fe0nF83dW-EVJR",
+    "encryptBrandId": "f407408835ac57b31nN-2dq7GFs~",
+    "encryptJobId": "028f793dd019354203N_2t-5GVBW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.200473,
+        "longitude": 113.292473
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100005,
+    "isShield": 0,
+    "itemId": 35,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Python 开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8nmWm6lxd7y.search.35",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "_VZEX11Zgfnfe-o1k_P7CdfR8D7mjRSg9p2yLRIK5CUwbWDWpL52Q75s4FrRtbiPqibBEuT7T6CX578e-daggOYM11so9CrVarVkAmq8GN-8oDWehaKWlJCkecgvRqF7VZ3Dylat67a3T9I~",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "节日福利",
+        "五险"
+    ]
+}

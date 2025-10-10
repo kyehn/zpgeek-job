@@ -7,13 +7,13 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "朱女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "汽车零部件",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250925/7bf6f160950405e962749b82eb5346e7f1787602de8d038db9d82a68b9cfefcb35b030d8a217ca1a.png.webp",
     "brandName": "卓驭工程",
     "brandScaleName": "1000-9999人",
-    "brandStageName": "",
+    "brandStageName": "不需要融资",
     "businessDistrict": "科技园",
     "city": 101280600,
     "cityName": "深圳",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100802,
     "isShield": 0,
-    "itemId": 32,
+    "itemId": 48,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "zu0ax9Q1xg.search.32",
+    "lid": "8ntCkb0pYZl.search.48",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K·13薪",
-    "securityId": "Zk_pcHTtO9emT-m1mM3lYslwsUDzFAGGqvb_dZubEyiRrvKBNt6tB-Py_NFxqVr1mCYvOdNl2x_Ynt8ulunw6anbiwqNxn8sHkNW8CQ8BNKVwgyQtKnsHmtlKsZyDoGIzcG91sroj-OLa2z37dLXUrmGrvV_C54RIFJXuf6yfI-F5qZmZT4~",
+    "securityId": "OqFZij3m-KDMT-H1AthLiQkUcJIkiECBB6o3VTq1RbHDerOGwGO4TDq_0e-a7RK7LAb9s2aXWEyQhjq1cW0sHPL9j2Hgnh0L3eUxk0x73NB2roNZfcISgv4ZR1RJK_Ziv5WWptvuZYDWIHk~",
     "showTopPosition": false,
     "skills": [
         "C++",
@@ -63,5 +63,17 @@
         "计算机相关专业",
         "Python"
     ],
-    "welfareList": []
+    "welfareList": [
+        "年终奖",
+        "带薪年假",
+        "五险一金",
+        "节日福利",
+        "团建聚餐",
+        "补充医疗保险",
+        "餐补",
+        "生日福利",
+        "绩效奖金",
+        "住房补贴",
+        "员工旅游"
+    ]
 }

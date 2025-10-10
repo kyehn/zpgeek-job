@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240829/607f1f3d68754fd0e57ef45f78b5066056ba4f05d67b6ce0d480ef238cd95051faca46903fe1cf22_s.png.webp",
     "bossCert": 3,
     "bossName": "刘先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事",
     "brandIndustry": "游戏",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.385286,
-        "longitude": 114.332831
+        "latitude": 30.375676,
+        "longitude": 114.352605
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 60,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d1mzKbU7Fn.search.72",
+    "lid": "8nzXBH1MyoM.search.60",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K·13薪",
-    "securityId": "laoa0aD2_mgIx-Y1-VY_bXnawQ3xOb-wm6mucWdC1-3859FvG7-bpqMRtcdv_KtcnR8rxeJiKQGYd9GIO51QMfayKWMBSkEAcTElMpjl-rQRjuGaIMyWzcAfZG8qp4ZkhsR0FMiWpFhr-9Y~",
+    "securityId": "uzvbdI3ii9cqX-p1xhsvuuW0tbEVDBEDe2SWB51v4-Z-KUNwBbFdDOaXpT_O2H5QNi1hVlbfiBp9aGlhFFoWdii3nyGojzWax97vvul4CIyWg2Ngr_F45VijReE1oKMf6V3-zA4dMmOKs5DlFnKrcMyfsxI45qWelex0uzpWeHruJpx3wbQ~",
     "showTopPosition": false,
     "skills": [
-        "手游测试经验",
         "丰富的游戏经验",
+        "手游测试经验",
         "计算机相关专业",
         "主机游戏测试经验"
     ],

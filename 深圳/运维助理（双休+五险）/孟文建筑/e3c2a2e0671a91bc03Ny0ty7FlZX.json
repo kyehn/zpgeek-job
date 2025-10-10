@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240925/607f1f3d68754fd08996c7fad125473da8ba1875e2985dd6e2aa44fa8a8c669090db0f4d9a7073dc_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "姜女士",
+    "bossOnline": false,
+    "bossTitle": "资深人事",
+    "brandIndustry": "房屋建筑工程",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
+    "brandName": "孟文建筑",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "eba2950fd90be3d31nZ70t-5GVZY",
+    "encryptBrandId": "391ce585ed3a3ea003d82N-8EFI~",
+    "encryptJobId": "e3c2a2e0671a91bc03Ny0ty7FlZX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.6966617753569,
+        "longitude": 114.04180913219395
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100708,
+    "isShield": 0,
+    "itemId": 5,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维助理（双休+五险）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8nwLJSaG5qN.search.5",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K",
+    "securityId": "bcp4aXb7ZdFyT-i1KQ3rpxMxFwbydXqmw9XYIngdYc3JQKW7m7gnma4kTSUmKLjNezzwzEadhly7CVp2InFGY8Y11A9m90vu5_0jqvBwoebKi_LU9N1HVAjO7uZzvJLhYRWWfMkLXW4Q8A8~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "保底工资",
+        "年终奖",
+        "五险一金"
+    ]
+}

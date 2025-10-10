@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 5,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1eE4FddBNSm.search.2",
+    "lid": "8ddUTlbMzx8.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "8WnfYPszI8QUl-21PP01BrUyjt1GfDKa0ajuCz7bvoDyIxB82nzZ3dNr2DksMw48LxDlvmngTBleXssDUTWwbaZfvPZEUna7sD7nOtz_kpzi64HhvKkTGxtzvnqjE3LUnQvv5K1jCTA8ZQJzahdzT3zzUvrYTaPR5ZS-ltMfTxAnGlFh2bg~",
+    "securityId": "-hNfDbwhNfQKY-u1w6__NQxoXg99qKkISuNTjoFZ5IAehtKew7CK3jL8Ck4wBzOJ3bDEsOcJI9OwJdY1NkkZd-Fv4EIK0OqG3W22IIplbuiLgejRl3CwsmaRLHSgzOROAtGC9r2bntarWra1yjfuRAEdc1EWrIG_eM61RR4e7EgPpywac6w~",
     "showTopPosition": false,
     "skills": [
-        "Python",
-        "Selenium",
         "leetcode网站",
-        "数据结构和算法"
+        "数据结构和算法",
+        "Selenium",
+        "Python"
     ],
     "welfareList": [
         "保底工资",

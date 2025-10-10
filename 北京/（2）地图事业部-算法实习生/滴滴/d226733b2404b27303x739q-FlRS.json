@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250617/607f1f3d68754fd0195252b20b30645abbab5ac8d1196ed1e743cd4df69be4bfc5f9ace6f5e33a7c_s.png.webp",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20201205/25965fbe2c0440e760df2b6a6b81d7c2be1bd4a3bd2a63f070bdbdada9aad826.png",
+    "brandName": "滴滴",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "上地",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d77b6ac47ff5ec670nx93dS9FFVT",
+    "encryptBrandId": "8548fadc0b5c265403V93t61EQ~~",
+    "encryptJobId": "d226733b2404b27303x739q-FlRS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.048146,
+        "longitude": 116.281469
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 70,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "（2）地图事业部-算法实习生",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8nfsJxxSrAc.search.70",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "iCc7N8UDV5gOs-71RxnJkN-CBOfuig8uW6QOsQCcALkZT9aGjU2NesrwTsdUGUBjE0eluIEINAHJkV0_1drqSysC9mINd6Owj8hYTGvYdttLXaIzOgGAtRanxjGp9iIfpnq53GYtQOx-Jw~~",
+    "showTopPosition": false,
+    "skills": [
+        "深度学习",
+        "算法工程化经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检"
+    ]
+}

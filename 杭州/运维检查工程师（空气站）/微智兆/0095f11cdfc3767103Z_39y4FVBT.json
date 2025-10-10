@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190311/7fce9d77c461d047e3d90493767d32b7cfcd208495d565ef66e7dff9f98764da_s.jpg",
     "bossCert": 3,
     "bossName": "陈女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HRBP",
     "brandIndustry": "智能硬件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181015/dda43f6dfdcd38977c1ddda3100bea78cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "06ad598cfe44cb9c1HZ_3tq4GFY~",
     "encryptBrandId": "5a7e3c70906a8e5e1nRy0ty7EA~~",
     "encryptJobId": "0095f11cdfc3767103Z_39y4FVBT",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.34072,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 54,
+    "itemId": 19,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8bDYW24yKzV.search.54",
+    "lid": "8gPZ4IT8bE1.search.19",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "vAWjpDUzv90rN--1zm9GaOklibM7aHlxHQ7fqS3q7m9RtYgyUjHNLtC5MRzmgvA5fIao8IhTiKXRt3DKl_DalXUhzy1xmJAkw3wRrfvvAvIPfMtBb9dNCZio3aRMp-uTd5779qRWA8ARYERer9UqkA~~",
+    "securityId": "-eWlr2scJhWi6-d1hjD06ScEyIrM3VJHv_U8PnVSAfl9SqXifWk0x-VUcevO5_yAFgaYTYQsNCnadWXAV2r-dSxVOxOkIHyy79rb14wwca9Z-42VGqPs6h4d42TgI-EKpkAFUqzwumzf",
     "showTopPosition": false,
     "skills": [
         "有环保工程师经验"

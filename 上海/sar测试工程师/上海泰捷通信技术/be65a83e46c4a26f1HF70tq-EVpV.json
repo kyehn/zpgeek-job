@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 61,
+    "itemId": 86,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,16 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9SH7z0ktLtS.search.61",
+    "lid": "8gVk5qwxSGN.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-9K·13薪",
-    "securityId": "t61UvSkvRrO20-v1ezuxekU-zSVCtoGJNEe6e4ooYOCQQwnfHta7X4-Rd5P6IP6XWiyNT_BKoiwWXvNYDsH-mBawIkh7Q6ippyv4XaDoFXBOWEGy-yuKRl3xWuno04OglfKWrqIAjyY5Dw~~",
+    "salaryDesc": "8-12K·13薪",
+    "securityId": "DneUNYQL9sN4--J1ZSB9hoH_QfJS7uNh99PS9euwC0k0JDN4vXiW9yNuDVbNiVFClJCo5b3-YfY4yvQyn5kVPo0qR2sxzBvV-pGk47fzlK8JfAC7VLS2fUrInNYXGlJ_pJXy1Bv1QHJ_OA~~",
     "showTopPosition": false,
     "skills": [
-        "SAR测试",
-        "实验室"
+        "SAR测试"
     ],
     "welfareList": [
         "年终奖",

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 87,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,22 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cWVo7bnUu6.search.72",
+    "lid": "8nuoQsLgkQC.search.87",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "ObNV4gd18kg1W-417X8LmpCA7RxZ5Nm7_EvWW9_ZClgqkADj2LU9omqb1gD7e09sIVpoI0oxtdnEMfNl8NeFLDuq3go8Ait_kwLMwuwnHBGUpIlPY42BAh7L1nVPI2BeWdPLlODgEyE~",
+    "securityId": "MKs3IP5PC7jIo-L1hN1IGcLDi9xQkO9T3nHZiSj2dBFyF26s4aX_JWa3acDaZgLUVwgDAE4T_1eRMKFi7m86BAZJ63qC7HsXf381MebMgt6JcGOn_30pop62BRuxtUUD67rAx56A8kc~",
     "showTopPosition": false,
     "skills": [
-        "通信设备类",
         "通信相关专业",
         "硬件测试经验",
-        "对讲机",
         "万用表",
+        "示波器",
+        "通信设备类",
         "射频",
-        "示波器"
+        "测试",
+        "对讲机"
     ],
     "welfareList": [
         "绩效奖金",

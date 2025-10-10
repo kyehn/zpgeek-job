@@ -14,7 +14,7 @@
     "brandName": "友成科技",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "北干",
+    "businessDistrict": "西兴",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.203515,
-        "longitude": 120.247718
+        "latitude": 30.207971469557858,
+        "longitude": 120.24701377488537
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 63,
+    "itemId": 47,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8iCLkCfNvZm.search.63",
+    "lid": "8gJ21orQLZw.search.47",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "X5dmTcJZDAATA-41we3EBU5hcn-BtTNpBq3NjGuGg1OV7gNV662YHlGXOCED292pITfs_03H-gBDV6xf3dGYhfxygeRbBvKIyrlk1tItp-NLAJJtfLD6ZnkLeQI5QS2kFc7ND1bx_IjL",
+    "securityId": "JnJg_QYEWnleu-Q1_zv5NstBbvFlwsGp0AvRR6OlDH91Y0GEVouitMvNjpevcNE1BSP-3SHyxYGW1m9Rj71__gzBrjIoyFYLiHyrLLD62DXxwfCc_0UNHi6btDXVjX4wa4pYaMfVzB92",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",

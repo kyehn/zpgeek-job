@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 37,
+    "itemId": 6,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "ibN25FuuKU.search.37",
+    "lid": "8gJ21orQLZw.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "f5RCVmCEJAmbY--1GGKp8c0_QkX8W5oHhRC4EQttaXYzutAYpUOd0e38Ca4-QkwQ8A6uO0ARqbWuLnszaX8zVGPdvq9Wyj5Zs8hOyxKev_QfIiO7amAicdANwq4hAhPW_ryfd4hf-A~~",
+    "securityId": "J0uBPtUa9f58y-x1Iy0z8Opt0vb-ly_s3Hh6jj7_LvHDa3n4nvszps0Qhl7whBvdHogjPamj1EUCOlQaTbcYLvbJ7wnjn256nl5A0zP-Od9BmQuWW011l6dAyDBcNkFt1NTcsC8jgw~~",
     "showTopPosition": false,
     "skills": [
         "ERP",
@@ -59,19 +59,17 @@
         "可适应出差"
     ],
     "welfareList": [
-        "带薪年假",
-        "法定节假日三薪",
-        "加班补助",
-        "包吃",
+        "夜班补助",
+        "免费工装",
         "餐补",
-        "宿舍有空调",
-        "绩效奖金",
+        "节日福利",
+        "包吃",
+        "带薪年假",
         "股票期权",
+        "加班补助",
+        "法定节假日三薪",
         "年终奖",
         "五险一金",
-        "节日福利",
-        "生日福利",
-        "夜班补助",
-        "免费工装"
+        "生日福利"
     ]
 }

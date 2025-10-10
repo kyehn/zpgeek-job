@@ -22,7 +22,7 @@
     "encryptBossId": "2dc33dc20bcc3c5c0nZy3dy_ElBZ",
     "encryptBrandId": "83cbace06c06a9711XZ_2dW4Eg~~",
     "encryptJobId": "a087106c8ad197681HN72d6-E1BZ",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.23331920925344,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101402,
     "isShield": 0,
-    "itemId": 23,
+    "itemId": 49,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1Ng4Z6aInNe.search.23",
+    "lid": "8n7CECP3bXE.search.49",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K",
-    "securityId": "p2fIYvETjW_E3-H1I9b3EtYD40HTOi18K38aFJx7ujO0jMoRvv9GsOEjE8yJ3hbr-EMLvRn2Rm6FrTo0YlByBTQg-UJDj2WIQnyFQYjLMlUEJpRjTvcIAFwU9XzdKoK0ww3ejOcikLT-gw~~",
+    "securityId": "QNHNuZG4AnZVj-Q11ja16psMuKOntGMYH1VDQ1q-WLASptqeg42siq8pizByBfJeuIFaYJOsZEtlS3y0zD2NWjeaTuXHXNGE2NasqfrR7xfhqz6FXZRE1jmUb9hJViyIWlTPYdJ5kKKPvg~~",
     "showTopPosition": false,
     "skills": [
         "网络运维",
         "实施交付运维",
         "通信相关专业",
-        "电子/电气/自动化相关专业",
+        "系统运维",
+        "桌面运维",
+        "计算机相关专业",
+        "运维经验",
         "IDC机房运维"
     ],
     "welfareList": [

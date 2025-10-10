@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "观山湖区",
+    "areaDistrict": "云岩区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
@@ -14,7 +14,7 @@
     "brandName": "幸之福科技有限公司",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "会展城",
+    "businessDistrict": "喷水池",
     "city": 101260100,
     "cityName": "贵阳",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 26.650816010169972,
-        "longitude": 106.64839396496879
+        "latitude": 26.584991,
+        "longitude": 106.712901
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 57,
+    "itemId": 52,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1UxQd83iOPD.search.57",
+    "lid": "8dbd2Boz6jz.search.52",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "n8W4tGFdwdKwg-a1skgUjTuUWTXP5B0c2-c8q093aA8t47GOBdYarldJJ42rajwlE4Brjd2zNyBKXdqQpAmlzS6bqtdNVtMspsm4CSzEnjiJdJTNRZqhdFqeLwOsRelhVZmtJ18KiTCtEzbk7hewqnbv18A-DRy5K5x1Ky1QBUT7miZfEUk~",
+    "securityId": "47ZCv14HXi4wt-N1noA1g4k3CtgMJ_hBx-pGpP6hY_iE_QxYbSMiI7JA8P1gtSlr73jWK-uFFUF09m64dtKdmZcbR4mjJDkaupAxI-JVL7kNEKeSpE1721_9nL6c4oVDaEMY30J_5Gyrx3FEXSGKSyJl-I5fr-j6g5mh8w4WvEO4hApjhxs~",
     "showTopPosition": false,
     "skills": [
         "网络运维",

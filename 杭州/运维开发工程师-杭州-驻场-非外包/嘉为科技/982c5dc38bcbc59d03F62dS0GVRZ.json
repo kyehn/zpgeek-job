@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250212/607f1f3d68754fd014f324d48a0b0d2d47f599d771d76614c85fb4af46ed9ce79d6101a5b038fccd_s.jpg.webp",
     "bossCert": 3,
-    "bossName": "张雅芳",
+    "bossName": "张女士",
     "bossOnline": true,
     "bossTitle": "HRBP",
     "brandIndustry": "计算机服务",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 52,
+    "itemId": 20,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7wsB4wevT1X.search.52",
+    "lid": "8gOjTuzrozo.search.20",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "9-13K",
-    "securityId": "cjYMOC7jDL5RN-V1K_HoKxwbr1xHOLZpeTSm074uamwfG35XFFoYpRvc4Us_QEE4roIJbfbLxTS_imTFhUuQEXFdB5fEBDSuhDYCgO-IjtIthwXa0U8VlAt02IYlCSkBWfuHVYCPLRUHXMg6ZezyAboJSplc4CkK1J3ah1LI9Ubsj9rE",
+    "salaryDesc": "9-14K",
+    "securityId": "ivlDqeLXmaoxU-T1wnqQABJXaDAF5nFhtLFIVR2y61Bs_Ftz7GXvggxi7yr8o5yD42n_7HGgxLk3QJK9yLAK9z6uh_VfOSiJg1zkdm9tpsOfy1JHGzKXGs8v0mQxRnVZu3tLvFSPv1HGy8kz7XVdSxv5wBH9Ai3Pb_8-WpGHhiVfRCFf",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -60,14 +60,13 @@
         "Kubernetes"
     ],
     "welfareList": [
-        "五险一金",
-        "节日福利",
         "带薪年假",
-        "绩效奖金",
-        "年终奖",
-        "定期体检",
         "生日福利",
-        "通讯补贴",
-        "股票期权"
+        "节日福利",
+        "定期体检",
+        "股票期权",
+        "年终奖",
+        "绩效奖金",
+        "五险一金"
     ]
 }

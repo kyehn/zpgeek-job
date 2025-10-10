@@ -22,7 +22,7 @@
     "encryptBossId": "d5dcd60ae1c665b20nVy29y9E1JR",
     "encryptBrandId": "fc83b12359edbab21nB42tm7F1E~",
     "encryptJobId": "2e89302d4e15f6481n143tW_ElJQ",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.589543,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 88,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cWkTd5bYQD.search.13",
+    "lid": "8nrQulq6agn.search.88",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K·13薪",
-    "securityId": "c7FZE5ciIaRJE-419Cf8lNihxOrUfxfMastCg4X24hqlXjyrdpU2o-2L1qovVr6aif-bjJAgm0NbE7P0IQaWPW5RXj2cXMeFdVaMt3SFRFKnnIHq1UU82tKMmbHSHipID7BqzDumzIDsHNQ-q9Y7VLy0ZM9ByG76rYx9Wowy1OZjtE9C_bU~",
+    "securityId": "SrezcfiA1YWEt-z1GtUdWB422aAW-tTcYKBO3SmeThXWdvza4pLqpf2D58LnA6ZzPo14hiCG9f6BMZimN4-XNjF01coCmBSlyCFAk9qWGgmMEu46GyLgb5I5hf2ZR-scJX1XjW5eEas-a48k7HFr6vcvLOsqZVJpChu_OdPEOGEyjhITrXE~",
     "showTopPosition": false,
     "skills": [
+        "手机测试",
         "性能测试",
         "功能测试",
-        "测试开发",
-        "手机测试"
+        "测试开发"
     ],
     "welfareList": [
         "员工旅游",

@@ -22,7 +22,7 @@
     "encryptBossId": "f8718d459ac980c01XR80tS5Flo~",
     "encryptBrandId": "c29cb4bca8e396120XN_39y6",
     "encryptJobId": "b5aa53da40fcac111HV409S6GVVW",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.576092,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 79,
+    "itemId": 65,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85lmpiIEAMR.search.79",
+    "lid": "8nynVGyvjoG.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "wjn6BLTJqb-L9-K1Spkkp802Qhgd62VbSuIqfQ8tFUbZ-2HiI1Pocyji8h0niS-hvHC-eg2ueK4qi0h7RKXKtHIld2zBx75Tzro0YndnolkxeN3JqRad-MAOxcRZO83f9MKRkVZJf0U~",
+    "securityId": "W4CKJm87qJLUn-c1zrYaOjdjVvzyfKHSZMtUD_xHapga68Cpld52ctytobnsIs8X2zREbqAQCPNvWTmTKhe-wqh1jcUPEB-ZUwTvKHuEcgQekGKhLT092XnK4_M-BhVIvBBM3kzyqfk~",
     "showTopPosition": false,
     "skills": [
         "Oracle EBS/Fusion",

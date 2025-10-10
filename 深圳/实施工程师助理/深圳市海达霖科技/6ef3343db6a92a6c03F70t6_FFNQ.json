@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240423/607f1f3d68754fd0dfd242ef8561f282b0c675706a3a4ede75b8ec9cd75729f36fd16dfecb4629be_s.jpg.webp",
     "bossCert": 3,
     "bossName": "吴女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 5,
+    "itemId": 62,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cVnLIzckWs.search.5",
+    "lid": "8nqb1XINbot.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "NHtQNw8BOqYeA-51Vbe9cXziJ-SVhvvJysdtxkWIzgVRGR9sywdmQ3-5SeVvuhT1W92Nsn4wzDhHf5ItTE0FLf_WLyv9eJ0Oe-cBRs8x8kAwGhAdZZuEBqHHr_9N1eeGnDMFAHDNc_hLwuo9EMl9otKIlh_I-RHkzz_jAj7y9d9yChwg2ew~",
+    "securityId": "zcU8Epe1n9Au5-31PzB8kqvXhw_BjyEwMJkTbWTErurVqGQkFyIAlkpqIDqGSkohJtLx7S3qCG97fjnLMvwNjf4HynFgMwsiIRFoPqWqo_RJDP0IRRURdN_rXJpxcIxF-QDMt01Ej8qA0bQ~",
     "showTopPosition": false,
     "skills": [
         "SAP"

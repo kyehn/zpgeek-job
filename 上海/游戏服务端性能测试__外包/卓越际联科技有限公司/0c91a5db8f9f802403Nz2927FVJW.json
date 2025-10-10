@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250801/607f1f3d68754fd0c935a48ef406b70ba159497875393470c6be40f9d4fe24e4dbcbeeaae19c27e3_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "佟女士",
+    "bossOnline": true,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240105/7bf6f160950405e9763d940637ab43c1b6bf9ec44707a6cd04c5cab85daa86eb9e7e03c57e4518bb.png.webp",
+    "brandName": "卓越际联科技有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "张江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "372bc9b3fcc6b4890XFy2dq9FlA~",
+    "encryptBrandId": "9a80334346a8f4661XR73Ny1F1Q~",
+    "encryptJobId": "0c91a5db8f9f802403Nz2927FVJW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.221839355235737,
+        "longitude": 121.6304792449433
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 78,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "游戏服务端性能测试__外包",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8ddUTlbMzx8.search.78",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-11K",
+    "securityId": "OHLf1cP1tW0DX-I1u6R5aWJfBn3zpujXplSNRzPHeiOC_AAXBYEuSmhxKvI3z_6chy_gDviWZHmIzLdwcwXcgD4VOOtdV6RsjgNaG2uYQg4mSjF1Y2bw2FBNLEw0r9rIY8c7dwhFG7oORngl7SsnGf-buU7Ln25kavFkZ-J8cmlAFarjow~~",
+    "showTopPosition": false,
+    "skills": [
+        "Golang",
+        "Java",
+        "性能测试经验",
+        "Python"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 83,
+    "itemId": 49,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cQkHrxt9E1.search.83",
+    "lid": "8nhUL0yfvgU.search.49",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "Y0Gaz9MjoD31r-610zaY6aLEUI_5R97qeCGWTJTdg8-YB0SLY1ALkH1iiyRzYxP35fOFMz4B319Mx1HN2l4r_B5mTYDVX9_hKuOY6JCSP-i66hXmUBwZ9Orb83Sdze4Np9_OEK1l7i5D",
+    "securityId": "3LNyodyo-vPXP-u1DDK7WtuMkdeKFE4V2o19aohR52WnvQgBpPT5g06qMxRsepatekS1_kMEWhsB1X5KEukMbSOjyGY7gEQh-ASYntFEOl9TPgRA1Rs2KE9A8PXWhXltltH4QFsdlOxW",
     "showTopPosition": false,
     "skills": [
         "实施工程师/顾问",
@@ -60,18 +60,16 @@
         "软件应用培训"
     ],
     "welfareList": [
-        "生日福利",
-        "零食下午茶",
-        "节日福利",
-        "带薪年假",
-        "免费工装",
-        "团建聚餐",
         "交通补助",
+        "带薪年假",
         "员工旅游",
-        "全勤奖",
         "通讯补贴",
-        "年终奖",
+        "团建聚餐",
+        "免费工装",
+        "聚餐",
         "定期体检",
-        "聚餐"
+        "年终奖",
+        "节日福利",
+        "零食下午茶"
     ]
 }

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100303,
     "isShield": 0,
-    "itemId": 43,
+    "itemId": 22,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9b097iOVS1T.search.43",
+    "lid": "8gPb8gs6KLz.search.22",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "2-4K",
-    "securityId": "9HFgxgg6HzhfY-f15E4U9bsnkZFYTdhQuuHI3q1XKbygtH4QmJ4c65a9ZbBiMPY_lBOM_vn8Pq9dXhbwpNlistI9QHlfkH3lkYyYaRuw2dSNsLdfK4V59xmJNu982fVKd6jP3QLNDCY~",
+    "securityId": "RGtMn3H3Y11wy-w1j6oespgfctj3JpFXLt2WofUy9Fp2HrGkDvJMiSqIQToQYYs_JkZPiHCt-G51oGi935xuJMG5yhKkNW2to6nN3R1PsTmoYNnJHROIj3oWvRlXCu20q5SrHDOaQxY~",
     "showTopPosition": false,
     "skills": [
         "python",
@@ -57,13 +57,12 @@
         "体验课"
     ],
     "welfareList": [
-        "有无线网",
-        "带薪年假",
-        "年终奖",
-        "员工旅游",
         "零食下午茶",
+        "五险一金",
+        "带薪年假",
         "股票期权",
         "节日福利",
-        "五险一金"
+        "员工旅游",
+        "年终奖"
     ]
 }

@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "拱墅区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250708/607f1f3d68754fd06ac26e76aacd91e2a1988d996860a2359834c1452f5ba371fd10d129f1fc0a50_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "吴女士",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "特发信息",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "",
+    "businessDistrict": "康桥",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4e2ad6080920579c0HF72Nu-FFA~",
+    "encryptBrandId": "70c46d9691b39ce91nN93tW-E1A~",
+    "encryptJobId": "405d759f73e4341303x53du6GFdX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.373125,
+        "longitude": 120.178752
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 50,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "IT运维操作岗",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8gPZ4IT8bE1.search.50",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "PR10p2BkCUUwi-Q11IITDmZ90MyAMwdNCcS4ZSm4CHzpRKytBuwT1V9WHgtsaCYXulOCObSlYrGJziG2U1sHmh21UrjlvNuoC9bcZRq0gKkltX66ailbZwpKJCxnpwyinsvmAwrifAjJmw~~",
+    "showTopPosition": false,
+    "skills": [
+        "通信相关专业",
+        "计算机相关专业",
+        "IDC机房运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

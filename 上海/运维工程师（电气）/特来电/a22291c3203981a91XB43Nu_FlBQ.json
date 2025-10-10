@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220819/607f1f3d68754fd086db09c72b01cf9f05bcb2f3090c1234eb661a854db24f27476eb4089a1e62b9_s.jpg",
     "bossCert": 3,
     "bossName": "沈女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170303/05472b54240fa85c4dedba2e01b78288e3a1ac38157b55c1d4fd39fe7491b8eb.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 43,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85By20SBxYW.search.2",
+    "lid": "8n7CECP3bXE.search.43",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "qEYbF0NIL2cEa-o1pz9SoE4ZTjJWPTC_sWv3HaRtGYvfhYSY1_k7Fe4sSCq_hw2oVr7bIzam11OAaagB8xPm5tUWYTdYVaH00xy4lA3_7copldxwDjwBv52OBwgHm-Lyqt_1JGgc3f5tseHR4oG2M8yEx_jUlbmIm_-pcvKlJmtzgLk~",
+    "securityId": "A7u6HhNc0SJel-T1tY-iBy3wavgLyvwuSk6JmN2C8neGIQ2lQGh0V72AmR2Oi87uUbQJJx3r5CynTJi3h98G4zbH8erBmWv59pP7L-mdjF6OD36Rg4XOuZ6-euJmLNUY-sxWk4JhiFI~",
     "showTopPosition": false,
     "skills": [
         "运维经验"

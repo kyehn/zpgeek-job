@@ -22,7 +22,7 @@
     "encryptBossId": "3dfc3f833a3651e20nZz3d29FFo~",
     "encryptBrandId": "68b2afc8a726cdda0nVz3t20GQ~~",
     "encryptJobId": "d05f66575cdeaeef1HR73Nq4F1JT",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.167565,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 85,
+    "itemId": 26,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85tC12K9U16.search.85",
+    "lid": "8niKBcQEIxB.search.26",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "tzLJHypC0YG47-l17c1pXmtw_Phok3XbsqpK3MTpzcHxZRtWS8-BB4LFBS_X5_GBv_RM8cmeHVfWcGd6HeIRrIv5-IKsp8UrU-sV9scPwN5EUjE7GfeqEitthynJC2_uk_DKIFLNibPP",
+    "securityId": "fBkO5ZiKuRPzX-f1nR-z5EjWSIQ-yEydIbYTKWqn7pPbspRgt_tYBDz3VpbO4VjH-nZxAqENVcLoQNPdlQ4M0r2ZVO2lLt5sQuB0_QfWfo4b_hqZ-1SDbKT3ISJg0KVgHOFNqO6l1LL0",
     "showTopPosition": false,
     "skills": [
         "PLM",
@@ -65,15 +65,12 @@
         "管理相关专业"
     ],
     "welfareList": [
-        "股票期权",
-        "加班补助",
-        "零食下午茶",
-        "生日福利",
-        "交通补助",
-        "员工旅游",
-        "五险一金",
         "带薪年假",
         "节日福利",
-        "定期体检"
+        "零食下午茶",
+        "员工旅游",
+        "五险一金",
+        "生日福利",
+        "交通补助"
     ]
 }

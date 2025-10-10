@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_12.png",
+    "bossCert": 3,
+    "bossName": "尤女士",
+    "bossOnline": true,
+    "bossTitle": "人力总监",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250715/7b5b554d84f9729cb6c708445abe9a4eb55260b461c1fa456bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+    "brandName": "善思开悟",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "中和",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "10f7946e0706dab90nB439S6F1U~",
+    "encryptBrandId": "75401fc17871e4651HF839i0GFc~",
+    "encryptJobId": "4899690f5b832ce503N_29q1FFpV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.55828,
+        "longitude": 104.0619
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 40,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "数据中心运维工程师（雅安）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8bLmJyzzIcI.search.40",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K·13薪",
+    "securityId": "HJuNubICe4-Pm-I1pTTgv_QrPRNKj8-txkOnFYMOcHodtLi3n9zucaS0Gt2JUu11VEM_1jVZ4w5rofUgNK8QTwf6XEoWq9rFBGJHp5uCuP3nIjvIrFoCQSLdVYvMSOpMgXD3hov9gIK1foxHUGTtoJ73zLpZbcK-0YCELXVlED9EACIECw~~",
+    "showTopPosition": false,
+    "skills": [
+        "IDC机房运维"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "五险一金"
+    ]
+}

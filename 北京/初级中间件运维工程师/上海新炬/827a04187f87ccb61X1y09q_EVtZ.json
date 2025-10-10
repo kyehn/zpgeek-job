@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 37,
+    "itemId": 14,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85xEbs27CVU.search.37",
+    "lid": "8neGgrunpeZ.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K·13薪",
-    "securityId": "kWQlI4FUuTMPD-R1uaJG-8bsrIdNiOL9Ak7bS1vlW0vy4Ipkt-G747qEro09tKdKvb9jPRnTI9am-WDKZUppLlv5Uw-NH3oY3n-t2TgwjAEpdv3KedV2ZNj5f-5fYcFre8ouIipafWrw",
+    "securityId": "CjYWDswhjGo45-c12jTNqyswXpO76_-_GNNWQK5wO-s1Xct21cwwKWXRvVxSw8i-wtnXm934A1nkKsPvmtI2TrWfwLF7qUes0XPiZXt3NCfOPonv7aCqZDi1Knn0bzvBP1meUpzSEE0u",
     "showTopPosition": false,
     "skills": [
         "Nginx"

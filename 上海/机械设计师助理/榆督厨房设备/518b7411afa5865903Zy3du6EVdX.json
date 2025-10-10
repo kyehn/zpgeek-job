@@ -9,7 +9,7 @@
     "bossName": "马女士",
     "bossOnline": false,
     "bossTitle": "管理部经理",
-    "brandIndustry": "其他行业",
+    "brandIndustry": "电气机械/器材",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210617/0cdca2f439563cccd66aab2f656809b922028e3ce8289b5fb7d5126a0b3898a6.jpg",
     "brandName": "榆督厨房设备",
     "brandScaleName": "20-99人",
@@ -30,9 +30,9 @@
     },
     "iconFlagList": [],
     "iconWord": "",
-    "industry": 101304,
+    "industry": 100908,
     "isShield": 0,
-    "itemId": 54,
+    "itemId": 39,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,24 +43,26 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85B2THOhhFi.search.54",
+    "lid": "8n8tMqdDA4n.search.39",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "3-5K",
-    "securityId": "f2BNLwGV6qRsM-f1i9YR3p8QiePhfKdrv_T2UPvf89sMk_pjhojs55UrtwbwwEdNBtyOAaFadSPu8Ho9bb6RpxUEk7L2pVXQwNQwLFE0bE0SlwejMU4EWoETMoU_XiNs4M_nzz-9lej0sQ~~",
+    "salaryDesc": "3-6K",
+    "securityId": "byrMvizHYUrrv-g1kPqdEyd0_jeJLal_PlQEVxtoZtzAhgj2Urml7yetRxyfIVxh1QDCRqaBg9otzBlDfCe1aRiwxE-uN-4UC1YNWVhkI38l4TtVl3iDhSKCKz5pBszsWNK7D5mtxa0jew~~",
     "showTopPosition": false,
     "skills": [
+        "社保",
+        "包吃",
         "AutoCAD",
         "接受无机械工程师经验",
-        "SolidWorks",
-        "设计师助理"
+        "SolidWorks"
     ],
     "welfareList": [
-        "包吃",
         "加班补助",
         "年终奖",
-        "五险一金"
+        "五险一金",
+        "节日福利",
+        "包吃"
     ]
 }

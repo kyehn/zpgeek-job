@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250317/607f1f3d68754fd0697286dec5dd52777cd84bf36b7672f7b72ead9fef40b1d3f87163b139990ace_s.jpg.webp",
     "bossCert": 3,
-    "bossName": "杨雯雯",
+    "bossName": "邓女士",
     "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "计算机软件",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 1,
+    "itemId": 2,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cQkHrxt9E1.search.1",
+    "lid": "8nhUL0yfvgU.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K·14薪",
-    "securityId": "3nDF4GBaO69o_-j1q6Zs2DeLQUFedMMli0yIV98w8rmPPjkZJTCjGeO9GE9Pz5ANYSYJXHVrx3KWtYbKFOc0FjHVTIgXleF8AB6zTxcG1P8xwJaF_Xv1_OpGco8F_zkrE_SeWIpmDbdv",
+    "securityId": "whXsXYWzpHJzk-G1s9JE7zdY4izRt2rpvQTddY7z0cp6GaMRIpsPFvrSv68A1SU--oa8OJ2YdW-asfCPrXekbSB9S20bZ8Y9uBuxxe7i0a7qkP9Khe9mubG7CZ1EBpIdq8nF0t2VAQKs",
     "showTopPosition": false,
     "skills": [
-        "ERP",
         "软件实施经验",
+        "ERP",
         "可适应出差"
     ],
     "welfareList": [

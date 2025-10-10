@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220526/607f1f3d68754fd04d0d1fa8f867e6d2f1f5f142f20b9437a9d9e6c31e506e025ef77e5afe4ac3ef_s.jpg",
     "bossCert": 3,
     "bossName": "候女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "h r",
     "brandIndustry": "广播/影视",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230914/7bf6f160950405e9d9fdab2a969920debce541eddde970b938bbe88755f6fdec45ff907284e27dda.png.webp",
@@ -22,17 +22,17 @@
     "encryptBossId": "fdad22923c8230421X142N69Elc~",
     "encryptBrandId": "7275ef3df4fd8baf1HR43Nu1FFc~",
     "encryptJobId": "314b06ffb8398d651HN-2Nm6F1RR",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 23.117695,
-        "longitude": 113.379966
+        "latitude": 23.117695834463618,
+        "longitude": 113.37996597879555
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100103,
     "isShield": 0,
-    "itemId": 44,
+    "itemId": 3,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8iIkErzzkTc.search.44",
+    "lid": "8niKBcQEIxB.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "8ZvinKZY1c_Vd-V1GHMY8uinDM3K0JCdW43YJJBwiyUTZi7PX5tCXO5IdYbHltvyz3oImYy9wCq1S5hZRyweRbC--_QfTIrCFv9ruZdisT_sPAfg9mM~",
+    "securityId": "yZbYDDpkBhyG8-81EgZIjFsMjP48NlVG6Lsgn6hyN1SVmIY0x9Hj53x1wxFh2bSq2QU6EQxeh_DoSC2DHLML9gdgDzAcSohGvNO9BXSUsYKTLPaej2R5riqc9UbCe9VPQ6w_O_uKaufeEZvJuLsPPq_MyE6OHizteQA8qebb6cbbtq_pjA~~",
     "showTopPosition": false,
     "skills": [
         "接受无广告投放经验",
-        "信息流投放",
+        "短剧投放",
         "企业品牌方",
-        "短剧投放"
+        "信息流投放"
     ],
     "welfareList": [
         "底薪加提成",

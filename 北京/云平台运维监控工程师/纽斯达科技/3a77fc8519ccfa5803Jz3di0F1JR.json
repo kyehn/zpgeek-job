@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240802/607f1f3d68754fd03be8e57fd337ef551f757be97edff617a69e5da8213a65c81657032aaf7f66ad_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "孙维",
+    "bossOnline": false,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190516/dd58376e986aadec2dc89c0c0cb5510f00697978ae20dbaf574d3c0c109ba793.jpg",
+    "brandName": "纽斯达科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "学院路",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d38a38fdad5586ab1nd4392-F1o~",
+    "encryptBrandId": "1f70b994d7dc5f9d1nF-2927EQ~~",
+    "encryptJobId": "3a77fc8519ccfa5803Jz3di0F1JR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.977505,
+        "longitude": 116.345866
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 69,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "云平台运维监控工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8neGgrunpeZ.search.69",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-10K",
+    "securityId": "-RO1PW8VOT9hT-A1PBu99enAFul_5NXyAed7GFjPFulwAeaFN7LBYOTR0Yn-a2k43QHTOlr9hOWdy-2huxo3WdseXfC8ectaxqnLfsszoemESkvyiBrTAPcjzgPG1H-EVo2smtRhHTnb",
+    "showTopPosition": false,
+    "skills": [
+        "运维开发/DevOps",
+        "云平台",
+        "云运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

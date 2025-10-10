@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241009/607f1f3d68754fd0ce155aaf2f3134a0eff287461eb845d3a95f2b5c55dc29ca1681a80899527b68_s.jpg.webp",
     "bossCert": 3,
     "bossName": "柳女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘",
     "brandIndustry": "互联网金融",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181130/5a7f5dfbd4b0ca719f5955ae5c476947cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "a9f2518e21a7bc8b0XN73N61FFI~",
     "encryptBrandId": "d2241d12b6d0853b1Hd_2NS1EFo~",
     "encryptJobId": "4d54d860ef2733a303N92928FVBQ",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.243525,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100206,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 17,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4EKJCdiT8u1.search.36",
+    "lid": "8n7CECP3bXE.search.17",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K",
-    "securityId": "3duJgurQYeHQM-g1F2YkG30nUPKVT7QqgFYbqOAlF67TzKmsGjgQ73PYpGzf5x5vHQ6pD1-eHveMEzYmu5xvB4bJsuATQnirrTAztoFfV3KxSYNzxqbtdZ0KcESbgRrnOgShZHzgMgho8Bcqo5TM7UZlLm-IZJqTZcOxQwttX3ih4oBrtg~~",
+    "securityId": "-EyXMx-LiBO5n-J16l74d3xMUjmxRMmO3d98CSCBVdBdywcgWeqtGQAdkYYCvGYTKuTI-AGUlntRC0vRqqH6ic7mG1tfkRVxcEDROM5XSIDAExFtqjX0YdixdnO4MhqTWq4TehoWzvHsKw~~",
     "showTopPosition": false,
     "skills": [
-        "IDC机房运维"
+        "监控运维",
+        "倒班",
+        "IDC机房运维",
+        "电工"
     ],
     "welfareList": [
         "员工旅游",

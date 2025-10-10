@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241105/607f1f3d68754fd036f5ed19a18824114caed162705c9d53a15a700c037c00a16eb7b59327c9c760_s.jpg.webp",
     "bossCert": 3,
     "bossName": "王红娥",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "区域经理",
     "brandIndustry": "证券/期货",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180327/8290d6636f6efb82993ee5e6f65f3bf4ae01133091031355d0c6f2b8fc05a72c.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "119c20424829c3fb0nNy2tq4ElA~",
     "encryptBrandId": "0c68a9863a1c11081nJ-29u7GA~~",
     "encryptJobId": "86e8f7e3a886c42d1H1_3di-GVJU",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.39391,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100203,
     "isShield": 0,
-    "itemId": 76,
+    "itemId": 85,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8eV6mpnSGhK.search.76",
+    "lid": "8n6LUrIus2y.search.85",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "OmA1xIKcZh9sH-d1G2mAcCkN--W2VdL5oYm-sQh0ZYSN76Nt1Yo6drMQZRval12gK4Mp7Zkt4ggV8fM7T3Br0YyCm8mrsjy3MHfN-h1gllw71pQmXf5hOB_hxHBpsqgH6Z1XfX4d-4TQPxmc_yO5hg~~",
+    "securityId": "4gEHa9s7sCcN0-F1gBL2UeZc5lmV0FeOdYW7TqCEHLsGJx_2iWpIfmLYgxaqYkRCLv3kVCaR2j2hqtqvYWd8FRr-yQwzJlCbxkJQDR6XofvjloIC6T5NytLrPen0tAkITnG0G1kCtB6A",
     "showTopPosition": false,
     "skills": [
         "证券从业资格"

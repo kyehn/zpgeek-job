@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250729/607f1f3d68754fd080ae6d666f5781ef50c86cee033ebd6725e86280eeeef550d4a6264024153866_s.png.webp",
+    "bossCert": 3,
+    "bossName": "胡女士",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "学校/学历教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "愿达教育科技有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "学院路",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fb5b08b27e7e8f480XV929W4EVBZ",
+    "encryptBrandId": "86ba827655f4ce9b1HJz3ti8EFU~",
+    "encryptJobId": "02d8c52d02ae4a4203x62Ni0FFVT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.975051,
+        "longitude": 116.33922
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100302,
+    "isShield": 0,
+    "itemId": 63,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "c++软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8naVl2Ykcsi.search.63",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "5Eom-l7Bxj2aq-D1gXEDmFUSuHvokLJd3e-ZqW9jgs514KsK6tq1BhbZQ5rg-aXDMxBQ9Mg4u6_ZmmjgaCastC7zwdUNlpcT73tuo6Df9GllOb-DMkHtV9GdsLTbNaxKIu_E1rDtY72zkuE~",
+    "showTopPosition": false,
+    "skills": [
+        "C++",
+        "团队管理经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

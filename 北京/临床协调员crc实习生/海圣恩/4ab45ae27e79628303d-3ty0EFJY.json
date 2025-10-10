@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250413/607f1f3d68754fd0f5ba45430dd2a2b9f99d05ccb5f7c0ab50ba93b6a577775b6d0861e4607a6758_s.png.webp",
+    "bossCert": 3,
+    "bossName": "苏女士",
+    "bossOnline": false,
+    "bossTitle": "招聘主管",
+    "brandIndustry": "医疗服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180507/a3e609facac46859d0dd20f5c229df22cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "海圣恩",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "草房",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8eb09d86b3258a660nRz29i1F1BY",
+    "encryptBrandId": "9162f1707852212b1nF_2Nm0FQ~~",
+    "encryptJobId": "4ab45ae27e79628303d-3ty0EFJY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.929885,
+        "longitude": 116.612392
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100402,
+    "isShield": 0,
+    "itemId": 27,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "临床协调员crc实习生",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8na3NrCvMzY.search.27",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "ujbtJsoX1GMlE-t1bzP0f0GjFAF4coAj8jBNEWSP1oRrmSvld1DyeSH77NGCgQmGRLVOAFuGwRs_8g5hOaKCRja7ND0YeL3obPhrsQ4r64GQbLDdCXwt_t5JJKFvUKCNXJ9I018rG9rXnA~~",
+    "showTopPosition": false,
+    "skills": [
+        "GCP证书",
+        "二期临床试验",
+        "三期临床试验",
+        "一期临床试验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

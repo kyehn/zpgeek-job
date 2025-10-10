@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241212/607f1f3d68754fd0ded36857fbc82e67f0e71a4475818665487c63d1064e7b82f90d3cf023ce897a_s.png.webp",
+    "bossCert": 3,
+    "bossName": "王景芳",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "客运服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241025/7bf6f160950405e9f774c15be13290b097d3faee1d476f86dbcc601e978816fcecd369fe5dcaa665.png.webp",
+    "brandName": "北京广茂行",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "小红门",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b4ab0df902d554380Xx82N24GFZZ",
+    "encryptBrandId": "4d195cf80e0bbeab1Hdy0ti6F1M~",
+    "encryptJobId": "19b6b5fedb06c90e03R82NW8E1JV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.817356,
+        "longitude": 116.485553
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100511,
+    "isShield": 0,
+    "itemId": 84,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "数据文员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8nh5ycHxgcf.search.84",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "EUFtxd0negVre-K1ruderyN1y2P4pvkc6K5h-23ZjR5qJCnIfBxQ0rWDXIXKb6wsAnQ8AjqzZIHiK-_bXPbjdKv3Zd7Odv6BGToUY-7P7nVXrIMy9BIo7Js24bYZ62PMnvjPpPZfiTFIOd0~",
+    "showTopPosition": false,
+    "skills": [
+        "做过统计员优先"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

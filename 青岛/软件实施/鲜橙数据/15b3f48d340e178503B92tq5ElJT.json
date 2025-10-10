@@ -6,10 +6,10 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250218/607f1f3d68754fd04b34333d4e5f1fecf366f31d50928c0635e6169f4d7b0a433632c0a04e35ee46_s.jpg.webp",
     "bossCert": 3,
-    "bossName": "刘泳强",
+    "bossName": "刘先生",
     "bossOnline": true,
-    "bossTitle": "人事",
-    "brandIndustry": "移动互联网",
+    "bossTitle": "运营助理",
+    "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201021/df1934cfecac202c2f487f9ed998697335e6169f4d7b0a433632c0a04e35ee46.png",
     "brandName": "鲜橙数据",
     "brandScaleName": "20-99人",
@@ -30,9 +30,9 @@
     },
     "iconFlagList": [],
     "iconWord": "",
-    "industry": 100019,
+    "industry": 100020,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 67,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,27 +43,27 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "72kPlFFtDVq.search.72",
+    "lid": "8bEYUPwPxNG.search.67",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "hRU7cPLAOXIgh-z17HMdkUdrYMJmRX7bOnjLLg-bPgTjMY7FffrnysMa33BEjYJr-ye3BRtlImWdbFgk0oRqYEJa9wpilbGdKiYw9HWyUV-Pb4Ljdbae_K-28w8CpyCARMsACprdkZQFZ4Ctg6yAQxwTT7MOrqYZsG6-Nuaf4lNniBCsUQ~~",
+    "securityId": "YuJiYFLY-joj7-w11E3oM5qV0muRG3oERSDDd-2zh7fCDslcgai7OL1Ltlkrq3mZ9FNudiW5dYC1CU33BNur9dXmRu8MmzZ7xGypMCY53fLhIicpIsPMTJ3DaW2t6iRX3k_kr1MpV8VAecMnKnHPA7fxAdxb2E1Qdyj-AeD8uBPOLYU59w~~",
     "showTopPosition": false,
     "skills": [
+        "软件实施经验",
         "ERP",
-        "计算机相关专业",
-        "软件实施经验"
+        "计算机相关专业"
     ],
     "welfareList": [
+        "节日福利",
+        "加班补助",
         "五险一金",
-        "员工旅游",
+        "带薪年假",
+        "全勤奖",
         "零食下午茶",
         "年终奖",
-        "带薪年假",
-        "加班补助",
-        "节日福利",
-        "全勤奖"
+        "员工旅游"
     ]
 }

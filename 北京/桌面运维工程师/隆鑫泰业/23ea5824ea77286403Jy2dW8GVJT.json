@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "艾宏飞",
+    "bossOnline": false,
+    "bossTitle": "人力资源",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160919/9f7e48245fd0e0f5ae320efb5ed1a4f8397aa88041f14f8ec2b4c3108d857451.jpg",
+    "brandName": "隆鑫泰业",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "常营",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "86df26dd01054a360HZ53Nq-E1VZ",
+    "encryptBrandId": "af846fa2b5aa7e191HVy2d-9",
+    "encryptJobId": "23ea5824ea77286403Jy2dW8GVJT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.96706927631764,
+        "longitude": 116.55340974446177
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 30,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "桌面运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8ngf2u8JXxO.search.30",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "0eGLh5np11B9E-A1BFqmvdNLalU5tYvfIVVyfc4JkVlBIKJ5C9dePUviL51JNeF0bjS9W5uEU9c9HLTOGkoFErC7-4jl8vn_MJH01ewFIifmT0ndRxdROt0Gl0f8ICY79xhwDTqO9uAw",
+    "showTopPosition": false,
+    "skills": [
+        "桌面运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

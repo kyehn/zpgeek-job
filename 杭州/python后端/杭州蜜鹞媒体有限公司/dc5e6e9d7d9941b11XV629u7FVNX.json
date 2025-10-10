@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "西湖区",
+    "areaDistrict": "上城区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
@@ -14,7 +14,7 @@
     "brandName": "杭州蜜鹞媒体有限公司",
     "brandScaleName": "20-99人",
     "brandStageName": "A轮",
-    "businessDistrict": "西湖",
+    "businessDistrict": "南星",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.270985,
-        "longitude": 120.100803
+        "latitude": 30.230732190074242,
+        "longitude": 120.19305416281345
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100005,
     "isShield": 0,
-    "itemId": 37,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1UCYU3nrhSS.search.37",
+    "lid": "8gOjTuzrozo.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "oVb872LTJ9kgx-C18su37uEf1PWvULE4mtEIdzpopkhX78wEBIcNt6K_knfxzkXjxl7nR-Iq7US0DRh8d12Tyv2pHO2dA1jcUpEdSbF6T13ZkcpWL_8U6EDCovT9ZcAsvrDZ7Wu7n-15ng~~",
+    "securityId": "RhG5kDetm7Q0h-H1EM5aqg0s7MK76tpqQRwHEX0qvzWlHmy64KVh2t1M1ZqH7mkxaZ1KHvi16vj_E3FvUppvdkPAAY5j3ztiiRuH6oz0OfNYMqYMwDjs9HuxkeX3h2n--axglkWYuST3cA~~",
     "showTopPosition": false,
     "skills": [
         "抖音采集",

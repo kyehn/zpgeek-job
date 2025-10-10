@@ -22,7 +22,7 @@
     "encryptBossId": "5e43f684d9bbfce60nZ43du1FVVV",
     "encryptBrandId": "a23d603a297cfa531nBz392-Elo~",
     "encryptJobId": "6c830e6751a8ed981XV929S6GFJX",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.600094149487255,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 27,
+    "itemId": 89,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85lmpiIEAMR.search.27",
+    "lid": "8nynVGyvjoG.search.89",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "f80RxKwtKvwAz-y1ji5662N9Iz--V5LUpyvsugS_rRwXjZMeBtOLAQ2cJg6lqkj4xNR-se-nlnDHnDUuaQRY8cVHbuhhvwYrIzbaV0W4RBkf_eYFxbs403UJYnJ_Rvc5AaBimGD1An4ilJM~",
+    "securityId": "UDk5V7qmAEQ5a-W1eQMChn76jsF5qw_gGHUX0X2sHGlGDh7MzSl6hQQvnaAdJtr8siyQHixhaZDSzJlk9alzTJf0_gZEIdBVZzM3zxjvnXeb4seJ5wEn5zwJCyrmqgcbNGSvFs80QKhmVCo~",
     "showTopPosition": false,
     "skills": [
-        "ERP",
-        "财务相关专业",
         "软件实施经验",
-        "CSM/PSM",
         "软件实施",
-        "实施工程师/顾问"
+        "ERP",
+        "实施工程师/顾问",
+        "财务相关专业",
+        "CSM/PSM"
     ],
     "welfareList": [
         "高温补贴",

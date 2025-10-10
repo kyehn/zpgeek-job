@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "市中区",
+    "areaDistrict": "历城区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250919/607f1f3d68754fd07ba53a486eeed0bef7b59c3a6b84fc8efc6a861653110d1adcfd7ae760c88ff6_s.jpg.webp",
@@ -14,7 +14,7 @@
     "brandName": "顺漾",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "纬三路",
+    "businessDistrict": "七里河",
     "city": 101120100,
     "cityName": "济南",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 36.655287,
-        "longitude": 116.998454
+        "latitude": 36.683022,
+        "longitude": 117.063891
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 55,
+    "itemId": 86,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1UyA7mIV3mp.search.55",
+    "lid": "8bHvvhgSwX6.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-7K·13薪",
-    "securityId": "MtaTABafhTrBH-y1kndyeIECW6ts1d5opJ0PWfLmebH53QdN-qF-TAU5mprvV4zpKRepW1IbJr8cI_vYNWs6ay2adEmAscRcVZE8XPNS8Odb06URL8hGEd6hvEazQkRGesYbtBOxqDFu4UFDVuOMPt146CH1ZWnf5fDSBjsTJIIaRB1ZfYw~",
+    "salaryDesc": "5-8K·13薪",
+    "securityId": "_C2ajQ344jBKW-x1vWb4NtFNXWbM6rnwt6uE2gqQI-e43P9jjjDOW4w-CGib5MjCbuCND5E14sD5EjIPX-9iiIluKNDGZwqa_N_FC8Sx1RAWI5Enyo_tPw3d7SqnZV46rQC2CiZ1Bhe9GGfwza2UatS8XNXRQPwQGx1KYCe8TSSGCDjf58E~",
     "showTopPosition": false,
     "skills": [
         "功能测试",
@@ -59,8 +59,10 @@
         "Java",
         "Python",
         "C++",
-        "Golang",
-        "MySQL"
+        "MySQL",
+        "计算机相关专业",
+        "软件开发经验",
+        "掌握软件测试理论和流程"
     ],
     "welfareList": [
         "五险一金",

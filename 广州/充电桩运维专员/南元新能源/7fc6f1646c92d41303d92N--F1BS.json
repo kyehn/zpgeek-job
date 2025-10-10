@@ -22,7 +22,7 @@
     "encryptBossId": "224f4789dfae8b270XZz2dm7F1pW",
     "encryptBrandId": "cb8e8b364cc8ef7d03B-3N-_Eg~~",
     "encryptJobId": "7fc6f1646c92d41303d92N--F1BS",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.175595,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101208,
     "isShield": 0,
-    "itemId": 48,
+    "itemId": 71,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3PwMg52pzTL.search.48",
+    "lid": "8noxd2jQ6dy.search.71",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "0JvBUs24az3KL-A1P2hNvQAvHV8vBNHHBTbJraWQGKFMaZYf35jMZAdTYjL7gEDrujN3dYBD8x-LtrVBMolzehA_1Pl5RsrZVSfwAyp-uZ7bgozvKGnJOAsVfAECUMvacOY3nTOatelGAQ~~",
+    "securityId": "ouIOBFvItKO4c-41shvNuUBAro36tMNLsTiaYP8X6E5o3bIj6sLX2lk5z8YGmUssuMTHl_68yqspCfk7dJrnCyDXcoZoAxhczbgouA1INf6ITuMrnsqtalsYWvQ35oFmMejmRdPTvwfEVQ~~",
     "showTopPosition": false,
     "skills": [
-        "电子/电气/自动化相关专业",
-        "接受实习/在校生投递",
-        "充电桩运维"
+        "充电桩运维",
+        "电子/电气/自动化相关专业"
     ],
     "welfareList": [
         "餐补",

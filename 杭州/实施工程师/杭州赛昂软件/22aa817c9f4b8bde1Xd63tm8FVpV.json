@@ -22,7 +22,7 @@
     "encryptBossId": "0e0af6514e3bae231XR-2di4EVs~",
     "encryptBrandId": "96f4d77bf8f4c87303dy0925",
     "encryptJobId": "22aa817c9f4b8bde1Xd63tm8FVpV",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.318403,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 51,
+    "itemId": 1,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,16 +43,15 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8G0wbQ5go2Y.search.51",
+    "lid": "8gJTsnT6fBb.search.1",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "U5MJ_BW0M1CRv-O1b8NtIZHhPUWFph5sJo5wapW_5ExqNAyxnb_xfKvCRqhDAjKOuEXO1nlZjR47IGoQZUM3ApSRG3uHjMf4wUgDPKqU4MnfcXwep4SRWC4jzF67wmcBHuRpFNDpKYJaYXU9pweT",
+    "securityId": "3PSjyUXaoNZV4-M1XauiM1q3DQjRi0tit2wqM8R-UOcO7I5c80fxNIWU6ChQGfaKiOSQTBP0bEj5bbJVnmnaKeQcXIADOIG2bha099v7I3Ob7wJQL3W1k8oeocdmtJVsVDkeOHmhdeAAT7UAqOZPO03UiJyx6wQ9m9c_rfK-bl3oKeg~",
     "showTopPosition": false,
     "skills": [
-        "Oracle",
         "实施工程师/顾问"
     ],
     "welfareList": [

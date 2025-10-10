@@ -22,7 +22,7 @@
     "encryptBossId": "e99043225587c7bd0XR_3di7EFc~",
     "encryptBrandId": "9b90dd30b392cc0f1nxz09-7Fw~~",
     "encryptJobId": "caadd9083c5515511n183d66GFVS",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.135146,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 89,
+    "itemId": 83,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1d9FtMSnP6L.search.89",
+    "lid": "8nmWm6lxd7y.search.83",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K",
-    "securityId": "M2_nMeUwQmyTP-n1v9V8pqetXnrQwTz-RfScrgNDRDM6AZjOL8zfbNu8yCLZYIBQ8GQ96wGpxFNSPI26imH4QNRBflCrpmBcuKCrOjtOpwV0UkQKNc5mH9MSxR6KPZFwEuEHAjnaBeMt",
+    "securityId": "rtuEZCebAL1Gp-q1EwoPcQ9q6Qi4avyBvPKo2xruj8khcSnbdQDY4z2sLpQNWuoAi-03pB8gH1SIEM1GIhouPW-6Mc4kddcev8iuseQib976mQ5xwhfG1T30BTU85ZIxx72J2r-KTfKK",
     "showTopPosition": false,
     "skills": [
         "容器技术",
@@ -59,17 +59,15 @@
     ],
     "welfareList": [
         "交通补助",
-        "节日福利",
-        "聚餐",
-        "团建聚餐",
-        "免费工装",
-        "带薪年假",
-        "全勤奖",
-        "定期体检",
-        "员工旅游",
         "通讯补贴",
         "零食下午茶",
-        "生日福利",
-        "年终奖"
+        "免费工装",
+        "团建聚餐",
+        "定期体检",
+        "节日福利",
+        "年终奖",
+        "员工旅游",
+        "带薪年假",
+        "聚餐"
     ]
 }

@@ -22,7 +22,7 @@
     "encryptBossId": "dada1c215ab294a103Bz3t-1FVE~",
     "encryptBrandId": "3ff72b89a36fb1a90HB73tS7Fg~~",
     "encryptJobId": "fce7b35a1b3333001XV909-6ElJR",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.310483,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100005,
     "isShield": 0,
-    "itemId": 14,
+    "itemId": 11,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4IXpeZCxLyu.search.14",
+    "lid": "8gOjTuzrozo.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-12K",
-    "securityId": "ClG4CElj9x8OZ-N1FSbWBZvpvgBmR1IggbIT7RL72c2hxUR4agWelpcpmrV6jqIUAls9UtTsRFX0iGITPZWqWkFVYMyiq2xpZ-3O_pTG_yUwMpgNAOrrxV85OEtzv5U5WZEJnr_j3Hod",
+    "securityId": "1YUnYNd8n75Ve-I1R7UBGiWRbRR4vScxFYkv6l9_OjRQ0DyXMoz4XzMiUB-1VhIm64vGkkmTk5lAO24gD6QVgsBaVhFyqulRwRhmsKceBchYse8MkQZ_8veNYLDN6hD4dm7tl7qSitrc",
     "showTopPosition": false,
     "skills": [
         "MySQL/Redis",

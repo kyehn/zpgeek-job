@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "天河区",
+    "areaDistrict": "海珠区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220817/607f1f3d68754fd0c962a09cf4a9e7688c4389fe37ea8edf650fb6af8ad2fb97815366002868f533_s.jpg",
@@ -14,7 +14,7 @@
     "brandName": "三维天地",
     "brandScaleName": "1000-9999人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "天河北",
+    "businessDistrict": "琶洲",
     "city": 101280100,
     "cityName": "广州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 23.141886,
-        "longitude": 113.327028
+        "latitude": 23.105736140990413,
+        "longitude": 113.32129287059571
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 59,
+    "itemId": 27,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cQkHrxt9E1.search.59",
+    "lid": "8nhUL0yfvgU.search.27",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "2W01EmFPMhCSZ-d1YiGH4MR7L0-q1cJCGwqQSvb4gTZhTymhKjtUN5UzPamShB_PQZdeLKrxiQbWy2_ZVTaemYUpLG16TNGRz73PgzDXK1FCumZ3Tucp1orz5MzPGYCbZmjSI5R6pL0~",
+    "securityId": "u4x0yVVOrNdsj--1hJoDolR6bnsZh-gmg0tjiRczek8ZOTWaW3qZnc-D5h3ortu5BD5CX-RadT8mLFfAJax8lU6dPYUt2j81Z4d_H9kH56RPgUFARtvjplfxdobeA0dnPewBUm8FS2Y~",
     "showTopPosition": false,
     "skills": [
-        "LIMS",
-        "软件应用培训",
+        "计算机相关专业",
         "软件实施经验",
         "熟练掌握SQL语句",
-        "计算机相关专业",
-        "项目交付"
+        "项目交付",
+        "MySQL",
+        "Oracle",
+        "达梦",
+        "Linux"
     ],
     "welfareList": [
         "五险一金",

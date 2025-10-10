@@ -32,24 +32,24 @@
     "iconWord": "",
     "industry": 100708,
     "isShield": 0,
-    "itemId": 78,
-    "jobDegree": "大专",
+    "itemId": 25,
+    "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "大专"
+        "本科"
     ],
     "jobName": "工程投标员",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cORbXq5NTf.search.78",
+    "lid": "8nxyOyiyWKB.search.25",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "3-6K",
-    "securityId": "LFsTgh7vGJjmi--15NT-5B6JUpjK-TpTx0oX4R-dyoLd_sko00HTAz6hcWhpiTcQ569yCAPOU57LEzNEn8MPQowDV29-68F_m92kp_aACWjz7ZBSDTIvKDcK5ErtonZxMiw1-YjJ4eI8",
+    "salaryDesc": "4-8K",
+    "securityId": "y5SMLi2xLiIRO-p1MHgnCVGw9whKHDEd6noIY0gzT39_VkXZFcKpWOge-563rQYEUMGX3CqjwtuO-HyfBkkd7xXTovWd0yCilaivGD9ukSuUyedLXS1MftTTbGIfw9OUi_daj0Fxafp4",
     "showTopPosition": false,
     "skills": [
         "投标"

@@ -22,7 +22,7 @@
     "encryptBossId": "89167215ebcb628a0nF73Nu1EltS",
     "encryptBrandId": "7fb1414686cc4cb70HN_3964EQ~~",
     "encryptJobId": "6cb5200fc06194a71XN50t2_FVJX",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.973462,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 31,
+    "itemId": 27,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1NaltDc0SVr.search.31",
+    "lid": "8nfsJxxSrAc.search.27",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K·13薪",
-    "securityId": "U646fwpZXO3F8-N1urvwptFpvAeK3LxwxZ9gx6usfCgwZoQuvtN4feQtjYZUo95vnZurmFgcP3JyyoJnx-qkd7PgfW54CY7A3wJhCgyPtLZ9TNLObh9JFLctYAj7MbPpvCmTIa5UCjT32A~~",
+    "securityId": "l7uR6oFG4naCe-81CwSJX8EeXeOsBELSn3_0_Bx7SYv3nMe9vpOHzXtr4OHQVLCDCEpDOms5If_P2wco9cP_zdOnxnXKTEImCjg97dBQLxBq1SnrKQ7bvHzfvxLUor4IzRHXbs5d_QXPFA~~",
     "showTopPosition": false,
     "skills": [
         "C++服务端开发经验",

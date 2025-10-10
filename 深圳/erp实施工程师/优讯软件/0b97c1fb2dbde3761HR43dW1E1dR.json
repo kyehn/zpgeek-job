@@ -4,7 +4,7 @@
     "areaDistrict": "南山区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220321/607f1f3d68754fd022f0818bfb73c2104d346c0fd8b06c94f1304519c322671a943cb7666678aafa_s.png",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250723/607f1f3d68754fd0f06722d9c7c7a5ecee1e1640b03cf3baf1304519c322671a943cb7666678aafa_s.png.webp",
     "bossCert": 3,
     "bossName": "林女士",
     "bossOnline": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.537719,
-        "longitude": 113.954447
+        "latitude": 22.539062,
+        "longitude": 113.948215
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 68,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8mSUOcfgJPs.search.90",
+    "lid": "8nqb1XINbot.search.68",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "y7Yzdnen9Nz71-R1kx2rsJUCbr017yKSdUr3Ja55riiInb-k7C5HnPffxYQuc7OKF1vWgAbN_HQ1GclMEcyTLq5XVBBHVWAf5dUfQds53g4Yurnl_2T0l62g_5lhjisexTm76sFHNgeUMA~~",
+    "securityId": "s1bGU1wTdpawx-51OviVdJ6EliwvAIfOX-wHDvMAtIy8JbJ8tZqeyyJ3HwEG6FvqCsQoef4DCS0Ec2RhsY3lRs_Fww5yR0cOcer7l8OVhSeSSnTDuG0rJ-uEcH_7cjhZuqID3lN_RmvmjA~~",
     "showTopPosition": false,
     "skills": [
-        "ERP",
-        "WMS",
-        "计算机相关专业",
         "软件实施经验",
+        "ERP",
+        "计算机相关专业",
+        "WMS",
         "可适应出差"
     ],
     "welfareList": [

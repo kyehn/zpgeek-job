@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "副总裁",
     "brandIndustry": "企业服务",
-    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240813/7b5b554d84f9729c99d09f28e97e6979050f7529e6a32d91da7bdc33b729e249720337f011cc082f.jpg.webp",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20251010/7b5b554d84f9729c648e1808dc8a087acd1c50b15c7176bbda7bdc33b729e249720337f011cc082f.jpg.webp",
     "brandName": "名企科技",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
@@ -32,24 +32,24 @@
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 36,
-    "jobDegree": "大专",
+    "itemId": 59,
+    "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "大专"
+        "本科"
     ],
     "jobName": "助理会计师-公司规范-双休-五险一金-近地铁",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85xaDEhk1RE.search.36",
+    "lid": "8nfsJxxSrAc.search.59",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "RfrUJSQPv6vkW-r1e8amjNtEPCodGiblP2s7nGmq-gCUd46UM4BApDw4veaBZuKVX7fdnkVA_w_KXxyTDxlecBdqGlXwvANZRCnuWP0dAFMJWeoIm6nBF6W7GhNg1yQgaayzM27e_Yis",
+    "securityId": "P98IQ4_6AY-yN-31AmUPoiSXI_HnDY31F8CT10ogYvdcbSdUDf4XG5m2YXfh76woT-CtPLJSubMQ7K9_t9LD9xbGA3Zh0JbBfoDscS0fnC0hdshBtEoz52W-obEtDEBeK-1wgJWW1X1v",
     "showTopPosition": false,
     "skills": [
         "公司规范",
@@ -59,14 +59,21 @@
         "会计助理"
     ],
     "welfareList": [
-        "司龄奖",
-        "通讯补贴",
-        "员工旅游",
-        "带薪年假",
-        "交通补助",
+        "团建聚餐",
         "五险一金",
+        "带薪年假",
+        "底薪加提成",
+        "工龄奖",
+        "有无线网",
+        "司龄奖",
+        "绩效奖金",
+        "全勤奖",
+        "加班补助",
+        "通讯补贴",
+        "交通补助",
+        "保底工资",
         "节日福利",
         "年终奖",
-        "全勤奖"
+        "员工旅游"
     ]
 }

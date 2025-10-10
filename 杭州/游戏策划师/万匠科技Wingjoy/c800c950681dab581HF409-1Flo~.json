@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
     "bossCert": 3,
     "bossName": "秦女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "游戏",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211011/7bf6f160950405e9c3452efd0969d9b2b0cc0b5b966534a445f38d5d1f5d16b8dd2585d1ce0b312b.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 15,
+    "itemId": 78,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8HriAewWqnp.search.15",
+    "lid": "8gPb8gs6KLz.search.78",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "EXKOUIsQnDNHV-N1OQyZsL9TlOrvTqQ4Xo6hybhUPF1IV0542qBUbNNCtX5_X7O9XdAZDYp1Cyp07nQLgF0VtxGTOVlzk0eJu_JcF2iJNo9kppd13Uk8yAwJJkFjZSda_2CNrEWW8fpMXGxgnG7wt3sYGGJzWNJEUe_xRbEZ-6TWeg~~",
+    "securityId": "HO4Ie55GMYmMK-T18smArJQsfGW-5EfWt_f_TmuK5ighX_UhMSF8XAr_KBfZedCpqaH8TbRVpOYsQENQ8_TwDTtDh94UBzaL8tAEro6A5beH8XevR-T8W4mffwR-i53CcTZ6NsTbaw~~",
     "showTopPosition": false,
     "skills": [
-        "游戏",
-        "游戏策划",
+        "游戏关卡策划",
         "游戏系统策划",
-        "游戏关卡策划"
+        "游戏",
+        "游戏策划"
     ],
     "welfareList": [
         "节日福利",

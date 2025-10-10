@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101003,
     "isShield": 0,
-    "itemId": 260,
+    "itemId": 5,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,23 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2BG8RSu3Iqe.search.260",
+    "lid": "8gLO6gkbIV5.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "gzbVp7Q6JAAsU-e1SZ7-xF1jh5h8mkFgDDc7H9gkcY-DDCUs_dNopR2WuIkheNaLsZb8-Qdxdtsnnp5S-vcQFafvVKV2JPXeGzl77iYYEorRFMF0ViIaDzOYIhnNCyzNQM2cC9uwHgEAqA~~",
+    "securityId": "zVsPwC5qI5wkG-K1fZkd3rKZFDnuWRdGeBCnCtJlkGpxhXkZxbnF5YiCKJuIroPxHKGHTbZvZfz4IHMzXaUw3fW--Xpu2EXWwVc76I7Qf3xCE0X8OiRt-2WEEx2umYw8c2ZdBNc7T8C6kg~~",
     "showTopPosition": false,
     "skills": [
-        "T恤/卫衣",
-        "女装",
-        "裙装",
-        "面料辅料采买",
-        "潮流趋势调研",
-        "CorelDRAW",
         "PS",
-        "服装"
+        "服装",
+        "女装",
+        "T恤/卫衣",
+        "面料辅料采买",
+        "CorelDRAW",
+        "裙装",
+        "潮流趋势调研"
     ],
     "welfareList": []
 }

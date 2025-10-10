@@ -22,7 +22,7 @@
     "encryptBossId": "1fee938001759c461nR92NS_EFZW",
     "encryptBrandId": "4b8fda8b92e49e333nJ52N-_GQ~~",
     "encryptJobId": "5787cc554d2cade51HNz3d64FlpS",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.951748,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101406,
     "isShield": 0,
-    "itemId": 83,
+    "itemId": 27,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1d9FtMSnP6L.search.83",
+    "lid": "8nmWm6lxd7y.search.27",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-7K",
-    "securityId": "RbN3zduywvEMI-i15oyOcVhcTOd9GACbJHfVjbIMJzG1XyQfm08RnuQhtDaT0Ke09Fl-imtK5dKoR5pEMj4uPuPuZiCoNUkLICkeathVZlP_s7WIEA7DUpajVRZoaFYjoG76CRvamskrFw~~",
+    "securityId": "msRy7J3k8iClC-Q1nhdKrOAxu70WUszMK5Vk4p1f12g3vbRi_yWhXJuXeymhitvwspCf1kzzSNUN1GicwDlfe_iTZFHtQSqct4V9JJHIBp85jY5CRwwPJAqWxaPgiHNuCEHNSJhe5dHlIA~~",
     "showTopPosition": false,
     "skills": [
         "PyTorch",
@@ -61,14 +61,17 @@
     ],
     "welfareList": [
         "餐补",
-        "零食下午茶",
-        "员工旅游",
-        "通讯补贴",
-        "全勤奖",
         "包吃",
+        "通讯补贴",
         "工龄奖",
+        "宿舍有空调",
+        "加班补助",
+        "零食下午茶",
         "年终奖",
+        "员工旅游",
+        "节日福利",
+        "团建聚餐",
         "五险",
-        "节日福利"
+        "全勤奖"
     ]
 }

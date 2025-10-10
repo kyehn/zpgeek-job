@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 40,
+    "itemId": 48,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cTmHYXzw0D.search.40",
+    "lid": "8nmWm6lxd7y.search.48",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "vhdn1A2r5fx2U-f1sBCVhup2T4W0MvvbtN3ovFUlu4_wquTIRsfK7EinG2x94YknIGFSYi9021VzhqR29q7IpDNGP0jroQ5ZkfHzpcTEdbS-KKpKd470ociumPeBd26puZZ98Fn_ZPYdTw~~",
+    "securityId": "lWRzKaW04QDjZ-c1z8-0Hwivgx3OFlG9fEAoWvFjTag4at3tSES8WlX9bO744Hu6bYUNKGf1XLj9lHynOAJjAFWzKwUj3jbTpJkYvmzS8E1t2bw-AiUq24v1qRoBkfLD-32SrUE0aWsP3w~~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "Django",
-        "服务端开发经验",
-        "计算机相关专业",
-        "FastAPI",
-        "Docker"
+        "Python",
+        "PostgreSQL",
+        "Docker",
+        "FastAPI"
     ],
     "welfareList": [
         "带薪年假",

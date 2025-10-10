@@ -22,17 +22,17 @@
     "encryptBossId": "26e1c0d72be588e01nZ52N25EldS",
     "encryptBrandId": "709fb5d509611d031nN62dm4",
     "encryptJobId": "ba642cc0c5cb8bef1Hx43Nu1EVdT",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.992355,
-        "longitude": 113.333669
+        "latitude": 22.991837527295118,
+        "longitude": 113.33411332718745
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 41,
+    "itemId": 71,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85uCZGRbIOK.search.41",
+    "lid": "8niKBcQEIxB.search.71",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "tjs26SJ1WA4hO-I1RnZfAmGYCnDF1yTwQPk-jKXWY1dFDqP0Ri2Epe-4FD38z0qtH0JQ3R-2pMLaDEVwmLPPwIT10HcvwMVZjbfeA9gwI43Up3fBBGBZL6-HhH6V4wJcjYBPenA_9918",
+    "securityId": "IQ1q8MFZ72qUv-n1D0tswW6mimYhndHeSMYXYVZYXgMn42MYV5tiD7z4gJDctPu5j4qNUGPS_Ga3unBvn5nsNcj36xcqYiENssIZWiKWqQfrEvygqboSXjSv41X-plxGYgq0dpVcZoGN",
     "showTopPosition": false,
     "skills": [
+        "软件实施经验",
         "ERP",
         "OA",
-        "计算机相关专业",
         "财务相关专业",
-        "软件实施经验"
+        "计算机相关专业"
     ],
     "welfareList": [
         "生日福利",

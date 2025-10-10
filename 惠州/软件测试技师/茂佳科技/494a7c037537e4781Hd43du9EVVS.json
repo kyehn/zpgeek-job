@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "郑女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HRBP",
     "brandIndustry": "智能硬件/消费电子",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220624/7bf6f160950405e92bc2bd941a624ca9117cef02633a1e073a865b4e7352bd9437f1f3284a48e31d.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "c05b5d3c47782b730XJ52tm8GFo~",
     "encryptBrandId": "5458093121ab00631nJ-2N60EVI~",
     "encryptJobId": "494a7c037537e4781Hd43du9EVVS",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.044318,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101401,
     "isShield": 0,
-    "itemId": 43,
+    "itemId": 90,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1BUIoJmssBv.search.43",
+    "lid": "8bIpcNIyFah.search.90",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "VEHAtdw7v5OKt-z1W1VvBkjey2ndTcumz1u4RgJdr55-WesnkbeePW1NmRM9L-S_cJjB8RAo1WQedcc3i3kGmc97uedXPC1QArmgKBjuU5gb_kxWbvp25kn1lLMOFDhsx6fzdlanhhd1n56pUWqhCJm-9YJoy3JhsRxYw2O5bv6PLzg71g~~",
+    "securityId": "Cm-bZKOQt5Trw-Y1CktRWHhQlRXPYJcaqKPTxROhEFnjpnnkRjSkvAxo3jmeDMpxyItRfzGExAG2ntNg5xB1tMWA3WgfANoiENvj7EcFmvx2P9-FnMdZoWGd6V3saqMhTsbmvF7qfdDdMg~~",
     "showTopPosition": false,
     "skills": [
         "测试工作经验"

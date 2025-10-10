@@ -22,17 +22,17 @@
     "encryptBossId": "97eacbeea310119f0n1829q7GVtY",
     "encryptBrandId": "63b261f959cb44641XN72N-7Elc~",
     "encryptJobId": "91e5babcfe52ccb303Jz3dy5GVtY",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 23.213987,
-        "longitude": 113.332938
+        "latitude": 23.214261746904597,
+        "longitude": 113.33271016743647
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 76,
+    "itemId": 84,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85tC12K9U16.search.76",
+    "lid": "8nkB0qUcyfE.search.84",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "EO6yqjdmpxkpq-S1xtk50YiziVUZYQVOsVZZt_n9DvRP16LhDsIH7ToPQmgKjzKJ6iE7HMkTYmAeYBBQ9D2vvS6EURrMAPNR1x9gdh2Di2PavIMPO7dZkJrdp4XdOcBYtSIKpSsIaFy69Ao~",
+    "securityId": "bUvmVkCPCuWC2-T1-YPLvbswYlKbLcVhX8b1Gbn3pigpwt8F3zCYZ99iRtxT8fMxUal4qdkhteJu0eJKn2ecF5J9CVPWqvAWvce79ObhpHOoRN8ls3ZDUrP7fyDlu6kKVYu7kb8jAspXul0~",
     "showTopPosition": false,
     "skills": [
-        "全职",
-        "线下办公",
         "抖音",
+        "线下办公",
         "微信",
+        "不限",
         "快手",
-        "不限"
+        "全职"
     ],
     "welfareList": [
         "零食下午茶",

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211110/607f1f3d68754fd048fb1d37aabd12ffcff97734ac143887a6985aa67c2b8348fb681ab4a590c28a_s.jpg",
     "bossCert": 3,
     "bossName": "明女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "hr",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/0d41c4f48fad39f663d880175d51366fcfcd208495d565ef66e7dff9f98764da.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 29,
+    "itemId": 72,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1eBG255jVgE.search.29",
+    "lid": "8gI2FyQLb1M.search.72",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K·13薪",
-    "securityId": "Gn7gyQaao87PI-q1dlifwcy609pCu_YbzCaxGc3S1tF9EBv0XRuqwwh3TTOuAfYEmhJPDTc1RsQGY_VCruvTZMAHraWatTrVzOOuPt66Z0p9p8alILnveT6qv-cfrHbRJQrfSwKg9AtrhP9N-6dk1Ao-2iQbQ1kndE1W3GzO9Zf9X8c~",
+    "securityId": "e3QPkIoHUInB6-R1QfEFDHrP6GH9-g_35oIZSz8nE41o1CfBo5FJe71LoveVLcEj0rc1ZObebndtW-1YQxzanblYlFdn1zNOUVWSltEtuRyFsaUWIPSFxxnhWsNHUuNRukluYMBXgts~",
     "showTopPosition": false,
     "skills": [
         "网络运维",
@@ -63,13 +63,11 @@
         "应用系统"
     ],
     "welfareList": [
-        "带薪年假",
-        "补充医疗保险",
-        "定期体检",
-        "年终奖",
         "餐补",
-        "生日福利",
-        "五险一金",
-        "节日福利"
+        "定期体检",
+        "带薪年假",
+        "年终奖",
+        "节日福利",
+        "五险一金"
     ]
 }

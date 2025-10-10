@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 42,
+    "itemId": 67,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,22 +43,24 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fEXWAl5QGz.search.42",
+    "lid": "8gPb8gs6KLz.search.67",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "7Ekg6ipo4RTDS-x19z-iEkE--L2KYozOKZbzdKA0l_Yr1n600KLaFA65T4Q28eQU__f5GvXHtSx8XwZfMyMNtKSPyTRFrrmEfdRjuSkyg3G7C-Q_Eo5dvQD2PJIPkmExFLcQWxVsIB4~",
+    "securityId": "tdmLktSF5ImKK-Y1psVe9IvPtxlXTAOywdKLBalH8CEPbvsUvJxXGDObaau4LS8n9rfu6JL_V70M07fR1fste6exfSFgMY11vlO3mmTExHl5WRM2LUo3si_j9Kae1jt2ekETGbvB9UE~",
     "showTopPosition": false,
     "skills": [
-        "ETL",
-        "SQL",
-        "Oracle",
+        "接受无数据开发经验",
+        "提供实习证明",
+        "数据开发",
         "MySQL",
         "SQL Server",
+        "ETL",
+        "Oracle",
         "大数据",
-        "数据开发"
+        "SQL"
     ],
     "welfareList": []
 }

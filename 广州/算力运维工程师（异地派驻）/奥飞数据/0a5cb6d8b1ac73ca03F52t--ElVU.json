@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250515/607f1f3d68754fd0a69c6db9abe1cddb565f0a81f07afd53fa83cfc157d71b827832a4ae9761db98_s.png.webp",
     "bossCert": 3,
-    "bossName": "胡乐儿",
+    "bossName": "胡女士",
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "计算机服务",
@@ -22,7 +22,7 @@
     "encryptBossId": "c01f1338e830c11b0XZ72dW-GFo~",
     "encryptBrandId": "9893fd35f7f067421nJ_39u9EA~~",
     "encryptJobId": "0a5cb6d8b1ac73ca03F52t--ElVU",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.135096,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 58,
+    "itemId": 88,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85r9mU9zV0j.search.58",
+    "lid": "8nmWm6lxd7y.search.88",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K·13薪",
-    "securityId": "B4JsYAtC4YTA8-N1RDEjV2JEN6lk08BNSyDwrWgDrV8Qb62WjsCDpAssull_Nz2En-VZG8mrY7CAZTJ39gLtXQcA81HU6WQPc3_jIWGoo2k-zczyUjJBVCTa5xYQ5njm2JBgJ4PdnQEp",
+    "securityId": "yLQf3prcfLLk4-m1ZEk4qD9hmuCjPLBMqCdK-Aa_4p8ih9lh5akiedZgBz0z9vXdjhN_xtqjQN433yWDqMAgx5sTdkzrwZNF5ca9MQNXRKBHd-lT2_O9L7zKFOXjPgTuOzdkzvZcG8G8",
     "showTopPosition": false,
     "skills": [
         "IDC机房运维"

@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "荔湾区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211015/607f1f3d68754fd0e72083c95c040432f8e71d88125820bee89270fc6f722c8c68f4d4ed595a9404_s.png",
+    "bossCert": 3,
+    "bossName": "黄女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190829/6d547e216d8e711d997df0eabf8bb8bd982d34ba9de721ae1b8aa1b50209fc39.jpg",
+    "brandName": "宏意星",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "陈家祠",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "25ddf44a398055610nZ-2dm_EFFQ",
+    "encryptBrandId": "9fd27d6597ef82640nB629m-Eg~~",
+    "encryptJobId": "c14283626dcf6a9d03N83dq7GVRY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.12326003774739,
+        "longitude": 113.25357721481716
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 46,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "IT技术支持（广州 桌面运维）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8noxd2jQ6dy.search.46",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-9K",
+    "securityId": "DR1x5Q_xni7Gs-z1Q_JIe5rt1WjEbJ3Cje5Dqlsakw5k38Yf83TgZfAWEEMsifiqLCvzR6AiHZyuH9JS5qK_ezWsum1mznmunTq8QIQAjniDzhVTN8QYZVVyf6ozWL0JF0d5pDOOOyGXxQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "IT支持",
+        "桌面运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

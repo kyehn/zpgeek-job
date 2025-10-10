@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 51,
+    "itemId": 38,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1eCLgYasNO7.search.51",
+    "lid": "8dgW9JvjOxa.search.38",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-11K·13薪",
-    "securityId": "pOqep9v7pw-9P-A1zJkxIqvk13jyyCOYhQwtp2blZoKtn3HUwgySFsgYrt4N3Age2KVxZAoYxloEEpd2nYHi-9D_piQtj25gW2kcy5YLw_ShIUGf-HFzeR59FYhVhYDZ8PwwoJ6UQYF2_f4aJZu90xzuGmDEqalenyk7jPqXuaBq1t8~",
+    "securityId": "ys7PBT8ROxvfu-t1tMJPhTlDgzbdNjLtyWvGbfgYQYSvsKKupTfIyGpdQcNOQYBOfZPUCWWz3NKg9LvOHM6yLUHvdGxw7dPv-uSEqCh5eTBqOuNqCj1xkWHfhEOTYdoe4nyApgrdoQJoBv3CzfSlIGcg7_CW9xFBs1RZThnqRCLB-Xw~",
     "showTopPosition": false,
     "skills": [
         "Django",
@@ -61,16 +61,18 @@
         "Flask"
     ],
     "welfareList": [
-        "工龄奖",
-        "带薪年假",
+        "底薪加提成",
+        "餐补",
+        "零食下午茶",
         "年终奖",
-        "五险一金",
+        "工龄奖",
+        "生日福利",
+        "健身房",
+        "带薪年假",
+        "团建聚餐",
+        "有无线网",
         "全勤奖",
         "节日福利",
-        "餐补",
-        "生日福利",
-        "团建聚餐",
-        "底薪加提成",
-        "零食下午茶"
+        "五险一金"
     ]
 }

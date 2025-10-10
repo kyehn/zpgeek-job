@@ -13,7 +13,7 @@
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "武汉易标科技有限公司",
     "brandScaleName": "20-99人",
-    "brandStageName": "",
+    "brandStageName": "未融资",
     "businessDistrict": "光谷",
     "city": 101200100,
     "cityName": "武汉",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 51,
+    "itemId": 87,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,14 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3R395wy0tif.search.51",
+    "lid": "8nynVGyvjoG.search.87",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-7K·13薪",
-    "securityId": "Dr_caXRxWGbs7-I15cdZrOJCA1C-2f4k3YhStRraA01ug0dhHqjdmjB1hsJvF5YsLlV4H2nokTzgLK8xEYHGwJA2AsSng0FFYWfO0QW4rMvUFGX19O8EW5qkT2mgVi7RZ5UW3_tRlLsyRU0~",
+    "securityId": "s1cDF1htRyIBL-h1oUB55pt6ItjV0SlRbJBs3X2g4AmO3HdwlOmjeaK_Vs1Vw9BFaMwXP8gM8vC91JT1jLgItdyKGZhL_XLeW7qSZXmuXvyXWcofjard14rdo9w1XZE9yNtqKWQmQsnLiyA~",
     "showTopPosition": false,
     "skills": [],
-    "welfareList": []
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "补充医疗保险"
+    ]
 }

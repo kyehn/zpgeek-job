@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101001,
     "isShield": 0,
-    "itemId": 52,
+    "itemId": 66,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4RFRXIdnXz9.search.52",
+    "lid": "8niKBcQEIxB.search.66",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "TXOt0VlChgRab-n1dqqL6_E7sTTZOhu4aR7jwXGseAm_F8LKIDnWE58vo7b_1UQBL22f4hGEwKjHmof6wn6QKJkIEpSb8t_h_q26sZ_FgxlophekSm9ki8365OJiOyKLyRhcM7-EsPSHOw~~",
+    "securityId": "W4ww9nJqBWHds-N1iANee3zy44IEOJtKkXFWsbC_7MHsnsH4vHIZoA1n2U9Yy_LGSsM1XjmxdS9zh9HC8n6t0SUr2PzEaAqNJlUCitUPx0nvL7c1KrPHgfwKYKfABSUGOcCXKqGMpVj3Tw~~",
     "showTopPosition": false,
     "skills": [
-        "食品质量管理体系标准",
+        "不需要出差",
+        "接受无质量管理经验",
         "食品质量管理",
         "生产质量管理",
-        "IQC",
-        "IPQC"
+        "现场品控",
+        "生产线上质量管控"
     ],
     "welfareList": [
         "高温补贴",

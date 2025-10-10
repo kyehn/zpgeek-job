@@ -14,7 +14,7 @@
     "brandName": "上海度特信息科技...",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
-    "businessDistrict": "石化",
+    "businessDistrict": "漕泾",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.712583,
-        "longitude": 121.331747
+        "latitude": 30.781463153724513,
+        "longitude": 121.42725809383805
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 78,
+    "itemId": 12,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fB88CNJuEm.search.78",
+    "lid": "8n7CECP3bXE.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "bN7Zg3VFJFlVU-s1YmJW5r2QVLadO1sqW2fDkY2EdUmkBNTVlhrM8mz9gL_pYxAOi5duy9mnMavUqGeI08lcFxuHnwA7LnCwb8mL1B6umUh5BrEwH3hBtWJw8l0L_trq1fXRpjcOqXiZ",
+    "securityId": "-6FuaXteC30KG-21rMSux3B2KPCNtzHu5t9ZUEeEpsLg6c_5R-EVTRhoXO7K36LOR6Z3agpkRhHLc7u6DntCQwW7FwVPT2Lp7EmtfJnLRB_N9ou17NYYgEVidwIblpy9NQIXCYBh7QwC",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [

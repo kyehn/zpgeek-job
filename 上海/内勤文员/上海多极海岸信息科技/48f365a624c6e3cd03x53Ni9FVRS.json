@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "青浦区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250603/607f1f3d68754fd0650f43f1e3df3ec0df2759da8510098db0d40aa27a58864166848a7c7280749e_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "人事专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
+    "brandName": "上海多极海岸信息科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "华新",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "bb8e62940c265ad40Xd909S0ElJV",
+    "encryptBrandId": "77a0b00c32a81f0c03V82Ny5GVM~",
+    "encryptJobId": "48f365a624c6e3cd03x53Ni9FVRS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.218772,
+        "longitude": 121.212435
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 62,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "内勤/文员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8gUu67wIeRr.search.62",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "Q1HrJJ9tgcggZ-H1wlqLXoGZTSnu95oHjGBRRWMWWamkK0CIIT3Nrm9_H-LsrIzw_ToiRLPw9kWiASEBRrWfrqncqlOvDHRGhSq7zX0I5E4hAQ6KrTJ3AohdOCNy4hK08imekBCBkxQw124~",
+    "showTopPosition": false,
+    "skills": [
+        "统计",
+        "数据"
+    ],
+    "welfareList": [
+        "节日福利",
+        "有无线网",
+        "五险一金"
+    ]
+}

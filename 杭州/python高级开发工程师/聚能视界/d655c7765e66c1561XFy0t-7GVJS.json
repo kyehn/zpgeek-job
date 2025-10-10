@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 45,
+    "itemId": 24,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "hYw76akQEF.search.45",
+    "lid": "8gOjTuzrozo.search.24",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-10K",
-    "securityId": "_HUYWKmIkPBAj-K153ryukd7aLGHrznbEDLg34uC1T_KtPlpEBIK_Vqzi0_TFqLCzh4byEKkNPE1WBOQV7eB7PpCJLDvmXTv1ksDQfSX3J7R_sO47vaPjfEnSE5p0BdDNJxtlJboFJVn",
+    "securityId": "RxTvTfZtcP6GG-t1G6g1N6gykuIVLirBAGE6_UTEce8JyYFSiCLAxCBulIXGVo7-sEEZ5KmIS8ZxMBIFiuSL_D86WNgYG1AMqKTRM_K6EOkztPRORTMWqiDFX_PLCwl_x6kCN97ifs-2",
     "showTopPosition": false,
     "skills": [
         "后端"

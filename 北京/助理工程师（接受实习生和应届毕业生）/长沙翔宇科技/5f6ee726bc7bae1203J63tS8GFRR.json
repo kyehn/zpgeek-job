@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "海淀区",
+    "areaDistrict": "昌平区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
@@ -14,7 +14,7 @@
     "brandName": "长沙翔宇科技",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
-    "businessDistrict": "西北旺",
+    "businessDistrict": "阳坊",
     "city": 101010100,
     "cityName": "北京",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 40.076279,
-        "longitude": 116.27088
+        "latitude": 40.13225803142807,
+        "longitude": 116.15283161515259
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 36,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85xaDEhk1RE.search.13",
+    "lid": "8nh5ycHxgcf.search.36",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K",
-    "securityId": "eupj_xJHODUkB-m1yh5uLE0MjunsM-rpG_9d_5JNSeCOnpXHedH0zd2XBiPQoqcJSdjjNxue3CKI55PZH6TEN_aBNvhtP0ydx5YdhTz39FRMDTPrG7aQlGv7aAu2jnrAO-9TuOslZ-_v",
+    "securityId": "fxem1i3PgRi2e-31j4glgQW9zfEmeFuppFqGK_vtKyWFO0evnvMEkr6fZYrz-mAyYAvy9YTkSpVQTC6M9hQI23hDAKXDun8So4PWCeBSypyMGtIl491A01-5ZdEwp5HON4lO09zSMaFW",
     "showTopPosition": false,
     "skills": [
         "Java",
         "C++",
-        "MySQL",
+        "不接受居家办公",
         "分布式经验",
-        "不接受居家办公"
+        "MySQL"
     ],
     "welfareList": [
         "带薪年假",

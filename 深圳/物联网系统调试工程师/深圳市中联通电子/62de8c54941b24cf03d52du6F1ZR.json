@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 42,
+    "itemId": 85,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3PA8yOJL8Tx.search.42",
+    "lid": "8nvZuPinPNX.search.85",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "mb57nBlGWBCtW-t1XiaUO01C8ZLGmK43DAf7WcBioBtfA1TZz2F0FyWVd4AhtBpoRE-n91hxalnBPbcum0uuwAbhOUI44ZHEq-fE9N5hkkylv2O1wYe0epS1735-qwTA2YoOFwxBtvKP7Jo~",
+    "securityId": "VC5DUXqFYmdQk-x1yZzbHDinSwmNzfWjrMfPVERFFF0VrPfpQk53cqECEgzem5QIT7ssbkr9Z2EkNTvlrHvDsejvEhTE3TTH7iuUKLzK5xS2g64XgSlxQr8d6KjFXrWyzNXSIUDtj49B6e4~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "MySQL",
-        "调试工程师"
+        "调试工程师",
+        "MySQL"
     ],
     "welfareList": []
 }

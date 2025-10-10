@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "闵行区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "董女士",
+    "bossOnline": true,
+    "bossTitle": "经理",
+    "brandIndustry": "美容",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230210/7b5b554d84f9729c9314596ff497755d036d6e7cf8d075eb7a4224c0b0742966117a3ab00340ed27.jpg",
+    "brandName": "时尚妈咪",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "浦江",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "455b06cbbf454c911Xx_2dW7",
+    "encryptBrandId": "03c8e7b62be163511Hxy3965EA~~",
+    "encryptJobId": "0fecaad7dec5588e03x52N67FFpZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.086096,
+        "longitude": 121.517797
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101111,
+    "isShield": 0,
+    "itemId": 38,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "行政人事专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8gUu67wIeRr.search.38",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "Se5ThJUm2FOOM-N15mzkhevVXtLNmOpX6YTzDRrxb8YSoCOhrwZSe-bPaeQyqe5bURpQ0w3G-FNCYxIzf9SaY3f0fdpR6UMu3xuYgZtRjDxvBYDqUJghrrXdWAZbVoXkZsT-G5lWQAnScxB9INEyvxa4wh_GG-OdzJ_GuOWUUXO36Q~~",
+    "showTopPosition": false,
+    "skills": [
+        "招聘"
+    ],
+    "welfareList": [
+        "五险一金",
+        "节日福利",
+        "包住"
+    ]
+}

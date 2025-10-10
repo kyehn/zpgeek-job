@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230505/607f1f3d68754fd01ab1ab7f100283c97d283e4c4dee24600a90aba8645c5e84414ff2bfa50ae226_s.png",
     "bossCert": 3,
     "bossName": "罗女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事主管",
     "brandIndustry": "检测/认证/知识产权",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210423/6faf966dc2a452f0bc042f84fac9af78b005543463a981788393a81c5960aa26.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100609,
     "isShield": 0,
-    "itemId": 78,
+    "itemId": 65,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TrsF09KUP8.search.78",
+    "lid": "8dahkO8a8MC.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "LKjUSNPEbXUF_-G1cGZK5oFQ9phwOzubd-CKaUOUTUx7UGwqRzg56xT2GF5vvx8YUj4GjUnGbMtHL9qgwfW1c32aHU5N5e9ZWml781IBlDesFMr82NpwQwDnBniFOCqTUh58e_gzAtXB2IY~",
+    "securityId": "WGBUrzu95gs20-S1hDaAAo9gjPhJ5vHvrwXL__f19LWCsibGhSN8sXNNGts-sycyN0rRCr2EdYpUSZV5v365gRpvG64gTbtAMRhrIDUrkJ9JA3hDi0bgFXsUSTLdvvwZqXjPgpqMS6c1j8Z-xGdIGl9WCkoR74U7sAy9_DkfKKZm2o3U8pM~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验"

@@ -3,13 +3,11 @@
     "anonymous": 0,
     "areaDistrict": "",
     "atsDirectPost": false,
-    "beforeNameIcons": [
-        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
-    ],
+    "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250310/607f1f3d68754fd061fca9400fd7eeffe352ecf4a18cd8153c7e586ed6034694962df1e9550e762b_s.jpg.webp",
     "bossCert": 3,
     "bossName": "周先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "智能硬件/消费电子",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/eccf87304cf817c6d52b80861b29f56bcfcd208495d565ef66e7dff9f98764da.png",
@@ -24,19 +22,17 @@
     "encryptBossId": "549f131d3f710bef1Hx52Ni7FVU~",
     "encryptBrandId": "57325b9cf168bd441XB72d61",
     "encryptJobId": "d0644f71da63ff2503N63dm9ElpQ",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.20553595702704,
         "longitude": 120.23071750016625
     },
-    "iconFlagList": [
-        38
-    ],
+    "iconFlagList": [],
     "iconWord": "",
     "industry": 101401,
     "isShield": 0,
-    "itemId": 52,
+    "itemId": 23,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -47,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1DQ1QGodFwQ.search.52",
+    "lid": "8gMClzFLKtV.search.23",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "面议",
-    "securityId": "jixQUzKmubdwN-F1KU_QhLMblWC_js94Qbq8EBjFxLHRZCdEWq7JI069B7y7mdMJ7LHLmUgpRea1HedyIny-wp4fIhy3VvMEQunN12mcmLlsXmI51MbygDZWtZz-wBECMykzETaPbzo~",
+    "securityId": "Qx6KBHsXxCVEJ-21NfGarUGF3vxlBV4UagNYrbAIrofu72LFv9Qo3hWp9B8LLWR68Dc9E0emIzTlh5GaeJKCokIIi3eP2DBklL3ARvZCE6tHA7BirbyXHsAWEkqzVd9UWuYwrpKfkjO8Pxhteo-4Bf84KoRAblWBu-kvuor-TxRk85U~",
     "showTopPosition": false,
     "skills": [
         "校招"

@@ -22,7 +22,7 @@
     "encryptBossId": "dc0fd8c4b74aede5031z3Nu6F1s~",
     "encryptBrandId": "f52305cd8559253a1HV_2Nq0E1M~",
     "encryptJobId": "16a17d80771dec1803d-292-FFRS",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.074766,
@@ -32,24 +32,24 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 75,
-    "jobDegree": "大专",
+    "itemId": 28,
+    "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "大专"
+        "本科"
     ],
     "jobName": "ai开发工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3PxqXx0cgDv.search.75",
+    "lid": "8nmWm6lxd7y.search.28",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "GmSCfn_RIhrXE-m1jFF3OnczIphIdByVFgO-HIlqlVqzUp8AvRBhXYF5-jyTKK38Zi4il-94fWLbx2FXCCjLpHosqDicYqYrqyj-7ymLHAupT1nZ0ibk-JzGjuHhORgn2-tJd22ZBATyvV_pi60zbgZLaKdAZg5OW_KCk56jEJShVYdHEQ~~",
+    "securityId": "_EoYgos8v8nje-h1hvcjD-WuDo2KaMsVHX0HAOj5c36pcQ6TYk_1fBFI1AabJHwUa2T6H8YK7ztk2LEjq5dUPmj-pS5g2xRyPcIH7VU9e3vqb8iG4zuR3iPd7iQuZFQOT8CVKU5sDgnRkX2Oz_jMEkGkyw617QcBkSmXaZ2BXnI5eJ3-_Q~~",
     "showTopPosition": false,
     "skills": [
         "C++",

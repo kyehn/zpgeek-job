@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230808/607f1f3d68754fd0df4717d8421b8970c453dfa749062d05db1c1a71d6f1f9db3fb6d07c46f1cca9_s.jpg.webp",
     "bossCert": 3,
     "bossName": "杨女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HRD",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230914/7bf6f160950405e9c54dbfd1fbcaa4cf7517c3ecd05c6fca0832c020b603a53c14dbf35259bf446d.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "b0d2924f06847a0c1XN50960GVE~",
     "encryptBrandId": "76f4b428e71d5d1d1HR43Nq9FVY~",
     "encryptJobId": "def72aec4f9221a103Vy0tS0GFZY",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.977505,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 85,
+    "itemId": 89,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8hkC69wA8ek.search.85",
+    "lid": "8nfsJxxSrAc.search.89",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "3-6K",
-    "securityId": "5v98pO4ARiv6C-51MMlizn-I03cKT04MJFaPsmVraasl56pnycVY3NJl2ccOEJlKZDyAaojwdtmPdQAyQPsFFep_e_GHKgvboQxdnHXYSihVDzubY9KhKTWOxp_hS7OJsHfKs8pgNdh3yC80Spo2Q3U~",
+    "salaryDesc": "4-8K",
+    "securityId": "ybvIclQrphjzV-d19B_eet6h0sM9GD--ygtztYwu-mxG1Xqt8mwrw4qnstqFwFXFKFZYGb3xzwHiLvUoV8roJXzIeoS5K8Yh8uTJ-1kQXuB5X0LNQYaYkLwqvuuGzCy-XE_Klom8JAdjTg~~",
     "showTopPosition": false,
     "skills": [
         "机器学习类AI",
@@ -57,16 +57,18 @@
         "C端产品"
     ],
     "welfareList": [
-        "免费工装",
-        "年终奖",
-        "落户指标",
-        "团建聚餐",
-        "有无线网",
         "股票期权",
-        "底薪加提成",
         "保底工资",
-        "绩效奖金",
+        "五险一金",
+        "节日福利",
+        "落户指标",
+        "补充医疗保险",
+        "免费工装",
         "带薪年假",
-        "五险一金"
+        "团建聚餐",
+        "年终奖",
+        "底薪加提成",
+        "有无线网",
+        "绩效奖金"
     ]
 }

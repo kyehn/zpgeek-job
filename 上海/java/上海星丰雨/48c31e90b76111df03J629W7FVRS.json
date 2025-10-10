@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 89,
+    "itemId": 39,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,23 +43,23 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85B2THOhhFi.search.89",
+    "lid": "8n6LUrIus2y.search.39",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "2-4K",
-    "securityId": "DmfK19DrbY0ZP-n1fvD6-o9BB0pgLnkh8AM0Pw4anyQ7HFaIriaXQNYi9HifxNLsKBcwGh-QIDevpTSZb1IfmuLVjqjjvx-NlVU4WrVOvSBeqYGPq5IPobpr9pIx9JdSBfB6NB43jZtfYQ~~",
+    "securityId": "7V3e4MnpAarL_-f1PXKy2Y-8uB7AES47nClvM4pqb74wQU7Jw98Cbht0mHjxNX4Yp47zNBKC48K6JsB3GCN3_sFA9u7jUnpaCV3vWxhFyuxFWQejx2xeP9Wd4bLtZq5rLBzAe6NTB3zGiQ~~",
     "showTopPosition": false,
     "skills": [
-        "不接受居家办公",
         "Java",
-        "Spring",
+        "不接受居家办公",
+        "PostgreSQL",
+        "MySQL",
         "MyBatis",
         "Dubbo",
-        "MySQL",
         "MongoDB",
-        "PostgreSQL"
+        "Spring"
     ],
     "welfareList": [
         "节假日加班费",

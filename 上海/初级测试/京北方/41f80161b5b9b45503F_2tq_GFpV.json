@@ -7,14 +7,14 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250426/607f1f3d68754fd0b8244959876867a0eb1edf0a98eb4be3bbd55df1027e044b4a6ca1ee79dbfdd0_s.jpg.webp",
     "bossCert": 3,
     "bossName": "贾女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "互联网金融",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181130/5a7f5dfbd4b0ca719f5955ae5c476947cfcd208495d565ef66e7dff9f98764da.jpg",
     "brandName": "京北方",
     "brandScaleName": "10000人以上",
     "brandStageName": "已上市",
-    "businessDistrict": "董家渡",
+    "businessDistrict": "外滩",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.202846,
-        "longitude": 121.495258
+        "latitude": 31.240017,
+        "longitude": 121.487888
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100206,
     "isShield": 0,
-    "itemId": 21,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8jzFZPYFMPs.search.21",
+    "lid": "8gVk5qwxSGN.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-9K",
-    "securityId": "KGsrfUAIUiofe-q1FxZ5bSlboNSciPWeNP-hl6POhU6DCaoLknkieb0gB37Y4Zlasy4fXpMmIWY4pfyYtcYg3zMi6gRcJmNjOi7xeLoddQR-wKNIF8fFw9ioZ8YDVuPPoHlFlwb9No9QTHBXfn14RWqtd8Vvl-BOviQ0eje2wscoGlzLYA~~",
+    "securityId": "Qko5gaO471bHk-61_ZTnZ04I9umibsIPdKqkzTq19oZqK0UANhFzKQIheZiclPcAni3CoUmOZwH2FyrMj74BH1yyV-ADphlJSOaWienLHIvIYZAgeuwehgAoNLfBbbgDfzG0yMmlPazFVw~~",
     "showTopPosition": false,
     "skills": [
+        "通信相关专业",
         "功能测试",
-        "计算机相关专业",
-        "通信相关专业"
+        "计算机相关专业"
     ],
     "welfareList": [
         "保底工资",

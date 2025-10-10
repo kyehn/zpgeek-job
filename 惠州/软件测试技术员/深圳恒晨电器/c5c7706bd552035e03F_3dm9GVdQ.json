@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210603/fa3eed8b2cf7cd6d2b3695dfe1d0081986186394effa79fc296ea417c87dcb0f_s.jpg",
     "bossCert": 3,
     "bossName": "魏先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "通信/网络设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200609/7e7e5840f581b170cc75ab27719cf055623ab71aec23277ceece44125f07d036_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 20,
+    "itemId": 65,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1UyA7mIV3mp.search.20",
+    "lid": "8bHvvhgSwX6.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K·14薪",
-    "securityId": "PVx8YEQV7B9Tt-v1ofZWNtyBNEPcJQjAyUH6zhaitAbR7UXREEFpFUvHjGbDFZ-q8_0ta_p-gQawaOquEhad-gEVHx1umuxrYTxbGl3me_rk4jGEV5G-WKW6MY7JZQhqOskjw9dOABlh3M7O63lFzdeb2VH3LM3riDOs8VM7h6KjnAaN",
+    "securityId": "lHfnJZI4hbE8Y-U18dSXDQeRnTjDsTYfg6PMzDiPe1gLvMwS0Ctfm631ZdyXYQfjOq4wd1u6hbsf1_bY-QgFwIx72gXO94hx9mVvbPuXVaOoqOgi6Bkxjg9eafBg47hA69zG4u6EmX3C",
     "showTopPosition": false,
     "skills": [
         "功能测试"

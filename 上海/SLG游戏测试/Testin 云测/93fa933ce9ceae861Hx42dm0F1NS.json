@@ -22,7 +22,7 @@
     "encryptBossId": "5e4dc2157104ed961XRz2NW-FlE~",
     "encryptBrandId": "ceb246cf881c752f33d939g~",
     "encryptJobId": "93fa933ce9ceae861Hx42dm0F1NS",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.312043,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 81,
+    "itemId": 69,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ZeIPTcoW1I.search.81",
+    "lid": "8gVk5qwxSGN.search.69",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-12K",
-    "securityId": "Cz4xzCxlTJFhs-c1QeKKVi1i-qD1GjwhWDThwo15dZ9x3mO2UggcGgk_taycPzvCdeiqK_E_V7p10rGW8UOtER8lt1WnE5BSqfYNYLkRbCnnRaU~",
+    "securityId": "Jl-0PJiRP8GwM-U1Pz_Xwy_BlBqpVHhfdMrWHKH_pQvqsgKvSA21LTu61h9Py1ZlZ8VL-lgp0hLhhN1q7JX_vQCkLCLc8YOZXqat23CEiJ7NPqeK8NR0X2Z0SI4c7mO9iea7feCGsQ~~",
     "showTopPosition": false,
     "skills": [
         "丰富的游戏经验",
+        "缺陷预防机制",
+        "海外游戏测试经验",
         "专项",
-        "战争策略",
-        "研发QA",
-        "三国题材",
-        "slg"
+        "slg",
+        "LQA"
     ],
     "welfareList": [
         "节日福利",

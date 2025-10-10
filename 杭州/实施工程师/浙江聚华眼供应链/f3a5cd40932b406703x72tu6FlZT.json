@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "吴一帆",
+    "bossOnline": false,
+    "bossTitle": "事业部总监",
+    "brandIndustry": "自动化设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "浙江聚华眼供应链",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "西溪",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9ee5d7a7042e08dc0HZz2960FVNT",
+    "encryptBrandId": "dd8a428ca61d085703B739q7E1U~",
+    "encryptJobId": "f3a5cd40932b406703x72tu6FlZT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.265884,
+        "longitude": 120.105587
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100914,
+    "isShield": 0,
+    "itemId": 57,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8gJ21orQLZw.search.57",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "zCxpptlM5usMj-318PrqMlNrekRq2YF_lDS-mYuvMCIT6C3VtvKBGLfC1hlwDIdDTnZTLzF8af6eR3u7UUEFAOgqsMyU-TL9xiufT55OvbFKPxB86iWG8q8nX8Oc2zV4xbTROtHg_fCmGoU~",
+    "showTopPosition": false,
+    "skills": [
+        "自动化",
+        "机电",
+        "安装调试"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

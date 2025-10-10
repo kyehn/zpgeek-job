@@ -22,7 +22,7 @@
     "encryptBossId": "c547ee32d73938cc3nx709m1EFI~",
     "encryptBrandId": "bf92cfacc78eb89533J409m0",
     "encryptJobId": "a161710e4a41fe9403Nz29y0F1ZS",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 24.533058,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 50,
+    "itemId": 81,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1BTCu3DYjJV.search.50",
+    "lid": "8ddUTlbMzx8.search.81",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-11K·13薪",
-    "securityId": "oAoKIZCGLPtEb-U1LSa2m3N45nvwdb6WR8bqoozpb5gOGhFpxujBGYV3opdwy6yQc00hd35eKSZKOG0Jpzh9kZfpdQUpFbHuX0z25S85xrBHKgkjyFxSgfhKg4xqsxPR0Og8T-0cf8TpflktioNImTZvzvbbnwPbOe3HL3WSRq6fs6M~",
+    "salaryDesc": "8-13K·13薪",
+    "securityId": "SbhDWTGnTFsJR-n1aqO05kJ-TsLemAhqVmcHve2jFWUGQZV6BOE8hqXHXW-sOJZtP4ehmG6quGw5lzQdv7YTWFNk2eIks5St1Lvge7RSMlb8Mm4n7APTFDDlt9FyK-KqlpZUjPLdsTnL8IJR7CIb-s696zAFKzpeqzhXS2XOZssntzs~",
     "showTopPosition": false,
     "skills": [
-        "Labview",
-        "测试方案"
+        "测试方案",
+        "Labview"
     ],
     "welfareList": [
         "带薪年假",

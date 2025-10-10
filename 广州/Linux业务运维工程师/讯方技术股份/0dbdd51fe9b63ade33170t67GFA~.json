@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/banner/20171031/84ade9701fd02a77fedb6675600a134f33d208e8d6fc287973c46e5cb5346f06.png",
     "bossCert": 3,
     "bossName": "刘女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171220/402bce72d67e61c97d4c9bea88d11101e379e7d796be9216437cfa659c20f3b5.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 83,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cUmxVvp7TD.search.36",
+    "lid": "8noxd2jQ6dy.search.83",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "vUipZds8w1Lk0-y1Rq5xe2_SEMjIUc5B7rSAROym_VNOIsnqj0f3v_rse3CMciVmd2u_iQ1QEx8M_T3RQaD2umlq9SY0I791Gw6uoSycn1rnqk8I2FzEk65KH5mSsqA_cE3AssgK0A3INXXvLVe7GTO_58O89yXH5g3OfazTfuZkinI~",
+    "securityId": "lkc7QYumOFwsj-x1fjsD2u8QUTXMe3eWlPa2MHxk-R-CGDlwuVO8F5i6ZdL91NzXEAYE2LhJXER1SXAo9EQBWYLLKSFFyf6TsakE-RXmLZNMslMECrsZXUbtU5b0taF_VkKc1E_kFCU~",
     "showTopPosition": false,
     "skills": [
         "Linux",
@@ -58,20 +58,16 @@
         "SQL"
     ],
     "welfareList": [
-        "法定节假日三薪",
         "意外险",
-        "通讯补贴",
-        "加班补助",
-        "补充医疗保险",
-        "生日福利",
-        "节日福利",
-        "绩效奖金",
-        "零食下午茶",
-        "五险一金",
-        "带薪年假",
-        "员工旅游",
         "节假日加班费",
-        "定期体检",
-        "团建聚餐"
+        "法定节假日三薪",
+        "零食下午茶",
+        "绩效奖金",
+        "加班补助",
+        "团建聚餐",
+        "补充医疗保险",
+        "带薪年假",
+        "通讯补贴",
+        "五险一金"
     ]
 }

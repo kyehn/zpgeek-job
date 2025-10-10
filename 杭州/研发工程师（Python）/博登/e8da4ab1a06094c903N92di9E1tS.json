@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250810/607f1f3d68754fd07470d120880219865fe490623a3cf116596c3a291f5e2a7a523885b20643475d_s.jpg.webp",
     "bossCert": 3,
     "bossName": "陈女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "人工智能",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240509/7bf6f160950405e9d52422f85b0a6340a080d5cb2471aaa2e64dd3e736b85a44fa4b15e1ad2410af.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "2e7fbe3af81dcca41HJ-3t2-GVE~",
     "encryptBrandId": "0ea3d574a1e554ba03Vz2tq6FA~~",
     "encryptJobId": "e8da4ab1a06094c903N92di9E1tS",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.310355,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100028,
     "isShield": 0,
-    "itemId": 42,
+    "itemId": 81,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1D9OhpGP1mu.search.42",
+    "lid": "8gOjTuzrozo.search.81",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K",
-    "securityId": "ivC0Pqv1f8_fu-B1qzjRdday9H_-LtqEUaNWYMmjPMXkid34x_faH2QDceMoc_hx9mXeqggRiOlDcHS_GRgVRSaBW1U8Pg1dJE3Pqk9lpV-POs1lHWx6C_0qsVvEPSX3uLigN8rFtIwWjvFYyHCyuG4jaWy3nx2STJXpRMyiz5Yx2ZiP",
+    "securityId": "CwLalwJ0gA-I6-h1L3Sw1dc-cVlPxoDswpHPSvbS_LZB1IMRP4btK__wE1G4rFOSsKfdpDrSg0qXxXRjUDZ77R9s9nk99IP7qCCcFjWhtTx58MzrysGRFTo4GXQ9MDrK-w-5qJHov1e7",
     "showTopPosition": false,
     "skills": [
         "Python",
@@ -70,7 +70,7 @@
         "定期体检",
         "通讯补贴",
         "生日福利",
-        "股票期权",
+        "加班补助",
         "团建聚餐"
     ]
 }

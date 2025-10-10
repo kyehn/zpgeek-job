@@ -14,7 +14,7 @@
     "brandName": "远景恒通",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
-    "businessDistrict": "黄村",
+    "businessDistrict": "林校路",
     "city": 101010100,
     "cityName": "北京",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 39.728056,
-        "longitude": 116.345179
+        "latitude": 39.711663,
+        "longitude": 116.318226
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100601,
     "isShield": 0,
-    "itemId": 69,
+    "itemId": 33,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7QgI03hLN8r.search.69",
+    "lid": "8nh5ycHxgcf.search.33",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "4hyOzqKAwW9ON-a1dLjVwFPyyZaeaIwnOaMKtzdBHzJUOv3KDyS8BAygEjvLtX-xgxkWqRwCxk33DQx5fRl2C63p1i5vqhKfrk65Dx1oM4nL2vO6IF34i2_p0nPGvNaObHre8NOuAbKAj9c~",
+    "securityId": "8lEIc1ar1OtCF-k1q0e1e2bBdYkNqZdBPiMgsutGJ63YTLWtNjtUdTZyMRWNhTDI1c89HkRH3ug-7JFMQcXDvPK7LLjO13AYO1UFiYBH23piA8PIyoZ8rHAuPxozaLUaFcsHlvMwjEbEk4M~",
     "showTopPosition": false,
     "skills": [
         "机电安装造价师",

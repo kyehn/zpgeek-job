@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100605,
     "isShield": 0,
-    "itemId": 65,
+    "itemId": 90,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fFZVXi9JZz.search.65",
+    "lid": "8gOjTuzrozo.search.90",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-7K",
-    "securityId": "yRf4jVNU3tZZD-_18u4bDUFBbD228DnL9bJzbd88NbDrDAFyDUkWsFRJXaiORoTD-cCcs41g2xYZlJreEvaFEkNiCHt5KI8B3yjZm2wO64ct_ooMJbFnrPZ4mzRaL96CkUt-I52AclRH",
+    "securityId": "wqciVeMjGjo8_--1SxQFN-u-G05QI3-UFCdr2JTwIEvLZEgSKxMkNbjWOcnuQIM9ceB-Te5W5Vm1sX2kVpDoUSND0_vbBmb0EbJSWKtJMZ1AZF8WBIpXh5YS-WYegsevkXcOtu2B-SFu",
     "showTopPosition": false,
     "skills": [
         "MySQL/Oracle"

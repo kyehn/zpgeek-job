@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180709/b511f71192f990776baf401c9750d2288ee9929d4559b36e4c433f2e017ffd4b_s.jpg",
     "bossCert": 3,
     "bossName": "董猛",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "经理",
     "brandIndustry": "仪器仪表",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180723/5927d119bb6bf8e47d7f38d10bf45ad4cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100913,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 59,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cST2wKX0rE.search.25",
+    "lid": "8nm8yQxOi4B.search.59",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "59i4f8hXKXxVb-11n9Ne3QeIqPjF33VLvWVVqzmMijmD5H3HfLW3n985LEMuYICe9OZ_6HP8Uq2NOOZnREQa5MmDJUV6T61kXz4J_mROHO8UmhdBUIaMAiPpxsKLd3JxAv12seVXampk2UqRlJ10-RzZBcNvv2sl75jSmmRAgnjjuVUF",
+    "securityId": "DgzxtLohENf06-d1e5nhbSfrLTShY8PnqNXv4p4X5xmE4M6MqSHwWLBROkdc58ghBVXgVzWn2M6YMMVsVDjgYtUbFLj8Mm4X_Fu_o4JZ07IqH58pnxIthAoHiC1XacBwtjRWvgzm2C_-",
     "showTopPosition": false,
     "skills": [
         "功能测试"

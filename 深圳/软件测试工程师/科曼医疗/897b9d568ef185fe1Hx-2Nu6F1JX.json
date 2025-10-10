@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240523/607f1f3d68754fd0a31b76796e57e793fb6f6b011a5a52e481c90952a175a7c8b573a7a955a4c803_s.png.webp",
     "bossCert": 3,
     "bossName": "熊金晶",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HRBP",
     "brandIndustry": "医疗健康",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170224/dcd13284f0bdb878aec38b7c1c3a51dfdc7a7e8b2995db6bb1dc5b0ad5312621.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "01bdd8a1105098851HJ93du4GFU~",
     "encryptBrandId": "0c5c44afcd8208b01Xdy3924",
     "encryptJobId": "897b9d568ef185fe1Hx-2Nu6F1JX",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.766164,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 54,
+    "itemId": 80,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cWkTd5bYQD.search.54",
+    "lid": "8nrQulq6agn.search.80",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-10K·14薪",
-    "securityId": "opH055Xo4VejX--1vCzje3dsRciZDlCa67n0YgfJ3-PJmosXI3GVTd5R8cf52THjLH3WNyvc25tOFp-1ZsyzCzAH4lzXvGZaWTeJVULD6gUqnzUzdBUt_f0WzRfjk2OsqOzHLqQP2KtB2pL6pqWzx24sHS0sDQMUcFv18ToBwaRtijY~",
+    "salaryDesc": "7-12K·14薪",
+    "securityId": "ZBwK-JbxAjvw1-21PHJlsWdUndhyicixQnfbhdV28GqgVNcpnypogI3eVU9fvHV706Gfxr6uNrxxnTOOICYjNZ1tzmbeEvLTMZnQO-Vt4hjT9erx7m4ay3CzFJbTqNYWpG2Z5n8Uacg~",
     "showTopPosition": false,
     "skills": [
         "软件测试"

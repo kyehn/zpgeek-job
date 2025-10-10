@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "互联网",
-    "brandLogo": "https://c-res.zhipin.com/jrs/0647b174f8b314605c29f8346d566253.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250714/7b5b554d84f9729c97b5fa1fdd72d961483b26c7fa1536f36bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
     "brandName": "趴趴熊软件",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.992355,
-        "longitude": 113.333669
+        "latitude": 22.991837527295118,
+        "longitude": 113.33411332718745
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 12,
+    "itemId": 7,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cQkHrxt9E1.search.12",
+    "lid": "8nhUL0yfvgU.search.7",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "ATeWJwenvN54f-v1P4csZvo4HlZgqMECZAP7JgdS0mzk5McqEu_atb1KsLJnv2J1RUA9giTvTqn6vc_m-E0HJfYle0qdApswNZvwf311RHeIzEg1zvuQIdeY3HNhJrAtuOf6cyeqEopf",
+    "securityId": "NiRcqTDH36FCE-V1y-42-xPXV-1xYoDhIXzWGYrdBnXdxtApiA44MPTxzbKW-T7fS-JPxliZvKie4u_fW_zkKx1idqQl6GjlOhnOd63irlFYNzF6pnKI3RIsGL0AUrOVqm_2Af-PT0QS",
     "showTopPosition": false,
     "skills": [
+        "软件实施经验",
         "ERP",
         "财务相关专业",
-        "计算机相关专业",
-        "软件实施经验"
+        "计算机相关专业"
     ],
     "welfareList": [
         "股票期权",

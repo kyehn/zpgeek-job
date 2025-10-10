@@ -32,29 +32,29 @@
     "iconWord": "",
     "industry": 101207,
     "isShield": 0,
-    "itemId": 106,
-    "jobDegree": "大专",
+    "itemId": 62,
+    "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "大专"
+        "本科"
     ],
     "jobName": "急聘北京油烟运维工程师主管",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "dy4NrVJgWF.search.106",
+    "lid": "8ngf2u8JXxO.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-7K",
-    "securityId": "gCikoQV9YUpZg-m14c8C4l89SM5D0-ihr-aXuxzhLo7rdMSGoB5x8g60kwxaaeFP9dI6FuzYrsSxDr6udCNMcxz_kGyRj9uQyvej43rj4Ewbb89VUUtQ0m10N314f4jFgXGMPf9EeGBGQx8~",
+    "salaryDesc": "6-7K",
+    "securityId": "zIKHbH-VHHg1D-h1V_lo_ju00zX2vla8I1W1e57rFGAGGoE-6YgTUcz1JUUN_Je_k7CZDqc0YqvqIkKOo1SvxI3onMyf_W6_WQsEYwrWnNeMjrldOw0vyxnW9K7r1T9FUb7F-XtzGoaRvmY~",
     "showTopPosition": false,
     "skills": [
-        "电子/电气/自动化相关专业",
         "能管理团队",
-        "熟练办公软件"
+        "熟练办公软件",
+        "电子/电气/自动化相关专业"
     ],
     "welfareList": [
         "额外商业险",

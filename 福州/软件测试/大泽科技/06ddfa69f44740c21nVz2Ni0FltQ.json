@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200316/e2ae743f1bba4d77def9d1f467531cfeae1de6f462439b873015408b2b229bde_s.jpg",
     "bossCert": 3,
     "bossName": "黄女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事主管",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180125/ae7a4bbce30b30fc229338276fee2afacfcd208495d565ef66e7dff9f98764da.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "886b96b93b4088da0XB929m-ElA~",
     "encryptBrandId": "994d31e8881c4b1633J439g~",
     "encryptJobId": "06ddfa69f44740c21nVz2Ni0FltQ",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 26.04245,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 164,
+    "itemId": 81,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1IqyCWII4ha.search.164",
+    "lid": "8bHvvhgSwX6.search.81",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K·13薪",
-    "securityId": "VqKvARAtrv7e1-n1FByoS8uDe16XUW0ZCfxOMOlpbooVLj0nX3EslCLB12_pYq5enqk8Z71v3g1BnO03dVQJOy1IsY_ojlguj1j5N0frmK3EGL8NaKMMzvO6Zu2JWi9WH30AOWT42Q~~",
+    "securityId": "wvSFoNDqRd3QK-G1eVwgFhH0pfKDEMbyNpY7ndMXno8AGevKMQtvD00HExsiAeb2nbSsR7ROC0Aldf0qcSVqbBDpf4CX2dSzGjM0knlEouNTa3Z-nLtKhF3jFbeIwL4-IlgWwhk6g7kz5JRLVf8so8wv6eE-YRNC3598frl7JdlwWA~~",
     "showTopPosition": false,
     "skills": [
         "软件测试"

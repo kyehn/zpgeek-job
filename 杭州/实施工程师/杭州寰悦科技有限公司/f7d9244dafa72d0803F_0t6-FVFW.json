@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "拱墅区",
+    "areaDistrict": "滨江区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250309/607f1f3d68754fd0d6bae264692882ce029767198c2138fd9c2b2d6387399a0c5ab0e064b0c35437_s.jpg.webp",
@@ -14,7 +14,7 @@
     "brandName": "杭州寰悦科技有限公司",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
-    "businessDistrict": "文一路",
+    "businessDistrict": "长河",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.301476,
-        "longitude": 120.106197
+        "latitude": 30.203179,
+        "longitude": 120.203905
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 4,
+    "itemId": 2,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fJDH38HTgp.search.4",
+    "lid": "8gJ21orQLZw.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "cCkXANelFbyTg-11o5FPxe8bQwu2oD-aNiZYSsvIozxg2Xw-dXvKoBXrnRP8y2OyufrNrMH6ivXTCt0_L8Mtm_A3lX1-W64BnBAx26lwKcK1CFFJDsG2OZ-H6OCyFRDNzVDEGAwPyZ1d_YI~",
+    "securityId": "loCiHa1mwKXPv-U1CpN8_3h_g2VNL3SuWGVR6xX3Nn5W0m5nYpKRHK7z9HHgcgsQv5MIQSsG0rEhj7lLr6mufjw0UmgSw5-OxhED_mOywlGstrM5UmcW79-9YV3P9zfXcTeq8v5dO_Xln-0~",
     "showTopPosition": false,
     "skills": [
         "ERP",

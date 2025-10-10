@@ -22,7 +22,7 @@
     "encryptBossId": "1a572d3df3adfec41nZy0ty7EVY~",
     "encryptBrandId": "e10cb8e4ee24921e031y2Nm4Eg~~",
     "encryptJobId": "dcde1a3a0a8753e41nZ73dm6F1pW",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.392834,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100402,
     "isShield": 0,
-    "itemId": 103,
+    "itemId": 68,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5SXFhmwzG6b.search.103",
+    "lid": "8n7CECP3bXE.search.68",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "bJDgjebrrV-SR-z1_WdpFAdgk8K-23URLibIGqDUszkRFhBx4nqFV7ioHxeB_8nJ-t39BgO-zx2Dkcj7ytKhvX-YASx4593coI7rmRYVmiCvkQl4nw~~",
+    "securityId": "tQknwGKrDpEfc-k10Y5dRMRHitml2qKhv2cpMLo57oYBXp_hkawqCGR8PEKRQwsWPSZ0ao0gst4GPkhOqkW9mE9KozSamhFeic8z24lbcA4518-GYyQLvMLdyec51KL9QGLzDOffE2wj",
     "showTopPosition": false,
     "skills": [
         "运维监控",

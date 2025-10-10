@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "黄埔区",
+    "areaDistrict": "海珠区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
@@ -14,7 +14,7 @@
     "brandName": "捷顺科技",
     "brandScaleName": "1000-9999人",
     "brandStageName": "已上市",
-    "businessDistrict": "科学城",
+    "businessDistrict": "琶洲",
     "city": 101280100,
     "cityName": "广州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 23.173731,
-        "longitude": 113.432403
+        "latitude": 23.096158,
+        "longitude": 113.362848
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 60,
+    "itemId": 70,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cQkHrxt9E1.search.60",
+    "lid": "8nhUL0yfvgU.search.70",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K",
-    "securityId": "WLVGyXnWOWiMN-21HoZ-ppCYuD8JrjFYWC_rm3BRflIE3ZFa9OLesTn2Aembow0b-mNhn2eYqbEmTDRsWpONzTt1JXdg8tM7Dk3FvTwiM_ree_zGni6izlf0yAV_Md8o-2xeU_Q~",
+    "securityId": "ey95dOuDj2rv3-g1leyYvhlPKBkH2keF7a_p13Jm50IBbtH80TPmyqUeQBPifPU4lelOPSdfLeG8A3gXRYySoe4w8GQOsiVUf8jpUfycPfO8lWZZ_P85sERMdpHrIIVcUFiG5go~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

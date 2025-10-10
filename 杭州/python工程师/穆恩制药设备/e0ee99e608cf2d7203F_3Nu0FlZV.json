@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241115/607f1f3d68754fd00dc3e8c1fad6b0eb5a4707649765db427c8e8c272dc3c1390a0294e83e88ce76_s.jpg.webp",
     "bossCert": 3,
     "bossName": "韩猛",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "专用设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240313/7bf6f160950405e98a22b1ffd4dedff7665a7a1e4cee722ce0c79b360cb0ec0cc46987bb265d98a0.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "c5c2fab83059620c0nZ62Ny6EVJR",
     "encryptBrandId": "3802a679c3af8e201nJ739m6GA~~",
     "encryptJobId": "e0ee99e608cf2d7203F_3Nu0FlZV",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.337469,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100907,
     "isShield": 0,
-    "itemId": 64,
+    "itemId": 60,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1D9OhpGP1mu.search.64",
+    "lid": "8gOjTuzrozo.search.60",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K",
-    "securityId": "1TXXcOZm1mrUi-Q1rVfAZuYkEA1YXJlRnFctCPe242D7r0_f_XLQSoyGlXW_1n-a5so7dm7PwbPT3Uzkvp9dokKwYimplFWQsdGznhaCY-mRbf4RreESPZV9zgfzcTgyMJh6RoiV6H5drsDsUw80mcMJt5XPenqmAtBW3FyzWQe_hSly6A~~",
+    "securityId": "twac6pPfrhq1G-B1W_-LbUvYmKOh8pPgcEvdTcnvs4N4192ybDO5RADLEhqqBbzj-tFaaI06ucp8ise1pFrCjyCVsfmZ9-v1-7LNG9Sd6BMuPLrbmMEkdRgONjk1BHoG4PnUwc2MCD3wCw~~",
     "showTopPosition": false,
     "skills": [
         "Python"

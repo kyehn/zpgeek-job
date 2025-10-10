@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20251009/607f1f3d68754fd06fa79c2445413a862610d3ff9d1e2b4433cc0a0044d3914ba9822018f5380e8a_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "史国茹",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250828/7bf6f160950405e94e7aacffe3b9870823dfd3a5ce0712c8e4755cc2f231346f53dbbf68192f4674.png.webp",
+    "brandName": "北京纬创",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "科技园",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "607786820c9e3dd71XN-2Nq_EFo~",
+    "encryptBrandId": "a3ff305faae8963a1XRy3tu6EA~~",
+    "encryptJobId": "fd02019c24834cea03x509S5EFZU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.540517,
+        "longitude": 113.934497
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 60,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8ntCkb0pYZl.search.60",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "x94xPvmeRoNsX-715_JOUkNQjVuM6pgRkaR0oUmeFsWP4Xx06gyzRxWCuxGuIFRHg89-v43XDroMpGREw6Z-skURjNaLKvQ8XyBPeo6dKhzCUtaoX5e4ZonxsTSFcA5CxMGbrWB9SGJ9",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试"
+    ],
+    "welfareList": [
+        "节日福利",
+        "带薪年假",
+        "五险一金"
+    ]
+}

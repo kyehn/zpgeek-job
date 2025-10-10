@@ -8,7 +8,7 @@
     "bossCert": 3,
     "bossName": "刘伟",
     "bossOnline": false,
-    "bossTitle": "招聘者",
+    "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240709/7bf6f160950405e9074237106802ff0abeb4b72c551d3f16baeb78ef880edbbb919127ce5d19f05f.png.webp",
     "brandName": "北京众星互联科技...",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 196,
+    "itemId": 41,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,25 +43,28 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5WCDV0PJxg0.search.196",
+    "lid": "8n9f2wMCF7O.search.41",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "ynAm43JCpPa0e-P1OQ5W09tl5JMPM9c1dzJWZbIT3JwlCqUWfzgEp6rg05ndWQ8s698IYtife4vLd4CQzQ51gIFWU5NfnzCmP_3F7h628c6CfagYEcowm3hGOoXAtVzFWWnZaX_FHSVCjis~",
+    "securityId": "pF5HHjVqOozO_-91K8ZhJxoVtzx4nZx40FtISArFMrbwU3fKntX071nFIlvpMs5hAgNU-qEtgX9hUahqknzKwByROgehyPMcCknb6j1AEBfMZplwL734uPuvwz1pjc30Sg5H53ITKaP46Gk~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
+        "ERP",
         "熟练掌握SQL语句"
     ],
     "welfareList": [
         "节日福利",
-        "团建聚餐",
-        "五险一金",
-        "全勤奖",
-        "带薪年假",
         "年终奖",
-        "股票期权"
+        "团建聚餐",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "绩效奖金",
+        "全勤奖",
+        "五险一金"
     ]
 }

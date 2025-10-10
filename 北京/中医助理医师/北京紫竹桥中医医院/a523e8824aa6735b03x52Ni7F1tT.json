@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250812/607f1f3d68754fd002b1323241943f2e3db85294ce7b5c237733e72db3b2ea486e515e927142dcf3_s.png.webp",
+    "bossCert": 3,
+    "bossName": "吕洋",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "医疗服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220224/7b5b554d84f9729c9c7d04e2d1060953552019c0f70c5d8470088f7a0efd7d2c2d2490b4a47eeb76.jpg",
+    "brandName": "北京紫竹桥中医医院",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "紫竹桥",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "094ab3bb4a4e7c8d1nZ939m1F1s~",
+    "encryptBrandId": "1028a5c4589ea4031n183ti0GVU~",
+    "encryptJobId": "a523e8824aa6735b03x52Ni7F1tT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.937338,
+        "longitude": 116.305702
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100402,
+    "isShield": 0,
+    "itemId": 26,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "中医助理医师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8nh5ycHxgcf.search.26",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "cWKToBmFHSGQb-r1sbE9pDJjPv3jJQ2rbwxLicnjGoowUkshgrKA68BuSDK5Hflmuk8zJ8Fsh561t9zZxQUAxVH1SXgzZW1GdOO0F5qUMaW_5oc2D3ClEKkDLakC0hzgZY9sdoLpJWM0Aw~~",
+    "showTopPosition": false,
+    "skills": [
+        "助理医师资格证",
+        "医疗助理"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

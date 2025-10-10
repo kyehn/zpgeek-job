@@ -14,7 +14,7 @@
     "brandName": "旅接点",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "杨美",
+    "businessDistrict": "布吉",
     "city": 101280600,
     "cityName": "深圳",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.628995,
-        "longitude": 114.08637
+        "latitude": 22.62088380792884,
+        "longitude": 114.11460435088033
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 68,
+    "itemId": 37,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cYpdp1Sgrn.search.68",
+    "lid": "8nveVsSg9x6.search.37",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "8bZBFoUMOEeIv-F1dbToGA7zTWwJ3ekDmULlP0vDT-xMEhfw8T5AVkfXGXHZRB4IYTmf2zjlEbC5yZn5IL-FxJHEfEQ8LbWhjF4TC3E-SiqZutzi_imUoKKlnuO-RHc97bkfwsP_JSL7TA~~",
+    "securityId": "pp662hrg5Lbbd-41bATEKaXID6b_BchgL5fWsIafqpBDT74aB0KqjvSmBYNlCsbR9iYucpHTt6PYWad8LMz8rMFX49HNogHXvOX1ekZpyn3_ypSpiPBeiwwbc7wGRlfNuKe0flCWPgYI8w~~",
     "showTopPosition": false,
     "skills": [
+        "PyTorch",
+        "MySQL",
         "Python",
         "Flask",
-        "TensorFlow",
-        "PyTorch",
-        "MySQL"
+        "TensorFlow"
     ],
     "welfareList": [
         "全勤奖",

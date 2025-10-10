@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "朝阳区",
+    "areaDistrict": "通州区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20210413/847b620bdf5392fa9c96e0fd50fe6d771785bfc6f49a03196a19bd93be1dcc32_s.jpg",
@@ -14,7 +14,7 @@
     "brandName": "华软新元",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "小营",
+    "businessDistrict": "新华大街",
     "city": 101010100,
     "cityName": "北京",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 39.997245,
-        "longitude": 116.418314
+        "latitude": 39.915044,
+        "longitude": 116.657902
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 107,
+    "itemId": 12,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "bXfATEgf26.search.107",
+    "lid": "8ngf2u8JXxO.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K",
-    "securityId": "9vHUjEfxLlwtG-w12K8X0Euc_HvEd_1Jg3wp1aHEiijM-wcVRw-czxXKEAthBLurAyyTd9wmlueBjpIRs2w2-KYVB0KWZ5t85snokwtBXEAE3CgY4mg-MAc_WtXbhF3fXqWLAguXfp8uP18~",
+    "securityId": "_u_78eMcImFvB-C1fLVtQFLNpbpDrr-MyCgklIoTEfRPLnXPmAr50GpRLFmyPqBp3ZStvWjpfjmcnrVXEyg84igDW1i_PzyO9hYffBNcWVGRod9AIiL4Yy3bBBBzVUr1VzEILciA-m7Pc0E~",
     "showTopPosition": false,
     "skills": [
-        "服务器配置",
         "软件实施",
-        "实施工程师/顾问",
         "售后支持",
+        "实施工程师/顾问",
+        "服务器配置",
+        "开发软件调试维护",
         "Oracle",
-        "项目验收",
-        "开发软件调试维护"
+        "项目验收"
     ],
     "welfareList": []
 }

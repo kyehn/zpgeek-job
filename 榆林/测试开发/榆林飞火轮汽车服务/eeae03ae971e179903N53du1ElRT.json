@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250817/607f1f3d68754fd0e57d7e68cc75296168b5ea5706bbcdc666e2af347a006d77a244da588c5fac1c_s.png.webp",
     "bossCert": 3,
     "bossName": "胡亚鹏",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "客运服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250704/7b5b554d84f9729ce5cd3a2cb8cc82e9f9d1057b9e364c304ea8bdbe6d15397ae2043ec5006b0973.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100511,
     "isShield": 0,
-    "itemId": 1,
+    "itemId": 4,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1UAAhWyDcPj.search.1",
+    "lid": "8ddUTlbMzx8.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-9K",
-    "securityId": "B7RbenpPjGTWV-x12jYFfh1yywVnitgSFx8rCAOBkn-EgeuSK_4ELEVVDSmiVlFvmIxCO1KPEwtFMqKnkLO3y4cFh1-wl-OCb_qKAnmUHRlHX4mO1zN2j3sKYcIHr7wSqdTo7vetJwSWdWVQsj-pl7niusPdKLUTCjU368_AcXua1hxIBdc~",
+    "securityId": "KT4ctHi3E3T4W-Y1cp6WAvlGq567nSNqNW3uaBY_0XvxL7cnZyyvYoUSTjMz-2ogEKt2d3QY2UZzOswQ3vsijbU0Jxu681dTFOizwsTabzy1bQINk8MUsiNv-mWHxqOcOxVaG0C-s6ZIFhE~",
     "showTopPosition": false,
     "skills": [
         "渗透测试"

@@ -4,10 +4,10 @@
     "areaDistrict": "增城区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250415/607f1f3d68754fd085af667efd5f7e72cf6da54a702a5ec592ac5c338b5ce8bfea34bb8c2b96579b_s.jpg.webp",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "范远兰",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 50,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,14 +43,16 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7QkzQxEwd2U.search.72",
+    "lid": "8nnGXOEsY0I.search.50",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "spHFIbuPN11lx-z1ji8fICY1m0xbRTviRyQxgvIwr6loyrqPZ6crMCj14N7yD4HnP9OO3hTAYT2PP_AcuzbIDBWbElW0NLP-wkUmZt4YPzhjsWM1_cw_bdxLPAvzeavfGCT8ldKBHBwDK0imOpgY3rENKKanFPQTA5MBVHHCfFMwDr2nRbI~",
+    "securityId": "1svvAtpEgQ6Tw-g1jRxVn5j0mFL4IPD0QpnXlyg3KzzJAdXpVEw3qy4I65M3BjCxK47BCMQE5wCihjiShF0h7uOe1iJ_lh6R7J1G96bv3AsY252mmtcR3E1BNQAxopfnzZHEQDwmqKSWYsU~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "产品开发"
+    ],
     "welfareList": []
 }

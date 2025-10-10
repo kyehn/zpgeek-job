@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200701/89f610f1e8ccd81166c1348b20ed06123b3f52a872ec4d5bbc1faf702290c7ee.jpg",
+    "brandName": "蜂虎科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "朝外",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6a7e5becb6151f570nZz2t64GFdT",
+    "encryptBrandId": "0545de8263f104f00XN73dW9Ew~~",
+    "encryptJobId": "4c9b9271c4eb33621Xd909S0EVpY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.922589,
+        "longitude": 116.447404
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 84,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "实施服务工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8n9f2wMCF7O.search.84",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K·13薪",
+    "securityId": "jLTdwdeTIz7rG-i1yneRlEg8y__INQFj_AtOYRvZELm-200SR7cxUQ1a8BhNfpoJYGVdhcp8tQFrX8Vf13XQ8mw38LG4FZkuAhzp6Yrpgobu0T8fcy2z0lwHsgV1TnxXRhfULWIkj7RLtg~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "通讯补贴",
+        "周末双休",
+        "五险一金"
+    ]
+}

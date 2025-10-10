@@ -14,7 +14,7 @@
     "brandName": "上海凝汐智能科技...",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
-    "businessDistrict": "嘉定镇",
+    "businessDistrict": "马陆",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.347141,
-        "longitude": 121.257566
+        "latitude": 31.345639,
+        "longitude": 121.260559
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 19,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85C6TE2EkOi.search.35",
+    "lid": "8n6LUrIus2y.search.19",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "Pl_ugQmO8fod8-t1_kmHjzA03w3h1OqwLM1bG6ctL3arfkok9ITAUXogh8LKLgWqwMOLQDMNb3DUK1dmiEJVwrBAl2hEEka1sSoGOBb9zqP6_lmrPZPJ7O_il29UjrGnCBXXMzO5-Jys",
+    "securityId": "FAe0AUUC78eRQ-x1hEPIRusRrcCjcXKBVNLWmQHCrpftxMc5PrzJ1omyL0vyZrpfnBVv9BKqSh7tGnToWWAN4-qAqwKCpzJxeJwWvlwglhpDhTSIJw5onSjNaEmsBRH2ulMkgtMqgcIA",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [

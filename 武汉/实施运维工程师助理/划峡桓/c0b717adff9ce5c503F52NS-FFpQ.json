@@ -10,10 +10,10 @@
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "互联网",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250820/7b5b554d84f9729c1d3aa1db11357a25bb201d9c97e176476f43dd08af2625b8a3381fa40a86f6d5.jpg.webp",
     "brandName": "划峡桓",
     "brandScaleName": "100-499人",
-    "brandStageName": "",
+    "brandStageName": "不需要融资",
     "businessDistrict": "",
     "city": 101200100,
     "cityName": "武汉",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 68,
+    "itemId": 40,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,14 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cOhhDxpzoo.search.68",
+    "lid": "8nynVGyvjoG.search.40",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "eQ3t3Cs7BONjC-X1VtKjQVrFsWMcAecigJRBAw0q74884jlQA9zqYsMcX6vWR2mIPgeILDPXrVEF7HZxGTrwCEPbmBPeIvVFk_hI56PXOLgzqWbvolzmu0sstkN1XPvwFW_f_fW2WIDg6Bo~",
+    "securityId": "XC52k3sdS24in-a1O2FRtfCBVcqNRStw7m4tT2i75tEkCsa4n2znOmdQN8Wu6kXveZ0nQp6clUdKEcMAqWNvKiz-TKw3rIIrtstVZ3nb8AOAUmD714K2BmJfJcmZ6P0dtBklEe_3hFKb3dk~",
     "showTopPosition": false,
     "skills": [],
-    "welfareList": []
+    "welfareList": [
+        "绩效奖金",
+        "定期体检",
+        "五险一金",
+        "年终奖"
+    ]
 }
