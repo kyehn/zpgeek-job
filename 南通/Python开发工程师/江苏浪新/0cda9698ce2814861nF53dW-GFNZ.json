@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "崇川区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200525/f2a745245867f6b88efadffaa919b5da818a91027d112bb487d0863ac2907a65_s.png",
+    "bossCert": 3,
+    "bossName": "吴先生",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250714/7b5b554d84f9729cf4601ffc18eac74a84926c175c0c802b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+    "brandName": "江苏浪新",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "中南·世纪城(崇文路)",
+    "city": 101190500,
+    "cityName": "南通",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f28604e7244cb0ed1nV62Ni5E1VS",
+    "encryptBrandId": "b7351e89b58e1ab21nV-3dm0GVM~",
+    "encryptJobId": "0cda9698ce2814861nF53dW-GFNZ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.964572,
+        "longitude": 120.928543
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 12,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Python开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8CzLDxKVdUi.search.12",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K",
+    "securityId": "uSZo4XmToVQTE-Y1g9JFk4hauOqM5ShKp74LpBdsIHcxcV19r708Qa8BbyQ3bE8PaNSzK8sIjOEJmraWDbRVutLrXO8f7kiHsjwrHbL3r2Sz3Wa2eynT",
+    "showTopPosition": false,
+    "skills": [
+        "运维开发",
+        "Python"
+    ],
+    "welfareList": [
+        "五险一金",
+        "加班补助"
+    ]
+}

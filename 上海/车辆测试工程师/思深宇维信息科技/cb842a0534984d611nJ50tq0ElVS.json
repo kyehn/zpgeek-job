@@ -22,7 +22,7 @@
     "encryptBossId": "5cbce545fd4ffd720H142d24EFo~",
     "encryptBrandId": "070859f7b8cfbcba1XJ-29y_Fg~~",
     "encryptJobId": "cb842a0534984d611nJ50tq0ElVS",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.196568,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 27,
+    "itemId": 13,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2AdYei9zFxC.search.27",
+    "lid": "8CyVcRBWEL6.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "WDHeqqn9VXo3d-Q1R2kH3KYovQ2O6Nn2l-1jcjhSRdqXUmkCFukjQPpdzsJ8GY9LHyjuS8rBUBY1vs1Gk07PpUh42iRTi0m_ChnIxBuYHhQ5qGE-jUyjIUzZy_zZWYcf3jdqKxAGfyNJ",
+    "securityId": "gvHGEanVSe8F1-j1J6Vu6wrtCwbknFYjSObRWiEAhNSUFYS3sCEDVtcv6cKQmY2BNZi1FRevfeFxrto0bww5v1KDbJdTFmffw1lrkdmZq4lNgVpO0Q~~",
     "showTopPosition": false,
     "skills": [
         "Linux",
         "python",
         "vector"
     ],
-    "welfareList": []
+    "welfareList": [
+        "节日福利",
+        "意外险",
+        "五险一金"
+    ]
 }

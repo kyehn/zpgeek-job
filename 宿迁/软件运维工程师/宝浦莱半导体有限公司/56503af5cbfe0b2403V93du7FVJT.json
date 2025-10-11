@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
-    "bossName": "陆萍",
+    "bossName": "陆女士",
     "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "电子/半导体/集成电路",
@@ -22,7 +22,7 @@
     "encryptBossId": "e19c3834553f3e900nN83d-7E1pT",
     "encryptBrandId": "cd89156e9ae13fec1XB939W8EFs~",
     "encryptJobId": "56503af5cbfe0b2403V93du7FVJT",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 33.70524,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100026,
     "isShield": 0,
-    "itemId": 75,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "hTsTPQpiVf.search.75",
+    "lid": "8ADPItYUcoG.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "VFGt8Yx6_NShk-Z1P7ZN4PYYi7_y9FWTULKSzhB010skGNyKCIBlU8ldv9xKz0gA13rBOpaDftebplV23kiX6mKc4TnVPf-jWsjSSZRMFas3M0Of9YJcK3SjOCQ6zy6eWFiCnI_Mzf8333o~",
+    "securityId": "mIkt24ZYAViEa-r1CbVJdBR-ghkBRseU58t17nA_DQXk5ZOBMHbagG94fw98MUDNOwaWu74VfutqqJjJYjYSSjRwAQ2etRD1GJKQ4nE6yXpz8hCs6FnV",
     "showTopPosition": false,
     "skills": [
         "系统运维"

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250514/607f1f3d68754fd0a4bd4a690cef6c6c95795107ca45541ce9d8333545dd3c60f6ff2007f6f1e2bd_s.jpg.webp",
     "bossCert": 3,
     "bossName": "衡雪银",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HRBP",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241127/7bf6f160950405e958d4d46423567faae4421b60edc379be8ef3dc462622dae2bc7ea2f943f0f386.png.webp",
@@ -25,8 +25,8 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 37.090841033212214,
-        "longitude": 79.92122313273943
+        "latitude": 37.100266,
+        "longitude": 79.921382
     },
     "iconFlagList": [],
     "iconWord": "",
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8dfcqZTjlFz.search.2",
+    "lid": "8wlGEtUDT74.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "sZS0TYNc6bioL-O15fx1QyODzeJzL4pXbnELTHpRTxeOEEghf8VCqr9g7Yv0U_IiyU2XIBzpztn8pWZE_C5X7TY_quubAsqHFlIWJEm8OhV41jsDmSo2ExXGS7bWfDitVTK1YkQj6-WvWWbCii2l6iloIBlCNlvZ_Lct_LH4l3Ga_Y-HwHU~",
+    "securityId": "AVbfa5wNQcNbI-W124berM7eti_NBBwg2cg2bIu9_FWEJ3NvVVkQ_5NoNf9RRDfvp88sFCO38Lzm_c3SNKHfk2XHP69hplh53ZvGxM5KuyEtqzE0Pf1kQECa20UCi6PsKTea6LOkbHcSZT8~",
     "showTopPosition": false,
     "skills": [
         "Java",

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "张女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "游戏",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20200226/9c1f060943e38358362a25002abbe019be1bd4a3bd2a63f070bdbdada9aad826.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 38,
+    "itemId": 75,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8bLmJyzzIcI.search.38",
+    "lid": "8wmf0zjCp11.search.75",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·13薪",
-    "securityId": "ZSFagZsoSMwvE-01gsgDKhZf0v44OojzvxN29wOl6UxThA2N-4uv-iCT3_w62GA5apgDI3yzoLzOGxIcmjY9ETkhsYE0ETxeCJiri1p8KLix07W6TypJ6UaU8YzRCFZZjp8LGeiUEFHKXFp0QzlzkdonnDsNNQcu6Zdd-mRXF3MG39ok",
+    "securityId": "4PSkYjO33s4F_-x1k2IY2wTOrrNJz8MB2t7eL--9M1oyWHsBVYDKARENEGgXeeWNVLluhr3zZ6NW5k1ZPCqxQ-75-sZS9gvnNT0HNgCRwRmm9TqidshMH_A1z0n1Zmi3TRPgrAQenpiJ",
     "showTopPosition": false,
     "skills": [
         "运维开发经验"

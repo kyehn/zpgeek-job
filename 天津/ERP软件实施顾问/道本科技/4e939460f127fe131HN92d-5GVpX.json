@@ -22,7 +22,7 @@
     "encryptBossId": "dcaa307fe6129f911HR63tW7E1o~",
     "encryptBrandId": "03afe64089dee3ba33x_3tS9",
     "encryptJobId": "4e939460f127fe131HN92d-5GVpX",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.079843,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 60,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "i9pLJ7cJHP.search.60",
+    "lid": "8AAUC8EXkxy.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "MUgvTVU6xp8D7-J1ABNz_KCyRmrsd20KE2m52uYIG1vVFVnX7ZcupuRb2cXd2Xb-9Mg_tuw2mtRnW4PijPBkbuTVcZM0UhL7MoTYvNRjRJ1-2V3N6DpVihuWRID657fPn5OIobMfj-0~",
+    "securityId": "y5cnLTnOwiSyc-b1oReI1Xp6u9l1F_B7Vw6Ozdys4QlGiX8YYx4kALmasSjfNN4wF1nw3DF5SqknYw2jdUK0gqkXECOEKqgMp5p5cl4fdAiUcSgv",
     "showTopPosition": false,
     "skills": [
         "ERP",

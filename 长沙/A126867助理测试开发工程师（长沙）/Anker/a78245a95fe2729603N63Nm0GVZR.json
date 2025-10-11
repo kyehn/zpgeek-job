@@ -3,9 +3,7 @@
     "anonymous": 0,
     "areaDistrict": "",
     "atsDirectPost": false,
-    "beforeNameIcons": [
-        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
-    ],
+    "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231229/607f1f3d68754fd0cdd2c3cbf26d94cdf0094b226e44fa6076aed8c9a5bbe83bd0a98ccffc02f21b_s.jpg.webp",
     "bossCert": 3,
     "bossName": "王一楠",
@@ -24,19 +22,17 @@
     "encryptBossId": "adfc05d6e8a471e51nV-09q_EVNX",
     "encryptBrandId": "57325b9cf168bd441XB72d61",
     "encryptJobId": "a78245a95fe2729603N63Nm0GVZR",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.228693474586514,
         "longitude": 112.88290759549662
     },
-    "iconFlagList": [
-        38
-    ],
+    "iconFlagList": [],
     "iconWord": "",
     "industry": 101401,
     "isShield": 0,
-    "itemId": 46,
+    "itemId": 33,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -47,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1X68srbbQL4.search.46",
+    "lid": "8wl7X4H920r.search.33",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "面议",
-    "securityId": "CdJUIUzvWOGzE--1ZPscIaamNrnW36Lem4A9s1qFU5XnAd_GkEmOm0TP675jNjIIEbYl_2C7bjZvilELtyEpge-cmJv9o2Dz_5vaFZJgtx97n3rpMmn0c9z4DvhN9VtH7hO0JfXTMGGe",
+    "securityId": "2hGmvSvfoadXT-51P_KzA5UBrXDWUWSlBOMJ-AFsOtXxgDiUTymUsETHlmBX5pa4Xiu_F8TJ5MdSFlOt5XEkVIYi4f-vWeHhLmTp8EsiObUYwnz2ETWQXkCtax7LNUdZpTKdKgobBJLO",
     "showTopPosition": false,
     "skills": [
         "校招"

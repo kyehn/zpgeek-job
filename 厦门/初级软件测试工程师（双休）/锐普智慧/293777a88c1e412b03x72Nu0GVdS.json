@@ -4,7 +4,7 @@
     "areaDistrict": "思明区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20251009/607f1f3d68754fd089afbb0c806f5510e9c0f32c8861eb86881b941963bbfab83df265e60a545177_s.jpg.webp",
     "bossCert": 3,
     "bossName": "孙英",
     "bossOnline": true,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100022,
     "isShield": 0,
-    "itemId": 43,
+    "itemId": 85,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1UAAhWyDcPj.search.43",
+    "lid": "8wl7X4H920r.search.85",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-7K",
-    "securityId": "JhZAHLZZBMSa4-e1VdVb7Ca9hM_9yBm5IAs7hAf4PUibq3_6fyw20zpYAwdeqN-gzZtxVuDvSIMsvRXMOf-V-w96vzpKZTGVO2o-YLcmwz_--uZBpZxTtGR4Jju97uVTP74ouj1T3wif-eQsCjqJJxMhXp4bVohHGEk33fYCEaFhzhHQ3SI~",
+    "securityId": "KrpsfsXCqIok9-E12DEIgAyvtG4J3StqH5LO7el-ZnzCzpLREH7t_ks0MbeFC4dTyTPYBSEnt2z4fH6pxE4-V6ZGDIskQSAmyr07O2IR5Fc0_kzQhQ63NPJ3SE3SEIHQhxdi53skUOgCbCdgjCU4at-JlqZvqJnXbSfLFU_VmZAxCxdE0NI~",
     "showTopPosition": false,
     "skills": [
-        "计算机相关专业",
         "自动化测试经验",
-        "软件开发经验",
+        "禅道",
+        "计算机相关专业",
         "掌握软件测试理论和流程",
-        "禅道"
+        "软件开发经验"
     ],
     "welfareList": [
         "生日福利",
