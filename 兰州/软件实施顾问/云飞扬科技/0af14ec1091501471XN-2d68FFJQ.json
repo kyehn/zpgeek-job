@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 10,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6MVCLvOsa05.search.11",
+    "lid": "9pagtXEo4MC.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K",
-    "securityId": "gqaUz5ms3BAGX-n1Vj35PR53beaRVVqrZP_5muE8Ad76sugxR1Y7VX-93wATnfnHahotN2AOXyzuizNINOgJU9uxZmDQRE6x_X7BedvfZPiEWlj9VXo~",
+    "salaryDesc": "8-10K",
+    "securityId": "dduG1YegbOwoQ-61lmS6DPB1aBcZjyjmAcO4YYu1BoDk5fmjoNfZ5apX5ZhT4ARGDFrqrnmTX3Ye82fJKMoATLLcHZ_BWdtNgpDNaFmsPqvz-sB5csA~",
     "showTopPosition": false,
     "skills": [
         "ERP",
-        "OA",
+        "管理相关专业",
         "财务相关专业",
-        "WMS",
-        "管理相关专业"
+        "熟练掌握SQL语句",
+        "PMP"
     ],
     "welfareList": [
         "生日福利",

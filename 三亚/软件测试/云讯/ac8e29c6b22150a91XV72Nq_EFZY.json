@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170823/5eac81e269ecb1d70085ec1e1df1ae77cb875f01a330510698aabff0e08c9ef2_s.jpg",
     "bossCert": 3,
-    "bossName": "高磊",
+    "bossName": "高先生",
     "bossOnline": false,
     "bossTitle": "技术架构师",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "b1bb45c45aa36bcc1HR_0t67E1c~",
     "encryptBrandId": "ccd01d53eee586711n153N67FVs~",
     "encryptJobId": "ac8e29c6b22150a91XV72Nq_EFZY",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 18.259992,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 106,
+    "itemId": 8,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1IdJ89rC1TO.search.106",
+    "lid": "9q5XBHurINi.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "wFui5JEbVuhWn-h1GL6YfqFhNLf5wHwglBxfZub7hY0Nc5OOk7GAl8JfhQe9H_cDHqplqmBeUYYKvxUmYUqYDD8UPJzJB9t33Dyb2_w-jxdsau145iAKkwqy10GPr1BW7q1E2Bjw0py4xw~~",
+    "securityId": "x2o2n7PadZE2b-z1e-dHhD7QQUAGvr1KpZpSAU4fD34JtmOXWaU8Ec1D09ghz69evtyWrgUEoFgR3sFASBZQs05ryWqjU3tr_5UVBC8_L2z9OIgrq5c~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

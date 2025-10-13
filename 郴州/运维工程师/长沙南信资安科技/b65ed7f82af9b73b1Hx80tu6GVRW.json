@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
     "bossCert": 3,
     "bossName": "杨女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "检测/认证/知识产权",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250714/7b5b554d84f9729c03d68dc283f36893d49410ece91a24d96bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100609,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8DalxqXeq4K.search.10",
+    "lid": "9pdgPcEbDAb.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "RhziJypqQ7IiW-11jbHwIwn3rOcN7wron1tHZTTZs8xr8uUF1zPpcu7iA2Ma0zzbNvXrKjN4HMAnic1wq5QLbXKU2d6clXzvCBfCtWDO3RJmZ7dkR3q7MmyqWzFWgZ-v6emeJ4iFEHeBXaLq5q5KVUc~",
+    "securityId": "JEKAbDcSNmof3-y1hNeXCW-NAJjhDHKdWz935EsnDcRgFbAy0mGm6_WLSx0OKVYkbKo7HSqIu8evL9aA3duQru3odXYpqmpOLpMQ-uhv-fZas168eZI~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维"
