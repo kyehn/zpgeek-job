@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "民众街道",
+    "areaDistrict": "小榄镇",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180913/b3c98801a609637e248ea228c160041feb60ead6bec71a343854523b86ac3a8f_s.jpg",
@@ -14,7 +14,7 @@
     "brandName": "元一科技",
     "brandScaleName": "100-499人",
     "brandStageName": "A轮",
-    "businessDistrict": "横沥",
+    "businessDistrict": "小榄城轨站",
     "city": 101281700,
     "cityName": "中山",
     "contact": false,
@@ -22,17 +22,17 @@
     "encryptBossId": "84dc7bd4f5468fa703J60t-0FFU~",
     "encryptBrandId": "8c7015e156554c7d1XR83Ni1EQ~~",
     "encryptJobId": "f23098aac83ad7ec1XZ939-8FltV",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.708764,
-        "longitude": 113.465678
+        "latitude": 22.663141,
+        "longitude": 113.259054
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100908,
     "isShield": 0,
-    "itemId": 138,
+    "itemId": 3,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5bEquI9wet1.search.138",
+    "lid": "9W4N88Eu5in.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "YYxZwh1W4qnEu-61K-K6vZ5KZY5G-XSuxFG_f0bFyjYak6DP6IjsPRYUuKB_-9Fznd7kOB55UIQWUfUARj98qLl2fCWdov7zlgZaNJZ90bPP7IzO42VHMNVCz2S8iQ4NBgI6Ky5TX_M8",
+    "securityId": "7LemrcqnQJ_ko-c15krEH0Z05466ifNB3yepwpTx6wrzMWBQdSuHgA8_jUFU_BvFbRNsVjUKIQxuddq1c2iT6gmXvdD0EbgQIYNT2FnAOi7wagNvSg~~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "Linux",
-        "Python",
         "C/C++",
-        "MySQL"
+        "Linux",
+        "MySQL",
+        "Python"
     ],
     "welfareList": [
         "五险一金",
