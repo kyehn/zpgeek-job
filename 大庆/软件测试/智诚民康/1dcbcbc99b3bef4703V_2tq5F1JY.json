@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210818/0df2f396afc03e140c7b58bf15b21fbf9cf3dbe5eeed8c1dd9b50206d63f6c5e_s.png",
     "bossCert": 3,
-    "bossName": "洪安然",
+    "bossName": "洪女士",
     "bossOnline": false,
     "bossTitle": "经理",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "7cc68c1f2d938cb00nd43t26EVpR",
     "encryptBrandId": "556afdef34dcc1f633By0tq9GQ~~",
     "encryptJobId": "1dcbcbc99b3bef4703V_2tq5F1JY",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 46.581532,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 45,
+    "itemId": 12,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8wkyd6TPvau.search.45",
+    "lid": "akY6hRku0kV.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "NlM9VXw9fS3U7-S1ybFdAu7qUYTVochzLaQKn0k0BSEBggyrFWm_fLjoyIYlcJGVjxuw2kzmfKWq_vUmN3C_A7-7LlQNUr8-iDw_eDYYCMbeM4KYo0RTcTCZ6XAUeMB8qtW7k1nOtJofZQ~~",
+    "securityId": "Yge0gtzkmn1Z9-R1xh_mjYPWQsfMKZIkhCNhCYnXJ8YHtRhyApkIpAXLOJWddWPQo-zTAp3M6YreJrFx9qgLRydZaBeELkZDYOV5Q7ADSX6b7xlnC0I~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"
