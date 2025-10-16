@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241102/607f1f3d68754fd09712abdc88756bb4a2ee86cd3cee428f4f0bed5ecc34f3888f6ca4196766d6a8_s.png.webp",
     "bossCert": 3,
     "bossName": "曼先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "测试组长",
     "brandIndustry": "智能硬件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201224/99d0d73240d08898dfbde3c9a9fcdba50b8761a367a61b7361fbe4147480ca47_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 1,
+    "itemId": 2,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9W4N88Eu5in.search.1",
+    "lid": "aJyIjX7G5Sb.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K·13薪",
-    "securityId": "9rR9YqLPT2sEn-N1CYwhhdsHCEJ4hnYMJFTtiRwFrI75VPEZF-3h84PHJOFKO0KBFyWDfcXFxZfSv4lRGWHZJGuj7Kji-J0JGWwNuex6-qvJXc11WpVl",
+    "securityId": "7k98urpICEqaB-R1dg2DlaM0l4qHq4B9jpCimMwvemwK5RqObw33EZL2Co66i-FGYzlfk0JVZVzmyxEef9nMYi4XVXhBsjxgGWBMp6Q63mFyflilZJ5bzqidCkbxdPwN8lGxM5hBy2XxV9O9D0z2S1yf",
     "showTopPosition": false,
     "skills": [
         "功能测试"
