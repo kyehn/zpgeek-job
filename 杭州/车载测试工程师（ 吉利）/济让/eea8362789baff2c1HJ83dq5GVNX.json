@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250912/607f1f3d68754fd0e07df61fb30bc53097ed4f8a02f34ce3cdc879f899f311c0e45be9080e7a29c2_s.jpg.webp",
     "bossCert": 3,
     "bossName": "陈先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘经理",
     "brandIndustry": "咨询",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "25f6d188f10bdae30nJ73tu8ElZT",
     "encryptBrandId": "3c2077714d5cbb651HZ72t66ElI~",
     "encryptJobId": "eea8362789baff2c1HJ83dq5GVNX",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.207384,
@@ -32,32 +32,32 @@
     "iconWord": "",
     "industry": 100601,
     "isShield": 0,
-    "itemId": 53,
-    "jobDegree": "大专",
+    "itemId": 12,
+    "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "大专"
+        "本科"
     ],
     "jobName": "车载测试工程师（ 吉利）",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gMClzFLKtV.search.53",
+    "lid": "ak3FXV6ZrEv.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-11K",
-    "securityId": "munak5R61cksb-j1ppsTzaOMRUAeEL_Hffg3wv52OwvmxeE0QUqE-naauVtFiAyNeYBkCWX59dnzcnt55yt8_X-OBls0roHTnR8xaFfWN3MbuMm8IX7-xsxVJR7-4jcxtVKOg753D07HRMYX0_i6YvzEuUYNctFPExJ7JWHOCyQZ9W9dZ7k~",
+    "securityId": "yHrKhDyPa7AFZ-E1tEy_dEoSDhgbLSqvYo058crIQmiKh8nwn_dQ9TveK57g1k2wqO4wkVL5Ov1jfCVNmGSvA2ZIl4dBfUzVNRI7UxpSgRPybdjIknQD",
     "showTopPosition": false,
     "skills": [
-        "测试工作经验",
-        "apa",
-        "智能驾驶",
-        "E2E",
-        "Adas",
-        "lcc"
+        "功能测试",
+        "python",
+        "标注",
+        "数据采集",
+        "adas",
+        "智能驾驶"
     ],
     "welfareList": []
 }
