@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
     "bossCert": 3,
     "bossName": "兰先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事HR",
     "brandIndustry": "通信/网络设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "7425d5fa2d328d0e0nBy3dm-F1VU",
     "encryptBrandId": "3552ea4ebc41640d03d909y7GFI~",
     "encryptJobId": "748fd7e5328c975f03N929u6ElNS",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.683199,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101402,
     "isShield": 0,
-    "itemId": 27,
+    "itemId": 69,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1BUIoJmssBv.search.27",
+    "lid": "9iwEpeVfFDs.search.69",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K·13薪",
-    "securityId": "2l9B21QoIuLek-m1RP0wNN3YkHHiKeCpnlDGTQ0RB3J5fkDdSO5DbFky-cPUkGHbWnTD63bAhzNWMGJCBpky-ki3l6QugGslZoOidxhWR6UB7t_MNAVCkP2UIeyryIGrpsbvGRdkO1AtKRNBgez5xXGVYyXEAphD0hH9LfAs9Va8FfWPv0A~",
+    "securityId": "fSwoJAk6tGZU9-i1pq26neLkQ1m3R7sMp3rrobEVLA04LSZAHAw2vdMzHQxAZQyyZ4R97VDG5YbhalbPRXYbTSDZnG_xjhBy1SvOcpJF74rMjxLI-2Q4xuNwl8rCBk5s-UY5NLHFgTJNdMI~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

@@ -22,7 +22,7 @@
     "encryptBossId": "76201607d6c4f1b81n1z2dy9FVA~",
     "encryptBrandId": "966aea87cdddcbce33Z53N67Eg~~",
     "encryptJobId": "c2d9d0e95fe79e2f1nN529i1FlJX",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.308489,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 61,
+    "itemId": 73,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7nhKmv6fB4K.search.61",
+    "lid": "99UAs8Ssngi.search.73",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "HymQfCg7F3Be6-g1rwJlkwMEXW0eXf4Ao3y3HL-Sxgl8uVgdLugPEdDaevvTX-lSYlGbkPfQ1yBVUVE8j-mI9lMeraud1dUE9VVlLI3NlA7waYtktpnZMjOGZ9a7Gs8YP2MUNQA6XF64",
+    "securityId": "ZbtVnl5YL4HQ3-41T1Jseq0ZbMULKWBvkufn9fsWs653pVjdYXfSLYqKslRb6NhZBu4dzKic4OeHbyidTCWXdaQ_9XKyDfUgox_W_BKzCjOpSF4DY6B0kR_TIKLCMXg0txbrGtEJA5vK",
     "showTopPosition": false,
     "skills": [
         "MVC开发",

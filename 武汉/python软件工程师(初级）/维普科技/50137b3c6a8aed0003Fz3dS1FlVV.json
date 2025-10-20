@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 83,
+    "itemId": 80,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fQJKCwl0Zs.search.83",
+    "lid": "9fzxQSkCcOU.search.80",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-8K",
-    "securityId": "DDHy2lv8dhxes-Z1sRkdyqMZ4MJkcAjGHawVM0wzq15Nm4GghjIjdGUn-BPrHL0WMGDp3jOKEaPwcyYwcbQqhAFG7q1uSzWZ3x26-uiOaQYwG79xEUadHY0KVXde0uSaYfcwis0DcMHYEQ~~",
+    "salaryDesc": "3-5K",
+    "securityId": "kIxwjl0aq3i2m-C1zvodcEXe64XSTHYA7kXG5nt9PMyc70aEOC6bMOBTAlgmpcmpbwFoIJ9S_28QEsJZ4AOQUVUfIiqUpkh1r3XWnO5x-wZK5vxvrw3nF48XAaIfMdMARGSQJHYUlQORQA~~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "C#",
         "Django",
-        "Flask",
-        "Kafka",
         "MySQL",
-        "Redis"
+        "Kafka",
+        "Redis",
+        "Python",
+        "Flask"
     ],
     "welfareList": [
         "底薪加提成",

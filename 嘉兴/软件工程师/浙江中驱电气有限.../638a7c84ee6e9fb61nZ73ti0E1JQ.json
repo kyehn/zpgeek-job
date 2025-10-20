@@ -22,7 +22,7 @@
     "encryptBossId": "a126225ec3be7b5a0nV-0tW5FlRY",
     "encryptBrandId": "2b83e29f9be94b990XN93tu6GQ~~",
     "encryptJobId": "638a7c84ee6e9fb61nZ73ti0E1JQ",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.727476,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 150,
+    "itemId": 59,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "v5IPf19R2L.search.150",
+    "lid": "9fA2V3QJk1m.search.59",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "5iGEZgKahWliW-31DeRNWmgesiCVWuH5rnAQb05ppscbwjL6Gv6SPd50-koxZ22rfD_QWcc5OI9oqhJShuT4aoXaydPRueHbzkTMDtBCvBb_rvSaEWgqYGsjPfSFyV_0VGZtb5QetRB6fQ~~",
+    "securityId": "FrB5K1C7IVeDz-A1U3mZu4HE3eVZsuXvTWnotb75BHXdQivjvm0KTTshW5yjYr1lRKl5PntDdp-hdYalZKK1hS3fkjfFCRIBNFSDUQriWgQwXhz_Tfda6ai_T53vcrqcnyom0RGKD0KN3w~~",
     "showTopPosition": false,
     "skills": [
         "C语言"

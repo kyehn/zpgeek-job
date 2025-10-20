@@ -22,7 +22,7 @@
     "encryptBossId": "7d4f4b4257e94a6d0HV42N20EFM~",
     "encryptBrandId": "d855dd0dd2c3228033B-392-EQ~~",
     "encryptJobId": "584289d74ebe7a1703F42tu_EVdS",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.356704,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100028,
     "isShield": 0,
-    "itemId": 29,
+    "itemId": 1,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4IXpeZCxLyu.search.29",
+    "lid": "9fCapU5ffQT.search.1",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "LQKUV511jaSkr-X1zM8cn1StFgtjhE68JryrOSX__P-0NZ5oE1GlYnvphRNR4FZ5tGcI95lnROm3WpQbMnYA9cOTdGe5cNjl839j8lr6pkuPKXXeTvW3RHNOMh3Xla_nLK7_N8Cu0BX1",
+    "securityId": "gmH2M4ty00U8F-C1NgqmKRfyJ6KC7sv66nONSpeIFS7fTuiA8u4DhlW2Q9yDp3BWNIGKCjBnMRvzsT8fp4JCSepblMN9Q4Jd1Oh0jPli2nPGsjOJmMdbqN9kgfaHrgA1CXiCcz8p9mtA",
     "showTopPosition": false,
     "skills": [
         "网络运维",
@@ -57,9 +57,9 @@
         "网络安全相关经验"
     ],
     "welfareList": [
-        "餐补",
         "年终奖",
+        "加班补助",
         "全勤奖",
-        "加班补助"
+        "餐补"
     ]
 }

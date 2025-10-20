@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211222/607f1f3d68754fd0737e89051df4deca68d5a17dd5d4007fef591adaeec8b1a563838efa35395675_s.jpg",
     "bossCert": 3,
     "bossName": "夏珊萍",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "移动互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/ae0074da1f17cdc49202b5b4b5aec5c4.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100019,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 68,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "ixQhsvXy5v.search.28",
+    "lid": "9fvujMQrla5.search.68",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "6lSyzDhKSXZNZ-M1RPvKJCRI7qK_YM3D8kXpMKDUkTTcVZFu6zyKs94WIh1bHbxqCU9fxVqxhEpTIv6Uaurm3GYPUqF9yZsY5gFUhsAA1cAYwK6mWX-0qONDAU40BhunmOde9Ji-7NoYxfR8d2PyHLsJZ0eQVRJQreKUox7VuY0Vxh25",
+    "securityId": "2V5pQ9Zh2feSC-t1GeCMoz5gP8TbI36kaZ4s7wONJff6Yfg6DeQTHuaXlBBd9enix73-4OMUe5zqqC55bs0sIs3JPy6iqVEP8Ur-lJlPlDPnbsLrFaokiPZSwfaBDAHPyPWO58--9BJj",
     "showTopPosition": false,
     "skills": [
         "可靠性测试"

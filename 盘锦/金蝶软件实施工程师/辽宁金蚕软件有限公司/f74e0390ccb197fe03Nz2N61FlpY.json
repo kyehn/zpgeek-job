@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101304,
     "isShield": 0,
-    "itemId": 47,
+    "itemId": 41,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,23 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8wjoiN1eBRk.search.47",
+    "lid": "9iyBBo8YC8q.search.41",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "8MrzOwt0RUVWD-J1vQqiHHvdM5eZUY2Q12Rjp1zqCCBxUne7HjRZ7LaBETBWLKGXp6yv-z5yF3m5wuiQPrJrw9NQRcqPnr8AH3UoT5C9oOffTQwyTHJqpgV5CK96P1ECsrBz_aaHpCj8",
+    "securityId": "gubScB3c68CZo-Y1W-VwDceyGXS1iYI5Ku_-Q9unOvA5TlhRUfZhiGgzGf-ZLPqWuOrgedASn3t9AwvYveCKA_0InX4Jeyz3acVpj2JCZk6KYRpaW0TMYHz1QLWzvevvH7fdlJjeuzwp",
     "showTopPosition": false,
     "skills": [
-        "PLM",
-        "软件实施经验",
         "ERP",
+        "WMS",
         "OA",
-        "财务相关专业",
         "计算机相关专业",
         "管理相关专业",
-        "WMS"
+        "财务相关专业",
+        "软件实施经验"
     ],
     "welfareList": [
         "全勤奖",

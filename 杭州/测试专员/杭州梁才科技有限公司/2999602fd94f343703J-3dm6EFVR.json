@@ -4,9 +4,9 @@
     "areaDistrict": "余杭区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250611/607f1f3d68754fd0dc7bbf0636c9e123ccc53711bba31dd0e6be679b63700dacc4762cb437dfbf1b_s.jpg.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250805/607f1f3d68754fd04720a13434656d90369ffa8c9998e333e6be679b63700dacc4762cb437dfbf1b_s.jpg.webp",
     "bossCert": 3,
-    "bossName": "秦静怡",
+    "bossName": "秦女士",
     "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "互联网",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 33,
+    "itemId": 22,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fH3skrAwh7.search.33",
+    "lid": "9fux70iPfYI.search.22",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-6K",
-    "securityId": "cMhlwKRgVVI3Z-_1v8NNtWfrPymHXyUd5uBWGqbpYvuXt856jk7IdPlJd70ifFojI9J5dP0tuNrPbR2sG_YcKwQAQRWLbe3ebqxVF3xoAhSQ5wuLCVG7ng6-y4C4h0CamiUDBWfA3GqfoBA~",
+    "salaryDesc": "4-5K",
+    "securityId": "iuYTms3a_uRup-g1VDu2mgkRwnj8b7wlvaTv62gpEr02cIzF6FBgL6OCW5AH8cNs6PdXWrlVe_yDH1bbXFdKK2mrxmejkiJuP9p0jvyaJie5Rq9GV5kGSRfFmwPqo_0LCStZQS1WMSlu4Kk~",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
-        "计算机相关专业",
         "通信相关专业",
-        "有驾照"
+        "有驾照",
+        "功能测试",
+        "计算机相关专业"
     ],
     "welfareList": []
 }

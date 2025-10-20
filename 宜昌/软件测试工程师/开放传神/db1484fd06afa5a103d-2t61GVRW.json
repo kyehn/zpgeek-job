@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230808/607f1f3d68754fd0df4717d8421b8970c453dfa749062d05db1c1a71d6f1f9db3fb6d07c46f1cca9_s.jpg.webp",
     "bossCert": 3,
     "bossName": "杨女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HRD",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230914/7bf6f160950405e9c54dbfd1fbcaa4cf7517c3ecd05c6fca0832c020b603a53c14dbf35259bf446d.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "b0d2924f06847a0c1XN50960GVE~",
     "encryptBrandId": "76f4b428e71d5d1d1HR43Nq9FVY~",
     "encryptJobId": "db1484fd06afa5a103d-2t61GVRW",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.667576,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 172,
+    "itemId": 52,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1IqyCWII4ha.search.172",
+    "lid": "9ixNDCnSCN0.search.52",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "43yAMBsBqH9nN-s1hv5CsXI-Euz4mpqFojBDtDRA3RlQFTYdd5ka24OlYyWSDIf46dkRHCBF-BM86l1fsSbZiqilHnI57LX7efVRmz5Mf9fq8nBTPycJFGXGkb1AEpdS0AbZboz1MC-3XA~~",
+    "securityId": "eQ4nuv-ZCHJJ_-j1aqxgH5XcQpKLNAH6D5JCnOsYARwZyxt54j6fv0mUkQ5TL86I7uCZ2et1Ka3Q6uZxvV6MIawNRvNI2BmT4BzwsF44RKmWPEhmLwbgyRfDBVjAIl2aBJjs3HiDzyoNs3nwqjFgVM6fR_G4Ib8bCmF1jOiczZYQho9dzw~~",
     "showTopPosition": false,
     "skills": [
         "Jenkins",
@@ -66,16 +66,18 @@
         "Python"
     ],
     "welfareList": [
-        "带薪年假",
+        "五险一金",
         "年终奖",
+        "节日福利",
         "股票期权",
+        "补充医疗保险",
+        "团建聚餐",
+        "免费工装",
         "绩效奖金",
         "有无线网",
         "落户指标",
+        "底薪加提成",
         "保底工资",
-        "五险一金",
-        "免费工装",
-        "团建聚餐",
-        "底薪加提成"
+        "带薪年假"
     ]
 }

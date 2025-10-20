@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241031/607f1f3d68754fd04f80265896d9d239404449c55d3b8f03bf316f3c4b392a95e785cdb7d09062cb_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "朱女士",
+    "bossOnline": false,
+    "bossTitle": "人事招聘",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220825/7bf6f160950405e96a1bc55783dbed59ac8af5f5a9c7c413143a6cd0c49fa03532ed0584feb91eae.jpg",
+    "brandName": "杭州亚服",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7fa27172f2c899ae0n1y3965FlpU",
+    "encryptBrandId": "88dee43e948ae3981XZ53d26GFA~",
+    "encryptJobId": "f8ded29df4de121803x_2tS8FVdT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.192230693384413,
+        "longitude": 120.18997699557154
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 65,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "网络运维服务工程师（杭州阿里园区 政务）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9fwWk0CeH9a.search.65",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-11K",
+    "securityId": "jZFvDnDtpVrrV-e1OHUXwBIYGFcmYRhGDO_UyqZvX5KR6wyfIhT3EybxGFQe__KtnfYfiukNwOwZ4_wndILE6vKmv7e8vf21D63cAAfLpXAQEbleJBN6OUpyCartZBVnJ2XoixTIG5U27sk~",
+    "showTopPosition": false,
+    "skills": [
+        "运维",
+        "政务云",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
+}

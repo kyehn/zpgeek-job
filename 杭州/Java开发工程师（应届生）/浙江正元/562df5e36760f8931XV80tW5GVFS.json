@@ -22,7 +22,7 @@
     "encryptBossId": "5a5c6825a70cd74d0nV42Ni4E1dU",
     "encryptBrandId": "0cc1e9c7e1d2bae01XR50t21",
     "encryptJobId": "562df5e36760f8931XV80tW5GVFS",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.277713,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 68,
+    "itemId": 86,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1D7KajjcqCi.search.68",
+    "lid": "9fvujMQrla5.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "oErJ0LeOi7Kqa-L1Op0kXJ-vvD7JSu_ygVZTMFsD949i2-6skPGczOQoUVK5Z3iaBKj54utbrxgTIAJO7esnx6DQzifxebgSk98Sy8LUIbTikp2d97cJn9uCC0-v6O56Z11V7uzxYrfB",
+    "securityId": "ME8wGiMO7I0uk-P1OrDWc20RVlVd9Gy9cORB2fu1c1orDqoXYTBVhtWacBqeVcxhTdwPB98zPkakMETuerhJchJgXeiWNkUADzIIMhGCxb3Ci3kWlzdTEDjwe-pwXEdDyb5_PfAxcoXY",
     "showTopPosition": false,
     "skills": [
         "Spring"

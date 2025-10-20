@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
     "bossCert": 3,
     "bossName": "张女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人力资源",
     "brandIndustry": "自动化设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100914,
     "isShield": 0,
-    "itemId": 5,
+    "itemId": 18,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5cQgKeuuGNj.search.5",
+    "lid": "9fzxQSkCcOU.search.18",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-7K",
-    "securityId": "Acr3RYxOwxPKI-x1nFGj_wWECB4eqauy660njx0BSfpV58SY4IoDgBxZwtBVSbv5Zp69dDpjdG4QJQCgOqW8OAw_Gr6cVKh2NRlCdsOtPizvjzO-jJ5xxVM25EFEvAgswQ79hALDR6Jyz3zKCS4Y1HboLvqKadNoP-SbYKpW5C-pr_7s",
+    "securityId": "NFph8hpmgTGgv-W1Zz4qeuAJs9WlQmoGVJn2yR-PpxIkX4mFrd0AXL16kxrXr8evJqhuv3N7IPOW00LfSqQVUH6IE7KxN7Lur9zRPwrp5hhJjumZML4rR7sziNnWWmTUkXf3nMnpLlcK",
     "showTopPosition": false,
     "skills": [
         "STM32开发",
@@ -60,9 +60,9 @@
         "嵌入式/单片机开发经验",
         "电路设计",
         "嵌入式硬件开发",
+        "STM32",
         "单片机开发",
-        "嵌入式技术",
-        "STM32"
+        "嵌入式技术"
     ],
     "welfareList": []
 }

@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.589563,
-        "longitude": 104.065216
+        "latitude": 30.590701,
+        "longitude": 104.066581
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 20,
+    "itemId": 61,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7NKYUo2Lva7.search.20",
+    "lid": "9iuVtOJdHGb.search.61",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-7K",
-    "securityId": "iHNSXGkLorlp_-x1UIzHcdnis7PdrJIHksbekcopTy5iYZeMlERKi6uInW0fEgBKOx-TPqcb0-rGlbYaRDHmrVutyJl0W2D6tktNq2y9P0R_JJDbuG5XLuSOID5xQsje5eEZRYgyhmwj",
+    "salaryDesc": "4-6K",
+    "securityId": "Z7WiCrOlJheDb-f1kRH_Ga2ePy8uQCoHXgbJScxoW1Dp1sEIYBwWheOTIZCthllOXQEoHWg8E5ei6yhSltEgH5sA25hAjnuUOrY5V_FgNoYfjapvFCuOntvBsjrKj5ky6aIUTQIL1xKd",
     "showTopPosition": false,
     "skills": [
         "Java",

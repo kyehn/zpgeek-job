@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240712/607f1f3d68754fd048f5d186c217732e3f4811f737a3e11502fe26a8a188b40e21714140eb5b4bd4_s.jpg.webp",
     "bossCert": 3,
     "bossName": "翟琴琴",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "自动化设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100914,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 77,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5cPX7B1PEyO.search.7",
+    "lid": "9fA2V3QJk1m.search.77",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "KicTAoXmOPN9V-918mdv8Yxelm_PIA00io_pG2bAL1N1B-Qt9g2YN3Dv2wwtrt4CQwNmCB66brOc2W25tSrRj5429Ck-MapHwRAnyxzJvKtHXRNxDuv382-JM0DZyamBD8FH4J0taHhXxZRCN0xhBvFMzAuUj1uA4bxJxxSgmMw6zIBPHDY~",
+    "securityId": "SexCdT1MdDbaG-01i36GHTywT7p_yvT_nuqpRkWE1l5lCzyG1pOrWlUYWSK810qLN_PGNquhrt8CXTxRWINT5pNtynaqot4Cfs6RAA8mEbGKup0JxR2iKDN9SqFhxwJ2fmC-Pp1-WAPzJrI~",
     "showTopPosition": false,
     "skills": [
         "C++",
-        "Python",
+        "Autoware",
+        "熟悉自动驾驶软件架构，有自动驾驶算法开发",
+        "APollo",
         "Linux开发/部署经验",
-        "熟悉自动驾驶软件架构，有自动驾驶算法开发"
+        "Python"
     ],
     "welfareList": [
         "带薪年假",

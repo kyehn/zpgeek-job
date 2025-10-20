@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100503,
     "isShield": 0,
-    "itemId": 14,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7wluAcViKXc.search.14",
+    "lid": "9fA2V3QJk1m.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "DlyYG2fgVo73L-412LtFOfGdb7oYN70vsb0Cz70JymbKDW4A1TsVVdWX3Ryqe9V4X-tmSbvPzCot6gKzqHdXaOZ8GBP9L3flC0xgyWcoi-EPb2kxCAKHCbPITcwdNGnjh4BhqMm7HlNgqg~~",
+    "securityId": "28Q9GdeHVU4oT-v1kgCCP2HAJc06zJBUisvr31gMBUEwZYLcPwqKXpbaShuVB9Gu3cugSMKgKRkDUE0nyoFeBWBJnM5QzBj9JbahtuJ5-3FSnVHdRnTNTShbfDxC98oiPhGCmv49g3_jtA~~",
     "showTopPosition": false,
     "skills": [
-        "不接受居家办公",
         "Java",
-        "Python",
+        "不接受居家办公",
         "C++",
-        "Spring",
+        "微服务经验",
         "MySQL",
-        "微服务经验"
+        "Spring",
+        "Python"
     ],
     "welfareList": [
         "补充医疗保险",

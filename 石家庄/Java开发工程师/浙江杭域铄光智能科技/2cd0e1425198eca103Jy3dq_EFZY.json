@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "长安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "赵女士",
+    "bossOnline": false,
+    "bossTitle": "人资",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "浙江杭域铄光智能科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "广安",
+    "city": 101090100,
+    "cityName": "石家庄",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9223f6270363d4f50X1y0t69FFdR",
+    "encryptBrandId": "0ccad2de5f4a359903R52t66ElU~",
+    "encryptJobId": "2cd0e1425198eca103Jy3dq_EFZY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 38.05255709675426,
+        "longitude": 114.53066995192859
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 90,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9iuaDkewTCu.search.90",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-12K",
+    "securityId": "iH4quoy55goXA-E1bnnOiI2FpKPsIGxLuTCt9AZBc3t0ZOyZdgRRMWg0KLvEcGabphN-vQqiRiz61xk8i_lggZNLqtKFc3xbmZ2b7peaz9pKT9B1AkxaOLKwb0xvM-KSGPMdKR6MSfu16Es~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "生日福利",
+        "节日福利",
+        "年终奖"
+    ]
+}

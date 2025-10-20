@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "石景山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230908/607f1f3d68754fd09e2515937c15951d4870aa2a014eb37dc167a071f1c78167cfa2027e21f8b624_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "卢先生",
+    "bossOnline": false,
+    "bossTitle": "人力资源部主任",
+    "brandIndustry": "建筑设计",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231004/7b5b554d84f9729caf083114723eba5a47424e03cb676fecc167a071f1c78167cfa2027e21f8b624.png.webp",
+    "brandName": "中企协研",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "古城",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fd7214132654c5170XVy29i8EldV",
+    "encryptBrandId": "d432c4f2cee9b97a1HN-3d68GA~~",
+    "encryptJobId": "1245aedf332f209b03Vy0ty9EFVU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.904869,
+        "longitude": 116.183226
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100703,
+    "isShield": 0,
+    "itemId": 88,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "咨询经理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "99Pqeq88bat.search.88",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "8ITY48wKYow16-_1u5QEkUZqJXyQRHKGDZYPx-TrLNE9zZk5jilAv3lYjFA1a7PM_1ZWQnvioZ_IAFWHtGP7b_090WN6iOHPbf7OE9wqsur-crqUfN6FRwaqf6X8e4GoNdGDoSVDDHy1Aw~~",
+    "showTopPosition": false,
+    "skills": [
+        "企业（To B）"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "加班补助"
+    ]
+}

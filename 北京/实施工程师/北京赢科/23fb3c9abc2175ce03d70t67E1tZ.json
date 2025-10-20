@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "吕女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180717/653b80d0b8e3e49bc644baec64519f467580f793d8a7534e565b54fcb123ca4f.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "5246a05de6781ed80HR42Ny5FlZQ",
     "encryptBrandId": "f43d6e090ffe3cf13n183dS5",
     "encryptJobId": "23fb3c9abc2175ce03d70t67E1tZ",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.97742,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 57,
+    "itemId": 77,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8hkZphoUZ1t.search.57",
+    "lid": "99TaEt4fmCL.search.77",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "mApmtpUCRFGwM-l1DqJoQDCI4hWPpop2VJ2wulWWv2B3cybR1V-r4z6u9m_oMyc0QP0h1YgffPUrAFe59FhHicySEWMeYgdNM6JvuT-5KeZ7Muw2TdTpgFPeeNsNGvT0VXVJMYTqJmp93eUVwvuo2Q~~",
+    "securityId": "xDZscmBQx1Cvk-I1pvtE0JAmOs6lmUmksJEW4hIBd_shISHCSfEQN0im0xXGlX8MmmU3aRty57-b9ie5yDFvmbgbgN8EEbpR6xvdVJ-miu_KsVfC-d3wkffQK6r2o5e0RPyvo7YwyCMA",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [
+        "带薪年假",
+        "年终奖",
         "五险一金"
     ]
 }

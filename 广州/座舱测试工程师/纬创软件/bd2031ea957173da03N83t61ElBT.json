@@ -22,7 +22,7 @@
     "encryptBossId": "ee4a81518f9c18c103Z829-0FVE~",
     "encryptBrandId": "fc705eb462e9b27b1HJ-2t60GA~~",
     "encryptJobId": "bd2031ea957173da03N83t61ElBT",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.048628,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 70,
+    "itemId": 47,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1BTCu3DYjJV.search.70",
+    "lid": "9iqmw7HVsv3.search.47",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "9-12K",
-    "securityId": "zeCN2M2KrXaI2-31EnGulJkS7D_hTeG2IvJlsV0GHsSIx27Gcxa5KPma62d4pdlps5lfa7CC4xzrBt7izQP8iycvYCfIgOJ-hD3jo7NGsDbu9cmX5bVIqkHsDidemgYEM4pXIn8sf61anK1uW6rWlyTNoOb6rcsekFd8VPooEd6jAlzs",
+    "salaryDesc": "9-10K",
+    "securityId": "Ttq0ji8PNZbfo-R1yv_uJuZDWEUcORD5XL3G7saGy5UrGLH1EHs6HqV6VjHNXxmfaOf7HADBeUxBCA3WjM-0kGixxIgyuT_qQlgbFyZS9vrpnQ3razKYJ9D-eSsOcqKEmKtQQYw9YMDVp2G05RycWP1jx_88Dpb3plR2ueW1j0gJ6lpY",
     "showTopPosition": false,
     "skills": [
-        "App",
+        "功能测试",
+        "自动化测试",
+        "Python",
         "Shell",
+        "座舱",
         "驾照",
-        "全链路",
         "OTA",
-        "Python"
+        "自动驾驶"
     ],
     "welfareList": [
         "带薪年假",

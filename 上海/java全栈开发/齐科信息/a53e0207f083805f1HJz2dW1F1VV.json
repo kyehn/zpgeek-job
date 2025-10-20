@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 38,
+    "itemId": 14,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7HzvIm6dzMb.search.38",
+    "lid": "99ZV4TzHiPd.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "olxCGg9JovGI8-a1vztf5Bu3NkA-sATpVklcrdyxemdtTpMbeGoDp99LCiTrZtGbdMz3pNqhZ20cCQApwIyugDxgJs_9rMZaA_xu4MftH0JNntyE6dMcGbjFfwvCM-UCZtjY2pnNEjYbcQ~~",
+    "securityId": "l5wDzQV2lOu5x--1y-b7V-5tUodSmaz1b1szkY5fWr2E_dxzGsSA2DWEhL5I37Ub6A4qTiyqnn6uZ08SurU3pXO4E3sg280Z4ds5kkLOzxmkB8wyDyQOSiZc3ln50FBsZebdkhoNUml0OA~~",
     "showTopPosition": false,
     "skills": [
         "Java",
+        "后端开发经验",
+        "全栈侧重后端",
         "JavaScript",
         "HTML",
-        "计算机相关专业"
+        "计算机相关专业",
+        "全栈项目经验"
     ],
     "welfareList": [
         "免费工装",

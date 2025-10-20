@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "松江区",
+    "areaDistrict": "闵行区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
@@ -14,7 +14,7 @@
     "brandName": "上海锐翊通讯科技...",
     "brandScaleName": "100-499人",
     "brandStageName": "未融资",
-    "businessDistrict": "九亭",
+    "businessDistrict": "莘庄",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.101859,
-        "longitude": 121.327326
+        "latitude": 31.028725,
+        "longitude": 121.357125
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 230,
+    "itemId": 48,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2TfXy2N7jMC.search.230",
+    "lid": "99ZV4TzHiPd.search.48",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-7K",
-    "securityId": "aPDPok4Y8SiZk-A1oIYO_H3U_URyG_vAPRDczddU01wfyXlbOmYgIz5SGCWRaw6DdnxPKv5Dr2A0PPIqBNyd-jldJbFdg8656V-u8UKmhpUyLcigq-hh3J9fL1vkS4ySu_7KkVYlrKnOfQ~~",
+    "salaryDesc": "6-11K",
+    "securityId": "vtzMHKKsPO2yC-71EJB9nNqqWj3AuNB4VkBljkuTKj3q916HCYYCWhg7roHZiyZBkpOGy35KDxZPAH3WE8F3iHsc-czIs5MZ9JIcM5AqTL4PeuK604ZFlTHdccfsZxmJLyFSZ_F7Ah3Zng~~",
     "showTopPosition": false,
     "skills": [
         "Java",

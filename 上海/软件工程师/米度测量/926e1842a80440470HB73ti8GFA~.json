@@ -22,7 +22,7 @@
     "encryptBossId": "9ae3db11998006470nJ_0t27GVA~",
     "encryptBrandId": "476596541bb03e331HZ809-6GA~~",
     "encryptJobId": "926e1842a80440470HB73ti8GFA~",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.16425,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100902,
     "isShield": 0,
-    "itemId": 32,
+    "itemId": 25,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7nhKmv6fB4K.search.32",
+    "lid": "99UAs8Ssngi.search.25",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "Rk6k7vSbdynCD-K1UlDfBRGeDj6Os1SwQmqd2KFHw2AoloyBNrSwLwb9yA37X7IG9Kj4F9VpQSN_aNj95BLnpiSaqH4Y96aX_wjx8jhu0_A1SrlHVcoQBQjyXBMOq4Rre5jYaKnkL88~",
+    "securityId": "f8xrTJlG1kApn-31pO2UWZtcF9j-GJfL_eti9gkSEmscn8S4hZZBsuPlL_C3DcS45_ZkyaeftFi_GhGISNgqdP8XyXEnhcTpBoNZrCeWrrsZS_NFRSFXJ5d56N6n9t7HzsNTSUdAzIM~",
     "showTopPosition": false,
     "skills": [
         "C++",
@@ -62,14 +62,16 @@
         "智能硬件"
     ],
     "welfareList": [
-        "节日福利",
-        "通讯补贴",
-        "交通补助",
-        "带薪年假",
-        "员工旅游",
+        "免费班车",
         "五险一金",
-        "定期体检",
+        "带薪年假",
+        "高温补贴",
+        "交通补助",
+        "餐补",
+        "节日福利",
         "年终奖",
-        "免费班车"
+        "团建聚餐",
+        "员工旅游",
+        "通讯补贴"
     ]
 }

@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 36.196132,
-        "longitude": 120.519919
+        "latitude": 36.196022,
+        "longitude": 120.522633
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 87,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1UyA7mIV3mp.search.35",
+    "lid": "9ixNDCnSCN0.search.87",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "li25aOwxXgIRM--1GcsYrGnqxvS9kTmgI-DOgsQxWa10-89ESkO8fAGMjgvm0GP0vZ6fjwPKWOL6GTJJPMxNlJlxmwqrFunEGaJEB78cGlSzVs78C_E5TwpClQGWM5lUh9aRQFYTexE~",
+    "securityId": "NyUftlELZNMpH-I1CSUPaXD3OPJf_YiT12KburSdiczOrKia999-9utvmKA0YV29UcUZxaa32YPe9KrMXXhQBlqfXrl35OMNef-4WlIypFlz8LEsfrTir1nUDQyeSEWgkxplu9yWTNo~",
     "showTopPosition": false,
     "skills": [
         "软件测试",

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100012,
     "isShield": 0,
-    "itemId": 62,
+    "itemId": 42,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2TKa2BCw337.search.62",
+    "lid": "99ZV4TzHiPd.search.42",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-10K",
-    "securityId": "HSwUiO-CSc2Hr-S1p9W0jCYKWab0elO7RPj7XJ-6EQIlSmw8bJcP7aF7AC3lWkHE_nlhE-RCKQ-2bsV3WqAq4ELYe_xqrZi6OIgS7VSGWVXaLNz34ogkAas1V96jSa-2Hh0ZwvnEjQ~~",
+    "salaryDesc": "9-12K",
+    "securityId": "am6KQ4AHpVCYQ-e1IHLgGcBB_IyDeEMq4K44K2UAawUwjRsg-BNGrUjPPJYTz5WGH-16gBxrvPJhl3bTruGri2WH7ATwNLRxIMMOrcHrgh3jC5VXpqy-IcCDzQx5xx9nGwGYT-xJVA~~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "Spring",
+        "不接受居家办公",
         "MySQL",
-        "不接受居家办公"
+        "Redis",
+        "Spring"
     ],
     "welfareList": [
         "员工旅游",

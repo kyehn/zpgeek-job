@@ -22,17 +22,17 @@
     "encryptBossId": "70c64557ba27610a0n1y3Ny0FQ~~",
     "encryptBrandId": "e9a15b70e1cbaaad03Fy2Nu4FQ~~",
     "encryptJobId": "f9116d6962a96ffb03d73t-8EVJS",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.22904,
-        "longitude": 121.515029
+        "latitude": 31.224517,
+        "longitude": 121.537909
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 78,
+    "itemId": 58,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1Nmx2ZLgn0w.search.78",
+    "lid": "9a4eUQJjt3e.search.58",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "DczsoxNnPjEQ5-M1tO68SL66KeqlDgsAucXPWKPipITpq64mqbBMeZcTBTnd2sMzqK3l30o1owOuSiqYyk1V-i9YV0uCQxiwDMDtSLQzWVZ8yBsoeFdqXHhGrouNzum3xuZu66POGHo~",
+    "securityId": "4BWznXcbfEAIN-51yb5XHMpBnLPTv1CTda91XyRH5dUkuC-kkIOYZp9-jAWoyCFfH9mWCHBzXisknBffsfZZOSduuaa10Fmaz3URmh9ZxTlMWKshVizAbNBACEPH3pAbXHgN9Z69nd4~",
     "showTopPosition": false,
     "skills": [
         "ERP",
         "SAP",
         "计算机相关专业",
         "财务相关专业",
-        "软件实施经验"
+        "软件实施经验",
+        "电力营销系统"
     ],
     "welfareList": []
 }

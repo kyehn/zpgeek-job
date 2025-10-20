@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 80,
+    "itemId": 88,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,18 +43,17 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4JJzSKQxZUu.search.80",
+    "lid": "99Q8b7Ovnva.search.88",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "EWPVwCeoHZPv3-81d_qkjaA9wHFi1FkHptSdmyHzLPRYL-A2YdvqU7P18gMUttrUrRXWK8g-VQaKI66IROr9DDVMlMdn6Hgb21b7jLp2VB_MXDVzOEMxsFxBWtv95Kbg5TRUZHSqHltPb0c~",
+    "securityId": "_978XpbyqbCCe-K1UV4IYMfbQfxql7t9xA_1GdGGeB6GTy35_FvTJUMnFItZ3sVoCVl8TD3H20DICSH952V4j3-tS8YzSdoO2HSyf4JZVZSoxArDg31btwMufE0Q04k5qPeqziES2fK8hTI~",
     "showTopPosition": false,
     "skills": [
         "Java",
         "Golang",
-        "Python",
         "SpringCloud",
         "Kafka",
         "Elasticsearch",
@@ -62,12 +61,12 @@
         "MongoDB",
         "分布式经验",
         "微服务经验",
-        "大数据经验",
+        "云计算经验",
         "全栈",
         "大模型",
         "智能",
         "小程序",
-        "监控"
+        "开朗"
     ],
     "welfareList": []
 }

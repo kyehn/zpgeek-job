@@ -1,10 +1,10 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "浦东新区",
+    "areaDistrict": "徐汇区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20251016/607f1f3d68754fd024947542f15d6eb0a97ed83d69fcbd80084ea58497bdfac072405937869fc34b_s.jpg.webp",
     "bossCert": 3,
     "bossName": "陈女士",
     "bossOnline": false,
@@ -14,7 +14,7 @@
     "brandName": "思派健康",
     "brandScaleName": "1000-9999人",
     "brandStageName": "已上市",
-    "businessDistrict": "周浦",
+    "businessDistrict": "龙华",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.112579564451547,
-        "longitude": 121.61771202292636
+        "latitude": 31.191166,
+        "longitude": 121.453236
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 82,
+    "itemId": 44,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8n8tMqdDA4n.search.82",
+    "lid": "9a3tbppmiBM.search.44",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "blo3iJXyqnoZC-V1W95ZAULImi74L7-_jl-AqZcOJdC8PrsVozExjZyu2nPzfm8gtl3hKWNEuxvX04oqpR2__7KTed9RgsQfN4ggwtBJpYZzVDZuc6LxH3tICKtWXeHQ3QowoheyIzTDTQ~~",
+    "securityId": "ZorNX8RvbLTmM-51_rsnGAA_cdfdimgwC9pFistyBQy7gAbkism1v4AH3b7gt1zhXEz822nsz46_5wkeL-CR_p4oJL_-lze_KjiWrJ0Oj2raPF7bEzaLYGmd1G4aJsehLMkeEd9Mce07Pg~~",
     "showTopPosition": false,
     "skills": [
         "GCP证书"

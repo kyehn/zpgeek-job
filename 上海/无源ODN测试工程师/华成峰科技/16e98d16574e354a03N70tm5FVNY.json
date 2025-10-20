@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 44,
+    "itemId": 89,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gVk5qwxSGN.search.44",
+    "lid": "99YAJJmG9X4.search.89",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "Z3vza8G3DmSHU-H1kKGP_l6vnZI5JB4jZ4p_A9w0nCTO5WCAKH-V995KuJsR8QjpPoFn76zPoQfQABUsQQSoELYhp9-PdTB3mKx4i0MaCKfBfS1zkAtrzTd3C5jW875q7te6PkXz7ds~",
+    "securityId": "neE0oGmuYAcI3-Q1oV6d8t8j-KCYhQk49-h-_tlHjOOg6YqwJ18Z1fthWiL-5FAGwHWu6ySP9Ya9F7mvhuWRUD_WqGil1yv-3nFK_rSay8it65lqIX1cM4VEPVBHR821-Zrh6uLfg3Q~",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",
         "光纤光缆",
+        "光纤",
         "光通信",
-        "机械结构",
         "ODN",
-        "光纤"
+        "通信"
     ],
     "welfareList": [
         "零食下午茶",

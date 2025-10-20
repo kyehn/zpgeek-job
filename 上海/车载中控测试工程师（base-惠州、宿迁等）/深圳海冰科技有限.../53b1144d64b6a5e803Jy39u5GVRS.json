@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250704/607f1f3d68754fd0ed2f541b41a883fd429fc5091c374bccf0a8c4e6404c6dee3c9694cedb844347_s.jpg.webp",
     "bossCert": 3,
     "bossName": "邓先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR.招聘专员",
     "brandIndustry": "汽车零部件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201130/403d8686964bddbbde5f9094a680426aa35f8f6c0eb90491c4694673fccb7d55_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100802,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 85,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9SH7z0ktLtS.search.90",
+    "lid": "9a2ICSy2ihp.search.85",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "5sAD3R33mxNS8-S1XZYGGPxXdwp4bcambaDka6wWVfpXmvJP_Arx601PfgzffpEy_Impl8SxFz8CJ_u6xEG15AHQMx4fz-AedUVSTmFHVupN_QbluFwPnPqNuimt9THtm5rJLq9RPngz3LItAa7OqOV7oN-0GyneLCJAoKZ8hcuaEl4eug~~",
+    "securityId": "nRVKRaE5ZcEWC-n1qy20LnZXlR4SJagLg80my1sv4SOZFXpiK5F_1_g_Pao5FD_ADkaWMK0Zt8_c8O9K8BJdM6FH21gDPzqsCExP_kKh63BzagkhsJ61A6QSQlnoQX5VNFlw1TbqLOpW_g~~",
     "showTopPosition": false,
     "skills": [
         "车载"

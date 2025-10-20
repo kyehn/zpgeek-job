@@ -9,8 +9,8 @@
     "bossName": "周升协",
     "bossOnline": false,
     "bossTitle": "产品总监",
-    "brandIndustry": "计算机软件",
-    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210424/d6d6c021b49216d3a1b11c321fdcd34adea92c08fc3c89a40a59b57439ffbb80.png",
+    "brandIndustry": "咨询",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20251015/7bf6f160950405e9989b42b08b5617b28cd37727cae8a9b2f6b7c6dc45d94aa79d0cce27a909e9ff.png.webp",
     "brandName": "羽客阿米巴",
     "brandScaleName": "20-99人",
     "brandStageName": "天使轮",
@@ -30,9 +30,9 @@
     },
     "iconFlagList": [],
     "iconWord": "",
-    "industry": 100021,
+    "industry": 100601,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 77,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7pQI4i4ODEb.search.90",
+    "lid": "99Q8b7Ovnva.search.77",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "Rc7MTg10-hWOV-p1sOkGK971iswk9u5ErI1Bg2esaM9BlrfDwh4fU8s4Qs3R6i3cmPnbjbGguFvbPioy4foq0IoBoXxAfC-C9XX3TILGolVuzjKOj-aCR5-1M9HamIqTPhi1v_KyE3RB2Q~~",
+    "securityId": "WGbSLXfdqYQFO-J11hXV2LyXDE2pBxoNFLws7C2j4Ua99BpMRCRzLjwtnZKj0ihTywuMw1D6q4H8HnlAAEN8F9tfZKzrgSoKAfpaU3IwaxKlLiQHUSvoo3vx41fS_M7bUuPboXT9X047vw~~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -63,14 +63,20 @@
         "ERP开发经验"
     ],
     "welfareList": [
-        "五险一金",
-        "节日福利",
-        "通讯补贴",
         "员工旅游",
+        "带薪年假",
+        "节日福利",
         "年终奖",
+        "通讯补贴",
         "餐补",
+        "五险一金",
+        "有无线网",
         "零食下午茶",
+        "定期体检",
         "交通补助",
-        "带薪年假"
+        "保底工资",
+        "生日福利",
+        "关爱金",
+        "团建聚餐"
     ]
 }

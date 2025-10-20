@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "徐汇区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "马女士",
+    "bossOnline": false,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "生活服务(O2O)",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181115/a94720a0176f6908ec084b70e25c00dccfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "宇邦厨具",
+    "brandScaleName": "500-999人",
+    "brandStageName": "B轮",
+    "businessDistrict": "徐家汇",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4bed87f7be29fb3b0nR_3du7FVBR",
+    "encryptBrandId": "062d487be1ca27920nRy3Nq9",
+    "encryptJobId": "b24fdc87745e115f1HJ82ty9FlpX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.188062,
+        "longitude": 121.424278
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100007,
+    "isShield": 0,
+    "itemId": 66,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "办公室助理文员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "99VfQkQDP8T.search.66",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "rZss1ajCBm7iq-r1L1EcuG-JrX2o8EtR_3bYU237THYvHlJm9CYGRgFZeSMFFRCs3GuXvRxXuT49XEeg-dLnKkEvBXJ9H1YtICtj30ncgQ0tj2bqiVTcrW-KKV4A53HO3W9HuEMDbr2F",
+    "showTopPosition": false,
+    "skills": [
+        "文员"
+    ],
+    "welfareList": [
+        "五险一金",
+        "全勤奖",
+        "节日福利"
+    ]
+}

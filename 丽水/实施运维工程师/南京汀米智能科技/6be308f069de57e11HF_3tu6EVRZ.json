@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210702/eaec008090e5b39b654d800d648796f4bc93748ee3fc851079b57e5375d1cb64_s.jpg",
     "bossCert": 3,
     "bossName": "徐小婷",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人力资源经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210707/ee549a1d029047a86ff195dbfed3f87cbc93748ee3fc851079b57e5375d1cb64.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 63,
+    "itemId": 40,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4g5FyZ85LoL.search.63",
+    "lid": "9ivGdvaGTS3.search.40",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "FqFeozSiKYx0b-Q1Pg1dgewmoyITU7gBT2xQCqora1uA9XXs3tYTM1p1wMCs26Cmwql_zcfem524ikpIHfqWipxJCNXk_2E_6jf1510gCXtsnB_JI-odUhDA0NV_d8qXs42JTldeq3Wl",
+    "securityId": "VCOhhUlpXIFiY-V18OizyJ3vL62azcye1kaEQQpHGJAzqH-IKCL7lF1iQY5E4m_pMlPWD6XJMQcY5csahYsnuESHMQblCKG2Pz2Kta1n-Stb4yHMYpiGdvf5epbVcRsie30isYHFmKNKsZXNMmAuN6X6G830WoBY1VRED2nCY_P7Gdi-",
     "showTopPosition": false,
     "skills": [
         "运维"

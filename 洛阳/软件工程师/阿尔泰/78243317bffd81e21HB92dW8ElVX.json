@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240402/607f1f3d68754fd0e2a7da6cff980627bcd1314b81fac782d35b21e74a8c9336a1e163273c958cf0_s.jpg.webp",
     "bossCert": 3,
     "bossName": "张女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "电子/硬件开发",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240522/7bf6f160950405e9a683cae7b0de06c6be3884739d3607fdd35b21e74a8c9336a1e163273c958cf0.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101406,
     "isShield": 0,
-    "itemId": 53,
+    "itemId": 74,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7wluAcViKXc.search.53",
+    "lid": "9fA2V3QJk1m.search.74",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "Y84wbQRFfJSiv-01y1t0h0jDjyrbubTo0hh9kqhmAxGzbzuwHpE5aTN2_OKxqeQmMdtfAqedbXRtV_S2Sua1eBcgSLt0LrMWgxSGVnKYn5kY4YfwQJvNnLFoNxmnI77JkdF2YnR7S93V5erG5SZ19GDv6auBHE0STTGlyETv7BVKJ8k4_vk~",
+    "securityId": "uzmEUSS4KDN5h-M1yMZDE5sSRrJ_NT3GAcvIAbxezHM84-D8GZ-kguWkYFwha39845sq73GbAsuru0AE93g4WffYdEyAEZywu5TyKjB1pz7uNIoXwrAFDT8hhg64Ht2PaoYe2Kg4HZ8r2eg~",
     "showTopPosition": false,
     "skills": [
         "C++",
-        "QT",
-        "Linux开发/部署经验",
-        "上位机开发经验"
+        "Linux开发/部署经验"
     ],
     "welfareList": [
         "带薪年假",

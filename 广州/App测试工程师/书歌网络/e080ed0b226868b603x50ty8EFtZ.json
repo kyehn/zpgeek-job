@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250605/607f1f3d68754fd080af18a4e12fcbfed496c13e41ec886cda1ccb196363974a95cfc65ecb7d5de6_s.jpg.webp",
     "bossCert": 3,
     "bossName": "潘女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250318/7bf6f160950405e9b1b65d90a01f4e35f077db8fc7900619f8088f0548b3cc3909f6f65891f9e172.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 41,
+    "itemId": 67,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nlpjdQ3Zv3.search.41",
+    "lid": "9iqmw7HVsv3.search.67",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-6K",
-    "securityId": "6zmfyCeetXpGz--19OlnFSaPIjto0MlZrVbSF1Jg_59yydM5QxZJI0jHQChrBN9JWzac4ZcIgbzpCywPjFOOQ4j8ORTAYCqva78xQlFJhcxjHHk7ts9SvrhJYBOsPCzceSFgVeotQ90wgkU~",
+    "securityId": "quNxdx4bWPiBp-i1auv_7psG11nBICpU8OblDDmbzGXqULr62rfaoSvby9CmB94ooDJ9SrBTk4-keEXW96fkWd2YTw78aAMJNrZrT30kGPhO3u6b672dkkC8ymX8ecQ73gQKgEYJXuRUTD4vSKfZHbNrR5lFBSoLQYncPH0JNYgvQXHgMic~",
     "showTopPosition": false,
     "skills": [
         "软件测试"

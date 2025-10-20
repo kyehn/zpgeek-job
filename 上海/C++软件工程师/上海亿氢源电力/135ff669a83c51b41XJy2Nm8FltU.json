@@ -22,7 +22,7 @@
     "encryptBossId": "8312b2f2d43742d70nx-2Nm7Eg~~",
     "encryptBrandId": "1e81f98ec7ad3aac1XF52925FVI~",
     "encryptJobId": "135ff669a83c51b41XJy2Nm8FltU",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.274208,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101304,
     "isShield": 0,
-    "itemId": 65,
+    "itemId": 71,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7nhKmv6fB4K.search.65",
+    "lid": "99UAs8Ssngi.search.71",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "efkiFH5Yp1IVh-Z1Fd0RzMOhBXxYRKUriFCGGFBgkGF8pUEXXL74gSQJnKH1anOl0Gosx8e-YOiOZqbToKqynBBvzSaIgV-W3K2mDFNTqThNxbWPgesYhyBFgdQLUmxV0bvPcL5Rfrf6",
+    "securityId": "GN39Kl0mYPIGF-n1-ZGfdRgZX00_wL1xmFrxHTrRZJ43c6XvDlhu8D5eANByOw5IXHDsgYiAzwfRK2xSxRZDrzm5pV_9hgX0hvmFy8utRM7vEMwJEIuU4P9L3DGn49AdIjrT1uouo4VW",
     "showTopPosition": false,
     "skills": [
         "C++",

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 33,
+    "itemId": 53,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,24 +43,26 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gNr9Tj0gKa.search.33",
+    "lid": "9fvujMQrla5.search.53",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "vH9UHkKbKxqSQ-u1GCMYFPEfrsDZIHBRg5DY36MlkrzIeS9dbRi0cJaYYBc0WKmlsM6ES4QTO4xgEvxYvNP73CPwdKj1TZUMSeY1ql7E7u4wmDPOrihjZT6TFn__kBfK3Yfs33BOUWeJdA~~",
+    "securityId": "mTSc_1Q3Div8W-A1XPw-cNSzefbgd844SuFw9TGx4OoCYdgVNn5y6KoM7Wi1blNs_3g-LC8Xcx12BF0_5EdgTPezX2nQx597K4RJWixRoIEkOaqT97OKJByfFbcIVdcdX6P6RwTkjYGr0A~~",
     "showTopPosition": false,
     "skills": [
         "Golang",
-        "Java",
-        "SpringCloud",
-        "Spring",
-        "Nginx",
         "JVM",
-        "Kafka",
+        "Java",
+        "Nginx",
+        "不接受居家办公",
         "PostgreSQL",
-        "不接受居家办公"
+        "MySQL",
+        "SpringCloud",
+        "Kafka",
+        "Redis",
+        "Spring"
     ],
     "welfareList": []
 }

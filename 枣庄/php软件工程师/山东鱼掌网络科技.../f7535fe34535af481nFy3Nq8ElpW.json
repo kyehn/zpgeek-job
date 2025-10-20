@@ -22,7 +22,7 @@
     "encryptBossId": "55e37645cb5740f10nV43Nq-GFZY",
     "encryptBrandId": "86446430eecbecf91nFz3di8FFU~",
     "encryptJobId": "f7535fe34535af481nFy3Nq8ElpW",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 35.113189,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 30,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8G2t3sJ0hCO.search.35",
+    "lid": "9fA2V3QJk1m.search.30",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "afesbS6gHcIl1-Q1ssOjGlGB_0TTpvyfzHLOfvExi4-XwKYdEgadONl3l42-xlyAvho-eS6-5FfI69mxZMyocXp7-FZ15ONWEek2kftAVOVIyDj2AWfK",
+    "securityId": "MuyTrPJKlEeZY-M16oVTbIyLusdSdmNlOWs0QGDJYj_UlT00M5vdm8aJweFgoZAzaMrdNyeQnnHg0p9YZWJrzD8lJafxkp1alfWagV20LmC-dpgWEIlbLN37YpM7RzwB-g-ox1V0PXwv6v8~",
     "showTopPosition": false,
     "skills": [
         "Laravel/Yii/ThinkPHP",

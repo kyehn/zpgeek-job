@@ -22,7 +22,7 @@
     "encryptBossId": "7cf8fa98114bb4631nZ429m-FlJQ",
     "encryptBrandId": "c331d2bd271a8fdf1HB629i1GA~~",
     "encryptJobId": "d63124025e41f1e61H1_3di5EltV",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.316506,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 27,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8PAAJV4Ml4R.search.13",
+    "lid": "99ZV4TzHiPd.search.27",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-11K",
-    "securityId": "JNSwbn0JJbvPD-y1e-eStUzUUfPVP0eBE1eIBJ4xw6eFOoGHc3Egw6ajA2C4iOHr05REMk5EyryI0ZMTrjJQ6nWHNqCxMHFo3fmsBIKLSQ3YsapsnZZrFVCgH7mETYr0HwNTRnqdMk0cCw~~",
+    "salaryDesc": "8-10K",
+    "securityId": "zwJ6ggeLxIgoh-H1Pyk78TtLHP1fz5PWfVrhFwSnWJu8qtUNz0e9Wo6BJRWxuHI5YsvMcxcbWAXZRLpWdMdJkTVGhCP0wKWdVaTxQyE98c8xlagr2bf_OWrsbHge0FOl0yMCdzOrN8T6pA~~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -58,17 +58,16 @@
         "Spring"
     ],
     "welfareList": [
-        "五险一金",
-        "通讯补贴",
-        "股票期权",
-        "团建聚餐",
-        "生日福利🍰",
         "生日福利",
-        "零食下午茶",
-        "带薪年假",
         "年终奖",
-        "绩效奖金",
         "节日福利",
-        "底薪加提成"
+        "股票期权",
+        "绩效奖金",
+        "生日福利🍰",
+        "带薪年假",
+        "团建聚餐",
+        "五险一金",
+        "底薪加提成",
+        "零食下午茶"
     ]
 }

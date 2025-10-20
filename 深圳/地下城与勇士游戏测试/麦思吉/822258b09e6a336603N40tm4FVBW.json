@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_16.png",
     "bossCert": 3,
     "bossName": "肖先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200924/be5889276d74789e9dc1d18824dd9195845a230234048289d984c90e6363ca87_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 19,
+    "itemId": 22,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8ntCkb0pYZl.search.19",
+    "lid": "9iqmw7HVsv3.search.22",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "kTMzlHFbunqtJ-o1KinvoYenLNCGXx4ZC3p5X6ISZQPk654xOnd_AZ4lvlesAc_iV9dUFNIPbKhxHKCtoEzXoYwXJIv39X0ymgdc5tSAGRq1WNYiGYqlQnBdGhsycggYPfAi8iW_6_kf",
+    "securityId": "FklSJlN9bCnGJ-w1EhhlnBOyQ9RzV_Ze1CUo5cQ8QmSZAnYirSGoz47P_4TBkuQfMJ_uIrucN2Nphlr_4eWk0Z50MAwjoUG761omRmPWYwZJj7c8sNsBkT1V4GlpHJzKIdhFLiFw_pamR56IaHgcwZi3hIzxXzXcuW3sSbUdrzaRVujU",
     "showTopPosition": false,
     "skills": [
         "丰富的游戏经验",
         "手游测试经验",
-        "主机游戏测试经验",
-        "计算机相关专业"
+        "计算机相关专业",
+        "主机游戏测试经验"
     ],
     "welfareList": [
         "通讯补贴",

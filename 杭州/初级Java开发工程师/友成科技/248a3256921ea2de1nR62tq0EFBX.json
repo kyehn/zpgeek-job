@@ -14,7 +14,7 @@
     "brandName": "友成科技",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "北干",
+    "businessDistrict": "西兴",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.203515,
-        "longitude": 120.247718
+        "latitude": 30.207971469557858,
+        "longitude": 120.24701377488537
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 22,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7wsB4wevT1X.search.74",
+    "lid": "9fvXtWiA9A3.search.22",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K·13薪",
-    "securityId": "zLCq6mPLIOyY8-j1N2aokEIu22qcxx7wiFS-ym5QxIt6KzmCjx6bC2SROvsksqxHZqBgVQNQmbkB9kSPgHcbLBYua9XyaHQWIIz6z3hVGuheYXgoRo-0kNa4ZBHbm7gqMEs3DDObLnIJMg8edMwqyywUUnN_IVWOBX3uleASkaZqO0bf",
+    "securityId": "kP0J-e-Ba5t88-41-v7JJVY63ru1WrvYhmDvnYKOuaOWkJv_HckoAQhyYO7NdvOgsPM5qup2Qn1pPmad0oC0tbFQaGm9HQ12r_xdScJczot-MEUXCjQaDX5key8axL7lyIb7Lbz31YRHKWz52BKEkya1n16JEszLJi_JXbgwNix4mVei",
     "showTopPosition": false,
     "skills": [
-        "企业服务",
-        "mybatis",
+        "Java",
+        "MySQL",
         "Spring",
-        "低代码"
+        "MyBatis",
+        "ERP开发经验",
+        "MES开发经验",
+        "企业服务"
     ],
     "welfareList": [
         "节日福利",

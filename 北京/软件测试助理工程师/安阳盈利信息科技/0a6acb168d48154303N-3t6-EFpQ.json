@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100005,
     "isShield": 0,
-    "itemId": 26,
+    "itemId": 39,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nd2amuE94f.search.26",
+    "lid": "99RDAQvsibZ.search.39",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K·13薪",
-    "securityId": "rfyKS4VSi2sHT-Y1r9HHlCaROW2o9FKQAKrK56qXhQdx7fYMa_u0upJQAhwSM4UWwvWl_oAUqaSeqqAHijzi4ZQCevs2R7zwZS33dwzjse_55Jh4GUIllg9BPszUmwAXgkM4Ee758zZGH_k~",
+    "securityId": "t1Vou2_UIDN2M-u1UVubdsaSLGj259T4irhPOQ60PIVfFNqnw74oSMC-7XfKCLNjNoGm8eY43wlaccdGLzzTQ8zo_Pqq7ZdWr609Mg9aC0jqhwOhKYzXB957MUuFtcfvWf_W6BLeGC4YsiM~",
     "showTopPosition": false,
     "skills": [
         "Java",
         "性能测试",
         "MySQL",
         "功能测试",
+        "计算机相关专业",
         "Python"
     ],
     "welfareList": [

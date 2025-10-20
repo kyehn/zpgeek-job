@@ -14,7 +14,7 @@
     "brandName": "领鞅科技",
     "brandScaleName": "20-99人",
     "brandStageName": "天使轮",
-    "businessDistrict": "市心北路",
+    "businessDistrict": "国际机场",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.22108,
-        "longitude": 120.267946
+        "latitude": 30.221803402715352,
+        "longitude": 120.41088033516263
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 101208,
     "isShield": 0,
-    "itemId": 80,
+    "itemId": 33,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4bYvwkc3JCr.search.80",
+    "lid": "9a5E7t9rFiV.search.33",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K·13薪",
-    "securityId": "BzkmvNEIqEAid-X1AamvNWa9raK5VNc_M0iMOtiMyJOzJcYgGUdMUbao7QnaatSZBThIiMI1LAn1wAMeFQJlBevFsBqfJ-RWOAhnandAYaHQkVcSaDmh1mgcK1LdIztx08ZBprRE2ekMoPc~",
+    "securityId": "1bucQC3hnz98e-w13wC1hBeOXvP-HOFzipnJ4CSt7NlDZVPhR5yRjncD-rqW_yXGHZ036pE21MmdJIRuFER6axq1IxLo_6zG-lj0Le5Z_eKPvlulNQFi1ew7O_VhJj__ndoPzInWLU9gWLM~",
     "showTopPosition": false,
     "skills": [
         "STM32开发",

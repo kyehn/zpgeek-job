@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210608/716e8bf45356c8474c5c9ce8ac283afb97abdebd369ecc9f367fe43f3fa5b037_s.jpg",
     "bossCert": 3,
     "bossName": "张女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HRBP",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231004/7bf6f160950405e922beb292da1fd235be0336f4c67a209e7bb2c7cef227a00b177fb67c71faf4f6.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 68,
+    "itemId": 30,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "70slGqIFt5L.search.68",
+    "lid": "9iuaDkewTCu.search.30",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "K9lnb3_Bh9WOL-p1YlcL5TJbG64J-SG3OuPrycLAiGPKHDD27rigJ6qBNmttcVxxdhOWP5MgfxnXa-c25GFkjrV1bhB4M8td18ipyNtE_mVTU4tteSfFWPU988VL7MxIO8hakUer57l09kk~",
+    "securityId": "qSVNqlN4Gp0R6-G1vGX8v-jU1gt91PrhAl0U6YfN6qg0wAAActyFmCScI_0WhWmjDsofpIi3BrSwOVQZPMZ4pmUYGrqxk82qHbw3q3sz3xw4XVNE9VFxP2UHaMUBkT7__2HhQco3u2eJH524ctr2DOw-Nwjz856sh7wHActsZ41GvRD-b_s~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -64,14 +64,18 @@
         "Spring"
     ],
     "welfareList": [
-        "节日福利",
-        "保底工资",
-        "员工旅游",
-        "全勤奖",
-        "五险一金",
         "带薪年假",
-        "底薪加提成",
+        "节日福利",
         "年终奖",
-        "绩效奖金"
+        "绩效奖金",
+        "保底工资",
+        "底薪加提成",
+        "零食下午茶",
+        "意外险",
+        "员工旅游",
+        "五险一金",
+        "团建聚餐",
+        "生日福利",
+        "股票期权"
     ]
 }

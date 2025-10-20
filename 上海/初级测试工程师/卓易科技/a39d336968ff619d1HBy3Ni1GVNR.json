@@ -22,7 +22,7 @@
     "encryptBossId": "e68dfdac1c5248380XB929u9GFpY",
     "encryptBrandId": "4d8aa5ea4fe6d6521XV909Q~",
     "encryptJobId": "a39d336968ff619d1HBy3Ni1GVNR",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.177233,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 29,
+    "itemId": 75,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1NirIKKPNaF.search.29",
+    "lid": "9a21ByNqMbe.search.75",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "HAFtU53aM3FiH-f1_kthBpKVyqk0-0K6JkVDclQf95aKG6mzI3LcEhVDXXWVgWIblZYWx0qO8R99Zpv5dB1iH4xDwqB2fcI8LpBy0WKNg3EZLxXyQtWlv38n-4Wxjmir3L3_MLOsQ_s~",
+    "securityId": "C4fzAfVtNZcvL-N1O9yl4tg61Txj4vSZgvyb4hN-7F6aZIApWYaebpVLv-nV1erLcNAFzfxgwc_qNQvQmzEkCLF8IEBjeQr2MbFIFoOa9FTNLeMCGClvfDq4PSLU9TgOt33BHm8BZfU~",
     "showTopPosition": false,
     "skills": [
         "iOS/Android测试经验",

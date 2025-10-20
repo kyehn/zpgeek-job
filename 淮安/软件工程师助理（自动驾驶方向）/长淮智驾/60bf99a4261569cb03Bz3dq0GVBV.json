@@ -13,7 +13,7 @@
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221230/7bf6f160950405e9d51ff2ef34494d6315da4b9ac96615dba1e571779ff1f6395b28d12210978604.jpg",
     "brandName": "长淮智驾",
     "brandScaleName": "20-99人",
-    "brandStageName": "天使轮",
+    "brandStageName": "A轮",
     "businessDistrict": "大学城",
     "city": 101190900,
     "cityName": "淮安",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100801,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 23,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7wluAcViKXc.search.25",
+    "lid": "9fA2V3QJk1m.search.23",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-7K",
-    "securityId": "giJYM54KkdyE2-g1Pwdgh0a58lHl5BHohHsPbB3UlVYQ_1VrInc4GwVCV3OZPc9Nvm8b133IcnfrKzkbyGPaE2lGnARM3x2oTpCW0-pbgiUmeLQqQTkp3f8BelnIFeV8KyIeyMCgaOQ3c5tgRstGHQx7v5A927XxZnix_RTzzgaD9IrLNgA~",
+    "salaryDesc": "6-8K",
+    "securityId": "3ot5Ccx9TTTZL-R1TttTAp8psIaztd33OnSxJRjM07uutnpeKjXasqIXlXSpgYHhZUgzizabap9w9pUamSpcV4GlQvfPbOrb-ScN4x4wGTzbSEXZBjcWB7uCsvcaiD5HglRySa0WEfCFV9U_vrLBgHbeIu9awAKPfBUe_DGwYpPzDeotsZI~",
     "showTopPosition": false,
     "skills": [
         "C++",
-        "Python",
         "嵌入式软件经验",
-        "地图/导航经验"
+        "地图/导航经验",
+        "Python"
     ],
     "welfareList": [
         "股票期权"

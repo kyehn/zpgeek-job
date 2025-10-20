@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 84,
+    "itemId": 33,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7wqyLEJ7qLd.search.84",
+    "lid": "9fvXtWiA9A3.search.33",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "S1Q0KKTLQrWRd-u1lHFQKyd8FkTOs4Wbx4ZDv0LPuH-9b02U4rac6o2aqteD5AHfmo58S7zsOI4z_aSzNzr0MnYfQ7U6oNvU1DckXCf2kDLwduMfH6wOwV3X_rQZYUV9CEaaxaY~",
+    "securityId": "M6slmXT7yg8q9-e1JCvdiNtxU5ShCCW2o1IdyzhyyE9MHqDvT_GimplfMQ-pU3sxqLV1yJKQ4FnGSz7YIGraWB92ifRL65hzxjoJRXaHHLIIMsDChjluWqih73fsax_LbPsCFAE~",
     "showTopPosition": false,
     "skills": [
         "Java"

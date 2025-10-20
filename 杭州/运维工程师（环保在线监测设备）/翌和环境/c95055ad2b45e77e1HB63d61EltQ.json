@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210814/74679201d59f62bbff89608a2436be40d58e588c519bcb12a158f6f1e0a35784_s.png",
     "bossCert": 3,
     "bossName": "杨先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "总经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210721/f2df851ba6af68c0bfdac92aac6e85fbd58e588c519bcb12a158f6f1e0a35784.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "c862ccf5ae6d6f721Hxy3N6_GFI~",
     "encryptBrandId": "948c605b2378b9b41n152Ni-GA~~",
     "encryptJobId": "c95055ad2b45e77e1HB63d61EltQ",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.303745,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 89,
+    "itemId": 85,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1esoFhKMSBX.search.89",
+    "lid": "9fu41qfmyLW.search.85",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K·13薪",
-    "securityId": "2aXnFYsuwW3tG-G1L915e4E7090CqAtAeg8QuYIcpe-l9R0QKVgF7yKltqk0q5NMM1niHWLsk8J7kQDkXEH7Roqok04l9EIYpwxREVSuBjWrEffRj4lhm9tmnWpT7Cl4it4Xzq6KhqVB",
+    "securityId": "rkm5BYqpICNox--1KnI0BICBvzr8J5X5HXfVdNioyb1yk7LL2gOuxqgksJAjpSWojZhtztp2zky3TQGpXls-dv4vUbFuZaTwnSdYgKQpBgd5a6zsrGzzGMamHr1KQohS5JGrX9BHcakNCdQjnS_ewNsm5nSeEVk0Q4-ikqetyuRBp8Ff",
     "showTopPosition": false,
     "skills": [
+        "水质自动站 废水在线监测 废气在线监测",
+        "Java",
         "实施交付运维",
         "电子/电气/自动化相关专业",
-        "运维经验",
-        "水质自动站 废水在线监测 废气在线监测"
+        "运维经验"
     ],
     "welfareList": [
         "餐补",

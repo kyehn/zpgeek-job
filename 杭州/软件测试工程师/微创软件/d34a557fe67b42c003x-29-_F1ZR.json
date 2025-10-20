@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 76,
+    "itemId": 73,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gMClzFLKtV.search.76",
+    "lid": "9a5E7t9rFiV.search.73",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-12K",
-    "securityId": "3I63u1fpKjfMK-I1BRP64RGEHn0_XRHyaLd84Vri_FSsu0OJtz8x9WngMdcT2PrwFRdhqjn5EqoulkSC0CNmYeqIHxDiNv3JKnviPXY__jpXDt5gRz_HghbC3cLeKAep_uF9zOkrztin",
+    "securityId": "TMNnfzLvlBbuM-Q1yYNbN_i3jOLwu53lVnQl9sdH0zLLLfeZxNC9vMZ9A0InO2KwzJHBozpt3Fd6-VQmI-boDESFSaueQQVcvY_8AyMnwbMQukeVlh_OCQgqihrvNyZ_fJ1s8B7rZ_iX",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
-        "性能测试",
         "自动化测试",
+        "Linux",
+        "性能测试",
         "Fiddler",
-        "Python",
-        "Linux"
+        "功能测试",
+        "Python"
     ],
     "welfareList": [
         "年终奖",

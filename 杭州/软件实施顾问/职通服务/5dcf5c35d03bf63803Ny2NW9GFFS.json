@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 37,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gKRibY39AF.search.37",
+    "lid": "9fz1dRGSiI8.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-11K·13薪",
-    "securityId": "Xn-ePuM0E2jgC-m1URuewSi9GwwWe6Z0t2cnsZ3PBLkm3ZvbmD6y5BYbz47q3KmuInlAC3BE39IdoK_bpWPobjKTMrIOZozV_ffz4SvAs2ypzN9BWhyxhGxXnB_x0OiCIFGzQxpGad-Nomo~",
+    "securityId": "2CYbnwKY0409j-j17MePzVgoy_yYuFNf9RjM9mMjEeEiDIE8se1TnPJIQvzkWamCD76bl-zIj7hf8m2fZNblKSxrS4TQDNOnpaiZXhmCVuoiXED-_3KV1U_s_qrqtOP6By2SWRaXo0p9jR8~",
     "showTopPosition": false,
     "skills": [
+        "五险一金",
         "ERP",
         "SAP",
         "计算机相关专业",
-        "双休",
-        "五险一金"
+        "双休"
     ],
     "welfareList": [
         "工龄奖",

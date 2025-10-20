@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240221/607f1f3d68754fd0adda47e7a0eb4ee6833df3d3ae63cdcbcc628dd0a3a3441836cd4d8523cd2dc1_s.png.webp",
     "bossCert": 3,
     "bossName": "赖女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人力资源专员",
     "brandIndustry": "智能硬件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231221/7bf6f160950405e931daeb77b605c48abfca5c9f84bb7a7c63bc8d248c53bebce09ad206ca7ebf4b.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 37,
+    "itemId": 55,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8wkyd6TPvau.search.37",
+    "lid": "9iwEpeVfFDs.search.55",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "3-4K",
-    "securityId": "XHp29zQciVoNR-410sNMzNMn7RTm0KjO9QNVA_F6Fblq9zqfu4K-eKTEvuj6eyI0bODplVXERIeqHaA8pV3iVfMGqRlqbMMHvxw4eCwHMUnWhXjuJ1yMHekOYdH0rOrwDoil5ZRxxbyCqBqpMxeV08qhTpcc5vWMawqMybsyXNmVZayw",
+    "salaryDesc": "3-5K·13薪",
+    "securityId": "puzkRvQwoMrB3-114D3zcgYIKy2KsZxmY9bQWyWmvz4pC97cCIIxAH4d5xe3Nk5gMiSSd4yzNNjLAVvv8oeFalpu0wcguRQ1YdsdCD5oCYfC-A0BtMDgAIZEAdlmdbP8Ed-oidtm4d8V",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
+        "测试工作经验",
         "性能测试",
-        "计算机相关专业",
-        "测试工作经验"
+        "功能测试",
+        "计算机相关专业"
     ],
     "welfareList": [
         "餐补",

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 47,
+    "itemId": 25,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8n8tMqdDA4n.search.47",
+    "lid": "99TPRrM0aPn.search.25",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "yWNLYEOM-Ig70-u1Yhlm_nL68OHXGnbS77Nzaz2Ja4begnDZ8nzA8m-xT7utF-RfLewMTQ8YPmJaX_6iXvrdoQkyyrbBljxaVfVD_tfpavdW_5jlO4jUsnEd9_r2Vp25wnWhpORb0Kl52g~~",
+    "securityId": "JJfuCMNay8zlM-71fMZKtBwiOg1ni5DfuQyrUCuwoCeDEa0s7vk7EWKiut-DocHcMz-OSL2OzzmW8T1DR2RBKcCKhN_KlsutkjVRX8Sk4LEWz47tR6NCVVZ3Lw4iUYOgoroq4Zxp5d8DhQ~~",
     "showTopPosition": false,
     "skills": [
         "桌面运维",
@@ -58,15 +58,15 @@
         "计算机相关专业"
     ],
     "welfareList": [
-        "零食下午茶",
-        "年终奖",
-        "节日福利",
-        "加班补助",
-        "全勤奖",
         "五险一金",
-        "餐补",
+        "节假日加班费",
+        "意外险",
         "带薪年假",
+        "全勤奖",
+        "餐补",
         "定期体检",
-        "员工旅游"
+        "加班补助",
+        "员工旅游",
+        "绩效奖金"
     ]
 }

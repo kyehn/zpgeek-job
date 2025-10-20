@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 32.385752,
-        "longitude": 115.01384
+        "latitude": 32.365525,
+        "longitude": 114.813763
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 83,
+    "itemId": 53,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7wm1mY5vEgu.search.83",
+    "lid": "9fzxQSkCcOU.search.53",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K",
-    "securityId": "Ak9mw1JS328xO-N13KjH4-7RcZ8StbvPld7z91eF9XZ6rezclllXkOFGdR_neWYIxLcG_llEAQC12mzdqJCtv3qbVWVU_wVSKqjYMZEemkjvZeHDnVtqUiip7hBwFqYCh2_ZeAlYn4bljA~~",
+    "securityId": "Rznvxnr052ccl-o1rpB0T51BvDKj2AmLhRV7lgdaV3Ea_kjrHI19Px4bVXwyI-OPMnh_EMfWHINCEnRjO2FMdfxONajgrfzV14o_S6hDLYgL2W0sv2AjD4I9aU0Ba0xoM_mMXcDuoOJcCA~~",
     "showTopPosition": false,
     "skills": [
-        "C++",
         "RTOS",
-        "ARM开发",
+        "C++",
         "QT",
         "AIoT",
-        "Linux"
+        "Linux",
+        "ARM开发"
     ],
     "welfareList": [
         "定期体检",

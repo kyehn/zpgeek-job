@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 53,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gPb8gs6KLz.search.11",
+    "lid": "9a7WzOIcNfW.search.53",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "Ud9Yxej9cm9Ce-y1eki9kfasLqy6oT9EadXsUOzJhNvVaxyAiHp7Sp5kQkZHkskx9pKXoG1eyXQY8vgYqbVZc9O_SbgXWp3CJU17V-JxE5PnEpDZ9AKbPttow2mVzxr09AH7tRodeiv1zIw~",
+    "securityId": "CFIDaYGBJEzZD-V199zL2VYZBVjVEHK6tomRN0Mi0Hoqu4jlPrFuYf-fS2n7vzSvoWWMdujnvTdWOLWND_iPbSpOB54WXDtwF7oTOn6rdT1RTM45XhoJq4MyCa0uAFId8KJah7kcrIDGuf4~",
     "showTopPosition": false,
     "skills": [
         "RPA"

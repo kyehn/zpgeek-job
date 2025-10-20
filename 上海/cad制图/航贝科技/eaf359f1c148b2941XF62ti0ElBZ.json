@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101405,
     "isShield": 0,
-    "itemId": 41,
+    "itemId": 29,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,32 +43,32 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8QtKnaU7mky.search.41",
+    "lid": "99VfQkQDP8T.search.29",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-9K",
-    "securityId": "tnsVAd2TyOHhd-F18S7YLW7EBb1yzWJWYdRZNCD7qAyUnC_6VamssWckzL4d7gif4ycRSM09M6nbjUvPpm4lNVlqUXgMsChnPsi5P2xwzIhJ0e3Pg5iSGBEiWUoEe6w_ANWdPRCd2pMk",
+    "salaryDesc": "4-5K",
+    "securityId": "EEoB9Va0WPsff-f1JPVkfeV5LBS71LlioHKctrVczRHgWqkc_wnmnSX9Zh43tYH8gbKcgvQJuZEIAGrNVGwhtsagbPteB0JDZ2uUut1myl6uR_foEe8GE3CjPLxyiC47jbE3Nx5tMo7V",
     "showTopPosition": false,
     "skills": [
-        "不接受居家办公",
-        "工业制图",
+        "有CAD绘图经验/技能",
+        "AutoCAD",
         "建筑工程",
-        "电气设计"
+        "五险",
+        "带薪假期",
+        "周末单休",
+        "现场办公"
     ],
     "welfareList": [
+        "全勤奖",
+        "宿舍有空调",
         "包住",
         "意外险",
-        "保底工资",
-        "宿舍有空调",
-        "有无线网",
         "带薪年假",
-        "全勤奖",
         "节日福利",
+        "保底工资",
         "绩效奖金",
-        "餐补",
-        "员工旅游",
-        "五险一金"
+        "员工旅游"
     ]
 }

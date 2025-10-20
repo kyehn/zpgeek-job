@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.902636,
-        "longitude": 121.735718
+        "latitude": 30.908950823388228,
+        "longitude": 121.72504958430763
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100914,
     "isShield": 0,
-    "itemId": 71,
+    "itemId": 12,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85B2THOhhFi.search.71",
+    "lid": "99TPRrM0aPn.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "UCwTxYL1F4UKJ-Y1VPM17KWyzr5LqfluBmqBN3WkgfwUiQ9X-kPJG7-EhitLl1DLl0AC8cxpgpgtPFo_-GLcsO9KwE7sgh97AnXdOOTuFg5gutAUBkrVSFaALP-6laut0erxBo3NOvDVxu0~",
+    "securityId": "STb4Otvu5Qz84-81Xfsz7c0drVneCnqBWsjyd2UfZ7zeLNke0G2RcKiBJhsD24VM2zghd0J_u5f2TYojqvxWZKy_nGQodh29XpzdD7Lxvxbn6KiatkaA6bzicOAdexI-rtLb3tuZgF_bJ80~",
     "showTopPosition": false,
     "skills": [
         "AutoCAD",

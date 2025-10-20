@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 39.90768,
-        "longitude": 116.446972
+        "latitude": 39.907712086534815,
+        "longitude": 116.44701275126347
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 19,
+    "itemId": 4,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8n9f2wMCF7O.search.19",
+    "lid": "99TaEt4fmCL.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K·13薪",
-    "securityId": "pVxNiTNdtmhg7-b1665AEUCEeyEiN4D3BP3QKysOTmlqRnyFEfdu9R58kCslE3Fj-PbvoXzBWumiWsUs4QmMSSHJG4IGwf0z70JJT427E9UDa7AFRZtT_QS9vXgmwZyA1tIHOAMPq1Py-A~~",
+    "securityId": "FgCCYwZxc48GL-81r_zgsyl1pHH1Ol47LFu-ZpAzhbt223EaDJtdjHocRydXPe5HuWmvkTKN_IjgUCCSLcNHlqsDtU43787VKg2SUIrxfExDFhwzI0pIArZWMTI7YU2nIk54n0KouCMizA~~",
     "showTopPosition": false,
     "skills": [
         "五险一金",

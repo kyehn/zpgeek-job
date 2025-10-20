@@ -10,9 +10,9 @@
     "bossOnline": false,
     "bossTitle": "IT总监",
     "brandIndustry": "电子商务",
-    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190213/03207cd0cfa9683fa639180da7ec0855632f2ec895cff66f32dafcfe71a2e10d.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250614/7b5b554d84f9729c2cdd0a32faa0dfc415b98c016d7c800f2b7012e1b9ce9c466436e15a6dd73f44.jpg.webp",
     "brandName": "上海拉浪",
-    "brandScaleName": "500-999人",
+    "brandScaleName": "100-499人",
     "brandStageName": "未融资",
     "businessDistrict": "长征",
     "city": 101020100,
@@ -22,7 +22,7 @@
     "encryptBossId": "6871f177a339fbad1HR83dm6EVU~",
     "encryptBrandId": "0f5aee4badd02f821n1_3dm0Ew~~",
     "encryptJobId": "c983bba7bbdd93e51nF-2d64FVpX",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.234229,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 83,
+    "itemId": 66,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8eXsEyeNDoN.search.83",
+    "lid": "99UAs8Ssngi.search.66",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-11K",
-    "securityId": "VBwNPkbckoion-k1pk4zXkgogUw_8DqYqT5ej8oFcf0e-tgYchVi9cTqiLaY4YYEJwg4YuWoKw7Nb7Jr-1N39r5jwfkNEWatILdweKqfbKjxWWSXvg~~",
+    "securityId": "iyA5t2HQPYZ0B-m1xHt9TMG-DVNVDy8A5kXSgguKoST3rBG1RdpWhQsHNhr8z0f1N6HHPUBObBtSWjJbrNLyFXNzjTq567iN-fwrqkXZHRyqtFnGNhhr0muedzNpJvWZG-d4YnA2rBHw",
     "showTopPosition": false,
     "skills": [
         "SQL",
@@ -62,15 +62,15 @@
         "Maven"
     ],
     "welfareList": [
+        "生日福利",
         "五险一金",
-        "绩效奖金",
-        "带薪年假",
-        "节日福利",
         "团建聚餐",
         "零食下午茶",
-        "生日福利",
+        "保底工资",
+        "带薪年假",
         "全勤奖",
-        "定期体检",
-        "保底工资"
+        "绩效奖金",
+        "节日福利",
+        "定期体检"
     ]
 }

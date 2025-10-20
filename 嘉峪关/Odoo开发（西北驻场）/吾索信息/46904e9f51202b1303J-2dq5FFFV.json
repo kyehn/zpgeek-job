@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 15,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fSlYJRPpJE.search.15",
+    "lid": "9iqmw7HVsv3.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-8K·13薪",
-    "securityId": "odxDXT7jbu4dS--1JkWmtaQSCreOoUQgpZPnEdK5DyrysNDvJYvve4O8FCh2XkByuVe0Gz3XlG8TmJmXPRGP9W_lfVtnxuCQWPMRCkow8qcjFYF31YG90h-Sm6WI9Kj16cSeYDsF8B-kwZE~",
+    "salaryDesc": "6-11K·13薪",
+    "securityId": "-aTGeOnamJyB3--10NqIUTetalfN8-0bMev0vxerYGmIJIr1jM2E2V8os0_oE3cMMNxFVBJur0XB_63xFbkgNewT3X5l9XEOhOnzYt04iZuombUabxt4wjc2wDGBBPrg0dKgfQfMXL6YhbQ~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "Docker",
-        "Oracle"
+        "MySQL",
+        "有前端经验/技能",
+        "Python"
     ],
     "welfareList": [
         "年终奖",

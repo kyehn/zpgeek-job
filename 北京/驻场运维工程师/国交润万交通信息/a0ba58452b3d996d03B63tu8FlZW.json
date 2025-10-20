@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210618/62a0fe53212aba72358d6e94db0b4133f4c832c21e534762efe3a2d56fa3f48f_s.jpg",
     "bossCert": 3,
     "bossName": "黎嘉淇",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "hr",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210525/d5f195acc5903993fd4fd4f037201e7caee8646532d43a0a63a99f094fc7606f.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "e37b03cb87405aa133R939-4EVQ~",
     "encryptBrandId": "abf9933e6195fd1a1Xx_2Ny1",
     "encryptJobId": "a0ba58452b3d996d03B63tu8FlZW",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.978831,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 83,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,27 +43,28 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8hlD371LDzt.search.8",
+    "lid": "99Q8b7Ovnva.search.83",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "HZs30iO5wD9AH-p1rqZG0-UrOVEGu73giZ-7GMNAfb3lB_boNYGq2KNenCnR8r-i8U_tZs3WZNIyogiDOTURf3imdzYCycehyp-6uYwQJVbx2otyVNTJ-2f5ZKNZhtd3X243vC0Q_JdMjaz_TCe2",
+    "securityId": "hO_g2Fx4miAMj-l1PhHIrMQyn_JQ6YCRX6yR6kRmLw88vpAoVK9zaf-39nymZsDFir-TpsrrhbQ0E2m7ve5myh9CJxRJpFZpikusSWzgrNQ_bKApM8f6NWW9t1h4PkTZ2dC-CUk7IAo~",
     "showTopPosition": false,
     "skills": [
         "系统运维",
         "IDC机房运维"
     ],
     "welfareList": [
-        "年终奖",
-        "带薪年假",
-        "五险一金",
         "零食下午茶",
-        "意外险",
-        "节日福利",
+        "全勤奖",
         "定期体检",
+        "带薪年假",
+        "年终奖",
+        "节日福利",
+        "员工旅游",
+        "五险一金",
         "加班补助",
-        "员工旅游"
+        "意外险"
     ]
 }

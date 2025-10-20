@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "番禺区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190902/b44ff024eeb2b2f83c3d3a29d9c05959e98fe144ca3cfca5e1fd25ef9a5708fd_s.jpg",
+    "bossCert": 3,
+    "bossName": "陶丽丹",
+    "bossOnline": false,
+    "bossTitle": "行政文员",
+    "brandIndustry": "学校/学历教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "愿达教育科技有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "市桥",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "088c2366a5b6b05303R_29y4EFE~",
+    "encryptBrandId": "86ba827655f4ce9b1HJz3ti8EFU~",
+    "encryptJobId": "90d9928858247dd503x72dy7EVRW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.934987,
+        "longitude": 113.3807
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100302,
+    "isShield": 0,
+    "itemId": 78,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "c++软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9fA2V3QJk1m.search.78",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-11K",
+    "securityId": "dhMMRjCc08gQ7-o1uXWe23_ySap5BSJ97sOTpHdgV3wXfFDd1VhtCvuOcR35PUo6scNFyiJA_xV802ZKWAOgC9j1hT6-SJyTlEJaQxpSYrNlHs0wVgwxH5gCxjBx4DDJCgh_eWU7S6IXfQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "C++",
+        "鸿蒙系统开发经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

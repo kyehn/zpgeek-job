@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250905/607f1f3d68754fd0fe039573d1bf916b72231f63e154e74901dfcd564841f29e713c88b889bbedc1_s.png.webp",
     "bossCert": 3,
     "bossName": "郑女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200819/88f9b97d1d589306e1390c42b43411c55ca21cf3230bc969f17ba35f3212493b_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "509e4d0167e6ddfd0HJ93t64GFs~",
     "encryptBrandId": "8494fd8f27b7665703J42dq4",
     "encryptJobId": "933734110617161e03F93Ny7GFpX",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.18404,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 13,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1BPpGYlchsu.search.36",
+    "lid": "9fB9bf7zxDO.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "9atehiUwXfW6d-81WkeSipX8QS_PVTBPN54Fd2mXEtznCi4pq85tFGzIxa2-zEvDLrVppPsowR_OMcSPuRj-pZAqevyvdEdjCEvn7WXhgkOrhZQZTe5Wa7aYAt6Jl_Lzgkh_SbRRxHuD7VgYxUBhsDPmmJZpod6i5ws-_TMjA-GY9t0~",
+    "securityId": "zyxy418McDzP2-X1GIVuEgB9fuz456QEKdUEzWQcTVxfj2tfnfOgtzqA59lpGVOcTmTFj9a9s_YcikK4ZdHYFgeI65I6oFuDeyyd8id_xDz0lJfaIb8UqayAmY9NYBXN0pi32zZB9g0~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维",
+        "需求沟通",
+        "项目管理",
         "计算机相关专业",
         "运维经验",
-        "项目管理",
-        "项目交付",
-        "需求沟通"
+        "项目交付"
     ],
     "welfareList": [
         "生日福利",

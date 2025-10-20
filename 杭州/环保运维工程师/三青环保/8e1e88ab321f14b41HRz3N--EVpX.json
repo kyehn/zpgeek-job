@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101207,
     "isShield": 0,
-    "itemId": 68,
+    "itemId": 63,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,15 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fGvdjSuM20.search.68",
+    "lid": "9a7brhn7IP4.search.63",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "oW8ooL9IljVpL-c1ZSOwOfK4QxcSj6DhRR7P30AuZVLJpcKK4fzjvyWpeCtW35Vu2Ndynji3YJHi3AdYseqec068JWgE5iyj7VRxmltJe2Qzl_wdt-TAtG0a0NvU94Szknzqm2-mQGK-ygHlWvOum8khGOE-eg2HGvx2jFDvzYvwDHTirQ~~",
+    "securityId": "t30lCilBaVw1T-a1sIrUfAfSXCmNrdZh43K0N-SeAFdb_rkoN5D0uiIgXbvGY9iTNU2i7qQ3o0vLOtIU3eznq7amu7ywRvd_1Vpymqv84I-4GwUXlgFYU2RDMyoPgZB-4LLyAgynLGgG_jXJWZxKSrr1lbqpKIMz0b_ntO4iD_aQIarX0A~~",
     "showTopPosition": false,
-    "skills": [
-        "电子/电气/自动化相关专业",
-        "运维经验"
-    ],
+    "skills": [],
     "welfareList": [
         "定期体检",
         "节日福利",

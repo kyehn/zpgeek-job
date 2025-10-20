@@ -7,10 +7,10 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190712/69111c6ae3768d533ca0be89866f92f218c9f8aa2cfbee5917f77230d59044fb_s.jpg",
     "bossCert": 3,
     "bossName": "纪女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
-    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190927/c249061c75f9533012700f287944ba1bc2ca017a68ab15556148624349daa298_s.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250730/7bf6f160950405e9fd6a996ab84a3d4ca83c77fffc4ee80c5943c3b54298c1633aa8d1ff2d33f866.png.webp",
     "brandName": "北京润通丰华科技...",
     "brandScaleName": "100-499人",
     "brandStageName": "不需要融资",
@@ -22,7 +22,7 @@
     "encryptBossId": "bcfc0662947cc73a03d-3dS4Elo~",
     "encryptBrandId": "ca84f55cdacb1cfe1HV_2t21Eg~~",
     "encryptJobId": "da7f0392174785d91nFy3tm8ElRR",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.975689,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 29,
+    "itemId": 25,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8hlD371LDzt.search.29",
+    "lid": "99Q8b7Ovnva.search.25",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-11K·13薪",
-    "securityId": "14XiTGKTdEscJ-p1zUq5b2pm5QKl4cyqa_dcH23NpHt29KP1bLFWUdHRgWrsNKGF2QY96IpA9MSK6VHU9POVWN0vHZEv7aM2gwWWABiQUnv68zFgeJ6EZy58KLlqpKGtl3CU5P66afE0w5CWbE90Lw~~",
+    "securityId": "b8rW-yEvaWu9j-11TOJMMZP5RHO_V1m2wIN11pNTgaZIfSEonD6qY1QXML5tdK8l8zf_gyK6pOCjIX6vA5btgJ9Yh31BEfl0fIp2brHRgll0sM-01nGsDsH0u8SGbiNhYn967OSX9550",
     "showTopPosition": false,
     "skills": [
         "Shell",
@@ -62,15 +62,19 @@
         "Centos"
     ],
     "welfareList": [
+        "团建聚餐",
         "定期体检",
+        "员工旅游",
         "股票期权",
+        "法定节假日三薪",
+        "通讯补贴",
         "年终多薪",
+        "节假日加班费",
+        "餐补",
+        "加班补助",
         "年终奖",
         "带薪年假",
-        "餐补",
-        "员工旅游",
         "五险一金",
-        "加班补助",
-        "通讯补贴"
+        "节日福利"
     ]
 }

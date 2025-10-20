@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250916/607f1f3d68754fd04eb2f99636f9f19266f444893f5ddfbf59c84850cade946d9c395ad4197df503_s.png.webp",
     "bossCert": 3,
     "bossName": "陈女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 9,
+    "itemId": 4,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8bLmJyzzIcI.search.9",
+    "lid": "9a7brhn7IP4.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K·13薪",
-    "securityId": "NcVflBf4mqznV-r1rWKvZTAsUkUo-hpkHdMaBoeE0SdNCABxhrAb5bluhgY8aq6ZEW8Por_ssCA8pw6Gtg31a-hnmB58MWHLrJx2Pt7cwx4Rb0E5m4A5dhp9_IkPMq7D4Gq9ksVmyODPW0NFqRHVEGajMlKhzafP-bUpvdeusjGdEA_CXg~~",
+    "securityId": "zMhYEWG3LwjRG-q10Jg0CmQQv4qgIbTRQf11nv7rpI-pZJ4OJwcFfAIMMKP0TdL-mWO8PG6KDbYlJjYSmdMw16R-eOZraqfMdcftoYO-lUZa_2ND_lyIdPr1INbcqrIkWzRnLKliurANZg~~",
     "showTopPosition": false,
     "skills": [
-        "桌面运维",
         "网络运维",
         "Java",
-        "计算机相关专业",
-        "通信相关专业"
+        "通信相关专业",
+        "桌面运维",
+        "计算机相关专业"
     ],
     "welfareList": [
         "带薪年假",

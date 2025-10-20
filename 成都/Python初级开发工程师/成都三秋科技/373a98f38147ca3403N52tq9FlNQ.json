@@ -22,7 +22,7 @@
     "encryptBossId": "113646d0633aa5a70HZ-29-5FVVZ",
     "encryptBrandId": "e08f95e7e57775511XF62Ni9FFA~",
     "encryptJobId": "373a98f38147ca3403N52tq9FlNQ",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.57687334167341,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 50,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85cY0JENx0O.search.10",
+    "lid": "9fBF4d6jDQ5.search.50",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "HyqlyF5NngIcv-21Xi9xx1SnX5B6IXuDpMybuWF3n6SGW2xpPN3OCYuySspFMvyn4gGD5gwQAPPYHwSuBE-iELm4d7EwxPnZjcJK8lJhOXqeaI_jpObHnjOJXHFJSgHp6wTU2ydakvyRm9I~",
+    "securityId": "dUjQGEpWybJuw-l1Pq-Vp7LU_pVXj7adV9DmMXotwjCQia75iAEmeo_RxP5Fi5X161R1-_G_50V5fDHylUCseMhs1NP-Z15UM7ilvTyf2wJIm4-sgicEj5tX4osRIwcOH5he1xbRbayLCFU~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "Django",
-        "Flask",
-        "Redis"
+        "Redis",
+        "Python",
+        "Flask"
     ],
     "welfareList": []
 }

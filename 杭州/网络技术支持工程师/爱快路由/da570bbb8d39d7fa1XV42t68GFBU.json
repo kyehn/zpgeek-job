@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "华东区域经理",
     "brandIndustry": "互联网",
-    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211025/7bf6f160950405e90874f63f63c514bcadfb434638bcc4416a0c22ebec70f33be7b94b6fdc3f42bf.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250610/7bf6f160950405e90ea0b8527ded8eac7187a95904655fa56a0c22ebec70f33be7b94b6fdc3f42bf.png.webp",
     "brandName": "爱快路由",
     "brandScaleName": "100-499人",
     "brandStageName": "C轮",
@@ -22,7 +22,7 @@
     "encryptBossId": "ccd4043abfd20a790nVy39m0F1s~",
     "encryptBrandId": "6fe7895c4f4f953d33J83d4~",
     "encryptJobId": "da570bbb8d39d7fa1XV42t68GFBU",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.27291,
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7m8URwNHp7t.search.88",
+    "lid": "9a4XtQp8X1O.search.88",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "TFzdZrHUse2rm-X1ESy3h7xjKpqBwD-OA_2-_HD6C4Xexg8QpJGPbG-6E2Tb1pmupFmuSmS0s4OtKGMB2D9Nwglrb6rCUhAwI6Il5wESDhDomRKuAfd-wWZ61tChBjbhVMlC3SlBXw~~",
+    "securityId": "6z29fJP0Z8gmq-T1T_pEv68y_fLY4hiCJhHf58msV0jJmJVwI1gwmz8CvPA4MCYxuHHhC2OQLjZPciibW6UlmEumeYc2a_mYFYxbwhFeRDZqlLMXWHwVO5MUgovGs4TLNH1BrX5OEA~~",
     "showTopPosition": false,
     "skills": [
         "系统调试",
@@ -59,11 +59,13 @@
         "故障排查"
     ],
     "welfareList": [
-        "零食下午茶",
-        "五险一金",
-        "股票期权",
+        "保底工资",
         "带薪年假",
+        "五险一金",
+        "底薪加提成",
         "定期体检",
-        "保底工资"
+        "股票期权",
+        "零食下午茶",
+        "绩效奖金"
     ]
 }

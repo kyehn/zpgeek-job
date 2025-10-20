@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101401,
     "isShield": 0,
-    "itemId": 59,
+    "itemId": 77,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,15 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gKRibY39AF.search.59",
+    "lid": "9fvXtWiA9A3.search.77",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K·13薪",
-    "securityId": "CsiWmtlW6MIgu-l1prBrUxwXC_Dizd5LkxBN1et7vC1EyuWegkfbSc69r2spb6I59tSd_YqQOh6M2kuta3LVICmqA3eQGT-7pHb3YxcP6ic5y7H3GXPHQalhxJiy1maa121yg8oKiSkActFmWx2fyncNBB1mlDu1hY-qw4_q23Uvki7NgPE~",
+    "securityId": "n1aFyBp9PMuV3-I1Zi_gqk6saf9i8pMWUHhEYky3YMD0Y7wD4sykgTFaqETlfx6Mw6QmRsXTKk_55i4RFQssjqPfbU9E8VHviyE_d32vWEjhYTBTeYvpBqydTrTgG0p1ZIDtkocpQ5TXdOEUWiZqMMF9Ar5Qm8aiwFu2AVtOcInflsQrZyA~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "摄像头"
+    ],
     "welfareList": [
         "五险一金",
         "带薪年假",

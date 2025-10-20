@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "董女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "经理",
     "brandIndustry": "美容",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230210/7b5b554d84f9729c9314596ff497755d036d6e7cf8d075eb7a4224c0b0742966117a3ab00340ed27.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101111,
     "isShield": 0,
-    "itemId": 38,
+    "itemId": 28,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gUu67wIeRr.search.38",
+    "lid": "9a21ByNqMbe.search.28",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "Se5ThJUm2FOOM-N15mzkhevVXtLNmOpX6YTzDRrxb8YSoCOhrwZSe-bPaeQyqe5bURpQ0w3G-FNCYxIzf9SaY3f0fdpR6UMu3xuYgZtRjDxvBYDqUJghrrXdWAZbVoXkZsT-G5lWQAnScxB9INEyvxa4wh_GG-OdzJ_GuOWUUXO36Q~~",
+    "securityId": "Iw7mvt9xsx4Ej-d1HkayVQsogvYGdXoegTYkMtC9yDyKbui0RHZIU77LdIM41ACJDDuBPQvGi1DKxy9sZLkVCXFWVPFGy3lQMvL5L5hBNMKoEeVvBkqfd5ePRoVmBFgFTkWJw0m0Ng~~",
     "showTopPosition": false,
     "skills": [
         "招聘"

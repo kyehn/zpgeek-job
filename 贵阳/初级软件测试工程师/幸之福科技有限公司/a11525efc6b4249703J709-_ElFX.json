@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8wkyd6TPvau.search.16",
+    "lid": "9iwEpeVfFDs.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "yV9sD1wVHjJUE-K19d8f90xv-fqtI_TAnrvBulgxHxRqxAGRe5nn5-WbT73lrM2txcSncgEdxy-tkiRGsVlh-eucCh_Z9p73Yejl4ivLkivvdNQpWmamBHEAGyAH6j9d1mYgk9b9lJ0u4cQ~",
+    "securityId": "oONihUzH83u1N-I1IpnoFONGDwTazFJLdmQMxGE5S9VATSbNXgjai7Tl054A8eLPFNTShbVP_Kc7Ls6LyxCBh48xTwVYovTGK7hiyTrdh69VmK5XkukIiUY43FT5NmQ2wrHzL8nqi2DTKPQ~",
     "showTopPosition": false,
     "skills": [
         "功能测试",
@@ -62,5 +62,11 @@
         "C++",
         "理工科"
     ],
-    "welfareList": []
+    "welfareList": [
+        "绩效奖金",
+        "保底工资",
+        "年终奖",
+        "底薪加提成",
+        "五险一金"
+    ]
 }

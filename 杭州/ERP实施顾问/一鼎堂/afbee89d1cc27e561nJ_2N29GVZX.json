@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 42,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,22 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gJ21orQLZw.search.36",
+    "lid": "9fz1dRGSiI8.search.42",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-7K",
-    "securityId": "cMLydyaMhY3KE-I1HCnaHXQh9bSVBtFjhKaD5D7eS6YHtgontM5C-wUK0GaPDyXlspTEScsgpn1UmDG-tMO-MEeWsGlR06DrnFfMb1i4rYyBGM_cTYqK_H42aHmIzhxz9RPEn6xkalQNQxg~",
+    "salaryDesc": "6-7K",
+    "securityId": "XLw76vvAqVV64-m10AkEHCz7iU4dhrdztPOcMbJAHBufbzIj-Y3DyxDBH2EJCxXK_Uapz-qJPxzg-Oylm67Q-INnR1DutEW9vx_15EEv8Y3wpMkgixdeFvhMgw8nic3cYvHLNTC9aYMjZ9A~",
     "showTopPosition": false,
     "skills": [
-        "ERP",
-        "OA",
-        "软件实施经验",
-        "可适应出差",
-        "物流管理",
-        "大数据技术与应用",
-        "硬件实施"
+        "硬件实施",
+        "电气工程师",
+        "plc安装",
+        "可适应出差"
     ],
     "welfareList": [
         "团建聚餐",

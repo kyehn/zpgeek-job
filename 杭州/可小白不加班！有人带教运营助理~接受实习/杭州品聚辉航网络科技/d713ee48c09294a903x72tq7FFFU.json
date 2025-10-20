@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210407/19b93dfbe81470f8abd53a343eaff38696241138d6a2fbe50ab8bfd158f71af5_s.png",
     "bossCert": 3,
     "bossName": "梁女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事专员",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240524/7bf6f160950405e9bb08eb530c4ca6b9c968aadc4ca2b91f268b2d9f0c03bab0a4c5613fb09f5626.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 18,
+    "itemId": 42,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gJTsnT6fBb.search.18",
+    "lid": "9fyu2Bjb7DF.search.42",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "AR_mIJ6iJ4bi--q1DSa1NGy_RPUVja9gA7X1tAVPisfBq2YZfbkjjFR4iZC7TBG966QJZ5_aRF0sCBanwvLecZbAeB2opdRuodYqddTO2Z339H3ccmbQENWNYj6oSB1Si2CiRXarc_WikCou2vA3J-3uRd1X7K7FeLc2g1d5jEbvLkotpg~~",
+    "securityId": "8azXRONJNWk67-R1o3Mtj3oVLxcLPnudqwvvHU39dSlpANa18DJlxZhP6_eyI2b3VKMx_ojMltATRdxbRmMGE8bVmiAvGJ8HLjGFWG4bw4fZW_14K-RTK47y2NqkjTq4bTHu24PR_htX9w~~",
     "showTopPosition": false,
     "skills": [
         "医药保健"

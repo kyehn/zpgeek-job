@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "奉贤区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "刘易杰",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250815/7b5b554d84f9729cecd93e13dfcf8a3704001f68ea35280e8e69a47522a1c3d711a38370de90d842.png.webp",
+    "brandName": "上海庭研科技有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "南桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5daa6056cbd639530HZ-2tm6FltT",
+    "encryptBrandId": "d6650fd91660237403d53ti-GVU~",
+    "encryptJobId": "6d5919e8f61a2b9203Jz29-8EVBS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.941376,
+        "longitude": 121.440584
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 41,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "c++高级软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "99UAs8Ssngi.search.41",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "X0NswcKF_IOvq-U1KCUHLfwb35KzepNU21NR9p76BWz8E2LnRTx21SxaaHAkEERcORLXaYtkgF3EatrnHb0_eF93GIld34pSdZ3fvIMlIRaTAmYjlWfJQ02nqe7DClCH0TFgPXFSXiuk2jI~",
+    "showTopPosition": false,
+    "skills": [
+        "并网逆变器和电机驱动器",
+        "嵌入式软件经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250702/607f1f3d68754fd0ce475ae694f80801ccf4c5088bdf01c0466fb8ad3b3e52a341c10939061298f4_s.jpg.webp",
     "bossCert": 3,
     "bossName": "方女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事专员",
     "brandIndustry": "医疗健康",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221111/7bf6f160950405e9a9a7b868fe1b343de0fb8f2aed981c749d393fa48979b298b371176943fcacd7.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 46,
+    "itemId": 37,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1eBG255jVgE.search.46",
+    "lid": "9ivGdvaGTS3.search.37",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "TqjIBHS9FBccF-U1rH7NyAS-dyxnch1RigA5Wb_g1v9Gl4ko3b7hp8XZN8PWmHMWSBjts3WMoMGgLErCgaNBAnLxsNNlL3uJl_Iieol7j9WQu3OkUhEZC1f_74aFPigLrl45FwdikWXKV-fRZZc1-Ia8quYn74s6tavrGw-eomS9Rbc1gtI~",
+    "securityId": "UwL5trXamIlXq-X1jLUDgvwjWCuof4YnX8sxMvyatrXBHBZ5NMEWQc6P5Mg5kYqRpjYsrqhHk1q4gt4_MyQP0woCLhv7A7HCb0JGp1xZiqIFkhg6omBY-Isc3RTTX6O_w6rCraR5Qgintd0~",
     "showTopPosition": false,
     "skills": [
         "系统运维"

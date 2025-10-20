@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "郑冬园",
+    "bossOnline": false,
+    "bossTitle": "行政主管",
+    "brandIndustry": "光伏",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250224/7bf6f160950405e964d8c1f7aae2cfd42c800844a87ee945ecd150ce50404a6ef91857e4aede474a.png.webp",
+    "brandName": "顺通光伏",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101240400,
+    "cityName": "抚州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0c0098f3cd816e260X1_2t60E1FY",
+    "encryptBrandId": "1f89fee831e87a841H1z2dW_EVA~",
+    "encryptJobId": "ca09f7981bcb39f303x83tS0ElVZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 27.926408,
+        "longitude": 116.742757
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101208,
+    "isShield": 0,
+    "itemId": 53,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "后端开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9issD6XCkxD.search.53",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "2pwLElYhqSC6n-p1wXyMA19pVniARzCyUv5RyxYY2SOGcs02LY01fYpM-vB25JQwOCXfiSTPBZLWUJJe3usc9-CnEIVTHoQ2qqq89ZmvPrXz_Dgzgnkhbhbkekpudq9pCI4U-6RYLr8BRac~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Spring",
+        "MySQL"
+    ],
+    "welfareList": [
+        "生日福利",
+        "包住"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "岳麓区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "丁冰",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200416/b11b7e28520c8b6ef84dc0c10aa9008a2e37777ce599cf08daef91bc57edd291_s.jpg",
+    "brandName": "北斗微芯公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "青山镇",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "714364b7276e79141nR53921EldU",
+    "encryptBrandId": "42e1ad47a499eab90Hx72Nq6Ew~~",
+    "encryptJobId": "ea4ba30f62683d550HB-2ti1FVI~",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.235835,
+        "longitude": 112.884005
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 72,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Java开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9ivGdvaGTS3.search.72",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-11K",
+    "securityId": "09DZ1KZqSSZgK-W1WWirdsOO04t1WtSlqxOjWNZrGh0f3Ci1UFjN1cLvvv_6yFPXibek7Q89kJ-YTl8eR4RueSt1-MAHE9r8UCTWodrExOc1r6MKXg-Qq1oaRNu1NPTny_lbU8352J9x",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "spring cloud",
+        "后端开发",
+        "springboot"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

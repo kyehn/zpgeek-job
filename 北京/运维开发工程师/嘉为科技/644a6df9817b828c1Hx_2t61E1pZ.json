@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 86,
+    "itemId": 48,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,27 +43,26 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gdZd8M60QK.search.86",
+    "lid": "99Q8b7Ovnva.search.48",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K",
-    "securityId": "rglWNs0VI4Nz1-X1nLOSTl0KWZymqJCQfkHwz_KsNoclBqtALMlUeJjoQE6uhCv4QFtuULPn0YWJvWm23udAruRh1HeRJ_YMmdUD50vsajDqAyCEXOWztbRm31opGRpHQlEYAop3yBJC",
+    "securityId": "JrQ8TSyqjM0Jw-l1I2Bk7qQkzYaB13ElfvsS6hsIty_UQCxgm27ReAWQDlqLUlh-WArB931WeHH-k1__sYfdQxF0H8PA9-UQxItoHTIAVuxOkTmBpeqA7gDKA9Qd4uxLsNHu9pc3DbjD",
     "showTopPosition": false,
     "skills": [
         "Python/Shell",
         "计算机相关专业"
     ],
     "welfareList": [
-        "通讯补贴",
-        "股票期权",
         "年终奖",
-        "节日福利",
-        "带薪年假",
-        "绩效奖金",
         "生日福利",
+        "带薪年假",
+        "五险一金",
         "定期体检",
-        "五险一金"
+        "绩效奖金",
+        "股票期权",
+        "节日福利"
     ]
 }

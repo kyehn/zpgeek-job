@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "蒋鑫",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "技术总监",
     "brandIndustry": "智能硬件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220210/7bf6f160950405e956ff53907905316b1053224906b5ccbfda9cfab905a968306184761b993eb7bd.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "75018d114a1267520nB43968FVc~",
     "encryptBrandId": "8eae7a196185bcad1HB72tW8FQ~~",
     "encryptJobId": "5fc5f576c63c98ec1Xdz2NS0FFpQ",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.265225,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 58,
+    "itemId": 47,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8eXsEyeNDoN.search.58",
+    "lid": "99UAs8Ssngi.search.47",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K·14薪",
-    "securityId": "HoyztEmHoD2Ca-T1i9lgaDroBNVSZ49bvLzS8Up5r3xzC6yzp2Kw8VNaVR0Y-urxVe3tSXAZWS8YLowuSdpUj5ysgmssUy35Q6IvjP_WhpIDBI3VLuBnd4ROOE7jkG87JmeFqCYCupX64VJIDnt14g~~",
+    "securityId": "emSHuwXkXJCnO-_1Z0hsgBcXzy1SM43yXqAQukirI4NB2UP2Xb5ufuVyerH-RePnNHZx2uIhoET0aB0VKjJAVx2EtobWDLpSANcxVa1NJbpVXm3uwMSmBophhAqXetbJ59VNmtHtFt6R",
     "showTopPosition": false,
     "skills": [
         "Python"

@@ -14,7 +14,7 @@
     "brandName": "朝歌科技",
     "brandScaleName": "500-999人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "高新软件园",
+    "businessDistrict": "科技路西口",
     "city": 101110100,
     "cityName": "西安",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 34.22365,
-        "longitude": 108.878665
+        "latitude": 34.228946,
+        "longitude": 108.873672
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 66,
+    "itemId": 56,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6ZdA8OUEXTM.search.66",
+    "lid": "9iwEpeVfFDs.search.56",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "j3TPhUje5x_3J-R1C3EMErnSGzp-DA44jcR1HvomvkV0FQWGiEYoVbNBFSxyKYw8rrRXZP_jj6P9oqYlpflUd5FS9FqixOwLLNPie9WeQORphHNkSwnYuAYgYnJsmO-MlX4JHOejfahT01WZCBMQ7Yov6htTqb28kaToUnbv2Zwf-Fep9kY~",
+    "securityId": "l1iuPrHcRr1xL-d1Y-6bHOepff9SfTTei0ztEyAznhrz10INDo_X5vlBVRpLBk_ChIGna3qj-jXjjahf7SbLZ_vTnDIsIW8MJegOE1U1ljRX0R4UdOHd7dptQfTD9rpel3UVy27BWdQvF6exV-JTlRXR7Kd9fSFnOKCq0ald38BROAmzd4I~",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
-        "性能测试",
-        "计算机相关专业",
+        "测试工作经验",
         "通信相关专业",
-        "测试工作经验"
+        "性能测试",
+        "功能测试",
+        "计算机相关专业"
     ],
     "welfareList": [
         "团建聚餐",

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241026/607f1f3d68754fd0ecaf34dc42b60cdb66350df157d2c765aeef95241b37fe4cb6b1b05d5ee37b5b_s.png.webp",
     "bossCert": 3,
     "bossName": "付先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "经理",
     "brandIndustry": "企业服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250915/7b5b554d84f9729cc3b336a83f6126614065b18ee926f4b8aeef95241b37fe4cb6b1b05d5ee37b5b.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 10,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gJTsnT6fBb.search.11",
+    "lid": "9fyu2Bjb7DF.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "5diq19CGo3cy--S1nxRtTNyW9EyQP1CJjdt5q8a5_AtgcZLSsp3NVZG-94OcN8H9fiNkXc1YmIDNS5YEE7P5Tb0OLaqK-l3FR5PUO5-ELNGdYZsbDhHZQS7B0c43SuD0tZ2-QDpdXn2H3-MLCfCsxVjQSnvWoIOWIIBUqFB5ELhobcvTevg~",
+    "securityId": "e5hfQPwP98yfn-z1jmcngMqBO6mmfgDJwxoZ8XYbqxwhRg0GbFXxRj1ka7I68kso26tc_r0cVdS36zzZ7bUEOuDBMvfoEehtBUh6JgLsxMAMBETc_iNNLAZMxaG2hgOlGDtr6AxzWzfNmpI~",
     "showTopPosition": false,
     "skills": [
         "不接受居家办公"

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "路北区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "人力",
+    "brandIndustry": "铁路/船舶/航空/航天制造",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250702/7b5b554d84f9729c1f6402cfb577aa16156ea4e8fe968bc8e45038eb43bd3f94c4bcb198bd8cc6b4.jpg.webp",
+    "brandName": "唐山坤翼创新科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "火炬路",
+    "city": 101090500,
+    "cityName": "唐山",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ba8bc0ec4c585e100nF72Nu9E1BQ",
+    "encryptBrandId": "15b1b19f31a058e21XF82dm-ElA~",
+    "encryptJobId": "4d5065304d28e8b603J72Nu9E1dV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.694127,
+        "longitude": 118.162455
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100905,
+    "isShield": 0,
+    "itemId": 40,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9fA2V3QJk1m.search.40",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "NigFF7xVJZK5D-W16xzgoi2WfNH6YLzoyvc8-7Z7kbwIhZfHYE2sQXhTws_lr8Bi0T8utSiDW0fDodLKMLDCjPwdBu-4KY6xaBKDaflLvISUBU4X-zwfv9ia_RL1Xh6CR7ivOLxgr-Qw3oc~",
+    "showTopPosition": false,
+    "skills": [
+        "C++",
+        "QT",
+        "Python"
+    ],
+    "welfareList": [
+        "免费工装",
+        "餐补"
+    ]
+}

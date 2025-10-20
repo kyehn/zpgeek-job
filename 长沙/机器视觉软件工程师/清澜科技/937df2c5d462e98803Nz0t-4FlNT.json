@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "岳麓区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241022/607f1f3d68754fd04e03f0d3ab8020a51ac04a4321d606d9f3fb3d87bbc6e44f9f3f494cd0ba7f34_s.png.webp",
+    "bossCert": 3,
+    "bossName": "张先生",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "自动化设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "清澜科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "含浦",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e874db69614a93780Xx609i7EVVY",
+    "encryptBrandId": "14ed958a29fec7771Hx629m4GVM~",
+    "encryptJobId": "937df2c5d462e98803Nz0t-4FlNT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.13671,
+        "longitude": 112.948522
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100914,
+    "isShield": 0,
+    "itemId": 39,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "机器视觉软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9fA2V3QJk1m.search.39",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K·13薪",
+    "securityId": "fVXybbwahOOtj-j1EXKyiQOM8YRTwNemiQ4y5CLDw9PrtAO-GRdFhN8W7Jk4eJSo8GczcEk53mfXnmYNWZN2WByG_kKmBOxd-8KCFWV-YHHpdVzNPKFyDZSAy_gZ9maaHZcSaBQvMJBLVl0~",
+    "showTopPosition": false,
+    "skills": [
+        "C++",
+        "QT",
+        "机器人视觉"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

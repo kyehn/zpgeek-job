@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "市北区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211124/607f1f3d68754fd042535910cb2318abd4c4e32f05b8daf9f2db5aac499c09aaf2125c52485ffa1e_s.jpg",
+    "bossCert": 3,
+    "bossName": "弓晶",
+    "bossOnline": false,
+    "bossTitle": "企业法人代表",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250716/7b5b554d84f9729c1516579380e50dd001200ffbb0ca7392f2db5aac499c09aaf2125c52485ffa1e.jpg.webp",
+    "brandName": "纽莱格",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "台东",
+    "city": 101120200,
+    "cityName": "青岛",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5e8f8a75906fae2633By3926GVc~",
+    "encryptBrandId": "99f545696a2d018f1Hx_2d24F1U~",
+    "encryptJobId": "32290b7c62f24ef603Fz29--E1RS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.074165,
+        "longitude": 120.362185
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 62,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9fA2V3QJk1m.search.62",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "DGDSyMoAjvYV2-u1v0vaR3ntnBntUyV_tVETB-MPiDw7stVhSh5gsI9G1cfEiUCZQJVpI7KYJtWc0dO8lcs2DqF0P6PH6B7KoiJ7JnpYqIQKdgs6vY7YVzj8yj_nvPEUM6fnW7hdX16h8A~~",
+    "showTopPosition": false,
+    "skills": [
+        "架构设计经验",
+        "云计算经验"
+    ],
+    "welfareList": [
+        "年终奖"
+    ]
+}

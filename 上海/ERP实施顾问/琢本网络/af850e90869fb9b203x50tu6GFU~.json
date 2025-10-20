@@ -9,11 +9,11 @@
     "bossName": "范轶殷",
     "bossOnline": false,
     "bossTitle": "人事行政",
-    "brandIndustry": "O2O",
+    "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20161229/7431cc8e184818a044598c62449afdaedb2cd485e48d9760d203e4921bf7283c.jpg",
     "brandName": "琢本网络",
     "brandScaleName": "20-99人",
-    "brandStageName": "不需要融资",
+    "brandStageName": "天使轮",
     "businessDistrict": "北新泾",
     "city": 101020100,
     "cityName": "上海",
@@ -30,9 +30,9 @@
     },
     "iconFlagList": [],
     "iconWord": "",
-    "industry": 100008,
+    "industry": 100021,
     "isShield": 0,
-    "itemId": 82,
+    "itemId": 73,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4dFDpP4tSi0.search.82",
+    "lid": "9a4eUQJjt3e.search.73",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K·13薪",
-    "securityId": "ID8QZxFNCWOJR-f1ZaI0QaLnb3mP3q5nR4XlgFXmLFVoRWYVvqhlceoRSNNc9JhsI8EZv97Un5cvdYk_R2v_VsUwXozZSy631HuVbtpf0luZaIilO-jg_Rol0BOpJeklIWSg2wFP5A~~",
+    "securityId": "1wiDRXId1uTKF-F1Q9IN6BxVgK_pjRJQbGQnY7ZNnyHL5KOI85Lsrb5zOe9N5sLCd1kmwqGwue_KnruHDES0vfj8j0FAqQaGUnNz0h_llc3FZXrcTL-t3kNQAaOvD5eY4P0qzATZ6g~~",
     "showTopPosition": false,
     "skills": [
         "项目管理",
@@ -57,10 +57,13 @@
         "系统架构"
     ],
     "welfareList": [
-        "定期体检",
-        "年终奖",
-        "员工旅游",
+        "团建聚餐",
+        "法定节假日三薪",
+        "绩效奖金",
+        "带薪年假",
+        "加班补助",
         "节日福利",
+        "年终奖",
         "五险一金"
     ]
 }

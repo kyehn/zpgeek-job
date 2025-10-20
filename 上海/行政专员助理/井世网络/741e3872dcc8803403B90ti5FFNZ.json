@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
     "bossCert": 3,
     "bossName": "侯栋栋",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.025899,
-        "longitude": 121.715225
+        "latitude": 31.03961808348594,
+        "longitude": 121.72871293246475
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 29,
+    "itemId": 83,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gUu67wIeRr.search.29",
+    "lid": "9a21ByNqMbe.search.83",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "sRDegETrowpWV-S163LaD2MMGBkIuhC6JFDvh5XRaqMgyWUtYrFafnXi2OM2dAmO9c0knfuWPOarXV6q-miMBtL0kKkG1JP80v4gpSZw4P7uU_sNOs8DWwFhTPZimTAcaxj4LdUO2rI-NHSBuTOq4TNxUkFvN5QyVUjcP5T0loSuliGzWw~~",
+    "securityId": "KRm3-VNJrJxv9-Z172o3B1APV5W5w9D2Oo3GNAP0-mcjCX5BswIHJCHa-EJtgmQmRu6LoKmqu92IunUL_gfUKXLDnyOMgbqjLxwGVL-TS3YqbPCKcQIM_q6i5bGbUp8Y465GkA3bcpdbIQ~~",
     "showTopPosition": false,
     "skills": [
         "档案管理",

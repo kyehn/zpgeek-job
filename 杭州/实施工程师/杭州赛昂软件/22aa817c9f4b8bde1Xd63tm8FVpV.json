@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161213/ff70c18b124896ba58e1bb62ffb7c3638c7dd922ad47494fc02c388e12c00eac_s.jpg",
     "bossCert": 3,
     "bossName": "邹文龙",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "总经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210521/2b41d69f2ee1089d56fe55b7fa73454f1962500d20a2c053f5e63eaff67b3d96.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 1,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gJTsnT6fBb.search.1",
+    "lid": "9a4XtQp8X1O.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "3PSjyUXaoNZV4-M1XauiM1q3DQjRi0tit2wqM8R-UOcO7I5c80fxNIWU6ChQGfaKiOSQTBP0bEj5bbJVnmnaKeQcXIADOIG2bha099v7I3Ob7wJQL3W1k8oeocdmtJVsVDkeOHmhdeAAT7UAqOZPO03UiJyx6wQ9m9c_rfK-bl3oKeg~",
+    "securityId": "vaQfzFZyBL1k2-x1_g8EFRU87VFhJmLue2kIxMdLXMI-OH8Du0ZLBdGroBIaZfA0jhOYKHbc26DeRfCcb-9vg_fEXT8Wkg3gDCqIgZiwOgIoPhMYgr2I6yxXrsfBfQ3Qt4s9rIV6Pqw~",
     "showTopPosition": false,
     "skills": [
         "实施工程师/顾问"

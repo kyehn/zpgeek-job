@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5VCfnaW7Le2.search.28",
+    "lid": "9iuaDkewTCu.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "6LykxOZHe6qCu-x1isAs7HbSYY_i0lpAXbTyn82UFVE0W_hoRm2YmTi-wGsNAO0JVibDzKde6v_baP_WAxhj96WYtjquaqIkbBSQ_GIdg5hZqmsNbordlnlZrQhf1t3qmrnp7E9Da-78qIM~",
+    "securityId": "frXhFXee9KLQk-01wYm3Kel4zV9DGkfDIcxD7hMqKr3aIVLjIqaydDq2Ee57NX9sSA0j_a9rW01R84VOvEEglNZMcYlLPYlU9JvmUbO_Si9t951kW66YN8tOgL_IHFLGkSpDlrmndmm53Eo~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "Spring",
         "MySQL",
-        "Redis"
+        "Redis",
+        "Spring"
     ],
     "welfareList": []
 }

@@ -8,7 +8,7 @@
     "bossCert": 3,
     "bossName": "黄涛",
     "bossOnline": false,
-    "bossTitle": "招聘者",
+    "bossTitle": "总经理",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "杭州宇宙飞行设计",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 85,
+    "itemId": 65,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "63oyZN3u8Gl.search.85",
+    "lid": "9a6pFBYDuFv.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "MoHAlntV7lViQ-P1MM0HxnzkK3YhZsD6v__OJcWP9rB0y7ir2XEOdHZnw3Ho_8mbc-Ok3uSKCo__qdOux-TwFD_-iJCHJ6Wl3RRI43-FWLBOH5rWpOK3DLU3Ie-732i3NaevbtnbTLcIBbw~",
+    "securityId": "WWdZUWfBhWFFq-q17Uzh54zeAWrzQRMcLfNqlgYgp-GnDCPY57QNxI_Npc43H_r9SGtxAs1jf0_9jqqEagO8RMeeJPQuwlfEmhxnqUcgwgH3s-Ktg23kTOS8Fq4s812Ceqvq2GiY8LIcqXs~",
     "showTopPosition": false,
     "skills": [
         "电商"

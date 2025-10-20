@@ -25,31 +25,31 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.332425,
-        "longitude": 120.117714
+        "latitude": 30.334695,
+        "longitude": 120.117808
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 46,
+    "itemId": 42,
     "jobDegree": "本科",
-    "jobExperience": "经验不限",
+    "jobExperience": "1-3年",
     "jobLabels": [
-        "经验不限",
+        "1-3年",
         "本科"
     ],
     "jobName": "java中级开发工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6RMMwaVWUSX.search.46",
+    "lid": "9fvXtWiA9A3.search.42",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K·13薪",
-    "securityId": "LendeGVlhlxHr-718ycQPJj-jaRN9Xm7aNfU8_cRd_dAivdfqWJ5jHW6vXhiyooLQ09uFaQjOJ_9ssG8zVtxEK2TfPQ0Q1FCmvH4dICXrUtGAPp_Jza3vP22pZ2NSjioDf8NGi3MLn18",
+    "securityId": "ik8hBEqPmj_F9-H1NBiZ7RNGSIGPcDvHwkCRNAywTjlwuG8jnAekTQ8U3DhkPEZW_n7TRnIjKGlH1lvl1bzWJ58BfjaSx_BqxfM2txmixI3a9fW2pPZzUsx9G6TORu5fhRGj0Hc_gKZf",
     "showTopPosition": false,
     "skills": [
         "Java",

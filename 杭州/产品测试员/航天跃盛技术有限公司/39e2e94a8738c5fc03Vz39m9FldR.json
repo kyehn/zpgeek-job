@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "人力资源",
     "brandIndustry": "铁路/船舶/航空/航天制造",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250908/7bf6f160950405e9f98f30da9ed9b17d127303aa55384a77cb0e6c321a3851d41fda3fe9ee5996d3.png.webp",
     "brandName": "航天跃盛技术有限公司",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100905,
     "isShield": 0,
-    "itemId": 67,
+    "itemId": 60,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fHzUzbMu1C.search.67",
+    "lid": "9fv0XZ7UmhY.search.60",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-9K",
-    "securityId": "4uFxJgjoCYJ9C-B1KFrJ2xjDigQucebxBLlBmhqhmJIWnNssQlQsACnF3W1b08Pjg0oAZVn-KgQl4UqsBU6djwFc6kAz2EB8iA1ehhrDfBxaE9mcC45qesjQ0674VL2XdVkYzLkky2xfGA~~",
+    "securityId": "bea4BVd14q39m-B1OXA8RgHBreIwskBCaAUJdzH0ML1J4XV3EWSavjRjVUY8iPuj0SISrenw64AlH6uMaUJShMCIsKlxvkGpBI3aNdFPGuYnCgLceE0h1VdthnBKPTsHYNSIppX9tUBrZg~~",
     "showTopPosition": false,
     "skills": [
         "功能测试",
@@ -57,13 +57,20 @@
         "自动化测试"
     ],
     "welfareList": [
+        "带薪年假",
         "定期体检",
+        "团建聚餐",
+        "住房补贴",
+        "免费工装",
+        "员工旅游",
+        "包吃",
+        "节假日加班费",
+        "生日福利",
         "绩效奖金",
+        "餐补",
         "夜班补助",
         "年终奖",
-        "餐补",
-        "带薪年假",
-        "节假日加班费",
-        "五险一金"
+        "五险一金",
+        "节日福利"
     ]
 }

@@ -8,7 +8,7 @@
     "bossCert": 3,
     "bossName": "李春生",
     "bossOnline": false,
-    "bossTitle": "招聘者",
+    "bossTitle": "总经理",
     "brandIndustry": "计算机服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "伟腾科技有限责任公司",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 48,
+    "itemId": 64,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "sQpz2wqMeK.search.48",
+    "lid": "9fCapU5ffQT.search.64",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-13K",
-    "securityId": "6vyqyPj8EkWhv-S1ZSo5NvnrBVkkY8363GVEXxDoAW61Um9J6M8cHWCjsBU_jbLtLQKczz1-fpWMf__tXeur3FJnFJlUvG05QuC699BQiymilXRDOr4m2ARIKdEdEBNK7f2gct02HhcTUvA~",
+    "salaryDesc": "7-10K",
+    "securityId": "C6Dz-UmGwtRoo-w1nT74Moyxb9vcDh-euBRxRTEBirtPV_bPXuIf5acE-W9ReLT-5_0uil6qf4Mgyhi71JNxzWtAat3I_SVwUS-7sdKIRmveWJnLCWoZ_8Rhl9UaVdFiB6K4VNlpldfawFM~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "Scrapy",
         "MySQL",
-        "MongoDB"
+        "MongoDB",
+        "Python"
     ],
     "welfareList": [
         "团建聚餐",

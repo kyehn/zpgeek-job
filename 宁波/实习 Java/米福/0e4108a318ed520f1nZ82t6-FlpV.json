@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "鄞州区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210227/d703d70700bb5418f08877d5382855e23b5d4dab78438bc4cd51c1c049dad344_s.png",
+    "bossCert": 3,
+    "bossName": "王盛芬",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221124/7bf6f160950405e9a1b6fd20222e453354d0fa97540f3e9f3b5d4dab78438bc4cd51c1c049dad344.jpg",
+    "brandName": "米福",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "国际会展中心",
+    "city": 101210400,
+    "cityName": "宁波",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "20253765e4416e240nVy3N6-EFBY",
+    "encryptBrandId": "618fcc53d1b4da481nB52d6_FVo~",
+    "encryptJobId": "0e4108a318ed520f1nZ82t6-FlpV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 29.87202,
+        "longitude": 121.614396
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 46,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "实习 Java",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9iuVtOJdHGb.search.46",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "Nyz9C2IuRt_6W-u1hd5ML_Wr3Aued-EfFA7x7rKuN6cPOWIlxh4sqgTI6mFhKogxUuZpc7pGw-ke9wy_nRUkJw2hB4C4Y7qsCdpX6tIb3b2uN_J35W1NbzwJZJ8FdNkEdiSC_pDc-JOnfLM~",
+    "showTopPosition": false,
+    "skills": [
+        "不接受居家办公",
+        "计算机软件",
+        "后端开发"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ]
+}

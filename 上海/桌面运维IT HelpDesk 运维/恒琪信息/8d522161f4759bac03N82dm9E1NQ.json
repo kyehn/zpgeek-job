@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210701/1c55525ccd391a252ed7a2decc52976bb72e37437fb15af9d3f2cbb62d38a18e_s.jpg",
     "bossCert": 3,
     "bossName": "孔正玲",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170607/56b8e7b7d457ebd01a434943345d74aa7ea685c5e6ac455d1395b16f2318d32a.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "1c2430a3117258ec03d-2ti-E1Q~",
     "encryptBrandId": "c7b8ec3e05db462e33Jz29U~",
     "encryptJobId": "8d522161f4759bac03N82dm9E1NQ",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.21405,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 87,
+    "itemId": 46,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4EKJCdiT8u1.search.87",
+    "lid": "99VZ9ZbB2zL.search.46",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-12K",
-    "securityId": "amHpIfKUnvylq-B1l5ukfFjdU8Sz3qC3bgK_uW7mf8zwcvN-PQniXB2ukk4Ijl-OyYKr4Q5fkRvXKhOwS_X6Pl0qUhxgY7r0sUUrQ_7sBM02otbiyNDTIg0WXuawlO6UsS55SKLB8ZSSsNbF3t1nUMHK7vQZFGqslmcCP9f65HIqBQ~~",
+    "salaryDesc": "9-11K",
+    "securityId": "fXF2tF1OxuW8E-A1GxvDM_GwxbutFa6sSXkoQjiz9CODLh2gEIMGVmCu-zREAIk0fFfQOlbRm4AA53QTrvG2K6M7qDhZSPknly5aQjxRehiz3cbOsl7ObHXuhxCDC2YVKEdhy3cNXQ~~",
     "showTopPosition": false,
     "skills": [
-        "售前/售后技术支持",
-        "IT技术支持经验"
+        "IT技术支持经验",
+        "售前/售后技术支持"
     ],
     "welfareList": [
         "年终奖",

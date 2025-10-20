@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200727/d5ec24e164d3c5c7cb40281e7fdf56adf12adbdfe514641722569fd9a25fb0e4_s.png",
     "bossCert": 3,
-    "bossName": "梁女士",
+    "bossName": "梁舒铭",
     "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "通用设备",
@@ -22,7 +22,7 @@
     "encryptBossId": "3990fdbe09d4f43d1XR_3Nm-GFc~",
     "encryptBrandId": "1ad6de1c7ce470201n1y3ti7GFU~",
     "encryptJobId": "d423421f792a91301Hx_2Nu8EFRX",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.754692,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100906,
     "isShield": 0,
-    "itemId": 15,
+    "itemId": 34,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TuQcyasY2G.search.15",
+    "lid": "9ixNDCnSCN0.search.34",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "k8KyLuruYspgD-N15XVfzly0aMMxMsG7DnhpE1cV4sSwpaexI_LtF_ecipGysqLMpVGPmi_2tVYn4hAVp7vrP9nhJfpszWCYU98_3NSHjf9wB81IEn0~",
+    "securityId": "IVAODS-FVDV9W-51WD72nuZ39QVIqZDw8rh24ODZStqaVOQzNvChHbcgjphpzVzxnwyKhq0v_xNRWQHONpxdH_7USD1AUl22jXrQ5mgOZ1neIaK5qsKEnHY6UhQYVAP1PoKKKQQzsuEEBg~~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

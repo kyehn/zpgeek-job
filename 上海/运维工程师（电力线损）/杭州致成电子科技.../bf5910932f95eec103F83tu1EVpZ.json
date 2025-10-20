@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190826/d0e528c0c43565a3d04c0514e994dbfcdf9ff6c91c403179dfd8230ac2761697_s.png",
     "bossCert": 3,
     "bossName": "李欣",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180905/a313dad0f095cea89ab9996e28911fd179e3bf8f49e72aa2485c82cd558a2c05.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "91907e05ac88583b0Hdy2t21FlY~",
     "encryptBrandId": "df9eca65c2ab0d7b1XVy096_Fg~~",
     "encryptJobId": "bf5910932f95eec103F83tu1EVpZ",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.218123,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 33,
+    "itemId": 71,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1dJHs6dWpHe.search.33",
+    "lid": "99VZ9ZbB2zL.search.71",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K·13薪",
-    "securityId": "c1Zpu2vFkVXC4-31by6mErIbynR0RBzp_mM0d6e9letfmKFmYFimoupMHtCevrNqYsmlgm-xOpf6fsUOieFWfHKqhLpQtm_fFqGd2XdWaO1ctvPetzTQDhY99kNSHwgY_SIhdvjFmcEOBP5MQhl4LXafXc47keDk4zlqiC4gFKjMMA-9",
+    "securityId": "ukAWlG8UvHJMT-L1omoXP-vfamTY20C0Fj0i3nhl0dJ0EJMP1nPg_GjeelvlWgKdKOeoPsHgijyO42Byp-s7HAMHzwYJ-SxNXOrArNs_yztvw8--rI71FDccKustrEKwyMuZ8T6x9W5m",
     "showTopPosition": false,
     "skills": [
         "运维经验"

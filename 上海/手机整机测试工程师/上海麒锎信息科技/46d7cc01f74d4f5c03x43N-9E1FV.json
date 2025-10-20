@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241016/607f1f3d68754fd05f5dd7f4889b807f02c45f8d285c04b2934c2e8728089f0654a294e330db2016_s.png.webp",
     "bossCert": 3,
     "bossName": "朱女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘主管",
     "brandIndustry": "广告/公关/会展",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100101,
     "isShield": 0,
-    "itemId": 66,
+    "itemId": 73,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gVk5qwxSGN.search.66",
+    "lid": "99YAJJmG9X4.search.73",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K",
-    "securityId": "lIN8SIWA6sW8X-X1YVgvEFdjeZodbnxIOqRhMwsNXq5flAnfg1cmo1FtAdVyg2aFWHHVIsKbd6mwB0q99EBC-04xWQ8ThwvmDT-6Xztoln-ZrrG-hUtkq8bPmhNk8ADGgnoDrgzBI3ilo9CG4U0_ytAhI1g4sE2amaUI77NRzxAhu7gRVw~~",
+    "securityId": "h5zr219jd2EWj-71dLCxtj4vy9BC1ThAXpG4afb0vPsMPLUKZSatcu5K8Ni7T5Y1tXRNB-YoiBpkwABeLZWbgUCcbRk2zB4m30JmwY7Os2MkCOS7YLqgfD2Pvj_jKElxnyRBpyACcbI4NA~~",
     "showTopPosition": false,
     "skills": [
         "iOS/Android测试经验"
