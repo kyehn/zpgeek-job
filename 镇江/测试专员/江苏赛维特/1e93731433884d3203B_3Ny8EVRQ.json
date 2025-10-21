@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100917,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 34,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,14 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6ZdA8OUEXTM.search.74",
+    "lid": "92dBWkfhS68.search.34",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "3-4K",
-    "securityId": "fCsrv1cryNla5-318wm3smg4u0OSRVseptL4UcYq7YgxJgtc0WeWoA-cLTJ_yqyLHD-T0OkJTuXZufvJPD6zdD3YREjO8k1knlT8VztjKy1pDh1ASBGNtzeKQGd0hiLEZwefUIJQl-epy69kb4YPbd5JM5WVZY6D-PZRrqOWWhS-6v2nWmI~",
+    "salaryDesc": "4-6K",
+    "securityId": "USFZOsEQELTNW-I1Icr-GAHQaZslug9hal5FDKDpsgO-Ubkmd0_uC5GnoWiUt-ylJsG_QjFuNrNf3KMyqJ3K8KXl-F5CxKa6T-b-i45hlno5a4W9pYJh9UaqQ3-OBoTdONwHvcDLcEkuauDYDJbHMQdCKk-GxEHXyeLvjHcVQj-pVeOrWcQ~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "电工证",
+        "电气专业"
+    ],
     "welfareList": []
 }

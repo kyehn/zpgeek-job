@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "历下区",
+    "areaDistrict": "历城区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250722/607f1f3d68754fd02e8049837ebd63c71101576c9d5b7eb84006d33433898f0c5b87688ef18ca51f_s.jpg.webp",
@@ -14,7 +14,7 @@
     "brandName": "顺漾",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "泺源大街",
+    "businessDistrict": "七里河",
     "city": 101120100,
     "cityName": "济南",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 36.65939960886492,
-        "longitude": 117.0223715323377
+        "latitude": 36.68304147249078,
+        "longitude": 117.0638019332668
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 27,
+    "itemId": 51,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,15 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "zrfvFlW5Wb.search.27",
+    "lid": "90NCBGyXKHj.search.51",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-7K·13薪",
-    "securityId": "SOe6nuUAZweOu-91dgx8LKPuTg4mTQve8xnZbT_dcNPiH9CmvDcOsOLGdsj8GA_JXSUc2tEUQFZP43SgGig1IvDPJzUbupxG0kHT1GeUxgin_dmcJ3PjDDpPQxztQOt3GQsOnLjq0LLp91WUrQNsCoIeISBK9zUPgoyaR1-jz5QvGACB6g~~",
+    "salaryDesc": "5-8K·13薪",
+    "securityId": "m1gI6Y26EJdbd-S1IVAulBhMAN3LJb2zleRBMcq6Kw6aHFdOYAwIKeTPsO4hZIXGND3AO9etNTIb1vnDw3vl_YNuR-wLDkX9gNR4cpJD8wmIXvkqSFfMh2KLy13UyKKsU3mDA0DaUHNAU9iCQrxJeKzUWC2-QRmxoErr1yc44F-1fvSmrQ~~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "Java",
+        "Python",
+        "C++",
+        "MySQL",
+        "功能测试",
+        "计算机相关专业",
+        "软件开发经验"
+    ],
     "welfareList": [
         "生日福利",
         "团建聚餐",

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "历下区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20251020/607f1f3d68754fd09de3f7595f2eae4d8265f48c962190b6f4ccf899d6beeed9ce1a495051ddafcf_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "许楠芸",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210423/f86ffb88e9cf6f3eddb9b202d47330001cea4b7f398725dc13f71ba983207dcf_s.jpg",
+    "brandName": "青岛左岸",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "浆水泉",
+    "city": 101120100,
+    "cityName": "济南",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e218d51dfa6dfc670XF-0927FFBW",
+    "encryptBrandId": "11e57164d68a02a21nJ53N-0Fw~~",
+    "encryptJobId": "db87e153551d7bb903x83NS0EVNS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.674130018746716,
+        "longitude": 117.12769257690702
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 43,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "java开发工程师-初级、中级",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "92c7DL7GE1L.search.43",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "TyLxMxsmF9kwu-B1r_VbisoNKY7NnCMen2CmkPwz9NWDbvUvOCVHTJrphYi9TIgx1VakmH_cxywLbhDmvMFOPstmX2iv10b5Otjr3NxYXyiu4MFNrMUPhRf-SelptmjodCEy760zXePgpA~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "SpringCloud",
+        "MySQL"
+    ],
+    "welfareList": [
+        "五险一金",
+        "节日福利"
+    ]
+}

@@ -22,7 +22,7 @@
     "encryptBossId": "8665fa0fcc835fbc03Z63d-7EFM~",
     "encryptBrandId": "e4b2c733e23c06761nZ53N0~",
     "encryptJobId": "fee00080105dd57903N529W9ElpZ",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 36.66063,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 35,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,16 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4VEOxggUATV.search.72",
+    "lid": "92baTn5R6eq.search.35",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-6K",
-    "securityId": "wcntVtKL4WcJV-n1-OVJpPQ2dQUsbY6MakQPcc3fNVe9YjITl-fHBpfa_yB8ngTug0AdGpWV9qXism6THREkNItcTECxBYperfVSaDn9ytoVS-7k4py9TTCAPrJ3_ePIp-o2YcqCTw~~",
+    "salaryDesc": "6-8K",
+    "securityId": "5kvAW8rKav4G3-L1vKdUxUEzS7BLQ0u0lgokXohOqB8VuQ4drFvjnJhq1P0liFS7K-pxqkww3XdagWF0XPZh_8c6GXGn3C3KD1JkwkoIDn0l3u24rBEEnQkchuV5sxDZSRwgcU0g9Q~~",
     "showTopPosition": false,
     "skills": [
-        "C++"
+        "linux"
     ],
     "welfareList": [
         "节日福利",

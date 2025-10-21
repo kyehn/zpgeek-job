@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "赵女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事主管",
     "brandIndustry": "智能硬件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220328/7bf6f160950405e9a6a4af776b1e3fb3f6985f5fe9df3bcac457cdafc5dbcf1b06ad322fa3b694d1.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 90,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9fz1dRGSiI8.search.28",
+    "lid": "90ZPSaFS604.search.90",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-6K",
-    "securityId": "86apMABhKbSzq-i1rJScq1avXMPH8q6XYzvJi9bcwpaB_YDVdQ0e5sBXXh-dD_cjOQA5VBbhHpy3mXGCj-WpfjHAqLQu3GaGkTalEJHIAYh0Kjf7VnvqEbYa3ip2B8z_tpSD5R_BwyE~",
+    "securityId": "kARwj7FszpqJ7-y1HSOctrQycFjQ-y67nR7LX2SAffRseQUi7S19Fc6UnfUptZWihC6ahHCeQlof2vDzTyDbqlV4Fsu8ci20J-cdPojSJjn7-_zzhPFNCaURHwPTvqhRpSQmGm-qw0pB8W9_Xa175ai_AE2LvMUguuhj4qPaA3f9wCc~",
     "showTopPosition": false,
     "skills": [
         "售后支持"

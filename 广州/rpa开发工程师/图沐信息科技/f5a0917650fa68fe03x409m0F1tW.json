@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170713/1efd6c7bb874a8b0bb2350175a1e30c803ffc15cda6b333ec42155879d10320b_s.jpg",
     "bossCert": 3,
     "bossName": "吴先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "经理",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210118/3b1ae81f73fdd2889ecbe043877702a4ff91e1c4bcdfec1de243b9a78dc30d0b.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 75,
+    "itemId": 83,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nlpjdQ3Zv3.search.75",
+    "lid": "8ZEq3a5BocA.search.83",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "s6bTq3GApAb1M-m1xx77QajbZrpSxYCwwM9dWMnX318VG0uIdo5sp2liLbaN90fIRYHmn6wGGRbzhYmwM_StJ84oSFCcKYYziYNxRzCkt5c4Rt-8puo-lMht5l7VH7mlutF6XiWR8d-ThQ~~",
+    "securityId": "3bsyzTGyLSec5-G1xWJ_YxZuwewfLwpGil-IBTJwiWKpunw630YVSppHlybO5DSr6meKXD5Phqo4M-hSLW2iV0dc4vapfBItpBOKLNxCWw_-C_dp34fiAHR4EFg_B0I64iKtq_Nfzc_FK-0ue3Sz2NMtBwMV-39PUBZh7SKI1nhJytPZeg~~",
     "showTopPosition": false,
     "skills": [
-        "Python",
+        "RPA",
+        "影刀",
         "Pandas",
         "MySQL",
-        "RPA",
-        "影刀"
+        "Python"
     ],
     "welfareList": [
         "零食下午茶",

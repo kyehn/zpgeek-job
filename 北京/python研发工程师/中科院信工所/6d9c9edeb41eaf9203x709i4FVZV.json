@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 3,
+    "itemId": 39,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8neGgrunpeZ.search.3",
+    "lid": "8ZEq3a5BocA.search.39",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K·13薪",
-    "securityId": "f4dBzU-RMPS5l-I1meqH-pteDRGJYFwt_mh_HHFLRpfuPQ9OIiLUncDdDpbvqlpOf-r24NABYbF1_mFSKOUp2mGNPy3JmByDOsypq2lamJr5TqBQuU1mCnxIW49T3xTkVbwDi4WGm2xf",
+    "securityId": "WBEtmCtYWOw5c-h1YJybA9qyAJumoD0GLwPvrJxyFMJyYIyUKp7qSDXo6CxsQfmctMluEMNdTLyW79yjvyYKo44v21M9jJLcZP_Tg2aA7BGEQeQG11TGl33zMgJ-eR1OdkMJ_mqIg7D1",
     "showTopPosition": false,
     "skills": [
+        "Linux开发/部署经验",
         "Python",
         "Flask",
-        "Kubernetes",
-        "Linux开发/部署经验"
+        "Kubernetes"
     ],
     "welfareList": [
         "通讯补贴",

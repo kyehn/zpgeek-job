@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 14,
+    "itemId": 5,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9ixNDCnSCN0.search.14",
+    "lid": "8ZKhvtvhima.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-9K",
-    "securityId": "8lhP7MiA4S9fE--1AK-fIOAp2lmpcnZrlrDpQ1te6ILHTDKHP78J6OeT3GTYKrWdBa7f_-cNiEFV8DH0uWiXlOytGfbBFIiLV_duy-qbmC5prNwOPTDxdSJUEuEp1Fdm5LnOE1Dt0fvbA-oI1kVHobaEjjhpa42H8udMw2FS18Et-w~~",
+    "salaryDesc": "8-10K",
+    "securityId": "ZY1ixrt81m-AR-X1TwJR4HctLU3-khdOh-5NwnzLQh8fkF9-0lUVCDxfZeHOmRdGPDfEW-3n32Fxf9mhj4Vvd3nNy5Lmbg2-4n5SdvmWz7q8yRHCg0meggiOXTNNQbgmisT4AEzPB1iqyY7J-ssexI2GBfusCRYsaazJvDubTkTIoQ~~",
     "showTopPosition": false,
     "skills": [
-        "性能测试",
         "C++",
+        "性能测试",
         "计算机相关专业"
     ],
     "welfareList": [

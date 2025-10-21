@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250925/607f1f3d68754fd01cf4036b252d25258590259810f911314ea034d9c1f87713abad68ed247b9e0a_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "魏先生",
+    "bossOnline": false,
+    "bossTitle": "招聘HR",
+    "brandIndustry": "计算机硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "世纪精呈",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "三里屯",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3183f06cd95b1d8b1HJz2dS9EVc~",
+    "encryptBrandId": "f8397d70fff495e81XV72t21FlY~",
+    "encryptJobId": "94341294c04fea5303F729m9FFpR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.956004,
+        "longitude": 116.462588
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100022,
+    "isShield": 0,
+    "itemId": 44,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "7*24小时系统监控运维夜班轮休",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "96YqQZZcuoo.search.44",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "_QU3yq49EskSY-b11Pz83lQwCtTV3bnOCOYtazYr99x5vzwK_ehRRdpeh8eSvAm5qmVWjsT99RvTA4iUCkbW42De0IJTJzKjqbYYAOspdXHb4CGbRHcCYxOn2Wf5gpAQjSEFiunqZ1PdWA~~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "系统监控运维"
+    ],
+    "welfareList": [
+        "法定节假日三薪",
+        "绩效奖金",
+        "五险一金"
+    ]
+}

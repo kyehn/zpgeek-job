@@ -1,20 +1,20 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "洪山区",
+    "areaDistrict": "江夏区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240821/607f1f3d68754fd02b801de88cd79a83165a6636fd4618e1aa1bf2ff58d440d081f824d4662188bb_s.png.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250814/607f1f3d68754fd023efd7890f18b0d947c91fde8dde8602aa1bf2ff58d440d081f824d4662188bb_s.png.webp",
     "bossCert": 3,
     "bossName": "唐涛",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "hr",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
     "brandName": "柯莱特集团",
     "brandScaleName": "1000-9999人",
     "brandStageName": "已上市",
-    "businessDistrict": "光谷",
+    "businessDistrict": "流芳",
     "city": 101200100,
     "cityName": "武汉",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.480277,
-        "longitude": 114.402709
+        "latitude": 30.452116,
+        "longitude": 114.48664
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 12,
+    "itemId": 44,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8oHy77rhRep.search.12",
+    "lid": "90MWStDRXuS.search.44",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-5K",
-    "securityId": "48l5gO6Co3yUU-r1X8KEjH0tVTKyFOuJTMahPVXzFUZ0zKMEs7z3ntGGiBj88ro7LS0CprNrXZxKZqRimelHx8Q7-0MSRhpocxL_8VQGc-jGrt77IWss-Ievh7SxdOCMWLyMeI_I0gEg",
+    "salaryDesc": "3-6K",
+    "securityId": "pwTN7yOIYDCr3-t17akZfkTpa0YB78r_J-B676XfG_OpKbt-I2nTE3y_qcGYrQYXYLWVNXMZAEB4xdPydTJOjCgXaAfXe-s80bAqwFnKF3ux58_67NpfpRs6UfRJZLsc_jHgR-W04RPJ-ri7_0qR5YNpqqJ8IXoL_Egsw7l3axyd387w",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业",
         "Python"
     ],
-    "welfareList": [
-        "五险一金",
-        "交通补助",
-        "节日福利"
-    ]
+    "welfareList": []
 }

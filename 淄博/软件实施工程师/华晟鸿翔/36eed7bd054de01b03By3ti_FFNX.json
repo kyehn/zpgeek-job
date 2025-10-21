@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
     "bossName": "张梦瑶",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 83,
+    "itemId": 86,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,14 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7qpbm9EJfvi.search.83",
+    "lid": "8ZMuHFstukc.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "j4HR3a8XS9s2k-S1Y8e7TMRzIUtTkn-tBbmzIZIUhcwIHpBA7LpJNBOcPJIdMSg50ggvjYXpxrMe69xSDwe8xMsqLE5hhhCYD3ebww8J68rV3Ubq6H4HCQabtTyw2b9DWK9ozU37ZQ12vA~~",
+    "securityId": "PIoDNSA16Zk1P-q1kxPZcltmMwhYCFL7y1tm_9TQQ28uv2CqhsTchHutITQxVduX2rIX4jPpMqcysk4rAr4VNbrmqtJpKWI51QHlkITctGB1NNzqk1FcosX03Tie0nZct4uMrXigmNFEZxwCibl6RH_tnw0jmW2c9c2gcrfNISXwwNgrbw~~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "计算机相关专业",
+        "熟练掌握SQL语句",
+        "接受出差"
+    ],
     "welfareList": []
 }

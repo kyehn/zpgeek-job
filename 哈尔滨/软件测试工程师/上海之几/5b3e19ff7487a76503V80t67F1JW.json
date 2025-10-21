@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "吴女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事行政",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240326/7bf6f160950405e958cf375f42aca9e1b93915d940647c8c5476b3b4090d0e9b0e567987cbce73b1.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 58,
+    "itemId": 55,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7sIcIsii2TN.search.58",
+    "lid": "8ZJdCbzX1wI.search.55",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "jkIf1CIXdquGE-21nXYJ5Npfqy1FyIL4TQe7Dhi20wDaYIdcnJ0PO2sFN49PiCcpwXbMb46NaxDWEacLpMTTzlzxj-w0Xoh5LYs8vzRKslm13WVxnqt5nO4UATfLqBPNRsz7cgIffd8LixE~",
+    "securityId": "EC4gmZeSp1jNo-O1WVCsq92MdtMq7ftIVlWfWb7VDhbYcvm_KCdY1NC-l2TkEZAHDEW2Ev0M-HdOHUmxgOC_AXABtvMqvFlMynWldXWvtjhwF-L9tmX2-IdZI6hcP7VYb7N4fcftUhqnSFdh3AqxSwJEXLYafy3x8pnrQESZLTD6P-Gj0uE~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -65,9 +65,8 @@
         "Oracle"
     ],
     "welfareList": [
-        "五险一金",
-        "年终奖",
+        "员工旅游",
         "带薪年假",
-        "员工旅游"
+        "五险一金"
     ]
 }

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "bossName": "熊雪桥",
+    "bossOnline": false,
+    "bossTitle": "项目经理",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "武汉维京电气",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "96fda8c1e8e4cbb90nZ-39q8FVJT",
+    "encryptBrandId": "664d1b10ef0711551n1y0tW8F1E~",
+    "encryptJobId": "8656f2faa42ab50c1n1z2tu1FFBT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.08077,
+        "longitude": 116.160218
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 66,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "有线传输设计工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "96YqQZZcuoo.search.66",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "C7PWZy0mxXSIo-f1Nv5H2Sq_KFuBabXIwHE4CjUSpISrDBXAYN2ebE0yEmuWL9-XBBzAT5Tuj1cxRMkudYeNvJ_IUVfaeb_mU9bB9gsaIfFtzJzJAXwKML4ydvI95aXi2LOwhO_pO27PNcA~",
+    "showTopPosition": false,
+    "skills": [
+        "传输线路设计",
+        "光缆通信",
+        "光传输"
+    ],
+    "welfareList": [
+        "意外险",
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241127/607f1f3d68754fd07102400e89c48057e1167f687fb5551dbae870fa9de49df8b3871b5044d70770_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "HRBP Lead",
+    "brandIndustry": "计算机硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191117/6b8a4ae8a49f975b1b780949ea14175a0469fa3dd8c2bb0e75eb3cdef47395ae_s.jpg",
+    "brandName": "尚思福",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3342526bae0d2fc003153Ny1GFY~",
+    "encryptBrandId": "855e4018ceab3c6a1n1y3ty9FQ~~",
+    "encryptJobId": "c4aa4772ac34a16d03x82dq7F1dZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.15252839617345,
+        "longitude": 116.90561127584678
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100022,
+    "isShield": 0,
+    "itemId": 46,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "基础网络与监控运维岗",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "970yU11kUKL.search.46",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "3q8O3CF0vuTCP-a1UgOvNic0bNvSlT6q-xFeYtTbX9zJsXhHSkz4JrvLRpMNik1VX8_CSy-Z3TBaxkssOuW9qA0d7wP1S7ZVqH1oR6SK6vWeZbKwbjgbjsiwGNtnCCNwpLBheYoG-1Mk",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维",
+        "桌面运维",
+        "系统监控"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ]
+}

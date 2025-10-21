@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210720/5df04b3b6ba84de7704d6f7d232f1f6cb49684d06778e5b102f9c60c9826761e_s.png",
     "bossCert": 3,
     "bossName": "滕小玲",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "hr人事",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 68,
+    "itemId": 72,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1UAAhWyDcPj.search.68",
+    "lid": "8ZEq3a5BocA.search.72",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-12K",
-    "securityId": "2D-zICjERBQU8-x1-EYqOPHOkQ75l0-l_66gRzDjGTchPV3U3jh8I0bgBqMjb5Nd0_dsbI77gJO0PjvYE1G09mzNdE0KxSpVdxRAxVfzy-iONQvYfIBDhu73jv0bSukkiaL2yxb4DGInBnQZt97D6nzloNQO9PEA5FlHrghrZFhtmqLQgw~~",
+    "salaryDesc": "6-10K",
+    "securityId": "1mpXSv0CCh-KK-E1vSMdP19xBRslXpkOVDnlvdQT6yDJbzoSQEuO5SzAvU7nATHcNa8xZguYi5AVBHJghWRxloQIBXcc_AMDAXe3oLb4l8BUwiMI1tkAIejQaRqhB3DPl5ajl1Ct4AXGCQ~~",
     "showTopPosition": false,
     "skills": [
-        "Python",
+        "爬虫经验",
         "Django",
         "MySQL",
-        "爬虫经验"
+        "Python"
     ],
     "welfareList": []
 }

@@ -1,20 +1,20 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "朝阳区",
+    "areaDistrict": "海淀区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20251016/607f1f3d68754fd079654d32737d9a0fbe9ea9919ec2ec4828c0fcf023e3b359f667efa065bd0fed_s.jpg.webp",
     "bossCert": 3,
     "bossName": "高女士",
     "bossOnline": false,
     "bossTitle": "人事经理",
     "brandIndustry": "计算机软件",
-    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250210/7bf6f160950405e98ba330181c29327ff5b7fa1b979b863328c0fcf023e3b359f667efa065bd0fed.png.webp",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20251016/7bf6f160950405e97a4da7023870b2e64e8f2555b654a87528c0fcf023e3b359f667efa065bd0fed.png.webp",
     "brandName": "河南芯码智能科技",
     "brandScaleName": "20-99人",
     "brandStageName": "A轮",
-    "businessDistrict": "大望路",
+    "businessDistrict": "苏州桥",
     "city": 101010100,
     "cityName": "北京",
     "contact": false,
@@ -25,8 +25,8 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 39.913225,
-        "longitude": 116.470436
+        "latitude": 39.981766,
+        "longitude": 116.308836
     },
     "iconFlagList": [],
     "iconWord": "",
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7M2X0yR4CyA.search.5",
+    "lid": "96XHUPhDrxD.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "Z2QQ3xKAvLm48-316jKDRNBR8ZAz962OzdLXwHe6L3GDbFs-d-DBMVWcHNUmetODToflLoygLa6scgr1K0nZM5Nd0nQygrdROOuXun73evfhBzfjNWtZPFJPlvnGzsW2UeIQcJ78sZ1dQiU~",
+    "securityId": "oFfkilrJSI2Rf-p16XgXJ_-uRF_-QyUpjhnt6DH4f6OV9M1UjhEZ3MvHs1syAOjM_Et8-pFQUMsERbvdN8-QybKl71bq4vHi-Ks5lleUOJlYpozgkzL3Gppyg14B6Ctwg7rJmEeTnx1urtM~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "Spring",
-        "MySQL"
+        "MySQL",
+        "Spring"
     ],
     "welfareList": [
         "年终奖",

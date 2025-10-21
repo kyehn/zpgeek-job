@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 16,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2SP6C4GaJRw.search.8",
+    "lid": "96ZTOuVUqxS.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "OM0CyGztzA8Zp-R14lPsMYsS6JI7PtGhFjM54hGYe0cy0jLJp6_iqzja7cbh1pZ0pgpKu9o0kaj2LfBpaR-tTvW-2KgZaulsCUEd-RLZu0O82s1o7AtvXNC2I-xEkfuERctja4XE-Q~~",
+    "securityId": "TmnnwN1FXu_3L-I1AR_cxAis4uLgTo-ebPB4tNNmRScKrFaAMRgUBrxmvAVRw1JVr4OyeDokqOsxOy0LhzY9BqIXUqNxV12xIHkElKeXsSiQ9ELWIhGeR2TaQ81SFM16FP9ZmzC_eA~~",
     "showTopPosition": false,
     "skills": [
-        "网络运维",
-        "大数据运维经验",
-        "系统运维",
         "桌面运维",
+        "网络运维",
+        "系统运维",
         "计算机相关专业",
+        "运维经验",
         "网络安全相关经验",
-        "运维经验"
+        "大数据运维经验",
+        "打印机/复印机维修经验"
     ],
     "welfareList": [
         "带薪年假",

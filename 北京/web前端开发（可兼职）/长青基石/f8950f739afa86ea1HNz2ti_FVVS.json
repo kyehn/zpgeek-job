@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100012,
     "isShield": 0,
-    "itemId": 20,
+    "itemId": 37,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7HJjeY8XWB5.search.20",
+    "lid": "973j5RrefHD.search.37",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "V0UoefhzaaNqf-y1hxEUbi4IkBcG7rGP-ZRYM9K4YgZd3R1676UJ0aiKOIPZf0eaNtlC667y50mLtnOL7Ud4YDCMIe2asQs8h2TClrvjurnpm-aSrIIPBkQmmxVyN29iA2534TzSNd0~",
+    "securityId": "7v3KgDv3w7y7c-f1sVRq-mZkJxWWhNP-k5m6Wb8bqQ86zNR-0yOWr8TrihyzuMw1zxfyq-iIJgIz5OSLv7kwqfYpILYKp3CHmCdIyLTrNr2OWb4arjqepgaAdCbKZfMPsC029NPAj-4~",
     "showTopPosition": false,
     "skills": [
-        "前端开发经验"
+        "前端开发经验",
+        "Vue",
+        "接受居家办公"
     ],
     "welfareList": [
         "加班补助",

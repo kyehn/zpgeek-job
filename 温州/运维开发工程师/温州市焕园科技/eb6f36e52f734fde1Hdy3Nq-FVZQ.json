@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
     "bossCert": 3,
     "bossName": "居滋胜",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "技术支持/维护",
     "brandIndustry": "智能硬件",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 14,
+    "itemId": 8,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8wmf0zjCp11.search.14",
+    "lid": "8ZI64n1eLku.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K·13薪",
-    "securityId": "p3gbp5dSHwK7Q-p1OGsRLUU1eMgVkr3YWiPjRm-GeuNkqyYWE5Pg2CSXbw7uxBYXMvMsRj9QQWKCl_FQC7gRdDbhR-JUQYX08Mn__v9aC5BSGrUoU8sK-Mo0qImxjwvxTZy_mOy9ezyJXLs~",
+    "securityId": "mXGC0Bsbbztnq-F1fPHgS4NnYZXdVhIXgLRCXHEA2Zc6xuhBxgMY-_h0FNBQdUkLRWtWCC_s66lPuHgPzg6pz092k1mjAlIwj_GcdbLoHLZA50U0I7z5eHPyiZSjo9lp1kW2InrqbRyy7d--XR1O7BMYWSB5X2XhwytZy1fAyQlo3CyjVpo~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

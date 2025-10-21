@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240116/607f1f3d68754fd0532576c8f97b105d65ebf5192755fab500f3e3b3244c4f408e50d6ead19b4571_s.jpg.webp",
     "bossCert": 3,
     "bossName": "杨景升",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220905/7bf6f160950405e91ffec36297da30efaefbc3f5f282c8999a4329964b0beb36d04594de68afdad1.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 21,
+    "itemId": 3,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8wl7X4H920r.search.21",
+    "lid": "8ZEq3a5BocA.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "Ky6GF6LGhL2vs-11BMPrMRNU21oWMUwRrQhE2sZ1YzjVnDFNKgOek50QtausjCiUr9J3zf35s1rSdsivLNkT94bGFUjsUewHAK8GT98-fZQq5_v4pfNZPikSaEWLEUbqh86t9pQydLSzAAc~",
+    "securityId": "Nlrrz7gml0fR7-f1vnw-7lNG6n_ptWlRsWZ_oLVDCnV7S5J8sfYU7QaE84Wn3iVLciGsw53C560xru2z_4sFYRa7EqGGHW1yIjxkQpiBxDn2mxYnAw_CNfE5uDjG8UQSpEb6Y-2Hhw6Io2jviEmbPqhXIyo9tvJHndlkpRLut-KRCncEWEQ~",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
         "五险一金",
-        "软件测试",
         "工作轻松",
-        "工作环境好"
+        "工作环境好",
+        "功能测试",
+        "软件测试"
     ],
     "welfareList": [
         "底薪加提成",

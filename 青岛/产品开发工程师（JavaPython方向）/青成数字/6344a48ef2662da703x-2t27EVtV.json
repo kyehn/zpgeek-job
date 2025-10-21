@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "市南区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "胡振辉",
+    "bossOnline": true,
+    "bossTitle": "总工程师",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20241206/7b5b554d84f9729c32b6cf38198759133e755fcea1f411d0cc39f1bd85121eeac0240de7bf8aef99.png.webp",
+    "brandName": "青成数字",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "中山路",
+    "city": 101120200,
+    "cityName": "青岛",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ddf2c7055cadb4cb1HV93d-8F1s~",
+    "encryptBrandId": "4217bc8680f44d491Hx809i-F1M~",
+    "encryptJobId": "6344a48ef2662da703x-2t27EVtV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.068924,
+        "longitude": 120.305179
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 40,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "产品开发工程师（Java/Python方向）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8ZGeyk0u3Yd.search.40",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "HCXr0pN7gdHu1-z1C6g6FNsOSGTH5d2KLmesSdUZNnSsKUWqzPQ4zOu90vvC93Z6MKkAMk8u03ivZjKS1zQIQvAhg5fJQ0cttZC7KhBtTxsSSj75S1UDNoPpMJP8rtr79fNRhq0TqLWS-wY359s6tLnBiiv_QvN4Uur4zaJPpBAcxISAvQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "节日福利",
+        "五险一金"
+    ]
+}

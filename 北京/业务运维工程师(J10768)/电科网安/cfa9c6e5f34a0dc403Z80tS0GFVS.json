@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "石景山区",
+    "areaDistrict": "丰台区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210416/a6c4f95877267c6a1975e70e775b747526fbe1f92d56ad42fa5131b83ecf6067_s.jpg",
@@ -14,7 +14,7 @@
     "brandName": "电科网安",
     "brandScaleName": "1000-9999人",
     "brandStageName": "已上市",
-    "businessDistrict": "古城",
+    "businessDistrict": "花乡",
     "city": 101010100,
     "cityName": "北京",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 39.90621,
-        "longitude": 116.183728
+        "latitude": 39.824958,
+        "longitude": 116.295225
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 100,
+    "itemId": 89,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,15 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "dy4NrVJgWF.search.100",
+    "lid": "970yU11kUKL.search.89",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K·15薪",
-    "securityId": "TrBKgH-MCt30t-21Y02BwccnSwKAI8psvW218lASxR0gAMuvNgLwLlwHLtIdQQNoC4Um7Qs0GZAdSioOrsX_-93o6fygJslm7Xv1K1a_Zu9wIlbmEyX4Hj_TdZqQkh-G-J63fXksRSs5rQ~~",
+    "securityId": "4tvFk0bDyAsrx-01KqGjinnwu1C7EKB3j83udQ9QrpFLfjaaOmAR_egPEjn2asG-genV3-st1UB3BX1zD3A_wHiFLjKLJd6vTrCOjJTyJ4epKvOtJMpdYH-RV6vhwSd16_mCJIJXICq3Pg~~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "网络运维",
+        "系统运维",
+        "桌面运维"
+    ],
     "welfareList": [
         "春节假期12天",
         "节日福利",

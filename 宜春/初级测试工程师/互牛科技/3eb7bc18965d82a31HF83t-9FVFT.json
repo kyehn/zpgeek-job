@@ -12,7 +12,7 @@
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180628/eb2bffdbdcc7f6de249493ab49f3097520c8f461dc97f2fbaa8e6a1774006b62.jpg",
     "brandName": "互牛科技",
-    "brandScaleName": "20-99人",
+    "brandScaleName": "100-499人",
     "brandStageName": "不需要融资",
     "businessDistrict": "明月北路",
     "city": 101240500,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 21,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3JrvAABidAe.search.8",
+    "lid": "8ZEq3a5BocA.search.21",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "kkqoRDzmWxoHO-v1X7W2-GnRWpyVEZC7L09D6fIT8ByVuQngYnwpS-qGC8CLgI6PeeceZ4IGNwVRoffqX_IVnQxb08KPDlmLr9p7kxd5x1ZW5nZT3uPPngS-G1ZVd7jOQh7P-2_TeNjo",
+    "securityId": "LDsv6SvRTyBcA-W1KxZX6DxXkXksNmDsIq0xcsI3iBJwEIWiw0xRHskds8oqw7xia6et2Ee0NBh8FDpimovLMKFic8u6tTlQvUyjEMVs8SjwzbjsTQDXRBr-41skGzJJl3sI17nTh64l",
     "showTopPosition": false,
     "skills": [
         "功能测试",
@@ -59,8 +59,10 @@
         "JMeter"
     ],
     "welfareList": [
+        "零食下午茶",
         "员工旅游",
-        "全勤奖",
-        "五险一金"
+        "年终奖",
+        "五险一金",
+        "全勤奖"
     ]
 }

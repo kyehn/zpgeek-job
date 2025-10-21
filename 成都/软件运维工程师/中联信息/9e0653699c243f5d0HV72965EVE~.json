@@ -22,7 +22,7 @@
     "encryptBossId": "7cec55be2ddbb2241HV72tq8E1E~",
     "encryptBrandId": "a35492b2657acc921XN53dq4",
     "encryptJobId": "9e0653699c243f5d0HV72965EVE~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.539804,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 82,
+    "itemId": 11,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9fB9bf7zxDO.search.82",
+    "lid": "8RKWZ52TiLn.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "_Etv-BP0KoMbL-q19Hs9rclFUzBBSR0TJaJYrTE_lih_qzWRRCmaG8H5dexeSVCUDGxxyiLPX4ejJhzXJwmvWT_gTva1W9HNng_WCYlVeAKfYFiV7B3dc7DDo-octNMA-uwb36_-NA~~",
+    "securityId": "wZR0yAV2dowj8-x1DQxzi5mkWfEMjg1JpZwGySDPDr8R958ITybCc66tZI_-xJPYz6ywc5gwT73Z4X0Z3Z5jTS47Jcr1fEeGQ11NfK3btSNRAc4~",
     "showTopPosition": false,
     "skills": [
         "运维工程师",

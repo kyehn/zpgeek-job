@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 86,
+    "itemId": 35,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,21 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8bEYUPwPxNG.search.86",
+    "lid": "8ZLvb15Gnnd.search.35",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K·13薪",
-    "securityId": "kvDMCZhxvXeuE-p1pDM2L5WIctn-3HOcAk3PoAeWCPSqRJza8FT9XQi1oZvyegyMGXFh5tIeoUE-blsnxzVMx7Dzl2KJMWoS2z1FVFjTUF1XiBH3v7zgYu8YSumiCqNSTp8Bdl2-Uoj_JheOeX95beD04F6VYXT9KjGYsKJAJ5kci7JqOro~",
+    "securityId": "MUWWAA2YEM_Rp-L1RnyW1iytvYvU9kWgAMRGSs7dvWRVQN9V6o-ZmSiFSr9kaEqYiBgkbKyDxTj1Yqs9AVxofPHNMo0QyNSoId7lw4aukAdoG76_t9z_VHHR78fj1RNOsOZIabJMJkqIRQV-9EEB7fZhJfzl_Ma5z7lpvt2vprIHiOE25N8~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"
     ],
     "welfareList": [
-        "年终奖",
+        "员工旅游",
         "带薪年假",
-        "五险一金",
-        "员工旅游"
+        "五险一金"
     ]
 }

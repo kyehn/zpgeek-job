@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231208/607f1f3d68754fd0223b5a45b40bf76f24bef59a477ad27af95be08369a50d74dd280e6571ab58b5_s.jpg.webp",
     "bossCert": 3,
-    "bossName": "刘培",
+    "bossName": "刘女士",
     "bossOnline": false,
     "bossTitle": "招聘经理",
     "brandIndustry": "计算机软件",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 30,
+    "itemId": 7,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7M2X0yR4CyA.search.30",
+    "lid": "96XHUPhDrxD.search.7",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-13K·13薪",
-    "securityId": "adxI7G8BKujOV-i1_9IFiqH5lqHAANrmdajFDu7uRawW2M_9Lk8DAWh669K6_Z3IF3RcgFJmGuSXhu_hf1umJgkY8NbjDlyaXzNKBXI0DzkWj4RHd9x-56pfXJt8-4Tw3QL6gPJISYI~",
+    "salaryDesc": "9-14K·13薪",
+    "securityId": "p38zOg4tOq4af-Y1dDRyIxSBvYxu9h8PX3QBviQ2IAKcGJ3t6EUGgffez3dE2n38nFM-z1zho0f0o708891qF_NAYfn9nR8nMIZqMY_HLpZMaB6QdSlqaTdnOXZ9rXmz_7iSXoe8igc~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -58,11 +58,17 @@
         "Oracle"
     ],
     "welfareList": [
-        "餐补",
+        "年终奖",
+        "节假日加班费",
         "定期体检",
         "五险一金",
+        "团建聚餐",
+        "通讯补贴",
+        "定期体检",
+        "法定节假日三薪",
         "带薪年假",
-        "年终奖",
+        "生日福利",
+        "餐补",
         "节日福利"
     ]
 }

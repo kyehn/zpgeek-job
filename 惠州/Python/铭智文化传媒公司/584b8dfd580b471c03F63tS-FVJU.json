@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 6,
+    "itemId": 2,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "iykYeZvG5m.search.6",
+    "lid": "8ZEq3a5BocA.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "pWv3fgxo-9yVa-t1IMNHoRFWgXnPYOo1rOSlWX5oX4GjlIw2EtMaVXpf1uRxWh1yOer_QP3Y4V-VsR5Dtva3JoZnR1ceKquBFs9S0H2CE1n6aDhS6PjbmtEsqnfBHFVK5JwZxZR4d8oSOo2u076JjTBXKugkgVQEbrnjd0rhoDE7xAmBsNo~",
+    "securityId": "BufsafGCgLZwC-Z1iE1FW9Vd5hT4lzHcLUzyP7JXnuc17Z4yH-JdXgl3x56uI9UVPy-BNUZ9ObsJKtSb-cOzZK88LcOKlNUl_AVzmxexw4kQYyjNop6tZgt6YC4jrz4SwPH7xCstZmE8ogKh4MumLyVzl7Tm1YRzptyiBL6P0ykRLniD5vE~",
     "showTopPosition": false,
     "skills": [
-        "Python",
-        "Selenium",
         "爬虫经验",
         "leetcode网站",
         "数据结构和算法",
-        "JS"
+        "JS",
+        "Selenium",
+        "Python"
     ],
     "welfareList": [
         "年终奖",

@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "大兴区",
+    "areaDistrict": "",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230727/607f1f3d68754fd0f8bbb90b73651295bbbab4b25e1c847def3590ee9832a7efb2aa79fd6f9c69f2_s.jpg.webp",
@@ -14,7 +14,7 @@
     "brandName": "中振宏远",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "西红门",
+    "businessDistrict": "",
     "city": 101010100,
     "cityName": "北京",
     "contact": false,
@@ -22,17 +22,17 @@
     "encryptBossId": "177dfe77a4e6670a0XN53d-0EFM~",
     "encryptBrandId": "3de7b2a049c6c2ab1nx62N-1FVc~",
     "encryptJobId": "d3eb7632abff496703N629-6EFZQ",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 39.78999178805806,
-        "longitude": 116.348824604017
+        "latitude": 39.641942,
+        "longitude": 116.667007
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100709,
     "isShield": 0,
-    "itemId": 34,
+    "itemId": 51,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85vEjOpp2w1.search.34",
+    "lid": "96YqQZZcuoo.search.51",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "jeWsHR40DUB3v-7141s_OTZhbP47JvGypayd5wBpC5Ey9Jub9srCUF84KR3dk-YIINxztxKQG11u7AaGMjZQX2r8n87leXQKiCI0_E8B4nXyqKjGjJzCGm20hSSvI6qSpEfLe9OpizaNWw~~",
+    "securityId": "Nht3_uvBdouDO-v1572_-2xsA3qISTAV4HhGSmu9WT4D960fRZXXx7GV5KPI5L4c89a_9JZ616bDKzPOKBIIxiNj5Ead3d85i3oEpzEuKb20RF9jiJ0qccI4xoSME6D8VlHREjYyFScUJw~~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 55,
+    "itemId": 21,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "zxPcoEg6Uj.search.55",
+    "lid": "8ZI64n1eLku.search.21",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K·14薪",
-    "securityId": "oAfSXAtP2d5L8-L1554OXh2Ep5Xa1Fqb8f9Pc0EeoW_n-CE8yklb5RJS5tc-TTOUIodKN62zECieseSwIq-gBfSqJVUI1r8-mv8WHDmBFJl-lBrp2m1GiDO84-bHEm-S_xf_ImC0Kk_vO09QO9YFTlyROJ2rQKdwmsuav8gYj6yOhiPC",
+    "securityId": "_NxQ2TUn9E8CU-_1B1lB4tFhm6MFQGyPVcuQ_O854k3cV9mcMiJUgfZTOGl1FFoB_rBFDY9_jOo0n9IODKuNG7rsRbLo5rtfyd2K1SutkkUU3e4WEVZqNWzhHZcg8EhBHa0T1ZDyMkg_MarsLrI-SwkRn-C29bInEhjRbntdFAkzbzH3",
     "showTopPosition": false,
     "skills": [
         "运维开发/DevOps",
+        "运维开发经验",
         "计算机相关专业",
-        "运维经验",
-        "运维开发经验"
+        "运维经验"
     ],
     "welfareList": [
         "团建聚餐",

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 89,
+    "itemId": 88,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6ZB8wbtH3OT.search.89",
+    "lid": "92c7DL7GE1L.search.88",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "Js1YIjb9Tjzxd-l17K3vZ_M807WUW5sTBgeYiRLZuUpceGgjKOth6LgsZgcr523vJE63D4vLAlCLTkGb7aHM0HY14lJyKRSQyJ0orNx7DTJ4NslFiAz1EpP_SUFV14LSU80ubpNSIe8jAXS8Q6bpGAffOI8kzsB7C9qiMrlQI_kR_yGf2A~~",
+    "securityId": "O6Yc1tcHpNgIW-a10Um6PCya_MOEsyIBNSmy3-NL0admZUr92Fc_ZBMtPMEJ5s8SLYSq-_ckGbPQ2JWGiVMDLDIe_D_ja_LDr5E1b6bXAcDQxlRUMIeOjj6LZAutG7-8S7ck7hBemudCaeKHKoF82RHz30khb5u1kuFPuJUCRYba0G3jrg~~",
     "showTopPosition": false,
     "skills": [
-        "Java"
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "MyBatis",
+        "Redis",
+        "Spring"
     ],
     "welfareList": [
         "加班补助",

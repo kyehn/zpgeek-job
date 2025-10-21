@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240823/607f1f3d68754fd071a8cdeed6b2a12b249698289f659c296623d1cc5f09488ab1b9c6c3524098e5_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "展女士",
+    "bossOnline": true,
+    "bossTitle": "人事HR",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230323/7bf6f160950405e9182f24a1da34e75dd0488e903aac9765cd23a78560f478af5e9271f33efc4391.jpg",
+    "brandName": "捷尔讯",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101191300,
+    "cityName": "宿迁",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1925caf1a76e5c1a1nR52ti5EFJV",
+    "encryptBrandId": "f2bcb5ff22a3908c1XJ60t6-FlU~",
+    "encryptJobId": "035a2e8a071f699d03F52d-5GVtR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 33.951614,
+        "longitude": 118.34742
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 18,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "实施运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "92d5rdClbLF.search.18",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "7vX5glgRLJ-T0-21CbZM7Za8LBAy_7-EQ1klzSuqNJloVOTseS8D3AMTOVbinPc0j_tApiamgLnIHMtMFOIaFR8UWvvBND2GBvYlIGGbP3183drvG8UftO5hHARscfLOR-lluGNSYgaArKiCD_jRx2HW6zTwbYOGroaqarHKwbQHIJzVQTY~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "系统运维",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
     "bossCert": 3,
     "bossName": "付先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HRG",
     "brandIndustry": "生活服务(O2O)",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/725a26380b8a4a5c42221d6f9fc3c308cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100007,
     "isShield": 0,
-    "itemId": 81,
+    "itemId": 85,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9iqmw7HVsv3.search.81",
+    "lid": "90IAM3NCc4Q.search.85",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "UUCWnJncS0lgp-81OUAIM2By9g64bpj--kzaFtFBmWwa7_7uvVxeNUO8Qrl0w5ameQeC2A42DiLRz-2WMxYsv9TGgPVFYOAFGdN6K6kqAe8Ysq4jYLzl73a9HOQ7gwO7EqHSzjv6oe_q",
+    "securityId": "9UpwzyFrO09EW-P1loT4fv6OyqU-nIqzr-5dwtydaxOC1I1sjUDZ5St7vr0fSMSDsmD4O4asdGYlEsCTgPLK-N5f8AQmSCQjti4rZkungBC5VcLprvfSAtceiPgyRDqRXOPVi4psBfGKDDrHh5-qAkthIChLN7_zo2Tkvt2z_6Cm-pm4",
     "showTopPosition": false,
     "skills": [
         "功能测试"

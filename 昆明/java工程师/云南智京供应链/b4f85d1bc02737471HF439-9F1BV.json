@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230629/607f1f3d68754fd0a0bcecb75a10138e46ce4e3d36fc068efbbccd5714a22f8f189d0fb0aab777ea_s.png",
     "bossCert": 3,
     "bossName": "王女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事管理",
     "brandIndustry": "其他专业服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240130/7bf6f160950405e951255267b6c7064c6a7d352637da12969926cb0b1b6dfc74e9c5d909ebc80cc7.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100608,
     "isShield": 0,
-    "itemId": 124,
+    "itemId": 33,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "DftGaqi0Ga.search.124",
+    "lid": "90LLEyBJXKd.search.33",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "Vg_Pxxbi46SUj-a1SaJx0LSXlJWUQNFuXxTLAIRw4vv_1fffEICLoYKsyQm5SZzmy40Ad6s0SjhldMUB75Hbd-xTzxA5Ba92PlqEiYMzNsAQ6CHCytAEaLGte1_kz7WLmlvXf9WCochSUA~~",
+    "securityId": "cDT3ewGmv8ctf-I1T5NylBt5FBJH3Bko01PMtWFZjeNOX78uZq3HLtE3GIgN3JPHpA60q89bHI328aO81_vyxnBJ27djp1ZMlh6Dw2Tf75UzOopYqLfqhkCcFZ-RA1bsO5Jee-IIfmRrQijVorWnI1bqOzcIGQrUYTa9p3uaQc-UeRPh6A~~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -59,14 +59,15 @@
         "Redis"
     ],
     "welfareList": [
-        "年终奖",
-        "节日福利",
-        "有无线网",
-        "团建聚餐",
-        "工龄奖",
-        "五险",
-        "餐补",
+        "绩效奖金",
         "生日福利",
-        "绩效奖金"
+        "带薪年假",
+        "工龄奖",
+        "有无线网",
+        "餐补",
+        "团建聚餐",
+        "节日福利",
+        "五险一金",
+        "年终奖"
     ]
 }

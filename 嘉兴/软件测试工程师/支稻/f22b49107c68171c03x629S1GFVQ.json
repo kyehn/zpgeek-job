@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250709/607f1f3d68754fd0d33ecb5bf7bf74991e11be5a66ded6ce07416631eefc0c53733fab21b8bb59d3_s.jpg.webp",
     "bossCert": 3,
     "bossName": "高云凤",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事",
     "brandIndustry": "大数据",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200809/99a3a8b86c42c0eab66daa5d48154aa072fc49d5e273c611c6b778b23ee6abd2_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100005,
     "isShield": 0,
-    "itemId": 70,
+    "itemId": 15,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "i7uSRE8SST.search.70",
+    "lid": "8ZKhvtvhima.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "RIafdHhMGGnNb-P10-HMCCFgl6Cyu-UHovF6XrHBtnbeozNBT3Mvk21xEKVybfHfJsoU9cTXXvbZ_kn4xm26cHCk7-ADH3NKBgp0v36oDxnzmp3dcGjHT-G8dxqKVskznYrf8JpaosxZ7A~~",
+    "securityId": "jCSMAvm9PzeF2-g11ENjaap9qFSTLBG9JxwuUVz_rZqsmHPmi4Irbe3T3T9JGg4J4muNE29q7OXbyPBn3Y8HgUi-AS6hTXOQwL1HUc2TTDjbVLNS0bclgfQvaejDpqFvFJsY6loFGsICXEsn1D9eR0PVmnjr-bejkGMclGxR-jjx3a0_WQ~~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170810/fa12d322f59ba438fe69e387a58a24fe36148202599507ccbf5a3c029c412062_s.jpg",
     "bossCert": 3,
     "bossName": "孙女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘培训专员",
     "brandIndustry": "互联网金融",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201104/496251366b1b187c45b3dd9b7f61f03eae2602c3577296a6e138d6c40766fb08.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100206,
     "isShield": 0,
-    "itemId": 81,
+    "itemId": 43,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9iuaDkewTCu.search.81",
+    "lid": "90KlCPW1lx8.search.43",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "7pxWxAFtKZFoy-R1RZxByeh3jBFP0x-JGRLo9a22Yrn2NjjFzdp5zWDPtBvH3XpCIHtG-TWcZVMYCjgys7ZE9Rmabo1ZDnAxacI6UI_IJSou7aR7tqa8D5GIYC_TzoKlNFnlsmk64PTz",
+    "securityId": "7972Kvjd-QUBm-y1vG5tV-jBas_ftJf6tK4YQCEq-3NEUsR1_ixax8btISXfLSqHhYaQtQG-fQuQBW4cyDZYWzpWh1Wec2wXUsPeNFhs8Bb14bQho_WXzXvpQV56z60l5QVchFi1HZUlx9mIyCcnr_QQD0-5E1Yiz-XYM0sTUn9vZNMq",
     "showTopPosition": false,
     "skills": [
         "Java"

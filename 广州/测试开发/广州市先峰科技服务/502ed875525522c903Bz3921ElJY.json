@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240703/607f1f3d68754fd0ce2354c84296efca954c3cf2cbcee21a38a64ee1cc9f73ecb95839f1a8f49ad3_s.jpg.webp",
     "bossCert": 3,
     "bossName": "徐佳佳",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240929/7bf6f160950405e932eb72fae0e905a4847c338b41c4894838a64ee1cc9f73ecb95839f1a8f49ad3.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 31,
+    "itemId": 25,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nlpjdQ3Zv3.search.31",
+    "lid": "8ZEq3a5BocA.search.25",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "bTAgR4clpVpq5-f1b0Nus2kF2u5RQ5BLcXmpMT65dtVybuTW6CPGyQOSp8A_b0DshzxGFjFfjDJp7N49x11ahvgvznz5uA_Gdw0IlvxeVZrVIHJk5hSmWvejgahBv3PkZYlxVrN_aen3KQ~~",
+    "securityId": "QJiguPMz6p16J-A11L8XUsOFpVcgA-JCEWK1IaTx9xu1Ln2LhPzs7pSEmgnGf7Em6X7T9XJouGUOclLuwnQ3kVSNGxKMCmiET5HIcDdsTl6QSjY_1PNWDRdQyHZVkSxLK_JCIlE7erP4QYmKGsUrlFi5j8pF3a8U5fbOqo8lEU570Yb-wQ~~",
     "showTopPosition": false,
     "skills": [
         "测试开发"
