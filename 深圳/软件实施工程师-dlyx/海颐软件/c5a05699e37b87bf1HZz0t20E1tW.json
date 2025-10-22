@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
     "bossCert": 3,
     "bossName": "肖先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181129/c7b72c561b46c8f3fe0bf6e042eb7adbcfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 57,
+    "itemId": 83,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "90ZPSaFS604.search.57",
+    "lid": "8B5wwOTeW4V.search.83",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K",
-    "securityId": "d5DP2C7RcRErb-W1XzYxqT6Atzis42mckFRyHw1YER3gNhsI-QnPH0jjLM04UvW7UVi455ecWARgRx6IPbFwi-LQyYRDavGgdL1G3y8VvCKXg6ZyqoK6FsvPCLpqAZCH_Q1TvOvlEf4CSF3W1-93YSbBFtRUc_F2VTakeeCuLJ4IbqR5WlE~",
+    "securityId": "h0Tz8pIuAYavF-o11PWa9wVcb0GBzbtHEdzg7Y--nu0tpHE03XCq8kQE0QBoSDo3cXAfbAMyJJrGkZdSt__Gk3erhwkwPOBcYmqtqdw19iQ9UNUKXg7me-ViMmEK8nLyKoEymFaESmcsmAc~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验"

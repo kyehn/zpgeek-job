@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "兰山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220224/607f1f3d68754fd0284c54ac7b8a689317cedfd79faf7c9c85dd102b6846326b60867dfd93e49f74_s.png",
+    "bossCert": 3,
+    "bossName": "刘女士",
+    "bossOnline": false,
+    "bossTitle": "区域人事",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "天津银海环球",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "颐高上海街",
+    "city": 101120900,
+    "cityName": "临沂",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "35d7650cbbaef61b0nZ70t-_FlZR",
+    "encryptBrandId": "7f8f7690a62c30511XB92dS6F1I~",
+    "encryptJobId": "a29cf4cf63124c9203x92tS6EVZT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 35.10335025638794,
+        "longitude": 118.3486250065239
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 23,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "运维开发工程师（临沂）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8B2t1fFpo1E.search.23",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-6K",
+    "securityId": "7W4sgA7BCpwtq-A1PwZT_frs9c6HgFPv99xTT1ww-jlTlmTEEmmpdcfzFCRvLRIM4-tTQDuJmbJhGtl7GOstxDj43OTQ6KLjVxe0bhOKroSRZXcj70_k9cM8eUlu7Hqa133WvmVywvG8IXU~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "运维开发经验",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
+}

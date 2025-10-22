@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
     "bossName": "国女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事专员",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 52,
+    "itemId": 60,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8dbd2Boz6jz.search.52",
+    "lid": "8B4FCqKLixd.search.60",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "47ZCv14HXi4wt-N1noA1g4k3CtgMJ_hBx-pGpP6hY_iE_QxYbSMiI7JA8P1gtSlr73jWK-uFFUF09m64dtKdmZcbR4mjJDkaupAxI-JVL7kNEKeSpE1721_9nL6c4oVDaEMY30J_5Gyrx3FEXSGKSyJl-I5fr-j6g5mh8w4WvEO4hApjhxs~",
+    "securityId": "Z7JEvnN5GFDmO-81Pxc8iAH6CQypzLEg7tXj-cHLhJMGXKUYAGmQ-BKedE4P2aHjiSkE23OJ-kBaJYD78BpaZKi8iP2ShGJDFzEtuWB1u-S1XeEGM8oiTwgC2bdi0dAaF8-OW5EmY2YlMRk~",
     "showTopPosition": false,
     "skills": [
         "网络运维",
@@ -63,5 +63,11 @@
         "电子/电气/自动化相关专业",
         "IDC机房运维"
     ],
-    "welfareList": []
+    "welfareList": [
+        "年终奖",
+        "底薪加提成",
+        "绩效奖金",
+        "保底工资",
+        "五险一金"
+    ]
 }

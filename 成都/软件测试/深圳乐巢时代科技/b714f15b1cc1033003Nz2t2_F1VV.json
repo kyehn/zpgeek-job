@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "武侯区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "郑月明",
+    "bossOnline": false,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "深圳乐巢时代科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "中和",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8863a0a9dbfa7eb50HZ-3Nq0F1NQ",
+    "encryptBrandId": "e840cd21fec9e2b41XF93tS4EVA~",
+    "encryptJobId": "b714f15b1cc1033003Nz2t2_F1VV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.541204,
+        "longitude": 104.071199
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 84,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8AZTdMqeNKi.search.84",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K·14薪",
+    "securityId": "avorRWfHHtWXb-r1tTOwMIsk5CtADe-vxiG3v6v1FMcnDK9RMBr-XDS1VeAPkJcQE7cLjiLYX3DQx4axT6lzGuLnerU8MhFQbet5TUk5fOQv_kzbsQMIN0oheISVwwiY8gxV4tLJyTFuG7Y~",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

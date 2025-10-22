@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 4,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,16 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8RN5n4NVOxb.search.4",
+    "lid": "8tNdvatMBjA.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "11iXI2qUgBmVN-f1lYq_q3q2pzzyjWK_JCMIGPJlXuXgxW8Etj8v3tJmV2R1664Zt0zKdtTLpsNgYR-FE_OUOcgB6SO8qRyXfjKubTwXvPwrZBETnl3c63lMJstTVQiWA3BUZSUs5qxP0P-0h8zg7ig6",
+    "securityId": "qucROSp2IJUtZ-41ftiyspjw2iJ3s6WXHA0_tGrFcwKnWQLRNwyWEstqS7p85T23MKAZSqV5p71dVCQkQ-X8x4PT9fVgfo6BJ4yKwv0oGawy5_zjSEj_2jS8we8TZ6tzW_TIwCDEvqdfpj3uR4oGJq2p",
     "showTopPosition": false,
     "skills": [
-        "手机"
+        "鸿蒙",
+        "os"
     ],
     "welfareList": [
         "加班补助",

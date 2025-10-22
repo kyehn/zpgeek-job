@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 166,
+    "itemId": 86,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5DmPjzBoIRV.search.166",
+    "lid": "8B3Mmgot81d.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-9K",
-    "securityId": "ZoSNXQEae8Mna-K1XgQalpeXEC2mkOm_xxPWWuBAtXKlrZAa0ZrKwwJiNWDcNLSlj9-MVVnyIwcAGRuZjUGSYK49YRhxueWGVnNIzwVySMfL3uSQJOs6NJvzMHhl0GXUqq6NbvzgnQ~~",
+    "salaryDesc": "7-10K",
+    "securityId": "l1lF3L7lUFzEL-H1kqwjctcTjJqpDl2cDGs4390lwlByCIl3MJcefGrit8jKdxjrsp_xWRwV9P-qSKbmMCFeVukqKq_I0E0tWbQkktUWP6S906vKhc8gjcE5iPuI61rZwVtB1xBqww~~",
     "showTopPosition": false,
     "skills": [
-        "文档编写",
         "测试工作经验",
         "计算机相关专业",
-        "项目投标"
+        "掌握软件测试理论和流程",
+        "测试相关技术方案编写"
     ],
     "welfareList": [
         "零食下午茶",

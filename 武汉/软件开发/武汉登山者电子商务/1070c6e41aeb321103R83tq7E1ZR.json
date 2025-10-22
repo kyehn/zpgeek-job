@@ -7,8 +7,8 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220310/607f1f3d68754fd0d7ba88da0a718db509c11ba10edcf41090e19cd24341b9d69aebca8b10b94890_s.png",
     "bossCert": 3,
     "bossName": "赵女士",
-    "bossOnline": false,
-    "bossTitle": "人事行政助理",
+    "bossOnline": true,
+    "bossTitle": "HR",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "武汉登山者电子商务",
@@ -22,7 +22,7 @@
     "encryptBossId": "41735ccd20e83e330nZz29i1FFdV",
     "encryptBrandId": "d4a65b3db47223851HN92N-8FVU~",
     "encryptJobId": "1070c6e41aeb321103R83tq7E1ZR",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.456014,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 34,
+    "itemId": 61,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2uSfyIRfViC.search.34",
+    "lid": "8AZTdMqeNKi.search.61",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "JCB3DQmpHjrPr-q1v3gH9KRUu7dvY1viz6xA5ZGTYz65uCt4V_9ghkO86Stli6eGBC2TOK_6GCAdQnEVJn-5VdOu3WXL2z32PtmkxNMuPcVFRRgzRl67Jm1L3i4hkhQxK32g3oHjtKLBMQY~",
+    "securityId": "Sn8HfPhTjaDEE-v1OqC8pA3Jf6c069KrjtRyeAeVk4yMTBBAFyG52jw2_WD0PAKoEzGach2sFrcefzJ4BC0pwF14c8s-UJjxYxUbbVYyq10Uvyx-Qn12TGPYg-hecAiztnePMmJ050jBZfUtQx1Q566_UJtVD0xHfW3GHXkRIiowUzKw0wE~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "Java",
+        "PostgreSQL",
         "MyBatis",
-        "PostgreSQL"
+        "Python"
     ],
     "welfareList": [
         "五险一金"

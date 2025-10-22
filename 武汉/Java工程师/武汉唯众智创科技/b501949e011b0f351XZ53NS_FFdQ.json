@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 70,
+    "itemId": 72,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7Mqtk3DSJdC.search.70",
+    "lid": "8B2t1fFpo1E.search.72",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K·13薪",
-    "securityId": "YUVpCQlv8QRvL-h1clff4-kPOCShygwokAloF_nj7hJkVT2rcmvweu8du7naqiFeQQ1WB9TIHd1SLRKkM95_PD9BtnZIACoNaKbrF5-W5JFdZ8ZPiRsFZEs8bQKlqq_F1tOopkL1i4A~",
+    "securityId": "du6QMdxqTtLCX-v1xmKNPQPHmlzjpsmG7-nyo9GLNLDkFeZ1M_WcerWiUxcM10eT76F_q7V_6-Z6kDj50tjpbB37p5x3Ov06m9i5GnMT1wOB2Q2LQS46v_Tc_uXg0d6DrwMQoqJfl3w~",
     "showTopPosition": false,
     "skills": [
-        "HTML",
         "CSS",
+        "GIT",
+        "HTML",
         "MVC开发",
         "容器技术",
-        "Spring",
-        "GIT"
+        "Spring"
     ],
     "welfareList": [
         "节日福利",

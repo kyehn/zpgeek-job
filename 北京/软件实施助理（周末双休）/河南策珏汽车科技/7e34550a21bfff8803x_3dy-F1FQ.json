@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "张女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事",
     "brandIndustry": "汽车研发/制造",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250905/7b5b554d84f9729cb73f74927326f038fa53813462c937babb8c5cd64c12899b4e4bf0247adc56a3.jpg.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100801,
     "isShield": 0,
-    "itemId": 1,
+    "itemId": 2,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "99TaEt4fmCL.search.1",
+    "lid": "8B5wwOTeW4V.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "YoA7-NeBMXkby-Q1iOsr3LXCz1t1qB3r-5ptIL_IjRPrWIORHRb1_00AC-J6eWGko0zTCOmGN67NJlCJ_PLFoYHWxPunqvniEXk5i7vqGgyxIXKpJYxa5o9iZX6VNZgjm4Ef97JmAfbrcus~",
+    "securityId": "-LKRsPlQt25Px-D1cSoGHlRPC7XlKJs2OHPE4XZ3JQ44ZMHqTiig83FnubZEogs6wYFMnKx6P0C4fM3rLW_RWLxwqNnh9R3AxIpVDCwNriDGCIiNtQ4veE5V583L2bX2AM9gNsWchxmSBQiiAJeLOBNs8sqChsxD77tHll65DhZCcK7ReiI~",
     "showTopPosition": false,
     "skills": [
         "接受无经验"

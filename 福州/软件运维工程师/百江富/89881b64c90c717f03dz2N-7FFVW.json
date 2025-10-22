@@ -7,7 +7,7 @@
     "bossAvatar": "https://img2.bosszhipin.com/mcs/useravatar/20150810/cad7607319c013065b6233dcee8380268c7dd922ad47494fc02c388e12c00eac_s.jpg",
     "bossCert": 3,
     "bossName": "王先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "部门经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "d2fca7d02ee415111XJy3dW0",
     "encryptBrandId": "70c5e2c4fe0ab9ba1nx43di5EVU~",
     "encryptJobId": "89881b64c90c717f03dz2N-7FFVW",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 26.070939,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6SvQdpWtlRH.search.11",
+    "lid": "8tL4wj4T7QM.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K",
-    "securityId": "YaJNYKWwNFA5I-x10bvmEiL-V0Zd139NOsMHvW7t2URqXO2K2Njj6ZnKRFdlj4-lYefffsZiWgEaElZanJDdoT-EKdRfkFQVhpvxRMMovLrEVogdI82cZGWV594xGrQ7zZoUoC36lnk~",
+    "salaryDesc": "6-10K",
+    "securityId": "Ea4jdSDe0eueM-_1UfybX6lrGoMzairaPLKPDjgdlxtS4n5xbyPDvZic81gqB4OMs1R4d6hW7L2gNdk37wB_EjtBp0W29IQJNImdMrckcw2nlFciDT2oNXnZaahCoNWPA7FOe8KTQjfjSkx5pNH1",
     "showTopPosition": false,
     "skills": [
         "Python/Shell"

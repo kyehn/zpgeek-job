@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250321/607f1f3d68754fd0339d72a713585797e5eccf559b5ab8013f02f98b9839119961062f1990db597f_s.png.webp",
     "bossCert": 3,
     "bossName": "张先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "社交网络与媒体",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181029/a9ecfe61e1b9a8e6e354d1171d3157a8cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100003,
     "isShield": 0,
-    "itemId": 22,
+    "itemId": 45,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8ZJdCbzX1wI.search.22",
+    "lid": "8B37jtD5Tru.search.45",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "2-4K",
-    "securityId": "_Em4_m8LcY_A2-b1uq-YM2JxH9i3MIVHyFjl6x9UhwkhYXtG7z3pKa3DmIvaD4KFeFZM4HTWy2z-rOu31gMdVU6qJvhp4f0-pC1en9DYsgnx1dxDkgD-ngXJQbJk5O_dVma-3gLLcyRF6v8kjtIl5OVsnvv-SDlBDKk4T25sc_cJUR8~",
+    "securityId": "KUaW2HyOaKcg8-i1SnpTQSPpSFob5alB0M-GoPywfhTvcBKM_cGLJuE3XLteIehylDV7_EatNrTE05XxusRXU7QRWpR5nii2ElNzy3NLxm5Ntm0ZbI-YXYgp4v2HHeaY1NzyX__R084~",
     "showTopPosition": false,
     "skills": [
         "软件测试"

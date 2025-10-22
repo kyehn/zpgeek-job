@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231011/607f1f3d68754fd0a6e23ccb94fbdea0f56a9812f2045507776cb0bc867de7a613931cbb1b047730_s.png.webp",
     "bossCert": 3,
     "bossName": "杨阳",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "移动互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210926/7b5b554d84f9729c8d684b950091d99c7cd9a54e46d34cac6e7da660a4c9177371dc437d04d33cd0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100019,
     "isShield": 0,
-    "itemId": 38,
+    "itemId": 50,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8ZMuHFstukc.search.38",
+    "lid": "8B5wwOTeW4V.search.50",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "npBN90JqKaFoR-t1lpApepZjf-ooAPrjWf_vraJTOOwkTMdqDdet1q84jniWeS5scL5Z1-LOpKN1quXJjf8TNYUQnK9vn0CC8SoW9bsGdLEbdGl35fwI6BL0Fcu71kKoF6uExWDgAb0mbhN4sToetklUq69m1V1_W3LhJSsn3wnLfyFkqQ~~",
+    "securityId": "1LGA1B1A38oxX-R1hl1uFv0jNAfBj-pRfWXM9Orx5F-CFQjlvbaF0pRzNreqtRpHN6TzBcLwoE3fncH-lypQHXmk0PAhxO-W7l-XnBRZT2NK0-SvF2UpEQsk7aLfZ04z0Z6N_NUrZia2eA~~",
     "showTopPosition": false,
     "skills": [
         "Linux  MySQL"

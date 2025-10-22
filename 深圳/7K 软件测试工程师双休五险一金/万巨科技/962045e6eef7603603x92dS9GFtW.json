@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "福田区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250522/607f1f3d68754fd0dff0e08542e20704f26f593b9e07ad8dd1fb2941792a72fd03d0e88273fbafe5_s.png.webp",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "人事经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250618/7bf6f160950405e98888f0c7903ac253c495caa6c3d643a7bdb2d4181534c56fc353ae1c2ca01fc3.png.webp",
+    "brandName": "万巨科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "岗厦",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c0cdf0865e515cde0HRy3NW8EFBT",
+    "encryptBrandId": "8e028734d1fa56141HJy3d27FlE~",
+    "encryptJobId": "962045e6eef7603603x92dS9GFtW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.537849,
+        "longitude": 114.051125
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 17,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "7K 软件测试工程师/双休/五险一金",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8B3Mmgot81d.search.17",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-9K·13薪",
+    "securityId": "fhRXWv9n1MRGk-N12BUKeeNljMEGL9-VlcJ7lVAkkrLM9AL-6ECrX6Vd1u9dD1vqd8CrQXg2nCqcSVW6BTRUood3Tm6N46MMpbQmx9DSZiEXykv6iUMeUkNzERUyYy54XRXMJx2MM9s6jlw~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "年终奖",
+        "定期体检",
+        "补充医疗保险"
+    ]
+}
