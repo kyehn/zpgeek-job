@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250708/607f1f3d68754fd04811f34145a9374b327dd15729deea6557d15e5fd10e73a5d9ada503602784fa_s.jpg.webp",
     "bossCert": 3,
     "bossName": "俞女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210619/0ca9325e25d4799d07f2745dad3542719345f42e77c71b998374b77eb6d15e8e.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 23,
+    "itemId": 18,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9a7WzOIcNfW.search.23",
+    "lid": "7ZP7iwPSGM8.search.18",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "FUZNVvwsulSA7-e1M_7i0sUuGicTamvlaPjA8xmtIMHf5LXcmoidVOt1qtQ567QhAmxgQhaKruD-aQ30VoYhf7aDAiyklDwJF4GUd28GhrBD9iqzThtj3yYb45H2rtwU4y2HbF1GHp9F4A~~",
+    "securityId": "qXV6B0dI9bAvj-Q1V9SIcVfl5umfZVtFSDRtUU60IX-DqKkdf_0SO3dgR6LoO8dgd7W2VuoaJegMNlzlHVD7dCh3w6CF9zaO3ILq411InmTV1DX3FKamAeq3fAtKiDZe4TGY0FOOH4uiT0w4z0iu1VOgF35wTeDXNBsyDb5CLt1w1WECIA~~",
     "showTopPosition": false,
     "skills": [
         "计算机/软件工程相关专业"

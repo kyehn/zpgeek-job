@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "余杭区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": true,
+    "bossTitle": "HR",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230808/7bf6f160950405e907713815125b0d61af7acddada44cca661d2fb8e1d737732287fbd295e165a3d.png",
+    "brandName": "迈可行",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "五常",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "66eb490ed694445f1H192dq5EVI~",
+    "encryptBrandId": "790e6735419cdcff1HR62t64",
+    "encryptJobId": "924cce3bfd25beb803N83tW1EFFS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.276998,
+        "longitude": 120.012851
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 74,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7ZTnuM477gy.search.74",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "bQlf5wHocy7vT-t1kNaB-LJC39iFym-d53akByIsZpPy7xyq5GKT1HH9v52pADxUsJEbQ-x83jE__26y_13VbNjSqv9Ow9sXlDHeqKF25chil66EIoZe-9uyphq9r26A7cJQ_lyl9piURyM0v_bBsOf7MEaeXLW_eVl1vxTbrCZryUc~",
+    "showTopPosition": false,
+    "skills": [
+        "测试相关工作",
+        "现场实施相关工作"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "餐补",
+        "节日福利"
+    ]
+}

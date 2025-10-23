@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
     "bossCert": 3,
     "bossName": "谈先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HRBP",
     "brandIndustry": "公路物流",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180315/aab06281a548b38c7894989c1a24d26dcfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100507,
     "isShield": 0,
-    "itemId": 82,
+    "itemId": 33,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9fxrDf9hyvf.search.82",
+    "lid": "7ZRSN31ViqH.search.33",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "6b2THIGvtj6dr-61UOLyP7ixrDyjmy7WZS_cnvjq04T4ndTVK5opDz2yt39jVGDdH98JL7ubbs-w2GC8vE4DWi60e7ls7xeYb4hIJ0arwLpz-3bxFZ_3HcB6wY2W_-RBZ_9QQPYpqHE8-Q~~",
+    "securityId": "6AWyPyLOEiMEe-S1Iq-zuzM_usM38a4JEgZtu-ynD7vlbIkjpp7FEKbvih-dmoecg3h48B_EZhhK9DDLMQGD6gJTdEoYpVRW8FjZRfqwTfp3fVd9234kjz6LAo21LWdWnXbNj8u4T9m8kkK88CgyKzGMmKxtI3ok7QL73I-BMkctfiWMuw~~",
     "showTopPosition": false,
     "skills": [
-        "出纳经验"
+        "出纳经验",
+        "初级会计师"
     ],
     "welfareList": [
         "免费工装",

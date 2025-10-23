@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250410/607f1f3d68754fd0f95b97fb7b7b6cae2a857dc51bdeb8cd74f15d066f5d3f105fc462a7955ac0c3_s.png.webp",
+    "bossCert": 3,
+    "bossName": "戈女士",
+    "bossOnline": false,
+    "bossTitle": "行政",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250326/7bf6f160950405e9bf3c44755e06c51c497ec7d4cb2638bb74f15d066f5d3f105fc462a7955ac0c3.png.webp",
+    "brandName": "鲁鼎互联网科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "西溪",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a36ffabbed6c858d0XF52tq_FlBW",
+    "encryptBrandId": "05a947fad45181951HBy09m6E1o~",
+    "encryptJobId": "e3011e530369202803N62Nq-GFpZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.273558,
+        "longitude": 120.137069
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 73,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "销售专员",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7ZQWA5ZtXFd.search.73",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-9K",
+    "securityId": "f1UQDjYQG0hL4--1FaOQw0iL45g301465dnTsll-SYgidtaaacBPjof6r35m5rRtofqDfMArQW9E6CKQ59JDAtYy1jpkT4BNyfbV-MqnxboXc-P-jl0MtY6q3co937vjLfdHvBPm7Wkb86s~",
+    "showTopPosition": false,
+    "skills": [
+        "无经验要求"
+    ],
+    "welfareList": [
+        "保底工资"
+    ]
+}

@@ -22,7 +22,7 @@
     "encryptBossId": "040d25be272484781XJ72tS1F1A~",
     "encryptBrandId": "7f9a87fa7ad5a7661XN90928Elc~",
     "encryptJobId": "ebb554eac584612a1XN52tS0EVdZ",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.302208,
@@ -32,29 +32,31 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 78,
+    "itemId": 36,
     "jobDegree": "本科",
-    "jobExperience": "1-3年",
+    "jobExperience": "1年以内",
     "jobLabels": [
-        "1-3年",
+        "1年以内",
         "本科"
     ],
     "jobName": "初级实施顾问",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9SRCx5fas9y.search.78",
+    "lid": "7ZTnuM477gy.search.36",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-9K·13薪",
-    "securityId": "1mEbwabJjJPLx-41X8SF2Xp0BFv5ycfjWQPvp6ePT433gmHRmnUr2mje-I6z30z44l0VuZeZxK4ef9clBcPrEkFqV9dyItBBfSfGsUMsA-W9ln8jVZcm1xPIxWpWMXRghb6ugAEmG_bS-w~~",
+    "salaryDesc": "5-8K·13薪",
+    "securityId": "oX0e1OExLVcZ0-31go8s9Yl0Uowy_RC0As9sQl30XutlHnxBjeYNOXiQiWP9YkpIIQhngiZkyhnHPZ_gzI832Ama6B1h3ciWDztNeRmx8SvglIMx4OhEmgxpzrEa1v54VQPt5B1GflOrXQ~~",
     "showTopPosition": false,
     "skills": [
         "财务相关专业",
+        "ERP",
         "业财融合",
-        "软件实施"
+        "软件实施",
+        "金蝶"
     ],
     "welfareList": [
         "定期体检",

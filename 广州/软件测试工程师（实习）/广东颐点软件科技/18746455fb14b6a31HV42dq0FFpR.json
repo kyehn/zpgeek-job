@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天河区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "朱女士",
+    "bossOnline": true,
+    "bossTitle": "人事专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230711/7bf6f160950405e939845e22921616239dcb791d88590485652335d557031abd48cf856223ad4fe2.png",
+    "brandName": "广东颐点软件科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "岗顶",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9d152d484a86d6460nBz0t-8FlZW",
+    "encryptBrandId": "cf9412683465170b1XN72dS7GVo~",
+    "encryptJobId": "18746455fb14b6a31HV42dq0FFpR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.144262,
+        "longitude": 113.342236
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 78,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "软件测试工程师（实习）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "82FqMEaqZus.search.78",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-6K",
+    "securityId": "vaAaJt5C513p9-61yDIeIU_JFX1qaPRaDYCHGqIEaXxkv9gWxjbX-_l-qBMedTmM-SVAbAtnPx6Mp9_RaC5DF3JiZNK2sV6m95wIUo_4VZ3dJdIvKOZv-J_3bwGOe-wbDK80tITPiA8wo2WSMVH4CrUCAxZWnR1weUpHM4wCHrxEq30ZCIs~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+    ]
+}

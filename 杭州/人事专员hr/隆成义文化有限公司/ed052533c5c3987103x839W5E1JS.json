@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241120/607f1f3d68754fd09981a786692e4e8e9535c5fa6c4e7110c8273188dd8396253c7eefbdc63d3d33_s.png.webp",
     "bossCert": 3,
     "bossName": "王女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事经理",
     "brandIndustry": "培训/辅导机构",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250715/7b5b554d84f9729c1b5ba32f5fc395590dd3c7dc4f20560c6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100303,
     "isShield": 0,
-    "itemId": 14,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9a7WzOIcNfW.search.14",
+    "lid": "7ZP7iwPSGM8.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "TInv3Z2RvCF6f-W1MWgXeS5jhdtU9Ov08EQbMVcVlyyn-XXNLt93PO3HLi5v9h1f4Wmn3i08x-MJRhfkWYGraGC_NE_dFr0AD86mdSpeJsTswFLo1Mnv9zYkWi-t5SdrUZNGMJcMmQ_wU0o~",
+    "securityId": "ae6ffS043bpQ0-c1rBs_IBj1jqzSi4NzWXoNuV9Yl_AwhI-crlQfRkWIUcje5MbZkHrZsAb3uDSY-8wdcouGnErNbltEXxgUtQFKGIykZXs024Bu9n-INmtliGi2kaXxd3Piz5lnoR23nTfh_3PDpRQPa6po0fOXfO_Y073d-t19-ad4mY8~",
     "showTopPosition": false,
     "skills": [
         "不接受居家办公"

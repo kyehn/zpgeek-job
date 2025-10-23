@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250804/607f1f3d68754fd0916e840e6afdd7b6fc2b5727f31fd1e0b87119be27f1dfccb53f91db54787516_s.jpg.webp",
     "bossCert": 3,
     "bossName": "余女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HRBP",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 38.467228,
-        "longitude": 106.202106
+        "latitude": 38.47483521277611,
+        "longitude": 106.22416722938404
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 70,
+    "itemId": 37,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8dgW9JvjOxa.search.70",
+    "lid": "7ZWsrXQnXmE.search.37",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "mZmcihONha8xl-H1xKAaeqQT_glDVg53N7My7CwJQPmuCBkyRS3F6Dq1XZrTDNPDebwTYsJHwS65sMaARuUsRQyQ7CvDiTxDwLTJXyK8HVa7ssR93ajUujPCuhkZJTzG2qh4SAtostF2V5k~",
+    "securityId": "BLWqNep8PYc9J-81sEZCXO0FSUv0PdTf5_PaRvPPTHdcMkFNcT9WpEckP6Zi6hJUCM15hif0m96tJwAj73QApMspTC1lCXshjMqejloaLTRqXM1-5cDL1-AU_7KzaJC3doMcb0-l6M6LzhO1BRQWcit1SuxjAhVg36e1ON7Hnb17O3FmtWU~",
     "showTopPosition": false,
     "skills": [
         "运维开发经验",
-        "运维经验",
         "计算机相关专业",
-        "电子/电气/自动化相关专业"
+        "电子/电气/自动化相关专业",
+        "运维经验"
     ],
     "welfareList": [
         "五险一金",

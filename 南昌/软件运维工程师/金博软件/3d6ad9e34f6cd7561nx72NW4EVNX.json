@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241216/607f1f3d68754fd032b897f9351ccad126b854d1491e7774d2df549969416da53081c22d4371a672_s.png.webp",
     "bossCert": 3,
-    "bossName": "殷女士",
+    "bossName": "殷小娜",
     "bossOnline": true,
     "bossTitle": "人事主管",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "9718ce8ff76b422f0nd82tW7EFRZ",
     "encryptBrandId": "ae64c62e152ff9591HF-2d68",
     "encryptJobId": "3d6ad9e34f6cd7561nx72NW4EVNX",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.67291,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 33,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8tL4wj4T7QM.search.11",
+    "lid": "7ZUSzQtlOg1.search.33",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "BlA9Jci6Ss6YV-91leMNkJbXQ1j2S4IOBkzNXY9pV_slPPNAo9svuGk1S1sDYXkAsxT1kcF_finE6R1nQHfklnG9H_zwEmHfGdJ36hyA0smpxKMM2IjpfoxlejOFGGnFz2Yvj4Xy8N46p0B_V74Dkg~~",
+    "securityId": "8LQJNXBVgVv0t-h139Nn_EHynHn9sPMn8VtwBDm7C_yewYHVUVKvy4EpumeGUPVL4do-Puj26PO3LXYXSSvu_OMsyulPYINFwWa1HK3SmIwxJLanh-yu6GnCMvbwTfi9tRRTUpQRNU8qXJdAgc9eGVdCum_AvslXYRSrSDwP5_OqXf7v",
     "showTopPosition": false,
     "skills": [
         "SQL"

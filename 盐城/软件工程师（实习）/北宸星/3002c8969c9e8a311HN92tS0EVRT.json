@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230707/607f1f3d68754fd080d527795c92059f51b55fbaf39ba470c42581e1124b0467ffe7f21e79d36306_s.jpg.webp",
     "bossCert": 3,
     "bossName": "柏女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "行政人事",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210330/c8a08b9f32d9ef8426a25d81134548214e5d4ec08fb786932aac8b7af6bdb9c3_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 44,
+    "itemId": 12,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,19 +43,24 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7wm1mY5vEgu.search.44",
+    "lid": "7ZTT5uuyBQV.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "ukVajikjLdzJP-71wy-NcSMxLoCVPRVqYWNaNO2MRJDhwBhlW6Jd6CwCr9VO4RfyGNSP-TW_6MGOax94HiKvOQRYP6osHh7VRiTdZXhw3c6ee94K04oyCBq3875CHA53iDkJ05TjhDsFbbA~",
+    "securityId": "zQ-05ZPAs5UtS-G1--Xjkkg02kFnA-FRr8xq64nn1OuvqCjO_DD05BG9c4slCy0AtRot6Cqq-OU41_jPcmEqGTt-sjIPqHPA1Ca1yvW5EshnuZQGSRkUqLwZjObNFRZjKunciZ1b7MTW3YnmS5FxhZftbWEbgGpHhtk29qL3st57F8Mh0IA~",
     "showTopPosition": false,
     "skills": [
         "C#",
-        "计算机相关专业",
+        "提供实习证明",
+        "提供转正机会",
         "C#开发经验",
-        ".NET开发经验"
+        "ASP.NET",
+        ".NET开发经验",
+        "计算机相关专业",
+        "中大型项目开发经验",
+        "系统架构设计经验"
     ],
     "welfareList": [
         "节日福利"

@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
-    "bossName": "李先生",
+    "bossName": "李伟",
     "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "c85e19c816de1af50Xxz0960FVFQ",
     "encryptBrandId": "5d035c3c5778e76a1H153dS6FFA~",
     "encryptJobId": "eedae43254a9acff03V43NW-FFBR",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.700317,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 13,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TsjNAIkmuC.search.11",
+    "lid": "7ZVoIz7INt7.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-13K",
-    "securityId": "546cnX0pduojJ-K1_XocLWNq8cCwyU-URsEz9wR1D9WxuJQDsfE1GUSzHo0oeyvInwxhDnip5XLdpsuyImcRgoY9iyGhiOVzAt4NGUs-PNgBgLlLCr7d",
+    "securityId": "480mo9u1XAtjx-E1iUKYdqQ-leDQZp3PYh2OTnnDgbB6zyLuQhOArEc0_Q84qo0hiUIMC_vVIPfY2V-UwKtAWzPJng2H2Rt5YMJ09db1Fv-zWzOCiNE8LNy6GI95kaUPfBwNzz0TujGL8g8~",
     "showTopPosition": false,
     "skills": [
         "系统运维"

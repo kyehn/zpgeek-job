@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210624/eb20662693f9714b21debb9db063981f4db0498b96704159685d240e69f2d15c_s.jpg",
     "bossCert": 3,
     "bossName": "李鑫桐",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180413/5c3447ac6c46c9307be4b02322524e81.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 15,
+    "itemId": 26,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8ZMuHFstukc.search.15",
+    "lid": "7Y8SHuVZWyS.search.26",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K·13薪",
-    "securityId": "4IBEeIkLlKPBU-s1AvCvq_zSpc798dJwNL-BBuZO5mMPcCUyoUFqUyeXDpNx7SGUYFSOga4mAmbWWiMalWbuYe9S75cq_XkgN5C6xJP9jjV7TosbgTTyWFNHt9xDg3pdc73KBEj0-riabiUdIkAr_tm6GVM5Qk9QwOIX3bcFCFe52dLa",
+    "securityId": "2yT6S8jVYN9sX-N125_bL9sLB0Xx7jPcZDbzDho2kRNbUIuah0RGamA9lHeYL_q2rmQ2MWHA4Ftma4uNF4YUQmB-MevLKe7892ynJrXawQTFo08JflBh2oMDsJR5EvSPQ7KrAZcrsXms",
     "showTopPosition": false,
     "skills": [
         "软件实施",
@@ -57,15 +57,12 @@
         "项目验收"
     ],
     "welfareList": [
-        "免费班车",
-        "餐补",
-        "五险一金",
-        "员工旅游",
-        "带薪年假",
-        "通讯补贴",
-        "定期体检",
+        "节日福利",
         "年终奖",
+        "带薪年假",
+        "员工旅游",
         "股票期权",
-        "节日福利"
+        "定期体检",
+        "五险一金"
     ]
 }

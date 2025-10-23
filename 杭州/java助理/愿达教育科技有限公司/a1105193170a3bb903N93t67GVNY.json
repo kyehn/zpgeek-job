@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "钱塘区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "王元翔",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "学校/学历教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "愿达教育科技有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "金沙湖",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b4857a4ba0490cd71nVz2Nm7EFBW",
+    "encryptBrandId": "86ba827655f4ce9b1HJz3ti8EFU~",
+    "encryptJobId": "a1105193170a3bb903N93t67GVNY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.310227,
+        "longitude": 120.335848
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100302,
+    "isShield": 0,
+    "itemId": 51,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "java助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7ZQtsZEhkXL.search.51",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "yijxp9Ww5QaxM-51L-j8WdPOWoCKiqh89sHAQlm9qjfSmpR2YaXy5N7w_CyAxSMihsC7bWr3_sm3q1u8cHqSDBq2398czixliGIP8HbzQ14mhqyJHOYcdkBL4mnVEIwnlxjj62pKSkiSa2k~",
+    "showTopPosition": false,
+    "skills": [
+        "Java"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

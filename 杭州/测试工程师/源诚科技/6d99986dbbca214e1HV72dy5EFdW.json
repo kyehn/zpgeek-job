@@ -22,7 +22,7 @@
     "encryptBossId": "9e26600c299a26e91XV53dW9ElU~",
     "encryptBrandId": "01a7f1821589b1ac1nFz2tq0FQ~~",
     "encryptJobId": "6d99986dbbca214e1HV72dy5EFdW",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.280745,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 48,
+    "itemId": 73,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7PJ6jcjgqva.search.48",
+    "lid": "7ZQtsZEhkXL.search.73",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K·13薪",
-    "securityId": "E58HhZnuOn3eq-h1DMDG3eyHUBdby3mN1xPgXACoDS9r1EcKKDnyxMn25VGvIlxC3hBIk9pFZEGxqCgxn1xeOAWhTIX2IlwHVxCZQTqboxw7-q-9b0t_A_oXntUjS0PXysEBzUWYD9TaRfJlnvdN7QBHMFCQh4yiHkNFOEeQvpM270HU",
+    "securityId": "9TdjVeExqL0a1-D1wblBrU8gBeA8U_TXvRJsDI5QAcrs3z_LpK2hi6F4JqQU7zJDkMxO0cqCPKCazo0drFxWhbhb9GPrlXUw8P0k-15nzAzMMYC7vmnHUblyNwDt8aAexLkWPft6lFhuvzDuJTogN2Vv02dhGiQVQv6vU3VS35-bBsZu",
     "showTopPosition": false,
     "skills": [
         "功能测试",
@@ -59,18 +59,17 @@
         "交付项目"
     ],
     "welfareList": [
-        "定期体检",
-        "股票期权",
-        "有无线网",
-        "团建聚餐",
-        "保底工资",
-        "生日福利",
-        "五险一金",
-        "加班补助",
-        "零食下午茶",
         "年终奖",
-        "带薪年假",
         "员工旅游",
-        "节日福利"
+        "带薪年假",
+        "股票期权",
+        "团建聚餐",
+        "生日福利",
+        "加班补助",
+        "五险一金",
+        "保底工资",
+        "定期体检",
+        "节日福利",
+        "零食下午茶"
     ]
 }

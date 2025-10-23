@@ -7,13 +7,13 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250818/607f1f3d68754fd05b4ceae917feef62dbf03e698489f9d9041db474ca3490ce8441dc027a09b6cc_s.jpg.webp",
     "bossCert": 3,
     "bossName": "尹女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "计算机软件",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20251021/7bf6f160950405e9749c8b221bdd883d1d032739109de49dea5a0dc4a2dc055e837110b3686ae8f8.png.webp",
     "brandName": "四川华训盈科通讯科技",
     "brandScaleName": "500-999人",
-    "brandStageName": "",
+    "brandStageName": "不需要融资",
     "businessDistrict": "牛市口",
     "city": 101270100,
     "cityName": "成都",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 1,
+    "itemId": 2,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,17 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8bHvvhgSwX6.search.1",
+    "lid": "7Y73EVdFXn4.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K",
-    "securityId": "SZIU9pSrtCrmO-n1_S-j6EHoXCZNmUZlHy1Mm8AEAQzaVLk4UCY5xO2Xbxl2vYEv8JyA3JnepcaDoj6UGtLhT_hVmbBaaO0z0Xk5buiYyjO_CnRm5gRfqWxf4lXMsPUb490ZL9dpj4xVnz50-qw__8zF2w3JuA0bLLEWtZMKF4EJouHSaBk~",
+    "securityId": "t0GUC2tqkGyyc-f1i9YIOjTC0CYTPUScfJAmjeJ3D1xs6Qzpr5wLpao5sP4-2m-OPHjoOrulMlvDzXj-dw8kAY-7DqUQNshv2q37WRrwE8Kfo7KvNLEdRiubtkbaD4zfMYEaZez2HYYoISw~",
     "showTopPosition": false,
     "skills": [
         "早九晚六",
         "周末双休"
     ],
-    "welfareList": []
+    "welfareList": [
+        "零食下午茶",
+        "五险一金"
+    ]
 }

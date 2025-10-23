@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 55,
+    "itemId": 43,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8dahkO8a8MC.search.55",
+    "lid": "85UqKQ3dRKr.search.43",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "7oSJ6dC5Rf0G8-X1nMZg6ZPkJQnXOi5MU5v8rJIQl8_8spcHydCWXkEfX07pP5zf1fVDBxlbx0lcsw9UiiNGjwt_tgPLLXBa_vkwl45pRQ1e1tSSUkJEFmh7TFQW6OGjZ8ACEO4dfI69KPgwLQsSZ41AUZ-up3dtXVHnHyFhnhRt_vHN",
+    "securityId": "UAHg-AshTT7ye-b1EwQeyu3_iWJoY4kjkcXrwY1SuwRK5MI99-cKPJpxTyH_nzT0Z9ybVpIEs6Yf61WYalXF3xKZajHDkALJNSHbJrBaoWc21cSxHaoI9nXKRia781EjzXd0b3apSwXDqIQNvECTrrNJTelzoZxaEGuCvKVQetHM8SGv",
     "showTopPosition": false,
     "skills": [
+        "IT技术支持经验",
         "售前/售后技术支持",
         "Erp",
+        "ERP/OA/CRM支持经验",
         "金蝶",
-        "售前支持/技术咨询经验"
+        "售前支持/技术咨询经验",
+        "可适应出差"
     ],
     "welfareList": [
         "全勤奖",

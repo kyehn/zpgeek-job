@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210514/6d0407e535f1369fbc8e753c3411d57f62aef69db1aac827a5ddb3a408fddecf_s.jpg",
     "bossCert": 3,
     "bossName": "孙娇娇",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事HR",
     "brandIndustry": "互联网金融",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190107/c44f3093db624e972b0f158e1d1bacd0cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8B0xJyD68jf.search.4",
+    "lid": "82Dqv2VVSg7.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "sRMeV1fDEi67g-q15PgI9oVM4K37Wh2AgjK6CtP1-xvrLp6cN1zwIXVm4TTgqaY5DWSFTnbL8m3ubHN4GFaEdoG-Od1QuEcLiOKMa2stOIC7Z-ytx_VU37KcBGSBbvWU2BWH5qXzxmxE",
+    "securityId": "ha6Ogq-B3cH8W-31NZInWwVSzBsJ6WpoIlpfEsl_wRFjz_swemO8HNBHZn7-JQ7HW_gOUqFQ8lcoFK4t7tragghDstZumyWpaw3ya6h6xTBQRFVS7j8DwrJY_y9GRM11RfbggldjJzV3D_YiFg1hHQRurleV17Ly9Z-N6_XX1XWB8EJF",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "Spring",
+        "不接受居家办公",
         "MySQL",
-        "不接受居家办公"
+        "Spring"
     ],
     "welfareList": [
         "带薪年假",

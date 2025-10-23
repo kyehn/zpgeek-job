@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240605/607f1f3d68754fd0126ed3eabc963634bfa6be5db16bd0c73042428138600c7c419ebdc8bc9fa113_s.png.webp",
     "bossCert": 3,
     "bossName": "杨天惠",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人力招聘专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191107/33292bfebc3ca5acdc306da78477d9709c6f9feef0603c832cf505e3ed7490a8.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 4,
+    "itemId": 11,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8dgW9JvjOxa.search.4",
+    "lid": "7Y41PsGem5U.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K",
-    "securityId": "uEN0Fc8jA8d73-S1mYC15k0Z8mRiJ1jUybZ0dLRzZ5y0JilUh5N1-X3xW84YlATwQd_wy7Y5LEeOFzZFk8OTjTihsjevsUK4ZyuIR84X0zF_v1_Ob_XkfLYfkRcs4Wn44AnWszELE9gkMUp6fBVVEn8mjRRt_9h0L6uQymQc01EVhbnYNA~~",
+    "securityId": "rLfM4rjfmQhRu-p1Ss47T736V91uJ8q2sSbfvd0rcagJl2E28JTKYBSgTnGiI4OcKWxqhQRuWTz_gt4Z-xUDi805CsBLugef8fBTshxHrc43Oi8ciWRb2CxsyL-EPq2eVumgoqmvt7jskg~~",
     "showTopPosition": false,
     "skills": [
         "Python",
-        "C",
-        "C++",
         "Django",
-        "MySQL",
-        "Linux开发/部署经验"
+        "MySQL"
     ],
     "welfareList": [
         "带薪年假",

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 45,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6ROatzfbbsr.search.72",
+    "lid": "7Y4XqYjuTsR.search.45",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "_H49xoDxD9kQB-E1kGqaSF3_88iBYFSc53-xCIIGigoxWS41uF2EDg85MAJ9gzskHVfTbBrv6E-AKFWA0YxBe2VW-LlbjyzgPoK_npTm-SbxqQ6BDFJ7zw57F952Io1d9yCQM_8nr-Aumi8~",
+    "securityId": "1KQBs3z4GHZdb-r1qOb5tps0xpE1g9itreJdDOt-yE0qdTK7rk8FFsHIEedPoT4oH8v2YG8rZtFZPdybfF_0KuUirF0V7hpx7e_Lcznw-3z7XMjJmwcBbQFaVwQoe8SptS3ERg462Flhrs4~",
     "showTopPosition": false,
     "skills": [
-        "后端工程师",
-        "全栈工程师",
         "Java",
-        "JavaScript",
+        "Spring",
         "MySQL",
-        "计算机/软件工程相关经验",
-        "Java开发经验"
+        "Oracle"
     ],
     "welfareList": [
         "带薪年假",

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100913,
     "isShield": 0,
-    "itemId": 58,
+    "itemId": 29,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,15 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8dbd2Boz6jz.search.58",
+    "lid": "82GuZbhdyTh.search.29",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "Hhpum73pRTtRC-x1vczyOOg49OibuYFgAbJFDVq4a3DdlNoa_2u6p9PaPPb0VJaySM9GZqUFZSeSABCFNsDGsncSxhdcPwVy66P9Kls-BGw_5Wu6WGTFV9zdZ4n3CEnYq963JKYzuUGmCQR3yAyQ5mWguX3W-AHvHG_vzFLIQNqf8Il_lH0~",
+    "securityId": "9sXIUBcseSmiQ-41VeCrbWBURR8BoSMp5dIKkemIzNMFibUODk3KCCPgmgnfz3__W978zAKJS0_NT3buB4jCsSXImYeLg-rEu0rWvsQ9g-OlV5fppMEn9_BK6p1LsgrV2bAec1N-EJsNSM0zLQeXeoGSM278OGVcU9BXWwP0Tx45X1GjLOQ~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "软件实施经验",
+        "计算机相关专业",
+        "可适应出差"
+    ],
     "welfareList": [
         "企业年金",
         "五险一金",

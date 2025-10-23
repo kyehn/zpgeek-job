@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "于瑞芹",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘经理",
     "brandIndustry": "生物/制药",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20221124/7b5b554d84f9729cbeb3fc4d76e593ee0511c6fada593f5df2351636422bc4cca524fe43fd80298b.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100401,
     "isShield": 0,
-    "itemId": 39,
+    "itemId": 10,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TkuuMYEVTi.search.39",
+    "lid": "7ZVWxqn6L52.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "EWRbSzSC40MCd-V16sb5SCPfT2-06iIlIOebCph_3gqLWfoQHDHyopl_c4LbnSk4ASLTj3DH1Go9PCUbPbVJhO_bD2tIm2XRb4fGPTo1p6eS33xvtnpbfYwfBBsT9KkYvcfnoe0L5uLNQw~~",
+    "securityId": "TlAUuevWw9iuB-e1CoUjIIhNm3JbbSyBHhYV01JHlDczHAODeyWzpNbrHpi3WnodcuPYAruk06af-BokxIz48oWjtafFpTMPkuq0J27dnfwn3gM0cA4AjGVyH34l6tihJUX8EM6dBrC_7-9OymkTQaD3QJtstAdB8zx9jTmnk7WrIJukKQ~~",
     "showTopPosition": false,
     "skills": [
         "Python"

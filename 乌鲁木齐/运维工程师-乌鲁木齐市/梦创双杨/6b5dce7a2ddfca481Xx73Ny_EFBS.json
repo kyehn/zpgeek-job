@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 125,
+    "itemId": 66,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "sPIvH76IrB.search.125",
+    "lid": "7Y5UZILjlUY.search.66",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "KB_9izrrvW6qI-K11pwhaTxNmUNlWe-e6od4L90BNNJ5gxUyirgmY_VunS9Jw8NweAhahRs-fNps4yEqpZvXkMijSErwXqiPn8dXNaxF0eF6O3hUIbzfpDZ4LcvIXPvUnokC7J-ABQY~",
+    "securityId": "wWcssoZYYIkaR-U1fmv_IkTcZb_b4q-91NKd3PgVc_hDZbItT9i3Pk0g5nMoUN_olcKsGGa19PXoCMn5YcqYrWvagXaO4OyWZhDjSHvxHsaUAZcK4su-UVaX4qAmpxkueHzs4cXJ--I~",
     "showTopPosition": false,
     "skills": [
         "Nginx",
@@ -57,17 +57,13 @@
         "MySQL/Oracle"
     ],
     "welfareList": [
-        "法定节假日三薪",
-        "员工旅游",
-        "团建聚餐",
-        "五险一金",
         "节日福利",
-        "餐补",
-        "保底工资",
-        "加班补助",
-        "年终奖",
+        "团建聚餐",
         "零食下午茶",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
         "定期体检",
-        "带薪年假"
+        "五险一金"
     ]
 }

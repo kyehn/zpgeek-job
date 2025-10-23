@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101209,
     "isShield": 0,
-    "itemId": 62,
+    "itemId": 52,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8noxd2jQ6dy.search.62",
+    "lid": "7Y73EVdFXn4.search.52",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-9K·13薪",
-    "securityId": "rtbBqulSttKLZ-o1hzN3uKHoZm2tJlcFvsoAHshdMG6ylruzs3TtNGQkquNJKsJZS4QMGTuYktT0vnKDE0s4ASKMks8cQgwex1NidQeF90PCM4LAnjAe8jY6CDcatPcjPIhY9XRklH0w",
+    "salaryDesc": "7-9K·13薪",
+    "securityId": "ijKZiin4vtZHB-m1RmeQGKsOnxxz9IDxchpv29GEq3ozw7Wox2kcDc7QxYK47LJZw9xq3IWdwNVM4VjsJpH3ibDS1okgBDYY7t4v_L3FzOpnHUynGg9qFI5tZfb9AkCYtVqYLSx_Em29",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",
-        "e人"
+        "iOS/Android测试经验",
+        "app测试",
+        "web测试",
+        "e人",
+        "掌握软件测试理论和流程"
     ],
     "welfareList": [
         "股票期权",

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 85,
+    "itemId": 87,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,24 +43,24 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fRikwkfN6A.search.85",
+    "lid": "7Y41PsGem5U.search.87",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-10K",
-    "securityId": "S2ExRwJbdHfO0-91jM5b8S0MqRnSCe1mddfHLFbQ_3n_-qPzcUUr2uNDC5xSdFPmJI1bjJKHRKwhkZOilraIJrsU9Cz8PiQqnEsVRsM3Y-aTF_MlEa8QXaUt4ZQYvfhXGP3zVHS6wTuGQQ~~",
+    "securityId": "ljsEJF9xIdBtU-t1_bf59L9FHk71dAz_XDbyeY8F-bIS-udCOwb9u1uda2G8SrNbCj5KSApBdGBt3j0Pl2KKQXYOfj1jZBVXdrDyA3Ph7f5vrTKnqs3hzc62KHndxr37KjqEte6uZWOfNA~~",
     "showTopPosition": false,
     "skills": [
         "Python",
         "Django",
         "Flask",
         "PyTorch",
+        "Tornado",
         "MySQL",
         "Redis",
-        "爬虫经验",
-        "分布式经验",
-        "微服务经验"
+        "PostgreSQL",
+        "Linux开发/部署经验"
     ],
     "welfareList": [
         "团建聚餐",

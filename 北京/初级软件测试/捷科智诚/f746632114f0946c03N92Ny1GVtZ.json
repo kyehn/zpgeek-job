@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240223/607f1f3d68754fd0949de1bbf160502f87f79440a2d783080ea5c1c0774fd01b5ff08f36026562ce_s.jpg.webp",
     "bossCert": 3,
     "bossName": "孙女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240219/7bf6f160950405e9b92a1a50a9c549b2d2bd6b7d05e7636ecdee101b45dff04a2349b3e1e2854892.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "1f252803483c344e1X1_0tW_FFc~",
     "encryptBrandId": "9783d5b5a6e89d471Xx83t-1",
     "encryptJobId": "f746632114f0946c03N92Ny1GVtZ",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.922181,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 31,
+    "itemId": 87,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1NcFo6Myeo0.search.31",
+    "lid": "82FXmpO0wQk.search.87",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "gEnjUTcpVBt5O-L1Ta9q3f00U4TErgkKwBGWFqQ7hOwFO_MxZtBFJHBCI7Bco6fXk2fgEBe73QonIUv1y2YMRu7StD1BaYvHhV3iGS6dCAavLuxyUp8a97LuxKoApZU-euRrcD-XsiM~",
+    "securityId": "KuoRd3KCeEv3n-p1JLZo4xRbt9Qulk9uP2f7DhgkNQZXpmnq_cICMHiCnY5L2eTp9efYnIfdRYhv7njX13A9OUKUMQjUwiBywUqS9HuN-1FMKwJd-7JotDavIM0v5Mm9WjIZJfIOvYYk658bkjRLlZ5q5NY1qIINKkkSlfHL0N--ZvE~",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
         "自动化测试",
-        "Python",
         "MySQL",
+        "功能测试",
+        "计算机相关专业",
         "Postman",
-        "计算机相关专业"
+        "Python"
     ],
     "welfareList": [
         "带薪年假",

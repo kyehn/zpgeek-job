@@ -8,7 +8,7 @@
     "bossCert": 3,
     "bossName": "严女士",
     "bossOnline": true,
-    "bossTitle": "品牌营销总监",
+    "bossTitle": "品牌总监",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250715/7b5b554d84f9729c00d32add23673f47f40aff05d9bee8176bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
     "brandName": "晓帆互联",
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 32.037002,
-        "longitude": 118.642368
+        "latitude": 32.04051782450974,
+        "longitude": 118.64653227178694
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 69,
+    "itemId": 65,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "ibN25FuuKU.search.69",
+    "lid": "82H8j13H5jR.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K·13薪",
-    "securityId": "AcWGIaKLpHUAi-N1-Nac-bJPfjlCGl9ZcD9E7BsAE9Mra6lWNxOy7k8vYkZ2WLHJHx-l_jnAH5NM7_i69XHfqf_UWSU4QIzYDewRbHxaHy4oE_WHlhLWTDZP2f06zebEwwCH4vrScZSSwQ3K_jUTkcQKjhv0dT8HfCu3NFcTEUuJuPdtUg~~",
+    "securityId": "c9jykddOtvQAD-61I375jte8mEBqjHqwFkg43P8bLdrRsyIymqe4wL3A0stW0L1PQo6wFKnyo2qg9l-SHqUTrEZNlvzJcu9216hLJWchfSkfEGDK9D4_-XTaEC_gx9rw1VXR6CRIr7-Q8-227VikLjXZJ2Edv6_xLTq1683NwvG_-QQ2kQ~~",
     "showTopPosition": false,
     "skills": [
-        "可适应出差",
         "软件实施经验",
-        "计算机相关专业"
+        "计算机相关专业",
+        "可适应出差"
     ],
     "welfareList": [
         "节日福利",

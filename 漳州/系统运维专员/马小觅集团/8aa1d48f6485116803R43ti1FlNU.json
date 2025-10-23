@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 30,
+    "itemId": 27,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8B1OWcz2Xu0.search.30",
+    "lid": "7Y5rkBltONG.search.27",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "4KXfFpdbifC1Y-t1PnE0k20trdJfF3ticlcmaJZ1ve5rVujK3qtVllMeOfHAJ7pN4vaoIhTa6g3Ro5lmOT03a3C2jg8JWpsMela3Mt69q0mwMoZ8V8ux5UzAPxIZkKsH0Q_9jGYDAIoptz8~",
+    "securityId": "IrJs3symZppTt-j1FdPyL_DCDXaElVTurqrYwEUvci5QwnROypdnNw2BSiPLA0pifo77F0QCarK3UVbAr6IWRPIcEkbrlEwptq1uQ4CtHSTCDsmIMgF2ne7-XBG-PfKa3okWQ_Y7edZAbWg~",
     "showTopPosition": false,
     "skills": [
-        "系统运维",
         "Java",
+        "系统运维",
         "Python/Shell",
-        "计算机相关专业",
-        "接受实习/在校生投递"
+        "计算机相关专业"
     ],
     "welfareList": [
         "餐补",

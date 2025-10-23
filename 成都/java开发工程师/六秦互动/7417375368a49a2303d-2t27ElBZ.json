@@ -4,9 +4,9 @@
     "areaDistrict": "武侯区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
     "bossCert": 3,
-    "bossName": "田建",
+    "bossName": "田先生",
     "bossOnline": true,
     "bossTitle": "经理",
     "brandIndustry": "计算机软件",
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.533792,
-        "longitude": 104.068541
+        "latitude": 30.557822,
+        "longitude": 104.044816
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 60,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "GXqcJTtKpI.search.90",
+    "lid": "7Y4XqYjuTsR.search.60",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "xYtrpGBImF1O--c1yuDA4wrJPNU5k3fjNDn0ap6LFRm66XOVJeCS7FkAqgWcz8pkgnIfbzwP-8RZIi0yfOrNvf-XXrOUQORxfvjSJSl_4BnepAEdJvstsUAJpsqOR_wJt7erQVUYDcB9TD-AQvbT8qyeMokjdPnMNjzSlAqfDqeMf6JfkA~~",
+    "securityId": "N063FZV2_6lG3-s1fZT5heVIXlsGezkhBiF9QOYmYrNwu3upeCnita3tX8VgFrgsHzpKkNNfH4EVFTsHn9lTlcALp7rvU-BFQsl22SnvwdzdipgOwA3zKYEoYwwDfJgbMqfopM3vxcRTv8VQgzGii5R4xjC5g_9M3KT8YZsdPFx6Rd-XjA~~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "Spring",
+        "不接受居家办公",
+        "微服务经验",
         "SpringCloud",
         "MySQL",
-        "微服务经验",
-        "不接受居家办公"
+        "Spring"
     ],
     "welfareList": [
         "全勤奖",

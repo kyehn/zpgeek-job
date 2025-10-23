@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250929/607f1f3d68754fd025189bc62e2dfd85ef316e2942dfa0afd98ad5bc8b9fd76be09698534ba78322_s.jpg.webp",
     "bossCert": 3,
     "bossName": "熊先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "广告/公关/会展",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250627/7bf6f160950405e9e2f50960f35f3298c26c1c5515a178ed303931b0dd0654f0900b0846511c1f27.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100101,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 1,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9fv0XZ7UmhY.search.2",
+    "lid": "7ZPzujIgcfS.search.1",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K·13薪",
-    "securityId": "JLkayrje4m-f3-t1Joz3eosYEmrQJBi749jxzo3I0-X6xq4qOi7zRYTegDMhs8wSGEQifTd2aBfQXv_UwtZPMpBb9vZS6uKHddsVeCbrhGYSVvs6PN1nV8XHk8jfxAm0B0nIGjau69FJgFM~",
+    "securityId": "_TdaAQvtsn1PL-f1Ilu2siiCsWkiumeqz5MyTNA025ZgWw7i4_uRwGfx1XrBRrS0Sok-QPSBSChYMw_Rd3Trw6YfX9f9U6n7FHy9u8sEnwr4w_N3EWsLbKfO7VZHGAuyzMChHu-KcNigBNEhT3h78bUVEULIpKk1GFYj4juBH42hKmv0J2M~",
     "showTopPosition": false,
     "skills": [
         "测试工作经验"

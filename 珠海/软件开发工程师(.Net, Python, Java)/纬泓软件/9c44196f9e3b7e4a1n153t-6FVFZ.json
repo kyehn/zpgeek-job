@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "香洲区",
+    "areaDistrict": "",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_12.png",
@@ -14,7 +14,7 @@
     "brandName": "纬泓软件",
     "brandScaleName": "100-499人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "唐家湾",
+    "businessDistrict": "",
     "city": 101280700,
     "cityName": "珠海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.348312,
-        "longitude": 113.603982
+        "latitude": 22.397636441872084,
+        "longitude": 113.54138279830138
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 49,
+    "itemId": 84,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4a5naYEv95c.search.49",
+    "lid": "7ZWsrXQnXmE.search.84",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·13薪",
-    "securityId": "ACXmSb6lV1vVC-K1ZmE7zPIeY2iGuUCM3S15I9Q_eNIoYTh4jWCOvN4yI9BeXR8oN4-LI4zevafA4hkmqfK2v4n-qxyN0junwgW27_p5aIHfO7st6KSZlpYj7_Pn0UZgvVpsqiuNQzTPfw~~",
+    "securityId": "Ry6pAWbD3QoQV-j15Ylz1rC8OozDmcXaTHzh2wQE1V-pnAj86nENGXUtq6J3wIoVxMs5J_JOSGzLoVJOOqhyjnYnm-W-lYRt-J2vnRx2hJTKDMdNDxSkzzXupIvZwOJrizYIx9to4tdFKg~~",
     "showTopPosition": false,
     "skills": [
         "Java",

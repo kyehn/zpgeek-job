@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230507/607f1f3d68754fd03963e043adeae8071edc061527c76c2b6ed50e7589b311199f21dd076bf484b3_s.jpg",
     "bossCert": 3,
     "bossName": "杨志杰",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "fdcb46d7744fdd780n183dm8F1NT",
     "encryptBrandId": "1fb9344faf9b26231XJ639q6F1Q~",
     "encryptJobId": "8cfbd8c35ef631451Xx53d24FVpY",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 32.653526,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 55,
+    "itemId": 4,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,19 +43,24 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7UKTUliSgpW.search.55",
+    "lid": "7ZTT5uuyBQV.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "VOW29o-f41_jx-R1afeD_eL2Oq4h2DB6iBmHgc3H_9_n7kXmzciqUK27nd6A4gk8OPqgg11Ze6vdBetwqAqk8OJpw1bfQ2f4IOOXu_3VYWdUWqB-ABGL",
+    "securityId": "mlA4P4yteuQfW-51B3vZUVcX7OKz_TaxUbKxG6kInxuE4ctgVdKf6CIX2Ja784J7HWqKavlflr6gSyOcNwAFKE7c1wsRzX4j4wyKtwqZ7uaGfJ2J1TnQcEFF2J6IJEZrSmIgtGG56KKQpwGjMxvlDd1k13AXd3-07mcJ8ezkHyOh_8gwyGE~",
     "showTopPosition": false,
     "skills": [
-        "IT技术支持经验",
-        "售前/售后技术支持",
-        "计算机/通信相关专业",
-        "售后支持/客户响应经验"
+        "售前/售后技术支持"
     ],
-    "welfareList": []
+    "welfareList": [
+        "定期体检",
+        "保底工资",
+        "补充医疗保险",
+        "底薪加提成",
+        "意外险",
+        "绩效奖金",
+        "五险一金"
+    ]
 }

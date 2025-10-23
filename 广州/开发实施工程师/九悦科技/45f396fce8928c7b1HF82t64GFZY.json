@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "徐女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "运营主管",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230906/7bf6f160950405e90fcf299ba8ce8465deeab011728648bc5d25dd7ec832176189b6d9e06b15d67c.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "d14a56f95f1ed87a0n172t65EVdR",
     "encryptBrandId": "95f1d7725c9f97ab1HR60tS8F1A~",
     "encryptJobId": "45f396fce8928c7b1HF82t64GFZY",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.231215,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 48,
+    "itemId": 80,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4QgQHfLdDXb.search.48",
+    "lid": "82ETvcHa4NR.search.80",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "xQoaeuN45oKwA-A1se7_BMqlft8mtQkHt--613ltsphT7ZQ2kZT9r_ZhKBGDcRAqYROR68SOQW8Lht180T2MRL0Z-zN3MdJ4-65JixafshYWptf6TnTHvXDyH9ItL1eobVjd6t3q6yY6XXY~",
+    "securityId": "IqLmVe14LiYt9-V1FN2E2HP5xGcEnkiG0dcV6dZSYVqTBNXeW3M0YWxL1xMzOukvvhxDMUBy6qx7SV2cfxml6h0I_K9Kttsnzni5gepBpOvFf2ssBYi5XQ3hSaSgLhZjem5dZSxJ77r3Tkjn1e9FpdQ1CG-eiY_xZ327rSK_M2ih6vrlqXk~",
     "showTopPosition": false,
     "skills": [
         "C#",
+        "软件实施经验",
         "Java",
         ".Net",
         "go语言",
-        "计算机相关专业"
+        "计算机相关专业",
+        "可适应出差"
     ],
     "welfareList": [
         "底薪加提成",

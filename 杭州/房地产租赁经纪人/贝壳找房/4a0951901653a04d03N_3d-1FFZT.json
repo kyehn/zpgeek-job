@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "邓先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "高级人事经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220207/7bf6f160950405e9200d45584c5ed504522274367d09a934997c1a2c20a86fe9fcbf97d1fca65c60.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 47,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9fyu2Bjb7DF.search.72",
+    "lid": "7ZQWA5ZtXFd.search.47",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "Ph3DjfAxMmUNr-C1wl60Nf3u5uyco-qrBPzf1uB377f18R0UTsSK3rYE26rnmbs1dVxnsqJ0Yam5S9YMHSq29DmO4IKgcaUJzKP-yLGstR0TmI2wboQzl_e5mjjtzcdI7_Rg3vtirjPVDtA~",
+    "securityId": "-7NtexxB5qgEl-C1q7uDv1RAtRukiVSMeVfPMaqg87IJ0vqGpOVC4q1XSdAiLXmjVLAJSzNiAnFCUOQClGjrZYsglwqeIb-EDl6J9DvXJF8ewq4Pk2XI-Bche6zo3WENF9lT9L71N7wKHpz5h3v3tAfZgqKK9EdivLxK_vAoM0xh4SEnKHY~",
     "showTopPosition": false,
     "skills": [
         "提供住宿"

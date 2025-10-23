@@ -14,7 +14,7 @@
     "brandName": "奥兹化工",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "良渚",
+    "businessDistrict": "仁和",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.360725,
-        "longitude": 120.064762
+        "latitude": 30.45203,
+        "longitude": 120.077141
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 101207,
     "isShield": 0,
-    "itemId": 89,
+    "itemId": 52,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,23 +43,24 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7wt2pyy5m4R.search.89",
+    "lid": "7ZQWA5ZtXFd.search.52",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K·24薪",
-    "securityId": "qWZ0trusn5Etz-n1TVs-skPpgKXYn9IagTMfbF6FyVdSiX4bHd0kLmLDKCwTV4BgNJSnaey-RTN3qMgraTeJnNNy-hOpfl-o6agSydtg6fDTaZvDy-SI0Kp3VpBr3gVYPqYYeCY9DeytLmM~",
+    "securityId": "Cu2j8vkE9ksWG-O1B4c_xOPoLIallRJYzi0V00kV6sGiNv6j0y36pPaXF4ZxlEAWxzBdcGbVy29DYM84VRJEEc86jHhHa376YOrKO0CsGrneE4tsYHvlWLr7SnSFKcWyLmnG2iBmcQuk5HY~",
     "showTopPosition": false,
     "skills": [
-        "其他产品",
+        "英语可用于工作",
         "掌握小语种",
         "有外贸工作经验",
+        "熟悉跨境平台操作",
         "国外进修",
-        "每周双休",
+        "年终奖",
+        "食品/日化品",
         "环保用品",
-        "英语可用于工作",
-        "熟悉跨境平台操作"
+        "其他产品"
     ],
     "welfareList": []
 }

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250824/607f1f3d68754fd048893d87da47371c79120894bdd490a006dec45933a46dba982144491d414793_s.jpg.webp",
     "bossCert": 3,
     "bossName": "戚女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/176e11833ff55cf365d0c7f770abe0d3cfcd208495d565ef66e7dff9f98764da.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 38,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "92baTn5R6eq.search.35",
+    "lid": "85OOEQWYs6T.search.38",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "5kvAW8rKav4G3-L1vKdUxUEzS7BLQ0u0lgokXohOqB8VuQ4drFvjnJhq1P0liFS7K-pxqkww3XdagWF0XPZh_8c6GXGn3C3KD1JkwkoIDn0l3u24rBEEnQkchuV5sxDZSRwgcU0g9Q~~",
+    "securityId": "7bxWUXvS6jebR-N1gmVsN6IvF7ea5RcHnHogkD5OwDsK9kY0BObXZOFsprfKYrGWMn5sHGvTCgUUexmab3HnHRs-H-XMJn00i5ktO8NlKLg0PLf5OIF3K_h7x9uNATQKOKRA8orPxJqOkUxXG8b9dCGgSKeoPBRjQ6Jjrhqizl2VNg~~",
     "showTopPosition": false,
     "skills": [
         "linux"

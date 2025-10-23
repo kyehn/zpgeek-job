@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "张女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘专家",
     "brandIndustry": "游戏",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190806/8e56060c2704fa59f4d6f887ec126d7f0d60ef966e4a1b9b5df8cd77bbb62a89.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 41,
+    "itemId": 63,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9fvXtWiA9A3.search.41",
+    "lid": "7ZQtsZEhkXL.search.63",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "TGW6N9BN5bVgn-e1A4aoZDgdEry-4a6KB9zLnuyPON7jioAqNIupeXaoxsoLKY487kAm7Bwa47t8kYQu1vRJ3rUui-SKuz1vhgY3-9TtRj8RDrgIP0Qy6kFcKD1yWgSjBgcvbgot6ZuZ",
+    "securityId": "0ZB5lxul5LAdk-S157PMIZh0mWcOOJdKgrRsqMrtncYd2mgo_n00c0ENkZfB57B-OdTz-FQgkl8h4BKVd7NO1xY1BaN-DPK45C_ql_lQReEmaUdjw4k8mYavim-1QAGnDHYu4aIm2UO04NopNm8w-LaRuSjeaH2KkVp-3tI0edG673lp",
     "showTopPosition": false,
     "skills": [
         "Java"

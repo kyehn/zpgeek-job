@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101205,
     "isShield": 0,
-    "itemId": 24,
+    "itemId": 63,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8wnm4YOdwmK.search.24",
+    "lid": "7ZVoIz7INt7.search.63",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K",
-    "securityId": "hZxQbSimFb0C_-c1cp29-ztz3jGA4BDeisfZUdKNXEPrGyrfoNpvwVncgub2eNoHqrLLpHB4NCjsQAQ8gHlLXwurHslnhAH_T8ZP_Fe9bQI1bOZJUnvht6PSeNZtkMs0S2-zsMwC9hL3HVxRal5AnGT_XAPgbDYImH1pc0kFg-nsTMBg",
+    "securityId": "n8_m2llUiy9WG-H1PkEyJiIAeBvHekd-EUpyc1oo3ua6jgdTRJHH5IoZbK4-UR6nU0qJlgLgcZv-6P_QsPH5-6zAlN_D4W_S9VGdzPxOcBpSh6hkX9TZWseOr1Lq7Z5GzrGv4BAcA0tuJhmmJrVWt1_YuyaamlBeqEVI9CJbFcbCH6RA",
     "showTopPosition": false,
     "skills": [
         "Kubernetes"

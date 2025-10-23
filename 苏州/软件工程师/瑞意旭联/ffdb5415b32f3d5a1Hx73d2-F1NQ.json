@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "陈先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "医疗器械",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240620/7bf6f160950405e9d4d73ddcdb5c2ac8d19c0a463dbd3b2db038ceff0d90d494ed5512392f3c3517.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100403,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 62,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cwgIgGVvBG.search.35",
+    "lid": "7ZUogL3cLmM.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K·15薪",
-    "securityId": "oBeBuqQhAOafA-Y1uTuRYCUwNGSmK5HHYnnCgb04X8W3sdouVJWkr_N0QG4cuLtGCjGAV3wjNhrJlzGP-Ee9yGSJh9ojF7Ol8GpC2slBvAgZrwzLTmdfB1g0n6NVP_TrQeu9PBA-enJFVg~~",
+    "securityId": "61aP7Hci1w_dL-w138h1je0DQZV2HRl61QqXwCUsL7qWiPx3cdakbj0Bj4c5G0E01XnvntZVnY3nldpA768Ud19OInDw6X9Ce9fGjdy2wM9Exfx5C1_kEVIVdF0MQKMnPnRSU3tyGGn-MghQINtuzKH84UAh2F1CJ4nYyrB67sR5vp80QQ~~",
     "showTopPosition": false,
     "skills": [
         "全栈开发"

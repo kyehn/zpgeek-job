@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浑南区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "于梦涵",
+    "bossOnline": true,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "上海思芮",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "白塔",
+    "city": 101070100,
+    "cityName": "沈阳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "65d8438d00c7f53e0Hd60969GVZY",
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "encryptJobId": "067fb1c956fd55f503x939W1EVBS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 41.701774,
+        "longitude": 123.432997
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 3,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试工程师 短期",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "82DUr4qw0eQ.search.3",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "PdMdfOQKn4dTL-D1L35NgG8GWASzpY4-GfTY3yKrFjOWM0QrWpstKdHn83sUxgcfFdtZFupyt_7vwSrVlXQpbOCWkptygARZAy5XkW-ahk-DPhGLFdk1eSPQRhrjoJmw55VspTBpsJoySJF-K5rauSHlj-hYyTOCZo7yxZFnIjtc3Inh",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "Java",
+        "日语n3"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

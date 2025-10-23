@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
     "bossName": "王女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190326/fd2055459193f77a86a7eac15c266f5eabbbb5e421f039bcdcd80b4c9fc7dae3.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 23,
+    "itemId": 32,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "90IAM3NCc4Q.search.23",
+    "lid": "7Y41PsGem5U.search.32",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "cOGki6PYHVPeD-81zkEXIccmGPMqa5DGp_41H-SuZJ4T0yD3Z5LZUxMTNwK36NshYWH8sXdamfrFpOThJYP6Sz6f9NldlUyLESYNiuy6k0-5u0DIQ9xHNeCaCnQ3j9ObxTV1x7EGwN7LPaSHcpgyPjrG2lrrAsmr_ltk0A8wwP76EuRS",
+    "securityId": "N9kxI6c1JeWJt-n1q-SU1nuVKZUDevLQlMK2h-3R_ZHLpVrk7rhzvN6i0tD31-NBo1TDmEZ7QJIwRPz8yNcOfPn6qdrRLHkXlH5dsI9BI8rS9qSEvVRhzUexCCod-Q3sPcyJjgFs-yg4",
     "showTopPosition": false,
     "skills": [
         "测试开发"

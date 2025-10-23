@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南浔区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "温女士",
+    "bossOnline": true,
+    "bossTitle": "人事",
+    "brandIndustry": "服装/纺织",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "彩蝶实业",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "",
+    "businessDistrict": "练市镇",
+    "city": 101210200,
+    "cityName": "湖州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d42a7b35816c8a100nN_3t69EVdW",
+    "encryptBrandId": "8bacc2c57255b6b41nV-3N-7FlQ~",
+    "encryptJobId": "cbf6a8bb05c4026a03x72Nu-GFtR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.727084,
+        "longitude": 120.40869
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101003,
+    "isShield": 0,
+    "itemId": 76,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7ZTT5uuyBQV.search.76",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K·13薪",
+    "securityId": "gKf8z0gWs3Zat-41czIVowytfOmaNg36qr3Y0P3LpOfqwwQkkRa8uq_374J35xbISNFIjojYlwqmTuDU4lcjEGyFncCvxp6MnYTpt-rrYERDGhnWXDiybHFd0bostfhJh5sa4qQPaT-HOxLz0xB5-WVsonJ-wKbt5XhcEpcUKoz2lgagHV4~",
+    "showTopPosition": false,
+    "skills": [
+        "JVM",
+        "Java",
+        "MySQL"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

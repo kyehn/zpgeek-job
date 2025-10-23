@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
     "bossCert": 3,
     "bossName": "杨倩男",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "行政人事",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 66,
+    "itemId": 70,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gI2FyQLb1M.search.66",
+    "lid": "7ZUSzQtlOg1.search.70",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "ShHBMxVltUizY-P1lIkcGVT0B2VLvI7ot9_981KQ_QtjjHRvJRypufq0um9zAtuu3ZA2Ziq1EqauB-Fju9rpZEqCsGzqWwbJeBVpdRMi00at4xE8Zm_Ghem1pra14Z2Ep-LMy1G_SFaPfw~~",
+    "securityId": "TaH5aqSQvr2Xn-R1vyObrfpYDY7IzL7JDKLukAf4qjYqNiI_-jQafAcrazGFeaZBmHhNcCOK9fV8lYDDu4RtnXUr0EPJB56g0uo6d4_JoM0ynRpgdItT2QLIl-hzkrMpgKpqCPimWqrC1wDkdiYvYeP2qY6KnRDXQQxJLQs2y3TRIrezQg~~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "崔女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190526/7981c00ee13e649ea49397fe1415420b600d101ff5d5da1a89c70b8fb576369e.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 12,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "92fdTwkqWUA.search.11",
+    "lid": "7Y7VTtR4kkR.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "qllO7oQ88pnah-u1ibmX697KEWeGnYBQiScqLzPDOyBU95TB7Mj5TxUX3Ylc1-oQ00xM653HpE_lvudSKgIC9TUgnwwM2ekj5apl9aR30S3JG_EOb14lhBUR4Rn1deV2eCgkmQYfiVmwCouqqWx7WkDPorXGtJaE49kQ-IwKAVmMTRC6",
+    "securityId": "oST7L6vJ_QWNP-01LlEe020Km19amiQ8yRKHQYr6cHrBxWDTIrnywM8RNR7Lo_zyjtJpDeSw63_4ISV9AP76nGNWaw9G5Y8g7m1Uuq3ZLrRomcj3e91_E5VOHQjB5-93oi68gqUYiaWd",
     "showTopPosition": false,
     "skills": [
         "用友"

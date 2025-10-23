@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100026,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 64,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "99YAJJmG9X4.search.28",
+    "lid": "7Y41PsGem5U.search.64",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K·13薪",
-    "securityId": "SFamiNPGlMyw--51iJFy4TQzqpEceXZ5njR3M9hkaPMJoNrXhTvvaHCz5TWhBftqW2uI0xf6z-dh9eml57--oxyoqPu6z0pUztCWGhljnETzmGpM_8LuOMN6d8iJ3ynVwYaVgXFncAA~",
+    "securityId": "5Fj66z0a7pd4g-x1fkKxe8yDKPxrS3C-hBM1XB7rAAiiiFF1qc01fsT78oMXotIFszWKfZjxh9vWZw07M9JjCNj0zQnqNfy6s3JjtgGHpmOMcrbs3iv3xu_tFPAvovkuRWlLr2DCywI~",
     "showTopPosition": false,
     "skills": [
         "自动化测试"

@@ -13,7 +13,7 @@
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "高正科技发展有限公司",
     "brandScaleName": "20-99人",
-    "brandStageName": "",
+    "brandStageName": "未融资",
     "businessDistrict": "金帝庄园",
     "city": 101271100,
     "cityName": "宜宾",
@@ -22,7 +22,7 @@
     "encryptBossId": "94b8d6fe45e1acc41nV43t67EFdU",
     "encryptBrandId": "a0ac073647ce9a1103R93NS4GFM~",
     "encryptJobId": "5e3904fb42ca7ade03d43ti-E1JY",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.744259,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 142,
+    "itemId": 85,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "GMYSHruoCz.search.142",
+    "lid": "85Pq8qLQgJ3.search.85",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "_SXZSQRvvdUnF-J1NiM3DVrlTlO4VkvLHEI7_ALhhFI6Leum004CKJzIa4ZjbYlZlWUe3v_o-CoJRyyBUa-audpHi5ZRaaij-u5_Lj8eIry6gb5IUu35FmCRjAwLWTByl_pBZjZwpMVpNpY~",
+    "securityId": "qwHDOSyeJRTuh-21G31U0BFLofuMD-Nqgz4qic-nOfxXBZz2cw8v7X-eD7EB4KAl9008GUdn3TxPg9psFg1IfVw9xE1RIVE3Q0-3Z3zgwvXqecF7lMHnty0Cn_fJxfaQr1Ze0BbjtcH5Aeo~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -62,5 +62,15 @@
         "PostgreSQL",
         "MongoDB"
     ],
-    "welfareList": []
+    "welfareList": [
+        "团建聚餐",
+        "员工旅游",
+        "五险一金",
+        "底薪加提成",
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "保底工资"
+    ]
 }
