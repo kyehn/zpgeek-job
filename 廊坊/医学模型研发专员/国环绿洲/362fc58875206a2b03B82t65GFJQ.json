@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "李先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "环保",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101207,
     "isShield": 0,
-    "itemId": 39,
+    "itemId": 61,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ZWZ69gOKXi.search.39",
+    "lid": "7Kodapl9M8D.search.61",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "_IFlF7XynndET-Z1WQFnnjXs0uGSMqPmz2M5c-ZSQk3YVpCmRjrcVLSIqUS6E3NS8hcGPPPGae0uNLElGOhKutaviUXHOr8slMfADCroqWXzKljQtnusyD7UvrF7o14JQFLpfmS8IflUQHTjpwEgKahkQY9Jgpq1LuMI1rTO3maDws2T",
+    "securityId": "GoHaLoPzmitIi-p1WwTg7hPWcpcR8yk0SHAiplgP7iD5AxtF_3JKwTuLAsbqfB1-eAJTbpZRBgBSewDpsOqc961OwDqczkJbNSIF56l1h1xGDIWnPYZP2hQadCEOO85LYYJ1KbwJPX5a",
     "showTopPosition": false,
     "skills": [
         "医学编辑"

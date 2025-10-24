@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "亭湖区",
+    "areaDistrict": "盐都区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
@@ -14,7 +14,7 @@
     "brandName": "盐城禾康智慧养老",
     "brandScaleName": "100-499人",
     "brandStageName": "",
-    "businessDistrict": "长亭路",
+    "businessDistrict": "解放南路",
     "city": 101190700,
     "cityName": "盐城",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 33.389297,
-        "longitude": 120.191998
+        "latitude": 33.336928,
+        "longitude": 120.178368
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 101106,
     "isShield": 0,
-    "itemId": 29,
+    "itemId": 9,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fQJKCwl0Zs.search.29",
+    "lid": "7KPYf6M4mu1.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-5K",
-    "securityId": "OiovvCraaHpgQ-C1viUAwZ7R7h2Gm4kH03F-bsF0JtCmmJidsmNTN9qxjEfGsjnJV3JqEYbfr7NFWPQ7YSOGMsOUkU-tGgdvLuvvuM-tkSYF8kEx4Ixy021_7J2kK1lcKtL8LaqUd6_CIYE~",
+    "salaryDesc": "5-6K",
+    "securityId": "D601ofBk4O2ey-O1MBP9Ats9YWcT95hjyKyoSBmUuFdE5CAF4JvOzdoPpfYccoAACBIPmz5P9oTYF5wdjGNcO-X3-5lzzjgTZmWOZtFLaJ9qKMOJ2NqFQ2y5zhacuhiqVbwLYId4RAqMgJs~",
     "showTopPosition": false,
     "skills": [
         "SQL",

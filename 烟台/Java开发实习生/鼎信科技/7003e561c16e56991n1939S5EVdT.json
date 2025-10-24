@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 15,
+    "itemId": 35,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9iuaDkewTCu.search.15",
+    "lid": "7KOQBRkUUq9.search.35",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "UuMpjIplxZ_zd-O1gNd1-Em3yWV_xAQVuPn9kWb33Iz0Y7_YHbvd9RtNTlKKfhKvdcEOtRJNe78lhg27f46YADCu0elPb2FngBJaL0vA-NQjiN_Xx8lXjxu0jcQAiwwYaLMiCQxY07c~",
+    "securityId": "deo2TRxOVky95-C14wUeHr0tT5l8KxspzklxZTerPxHiykS_ECrG9jHLWLhhvsrFedwjWWmGroRMSChYtZigkMV5rYCIbzANtTJpRjfgZbAfDfsx4xEwe2_6wu-ETPcxbx17F7PTI_A~",
     "showTopPosition": false,
     "skills": [
         "SpringBoot"

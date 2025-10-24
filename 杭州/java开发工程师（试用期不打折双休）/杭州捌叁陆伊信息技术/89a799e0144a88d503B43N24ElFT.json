@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "萧山区",
+    "areaDistrict": "临平区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250515/607f1f3d68754fd0a92ac32e3fabe95b419361867da393856c0c2c308a9ebc4d25568956e3b9e94d_s.png.webp",
@@ -14,7 +14,7 @@
     "brandName": "杭州捌叁陆伊信息技术",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "西兴",
+    "businessDistrict": "东湖",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.20538,
-        "longitude": 120.244204
+        "latitude": 30.403456,
+        "longitude": 120.303194
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 78,
+    "itemId": 61,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "72mxBowOzD7.search.78",
+    "lid": "7IVqRkgYQXe.search.61",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "jFcV4QduQ6bJy-91cSLPQzYZTG-KFVXEJ5DqZpR-K7NGMnKkB3v9Ju88fvpqSq4nJsJzVUMdOQjE_kYuUkk9lByTZdcZXdihd6a3Qj_vKqhW2WPPO_8Dq3cHhXK6W6XpYRYBKGaZt4z8Bg~~",
+    "securityId": "ctPinPgsh1Bc1-k17TJV-h0-4YRwbpk5b9Kt8jdxi3Pl9fUNHELBc00FJp6c0P0UC1wvXEU45S5H-5EXrxqGYpE97pLhQUa2syhTB14sxeKHxpQq3FkGFOJOvr4l6gPuUbDprjC7g7sL3g~~",
     "showTopPosition": false,
     "skills": [
         "Java",

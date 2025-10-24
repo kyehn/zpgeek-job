@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230416/607f1f3d68754fd010f52ee556ca400eb7a7f7911829cf09aca90f08d3cd28bbeabe5535f494c668_s.jpg",
     "bossCert": 3,
     "bossName": "骆女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "广告营销主管",
     "brandIndustry": "企业服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230509/7b5b554d84f9729c0625e8be97ec5b1d29f449806417115baca90f08d3cd28bbeabe5535f494c668.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 71,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gJ21orQLZw.search.11",
+    "lid": "7KkJneAPo3T.search.71",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "Fyc4OSctjxAf2-v1KaoHIfvGFNfdQSnf8_tHRbi9SL7LhtGQ5UTBE3fWKA3Y0qeegKnQbDE1O0q2K7EjW_U8FYDb0dZCT_d2lzQxhhmhVRxnravK4ld0nscepTYEj_BHkQ2W-Btlc4m06qZDoDT7-VHH8k1cecXxiIlDQ2u02c3jQiTgnp4~",
+    "securityId": "Ts8uf6Qc7v-Je-11x46L-CSNFl7HqCJBbrzY9K-5FFkUeDroEN-YNuKsm3j-RElGGFwcAICI_xvbyADW1B4lnj4CnS-z8F6LNh9t2fPJQyiVukHuzyTISg_DNmuwTXWxRI62rJNDTqsgmsw~",
     "showTopPosition": false,
     "skills": [
         "ERP",
@@ -64,14 +64,13 @@
         "钉钉低代码"
     ],
     "welfareList": [
-        "底薪加提成",
         "全勤奖",
+        "带薪年假",
         "节日福利",
         "生日福利",
-        "带薪年假",
         "团建聚餐",
-        "员工旅游",
         "绩效奖金",
-        "五险一金"
+        "五险一金",
+        "底薪加提成"
     ]
 }

@@ -22,7 +22,7 @@
     "encryptBossId": "810ad0aca6b84a060XF_09S9ElE~",
     "encryptBrandId": "1c96dadd6f80311503V709i0FQ~~",
     "encryptJobId": "1c13a3d528d8157003B72dq1EFtY",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.214505,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 82,
+    "itemId": 85,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7UJyW0HnBR2.search.82",
+    "lid": "7KmcWEUZ7ZV.search.85",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "vf3EO7_GQfrTb-J1NqMLLed9NGsPlp-FtHWeyjgqA_UdOrlGLAGnq0uAUFKtGjZ8P5KKXwilkyPQYo4p85XDD9NoXJInL-33DIB-u7Bw3hO3AI5wfw~~",
+    "securityId": "aRCRNY8ZTWZcX-e1s7WBFQNf3o2ISZ3lROpazPB0Y6RkdaW3ibEunPRe14ib24w5ZGiuz6O8kc-caCrVjHnIBNw7pCfQo1LIXb9FZxSdkP_2CojPL3D0hxXYDfHuO4e8VHdgtU5B_W80",
     "showTopPosition": false,
     "skills": [
         "国网供电服务中心运维",
@@ -59,15 +59,22 @@
         "24小时 值班轮班"
     ],
     "welfareList": [
-        "全勤奖",
-        "定期体检",
-        "生日福利",
-        "员工旅游",
+        "交通补助",
+        "免费工装",
+        "绩效奖金",
+        "包住",
         "意外险",
         "五险一金",
-        "节日福利",
-        "绩效奖金",
+        "定期体检",
+        "年终奖",
+        "有无线网",
         "高温补贴",
-        "交通补助"
+        "宿舍有空调",
+        "生日福利",
+        "补充医疗保险",
+        "全勤奖",
+        "节日福利",
+        "带薪年假",
+        "员工旅游"
     ]
 }

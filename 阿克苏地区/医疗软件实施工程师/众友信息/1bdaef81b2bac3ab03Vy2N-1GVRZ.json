@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "阿克苏市",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231206/607f1f3d68754fd0c4ad948aa7bb4b1293eb093b536a5ea03de51bf3008dd98ed28484ae7c2f1fdb_s.png.webp",
+    "bossCert": 3,
+    "bossName": "史蕾",
+    "bossOnline": false,
+    "bossTitle": "招聘主管",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "众友信息",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "新华路",
+    "city": 101131000,
+    "cityName": "阿克苏地区",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "dd7808ef22e56b700XZy3dm4E1FX",
+    "encryptBrandId": "e34dd966001c85461nB93N28FFQ~",
+    "encryptJobId": "1bdaef81b2bac3ab03Vy2N-1GVRZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 41.155236,
+        "longitude": 80.222234
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 50,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "医疗软件实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7KSq2qgsRqp.search.50",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-10K",
+    "securityId": "qYq9H15t7YnVT-81la6gn3UKCcPhPPvi9b7n3WhvwADPjDt72WM7ykhRYVpFp6OIpDU9ZG42Szve0QGL0nUIx1mRLduDbAk0EyWgm-ooBbEAeWyjOmACBv835TvyspjHploRKHXUM_a4ygU~",
+    "showTopPosition": false,
+    "skills": [
+        "ERP",
+        "HIS",
+        "可适应出差",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "袁修东",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "副总",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20200317/08126e14f548ae993dc1175477915572be1bd4a3bd2a63f070bdbdada9aad826.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 20,
+    "itemId": 21,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8B5wwOTeW4V.search.20",
+    "lid": "7FmvlxPeuVs.search.21",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "yyF2gylouC39z-P1VbtWHIhpaq9op82kJ8btkile9h3i4aWpMRwDX2saHiAkwFeOmds-M8d_NMsSEVIQGcSU1AhBAK5oGOwqCP5qQ4xLWHf8r4Mg5GpJkud98rRoWGlTMwRuWxIJ7fcjVQ~~",
+    "securityId": "qZvmTndf5Zpi9-K1KDqRwlbvZ2ckuTXCuZhqRrBSWD6A5KYqO2AO7SkAbHduo5YZwWUN0bDfVBQ0Sc9GUzPHfb5n_8IeHv8FPJ069pHzFQ4ajdHL1Nc3NFNxc1DpUKaHzUwFrCennD3MCkH5lXHKTOr74qr_TegZV7EV8O5xLRi1ZmtEfg~~",
     "showTopPosition": false,
     "skills": [
         "Oracle"

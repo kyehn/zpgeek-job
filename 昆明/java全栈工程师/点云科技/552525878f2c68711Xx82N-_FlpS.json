@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201230/54ed349c138240e0dbaef761d8dce36ae3f3b7c9e15b2c560e1db55be1fc9dea_s.png",
     "bossCert": 3,
     "bossName": "王保聚",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "总经理",
     "brandIndustry": "移动互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230228/7b5b554d84f9729c5ae88407b486a8cea3a6617a6d15a964e3f3b7c9e15b2c560e1db55be1fc9dea.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100019,
     "isShield": 0,
-    "itemId": 82,
+    "itemId": 69,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5e4ICxgIjNb.search.82",
+    "lid": "7KPpa2yAE5J.search.69",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "aTujkosFFfgjt-p1s-93yJgoObFdTAS9C5L53X-SnK_i05rrWgBnr37HYEQ5Nl8iCIark-FefVHvI9H-YZAwZsYnQ3L2wFiHZQlwDPX_v1wc7GaCD04R654NU83S-o5yoU4NQ4YipKQ~",
+    "securityId": "Uxg8Pr9EbdY7N-01weQJ2W_wixtaM_qB5uJ0AKWuagPYBpyWKsFbizKaUYLOCZnD0_rlOx0TwCl-Y7urG8fSG_Lb8ab7m_LtMjoKjbGXGbC0bTFCYJFQoqRMWUezKAjto3fM73KZR9fE2UeNgvZhedY3z1054r6Ipp_cu_3Dh9FJAds~",
     "showTopPosition": false,
     "skills": [
         "踏实"

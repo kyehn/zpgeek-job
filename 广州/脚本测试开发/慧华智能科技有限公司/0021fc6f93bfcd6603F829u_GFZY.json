@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "温女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事",
     "brandIndustry": "计算机硬件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240912/7b5b554d84f9729c53624fc1b80d014755c5372923ad1bf681a4ced467520190682bb61bd189a1db.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101404,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 30,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7Y41PsGem5U.search.74",
+    "lid": "7FiSLQ968u8.search.30",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K",
-    "securityId": "YaUfs75p6JEKY-g18rP5-iNy2iwfSqIaaB0Nm38kHfpqRb7cdAMGSrK2Ds-G68EO1AJsFJMhTxnoqLtrqKxsAc6rk8tfrPmIFdOaocASxsXyg3ayAQC6YgPqfpr7OuuA8Rm2TGekB3f8z8k~",
+    "securityId": "SMm8B3Yw-laiP-X1PHSozMmKfsON9yh3M3JeBHeXoj77fyzNKEVZ1XjqazQWLZoRteeXpoQGO19snAmshLrCI6av9ntqrkeFlv4vHFE84TN2aE0DKlSIGHI2pz6837qoGZnSMGQVivddOT7fcH9OMJiEUZv0YyDvNSoqKfowl6QbAnwhy9g~",
     "showTopPosition": false,
     "skills": [
         "自动化测试"

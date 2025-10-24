@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 66,
+    "itemId": 27,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ZRqBIhrbMf.search.66",
+    "lid": "7KPYf6M4mu1.search.27",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "ahLBws6dmXANJ-M14cIAOVT9HOiKpuYres56RZwXrGTXPqGpgmz01rKysgVI33ButtzF0_bUW6SbIxNO9-xtxykYpfd6qWZE_eLz6YneucGAqYJCwlWc6HH5dVXa2WtgbvH1eiIEcg~~",
+    "securityId": "YiHstPLER0Bp1-r1fpbMrj24UIa-4ZvUC0aVbCcUOiSh3TUbcSLbg41TNW4mCW3qw4zRPTF0UZs2FFuK1mJ5Vo8EuzFLISY90cMvIvwAW_Sh857PXFixH9VuTDbNHqt9H85wtYYcnA~~",
     "showTopPosition": false,
     "skills": [
-        "系统运维",
         "Java",
+        "ERP",
         "MySQL/Oracle",
-        "运维开发经验",
-        "ERP"
+        "系统运维",
+        "运维开发经验"
     ],
     "welfareList": [
         "节日福利",

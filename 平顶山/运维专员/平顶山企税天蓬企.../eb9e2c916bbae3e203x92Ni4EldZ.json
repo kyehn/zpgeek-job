@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "新华区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250805/607f1f3d68754fd0a665c9c8245b5f1e349108f1235097474b07e28f127410ae043b99eb95056ad2_s.png.webp",
+    "bossCert": 3,
+    "bossName": "高女士",
+    "bossOnline": false,
+    "bossTitle": "HRBP",
+    "brandIndustry": "其他生活服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230610/7bf6f160950405e9b90d1a29e6e078a4e2b31f0dd05663984b07e28f127410ae043b99eb95056ad2.png",
+    "brandName": "平顶山企税天蓬企...",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "中兴路",
+    "city": 101180500,
+    "cityName": "平顶山",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2597171fb0819fbe0nJy3ty8E1pS",
+    "encryptBrandId": "3b325d67b84ebc691Xx63t66EVo~",
+    "encryptJobId": "eb9e2c916bbae3e203x92Ni4EldZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 33.744938,
+        "longitude": 113.307943
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101106,
+    "isShield": 0,
+    "itemId": 42,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7KndrupdyM3.search.42",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "bDvu5Yh2tJatw-p14a9du-PdMUcZZKaPUtJzAt-852tIN67nHN6yDfI0SDJrYKTBjovQqNBfx0_uruUEuzyzS7MmJu4b67MP7GOmD0otoITAqnv4E8dVkANLeIiVEsd9ATRwcIDuRlObFIc~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维",
+        "Java",
+        "计算机相关专业",
+        "运维经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

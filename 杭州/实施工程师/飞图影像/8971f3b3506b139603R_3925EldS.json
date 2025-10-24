@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250214/607f1f3d68754fd0f4ecfd6bd830bc33d2459a3da500b6336632845f660cca5bf0accf9dccb74b68_s.png.webp",
     "bossCert": 3,
     "bossName": "李艾阳",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170616/c5f12cae15a9aa5c0c34822d82e794b52d8edb07d947b7b521f9aa7584382765.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 18,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ZTnuM477gy.search.7",
+    "lid": "7KkJneAPo3T.search.18",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K",
-    "securityId": "VrBmFTgIHv0C4-T12mv9KtH7VJtrCfPY5OZjT2hrStdZZ2pbieUGANR0vxUjvV5kSa_sEFkcs__2goU4shU-SjLX_4pw8VUKImHglvLRxlfKgAUEG6yf5hCn7wo2Knoz9xXfZ9Zn3PiXPiwcUZGk9pUpQvS3FfEJFKJ2zKyPisuV8Y2d",
+    "securityId": "Bj1yTOgpIdYtD-D159jx6y1U_dWHWOjaYPSazQ35wq5sfgGZzANydjucuiQ8lB6w_HBiddLaVICtOG1ohYhALloOI14f-eiihLk06i20zYAce0yuMcTjE3mOf0oepBH8XsfNDW5DHksH",
     "showTopPosition": false,
     "skills": [
         "可适应出差"

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "李珊",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 79,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ZSRDstlcDg.search.36",
+    "lid": "7KkeqgebB0M.search.79",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "I6Il1DwmSHtec-Q1O-Eel1CReQDOJQjE7a52mifkD3G4D6WrOA34OzuPmQ5vVBOPKtIkP68SdkotrEqGz63eDbncVGKNRynkUKxtMm3TLCuh9pTPv1-yqHnBR7lMSbornAyF0emnO49XUNaJ0kSdak36Dnin0-TyC5drDvkqCtZHcUenf7w~",
+    "securityId": "8QEcFMG2oTv0j-B1zrc0SrbTytcVBZHrweq0_ub2Klax8y3FnVTBMYSii3TKYvixxMcA_eULY9wDR_2gbr7feJqGPUWf-kKC7YqFv8ayAnk1vVLAU4RKRsexm5aVxCJAmGys6InFOOWLsjA~",
     "showTopPosition": false,
     "skills": [
         "电商"

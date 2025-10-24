@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_12.png",
     "bossCert": 3,
     "bossName": "罗女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人力资源主管",
     "brandIndustry": "半导体/芯片",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230210/7bf6f160950405e9864ecbea480d128102568efc2e705284a851e4b73494a6351023583a8d0d154d.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101405,
     "isShield": 0,
-    "itemId": 43,
+    "itemId": 42,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ZUogL3cLmM.search.43",
+    "lid": "7KlHH7V3kVn.search.42",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-12K·13薪",
-    "securityId": "P07IsfaFTmji_-b1ehAkDoGUU14kiAIjIv8eowBZ1J6Yi9_VoTj7aOQw1IpZg9iP60C92gCrr9MbuK4jU425bqNulDMnussPNusKX-_enZMmxBULlPU9mzU1gEJChDXoacVy-9NQD5nztd1PLReEDVq0mPvlrbWru3IOx0A6v6HgCYSV4A~~",
+    "securityId": "zPM3dtzbQkl1Z--1SpWxA2q1snat8wVrUwJhic3cJsXtuQ24SDqs7by7QuCmklsMy3lFfNKdarkhsu6jvgrUKw3osLoxeziFaS3GJBK5-x98fJHtaC4bE-G9Ovg9idwjmrQg9vMkztikvg~~",
     "showTopPosition": false,
     "skills": [
         "后端开发"

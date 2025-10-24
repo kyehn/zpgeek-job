@@ -22,7 +22,7 @@
     "encryptBossId": "dea2d0a81aab9ab503Z73Nu6EVU~",
     "encryptBrandId": "42389642cfbd42251nd43dW5",
     "encryptJobId": "2577db77c37deef503d52d20EVRQ",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.131573,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 14,
+    "itemId": 49,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "Snt8jnI0Hi.search.14",
+    "lid": "7KOQBRkUUq9.search.49",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K",
-    "securityId": "y29lsI8lwCDe8-p1Qp7r5xPzCnT4VrIA7_QLH_ISDyuu8N0qCT8kXbmDpoRbtiOFLEvJrdngdBlImP3aK7ViAq6hcNr579Ipuh_LpFEMiF-pM0XkYCuSNPIXqtt-b2-rJiAJJGTPCL8~",
+    "salaryDesc": "7-10K",
+    "securityId": "OLf9h4obDLvGf-B1wQ9yPCLYg28nvj6-jBDPsPzc2BkonuPIdZzXf6oBMo3gepKJFNpE6tgck5PEyWqjIf6osuefH0O-p78_LZ9sL3p4epIidfuhU4VeI6InraYdixVSsjOGRX6BzHw~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -59,19 +59,18 @@
         "电商、供应链项目经验"
     ],
     "welfareList": [
-        "高温补贴",
         "补充医疗保险",
-        "底薪加提成",
-        "五险一金",
-        "团建聚餐",
-        "带薪年假",
-        "零食下午茶",
         "股票期权",
-        "年终奖",
-        "节日福利",
+        "绩效奖金",
+        "带薪年假",
         "生日福利",
-        "保底工资",
+        "团建聚餐",
+        "节日福利",
+        "零食下午茶",
         "晋升机制",
-        "绩效奖金"
+        "五险一金",
+        "高温补贴",
+        "保底工资",
+        "底薪加提成"
     ]
 }

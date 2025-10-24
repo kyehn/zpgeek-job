@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 57,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7MrsviihuQ5.search.25",
+    "lid": "7IVqRkgYQXe.search.57",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-12K",
-    "securityId": "FGQRy1iwBaXXS-01WNCsvDGUXA8McCfMwp_Fd8sn1MA849lfBW6bHtCJZTiw9SpbZyRBQwwH_tm9CeFJkQgO8e-eHTt6XwU8EvjJv0RzkqaoWAccm8WoVQMOQVmLAAFYh5j0whMVCL0~",
+    "salaryDesc": "8-13K",
+    "securityId": "u2-URCXL6Xy6W-K1MYMvoLWuPiR3TSs9Sp7n8dd_Xm-bvVDmAIn-kBNvl9SCAyg8GTfwdX8xRm4QrsKmEXhTeJ612W6OI1WhDry4bGBD_2drNToxDhcligL5rdS7Ej7Ek8uhKVS62ik~",
     "showTopPosition": false,
     "skills": [
-        "分布式技术",
         "服务器配置",
-        "Spring",
+        "分布式技术",
+        "架构师",
         "SQL Server",
-        "架构师"
+        "Spring"
     ],
     "welfareList": [
         "节日福利",

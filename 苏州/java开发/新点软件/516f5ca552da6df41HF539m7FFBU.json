@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 11,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cyYyLA6axo.search.35",
+    "lid": "7FjlEi1pLpw.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "7BLBMLPAMOgxn-N1HLNjHuOIOdJeakP9V30fiu1eOEaPnLPrxLh3zYtt4D6fBx85OubmEj4F26b_9CkPDPIN9wGywRU6MvmGlfurWl6KHI3Opg7tOLjho0b6NqR93XvqTLPc1r84dmKxpvSJ1tzNkQBu33PQuhyyIfJlTIG9tMXxbSbkog~~",
+    "securityId": "4phGsT8G0n1QS-l1JkHMEofGFFZ5bsGl67vUMbG8o7jFzcRF4qO7a8sas5b7z6UpqAx9sjDLwFdDApK1icHlvdkllgBt7UZx9lT0csHFXew30pBAnuA6AjPrrwN5M1zmFLx0ntdMsrXZ99WtycIVb57UP138KrFuLaKdAfTDJcW8Of5uxw~~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -58,15 +58,14 @@
         "Spring"
     ],
     "welfareList": [
-        "住房补贴",
-        "交通补助",
-        "年终奖",
+        "餐补",
+        "五险一金",
+        "宿舍有空调",
         "带薪年假",
         "节日福利",
-        "餐补",
-        "定期体检",
-        "通讯补贴",
-        "员工旅游",
-        "五险一金"
+        "年终奖",
+        "团建聚餐",
+        "生日福利",
+        "定期体检"
     ]
 }

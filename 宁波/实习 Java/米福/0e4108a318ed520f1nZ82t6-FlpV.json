@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 30,
+    "itemId": 34,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "82EoFihj9GG.search.30",
+    "lid": "7FjQem0CnjL.search.34",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "1Nz3ZjKJKUYoP-w1LvPXnX1YZaUjCbdSqRL4UD3rWu_QwhLKnyTieqqaFGYNmeMCrfn9B5y5WyR1JerdN2DGUTGAJ3SR2sUYZR5SdhkofaESgIuEvrIKzgA4TUukQYBUb5Wllp7g6XEv9MERZDmGINJb0V896GMHlB88N_dNvtknYFWUQu0~",
+    "securityId": "aZvm4uwb4bias-I1-D6TEt7xoRnNNQ2JhfbGR1jJJxi1nJOVaHvB5Ep2PgaxlkCSKais0hvXDFdElJIOgULv53ubkXYoEXO_2UW12w1xRxf5PdK9dXpdxiW1dudy-ymp5hBuC06Isnt77R9iPr9-MYE17TeeCxEw--xkX1j9kzMhaZpWl9Y~",
     "showTopPosition": false,
     "skills": [
-        "不接受居家办公",
-        "计算机软件",
-        "后端开发"
+        "Java",
+        "Python",
+        "Spring",
+        "MySQL",
+        "要线下面试。"
     ],
     "welfareList": [
         "带薪年假",

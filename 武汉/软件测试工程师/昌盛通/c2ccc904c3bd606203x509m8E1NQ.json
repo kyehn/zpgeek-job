@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
     "bossCert": 3,
     "bossName": "刘先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250220/7b5b554d84f9729c085cf612fb43bc3691f02eec81e29b8a3361b3b91e33bfd69f222ffdf3adf432.jpg.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 45,
+    "itemId": 75,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "90NCBGyXKHj.search.45",
+    "lid": "7KRa9t2tzZQ.search.75",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-7K",
-    "securityId": "UDAT7QjwLXfYj-y12MKipfVGy9U5BW-rORUEa2B-3pdXrQNesYARM7E4bNAVK13BVI6bc2zT6T3FoVf5RDONt_ML3wWSBsYFGjyo1zq1qMRZ2PEPkmfIekzAKAbCJF5HLp8MtTk9B8DiDhdDJJZiCfA0C5gx70eiO4m2l5apoR_GQIn2P_M~",
+    "securityId": "rFUO802vDSxA4-716Ru0P8REYIF_Bn4nZUENDRiR2GxYF5YVtP6ZAH04uVUXgi3cODN-5C8TMomeCC2ox5QwCO5CxduFyk_0MGnPXQAuIQQt00Nck-bGQcO1zM6RzZwDFhc66_VnflehE7I~",
     "showTopPosition": false,
     "skills": [
         "双休"

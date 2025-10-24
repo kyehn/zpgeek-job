@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "",
+    "areaDistrict": "涪城区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210301/f022d2d63109f09a8d9380afc18c470af186b2f8f7decaf468eaa87227331e78_s.png",
@@ -14,7 +14,7 @@
     "brandName": "九州光电子",
     "brandScaleName": "1000-9999人",
     "brandStageName": "B轮",
-    "businessDistrict": "",
+    "businessDistrict": "园艺山",
     "city": 101270400,
     "cityName": "绵阳",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.523246,
-        "longitude": 104.648081
+        "latitude": 31.499107,
+        "longitude": 104.670784
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 120,
+    "itemId": 71,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,16 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3pVHe550ROd.search.120",
+    "lid": "7KlHH7V3kVn.search.71",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "NS4ubVuReRIB2-e1LoWRn3SXVb5wc25tw6WPi5rX3JT5b-zq5FtY-1qon5X7tFDkZR7EfOhryszCPHUr8SyHR7cbfhWWeDEvlZ2jxMjl70obIJobYtNPfGaHYYpVfsjEsqv-gVu2mJNB",
+    "securityId": "BpUumjnbUE5rW-q1q1iRVjLvtM2_TLbr6twrbVvrxSfWfxTg2Gc9tc7ZrR4Uv5FwFcjCWakqntSkjuvWsjZ7cfKrB58lgflKN9pLPfRIIVtox6Ltv31T0wVdh8CDu4ukiPdEk-Joxvo9",
     "showTopPosition": false,
     "skills": [
-        "Java",
-        "C++"
+        "c#"
     ],
     "welfareList": [
         "五险一金",

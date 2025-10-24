@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250526/607f1f3d68754fd0b8990fb6e2f05cb3e2607a142bb5fddc75fa3488b748fc2ad134d59be4996471_s.jpg.webp",
     "bossCert": 3,
     "bossName": "郭女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "主管",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250526/7bf6f160950405e9609d9f509a126a8c4eacb60c8dd32d5a75fa3488b748fc2ad134d59be4996471.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 18,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "70EqHDBWKD7.search.7",
+    "lid": "7FjlEi1pLpw.search.18",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-10K",
-    "securityId": "diWZjC1Gqo1aG-B1LmUwbHZcQDPlYeccyk-ITy8kJ_J1ctiWz2Du2wlWpmQ6WdQb5h_K0JoyLpldgXL7UmM1Me_0vHW8JYEjUqe6RicneI8cMTMUd_3QWt2FO9nEUq0KlFybdlzUl58n4CcY8qlZng24GCtw1eT_TwLGycj4UVG8Db_z1u8~",
+    "salaryDesc": "6-10K",
+    "securityId": "I24p14pHcQum6-C1GpapQaDMCQsWtkjk6uJUHOcguLy1hxwsoNYrq7s5hcNhP-mhGKtW_CU-r1LvSP89_sjTb_2g48q-v4vwwbD49pCZ89he8KTPvCDpMRGgfI99Oop5JqibsKx5Gl_AySc~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "Spring",
-        "MySQL"
+        "MySQL",
+        "Spring"
     ],
     "welfareList": [
         "意外险",

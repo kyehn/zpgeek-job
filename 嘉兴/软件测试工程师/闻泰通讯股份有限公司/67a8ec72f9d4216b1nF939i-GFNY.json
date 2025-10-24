@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "部门TQA",
     "brandIndustry": "通信/网络设备",
-    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/7a863627bfa8f368cc6f822295017faacfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250808/7bf6f160950405e98a4e145d28019f08cc6073575ace92b10851a62022e1c8a101d700efbce7c22d.png.webp",
     "brandName": "闻泰通讯股份有限公司",
     "brandScaleName": "10000人以上",
     "brandStageName": "已上市",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 102,
+    "itemId": 66,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1707N8L8GSM.search.102",
+    "lid": "7K5Uv9jlDwh.search.66",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "gmRH-S_omvAQ2-I1OfM66Gt6Lckg63OlaAPS34Jy5mwf3YwQMzDZIcfdksfzu3TUsf3Z19lqVbGKkePcASyWgKr2xOfm162CiRxSNZa76pYGZXxfUpZwahQdFnfEK2ibCIHRgBnT2s03nA~~",
+    "securityId": "v6dtMPXkMBzUh-r1y9thIUW0liRXSJLEOIB-lhDZRV4FPzsCM1ItNqmS6ndhl98IESyrGVLItEB7KcikJ0btRt6ZpfjwAO1qVok-_--IgKXAE-UWZJI8dv4yKsV3uz0t-StdeMM9mxb1Ig~~",
     "showTopPosition": false,
     "skills": [
         "软件测试",
@@ -59,19 +59,17 @@
         "手机测试"
     ],
     "welfareList": [
-        "股票期权",
-        "补充医疗保险",
-        "节日福利",
-        "定期体检",
-        "员工旅游",
-        "交通补助",
         "餐补",
-        "带薪年假",
         "五险一金",
-        "零食下午茶",
-        "包吃",
-        "通讯补贴",
+        "定期体检",
+        "夜班补助",
+        "交通补助",
+        "宿舍有空调",
         "全勤奖",
-        "加班补助"
+        "年终奖",
+        "加班补助",
+        "包住",
+        "带薪年假",
+        "通讯补贴"
     ]
 }

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241015/607f1f3d68754fd0c1e465443134b48f202be34067c341eac1b47447508b5a1b5dcbb54bd9cb441c_s.jpg.webp",
     "bossCert": 3,
     "bossName": "杨女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事主管",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/c7ccfac3be1bf94b5e5c59d9ab642596cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 42,
+    "itemId": 44,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5VCfnaW7Le2.search.42",
+    "lid": "7KOQBRkUUq9.search.44",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "D6kmT4exDTYZp-I1QddWP19Nj3RYigyHuWbDxE4jDwZ5FSsWCwkMyDxPE616ntssCiMscVmoPZ6u8c3w8Daf__YEUY28BTktx74nKszRF8wW4DWGWM5rA693n_j0pZig8JH8IBSwAllAfVMDS7QwalWy5UWrEVgYi1cRM-KTgK2nka4~",
+    "securityId": "tdLAZaqfxfLpC-e1pvimRFhGTkyYHaQHalroN3myPnZYoWOLmChcmeLD_sC3qr4KO9p4yUlpTWf_N43oF-1_hoevoX6IzJAQ-mYx-IlHnfWmWxqpUzES8dK5O7ajysI19A9gIb8FSfw~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -59,10 +59,14 @@
         "不接受居家办公"
     ],
     "welfareList": [
-        "五险一金",
-        "年终奖",
-        "股票期权",
+        "团建聚餐",
         "员工旅游",
-        "节日福利"
+        "住房补贴",
+        "股票期权",
+        "年终奖",
+        "节日福利",
+        "绩效奖金",
+        "有无线网",
+        "五险一金"
     ]
 }
