@@ -22,7 +22,7 @@
     "encryptBossId": "9b97e8f03053d0470nR92tu6FFJR",
     "encryptBrandId": "32c1251f84382ff91XRz09u8FlI~",
     "encryptJobId": "e74d8cfc7e5057c91HNy3Nq8FVJS",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.874413,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 54,
+    "itemId": 12,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7FllBLsigUh.search.54",
+    "lid": "76HHV7Cz0Zz.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "2bjNmWt9KxAhy-01Z78esFP-769m-BrxY4M2XM5494JiEzxbEhuUQGVfCwI0JFBJCLQMe7hg2Ti2to7hLfR7vdv5A4NmYLqZwr1W4q-rGr0UC6taYNYELTHC4mo5EA74Zc2xjMFPbh49j5bANe5s-L9iygdYMO_jkV2JcKAtilLWIZyV7dA~",
+    "securityId": "3mUGnS6WPwnJ1-P1mSbjl3iMca67LthwsqMrJ33aiYv_wpE0Os6OXK8Bcsmcng3M2znX2wmLCQeKR2E1aDjJpO5A14MFt301UnAz96tMjmCL2g89nptmvxTigaUM3R7w75BQpB-0NqzJV2f9ZZ7fBB3V",
     "showTopPosition": false,
     "skills": [
         "小家电测试",

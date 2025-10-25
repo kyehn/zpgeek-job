@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8w8rLTfKrGT.search.13",
+    "lid": "76HHV7Cz0Zz.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K",
-    "securityId": "p8DYXhaiQ2wR5-_1TB5pW2ArOH4S1lez7L-CEZy2GYQqxZx8LSMBYx3h69EDxk_TrEOL-vfoaeZWZHUHHdSf0ppYEhCFzu6JCPIwT4ReRL_5SLvb_hw~",
+    "salaryDesc": "7-10K",
+    "securityId": "KRus2SsXakJWq-P1YOiqeiOMqP3sRqQ8s14kHPBURMBgbvV0SKfNhkKH1CFVuay17l__jp5hlRtXhgC5-dr-Gyqd-5Bq521UKSZ36xPCUfG4Nxc0lOM~",
     "showTopPosition": false,
     "skills": [
-        "掌握软件测试理论和流程",
         "测试工作经验",
-        "儿童手表",
         "智能手表",
-        "软件测试"
+        "软件测试",
+        "掌握软件测试理论和流程",
+        "儿童手表"
     ],
     "welfareList": [
         "生日福利",
