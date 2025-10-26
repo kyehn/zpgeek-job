@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230507/607f1f3d68754fd03963e043adeae8071edc061527c76c2b6ed50e7589b311199f21dd076bf484b3_s.jpg",
     "bossCert": 3,
     "bossName": "杨志杰",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 4,
+    "itemId": 13,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ZTT5uuyBQV.search.4",
+    "lid": "6NajhdvWt9N.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "mlA4P4yteuQfW-51B3vZUVcX7OKz_TaxUbKxG6kInxuE4ctgVdKf6CIX2Ja784J7HWqKavlflr6gSyOcNwAFKE7c1wsRzX4j4wyKtwqZ7uaGfJ2J1TnQcEFF2J6IJEZrSmIgtGG56KKQpwGjMxvlDd1k13AXd3-07mcJ8ezkHyOh_8gwyGE~",
+    "securityId": "kSxyE6MIUKdqc-M18o2dPBofkDU0cs1jhvBGUz_PqI6y7vZRtLb9kyfXL2tqjclpg_UAuOLmAxCp659WiOyBdtPTmq1BM8kigOwrZZzyO1keCtkdZ2DH2zJqgDmrqhyMnDQn0thfBXIEiQw~",
     "showTopPosition": false,
     "skills": [
         "售前/售后技术支持"

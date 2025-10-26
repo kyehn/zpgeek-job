@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 17,
+    "itemId": 30,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8B4FCqKLixd.search.17",
+    "lid": "6Q00xKKzxGe.search.30",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "Vl5y9wtBayRiH-w1FmkNvvACM1GWYiHiVOBUR5biccImtSDDlnVIr3GpJCv2ua63txZR9q74fqPMn2YhMs7P2Xt7f7je_7HEtOflRBiPHuYNt3wO2RhOssO2DZGmXmjsEFfsOZ6rKw~~",
+    "securityId": "IORUnPTKX5dAa-d1Ay59IelPQnE4qepTXZcsf-2GUxfu2ZxVkH98xyHdzLw9mR_f6YAXNdj7q017G7DnJnnq167P3qGz1Yo7TjdMY_GKIWLRziBbwAb4LJhohaicDbUO8QRB1vYswg~~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业",
@@ -57,15 +57,12 @@
         "软件实施经验"
     ],
     "welfareList": [
-        "免费班车",
-        "通讯补贴",
-        "定期体检",
-        "餐补",
-        "带薪年假",
-        "节日福利",
-        "年终奖",
-        "员工旅游",
         "股票期权",
+        "节日福利",
+        "定期体检",
+        "员工旅游",
+        "带薪年假",
+        "年终奖",
         "五险一金"
     ]
 }

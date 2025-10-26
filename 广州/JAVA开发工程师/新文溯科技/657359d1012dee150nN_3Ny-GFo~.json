@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 83,
+    "itemId": 41,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7M7ZyiEGckp.search.83",
+    "lid": "6IjLLJkxbP6.search.41",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K·13薪",
-    "securityId": "mAFsdT_aSK8Nl-U10r9M0R59fSm8Fg35zVJqMeid04XJNncrOLd1NfVuvYhtADbkUIFl53YxW8VxWbcOZSp2i3Oyf5YYw6MnGvcTBdFfDL6mc3qdp_V4ZMd-8nJXMrVjJ4Rhom5mbDI~",
+    "securityId": "NOcYmmjTpEPoN-p1riSU5KaCSg_8JclteRK4FH-ZoaulDTB64WQGF52HfsDhoHwvartDPP7X2e8-YR-OFyrapqufkxpq5xlXLOmDAwbQkFHkkEPtCBz7BCmgUTNZIICi7MTNQ5Zxfhc~",
     "showTopPosition": false,
     "skills": [
         "Java",
         "JavaScript",
-        "SQL",
         "J2EE",
-        "ExtJS"
+        "ExtJS",
+        "SQL"
     ],
     "welfareList": [
         "补充医疗保险",

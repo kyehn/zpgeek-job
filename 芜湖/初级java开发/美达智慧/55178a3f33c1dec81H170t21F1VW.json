@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "鸠江区",
+    "areaDistrict": "",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230530/607f1f3d68754fd07f848381b7c1c8e3edb60f38ce7724412d6c5e00d9bc48402114bbb38d98f30f_s.jpg",
@@ -14,7 +14,7 @@
     "brandName": "美达智慧",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "安徽工程大学",
+    "businessDistrict": "",
     "city": 101220300,
     "cityName": "芜湖",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.336513,
-        "longitude": 118.414607
+        "latitude": 31.347056,
+        "longitude": 118.305125
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 55,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7sKPVDA0ybi.search.7",
+    "lid": "6IjLLJkxbP6.search.55",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "oMjAx23r6m7Gx-X1tUVyk5GK9gXAEohg7IHnOaIpUdv97G-lTXZaA2MvXESA7rLXe1Bg4rQJfF4Q_RLAAnJGu7X8KFlWmMAvooxmOGkNc7NNlM_rVvEyDuK-zQNGZ2HMbEXuAHBGuz7wsFYu33GxaDIlC2leB83j2KS_taJ7uFcWdEeMEQ~~",
+    "securityId": "-4Yth0YCbSDNN-4174QGC46XJQQrcU-UAA0RR42jgMD-CQ7MUBVbQIy2hHPjkKSCoQOEASLmcIURpK7yoyscjq5SuycF8MovZnHl7u3N_7ePtS6Rl8laP34LFUbMQSCEtycDl2JiCOiUnuDtFdqDzysu4Pzq3T3CK3woAnIkZ3RKptqhRg~~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "Spring",
         "SpringCloud",
-        "MyBatis",
         "MySQL",
+        "MyBatis",
+        "Spring",
         "Oracle"
     ],
     "welfareList": []

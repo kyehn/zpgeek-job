@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 87,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7KnHpESa9yx.search.35",
+    "lid": "6Nevah6Dhsg.search.87",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "TW8h1l8rVxaAN-p1N8k3KnlsS9X8qqho9wqR9WeucZWEPncVZUnCuQK375xar4_3utHo4_MR72gIhqf9aleayZfXePqaLD0__Iil5-_AtoFC5qtTtf-AEYOpRT-UM_kaIvkUDXjNNKjluQ~~",
+    "securityId": "6LFVDjU8BaGPX-a1xnu1ABvEFEdXzA2nEEsOPc8tIs4VnqY8vYFpYr6hvesu6tFzSDnvOnC0udMe23ySD5VODL-Cx31-VWSaHtXXbdDZ0gPIznTVGO0z5TDy99QBDKyBBkoaUFCr9I5k-A~~",
     "showTopPosition": false,
     "skills": [
+        "web",
         "全栈无侧重",
-        "Python",
-        "全栈项目经验",
         "计算机相关专业",
-        "web"
+        "Python",
+        "全栈项目经验"
     ],
     "welfareList": [
         "生日福利",

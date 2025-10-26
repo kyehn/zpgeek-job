@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100915,
     "isShield": 0,
-    "itemId": 78,
+    "itemId": 87,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ZUogL3cLmM.search.78",
+    "lid": "6Nb7FpSXy1f.search.87",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "r5E0T2P8m8ZVh-G1Vj_bcq-H-kVMWhL3qq2dKQkvcedx-UPS5rJ301HMLXfQc0Zb6620dU-c4uVj-gkqYyD3DBiq-ibCLEkshwhXGxGe8D3lI-9a8qQsOH7pr_U2--8TnUT182WaALJFxUA~",
+    "securityId": "tNtGWUHjh4yjX-f1ZLe1qnu0yDhRtdlPRiSecBGZqeWjkYNdKwWgMyX4ZCx3_saNdlMUkvWnIpn5UMphxQfKjR7QH7L2I9nBz7T7uXxdBsQ_lJxryPe6kG2P880qlLWQZkuKEp8zhZG73GM~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -58,15 +58,19 @@
         "计算机/软件工程相关专业"
     ],
     "welfareList": [
-        "五险一金",
-        "全勤奖",
-        "工龄奖",
-        "团建聚餐",
+        "免费工装",
         "住房补贴",
-        "加班补助",
+        "带薪年假",
+        "宿舍有空调",
+        "团建聚餐",
         "零食下午茶",
+        "员工旅游",
         "底薪加提成",
+        "工龄奖",
         "年终奖",
-        "包住"
+        "全勤奖",
+        "包住",
+        "加班补助",
+        "五险一金"
     ]
 }

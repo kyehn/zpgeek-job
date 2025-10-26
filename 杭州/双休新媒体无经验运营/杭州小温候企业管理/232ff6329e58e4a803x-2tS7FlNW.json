@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "高级业务运营",
     "brandIndustry": "其他专业服务",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20251024/7bf6f160950405e94e3df9fafb9fa188b24a3bb1952e5417f235e60be3801adfae28754bf7fe4c9a.png.webp",
     "brandName": "杭州小温候企业管理",
     "brandScaleName": "20-99人",
     "brandStageName": "",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100608,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 65,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,14 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7KkeqgebB0M.search.36",
+    "lid": "6FHIgG3Z8IN.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "S1s0nDzZaJgJ7-o1buCg3A9klKp0ROW0C9WLL_J5X4jdRg4RJXHRH5nOfhNepYl0X9P-KJKKSj43fvnuoy9cZmPC8qAQyV2N-FufY2nlVSmPpzhZJ7yQTpMt3bNxycLvTUnEEzlTU6jEuHo~",
+    "securityId": "XbCFKT7ATrmhd-Q1s8uYi6T5ckNqzDCHjU2hS_DAftRAGvGLeHdgcE4q_MZbCgrFyJIXhpt7YyjjGSD1UpNxAu_TaQgNJU_wJle1jUDoK4ah6BkyKNCSZLnyVE47cvSuv3XgAxDzh37TNS4~",
     "showTopPosition": false,
     "skills": [],
-    "welfareList": []
+    "welfareList": [
+        "生日福利",
+        "团建聚餐",
+        "包吃",
+        "全勤奖",
+        "底薪加提成"
+    ]
 }

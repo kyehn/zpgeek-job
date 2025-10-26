@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "莫女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘经理",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240613/7bf6f160950405e90b2a39a5e864af343102ff2cbeca295e470858cb433af4d59c40e8bdea876e52.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 45,
+    "itemId": 24,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7KndrupdyM3.search.45",
+    "lid": "6FKHwpuNeD5.search.24",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "dQeqhvsz1XV50-D1P6vFjR9NO-Hk82Q_beCXzXGsIf2Yp8UqiwdE1jjDxs4gLfHh9My-278bnZdueGi9UGa-66nUyu_KTITtd6cnRwno_CFee3Ab-nBjJbNgGvshT7NAvYATPwPQeojFAQ~~",
+    "securityId": "Q0ZuDvyVFW8K0-v1EdnaiRtsfb3u9f3fFhXC_eo-Q2nXUDzuz36THKD88GIZcipctmi1HQ1NSz_9jKktWpRHPU0tjwA2YCWY0Qt9cKdj-8hB4W1HwMJaevFNLWvdiK_rU71GiMJmLUQPLWn7UIoPiedG_o5_kzZUjdXWR8yduuDXBQaBew~~",
     "showTopPosition": false,
     "skills": [
         "Python"

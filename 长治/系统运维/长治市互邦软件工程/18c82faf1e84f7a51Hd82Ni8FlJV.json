@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231024/607f1f3d68754fd0dbc661030a7e29fb824d387b8063e3616720265d21def2cf2722cbb4fda5ab62_s.jpg.webp",
     "bossCert": 3,
     "bossName": "王女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事行政",
     "brandIndustry": "广告/公关/会展",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100101,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 55,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7KmcWEUZ7ZV.search.35",
+    "lid": "6FJHBnaXXPB.search.55",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "Agss6RHl_fOt1-I16tQbNLL8ClILGxjPxp-CnKGI6MVTDb6tCSP_BFKm4-fXwtEM-CJ97Suz_mpXwph8awXczKkbduis_5M7tJnfBwBKzik_UHbZ_eMjPiN_sDoU7qC91E72SivR2fhNP7y7cz83aXSMxwFTNFsLvlmgpB53WvpExjNFmg~~",
+    "securityId": "WW27J4-GVf0xs-I1-Ndh3hgFv7s50srDlW7evKRbafXAHkeqS9pv8eL8j7MVMj0Omqzr64T8x-9Xsgx1a8Xoj1InByupIbu52sAYnHVurdbe4ps8gmmQDPWrWA2j0kwG9nYLaqy_JNaUVQ~~",
     "showTopPosition": false,
     "skills": [
         "系统运维"

@@ -22,7 +22,7 @@
     "encryptBossId": "e7c8803c2bb0b7bc1Xx52NW1GFY~",
     "encryptBrandId": "8ceb55bc13a3bf141HN_2ti9E1U~",
     "encryptJobId": "0c8ae5a774e0529f03d-39i_EVdV",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.17312,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 89,
+    "itemId": 65,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8G29eGQMvDt.search.89",
+    "lid": "6FJcBXK8veS.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-9K",
-    "securityId": "mQnmB8GboNq09-e12TMEsK5n2NTOvyEYedxpDBUATxf-60NRK2pH5IZVUzRRl6ip8moBPM9UqrOEPmL8uZLeUQu917w9DKvz2TTnQK_euLfPPHZF0fA~",
+    "salaryDesc": "8-12K",
+    "securityId": "ANakdpdIhZEmw-b14w26qlPAXGEBfYeDAfNlqKKALYuhI8Gc7B-Ssc38KpNlAXmvE1HhMmjIkCMgeICLxE7dfvSwL6UnYGst61MmGViIRk6-gQuV2Awpy_-djco3ps1ovan5Iqiy65vdIQ~~",
     "showTopPosition": false,
     "skills": [
         "C#",
-        "数据库开发经验",
-        "接受实习/在校生投递"
+        "数据库开发经验"
     ],
     "welfareList": [
         "生日福利",

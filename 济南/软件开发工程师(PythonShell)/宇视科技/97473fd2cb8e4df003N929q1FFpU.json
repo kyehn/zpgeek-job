@@ -22,7 +22,7 @@
     "encryptBossId": "7e28c605a2f853730nZ729W-E1NQ",
     "encryptBrandId": "c0835c39a50287751XZ539q5",
     "encryptJobId": "97473fd2cb8e4df003N929q1FFpU",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 36.66891125137013,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 10,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1DNQtfiNst9.search.36",
+    "lid": "6Nevah6Dhsg.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K",
-    "securityId": "Jwixi7zn_5K57-N1BB0_ry801HimojQ6xL8RTJ3ER8PxAwS6_0-Mre_TmZc7dhPHogbCRrm6xVOBP_RW5umiQkBCBIdV_AWDty6h3ZYh4N_46YMXqcSJow2QkBRjvJWClSalE-FRgYq1",
+    "securityId": "hdSz7r40SJuZ3-H1A4suym59XJo54aQ_YAFxrLVAypVa4KmHjxu9udKkOhvwhlYsARVREwHHNEFZ1du1sa3KVg7aPwqZPVR7Alwq9FkYYqdQAU8adGaQ2rxkTRnPr5ufIgwNqElvyhDU",
     "showTopPosition": false,
     "skills": [
         "Golang",

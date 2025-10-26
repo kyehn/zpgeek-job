@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "鼓楼区",
+    "areaDistrict": "建邺区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250716/607f1f3d68754fd0f5ee42b8695ce6105850a61374b67743712fa22830d4fcbc3dec023446e3ebc7_s.jpg.webp",
@@ -14,7 +14,7 @@
     "brandName": "慧博云通",
     "brandScaleName": "10000人以上",
     "brandStageName": "已上市",
-    "businessDistrict": "万达广场",
+    "businessDistrict": "西善桥",
     "city": 101190100,
     "cityName": "南京",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 32.03264278867338,
-        "longitude": 118.72970006707938
+        "latitude": 31.971853172077694,
+        "longitude": 118.71006265397534
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 65,
+    "itemId": 82,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "92baTn5R6eq.search.65",
+    "lid": "6IiITLj9p5C.search.82",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "5uxhaNW1Lf9S0-O1pQR-x63l1CydgNzb-oLGy74I0ak1TBBcP9ZFuwTS8CccgeTvRsdS9pVgF8cNLhcQY7dQxS5xBcAxRsvkksg7eWPojCccTERZ7e8jqw6IHiBdH6Z4rqk02W32NQA~",
+    "securityId": "mvDixSf6d6Ltq-o1sGk1fppA4asTD7xAUKjq4ru5C--P0esAQkZoKJx7Ltdob6pGAQ0LEV0lOb6yfdptP5no1XN-76TC20eHhFHQoU2FzDFN1fZhhRfSw_4zLK_JqqEO-D4-K4ZxdGo~",
     "showTopPosition": false,
     "skills": [
         "手机",
         "系统测试",
         "拍照",
-        "相机",
-        "摄像头"
+        "摄像头",
+        "相机"
     ],
     "welfareList": [
         "五险一金",

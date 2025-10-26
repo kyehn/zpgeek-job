@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "郑月明",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 57,
+    "itemId": 47,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8wl7X4H920r.search.57",
+    "lid": "6IiITLj9p5C.search.47",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K·14薪",
-    "securityId": "vvLYxl7EI1W6C-v1U154WmdeCz7pB0trXpJ5qkWwJJDOg0yPhyf-pD35OHEwb7NcDlNG3Ed0bkhwMeuRPvHFNt3nfMYFnZVR4gkS1N7_B3wdbAXU8firoeVx7M4cBLwWvSh-8ivUnNiIPe8~",
+    "securityId": "thZ4ovfD_1LAb-41cmMyJJ6kigt0MigSxDhS5eTA43MByHg_ngLhBy83urhQ_mGnCZJ3RQLU6oMwyP_Vm3NJiVvMf6GuiKVGoXcvIcZDtd5_AxdO7URmUb79cxDWQP8CdzvTeT8zvfV-oD8lYKwAjfyKOpXoRcxWcGlSLE_o4UP6v6Fd2o8~",
     "showTopPosition": false,
     "skills": [
         "自动化测试"
