@@ -14,7 +14,7 @@
     "brandName": "浙江云晔",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
-    "businessDistrict": "西湖",
+    "businessDistrict": "万达广场",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.258724,
-        "longitude": 120.165381
+        "latitude": 30.327794,
+        "longitude": 120.126485
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 76,
+    "itemId": 84,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,17 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aUd51EWmp6.search.76",
+    "lid": "6ieVMa8rHwa.search.84",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K·13薪",
-    "securityId": "CXJhusLfpVHJN-C1lb1pgrznGf2BKkgSAF8p-tlfzax4BT8A_rdx9M0B_3IQuUOH2ke7Fq4a28t3fYUeUrHGIKz3mmkWoApRs1q1fIFSuXcohWMgbRG_KP8UhKrpglYAZzftiZkpQZdK1kETq2F32cy_ypNK5Mc8jlWbHGJ00VGadofYOg~~",
+    "securityId": "yEmDtrwlv8TQj-K12giw4y8tN4Gqf5-zgvH9WAWuy0ezrwVMw2OXuOX6jsgk1_y8YGPTuNDmV5qfFmLiW6QkBvwBRkkr4TK59y0PycW-A_1rzibg_s9OlPFVjUODESAQTUVv0zks8MkBTd4f54Dh61jGiPcvdhGz_2t1Kslel47pCkV-hQ~~",
     "showTopPosition": false,
     "skills": [
         "网络交换技术",
-        "网络协议"
+        "网络协议",
+        "数通",
+        "网络工程师"
     ],
     "welfareList": [
         "五险一金",

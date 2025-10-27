@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250311/607f1f3d68754fd040c52bc8f533491b01f792045a1d633db1accd1b648f85097bff01e3900f795b_s.jpg.webp",
     "bossCert": 3,
     "bossName": "张闻轩",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事",
     "brandIndustry": "自动化设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100914,
     "isShield": 0,
-    "itemId": 88,
+    "itemId": 50,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6IkXhdxtxNg.search.88",
+    "lid": "6mzd6x2rmdw.search.50",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "C1UnNSPcklaqZ-F1uaf_mZoY_oUzUHUqTT-92_CWvdZ-LcdvDn4lXh1pmjOEBBC-TljP_sfBD1vWmRuRjTlFEQK3A7DhtiEkRYZPrLIByWPzDEPmdctAbscDp2m1RyQTOlttbhGo1r8So-Y~",
+    "securityId": "DHVb92NA31MSK-61gf5i4ZhxImO4snoRy7CCQw65g8Gu4DEtBhDMWVvb3o3y73eiKsfNS0T0NCKFd1Xfp-1TMiJtWXw_vroQRdQV0FP_dDlnvCKQ3ReH8JpdLTQYYXCkWI4hcwma8rE9D0AH9MaT4x5olIlPaJA3h4WzPPi2SL261qNfRLM~",
     "showTopPosition": false,
     "skills": [
         "Java"

@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "西湖区",
+    "areaDistrict": "余杭区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230824/607f1f3d68754fd0fc21dc9b588edd4af81f52d1604de661ae4685f0a1fa322975fb9a0fba9a654b_s.jpg.webp",
@@ -14,7 +14,7 @@
     "brandName": "小码教育",
     "brandScaleName": "1000-9999人",
     "brandStageName": "C轮",
-    "businessDistrict": "黄龙",
+    "businessDistrict": "仓前",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.272832,
-        "longitude": 120.136896
+        "latitude": 30.28118,
+        "longitude": 120.002411
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100303,
     "isShield": 0,
-    "itemId": 26,
+    "itemId": 31,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ZP7iwPSGM8.search.26",
+    "lid": "6fx2m9W4vu5.search.31",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "2-4K",
-    "securityId": "7EpOQGcE8wxC4-g1pr5suHZX3ok1CtW2t19aOq4QVnKWJEA5w5188cIJXp8iqhlMZO9bQoFDDMtmPd_G0hDEpJOxSJmTt8riIO1nhXy_OAAP2aVz-G5yOSPLwT7nPKLhkRA01klxBpDhg8dbueHLffEEzTBXn173F-JPzLIe_8KdMfw~",
+    "securityId": "6etsesYKSWXW7-91D1JXZhDYjXK8nhUU9hj_1o2vAhSa_plXQV1PzHGFEv6l2Ckst74DMuHtzceb9QaRNxR9PrWhejMNI9VfASYP_qLtkzasFyMVMjooHZlFsCAW2eDdAHJlPGJTUyus9Q22R04qCpCM0QfHZo-66qZty13e75hMNxY~",
     "showTopPosition": false,
     "skills": [
         "python",

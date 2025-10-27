@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 68,
+    "itemId": 90,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,28 +43,29 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8ZGeyk0u3Yd.search.68",
+    "lid": "6fyqLWoyPW6.search.90",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "jLi6oGzJ0QZ4I-g1rlsPWpUCR2_frlmpaOWWSEW54eYZ8MI_t53ZqHtel5GNtnuFS6h5soLnriKhZXZQYGS_wJo4q5BkZ3P4oT4He96aTFQDQUMQAXQJM6j-mlXrM4eIvZNdiSyX7eVzvK9mgeqljm3OrjyTEVJaGaXrOI_0RiEpl9aNTII~",
+    "securityId": "MczZ4A1X0i1kh-B1SkWWJEb-UwLdA130_CPHbnEPQiXZE32oa89cuOpFsRpMbEMvSVzbNpodFl-kTIM0ddbKxKlZeBFlEF0Isji0crUgHTCNdeGZjsl5vgZu8Znf8Nh8TQZ7zYygBpV6_sb_8AC84SpPX3Jv_yZHfOfHQXJWCo99cQv658k~",
     "showTopPosition": false,
     "skills": [
         "Golang",
         "Java"
     ],
     "welfareList": [
-        "节日福利",
+        "带薪年假",
+        "员工旅游",
         "零食下午茶",
+        "团建聚餐",
+        "住房补贴",
+        "节日福利",
+        "信任奖金",
+        "年终奖",
         "定期体检",
         "五险一金",
-        "员工旅游",
-        "住房补贴",
-        "股票期权",
-        "带薪年假",
-        "年终奖",
-        "信任奖金"
+        "股票期权"
     ]
 }

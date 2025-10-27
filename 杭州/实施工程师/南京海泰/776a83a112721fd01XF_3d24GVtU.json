@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
     "bossName": "耿女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "医疗健康",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221206/7bf6f160950405e9dfab61d7e4d4e8aaa9b273e5648295cd2693c4dbf7090a2eb96b4e31e8c9f4f0.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 13,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6FIcT4nXhpc.search.28",
+    "lid": "6iftzYxfA2B.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "_DFl_udKWSYbm-P1LjGXk0s0siUBg_tLflnlHzqwjvoVzfOxj1Q-OvSslbJRCe--IgAF8UbNVtrUo0gfq8mIzl_SJsfKqJ4hkNLWpX5pVU2o0n_CqIE6Bs5cvi9JigLq7pt5veWgajo~",
+    "securityId": "4BVMSZ5g2dMkR-P1d7_Q8TF2GYtfQ68ZpYSLli6ejD1DqlfHi3FfsDBu2EOZZI4IY9WBN5TIjMcA0ab8MB5petxUJcQNmcGzdCmRnc4mwIiIs-UM1rf3xuEssFkuBj3SlF3DzUwY7KCj9SLa-Gev_Ma2KsRq2L6AHpiuYYHOFH7M5Ok~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验"

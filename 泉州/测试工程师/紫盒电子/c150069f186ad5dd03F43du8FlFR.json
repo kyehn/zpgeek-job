@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101406,
     "isShield": 0,
-    "itemId": 61,
+    "itemId": 47,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8wl7X4H920r.search.61",
+    "lid": "6kLiiwwqexh.search.47",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "FAmOVq4uikDYh-k1GKxPkXCY1ENIs5hAGoVtha-4MJ2c9On_VaUY8_pkjUwy4CU7krVcKeOGkcUF6Z9W29gg_seZRZgiqV1WIUkCGhN_iGENxrXcKV7X3UpVmWS3wz5t17pRaJ3KBlxM-5A~",
+    "securityId": "oNlkaDjV-v5Hm-O1BwIon84SrOHsdEPNUqWT3_o2VUCWBsnEBRYn3ebXXgvQytJikx_vkpWfLvoLlZXYjaqjI-vm9QsMZxIuEkZ5vKo6x7xNToC21fSXhkxKKwSjPvtdSbTINQsSalAmqfI~",
     "showTopPosition": false,
     "skills": [
-        "测试工作经验",
+        "嵌入式测试",
+        "功能测试",
         "性能测试",
-        "功能测试"
+        "自动化测试",
+        "嵌入式测试",
+        "测试工作经验"
     ],
     "welfareList": [
         "带薪年假",

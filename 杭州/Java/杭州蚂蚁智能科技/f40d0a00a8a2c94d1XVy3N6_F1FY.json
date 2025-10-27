@@ -13,7 +13,7 @@
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "杭州蚂蚁智能科技",
     "brandScaleName": "10000人以上",
-    "brandStageName": "",
+    "brandStageName": "D轮及以上",
     "businessDistrict": "西湖",
     "city": 101210100,
     "cityName": "杭州",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100204,
     "isShield": 0,
-    "itemId": 80,
+    "itemId": 72,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ZQ23d1ljdt.search.80",
+    "lid": "6fxYMAmfZun.search.72",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "QJUVhLtoe5aZ8--10YTfkNFWTJKtt0SFYghnvnOO2ryzC2LMJoQ-svn5RWxU4PnCqMM0vYZjBpU-a43XvUFC14XLpRjql-OM0-9hTK14p6j-2JwRiwYG4xf6J_Sk51RoqNRga2JOf1QrWRI~",
+    "securityId": "MA16GlKJyn107-u1CRgmeialP--VPi_-IWNXIhVWlsgUmQV1Wf5pArsGhnjDwX5Vn1BQaXenQS2siQy-Gwf1EVrILQXef6c4OnOz-vafLjIQwbdT9cogJvFg6069xBcdKbG1leW6w8_ZGag~",
     "showTopPosition": false,
     "skills": [
         "微服务架构",
@@ -58,5 +58,17 @@
         "数据结构",
         "Unix"
     ],
-    "welfareList": []
+    "welfareList": [
+        "餐补",
+        "节日福利",
+        "员工旅游",
+        "保底工资",
+        "意外险",
+        "带薪年假",
+        "五险一金",
+        "定期体检",
+        "股票期权",
+        "补充医疗保险",
+        "年终奖"
+    ]
 }

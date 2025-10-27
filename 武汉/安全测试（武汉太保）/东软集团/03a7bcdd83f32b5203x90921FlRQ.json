@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250822/607f1f3d68754fd006ca2dced0ddaaad484fbf7d93c23216367a2b9fcf4fa9f3473ee7f8aeaa60a6_s.jpg.webp",
     "bossCert": 3,
     "bossName": "王女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人力招聘经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/921.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 73,
+    "itemId": 46,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7IUtUAbYnCG.search.73",
+    "lid": "6kLiiwwqexh.search.46",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K·14薪",
-    "securityId": "hQ37QMpI6SkWE-Y1lAH0JysZBnHoxdM7xtzNlw0HFz5T5hwt3O3ZW0lBfWgwdOf9wiL8wVRG9c7l_xbthSsPszbHamQdVqSuHinYkvu4k02Usm2OdA8lZLQdIW_s7gQMNO8BBYNh",
+    "securityId": "wu8jl9PtlCRbv-G1YZcwKD_Ob9YuIRi_lTgWC9SYrI1pKPgpM8G51hX9qdJTgLAX7Xy9Ixyk7pQkzGGMuOIQ7BFjy_KpaqSVwdiixI9xjf_pwRLH2m7CPHYzl2lWgXQzj9z83fr5b5nUhRdXoqokLy_kiIykqfZzH3L8rYvejfXB",
     "showTopPosition": false,
     "skills": [
         "SRC"

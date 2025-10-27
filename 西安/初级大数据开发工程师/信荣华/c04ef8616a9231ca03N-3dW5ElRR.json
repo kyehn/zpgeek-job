@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
     "bossCert": 3,
     "bossName": "张女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事经理",
     "brandIndustry": "医疗器械",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100403,
     "isShield": 0,
-    "itemId": 63,
+    "itemId": 40,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6IkXhdxtxNg.search.63",
+    "lid": "6kNjLR1rG2K.search.40",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-11K",
-    "securityId": "1ydwy7UnFNrEb-H19XxVsxTQH9IYzmuYlzCuH4sdUzpPst53PZhYpqRm62jDzwZb38TUUTViuJKOTBofCo4Re399FVWf0gTUi-abGZtBGuVbKUcZsSkCTGB5G-KljsWwbHG_pDhcNecNM48~",
+    "securityId": "LNUjYLOQe3Cq_-P1qATw81_Bwfyjs-zfS0HuYaqIZSDWIRbA6k0JJ9oTX4i-zgNVRjHXbaxHEnrpcJA_YCbCOnusdbPb6uP97wXa8sEUZgqFGhjDTAu2rdOBWfXSUp8p-TKZMBZt-8XU36K2KW0kFq-L45vAkq-RjWcD3mr2c0FdOV5DWn8~",
     "showTopPosition": false,
     "skills": [
         "接受无数据开发经验"

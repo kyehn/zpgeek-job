@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240606/607f1f3d68754fd0876ae977af68b1b63c31d290b39354deeec643a44bba65ea9286f89b385088a3_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "Hr",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/c4c2fc65beaf4b2256d6aba8154a9543cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "睿服科技",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "陆家嘴",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2749d10e5c3f7a630nZ92du0EFVR",
+    "encryptBrandId": "4920386cfa32ecf81nNz09-9EA~~",
+    "encryptJobId": "00396903c6c2e57e03Ny39S0F1ZS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.242636,
+        "longitude": 121.555292
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 9,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Java上海-测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6kMgzg9Tomu.search.9",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K",
+    "securityId": "YTfcJKCvdvJU9-w1a-COfr2k0RGLuDz2D_esOX5tarrvXWNBc3H2JlsZDKuWvXjrOjiy4CqRTfCJ3rD67bfJOFaoihPjr7unvpO-BQFmHyanhKfU0NNAxW41-kIli4bgX-nrHdvPKBb4Tw~~",
+    "showTopPosition": false,
+    "skills": [
+        "金融"
+    ],
+    "welfareList": [
+        "节日福利",
+        "带薪年假",
+        "定期体检",
+        "五险一金"
+    ]
+}

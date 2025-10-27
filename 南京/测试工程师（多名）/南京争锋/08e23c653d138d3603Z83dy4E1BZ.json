@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 95,
+    "itemId": 51,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "FRZQNjFYOY.search.95",
+    "lid": "6mx2WvPjTve.search.51",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "FaiGCJBzgVj0y-91OFAdROS8PF31WoXIJ1JdQPjKVkyam1TL2O-8qamwsfSqwuSHAglvWeUdD3QTmG2f6tIKzzW7uIR-Vqar-VdPOXU2NvNrgnoOrBp7JOphlkfbP9XArziFEG5qeYrvS44vCI94HPtaSsmI6fOiZ3jJahyniOghDWG1",
+    "securityId": "W2WNKfeuF9TgW-D1E9RuwJfcG0O81KDtAIJo5MeoeC2Mbrha-Hd0MCwtyRjqXswos8nr9tKfQ3kRsFlEexL7wEHFzYnmJc8X-B2LqHV4bntse6NkHgbYDMvDXKgq9KrAkkpZ3wUWS7CcLI46vbqVJxLIQg50v7OWp2H7mM-FQzFLFuVJ",
     "showTopPosition": false,
     "skills": [
+        "测试工作经验",
         "自动化测试",
         "功能测试",
-        "Python",
-        "测试工作经验"
+        "Python"
     ],
     "welfareList": [
         "带薪年假",

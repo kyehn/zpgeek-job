@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 40,
+    "itemId": 55,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9ivGdvaGTS3.search.40",
+    "lid": "6kNjLR1rG2K.search.55",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "VCOhhUlpXIFiY-V18OizyJ3vL62azcye1kaEQQpHGJAzqH-IKCL7lF1iQY5E4m_pMlPWD6XJMQcY5csahYsnuESHMQblCKG2Pz2Kta1n-Stb4yHMYpiGdvf5epbVcRsie30isYHFmKNKsZXNMmAuN6X6G830WoBY1VRED2nCY_P7Gdi-",
+    "securityId": "w6JUIair4HJBb-B1XfvnGXZGBGHmlQSKp2LLJepmnEtT3l4UeA7K8QCx7vIKTnn9_XBvwbl7-mIHO_3LXRUTniwXaWc6h8IVcHI1TYXhjX-mncPP9gB3T5wBqpd-RJ1nHeK6x8GITfCq7e9ce_XHSHj2HBMnYJNQwFaS2K44YJRwCp8X",
     "showTopPosition": false,
     "skills": [
         "运维"

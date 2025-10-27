@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220114/607f1f3d68754fd03b922aa881da31f3dc4b3294bec238023ad62c28f8c6b9bfe7585fb8811e3941_s.png",
     "bossCert": 3,
-    "bossName": "姚凤林",
+    "bossName": "姚先生",
     "bossOnline": false,
     "bossTitle": "软件实施部经理",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "97e9c8ab43b427920nR629W6EVY~",
     "encryptBrandId": "49ba8aa568af0fc11nF-39m5Flo~",
     "encryptJobId": "461f4424568bd34b1n1_3Ni0E1RV",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 36.111048,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 73,
+    "itemId": 14,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6Q00xKKzxGe.search.73",
+    "lid": "6iQ9NwWRKrT.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "Mh8v8Ao1RVm6Z-Z1DO1_cgEvywITYtVRC4ysv7vYu-dL5lXcoPbAEEvtnLwc-IX3t5alFCjdT0LjgGy90W8-MxzEWbNfL2lk5BuQsLDwCITanf2w0YKMIvd7JIX5YyQyWi8am6-9VrC8ww~~",
+    "securityId": "dazDy4EkmMtCF-W1SH9EEn3_X7SX2LGP1FFRTn96p_91Z5c81DXLssmMAyMU7KzTWfc3x1LWq8q4pLpwDA1kyXyQ2HkXoKGRwXV1M8-cy481U-FPouM~",
     "showTopPosition": false,
     "skills": [
         "软件实施"

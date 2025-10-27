@@ -14,7 +14,7 @@
     "brandName": "山东桐燊科创有限公司",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
-    "businessDistrict": "万平口风景区",
+    "businessDistrict": "新玛特",
     "city": 101121500,
     "cityName": "日照",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 35.406536,
-        "longitude": 119.556891
+        "latitude": 35.41755681691056,
+        "longitude": 119.53048741518332
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100005,
     "isShield": 0,
-    "itemId": 24,
+    "itemId": 22,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TmBMjvKl7d.search.24",
+    "lid": "6kLiiwwqexh.search.22",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "MQn12kpBvGiL7-W1TJ-YzjQjcGPIek75vhebF2PCEI6WcRq0fHrYXvFa-EFvd6XxOePaTbXhNIT_J04jzdMR3X6FO1epaO_amID6iEre0A9YA0Pqpmbn208uSaMKcmLLZkBu0uILo1KaSw~~",
+    "securityId": "3N0ljWcMYDKL5-K13wky4c-64n01flbw0_pjDE8ONK1tpdxrjwYgFmk5W4sfWol1pfgzeMZDVHXR7Z2gxRdmZSm02txooeiYa5kFrFAkrUcNDQRhKyvwJ_j69c7XkMSGfupeYiG4qZpgjQ~~",
     "showTopPosition": false,
     "skills": [
         "Django",

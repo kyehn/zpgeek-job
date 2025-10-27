@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "许女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "其他行业",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250822/7bf6f160950405e93f02f35e3d83895b43fcd314243cdf748b568eb580505e1bfc009e1e39d832ab.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101304,
     "isShield": 0,
-    "itemId": 37,
+    "itemId": 4,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6FJcBXK8veS.search.37",
+    "lid": "6igzfP8miEJ.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "pZSIb3p1IkyKV-f1Qs77WlghfaUXqu6dcg7h0VdCCMRXoHmhwP0xhOB6ZeZ1cACp1Muj_uovyUvtsuorVDih2vn8qhb1xPZ37_P8BzQF64za7-qR7vCd8SAL5IbyTFXABN5TtR_pz4zLf_o~",
+    "securityId": "acJrnchY6tVIH-d1X1hQYi1I-bUDUwqzEjsxI7QRHzYuhbcJtXblC92QP4RqKG-UtIB185TGeFxIIlhfQ7sGeIpy0aw4J0eHaYtL7Co2t_JyKqDSh3uqNUI5835fTX3tjbGph0itC6SolYBDyoWPKx5zNUqOdpemTdrI0D_oPqm9rMkaVVc~",
     "showTopPosition": false,
     "skills": [
         "Java"

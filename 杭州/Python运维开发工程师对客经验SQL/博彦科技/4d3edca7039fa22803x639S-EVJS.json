@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 2,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "zxPcoEg6Uj.search.8",
+    "lid": "6fwzY8gEF6q.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-11K",
-    "securityId": "LoRKHhzn5cm6_-I1rVW7r2TH2f6G5XFUVUqjsPQKAV1yreNIlFBqrTqAct4NGOHcSsvcMVce5PWEt8OHBMzEWdqpeyyLxaQ5kuDtqkFkkesy19zwMvqwIW2OA_wTPSAGKYiBuigrxTcsMWC0q46DvoW96ceR2hPm-B_PpMTC9qdEeGzjZmg~",
+    "securityId": "8UKnmNOlBLzpo-21UJb-EzsOULsf3bEwan4eD5jtY5OdwYfqwmzd8zxjph4BFmozk3Wya92VJEFxZnmwJ2PtH7YCew24Y3jkwBG--dgrXTnRHghsY-RaQq5j-QDsbqPyq3DQ6tmbYtReYR4KKZdIXv70BqXb2e9ul1ciEuK0gXCDn0tsbc0~",
     "showTopPosition": false,
     "skills": [
+        "对客经验",
+        "运维开发经验",
         "Python/Shell",
         "计算机相关专业",
-        "运维开发经验",
-        "sql",
-        "对客经验"
+        "sql"
     ],
     "welfareList": [
         "五险一金",

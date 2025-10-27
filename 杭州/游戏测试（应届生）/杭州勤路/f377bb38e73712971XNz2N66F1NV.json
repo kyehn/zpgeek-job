@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
     "bossName": "邵灵君",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘经理HR",
     "brandIndustry": "游戏",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220608/7bf6f160950405e9d5f6c297703b956395b178d806dce736bf32b968a2417e489a21c15f8af26020.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 53,
+    "itemId": 65,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fIzObjXi4S.search.53",
+    "lid": "6fAiAX3aaek.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "4CPVpjYO5JOvj-W1oyrqtXzDiGJJCx8K3sxmGmKlGXNXqa9Rjx1nRb9IQrsG8Oi_caJYCYyXKsldtxeTJ-QuORyMOmXtMxaVV0i2J9me8cigd1UQ1_qOg7rTV_F_0a8ylWYJd2VgAGeLqw~~",
+    "securityId": "zOglRSiBZVycx-c11jvL3BPexMwXMtd0tnrK4uswvEpi25FKoBiAlUIJybxZLQTlAXoBfBhNgrctY201RKOTg3Tbz0tUz9NYgHbCo-uR3kAuN3BVVecILc2hJnNO65dQTu50XNV-vmwn_C2USzZsTaD-u3ol5SoYxgWwbYWPGNuSH_wNag~~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

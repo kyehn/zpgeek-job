@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210805/4a2c0d7d51179d3110cd3ca4d3bc05420f2914428255519c1e5cec28e1a19a56_s.jpg",
     "bossCert": 3,
-    "bossName": "谭少梅",
+    "bossName": "谭女士",
     "bossOnline": false,
     "bossTitle": "总经理",
     "brandIndustry": "移动互联网",
@@ -22,7 +22,7 @@
     "encryptBossId": "6e9dee1a043f1705031-2tW9ElY~",
     "encryptBrandId": "bfa8316bc5bfba7b1nZ83tS1FQ~~",
     "encryptJobId": "06dea4c0322bebb81H1629q0Fls~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 36.09323,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100019,
     "isShield": 0,
-    "itemId": 115,
+    "itemId": 3,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5DcdIjdcaFw.search.115",
+    "lid": "6iMSwPjLGgY.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "eOwy-TJunpSTu-F10vwtYz-PvHMZBZmhi24Gekkr-7avkAGgs1lUSu0eWni4zO87qHfRfWgDE4eNAPDxEYC5JAFy9May1QK7dHINQ3YKBoUBPFtAtwAiXvrt4bXD_SkIqF1VHhUsFmQ~",
+    "securityId": "_nurRSfz_MyXd-L1CP51mXj7zmvwVG62MbnRcPgImZyJ6zNT5UQd02YkIsQ_adTuT_wiQN8ycqHLGdTMJPZv4kJRCQqQLNi06w-VLIs5zRCY02ZJ",
     "showTopPosition": false,
     "skills": [
         "运维"

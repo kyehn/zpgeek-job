@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190416/a69d559ffe413aab086182d3fb2b6b6fcfcd208495d565ef66e7dff9f98764da_s.jpg",
     "bossCert": 3,
     "bossName": "陈晶",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘HR",
     "brandIndustry": "汽车零部件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100802,
     "isShield": 0,
-    "itemId": 67,
+    "itemId": 80,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d2QdAJCJse.search.67",
+    "lid": "6kNR8ZKGgk4.search.80",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "OFqEyajQa0m3s-w1lUze8zBjKdOJNa1hmXr3DNY2EG9TmJ2aZh8VEMnD3V_9V9bL0NwJdO67slB9BPQNTQBxNQtQ92IH1N6Dpew8_lAVYgRYEfryWYxKP3TRu1grQSceZljQikdJcDa5VQ~~",
+    "securityId": "4xGYvPVYZtC0d-b1oxECdAvF6y0eT1u9j5KVILzoFMtUZYnK2YG9_02qVkist5ouYLzzJCu9xwdjiBCBORAGXf7B6JqWVz9GzGiA6menWi-A1mdYpxOq0zz35WGOLFS5tFAsQbAqawSDRIGbgc6qK5noewALjGXTl2IrimRiyHefxUYalQ~~",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
-        "测试工作经验"
+        "测试工作经验",
+        "功能测试"
     ],
     "welfareList": [
         "补充医疗保险",

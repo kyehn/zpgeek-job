@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 12,
+    "itemId": 3,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "UYwdDk4zLr.search.12",
+    "lid": "6ihD6unHIMM.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K·13薪",
-    "securityId": "2tmsSU-IegOIU--1yyfWNELoCK56hiJQYNlU3zEyFbGR5UFJMNcRSjXs5AJS6rI_MuFSFGxS-TrHPvqfEWTDfY3eUeMvdcumhP9Etjz5wdt0gi-Iv2P_g4OSC4hgunMWGB1sQPMhi5XfAWg~",
+    "securityId": "ujvguOCQhlS7h-z1IBdwuDYHNluShDn92lo0zwFGCVlG-7xEu5bbcgONYGr29-A24WIRtveP7WzBqupcP1NKkzbxnwzI-u_IMoeA-uU1o6yL2BHTxEeIgT9bCg6SAu5XxTPTTfJsqq5xZes~",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [
-        "员工旅游",
         "节日福利",
-        "年终奖",
         "绩效奖金",
+        "年终奖",
         "定期体检"
     ]
 }

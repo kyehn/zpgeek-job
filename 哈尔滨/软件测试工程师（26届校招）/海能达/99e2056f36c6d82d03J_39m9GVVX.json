@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 25,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8ZEq3a5BocA.search.10",
+    "lid": "6kLiiwwqexh.search.25",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "面议",
-    "securityId": "PNQm0dOkPH5rp-w1mGKEV9-_Hr-xCUr8_yeLYFxWFMEPQWN9WuEl4LL3xsxmjEfVrjuDdV1Z_z2kDCtE8sP1AYKf8YPTPBMQvJXQRyzakXq2PknGV3AI4JT9S5SI0he-UL8cwiftKGmkLYASv7Bh-UsXBbdMnyHzAf1RZ5vsZFew8BWB",
+    "securityId": "MVsdk8rahTHhN-n1hJOamATidp-cILkg6NJEyw41tId-7Y2-83cs62UKoED3wtXGrce2LAvqdKLD9G_sgxa1365UI5yGT1w2d0MnRA9CS-_SqF28MYj0QhsnBRl2qaEEIdoqkCaD9VZKyP_JdfVK7xj8FURA7MiioASEKruMVzy7LbQu",
     "showTopPosition": false,
     "skills": [
         "软件测试"

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南岗区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": true,
+    "bossTitle": "人事",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211014/7bf6f160950405e9480c9b8f9bdaf499fb51475ad4361ef7b84c0cf529c17c0bca057ac50a24b8d5.jpg",
+    "brandName": "海康网络",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "宣化街",
+    "city": 101050100,
+    "cityName": "哈尔滨",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9880ffc22264f3780Xd-2t-0GFQ~",
+    "encryptBrandId": "4224bf97a9cb3ce93nB73N26FA~~",
+    "encryptJobId": "c9571a0707fb4d8f03x43925F1ZV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 45.755544,
+        "longitude": 126.647772
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 88,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6ih6pABwZ7J.search.88",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "xTsI8FqZsJaPw-11-TswaRD66lO2RLiR4ZfJ8wgqdMIoyWs-1lpbay1_9oXdE7EJMm4wK9Q9D6AGeDBmXQbXZIuL560yE84J5QRntCZKK56UFQsjNuA-CqJGyneYfCt35TKnM3JpMPTFe9JFdBejSlZd_mh7Z14aYdgbK2LHW70otafO",
+    "showTopPosition": false,
+    "skills": [
+        "MySQL/Oracle",
+        "系统运维"
+    ],
+    "welfareList": [
+        "加班补助",
+        "全勤奖",
+        "五险"
+    ]
+}

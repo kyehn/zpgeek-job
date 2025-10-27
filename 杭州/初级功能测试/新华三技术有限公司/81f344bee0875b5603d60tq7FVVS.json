@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 52,
+    "itemId": 40,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gMClzFLKtV.search.52",
+    "lid": "6fxwkAZhvNp.search.40",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "Xhkr8kJTBddfK-y1KlkzYQq7HfxIlXo_A7JNAGyG_md1HYHgCr34E2V6t1tCQEKZaT-ZAf5-6_KdTrT3LYmMvR-f5llSZvfkLk76zgWz6RCoCRCE8DSfHixhrYk3L46nQCyXEV0kZZ2SxqPqm-eDJSytwIWqQCrF2C9kGQ5e38R1A6sl",
+    "securityId": "iCMN2bqFuOE5T-B1Vnfhk4KLh3m6Ce-CWvXVI5yovids54e-zqTYZYdMg57l4I3yTnIJHbXpNuzpJ73NOSyTLQaRefjPvcDLxf-jtNzaoqF12utIJYMraOik5oBj1XM_0Y6xjKDSpwFqlkDNuZG16XR7IyhrroZnIT1ZGdErH-CdO0TT",
     "showTopPosition": false,
     "skills": [
         "自动化测试"

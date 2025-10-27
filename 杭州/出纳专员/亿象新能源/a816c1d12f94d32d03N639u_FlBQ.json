@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "林力",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事主管",
     "brandIndustry": "储能",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250113/7bf6f160950405e9290d8b89af10fd9480dd05b7c438a726049df6bde300f8509c988a8b66133cb1.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101209,
     "isShield": 0,
-    "itemId": 32,
+    "itemId": 30,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ZRSN31ViqH.search.32",
+    "lid": "6fzNGkohijX.search.30",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "VHhmL4DwJqxsi-B1cqWVkFPgx9aA1TAiOfaiA5LEq6ZbQo6vF8-c_6yUec3mwGxQwE8kl2oB_F4K_BZy-5dO2p08OTMD8qRRFD0u8Iwpj68d0Be8kTuDCD_olwqmkbeBrYoY7XUDsLopsm8~",
+    "securityId": "Ei7Y_hsYGr67M-w16EAjp-HX2cmWq_O734HOUWaShxJ26cgGtwKxs3pONRgPzO11EEZLahiS_73migMP2EUaRW35uRxarTjtp3uhMNh-Sl4_mQIzN8WphSdFskI6tZisXQ36cz2_sJmn7hgxZM8BhI18jfPN7S0YONqoPzmLurc6u5OjVuA~",
     "showTopPosition": false,
     "skills": [
         "初级会计师"

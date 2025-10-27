@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241218/607f1f3d68754fd0121506b2e8477d09c283d4942049ce67db271898b3a8cf88906f6eaf5b497a12_s.jpg.webp",
     "bossCert": 3,
     "bossName": "顾佩佩",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230104/7b5b554d84f9729c038a4689d1f8d379bf6beea2e20e96ba28677dd5a29a3477f7612e8797be5a26.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "4b3621e0e5b433041nVz2d67FFs~",
     "encryptBrandId": "8b504ee170c9de3d1XV43du8EVc~",
     "encryptJobId": "0fe82205a45600c31HJ_2tq6EVpW",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.290738,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 77,
+    "itemId": 84,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1BTCu3DYjJV.search.77",
+    "lid": "6fAiAX3aaek.search.84",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K·13薪",
-    "securityId": "QMeNWXLtuiuCV-H1mwxnIDAszYSaMGDUKYgS5azdqg8u1-73nPNdStmBBmN20zgKa4hEP8VrEZ6HQUK70OnA74Bvi2SHVKQGmYmEvV6zp670rsv3J2Mz-SRqeuJ6K7xzJG2XbQ8CysnSTg~~",
+    "securityId": "WUbkPD51ylQiN-T1nm-4mRiKbFbMYQq4SDOqkTo7EFx8rNRFEQmSDjU3PlnFqj_cLOWukAe11XLKJGELbQUxyyYvMFGSdwvrVg1XPOG5WEMcWqVFZ7JW7gL6taJmzP1n_9S2pZkdu3EoslN99C4LDr89tIoNQ-P2ta3dQeUnv1IEuf61Lg~~",
     "showTopPosition": false,
     "skills": [
+        "测试工作经验",
+        "iOS/Android测试经验",
         "性能测试",
         "功能测试",
-        "Python",
         "计算机相关专业",
-        "测试工作经验",
-        "iOS/Android测试经验"
+        "Python"
     ],
     "welfareList": [
         "节日福利",

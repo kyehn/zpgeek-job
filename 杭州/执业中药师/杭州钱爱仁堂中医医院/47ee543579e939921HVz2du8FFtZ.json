@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250208/607f1f3d68754fd001c41e40c1060ac29d10bcb164a5c15d54be7e2c493d13176f1c64c21ad732bd_s.jpg.webp",
     "bossCert": 3,
     "bossName": "王燕妮",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "行政人事主管",
     "brandIndustry": "医疗服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100402,
     "isShield": 0,
-    "itemId": 89,
+    "itemId": 54,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9a6pFBYDuFv.search.89",
+    "lid": "6fzNGkohijX.search.54",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "M26G5oswoaXk--S178zcdjo0WjPw8GvgcuYvgTsjlsXJ2E5GbKn65EaKavIeX4BDMR8EZWY4lV4zWHF-VhzwxhO_WpQ1aUff6t8aflphqRuSgg-GL6f7r0PC1VdyvZ8OYJ8T1GP3yAaC33M~",
+    "securityId": "19WSoOdaCADty-g1rXPhRsj1_20iNoedXr0KuSnPovpT5jiWx-6gVv-bLbl_vcvsszsZSlTyMmfUpEMPs4YcVk9syQDpc5P8TCyWqDdCWw4CIEbegsJ0BG9So7z6oSMYQIarzpsE0VRpW6GEHdXGlPC5xlPrN_BAHYQGX_M_zHg_s0pOntY~",
     "showTopPosition": false,
     "skills": [
-        "中医院/诊所",
         "中药执业药师",
-        "药师初级职称"
+        "药师初级职称",
+        "中医院/诊所"
     ],
     "welfareList": [
         "包吃",

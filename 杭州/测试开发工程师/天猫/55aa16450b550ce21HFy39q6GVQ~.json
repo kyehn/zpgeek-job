@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
     "bossCert": 3,
-    "bossName": "叶先生",
+    "bossName": "叶帆",
     "bossOnline": false,
     "bossTitle": "技术专家",
     "brandIndustry": "互联网",
@@ -22,7 +22,7 @@
     "encryptBossId": "054b0a37b7695f120nJ-392-FVU~",
     "encryptBrandId": "6532cb7d582d12b61nZ80tU~",
     "encryptJobId": "55aa16450b550ce21HFy39q6GVQ~",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.27921,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 73,
     "jobDegree": "本科",
     "jobExperience": "应届生",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6MKCktlS1TO.search.13",
+    "lid": "6fx2m9W4vu5.search.73",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "8eBrfQfhZGaMo-m17N1OS5ttqW9b1i20Xl-7qNOr-ONLqoKQTcu-RMZLra2N5p1Ldl3RkYOX8dcTQTljL4whISkPxTBZXlT2Go9yFIEp3M7xvQ~~",
+    "securityId": "_wx1txup4q-aE-911mjEiLKQr7tDlEe7rA7dWGffoqsWRVvEXwNlsRWz99LEcxd4qq6gnnVu5CCbELnP3mrEIfi25PdHQkCM1AL9I0xxiLfArmOaVXRwput2B_AHcpTXvHoUyHF2",
     "showTopPosition": false,
     "skills": [
         "软件测试"

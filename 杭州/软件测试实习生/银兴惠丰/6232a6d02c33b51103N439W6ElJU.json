@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "上城区",
+    "areaDistrict": "西湖区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250530/607f1f3d68754fd0867f1ccf5be0fbe4b6f66f2f533d180778e5b9bbe55890fadc4b9b82e064d144_s.png.webp",
@@ -14,7 +14,7 @@
     "brandName": "银兴惠丰",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "望江",
+    "businessDistrict": "西溪",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.244347,
-        "longitude": 120.206844
+        "latitude": 30.285547,
+        "longitude": 120.111227
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 86,
+    "itemId": 8,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8wkyd6TPvau.search.86",
+    "lid": "6fx2m9W4vu5.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "cQbOPAL4yTvPn-61p5y47ULlB6omkrS4Id8x6EwioFjiYF8unbZJyuCT79aOF73tXOlXKi_JXSCcF-4h5iSci0xn4wwn-LTpUZ4QoP6WmAjf856t6M-m9zO-H2d2nrsVP_hpD0xqY8o4BTYyXcTByrK0tCMWx-V9frflSXLgR9HZPzdsIg~~",
+    "securityId": "h3lN6AnKgQNIO-k13axacBPjfXQsYyR4L-pOj1rNCTjyCvIcsHjbsXYyQ4FpyikPe9qOGfcygzBL37ZEokfuwRGs8AQsT0BSTyUlJ1r4XRw0grKaN5qsy6Sl8bKNJSKmfXUoaP5czkPn4X1PqnPkpBT_v5jhJh_ZuCxIcuPNyNPL3_lz7w~~",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [

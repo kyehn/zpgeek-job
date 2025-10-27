@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
     "bossName": "徐女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220324/7bf6f160950405e9407aebb63178f50d40e126eda06572955357f391967b2ce65ac42daca5f5b77b.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 47,
+    "itemId": 86,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9a7WzOIcNfW.search.47",
+    "lid": "6fx2m9W4vu5.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "k233-1AT6BBjR-k1Nne_R48fWyloybr9gho2xKanpEWhvD3iAsT2-auKcgZHxpF8Z93CC72ZDFFrKdxyU1iKgcopjV17Rczp9BVR3BGC_ooKE0UL6triIgU6RJTenUIfwGPlSwSiTTIjyzw~",
+    "securityId": "h6YC5Sl6s342m-C106STO72x_m_V5QmlkF423GPKjJlcHOsUqAK3TAgctE4TL0I7gcFJEXhFhN7Cpew31IYrdASzycaCnsdmCuDuvYEkPs4BakGi3MNZN1zpgWP_HIf_O93iQLFZh7uzPxt-GQHkJJ43qdPyO8T0tCWFLoeqqAAZ-aoyYj0~",
     "showTopPosition": false,
     "skills": [
         "音视频编解码",
@@ -59,12 +59,11 @@
         "流媒体传输协议"
     ],
     "welfareList": [
-        "交通补助",
         "团建聚餐",
-        "节日福利",
-        "五险一金",
-        "带薪年假",
         "绩效奖金",
-        "生日福利"
+        "节日福利",
+        "交通补助",
+        "带薪年假",
+        "五险一金"
     ]
 }

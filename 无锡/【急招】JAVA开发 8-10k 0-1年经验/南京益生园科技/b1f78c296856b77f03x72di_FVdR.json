@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250924/607f1f3d68754fd099bcfb525b5c3b781004459ffd9eaa8a2fc5fdbf62f432645c939d533de3dbba_s.png.webp",
     "bossCert": 3,
     "bossName": "郑先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 6,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7IVqRkgYQXe.search.7",
+    "lid": "6kMgzg9Tomu.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "22mQ-aVVHxwMT-H1rxRcmBSOBCeV83znF-VsLKVWJNQ2v8Bu4Q4R_GmF-dpxJ5TrG51nvEcQLwwlgKAH285ENkGs9F_-RfuHuqHKzqDGoKn6uqVN9HYp-1ttIOiwBAKavCtzDQXjCo25WiY~",
+    "securityId": "BnLr0Knr113RB-l1DLJNK81sK2vRpn_VfJh5Y-X4wGl39DhUrSznEc7dYjs9mmeo_DFrtBCXsBpNG1ki1xl8BfeJIK2u_I-G7aksnMHqxnsCLAtamMNSDtfaWToeFAThB4PmR-iM9KnoAPC-vpC14FjQAmZ3STizwhDiqIIrR0fQplBZQpY~",
     "showTopPosition": false,
     "skills": [
         "Java"

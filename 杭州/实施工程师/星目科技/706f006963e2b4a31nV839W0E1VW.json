@@ -7,8 +7,8 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "卢先生",
-    "bossOnline": false,
-    "bossTitle": "HR",
+    "bossOnline": true,
+    "bossTitle": "产品经理",
     "brandIndustry": "计算机服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210118/5e82edab68b82e6633ed2691c97dd6c11a6d7dc6ca7cebd64cb24fcf4fdd6909.jpg",
     "brandName": "星目科技",
@@ -22,7 +22,7 @@
     "encryptBossId": "8c3c2e8a610f1a890HF82Nm0E1I~",
     "encryptBrandId": "b79f7981c00a0e711nd53tS_EFU~",
     "encryptJobId": "706f006963e2b4a31nV839W0E1VW",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.183586,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 146,
+    "itemId": 87,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "o8beA7ZFRO.search.146",
+    "lid": "6iftzYxfA2B.search.87",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K·13薪",
-    "securityId": "ts1GmztJkr8ne-L1RVdYcq48Oc-vZDTcsmRi2g1oRL4gYPfo01QOKy-Y8hSDytQ8JD0m9kOZ0z8j2IBrHwZB2iJJuJVC6ZpfLZ-3lNsj6Kk3vf-IKqXZGckx-fuszJ10SN3sXnFCvPIoEQ~~",
+    "securityId": "xwDQyFeqjWzut-V1vJPX8vEn8EBX3nnRNjbuh5FsDsap83kdLpwXhdCNHWFy1K5IUnKWaVaS535NArYVVjCOL98tRytKAJ6k_HW7GjAwPM7vKdHmZtvu0ovCfcl6zg-lgFMlWvATwU2KKDo6IS44ghxXByUQpVBAM3H7raLGb_NIJMGftA~~",
     "showTopPosition": false,
     "skills": [
         "SQL",
@@ -62,12 +62,16 @@
         "项目助理"
     ],
     "welfareList": [
-        "股票期权",
-        "五险一金",
+        "定期体检",
+        "节日福利",
         "加班补助",
-        "员工旅游",
-        "年终奖",
         "餐补",
-        "定期体检"
+        "零食下午茶",
+        "团建聚餐",
+        "五险一金",
+        "股票期权",
+        "年终奖",
+        "带薪年假",
+        "员工旅游"
     ]
 }
