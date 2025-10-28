@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "余杭区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250418/607f1f3d68754fd072a11d71a160bf1a85369e3c7d13186e651162dba7c2511d99bda4c52d7e897e_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "何女士",
+    "bossOnline": true,
+    "bossTitle": "人事经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240105/7bf6f160950405e9763d940637ab43c1b6bf9ec44707a6cd04c5cab85daa86eb9e7e03c57e4518bb.png.webp",
+    "brandName": "卓越际联科技有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "仓前",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0e72e55e2dd5fe5e0Xx439W5Els~",
+    "encryptBrandId": "9a80334346a8f4661XR73Ny1F1Q~",
+    "encryptJobId": "2370671aa5075b7303xz2dW-EFtR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.28337,
+        "longitude": 120.023164
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 11,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "解决方案-实施交付（互联网大厂）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5LzjiCmBgbL.search.11",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-9K",
+    "securityId": "HkUBTtO61qpjA-f1IrtqgL1PTRVM2Yrzyc-ZJ4c7ZHtDj2Nk2Ix2Tdtf_yd7CuVel6a_FvAWAH1QmXvyK6BpURgUvUaFmYMeCTZkmtDaT0tN3Da_YvyW7yGsHVZd4_icEjiZgLgOFo4E1uaEDS_jowYQg06LxuqT-_mUwn-UuZGCuUblgw~~",
+    "showTopPosition": false,
+    "skills": [
+        "ERP",
+        "CRM",
+        "软件实施经验",
+        "熟练掌握SQL语句"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

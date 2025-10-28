@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250223/607f1f3d68754fd093192e61c6eea01e02680cbb3670acafe6ce78d9f6b73efcfeea9c544e42551f_s.jpg.webp",
     "bossCert": 3,
     "bossName": "程先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事经理",
     "brandIndustry": "建筑设计",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100703,
     "isShield": 0,
-    "itemId": 20,
+    "itemId": 62,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6fwzY8gEF6q.search.20",
+    "lid": "5InicaLAGXA.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "YQn1ceBU94KV2-A1RsINgl-Im7VJF6Ac8xxOFpxBFx0H3R2oaCUdZDw2EKJGtFv-OlQffLILn-RU99aQTDztCDt751A86hZxUtqPVspqJN2jeAjxPByhblZD7EMZClFmEKruDoUSpFQNZy1LlzkIFg0YuzvCnV_Q8eF3cvOZhczWB7a3Qg~~",
+    "securityId": "7vK6_LYf2U8n4-y1V4xgRY-t3Ymoi6YpHbyYNNtEu_qwpC8ys5BSdPnO2WjzACWoLMhZ53VKSIksHIapP83pfMOZnrZkNhsiH3TC3kZZ93Iw03elmRvOphkIVT8m4cGOkv_1jYY86uEi-A~~",
     "showTopPosition": false,
     "skills": [
         "桌面运维"

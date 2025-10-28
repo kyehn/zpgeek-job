@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 71,
+    "itemId": 55,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,23 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9a7WzOIcNfW.search.71",
+    "lid": "5IojAi5UgsX.search.55",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "jojFMJSVhVMa9-r1qDqScDtRni2-3YgEz1zC0GuoRUu-OPORioLQSEr3CIUjj3D9V8974M8_CFdz3pFj7Rfcvk51VEx41XM_lvv0bHfy-gYFynvFvhOTk7BRZnasLJhDqLpbuKPBveRtlw~~",
+    "securityId": "J354XjPlOEPWl-z19jc4_AlCxYXgjvaoN7gPqNncEYh7ECm0aKbRy-Oq21lXx7B9eBN2624NT4n1frepDIAODHQWo4365RBj5zisn-Z_l2cAb_7Jo9itSuqti94y7B-_vvfyCOFsVP7R_g~~",
     "showTopPosition": false,
     "skills": [
-        "电商店铺运营",
-        "B2C",
         "B2B",
-        "电子商务专业",
-        "小语种",
         "接受无跨境电商运营经验",
         "不接受居家办公",
-        "韩语"
+        "电商店铺运营",
+        "B2C",
+        "小语种",
+        "韩语",
+        "电子商务专业"
     ],
     "welfareList": []
 }

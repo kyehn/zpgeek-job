@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南关区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "姜女士",
+    "bossOnline": false,
+    "bossTitle": "副总经理",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240722/7bf6f160950405e9afea963498b611f620c4dd31854657bf73e81a18864e3aee3fbed34a422a2799.png.webp",
+    "brandName": "薪弃疾信息技术",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "临河",
+    "city": 101060100,
+    "cityName": "长春",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f1bfae7e0939078e0XZ50t26EVRU",
+    "encryptBrandId": "c61bf2237083a87d1HBz3Ny0FVE~",
+    "encryptJobId": "587615caec64d3ba03N73NW7EVNS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 43.815955,
+        "longitude": 125.383761
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 71,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件项目助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5LA6E63abKH.search.71",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "BP5EFslNeYx6o-g1YPfDWhQkSXxUJVFBTqUrMEFbEPwRQINVMQPzTEwnc4XoN_AT8HelUoYVSAN3ITTZtU3FdmiGKwooqGWu_lUP6PquEEFT9GClhejHd5sanEKjDtFZ-hHFQD3-oZlhVsY~",
+    "showTopPosition": false,
+    "skills": [
+        "软件研发"
+    ],
+    "welfareList": [
+        "绩效奖金",
+        "五险一金"
+    ]
+}

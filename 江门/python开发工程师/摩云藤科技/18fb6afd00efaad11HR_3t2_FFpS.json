@@ -13,7 +13,7 @@
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "摩云藤科技",
     "brandScaleName": "20-99人",
-    "brandStageName": "",
+    "brandStageName": "未融资",
     "businessDistrict": "北郊",
     "city": 101281100,
     "cityName": "江门",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 40,
+    "itemId": 37,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8wmf0zjCp11.search.40",
+    "lid": "5LDZmrdjrCt.search.37",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K",
-    "securityId": "CjcpYrW5sSwWq-X1hiuQkpwtpOFwufecV1xeQhgfdZziBNDKbd7f40MeBc6Z6hpXxcombRG2HwmIz3GHFFrkdhbgHaWMbnffj78-YpC3j4m9bQHXl0sYSgUL5tsWC9vW6KJ74MPMHSWyfGk~",
+    "securityId": "Tjjn9Ujvzrhlt-C1QLN-Murnzw--CtA8GLglne2bPFygY8szfWcD8CghUf0N4b7euC5QNGXqWjOOF59s7OwHFXtpBL0o8gKHSz7GaYHC4Bkhg5IyPGh0-mICHtaEpezE6o_svqQI6-ftoTM~",
     "showTopPosition": false,
     "skills": [
         "Python",
         "Java"
     ],
-    "welfareList": []
+    "welfareList": [
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金"
+    ]
 }

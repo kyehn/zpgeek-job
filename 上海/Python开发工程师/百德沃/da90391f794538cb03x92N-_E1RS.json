@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 83,
+    "itemId": 87,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7Y41PsGem5U.search.83",
+    "lid": "5Q3Jrn4ZqrE.search.87",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K",
-    "securityId": "aa9vS1tPGlmTv-n13V8tRQKY0sxbLs3pCCFGfHWmsgiSyO9_0RxzrBEZhludKEHJUpzeK75fPF1oDKagvhwW4VjrqQ2mX_rlcsh7WNZqPBAZN8CuOwHK6yXN4h5GWCyjT2Wm0iv12tF3th4aMd1J2pGHIwZPUAv8iJt3yzR0SllMeCQm7A~~",
+    "salaryDesc": "7-10K",
+    "securityId": "Tsc5SYcX4i-bL-v1Dq_pHPAmXVbdbPChjg_C5_3CkdbTeTyqhPWLgyIc0BXY6XsRNOxzBpRUVBtCjBYNeaV2FMBO38Sf5dPj4HXIsdEZQMU-pgrDKNxjhKKJxm6tBI1RrwJpM0hD5xDAwmY_PrTHKrDzsUb82_ggXoP6QtqsHJ1Jib4xig~~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "Golang",
         "Java",
         "PyTorch",
         "Django",
-        "MySQL"
+        "MySQL",
+        "Python"
     ],
     "welfareList": [
         "五险一金",

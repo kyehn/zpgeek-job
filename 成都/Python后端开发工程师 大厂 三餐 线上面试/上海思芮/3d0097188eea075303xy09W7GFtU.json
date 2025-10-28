@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250529/607f1f3d68754fd0ff4811d021e577240468871dbf68774e68d1f891ee6dc0099127e6c9ce4fc179_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "蒋思思",
+    "bossOnline": true,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "上海思芮",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ced96fbb0d1c4cf00Xx-3Nu6F1JV",
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "encryptJobId": "3d0097188eea075303xy09W7GFtU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.541426,
+        "longitude": 104.067526
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 8,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Python后端开发工程师 大厂 三餐 线上面试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5LDZmrdjrCt.search.8",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-13K",
+    "securityId": "BdXwyCG2vLwYu-K1o_RpU5d4myfRXS2K7zGIiP9g9iB2GSUyQq7caswuHmBN0s5d0RvDf84ZNDnEiN8AclfFLGosFErsvgcibfg02qqvKJiOpbpRbBNf7Ms4hkemdAcQkjo2F7liG3_hznD2RprvEbX_P3Ozcrtiq-tIgpwBC3aK-95b",
+    "showTopPosition": false,
+    "skills": [
+        "有数字后端工程师经验",
+        "1-3年数字后端工程师经验",
+        "Python"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

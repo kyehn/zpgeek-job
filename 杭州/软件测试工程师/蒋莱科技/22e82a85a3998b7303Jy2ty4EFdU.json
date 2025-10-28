@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250819/607f1f3d68754fd0e94a15605dee1e7623fe2ee7e9c2fed5ac2cf6f0c418e3d9fa69d1d340b42157_s.jpg.webp",
     "bossCert": 3,
     "bossName": "王女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 44,
+    "itemId": 67,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6fAiAX3aaek.search.44",
+    "lid": "5IvKpNp61w7.search.67",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-11K",
-    "securityId": "Iqfa-Z0rWZ2fc-s1r92JTIgaTaP4A7jV3ubWSvi1JG92ydi25uLu9a7MvtWx_hgJmYXRJIYZU0elUqnB3Yek_P5pF8BaDkiiFkw7AR2m6P9QzhoDN5jY3UBYz2XQ9WK4IRH3Qqq3F4X9dM7rjus-Btd-BDep5JWesdB4QwBRaYWSrY_ZCw~~",
+    "salaryDesc": "8-12K",
+    "securityId": "qHDVnKR9vpj5F-j1zelios43K1FrMKmRsPtgFK9NjKykkCRvFi7As7oe4El0_a7G4jnWj3gYqeG1_WeY2IsDi2yRfsIT4Wwaao0bEmpFLzaBbyIpgPfqJQnB3TXk0ZssMijuLV6BU6JNHQ~~",
     "showTopPosition": false,
     "skills": [
+        "功能测试",
         "性能测试",
-        "功能测试"
+        "金融"
     ],
     "welfareList": [
         "全勤奖",

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 16,
+    "itemId": 50,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7uhFxS5aYoT.search.16",
+    "lid": "5M4ArPlXA5X.search.50",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-9K",
-    "securityId": "WwzBzZpXi8By8-j1S7w431eGt61xpSy_ULkvEl106udEsRtftLAr1fypMk-CSFRtdnJhZOWQXkyVD59r8xqNTk6FCPxn4o_AWP9Ew_IGhp7EX-FihOaO-ENfzagNzX-2y9N8bVBS8fwu",
+    "salaryDesc": "7-12K",
+    "securityId": "_Hj9R18HPBNKh-J1DiGw4tMn4mIWlNLMRBP3JM2LoucWGsz7v9SKFhkJ54J8aqG8NeU2wthdCLq-Tn8ITk_xvl9QF4B_c9CL4aUIwMVm27gtXFpfnuf5p0bGHWs6RbStQjTSccP8-YwF",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "Spring",
         "SpringCloud",
-        "MySQL"
+        "MySQL",
+        "Spring"
     ],
     "welfareList": [
         "餐补",

@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "计算机软件",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
     "brandName": "杭州易算云科技",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
@@ -22,7 +22,7 @@
     "encryptBossId": "280cfcb9c3a3241c1HN50tS0GFE~",
     "encryptBrandId": "127c45457e4156e81HR63dq_Eg~~",
     "encryptJobId": "b2d4c42cf417c3c11XN-29u5GFRX",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.289867,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 23,
+    "itemId": 79,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7jyEVrrpZa2.search.23",
+    "lid": "5IroopfG9Ms.search.79",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "u4VnLYJ0mPYl_-Y1ZDU1q6ZFF4LfWHNgXmiamhBdvcR80qAcX3zzjBg06ajf3RkRAJvEx3tgpEEr2OIRofAbDAQewVq8272z6cKSaMaFXHcpnL3pcRaffVinjFx7XnyZP8XlOzrxbY1Q",
+    "securityId": "KgYf_8KuP0ZS4-N1nzb-DovZxuRd5pt3vJ1JYJW2FIKNetO2XuCofSHN1w6Lrj37IxmA3wOUj5E_pT-OYZ8BfSnCYYnn3My09P-tWvcaOjEFiD2N2dprOesvoMEhJizIubW-sbn6u1eg",
     "showTopPosition": false,
     "skills": [
         "Java"

@@ -8,8 +8,8 @@
     "bossCert": 3,
     "bossName": "杨先生",
     "bossOnline": false,
-    "bossTitle": "招聘者",
-    "brandIndustry": "移动互联网",
+    "bossTitle": "HR",
+    "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "齐煜",
     "brandScaleName": "20-99人",
@@ -30,9 +30,9 @@
     },
     "iconFlagList": [],
     "iconWord": "",
-    "industry": 100019,
+    "industry": 100020,
     "isShield": 0,
-    "itemId": 42,
+    "itemId": 68,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8HrBZ8fBB5B.search.42",
+    "lid": "5IroopfG9Ms.search.68",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K·13薪",
-    "securityId": "aqWPdSGhLxHP0-q13gd-_XwjxzqQ2jYPZECWEranYF6qeUrXiHwP3K19q-NBFaM3UsbPGh-yr31EYptYHXRRq-DbIYE6_GKYHpww6AX01Q_JBh1r1-VpHp_wD2zTSelXJ3WTa21979FQBQ~~",
+    "securityId": "KXxc_jzUHT3jD-U1rzHm14uOdTChl2rkXcNLSYSrSYZowz8j4OkAZEkCyRYSjb12UbnH-NoP9tMMmoPlHM6VW7QRiNsEDKQfZhOCcygf3K5ae9mOFeobCKAjqnyz-3ox7YBX3foUAtpRkw~~",
     "showTopPosition": false,
     "skills": [
         "C#",
@@ -58,7 +58,8 @@
         "PostgreSQL",
         "SpringCloud",
         "MySQL",
-        "MyBatis"
+        "MyBatis",
+        "ERP开发经验"
     ],
     "welfareList": [
         "五险一金",

@@ -10,10 +10,10 @@
     "bossOnline": false,
     "bossTitle": "人事经理HR",
     "brandIndustry": "信息安全",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20251028/7bf6f160950405e98cd602cb595d164be379feaa71e892b7727f6929befe28c765225ab65386fdce.png.webp",
     "brandName": "新疆正阳",
     "brandScaleName": "100-499人",
-    "brandStageName": "",
+    "brandStageName": "未融资",
     "businessDistrict": "红十月",
     "city": 101130100,
     "cityName": "乌鲁木齐",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 46,
+    "itemId": 11,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7FkkxjP1xyP.search.46",
+    "lid": "5M3y5BbgPKW.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "QBOPjoRNrh_OG-Z1sOrb7y0ERTxkNzRWPJug4EHGIcCiQfALZuV76p2o2tEVaqqdbVxR_UmikzH7UMZZ9jQHCTX2D3fjpWpFzNYic-r2zbQKC8BlriOXQpyKMPM1NwZZNbJfwFmxp2ELWg~~",
+    "securityId": "5Feinn-8cnQer-_1b_nAXAw9JRyoPvzoI4gxvRPMm8sFSt7ymzZ9wvP4-8fcqr1KQtHeLl95_gLQ4pfqgNr2_uKOPcqFElf_YHQMYxwCttVyxrWXSWB055Pe-X6vAWpu0hNQiJ5DGT4AxQ~~",
     "showTopPosition": false,
     "skills": [
         "Java",
         "SpringCloud",
         "MySQL"
     ],
-    "welfareList": []
+    "welfareList": [
+        "意外险",
+        "五险一金"
+    ]
 }

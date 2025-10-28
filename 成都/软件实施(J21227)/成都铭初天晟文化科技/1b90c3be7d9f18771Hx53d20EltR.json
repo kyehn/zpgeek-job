@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221102/607f1f3d68754fd0cc8cf266f41b557c25b338c1607a210f1550533aea393d383dc615e57ec45080_s.jpg",
     "bossCert": 3,
     "bossName": "李波",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人力资源经理",
     "brandIndustry": "证券/期货",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240909/7bf6f160950405e9ac1c336f08b08720b6184b8c5c10b151f29773df211512302b8b566005477cac.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100203,
     "isShield": 0,
-    "itemId": 5,
+    "itemId": 9,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6kPysiPs4wM.search.5",
+    "lid": "5M7gGw2HRcw.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "qK7sGEcwjMWda-E1NphidQC4qqo3c_ffWZQONYZjLXar-wvDZIyHPect-H3Z0yGfFfWGajp9iLt7UVBvAnFwg6zduRDBO0DxHV96n6FVcPxgt_APOh4FnU3soLcdrwPT6cLnvjnLSjUyWumHw07b7Ss0Bbb_N5htw7SGAfY3T7OgTbPr",
+    "securityId": "2A3OB8w3VPHax-m1dZHearZ5n44dIuPyrfzZ-a56Wax5Vw2ZaDMkh-01UFIXDRGTTrarcvhaLCHbUbwt7h2qT8HCpouq_9JKHrgukgtpHaD_MG2TK-309XekjXCivJJ8swSz8G5_4-sQ",
     "showTopPosition": false,
     "skills": [
         "软件实施经验"

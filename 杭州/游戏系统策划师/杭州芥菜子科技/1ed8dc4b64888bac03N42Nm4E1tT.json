@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221009/607f1f3d68754fd0f456a234bcd952ec4732edb20954eee63a599138119379920dabd4ef8bac7f00_s.jpg",
     "bossCert": 3,
     "bossName": "王女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "行政人事",
     "brandIndustry": "游戏",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250624/7bf6f160950405e924a7c36318c589f56f4b8a11576b3cac3a599138119379920dabd4ef8bac7f00.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 67,
+    "itemId": 62,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6fxYMAmfZun.search.67",
+    "lid": "5Iqo63pdJG1.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "wEqhF1cT0FNd9-W1ywb8rJeG9puLDPKbnG-jdXzaYNDEsPQvsZJehZJOznxd8EJCJepaC-jUz7pGPRF0877iQXg1PU8jWsBcswot1fAWNAdOH_9aRDvWggtTxh5R20PIKJtKqmTcYtvwOxDuTBuoFGJoCMh1R_OhVcFvhXhCMQL9KsAnUcI~",
+    "securityId": "WcM9lXVSmdbAA-d1nMCnjER2PvnKB1jrwuIrLa3P0YveU8Ve-Nu-wStpQmuNd5k4IHEp9ed571wUTPWPo0jDFugTZBh47IlVtupP1JrNyKaJzmfQFF7zg_nw1zPWv0q6LvxtZzoU45PDP2E~",
     "showTopPosition": false,
     "skills": [
         "动作冒险"

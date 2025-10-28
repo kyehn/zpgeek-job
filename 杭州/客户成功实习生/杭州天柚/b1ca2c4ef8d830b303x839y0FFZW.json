@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250919/607f1f3d68754fd03de8c980c8e27bff07867b3bf5b056a9d60954f809d80aa0a5f4ec742b7e6296_s.png.webp",
     "bossCert": 3,
     "bossName": "徐亮",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190219/21719e6f5923d1b01bb4ed2cc1cff56fc3d92ba56291840c61fbf3ab8a6c81a8.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 87,
+    "itemId": 77,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6fxYMAmfZun.search.87",
+    "lid": "5LysHkMBzud.search.77",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "0JvKZpTis6CW4-p1P7RNLxxNB_9xpRDYGndpSlwgnD5ke1XrN-NjJw0D1MrA0wG_VjYKVVyti4JZve7JMUEGS2tnPlAiVoilaITKVRo4lL9byQla7MZU8S6ixsqQyj7nLvh5d56MacfM9BjNn83yCIIhzpzdFjg73XFblwdKVfFuY8398A~~",
+    "securityId": "MN-9gEnv3y723-814E3KlOdSsmBctUs_kB6pF0zmCH92o25EoVEsUvLTpyzU4SXOjVsm_C9CTam8uSq7KozDzV7BPme85viIZZcFLEevRIxZoBVCU0R3PryDWWbGvf1tvIUCRFJKnrvyoA~~",
     "showTopPosition": false,
     "skills": [
         "客户成功",
         "实施",
-        "售后",
-        "运营"
+        "运营",
+        "售后"
     ],
     "welfareList": [
         "年终奖",

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 88,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3JqS6KTAlc0.search.36",
+    "lid": "5M3y5BbgPKW.search.88",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·13薪",
-    "securityId": "9w_NhI0jJf8Va-L1fqRmP6yE6xZwcy6YJNNqxQkvP33i8uQOVjRkz6sO8mfErW4maV9AJB64amazJ7oygqCpuVCvtnr5Mu2SNL2jTINNQ2Yv-soWfOh_iErw1NZKS77tgTL9sKs~",
+    "securityId": "AYjCynbkKhHp1-H1AK6v9WryfBOuArz7FQQU_kKUOPeCjLcrdU5mBBfMfek-poscz6ruyOoHMrhrUWEciEmk-qqPh8Z_bMtLUK-lO1xK-CDBeRgcqo8tVxcPECAcrsrgfcFY8PE~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -60,21 +60,16 @@
         "计算机软件"
     ],
     "welfareList": [
+        "带薪年假",
+        "法定节假日三薪",
         "节日福利",
-        "补充医疗保险",
-        "定期体检",
-        "团建聚餐",
-        "员工旅游",
-        "股票期权",
         "保底工资",
         "零食下午茶",
-        "法定节假日三薪",
-        "意外险",
         "五险一金",
+        "股票期权",
         "通讯补贴",
-        "加班补助",
-        "绩效奖金",
-        "交通补助",
-        "带薪年假"
+        "团建聚餐",
+        "意外险",
+        "定期体检"
     ]
 }

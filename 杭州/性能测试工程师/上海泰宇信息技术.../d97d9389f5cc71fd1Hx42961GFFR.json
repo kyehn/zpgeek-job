@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250114/607f1f3d68754fd0537cd7d14dbfd84c318c730847e80add6ffd22670ebbe0aab396e09536665612_s.jpg.webp",
     "bossCert": 3,
     "bossName": "陆女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "大数据",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211126/7bf6f160950405e94a2430a8c38aa27fa9ca5d0daacec920d89d4d95e3aa9ac762f0905333dc25f4.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100005,
     "isShield": 0,
-    "itemId": 23,
+    "itemId": 51,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6fxwkAZhvNp.search.23",
+    "lid": "5IpmCtCOvmS.search.51",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "fupJ17TlL8lq3-p1xuAwn0rDStrnW0FKaHn3dRy02b4Y4rZx3fV0tvzKT-IAt1bYBtya4gFFfDdItmbXyA_9okgIQI6Mv88lPHfIUt6QTsE0qKtH5MV3KkMlnINDyc3PI9fVtjeIu82CbjPpn6tssh_FWaRKgudO5khMGXUYKaCi1zevFNI~",
+    "securityId": "B4nsLQL7qZyuD-m1X24-w0lxQSmrD8YCfHWOSnolXRr5z8ev9qUtskn4RnnT_xzgjHc_i-pAhw1Wm_w3FKw4t4u4oV65l8wDUVpADNACr-Bh99JSUl22M1FLKuOxZgyTdELW3F8Mti09XOc~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

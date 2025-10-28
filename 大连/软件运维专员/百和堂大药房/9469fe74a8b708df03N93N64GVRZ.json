@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
     "bossCert": 3,
     "bossName": "王小利",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事经理",
     "brandIndustry": "批发/零售",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231124/7bf6f160950405e9c66aa868f0ff2eef3d42f1808118b67b193134d85f98628c51c1e6ff0f7dd2d1.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100503,
     "isShield": 0,
-    "itemId": 12,
+    "itemId": 32,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6ih6pABwZ7J.search.12",
+    "lid": "5LBFRdIQEgw.search.32",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "ZX7NhQ2pMIqPC-71kbuLbPLO2rn05zOZzlJ9-z-9uFmCmGI6R6fUbP12wZOTPxmeVhVsIjnKt5Ioe098orEVnGt0W5HqhTMLG1OOngm-wj4YA-jkV17JgNX0st5S0wUK_WTcKolZV5zWYnE59PJ9gYX1KahNmdh2EG6IvRoAcBmMXqi3JEM~",
+    "securityId": "pjzUgmeLvNSuK-_1LIAtYclmzwSkEVN5OXdHnChsAXfwJddWUY7tq5Jlmn8DMM15YmgezMbTbU_haPj3ABzutKOmqlnuXV5bmI7-34z8i0LHNQyrZU4qVzlHQKUoFGp5IoYIqQsbo6BhS0c~",
     "showTopPosition": false,
     "skills": [
         "系统运维"

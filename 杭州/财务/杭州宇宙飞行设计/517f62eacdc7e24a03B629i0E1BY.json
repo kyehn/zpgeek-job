@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250216/607f1f3d68754fd089f6188f5f7302c3068249578082bb902cd1a8fe8be9eba29f85a5452442696f_s.jpg.webp",
     "bossCert": 3,
     "bossName": "黄涛",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "总经理",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 34,
+    "itemId": 90,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ZRSN31ViqH.search.34",
+    "lid": "5IuHBpwggLg.search.90",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "bL4QEGSYEsCNP-A13hKiQJBJRMvmmlax-lX2sHm_Z9B3UHF0F3BhYCHOYib1zkcVjXWsYA_kFBlgcCoKJKzzj2BCtoq57AQxcId3IFPc5Bd3sgpdtYVLaTdSCvEee5yIKYaPvkhn2-R7NsZjmp1d43AeahIuBWRBGW7KNyX8y0qmVe7c2Oo~",
+    "securityId": "JH5D5z8qJ4IH_-G1MGRqKq3BBe-pmytu2gPfJQ-NIHJlKlzkKwsu8uBdg6vijKV00GOX2rpGp6Y5-0DQzEYqk0rWyDauBR0Mi0GyYCBEv6RP3_wKyXNZ7RuzmkVfjAkSXM09AcAHIDT_KPE~",
     "showTopPosition": false,
     "skills": [
         "电商"

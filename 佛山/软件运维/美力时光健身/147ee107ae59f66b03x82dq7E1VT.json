@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250827/607f1f3d68754fd072dca412876431e429c7e50dff5de3bf11d435eeec873ae1a19b2b62d944e046_s.png.webp",
     "bossCert": 3,
     "bossName": "邱先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "老板",
     "brandIndustry": "运动/健身",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101113,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 13,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9fB9bf7zxDO.search.2",
+    "lid": "5N6kRbubFRd.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "2qG7YOEmQey6t--19wZMqc1E_SIoonGs5POZaJWkBQXnjPGH8Y4tVKH0eGQjok1yuD9fUkCsPQmjIUZ0CH4ooiWqA9V_oljQF9QxR8z2-dP-krtlnAxEz54LOXHu1KUG-kYP-wImtv4k4U-KjM9Ne_hi8uOrH-maWVae7T5_mgVlDrX1wxs~",
+    "securityId": "MCGrPQ4EhMP8i-s1ODbXNGu_QK4NS0tKqqmdm-vR_7MbeOqy1RxAjdyoY3ElDtWQowBKheKVu0oFGRweUVeCFDKWH6UNghKYx_M9rWDRpIbYjSrCTOyDXGsQLkjs7uUoWHyp0k8fClbMM44~",
     "showTopPosition": false,
     "skills": [
         "接受无数据开发经验"

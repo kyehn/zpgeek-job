@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230512/607f1f3d68754fd003aeb390bee2838034706e29eaae482e1858ccba897ddc4efc2878216bb6aca7_s.png",
     "bossCert": 3,
     "bossName": "梁女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事专员",
     "brandIndustry": "工程施工",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100702,
     "isShield": 0,
-    "itemId": 29,
+    "itemId": 11,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6ih6pABwZ7J.search.29",
+    "lid": "5LBFRdIQEgw.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "sYYKtU_A1gbXw-t1qmOx3PIxVUhMtiKeKu831ecHR2SH-IHnudrum5NOvgAbHwCWsejbYme9ZHhwDcmE8tze3LUz5bhO_UqeRQp8If2PZu7WRtRzb_O1wZkeFiLEkNpKWq74ct9nfz3vpvA~",
+    "securityId": "5tTF8AJyTc82P--1U0NhB7Rzq1sFSNbZT30ltNfVhGoYFKBsRLIH85RSbi56fIXF2nKedRbyS2Obq5cEOJGim2JNbIj80YlT7ueJrHLlI1mS_WVolKqsbaTdw8mdq7lPqcn1GoEgY91hkI91rACb0oBqpVljKWLq52YP7kvq5QjMr85R2hA~",
     "showTopPosition": false,
     "skills": [
         "不接受居家办公"

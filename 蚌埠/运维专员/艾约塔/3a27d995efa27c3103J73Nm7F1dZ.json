@@ -22,7 +22,7 @@
     "encryptBossId": "c01532be1c6627190nJ929W5EVZV",
     "encryptBrandId": "596b045b6f3184661nRz2di7FFE~",
     "encryptJobId": "3a27d995efa27c3103J73Nm7F1dZ",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 32.916426,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100504,
     "isShield": 0,
-    "itemId": 63,
+    "itemId": 81,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1BQtUlcES0L.search.63",
+    "lid": "5LDdNe6PCST.search.81",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "D0pScyVMCP9CM-V1TJld-1uuecN6BzWaKl_pah38WQjF4MdBtXGA7PkiPGJPWG0FeDCArwA_5-TokXglBkXFXF3s84uflq17b2nDREIVBTrBC8m8WSn0OW7pgbHiwc4gO7udts65DT4F0xU~",
+    "securityId": "Z1ds7c4wdBcMi-Y1lDmKLNJY1M3RWMA_MHV_ZCWoxMcSVK4KSNFZyM6-eeZIrY9XYvabKGm2quEjKBFcGU1P37VVWg_tw6DkB5hF5j7RwaqRsRTOsNz9H4IxwG1Q_j1VOetD0DYz-ZCIh6o~",
     "showTopPosition": false,
     "skills": [
+        "物理",
         "计算机/通信相关专业",
-        "数学",
-        "物理"
+        "数学"
     ],
     "welfareList": [
         "团建聚餐",

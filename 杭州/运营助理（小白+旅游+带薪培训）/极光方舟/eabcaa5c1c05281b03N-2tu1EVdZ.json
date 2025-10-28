@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250901/607f1f3d68754fd0b1ae9a564831f82e1370513e4a44e86d3a65a0e8613a07285aa20a242e6eb8bf_s.png.webp",
     "bossCert": 3,
     "bossName": "孟女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事助理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250508/7bf6f160950405e9e67b18a58508fa4870f41a6f93539ac7ec322d576748d3bce5437a94ee4bc46d.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 20,
+    "itemId": 32,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6fx2m9W4vu5.search.20",
+    "lid": "5IojAi5UgsX.search.32",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "byxDWJIhAuemr-31Z9-CadpGYvmsY_w5UCng5v5Y6c3MsvrjIJaXP4C2QrflQb8eJQwLEvxxE-YRazfd5U3YmuGCIMmcS_A1SkAlzDiEkWP02Jy8s67_ZPTNtvcPvrS6meR5t7GoZhmvaildhs7M2C5MxyPcjWl1zMg_idEB8JV6gdAvg0E~",
+    "securityId": "tFTcaCE7AZeKp-C1drK6cq8Vn-GxjdEdIP8MwbWZtH1zA8JYA_fJBEnAaFEX6CxhxAoaIhtH-I2kCH_DQ2IpXeYRXG1S38kHlXr-nUSn6a92IqV9zcmrHSr2KCdBqh9nqB_XPzR69YKZL2U~",
     "showTopPosition": false,
     "skills": [
         "不接受居家办公"

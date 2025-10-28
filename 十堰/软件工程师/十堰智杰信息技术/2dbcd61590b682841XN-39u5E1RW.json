@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 22,
+    "itemId": 16,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,26 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7wm1mY5vEgu.search.22",
+    "lid": "5LA6E63abKH.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "LrSNRhTzzYgSV-U1WwCIG5QVIiK2tcllSADf6fAy4PL64dguAAhrPAvHttC48AdsJQtm5MfXKxdbuASa5yVPG0K9d2KQ2Jl7XMyxJSGO93MywZvN0LeaTE4NNBIMjszvuLTBTDMc5fbsZko~",
+    "securityId": "9KRfwFWykE1N0-y1-66fHTp-nlUXcTTli5EI3KvkZGrIuqDLY8t4bZ3_0-xn1gjWzhisIvwh78uenyKiYM4a1wrJO071fFqj1u4Xu9UhdA-7jfUZak7DE6TJkwJhH17qcSxxRJabZQehqBI~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业",
         "财务相关专业",
         "软件实施经验"
     ],
-    "welfareList": []
+    "welfareList": [
+        "定期体检",
+        "补充医疗保险",
+        "保底工资",
+        "绩效奖金",
+        "底薪加提成",
+        "五险一金",
+        "意外险"
+    ]
 }

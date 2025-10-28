@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220210/607f1f3d68754fd0af9694ee1495fced9aba50ffc8ba0eccaff793708d8d874d5ae69fc9b6b02fa2_s.png",
     "bossCert": 3,
     "bossName": "杨宏建",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "项目总监",
     "brandIndustry": "企业服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/08e874cfa89da1bbc01289ecbfebcc25cfcd208495d565ef66e7dff9f98764da.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 68,
+    "itemId": 63,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9a4eUQJjt3e.search.68",
+    "lid": "5M7gGw2HRcw.search.63",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-11K·14薪",
-    "securityId": "WY5hVl7d7E2Yu-v1DPLI_x0K_45ECbHJZfnMI1U1IU__0ImRIvZ05C8t9KJKOFngT2V6I-2KZwRUkyApqpNUfJIDtBFMNk9GOX5VEWH-MhzHYvtPywH5ogc-YwVM1rhn2Fp5YOcZFtY~",
+    "securityId": "WJuO-dGhMD2x3-d15dV7fdK47Bz_avn__lcR5uJZqOS_jUeoPLtDXglY6aykg4mfBleWlFxr6gMiC8UOdXqSXKlo6A5uSNFcn3wWD9iT-EWMJlc9P4CzNS70bAsZoxzrWr92CnMU4M-r5GioxjfDt3V2Rsp8hk0bGi_HykZrqQqDdjI~",
     "showTopPosition": false,
     "skills": [
-        "项目实施，软件实施"
+        "项目实施，软件实施",
+        "计算机相关专业"
     ],
     "welfareList": [
         "夜班补助",

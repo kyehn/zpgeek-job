@@ -22,7 +22,7 @@
     "encryptBossId": "3413c107131c1c7a0XN73Ni1EVBY",
     "encryptBrandId": "08caef09bcf05f841HJ82Nm7GFI~",
     "encryptJobId": "362bc23885991fb503Z73dS-GFZU",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.305441,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100103,
     "isShield": 0,
-    "itemId": 86,
+    "itemId": 89,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1D7KajjcqCi.search.86",
+    "lid": "5IsCpNz7HIy.search.89",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "k8HDeN_gOQ6tE-j1TMlIU-E9r6HrFdYp6_jajz_fiaK99PRbOeISoFpl3-t-H24RWQeTqAPZpUDI8ae0HXG1Vukw_CvREto6bzShNdUaVOjuRixR1lGG0dnEqqVSL1R_4EjcYl-kJj9skE8~",
+    "securityId": "WYbIDdzgsE6mD-51cAqdTxmmAISEkaWpolzJ7bZMzpyzIia63wTDPeoVGatOsC_vPGdbcl7wc9TPkoNWwZSvMCgCvurEPCsLNa5a2xW9xx3VtcyyOwIXaIISd_4Z3kdRUIkPMZhPwJ0OFUM~",
     "showTopPosition": false,
     "skills": [
         "Java",

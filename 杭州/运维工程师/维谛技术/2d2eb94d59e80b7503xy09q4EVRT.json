@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
     "bossCert": 3,
     "bossName": "谢丽娜",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR专员",
     "brandIndustry": "运营商/增值服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100025,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 89,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6fwzY8gEF6q.search.25",
+    "lid": "5ItE0ITxQYY.search.89",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K",
-    "securityId": "AJMCZi2Vwr11J-L10v_Tw-CNghgEMuOgoFIXymcNhfRZScCgkv8uAGFf7SWv1LkxmX7q13jTSf35gkmarfHJmwa3NY4TcHbDngUC4k4DV_dV7U9iyR1IDln4ZRdAYdY8A31zYTyJJDvi1FstwZmWEnn9fQc6AAmp85MeBna1josKLzWWr28~",
+    "securityId": "W7LucXlm9vzAL-y1Rr7Vb3TkwcvoNE1gSCtsoF5M98I8iH_5G3ZSYyGgKs-c_0_h-8Oy163sFM91fBez6vcyBAFQdmjN4yJtgHCEuRN4Is0Nm_WkUX-qIxCnh_7Il3KHqX2cD4edpm1VOVo~",
     "showTopPosition": false,
     "skills": [
         "IDC机房运维",
-        "通信相关专业",
         "电子/电气/自动化相关专业",
         "运维经验",
-        "大数据运维经验"
+        "电力",
+        "动力",
+        "数据中心运维"
     ],
     "welfareList": []
 }

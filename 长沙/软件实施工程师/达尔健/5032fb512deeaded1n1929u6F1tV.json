@@ -22,7 +22,7 @@
     "encryptBossId": "9bc522fb62bd2d5333B53dm_EFM~",
     "encryptBrandId": "41b79979e457ae641n1909S_ElY~",
     "encryptJobId": "5032fb512deeaded1n1929u6F1tV",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.219966,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 79,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6iPFZq6YsZN.search.13",
+    "lid": "5M6sCfPjbc6.search.79",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "Y1Mmm78XJ6xNf-L1YhiKa3GWvkEjMdIZ4Ot8UvafFwaV9Njkeg0z6WGeilS2yFUDXszRT70ok-TMrehmfIgSEhihaEk42aj5A2djjsJC67HQx_vBShiux664GyrXGBoUDihJnW1fkLl6BUwg-sTAG6s~",
+    "securityId": "WQeWMSklGMX4t-O1Jzq7wIlcsHyEUK5F5dRTu-eIsx7i7qxHiQedEP6KZlMqhJOZLYWlzFdcCBBUmLFz8Fdf7dxFBuPAhXp1my7kfcmkpNHFVuYTij0dl2aEoKB16uX-uCAVR1WEwjPBvkEofaJpHrg2RaRq3afzQfE7Pw2B2CfiGIbEIA~~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",

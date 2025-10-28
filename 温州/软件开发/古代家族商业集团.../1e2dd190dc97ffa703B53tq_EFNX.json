@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "鹿城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240219/607f1f3d68754fd0742b35bb4190c4a56772eeafc9a123e51f4ed7c5b01773b38db294fb9cfaa693_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "单女士",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "食品/饮料/烟酒",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210729/20a0dad6e98fb4876fcfbc5b5c7cd1ba4ef4d6a0c3e6bad5f7679efd6118bd94.jpg",
+    "brandName": "古代家族商业集团...",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "鹿城路",
+    "city": 101210700,
+    "cityName": "温州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b28c9a390b9222261nV93Nm8FldY",
+    "encryptBrandId": "349cc40002a325f11nN90tS5E1E~",
+    "encryptJobId": "1e2dd190dc97ffa703B53tq_EFNX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.010328,
+        "longitude": 120.643493
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 101001,
+    "isShield": 0,
+    "itemId": 24,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5LA6E63abKH.search.24",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "KaYmArmdx6rFB-11OAza92LMwba5vYzhg7mKPfBynoYHyxSOq6ZjMhJsyi2yOLSnkTboBUCMvXLTfva4Fj_rib5rp862gxppdxIFvZEQXB771VovEISwUKfBhUkl_OKiHM8lUvxdD3azMUQ~",
+    "showTopPosition": false,
+    "skills": [
+        "不接受居家办公",
+        "团队管理经验",
+        "架构设计经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "餐补"
+    ]
+}
