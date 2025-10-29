@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "",
+    "areaDistrict": "丰台区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
@@ -14,7 +14,7 @@
     "brandName": "圣誉传媒",
     "brandScaleName": "500-999人",
     "brandStageName": "B轮",
-    "businessDistrict": "",
+    "businessDistrict": "六里桥",
     "city": 101010100,
     "cityName": "北京",
     "contact": false,
@@ -25,8 +25,8 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 39.877799,
-        "longitude": 116.313366
+        "latitude": 39.877763,
+        "longitude": 116.314378
     },
     "iconFlagList": [],
     "iconWord": "",
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "971UUMpG552.search.1",
+    "lid": "5vMUoPXMP4k.search.1",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·13薪",
-    "securityId": "uLM3rdM1mACkJ-h1IvdRI7OtTOANLS7Yl5wTSxsVXBtP9S0bsgBCrgVtf7H2ZbSWSxITI80YX5UjpGn_IC1OdXjuS4FvNE9ToclqbJ0Hv1peLbiwZbuxSFNOPp-vYj9uFtq5EwR2p-pczQ~~",
+    "securityId": "vic9COFZTQm3l-A1udBxrntUPlSQO8r2ndAZQgNdtIC5zp3OF6ZXVODdSyLb8UuzU6jUhbjmOJQPGJgQpgeTSIknm-SysiOwHqwkF8UeqBFqPZyiF2b5GALm2q3i0H0Qvoc-3AejJvFqFg~~",
     "showTopPosition": false,
     "skills": [
         "五险一金",

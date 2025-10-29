@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 75,
+    "itemId": 82,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5Q5FizpHTwy.search.75",
+    "lid": "5vONxaAupvt.search.82",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "Aa_QmOBNO6ZUB-21D1xoVvqnSdu7TaW0iXMCOSIu-vkH0PeKdwIle2yD4cTvhVa2SJUcWgVM-864zRr4YiwfUggDhTZkKpnzvVxpQs3RGJaDx4tG6TnRpaseNrN70XFHAldVo1E0gCYG",
+    "securityId": "r83uhRXRKtDPl-F1gRnrpEWexteUzHuLYJ5lWexMyf61PF47uvnJfoK2ZxvdAWD9393VaSYOap9uuCyBfwEQmv72xyM6PVrSnyo0miUt4tdefEZlkv4G8cgLBH9bTirejgZQSGYsQ1hU",
     "showTopPosition": false,
     "skills": [
         "网络运维",
@@ -60,11 +60,11 @@
         "运维经验",
         "运维开发经验",
         "网络安全相关经验",
-        "供应链",
+        "电商oms",
+        "Erp运维",
         "领猫",
         "聚水潭",
-        "Erp运维",
-        "电商oms"
+        "实施运维"
     ],
     "welfareList": [
         "员工旅游",

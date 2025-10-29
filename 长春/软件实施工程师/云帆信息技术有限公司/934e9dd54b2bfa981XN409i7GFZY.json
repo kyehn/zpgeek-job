@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南关区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "赵鑫",
+    "bossOnline": true,
+    "bossTitle": "人事经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230309/7bf6f160950405e9025e4ddacebda182a93553ce060fa6edf0764463ad0bcb0ddda840e2b04654c6.jpg",
+    "brandName": "云帆信息技术有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "净月开发区",
+    "city": 101060100,
+    "cityName": "长春",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "df5d30b1fdc229990nFy096-FlJZ",
+    "encryptBrandId": "de104f49b25c80f21XZz3924FlE~",
+    "encryptJobId": "934e9dd54b2bfa981XN409i7GFZY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 43.797209,
+        "longitude": 125.375922
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 74,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5tP2g2WVg73.search.74",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "IywmqDC2CBbiC-B1_eUT8Q3f6aS_iuibVwABlVOysM7nuFmFOuvu-lyo-TU1VXV7UPmPNMz2XNyaSeo_oOUPPGKIhw-LxvXr2527Hj2RyIfhjNKaSqvQKDPOc69l6-Z_ieYooK96tRHNaqlIXNMB-11XXJD-DFbYlknwP-F-M7l4YiKATMc~",
+    "showTopPosition": false,
+    "skills": [
+        "Linux"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

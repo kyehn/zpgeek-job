@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 78,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6kPysiPs4wM.search.90",
+    "lid": "5tP2g2WVg73.search.78",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "tOtW89m8yGq70-z1d3PtALzaj9IypVSHk0uji7e39wuaOIH5tjAomdmsps_w65I_ejl7MNkOTBjnZTQdwqlOpz9vYoS541CxvwA5J3lH8zQ6K4HkRtT-z5KBiFCAXdW9hFwVW7AqXs2INu7nO0hckwtOJAv7QncMOog2xKk6p4tMBQs8GA~~",
+    "securityId": "0FUq_zoXmR8qh-11kLRLXowN5WJiLv538iprj5kl5G_IAJSSQXqLs4ulfNjMx4qhFEweUfwnumyIk2ODjALPUcIL0RxBjmDpTLdYDM4cpj-j3OcJG2QLDbTzfEBhVhRwErsp5zwLQ8FbUDTbqHZ__YycM7srQG3WAdV82SvOGFz5FV72hQ~~",
     "showTopPosition": false,
     "skills": [
-        "计算机相关专业",
         "软件实施经验",
-        "可适应出差",
         "wincc",
-        "组态软件"
+        "计算机相关专业",
+        "组态软件",
+        "可适应出差"
     ],
     "welfareList": [
         "五险一金",

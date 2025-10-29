@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "琼山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220828/607f1f3d68754fd0a9dea2a53b12c370e1fe58829416756e5283365d40d7bb99329de79946255261_s.png",
+    "bossCert": 3,
+    "bossName": "赵潞琪",
+    "bossOnline": true,
+    "bossTitle": "人事专员",
+    "brandIndustry": "信息安全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210410/19f0e40d3ef4bf31923791b30f86f0a0faa5ef7750005d46e453f0bddd110863_s.jpg",
+    "brandName": "CEPO",
+    "brandScaleName": "100-499人",
+    "brandStageName": "A轮",
+    "businessDistrict": "高铁东站、龙昆南",
+    "city": 101310100,
+    "cityName": "海口",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d9e36fd29f035d8a0nB_2d-7E1dZ",
+    "encryptBrandId": "bf772a170305c52e1nF-3dm5EVo~",
+    "encryptJobId": "289307823f805f8d1Xx_3tu8GVRZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 19.997407,
+        "longitude": 110.372657
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100016,
+    "isShield": 0,
+    "itemId": 67,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5tLZF53hfDv.search.67",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-11K",
+    "securityId": "L7tP3tZxM6CC4-z1PhmudjUjRSqwedYrCKe6nGM9xztj-n0zuJh9h3E0TdJjLB0xAUqBmY0AWqSwE-qrXZQim5-qX_32jZkDcvgpV3T7ZxQkFJI-FnH0UXjVkuPWgTMpgNZNKGUiALWBaaNhnDQnAPD6n8z71EJ_7JU7t2WhseQ-NfKszbQ~",
+    "showTopPosition": false,
+    "skills": [
+        "性能测试",
+        "功能测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

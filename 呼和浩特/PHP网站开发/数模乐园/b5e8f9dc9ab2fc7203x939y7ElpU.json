@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 32,
+    "itemId": 25,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,15 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5M2Tk7dFf1C.search.32",
+    "lid": "5tMt98QSevQ.search.25",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "f86RiTnJd8MGF-x1pzlEFOPkUbQO8briN_8PfMsH_1EEe1cDzp5LcOIlQHm-aWFM2edgUNECJRwsKsclCvx-YeaP1bEPMlUpxIEXxxX8u7S8QYoFJERLVLmFiCTD9RJ_ZUTJLuhtz_H8vw~~",
+    "securityId": "45G96BpltGNoK-j1MYMKnsQmWsogjxlEIslzUqg6lISFX6MmxTFpt1Zg2xL6rNMPMODYKMrg81WxA7kRFnAFOKB9kDJHTss7ZW5TElveXjCDfHyIPInxhXhnexeuzYdqxQ92pFT7oenARQ~~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "Laravel/Yii/ThinkPHP",
+        "PHP开发经验",
+        "PHP"
+    ],
     "welfareList": [
         "底薪加提成",
         "生日福利",

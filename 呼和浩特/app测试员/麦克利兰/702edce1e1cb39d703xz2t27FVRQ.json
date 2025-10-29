@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "赛罕区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250623/607f1f3d68754fd0c2ba57edab5329a4758b8d96669611158b4116a9086eac3f4b1b0d8c76996830_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "耿女士",
+    "bossOnline": false,
+    "bossTitle": "人事行政经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250715/7b5b554d84f9729c90046904f724afbce3d1aae5dfa5799e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+    "brandName": "麦克利兰",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "大学东路",
+    "city": 101080100,
+    "cityName": "呼和浩特",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "077c675b1ef53c741nZ42d66F1o~",
+    "encryptBrandId": "1a3bd8c14c0d25ff1nx43ty1FVQ~",
+    "encryptJobId": "702edce1e1cb39d703xz2t27FVRQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.822023399662534,
+        "longitude": 111.75870158859938
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 78,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "app测试员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5tNrkQQjPQN.search.78",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-5K",
+    "securityId": "UfsAcLZjx2E3B-91YzbnqUpCme8Q7piBaAFYuq2csfHIrt0gkTB1Q6rJTNq_GmQSaY3eRZpWGuoLpq-o2HOvLXdBNX3JoXM7LKkLW6ZNOYkJNja46wo_BiwtCwZoumKoqLIovTo-kyeEAg~~",
+    "showTopPosition": false,
+    "skills": [
+        "通信相关专业"
+    ],
+    "welfareList": [
+        "节日福利",
+        "年终奖",
+        "带薪年假"
+    ]
+}

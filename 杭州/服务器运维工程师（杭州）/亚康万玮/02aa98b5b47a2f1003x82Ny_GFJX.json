@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "陆先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HRBP",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250328/7bf6f160950405e9fa365208c87f1907319b961bff5d28acf6c4a1c8644376cf6c1c413327ab8218.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 77,
+    "itemId": 30,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5ItE0ITxQYY.search.77",
+    "lid": "5tMWILeBsHd.search.30",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-7K",
-    "securityId": "123Ws2aw7X0Ze-V1i1_yXMkVIijNWH-5AUUc03pelVGZIrec1-drFcXQgKY6xu2QdOXCZB69Nh_5dCfsaZ_FBc6T7ndrNLtcwxPd_dEZXFhVhgmtNuRsYho-piXAhIwjCZTYYVidcQB8",
+    "securityId": "mI_kwTSm7SYWb-c1Dutn48nFN7Zl7wPcCDV3zo7NnRwf-XFHo4fJBmVDGoPC7E2EPFT6QJ_mVU-EUUmc8MrIQDvU5bfgFeYE8Ljv72uJDSGLDcbg9NXL24jZcE4ujUBhY_OBJ6L-3IctH3G8YSQ0WnrOq45KcMyqrVj7ApkTC0zJMVv2",
     "showTopPosition": false,
     "skills": [
         "IDC机房运维"

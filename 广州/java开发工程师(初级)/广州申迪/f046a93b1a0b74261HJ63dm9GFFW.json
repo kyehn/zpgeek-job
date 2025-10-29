@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 45,
+    "itemId": 25,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6kMgzg9Tomu.search.45",
+    "lid": "5tLZF53hfDv.search.25",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "zCwN6tNnsPuvg-w1L4DlwkD6s_-okCyu1itExNZhhXsEmHvkSfFq_YFdibolsmptg-vCB-JoBtkdLbd5q10j1LkEIIrfj3HGM2Kx2aNHBviAuvxlHC2WehuBwM6l6CUu0ON_v7X7A-K5yP9yUzgeT2H5QIVsaxmvSpefi6090p6ufX4~",
+    "securityId": "cwDBkUWSTzvph-Z1rcjszz2YQPFgaKDCkB56O_VLVWyAWhn1UF8bhoKbgOGYrXvFvTJSqVWCRBzBrOu73qs-xLyy80x4_cL3WoM76WE_8_LsnsLrR_1HNvf3qQseMxKV0vSa6TXQ-fa5i8WjNuzywT45-pFxrxxWlFC3kmj270QOIfk~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -60,14 +60,18 @@
         "Oracle"
     ],
     "welfareList": [
-        "餐补",
-        "年终奖",
-        "员工旅游",
-        "带薪年假",
-        "节日福利",
         "补充医疗保险",
-        "五险一金",
+        "带薪年假",
+        "绩效奖金",
         "定期体检",
-        "电脑补贴"
+        "年终奖",
+        "团建聚餐",
+        "电脑补贴",
+        "法定节假日三薪",
+        "节日福利",
+        "餐补",
+        "股票期权",
+        "员工旅游",
+        "五险一金"
     ]
 }

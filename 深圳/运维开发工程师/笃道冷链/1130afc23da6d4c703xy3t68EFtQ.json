@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100507,
     "isShield": 0,
-    "itemId": 38,
+    "itemId": 19,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6FLavm1j6fg.search.38",
+    "lid": "5tMWILeBsHd.search.19",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "8xXsk9iWXXt5F-71BdfeKE94H0qrIKu4ydj9S-lX84ZTU6jmQNXXPTNiBT6H7J_0bjBCEOgFZW8YeRW2Du1eceUSte6_7wWkKJCvBE2qkc_P5pl0cfc3hEXg873UVYzbRroK-Qrb5rIj4iQ~",
+    "securityId": "_PMkya_J-jtdz-v1fVfltFW0K9mh9GcR6Uztow8a0T7MOj_wOE_mbYzHHJlvs7UIs358kwoIPvfMFErosXPQZf1cc2vw38IMnufT1dQEnZ69kJ930meDgPSgtbrA9LhbG3ITB4TOkgyO95E~",
     "showTopPosition": false,
     "skills": [
-        "Java",
-        "运维开发经验",
-        "计算机相关专业",
         "通信/工程相关专业",
-        "ERP项目实施经验"
+        "Java",
+        "ERP项目实施经验",
+        "运维开发经验",
+        "计算机相关专业"
     ],
     "welfareList": [
         "五险一金",

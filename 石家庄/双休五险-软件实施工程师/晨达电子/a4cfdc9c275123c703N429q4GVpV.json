@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210420/d0239b69d11064b24d37e37515433c70438076102b561b10d4434fb452887773_s.png",
     "bossCert": 3,
     "bossName": "武女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人资",
     "brandIndustry": "通信/网络设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190723/7db23fa152db5526ab4b678bc4a7309ec36d9f7655f0c749807c41ad07882631.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 27,
+    "itemId": 81,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5Q7eTBcKqbF.search.27",
+    "lid": "5vQi9s6HiNK.search.81",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "xhGbBnNrgvriK-D1NwmiZpOLsQ0IsZ8TXha08_aRSGQ8Ik-erTvXiAThY-AzpiyoRzRwLLFW-MVWceIQ-xSOC_yy6jove2QyH4BVgRkkpaIGlCAtSxu0g-jNOaDv04ffxXiNlxAHQHB66RaY8fd84ZrmZT2XH7S4hv_8PplWpBfONDLr",
+    "securityId": "B8tNVcvOsLS6p-g1XYAaFKoBNyCS2OCMhFSH3SydXmwu-EQLGdDE819uDcdQB9gaXZt9JVgqGlaX9stvNvQFzeb1jorXDsOYONDVKhwab4t5xVPkgmKsKV5IXoykEOMXcnIpFp-6JdVW",
     "showTopPosition": false,
     "skills": [
         "软件实施"

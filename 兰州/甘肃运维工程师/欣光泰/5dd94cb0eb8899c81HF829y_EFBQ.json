@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190725/378b5b1e07e31feacfed032c41616aea9e06100eda9bd788b623bb380b4389ec_s.jpg",
     "bossCert": 3,
     "bossName": "葛女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事主管",
     "brandIndustry": "大数据",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221101/7bf6f160950405e92cddc131568a01e6e7db6e3769721ac09e06100eda9bd788b623bb380b4389ec.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100005,
     "isShield": 0,
-    "itemId": 21,
+    "itemId": 27,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6kNjLR1rG2K.search.21",
+    "lid": "5tMWILeBsHd.search.27",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "rosl7hr46pFMZ-m1O4iQ5y1AxOlLwB4hW-pEMUQlDWU68objvKpKemyU4EuZ8S33g4_z11-Dbc6nsNSq4IHC9elVGP_kPT-VQLyzkFwRMwFzZHuw2NXUsXKY74zVa75MSLKm0TciRhCPxweiMv_YOwkINf-rqxFNs9F3WgFgGDAZuulK",
+    "securityId": "VmTUvRigDVnhf-U1nZX7cMR73W4q7fbFzWJ35HvXKrhAbAWfzPylV19-IuXFfvEMoNr7NzoCd92pR-qqjLmn9tdSZkDM29dr55aQBH74yV_4hdSdvexObFsS4lXQ3A2hSsDX9yKHOsaS",
     "showTopPosition": false,
     "skills": [
         "系统运维"
