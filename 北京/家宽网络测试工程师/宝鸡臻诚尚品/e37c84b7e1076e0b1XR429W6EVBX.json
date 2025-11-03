@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9q6o5GEcwcQ.search.15",
+    "lid": "36xC6f99bDL.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "eLOHFKaIksz8b-113ZKduGNcF9vIQbf3fs5dLKccVsOEiRFvN7ojlWvGSw-C5vlPjozVkD4G_CCoyeIubDYdUOX3eefRIkjMUVG2ca9OVRmWWD1rTg~~",
+    "securityId": "EcAqS6bCgmnXA-Q1lBtD1tDtVJWLOPoVnZ-xCUh9QFaTwWqz1k_yIqUACuF0PN3_9siBnrzW2uZ7THXwO_6hevumH5hR1b3HpsqvlMN9LQNhJz-H5w~~",
     "showTopPosition": false,
     "skills": [
         "网络维护",
@@ -60,13 +60,12 @@
         "数据通信"
     ],
     "welfareList": [
-        "交通补助",
+        "员工旅游",
+        "节日福利",
         "通讯补贴",
-        "五险一金",
-        "带薪年假",
+        "交通补助",
         "加班补助",
         "全勤奖",
-        "员工旅游",
-        "节日福利"
+        "带薪年假"
     ]
 }

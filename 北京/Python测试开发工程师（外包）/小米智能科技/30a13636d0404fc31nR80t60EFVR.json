@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
     "bossCert": 3,
-    "bossName": "宋钧陶",
+    "bossName": "宋先生",
     "bossOnline": false,
     "bossTitle": "高级软件工程师",
     "brandIndustry": "互联网",
@@ -22,7 +22,7 @@
     "encryptBossId": "5bec2d3ee7d51fd30HV82dy-FFQ~",
     "encryptBrandId": "1c5084b1e10a073d1XFz3d-8Fg~~",
     "encryptJobId": "30a13636d0404fc31nR80t60EFVR",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 40.039927,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 41,
+    "itemId": 13,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5tLZF53hfDv.search.41",
+    "lid": "36xC6f99bDL.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "HkMCXXUGqlrk9-31NEZCKBrsoNlDWZaql0H9Gs97uV-oQnwCHaJHNoRZyYEZGdVSOsKl5rKrGtDHIHMRdw_t96E5qsa9TKlDwDdUKN0NZRkaMWPzjxe3MfPHNjzeFqqD68AnAVCXeJkz",
+    "securityId": "HmhSg3LSpnrlc-41hUpeigxLCZQhiwhbnZsxGH4Sjw4eB5NtHHP8-FGgKyBTR52xftBPnoRU4dtwwKD8DEaonmdMPm4WkBkE9R-yQeBtSN7a9njXQA~~",
     "showTopPosition": false,
     "skills": [
         "Python"

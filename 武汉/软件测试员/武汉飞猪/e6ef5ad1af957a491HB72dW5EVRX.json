@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180509/e53458676b3da082fe10adbf719dd9f1cfcd208495d565ef66e7dff9f98764da_s.jpg",
     "bossCert": 3,
     "bossName": "杨先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "经理",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190504/a2bf34bcb998d649102546851381a37542d070892ee2b69d76fe232e20894839_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 4,
+    "itemId": 7,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6iOSGpJ5OM4.search.4",
+    "lid": "36y2C7mz7zj.search.7",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "VUzh7NkJym-Yq-Y1zFmkm12G6VHFyIoHEmwLbT5rGC0KPnEw_YrH7YFq9A0Ak9yLSre7xa7Ev7-DmJ6QiVb1PmLX8S-eigZglrZjO9_oycLlbvQEiA~~",
+    "securityId": "mSiZCYtAGmSJO-G1rfT_g_3QLiEhhZLqQne-NDKYIuso1plHKWkU5VqDZN0u_BxZqYOzhfBDx7yFgPvyUwbH1ccJbOzK84CFjJpJXm9XFpflXtCcB0hd-EEfQaZZET3LHuqTEZzIAb5wvB7aDa-B3Q~~",
     "showTopPosition": false,
     "skills": [
         "CET4"

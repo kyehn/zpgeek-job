@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200727/d5ec24e164d3c5c7cb40281e7fdf56adf12adbdfe514641722569fd9a25fb0e4_s.png",
     "bossCert": 3,
     "bossName": "梁女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "通用设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221017/7bf6f160950405e95d8c95fa18837b3790a0063ed65cca81f12adbdfe514641722569fd9a25fb0e4.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100906,
     "isShield": 0,
-    "itemId": 9,
+    "itemId": 14,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6iPgj0ouxMd.search.9",
+    "lid": "36ys4ts7nBn.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "sPm6PumvXJA7a-b1PfZt-37ndINCCWPsF2q5mA38uVodAUaUodJ8P2jOtoVAZmmVrGLMGxxZ3AtaOgEdAVO4JF5zZf1blNYybseH8RIDQOB2ndp99wIp3sxZi0Xz4WMmokulgey85zuTv_5XKgBrUO8~",
+    "securityId": "vKb9NH_G2E6zK-H16uhigHzz65tsVeLik98YgPSiXHwGFi7SF4IAyZ105c1li3AGPKOSV3vO8rh1Fg56w2JDpFpX47F39YaDGXS7xdtw5oBNM2z-P2g~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

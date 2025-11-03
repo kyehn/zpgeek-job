@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
-    "bossName": "刘书玉",
+    "bossName": "刘女士",
     "bossOnline": false,
     "bossTitle": "经理",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "d86ce0019fd8ec6c1nZ53ti_F1RV",
     "encryptBrandId": "54d553f8cb74462e1nV-2N66FFA~",
     "encryptJobId": "be568b500dee6bbf1n1z39u1FVdX",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 32.941102,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 71,
+    "itemId": 8,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5vPhBowBXxR.search.71",
+    "lid": "36y2C7mz7zj.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K·13薪",
-    "securityId": "Y1jerTQin7enc-r1_ZGzWqSvH5SpeglCZAI-3Eh_AGnn83UAXcVx50oIULMNhiigIWm9s9_mJWq6QmMtyg_VU-rEr_oThDhCGTRWeRAqE7Kf6DDFTfkmhLNvl9BMj8v0tSP7Kq8oso-ipBo~",
+    "securityId": "PPApVWucTXO71-51SK3qNIWcxPb0uEYB8m4WjBgtHMe5bkhiRt6yhIApScH9O5TATSpHFYoQyEbtqcS1orCMLxEUkcc4ZZ_F-KTbkPczSYaauCzjfMBu",
     "showTopPosition": false,
     "skills": [
         "系统测试"

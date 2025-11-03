@@ -22,7 +22,7 @@
     "encryptBossId": "8236a3106325b6301nVy0ty0EldT",
     "encryptBrandId": "4eae69d92ccd21b033x93NW6Fw~~",
     "encryptJobId": "cbce0403bb25abef1XV63ty0GVRU",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 32.019858,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5LCsY66Rjfr.search.10",
+    "lid": "36vTS6D3P5z.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K·13薪",
-    "securityId": "Lg3VkWpzrWupP-C1lv7McEkliMC5JeFMAmDkN6AlB95Zfa-pqpY-vS9uu0DqY24TVRifG6dboux2wZvWdgdev9FOGl_HOJVAmmMOTtNZMiC4NlYuvMdKoJGkLOBofBqLikHJgehxUYOu2A~~",
+    "securityId": "pYegRMdO5dEnz-G1RAWCySLFCFq9-_zM5HcuMuFDftLW114OItpDm6uIDNGm9THWMp0kc7ETQxUzoB2ALZDwCnKPj64beRINHaoN1MO3EBRodeC7-Xo~",
     "showTopPosition": false,
     "skills": [
-        "SQL",
-        "系统运维",
-        "应用运维"
+        "运维经验",
+        "财务会计工作"
     ],
     "welfareList": [
         "带薪年假",
