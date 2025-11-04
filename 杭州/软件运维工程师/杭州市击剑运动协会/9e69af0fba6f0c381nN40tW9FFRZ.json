@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
-    "bossName": "沈佳琳",
+    "bossName": "沈女士",
     "bossOnline": false,
     "bossTitle": "人事主管",
     "brandIndustry": "培训/辅导机构",
@@ -22,7 +22,7 @@
     "encryptBossId": "df66ae53c27fc92a1nR72Ni6E1BR",
     "encryptBrandId": "d68bd041f91a56f01nB93NS1EFo~",
     "encryptJobId": "9e69af0fba6f0c381nN40tW9FFRZ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.243739,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100303,
     "isShield": 0,
-    "itemId": 5,
+    "itemId": 9,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9a6pFBYDuFv.search.5",
+    "lid": "2HGop7xuQKL.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "bgySvsnZhgXcM-t1qsXXY59vaLQbSEtbq3lVMf9NFRW-lbkWWc4bHmAdrXhXQpZRkR4uaiCK9PcMWDFPtr7IxsCg5qG-QZPC5XDvf0jGXoQrHyyUq9crlV99j7YmvexBQAd9IGDezhwvo2U~",
+    "securityId": "W4WkSkn1Cx3a2-l1CqsT3v40_25MoOdKC9LPZaBeNaiDPXff3uZ8pIEsUO3Te5Wm2XJMy3jmE_tHhAafxNccRcw_DEKGOAlEpNDG6C1eoFHmrZFO9NP9",
     "showTopPosition": false,
     "skills": [
         "系统运维"

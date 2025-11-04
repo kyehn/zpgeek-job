@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240827/607f1f3d68754fd04837dace1ace3e3aa54dd133cf590447206e6268ea606cfd1a89976a31cf24cf_s.png.webp",
     "bossCert": 3,
     "bossName": "孔女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘专员",
     "brandIndustry": "计算机服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20251016/7bf6f160950405e905c62d0f2df88d5264836676854e4324455e4a3e8b6f44b4db7466e2788cbb33.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 1,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "36ys4ts7nBn.search.8",
+    "lid": "2HIxrI6w1mr.search.1",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "MPM7H5NWDo1CJ-810Bk-daw9_Q2ghQ7YWATw8ETVno22BB_Ee_kqSNEY9mX28zFUZVkBvby34WiKq_FDF7FIGVi8rJM88Vk1_5wIcrZrMpBpIHjJ",
+    "securityId": "KG3jD62QI5Ta1-L1u2nuuAemV9880ytltACPtlyWaC2G9ulk2oQzbzYB5hHUI02_x5sMwSxYXVe8KiQf1cy-tgHTuiHCZgRPwWghTwObiAUA7-6VSI3Pr3Y0mcKAUBSaqyFKYhP3ThQt0zArCB9p",
     "showTopPosition": false,
     "skills": [
         "测试工作经验"
