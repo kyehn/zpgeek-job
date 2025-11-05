@@ -22,7 +22,7 @@
     "encryptBossId": "c245f44e61ffbffb0XJ909i-ElM~",
     "encryptBrandId": "81abcaccd394bf9c1nB8296_ElU~",
     "encryptJobId": "d34a8b1d451edc8b1n1_29S-GFZY",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 27.966172,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 64,
+    "itemId": 14,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7IYuXBcI9cX.search.64",
+    "lid": "2jxFZHQmCGp.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "Vg2wXVIT6bHW6-d1dwqzeURo6PDlFWk5CC4q5OHG3e6KQENFdXyLQh848p_yoilb8bIvWR4YXoWodGVY1t6a2K6-CQeJnktTYxKp8DSA6z2mjb1GMDNwjY3qx2wXzzeTF_yA9GAj7Ivheg~~",
+    "securityId": "h1A49s2tI7ags-01dZnJmCKtmMwOkkVOoiLZRdCSlc-yb0LrlQjTNPnlxZP0wcVwMcM24RhwA1PMsFJ_es6H6UfZ4hgHt_Z99WKHUkQ5uHp8BSHVoag~",
     "showTopPosition": false,
     "skills": [
         "软件应用培训",
