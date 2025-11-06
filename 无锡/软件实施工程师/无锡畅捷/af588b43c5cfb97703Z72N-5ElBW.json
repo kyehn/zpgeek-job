@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100608,
     "isShield": 0,
-    "itemId": 15,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8w8T71eXurq.search.15",
+    "lid": "1PCItNeOa9R.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "yiWZ_61VHoMAz-O1gVeKD1b_eLCsr17IH9ujmCJNnwkhWUr7T192E74f3QW77GRS4-1vCEXgO9FlTjnGMa_5NxdnJnYFcaxesGIsBakAZGxpkMpuOt4~",
+    "securityId": "o4i6dPImYKz5s-91WxbHlPvdluhgWJkhnFo8-6Tccn48tzUs6gwA9HAFxKp8XmdBzukimUSu_l5G32-yMzZqcfsrl2k0QKv3TAIRmLYDGKOL0FN4LCs~",
     "showTopPosition": false,
     "skills": [
-        "软件实施经验",
-        "ERP",
-        "熟练掌握SQL语句",
-        "用友软件",
         "财务相关专业",
-        "计算机相关专业"
+        "计算机相关专业",
+        "软件实施经验",
+        "熟练掌握SQL语句",
+        "ERP",
+        "用友软件"
     ],
     "welfareList": [
         "节日福利",

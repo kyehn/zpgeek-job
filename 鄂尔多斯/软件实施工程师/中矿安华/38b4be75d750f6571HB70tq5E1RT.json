@@ -22,7 +22,7 @@
     "encryptBossId": "c166327f134d326403172t67EVI~",
     "encryptBrandId": "cd5dc69131784d0d33Fy0t60",
     "encryptJobId": "38b4be75d750f6571HB70tq5E1RT",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.811883,
@@ -32,24 +32,24 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 87,
-    "jobDegree": "大专",
+    "itemId": 15,
+    "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "大专"
+        "本科"
     ],
     "jobName": "软件实施工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6In9C2kJbM0.search.87",
+    "lid": "1PCItNeOa9R.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-6K",
-    "securityId": "-BbTxWkgc8ov8-Q18MNGV5vSm4WYIwN63VZfVocLoXF1ms-X9kX3pY4df6Sp1FY5hmnSHHYiMYTQ47daqZpG5TSbD6oxkfhXhnPlLF-9S1VTNSWtGsuHPg0WwfPTvI1LIz2vV15khCM~",
+    "salaryDesc": "4-6K",
+    "securityId": "hfTtd2DPCrbBZ-R1iu4HwDg3j7rWs1uJ7QFfCSrsYAfLrfdi1XY10UYeszWKYjYjGPcgJxAMcFpcDfGtnMM5I1z1meoSp--bvHRc1TYYwTY5pOUw",
     "showTopPosition": false,
     "skills": [
         "软件实施经验"
