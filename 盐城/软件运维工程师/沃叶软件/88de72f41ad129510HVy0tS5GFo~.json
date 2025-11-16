@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200120/d08b3311d50741d27c6611a75c2544865a471b98dae1404adf6f37c2b9cdd675_s.png",
     "bossCert": 3,
-    "bossName": "孙锡元",
+    "bossName": "孙先生",
     "bossOnline": false,
     "bossTitle": "研发总监",
     "brandIndustry": "互联网",
@@ -22,7 +22,7 @@
     "encryptBossId": "8a888284c55f690e3nZ62N-1FlM~",
     "encryptBrandId": "5df636e0ad603f710HV52Nq4FA~~",
     "encryptJobId": "88de72f41ad129510HVy0tS5GFo~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 33.30485,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 65,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5LBFRdIQEgw.search.65",
+    "lid": "2z5bbTCzdHf.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "cwq7OR3OXVsMG-l1OlQOMdoSVvbuOKkI-wZXnzjHJb-WS5QeAiTBnMGRJl-esI1gqIL6nzLxPLAVRLtCi_91pnka3ikXD6E7_k6E7AZAaVSOrDL4Vj2k85PgWlkS0hLqpWOMZd6XRo0~",
+    "securityId": "LtutBtQ7tdXv7-F1zGnpC61PeI9IPvE1XQZXN4vKiBlpmc2jJR4XTfZIcUsvILeFUqBu0c7Ut1HSsWcKyfe2hst5QGWo9zfO4EgcpK9oJTGgzgau",
     "showTopPosition": false,
     "skills": [
         "运维工程师"

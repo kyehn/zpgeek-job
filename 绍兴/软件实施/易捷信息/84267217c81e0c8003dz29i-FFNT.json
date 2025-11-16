@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
     "bossCert": 3,
     "bossName": "何先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "总经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210627/306cba7dd116535d746999c761f51901958dff49b74d81d86386a2116404c851.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 9,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "GVPBZD63xo.search.10",
+    "lid": "2z1LBW6Wvd7.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K·13薪",
-    "securityId": "PLi7yC8ch3QWK-Y1DONCG5n7QV4-9yX2zcAMY5hVKwmTc2Svt4YEyAAMhMx50PcYPYjTZcUiX5wwfQvo3kHhk7gb3i0M3R0-qvViKWXQrqsRL90bQA~~",
+    "securityId": "fzLA9xOptcGjy-L19ckCM1pYd0FCoyU_NV7gcZsQ1pwr6kRmjcCZCn9RorQtiSbhe1Mz2dl57oRFoem-8tVcfniXZ3SbwCIu06ERV5pLSkpZk86JOFNqDCbgCm6c1Xas0LS0pr40jhHrfTygV_N7IQ~~",
     "showTopPosition": false,
     "skills": [
+        "软件实施经验",
         "ERP",
-        "WMS",
-        "计算机相关专业",
-        "管理相关专业",
         "财务相关专业",
-        "软件实施经验"
+        "计算机相关专业",
+        "WMS",
+        "管理相关专业"
     ],
     "welfareList": [
         "五险一金"
