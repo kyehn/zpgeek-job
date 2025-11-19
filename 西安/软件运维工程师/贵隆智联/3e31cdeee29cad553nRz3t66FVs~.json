@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
-    "bossName": "张生奇",
+    "bossName": "张先生",
     "bossOnline": false,
     "bossTitle": "技术",
     "brandIndustry": "互联网",
@@ -22,7 +22,7 @@
     "encryptBossId": "51271b05e170ef261nV42966EVpR",
     "encryptBrandId": "dae3ec171628441603x5292-Fg~~",
     "encryptJobId": "3e31cdeee29cad553nRz3t66FVs~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 34.222468,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 66,
+    "itemId": 10,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6FJHBnaXXPB.search.66",
+    "lid": "3LuuCKIuGjv.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-7K",
-    "securityId": "DXxBxQlwAHbo0-D1L14YY2mo9gKokqOGcJS9ZfwbNMPREOMxN2TM7ejSxCk5bO95nk3upPGajM-HPvQKatswCXB-h2nvqOJPP9eVsuppJ9J2d7UHcOG3sHNPIPzTbbRgljON34mNtE8a",
+    "securityId": "fm89e8LpMd_s9-m1NTgIsNINgQmhu6xU8VXaRT10F-aVrdfvULDkB-YlajPyxaP53cbQberLPlmpzgzsiCoAvwHGPYqY5LA1LxAYsqaLvG3zM7f8wA~~",
     "showTopPosition": false,
     "skills": [
         "运维工程师"

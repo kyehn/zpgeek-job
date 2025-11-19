@@ -10,10 +10,10 @@
     "bossOnline": false,
     "bossTitle": "人资",
     "brandIndustry": "智能硬件",
-    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20251118/7bf6f160950405e9e76bc38c4efd96694a84745d2ab3c9e3fba6ac83060bf43c67e46278de4c1844.png.webp",
     "brandName": "烟台比尔",
     "brandScaleName": "20-99人",
-    "brandStageName": "",
+    "brandStageName": "不需要融资",
     "businessDistrict": "",
     "city": 101120500,
     "cityName": "烟台",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 1,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,14 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2z2gVRNfZ9q.search.2",
+    "lid": "3LrIcJLAvZq.search.1",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "_iDeceYHvBiNq-Z18ZNscIRNL7j3n_KrZcC__6EjFw68zdIwf_iw1aAdl22qzlT41flcVWNGqucTtXpbt-95lJSkHO9pZ6M0t-VpskftZ2dwnuT0wzth",
+    "securityId": "ncQlRJJOXoX8l-d1aqJ13gZP-JBlpn188BOY5DiUJ-1ixZCcCgLi298XikdQ_9Olw4Y-vnmrqkjw3w6feC2mdMiP__QCR7J3pYPk9luRLestHwUzzk3B",
     "showTopPosition": false,
     "skills": [],
-    "welfareList": []
+    "welfareList": [
+        "员工旅游",
+        "餐补",
+        "年终奖",
+        "带薪年假",
+        "全勤奖",
+        "节日福利"
+    ]
 }
