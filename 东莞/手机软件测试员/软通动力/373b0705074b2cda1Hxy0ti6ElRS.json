@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20251022/607f1f3d68754fd0026a4791552bda14b25befce3d975dd7750da6f1b4706fe04a26f42b4f22371a_s.jpg.webp",
     "bossCert": 3,
     "bossName": "周女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘负责人",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210830/7b5b554d84f9729cb81dae6da87b9eddbf6e3e481ce34ae8c7421cffdbdea8d6f11cda4aeefd5586.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 8,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2z2Hwvbg46m.search.7",
+    "lid": "ar1urokKw8A.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "xTJfh8bHwwZ3w-u1ZsTH_nW5oDmV66xAeYD3I5pFRCqAZaX56UaVdENmAXUePbebXvWtrwRuEXkL0p285JImzX_vQaXOmQzJA_ticS5I8jYDC97ks7Q~",
+    "securityId": "Xge18gzJBXrfq-q1E9nmaC29F7y2J6jEZhfOprgwVXELrSMHmWJ9SbKZqO_37Dxmu9R8ynXsyn6M466nhOh472E8jajdXbepyhnSfHgNyu5uR2_ziXHZe0W0oeJWNBFCQiodzeIITTYeDuwtPWfnWGI~",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",
-        "掌握软件测试理论和流程"
+        "掌握软件测试理论和流程",
+        "bsp",
+        "触控",
+        "tp",
+        "sensor"
     ],
     "welfareList": [
         "交通补助",

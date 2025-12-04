@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
     "bossName": "吴女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200305/9aff73d090ea8fb787d563a9134d5de1f8284b383193df9efe620058bb29f075_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "e318dc17f39d47f60XF52d28EFJQ",
     "encryptBrandId": "0f2d899a5439eaba1XJ_2N66EA~~",
     "encryptJobId": "a4dca73bd9cb292603Zy2dy1EFRV",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.832557,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 20,
+    "itemId": 11,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7sIcIsii2TN.search.20",
+    "lid": "ar1Te6HNVgB.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "17B0xq7u4nBLo-812e_cXMSCqM_-l5ftuupX8omyXtARtKHkIJ4HskOd_Fkh4fmEheOfTrkuhZeijklcqPOh5-upO1knKzWi_qhnY-YlNeVHKE9QydWciqCLVajpdsCA8tRPsH4zUqfcORLXP5ceAmarLMX-sRJuF2-yZKmscp9FecAPsg~~",
+    "securityId": "1vnDQBrRBHjh5-J1Cox_5D4wJgf4GlykLwQ2dTRz8FaABITg1nc9NsFWSc2KncI9Ys9GkV2YHmALTGU4xnTGYJkd-4hCeRAnTvqfw1ZaPnkHVsF0bus~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

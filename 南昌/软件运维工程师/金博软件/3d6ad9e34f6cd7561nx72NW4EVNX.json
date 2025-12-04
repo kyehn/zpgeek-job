@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241216/607f1f3d68754fd032b897f9351ccad126b854d1491e7774d2df549969416da53081c22d4371a672_s.png.webp",
     "bossCert": 3,
-    "bossName": "殷小娜",
+    "bossName": "殷女士",
     "bossOnline": false,
     "bossTitle": "人事主管",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "9718ce8ff76b422f0nd82tW7EFRZ",
     "encryptBrandId": "ae64c62e152ff9591HF-2d68",
     "encryptJobId": "3d6ad9e34f6cd7561nx72NW4EVNX",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.67291,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 27,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,25 +43,32 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5LBFRdIQEgw.search.27",
+    "lid": "ar3UKWLy0G5.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "rsSm85EVhT6SE-81kqzAECbgZjI1EjY3wa4O2VmqujHn9hs-1_AEPsO7YK6dA7jZubl4Scta5T-ElniidsXHQWMh9zhDM8n1NfosHs_G6CvaQxcBK6bup8oeRP7MpSj_PZYqonQI2Ilo",
+    "securityId": "Fk6QWrsI1S4ZH-F17vrfiGuHJIqyzUcZ2cjfCS63Dr_H0Gcebh4AV1ru7weXNWOUdzTt9fIP6ZOSevc2lrxbJLZEFQVUQR2eQ3LdrK_lXxGPKO_oPg~~",
     "showTopPosition": false,
     "skills": [
         "SQL"
     ],
     "welfareList": [
-        "节日福利",
         "带薪年假",
+        "年终绩效奖",
         "员工旅游",
+        "通讯补贴",
+        "补充医疗保险",
+        "团建聚餐",
+        "五险一金",
+        "有无线网",
         "全勤奖",
+        "节日福利",
         "绩效奖金",
         "加班补助",
-        "五险一金",
-        "年终绩效奖"
+        "高温补贴",
+        "餐补",
+        "零食下午茶"
     ]
 }
