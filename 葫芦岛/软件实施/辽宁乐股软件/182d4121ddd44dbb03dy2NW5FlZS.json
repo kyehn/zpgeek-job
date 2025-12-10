@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "范女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事",
     "brandIndustry": "互联网金融",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170612/609ebb1ee55b4dbb382dfeaafcc1756564f002163e5809de41fa646e7ee3c1f5.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100206,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 1,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "ar15yXc1PIe.search.2",
+    "lid": "8LM5dMWnnAP.search.1",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "XU2CguKyWXj0--W1fRUrxOoxvaiQOEgc_0KM02ohmUUzhEu6iDu20tcVzGSCw-AWkuTtqn4flaCjJkvOjr_6s2MglFno8jhCQVMO9g_Nslg2Rmjj",
+    "securityId": "uy5tMmMooslSk-O1yTunEqOmgqAxh8UBn_RXo9qd8iwuZI0MDiySRSVY4c48RkxowydRJz14qPotznEq4th474ujDeTmp-lRstgKWov6vLZq55JIThBVWJTkYsiwOzV_LVIpTEsobBHeqESfU-F-",
     "showTopPosition": false,
     "skills": [
         "接受实习/在校生投递"
