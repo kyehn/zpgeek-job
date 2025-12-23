@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 12,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "ar3UKWLy0G5.search.10",
+    "lid": "3jqXAyndZnf.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K·13薪",
-    "securityId": "jxpWSKajAAQ71-H1EBW27tqkBKvhy_HAc0-NN3ZuHRvGnZ9v1Y6qt34rX0gYKnlGU93uaul-ZZR3-ga0-121aqzDBzM0EpINEqEVTeNham4GWL72q378",
+    "securityId": "S5uX25Cwyfp4E-A12oRcz-9G79RW07B17fk95r8Ooh_Xtn2leST7xM3H0362-mwFVliOb6HJoHl9koIowQNJPchcKEjM4dyifZMC2XPTyU4nkUJnWlUB",
     "showTopPosition": false,
     "skills": [
-        "系统运维",
         "Nginx",
         "MySQL/Oracle",
-        "Python/Shell",
-        "运维开发经验",
-        "运维经验",
-        "网络安全相关经验"
+        "系统运维",
+        "Python/Shell"
     ],
     "welfareList": [
         "定期体检",

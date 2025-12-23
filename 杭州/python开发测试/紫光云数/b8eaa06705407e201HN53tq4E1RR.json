@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_11.png",
     "bossCert": 3,
     "bossName": "何女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘主管",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191202/43bdd4c811274b15798a2283a18ee11fd2da755432d8151db8f0177f400f8467_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 6,
+    "itemId": 8,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3LsUnJM3XXg.search.6",
+    "lid": "66YF8qWN6bf.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "ZVSOGO0056GIo-a1huAAGiNnyqgzZR8oi5-F1RPQqhYuOxQcGKqv5HnwF9mwwFZDnp8v0lWk2HGWRfO42DDVB0Rd5FOmp6022hdqfBp1Xj2OQ5oq",
+    "securityId": "B7MOt67SFeaN8-J1ggx2FzIh5wWb1ov1ZSok1YpyXgtnDef9duJ7O7C3eWOWcMmsWOgE7T5gYxaR2YAAgFbM1Qmu5yzeHkJ-KsaOzhZhP7y4-mVUvBHN5I23RxWu6lfc1SILLM-Ds4S85yTw-vE9",
     "showTopPosition": false,
     "skills": [
         "Python"

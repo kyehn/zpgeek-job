@@ -22,7 +22,7 @@
     "encryptBossId": "08f90d67bf535b230nVz2tS7FVRQ",
     "encryptBrandId": "a59a46b2eda695661XZz3d6-FQ~~",
     "encryptJobId": "a91a20d8fcac5e1c03d_09-1FVZX",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 36.701018,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 149,
+    "itemId": 9,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,16 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "BUbmGWVf7E.search.149",
+    "lid": "5FB4UQPaOZa.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "3IfdrYMjwbwUg-61Ws32jiE2GZMrqWtNCMnceuOfE9a0PS3xTAJbU_Fz3tB-RLjfWbkNq1JPhVNos9GhYSkekLPXtUpjj3rRgtGs0Y3whMZ3pGWL3yyUHVbaXF2EZ5eO7ZbFlBIR-Mav6g~~",
+    "securityId": "rYdH87XJ_HoKJ-y1eooFFIuaJYUmP2wNENJRdGbsoTOq1KiUYWC0S_QDqYWUHYxxZmIS_B2vQUq7M6vO84I6EePpVvzTYJ_V_vAeZZcqTtQu9PuflaE~",
     "showTopPosition": false,
     "skills": [
-        "计算机相关专业"
+        "计算机相关专业",
+        "应届生"
     ],
     "welfareList": [
         "交通补助",

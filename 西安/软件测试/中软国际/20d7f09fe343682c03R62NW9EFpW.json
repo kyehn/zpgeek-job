@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 15,
+    "itemId": 10,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,16 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8LLfQIOCRYV.search.15",
+    "lid": "6cNkq94mB6Z.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-6K·13薪",
-    "securityId": "jQpvWhHorRSJ3-s1nbOlzfmxl7B6BhQx3hMgmt-ezIdxMeks1VsOxLlyAmyLCordwknxkO_mUTfbP_xJp2lfXoshG5VIsmwjBv_dfAbZ6fy-T28P0bfvVm8nEYTdrK4ZeM1os9lFTz-m3ED-0SlL1tA9",
+    "salaryDesc": "4-8K·13薪",
+    "securityId": "Bp-4kNc9yJOS8-V1k217teWlZ5wVIVCrd_yPOyD9AofLO000DBAR3oDeGRdp6wvHe6a0Sou5eAW-yPiumuyo4Ajevii8wcpwCxpfnH9Ecafc6KHYGu2OXNnQqFtg7_AlLb1UdhN6t9bC6us3Qfx767Sr",
     "showTopPosition": false,
     "skills": [
-        "测试工作经验",
-        "路由测试",
-        "终端测试"
+        "测试工作经验"
     ],
     "welfareList": [
         "年终奖",

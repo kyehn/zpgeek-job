@@ -22,7 +22,7 @@
     "encryptBossId": "7cec55be2ddbb2241HV72tq8E1E~",
     "encryptBrandId": "a35492b2657acc921XN53dq4",
     "encryptJobId": "9e0653699c243f5d0HV72965EVE~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.539804,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 59,
+    "itemId": 15,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5LCsY66Rjfr.search.59",
+    "lid": "315nOuKorMg.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "_ixfNgWwScIkx-b14kLKG1cAAjjjBD23eaM_9h_GXMdGXPbavZk4Pkw0bq9HBmK0blsDGDgtvsXSa-f_5xVruDGG1bau8GLoApBqzsfJ82t3sL1zTyUNY1HJvsQqBmgY5x1eistupw~~",
+    "securityId": "WrGqANRXwfIb8-w1-aNqFtRkvXfrrK3CUFj0WCafwzhR4LJmMytUuFYzbHX5ng05K4pNPpynBXoJTgLGdHyCSHk2tMYQojDlIpGKHpey0GvXL3Y~",
     "showTopPosition": false,
     "skills": [
-        "运维工程师",
-        "IT技术支持",
+        "IT服务",
         "解决方案",
-        "计算机软件",
-        "IT服务"
+        "实施交付运维",
+        "MySQL/Oracle",
+        "IT技术支持",
+        "运维工程师",
+        "计算机软件"
     ],
     "welfareList": [
         "团建聚餐",

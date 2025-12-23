@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200324/d6833777a4ab9fa1a4b1fdde0ace2c4aab83b4fe21faf98a2aff9eeadcbfd38b_s.png",
     "bossCert": 3,
-    "bossName": "于勇",
+    "bossName": "于先生",
     "bossOnline": false,
     "bossTitle": "总经理",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "57ead1f68f69ab673nZ92tW6EVs~",
     "encryptBrandId": "4f420bab771a5f371HR72Nq8FlU~",
     "encryptJobId": "2827d61b82c6335c1XR53Ny5EVRZ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 36.839837,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 8,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5vQV0HUFRg5.search.28",
+    "lid": "3jurGYnWSE1.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "JuShd9kuwsEW7-z1xHY_OjAFw_RxyA4VGi3-yZ4-DhkXo87BwCYRipSQeitkDPChp8Zz-pUxYqC2uZyYTSnZdA_2KxjgJfOQoY57aYkNWjy_IX8sqsLjC7jjCp5Q_sQ0NuaYU76qR39nSg~~",
+    "securityId": "fVyCOJPA8QPmT-s1U8PegRnJ5qqztQFR3mNG5oikPl0LP8dPjsqcJjf4YPqPWamxln6FjJksyQNxS3NXF5sjaStvELy9sfG4auQ6z9g4qrh7l1IF81I~",
     "showTopPosition": false,
     "skills": [
         "FineReport",
@@ -63,5 +63,8 @@
         "数据库",
         "SQL"
     ],
-    "welfareList": []
+    "welfareList": [
+        "意外险",
+        "五险一金"
+    ]
 }
