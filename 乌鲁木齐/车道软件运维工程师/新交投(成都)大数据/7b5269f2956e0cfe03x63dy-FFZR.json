@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221223/607f1f3d68754fd0ceb552d9b4fa7c27d5a25ab701a7dd39199299496f813a7597e751fb1cbf26d2_s.png",
     "bossCert": 3,
-    "bossName": "徐丽",
+    "bossName": "徐女士",
     "bossOnline": true,
     "bossTitle": "人事专员",
     "brandIndustry": "大数据",
@@ -22,7 +22,7 @@
     "encryptBossId": "8b71b9df2754713f0nJ_3du6GVdX",
     "encryptBrandId": "9b0672a5b7b85e611nd_2tW5EVc~",
     "encryptJobId": "7b5269f2956e0cfe03x63dy-FFZR",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 43.845268,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100005,
     "isShield": 0,
-    "itemId": 53,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5LCsY66Rjfr.search.53",
+    "lid": "2zFuxqszBs9.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K",
-    "securityId": "-HyGSVodURfEV-015smzeOkwAIUc4UPS0SHgs8HXNEOqXeQ0tihYlZL7oPRxtu8TrDtzhl7mguhRtX-ktYvAVoW629wlORZvE4KmF0gw5XgySDlPniok8_XSZGrqms6ntE5PkiDBMxw5ZttL8Uan29WX5vl9WLhnx8EJDKXf98WHBwOPMlI~",
+    "securityId": "8iFVBsdv4OEUw-E1C2603PqjWu7QjzIMJkhNeU3e37vYASadTYfg0MJxj4d5vrdJ4UlHIOLKMx0zCCRUdBFIuBUcFHJ9kqqd5UA0pgpy5Zmi2kFHTtkqHi8KGKXaNP5CpXxLikum6mC4xmePC9dbptIx",
     "showTopPosition": false,
     "skills": [
         "系统运维",
@@ -60,14 +60,10 @@
         "容器化运维服务"
     ],
     "welfareList": [
-        "餐补",
-        "定期体检",
-        "五险一金",
-        "带薪年假",
-        "年终奖",
-        "通讯补贴",
-        "交通补助",
         "节日福利",
-        "企业年金"
+        "定期体检",
+        "生日福利",
+        "五险一金",
+        "带薪年假"
     ]
 }

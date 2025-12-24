@@ -22,7 +22,7 @@
     "encryptBossId": "b8fa5c163131e5cc0nBz0t-0EFpT",
     "encryptBrandId": "94f82accc69184cf1nd729S-FVE~",
     "encryptJobId": "59c07896c7bb08d503dz0927E1tV",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.490524,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 73,
+    "itemId": 4,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,16 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d2QdAJCJse.search.73",
+    "lid": "2LjcqFfIQpy.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K·13薪",
-    "securityId": "K1qLfRvOpJh22-k1eJz-_AcpfB9m-wknoCfIq9qUT-_tBn_phHwkCs_WWC6Hnt_qrPV0b6iOj1O2QMi9auOb-SIGkAarDvDsUVz2f0X54NubLcKOYyLuIpZFR-_mQhHU772cxgwuNXETPUI~",
+    "securityId": "1RDdYpBDc7qKf-o1xzTjDyld9bLeVqBfRcZbt9VDLQnnEbLtTEmGsOJX2K4Vh8Ye5tXdTlFe0iESLuEGTVeM7GPU6WSKwQy0sWYi9gPFtwE1objYembJ",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
-        "通信",
-        "外场测试",
-        "运营商测试"
+        "功能测试"
     ],
     "welfareList": [
         "五险一金",

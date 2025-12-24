@@ -6,8 +6,8 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231017/607f1f3d68754fd090bd4000b48e3314337b14045d5261f6fd3ce12b65c0a2dd5f9df5755d587baf_s.png.webp",
     "bossCert": 3,
-    "bossName": "昝艳卫",
-    "bossOnline": true,
+    "bossName": "昝女士",
+    "bossOnline": false,
     "bossTitle": "人力资源经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230927/7bf6f160950405e944163eedafe4eff7242cfa7e492c9fa8d18627616becca03183b3e2e09f8f7f5.png.webp",
@@ -22,7 +22,7 @@
     "encryptBossId": "9c94f2d11a0f0dc803N909m4E1c~",
     "encryptBrandId": "11ac093e5a00eba71XNz29i1EQ~~",
     "encryptJobId": "bb33df383e16ee161nFy2N64EVRY",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 38.307835,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 55,
+    "itemId": 10,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5tP2g2WVg73.search.55",
+    "lid": "2zIL98BuhSh.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "aMPMOhs1Cu8FA-e10bTYK8sjSyyFwoTbWH1PCsgV9LZys5YQ1us1zqqjKLos0ae-h6KBNk7TSpATERFZScY7fpb-ymjpJxZtZTcjc_nHbZ2RYXb8azPTYMeBuCA8E4V10Cn9Gktyyg0KDPqBUSqAU-nyuNjGKGO5uY0aWt_bC45e8vNI",
+    "securityId": "xjDacVEZ60I6q-v10j8QDiYQ8tlBAxGZkFKXulP9oOwNug9rGI2Z0xl0Hzs3D51MRKeVdaMoV8BO8qkvzLNJ0uvpTMMKXLeMqjaQ3Mdm6QPebSqFRA~~",
     "showTopPosition": false,
     "skills": [
         "实施工程师/顾问",
@@ -62,17 +62,18 @@
         "开发软件调试维护"
     ],
     "welfareList": [
-        "保底工资",
-        "节日福利",
-        "有无线网",
-        "餐补",
-        "员工旅游",
-        "团建聚餐",
-        "绩效奖金",
-        "底薪加提成",
+        "交通补助",
         "五险一金",
-        "年终奖",
+        "绩效奖金",
+        "有无线网",
+        "员工旅游",
+        "保底工资",
         "加班补助",
-        "交通补助"
+        "节日福利",
+        "底薪加提成",
+        "团建聚餐",
+        "年终奖",
+        "带薪年假",
+        "餐补"
     ]
 }
