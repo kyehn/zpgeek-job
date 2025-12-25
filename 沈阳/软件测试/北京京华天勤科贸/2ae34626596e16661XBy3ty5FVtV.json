@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170804/dabf5f358a5aea249600b9c1f9d95bf5e3ab50e6fdd2cd460f50958c3dbbbe65_s.jpg",
     "bossCert": 3,
-    "bossName": "杨红扬",
+    "bossName": "杨女士",
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "6fec89bca9e75a3d1HR60964FlY~",
     "encryptBrandId": "cab0d1d01bc4d43f33xz39S6",
     "encryptJobId": "2ae34626596e16661XBy3ty5FVtV",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 41.794002,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 32,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4J0KPEQO3K1.search.32",
+    "lid": "23woETZcqB6.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "i09KYKzzyYMYa-B1VqfrkRTca7s4Bu2I0vusb7Q0HOiTRT6llCUBxeM012A1jKlSt_VD3nNuQKTKP_i0CbfRDWRCxjO5QAsE0VH6js2YmP7svCTZAggnldEO2xWNAa-cYExxbMyth7g~",
+    "securityId": "OZd08BqOY1sMi-P1SzmXijD4CdokVEA4jmjaAU1i3p3AnYJwkDMJotCEz4Ay_8IdLfY6IFillNQzG2e6IjsTCxT230yflX6zBIKIdfF44jffy5xS",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"
