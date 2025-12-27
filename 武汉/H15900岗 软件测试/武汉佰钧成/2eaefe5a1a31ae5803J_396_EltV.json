@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
     "bossCert": 3,
     "bossName": "王先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "移动互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160923/d2733ca3fe8ffdc9e53a460652e840a291808ac04b7a988683dfe9a9e4df5512.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100019,
     "isShield": 0,
-    "itemId": 15,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5ALPSKdPkeh.search.15",
+    "lid": "16rFCGJOvr5.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "26bFrc4nBcmBq-41m6kHCm_-olYEtc-PhycUYXvbxnnL-BWKSRynYWo9kpoR0AcEq8TzzP-oka6A94T6et7S_8aGWUqpVmL26m2yekQKPf_pY3Z-nQOoKAWOrVP0RBFcLVVKDho9V87IbFPipg4r",
+    "securityId": "2iW0NP1b3M9md-31ve4nkAmhqNWht7zrHmhGV4Zg0ym2mWrqTgivfHsqEvdigIjejoSPFV0ws3NSCNmVgj_AYRYB9sxsB2QPo_jPsbC3vqXDtRJv",
     "showTopPosition": false,
     "skills": [
         "测试"
