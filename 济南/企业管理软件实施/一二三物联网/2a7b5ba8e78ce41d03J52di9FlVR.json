@@ -6,8 +6,8 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250530/607f1f3d68754fd086dd2e2d6b6e844bc48a8ceeb08dccbaba67aa75bcac62d0aaccc0132a8860dc_s.jpg.webp",
     "bossCert": 3,
-    "bossName": "向金花",
-    "bossOnline": true,
+    "bossName": "向女士",
+    "bossOnline": false,
     "bossTitle": "人事专员",
     "brandIndustry": "通信/网络设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191109/e63e1831a5714ab4b861a521a7a6b57f57d09a29034139336a328a3b43d7ee38_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "b829899a35fda7f31Xx52dW5FVs~",
     "encryptBrandId": "e119a9d54776704d03Jy3NS7GQ~~",
     "encryptJobId": "2a7b5ba8e78ce41d03J52di9FlVR",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 36.673789,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 56,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,29 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1UxQd83iOPD.search.56",
+    "lid": "dAhsdZpNOM.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "WhQianbQqUj0b-A1gnZclQIkHUuueCYX-5s8nff6bwKiCbX35fw75cUnjQ1o1n9yXadJEnII1cdSB71MFWIXbS2nDfjv6nbSCvdd_h-3rzQvmOmF0sDspGzOqOCTtVpxMjvN9EQancmpuUfVrPJs9dHHlDomqBvlaCJ_vMxaakmR9w19",
+    "securityId": "09HCxMhncwgBO-91ftLEfLLOnSac3sqhGUHzhuC_fEFaf76AjJKf55TT-KtuU9vygut7V0sBEJKgTmf7jCzXQCe9JP9os9cmvzTdeJLel63gqXVHqw~~",
     "showTopPosition": false,
     "skills": [
         "ERP",
         "畅捷通"
     ],
     "welfareList": [
+        "团建聚餐",
+        "绩效奖金",
+        "生日福利",
         "餐补",
+        "工龄奖",
+        "通讯补贴",
         "五险一金",
+        "保底工资",
         "加班补助",
-        "通讯补贴"
+        "节日福利",
+        "定期体检"
     ]
 }

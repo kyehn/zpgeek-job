@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
     "bossCert": 3,
-    "bossName": "顾银晓",
+    "bossName": "顾先生",
     "bossOnline": false,
     "bossTitle": "总经理",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "cc9e08f19688b2330nFy3Ny_Flc~",
     "encryptBrandId": "2f64569962e1e52a1HN629y8GQ~~",
     "encryptJobId": "cc43f8e6e89ff2731HN-3tu6EVFS",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.531777,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 81,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TrsF09KUP8.search.81",
+    "lid": "hPy7pPUuuK.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K",
-    "securityId": "s3j5theS8OpBf-B1f8SSsUX1iL1t2kDSfJdok5Utxp9R8h3QxS-YPNAaeHcjDDA-hsx2VJilkULys8daQb8FygZefC1hX8n-jRup-Sp_kZW2O3ZosKWJSjyY9FKqyhEUljbIy1YJzHf4",
+    "securityId": "3x9zWhkxhbMgi-I1TTWSI2ve1V7wTPQQreLVpmYWtDduxCyBX9y42n4qzwD4k48SPIi-YA2avsZ8Ya9Ef1SPaXC9quYXjqjPsvjm6xoh39wLHj-e7w~~",
     "showTopPosition": false,
     "skills": [
         "可适应出差"

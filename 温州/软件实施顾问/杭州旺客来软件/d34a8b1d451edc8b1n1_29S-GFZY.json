@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 14,
+    "itemId": 10,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3jurGYnWSE1.search.14",
+    "lid": "hPy7pPUuuK.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "DMZr3ou61q-78-p1eraIxWrtjAmGWuejaElqEnsaTvc0Hgtp1nB9QWnYz2rBE_qLzUWjK6QK-ulmA22Yjk8-mU9sy46grHiSHsTIl_J476vcB1G2nqk~",
+    "securityId": "XykcI1QijOGGa-i1-4MAqUXh92Ae6wmosXp-7bZGGTwfIQlWYEZhPZ5N7VkTisOvy_jstF7qT6aT5SOgCfBVLEYmFFls5QqFLFnon9fWUn3fzCrj_mg~",
     "showTopPosition": false,
     "skills": [
         "软件应用培训",
@@ -66,10 +66,7 @@
         "交接现场培训"
     ],
     "welfareList": [
-        "团建聚餐",
         "带薪年假",
-        "工龄奖",
-        "底薪加提成",
         "五险一金"
     ]
 }
