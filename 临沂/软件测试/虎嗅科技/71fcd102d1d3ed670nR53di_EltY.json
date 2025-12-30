@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 12,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "dzvfi3MrUF.search.13",
+    "lid": "dR7oz0Xt1v.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "rdRSt9JEQ5qkz-11slLY-H302gF272vwzh4sj9qZPX0NvoOJNcpwA4mA853BhLUWbg4uzNuevNBjnRvC45JG_XVCxmWDb97SKFk2rsGRAm2kZkRY_jg~",
+    "securityId": "2k4gz5IxaQz3E-k1BEzMN_qYU8h88y3J1jVLC6fhlYydUKWM0kpEZtbSkt4T37bbxR7eiLUEIZkO11fE7TOGAw36hsXXX69g4wBMEZMJNjUjqJ2dkLU~",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
-        "Postman",
-        "Fiddler",
-        "计算机相关专业",
         "测试工作经验",
-        "掌握软件测试理论和流程"
+        "Fiddler",
+        "功能测试",
+        "计算机相关专业",
+        "掌握软件测试理论和流程",
+        "Postman"
     ],
     "welfareList": [
         "团建聚餐",
