@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南海区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "周国和",
+    "bossOnline": false,
+    "bossTitle": "总经理",
+    "brandIndustry": "信息安全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220102/7bf6f160950405e9e35238bb147d15be4445e2b0b488db207e8047724e670b2047b4f9f1bc11ab99.jpg",
+    "brandName": "创湖科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "保利水城",
+    "city": 101280800,
+    "cityName": "佛山",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e5ec2b2c38dfa8500nV-29m4ElBV",
+    "encryptBrandId": "f1db31595700e90b03d_3ti5FA~~",
+    "encryptJobId": "316766b5c8398dc01nZ62Ni-FlBX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.06027,
+        "longitude": 113.150321
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100016,
+    "isShield": 0,
+    "itemId": 59,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "PYTHON开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1sSoxzGL3Lh.search.59",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "FaUgfX69S0cTt-t17B_pEHFeivYgH-xbPm7oFyyXBqRLlKIQCcIR0qEhmIiaNokfgWVvctjk2HBmhC54xwSNwzzvNvHxLQe0hz6NvIZNHI5n6NLh6UTZWT_Sh1ulnPee4ThyVe0ls9Dwzw~~",
+    "showTopPosition": false,
+    "skills": [
+        "PYTHON开发"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ]
+}

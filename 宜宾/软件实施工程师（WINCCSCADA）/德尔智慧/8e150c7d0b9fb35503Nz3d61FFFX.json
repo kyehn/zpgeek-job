@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20220107/a2f3e71d9181a67bd2c1aa6fd188da6994c9bd8a47a8e898ae489974216ee3b39272f42a8436ac73_s.jpg",
     "bossCert": 3,
     "bossName": "钟女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人力招聘专员",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230216/7bf6f160950405e9487bd22bc3ee71c9fc78a0ecc3f16f5e5161cb11db1deb127b464a6699a395e9.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 24,
+    "itemId": 64,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6In9C2kJbM0.search.24",
+    "lid": "1sHEoZwYOVf.search.64",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-7K",
-    "securityId": "LqcLuU7dhxYfD-l1CTQAe7X__Uj7tAfCwo0OraTy-Hr49iXGyjVQDQFF77-xr6uriYXMIsfGYYaL8V7vVuezuBk317hSCPhD5O1tXJ4Ufp0lY1rehRYeSvaXqMHReZabtg6bbGEvwKCce8vUJViloh4v3Mr33iB8qpbUY8q-ynE98U5bKw~~",
+    "securityId": "L05aUKoj9jBUk-31Vdfsz-SDfsJgWogHTVjXfRXv-M6z_Ku1veMzwNkqurGCI_bRkTrgUlbQxbzh66VG-atDmyWdRT0bIOO6R7mpcGecCcEeb_S3kMbiCaoW0vRcqdAs5ClaC6Tl_2N2Bw~~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
@@ -57,7 +57,8 @@
         "组态软件",
         "可适应出差",
         "工业协议modbus",
-        "OPC UA"
+        "OPC UA",
+        "工控软件"
     ],
     "welfareList": [
         "生日福利",

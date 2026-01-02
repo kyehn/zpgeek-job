@@ -14,7 +14,7 @@
     "brandName": "华成峰科技",
     "brandScaleName": "500-999人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "琶洲",
+    "businessDistrict": "凤阳",
     "city": 101280100,
     "cityName": "广州",
     "contact": false,
@@ -25,31 +25,31 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 23.099181035216652,
-        "longitude": 113.31499508514138
+        "latitude": 23.090020882646996,
+        "longitude": 113.32147474412571
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 52,
-    "jobDegree": "本科",
+    "itemId": 62,
+    "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "本科"
+        "大专"
     ],
     "jobName": "测试工程师-周末双休",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nlpjdQ3Zv3.search.52",
+    "lid": "1sNJo4ulIZM.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K",
-    "securityId": "hda8TqYFfVCmD-s12cWWP29Nm-xFHvDddK1f3NyBT6t_TlveA6OIjBZvg2hkzd2NQSfWKb-gXbru3VoqB_xzgq0h5TLdDsrJBzgaJtQrLmKRnj6G2ZNa88ogvRCHnac5DMIz5xtYfPv5",
+    "securityId": "mCOTOnelPOW6R-815IYgtQbRxY23fFybHJanLrhTdXDt6v0oojBCeCq-Wb0P88odLZH1V3xKhC34UB5dpLJJLKyQrGHeNXA4X20ZXju1Tq810YacGPIJmzH6NHXHgtZX2LM39VTey1HW",
     "showTopPosition": false,
     "skills": [
         "Java",

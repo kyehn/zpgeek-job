@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 12,
+    "itemId": 42,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5tOrXhEg4dR.search.12",
+    "lid": "1sIWPEKhnxf.search.42",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "L3hIqjsYncqnx-31uogsTGc325UVqcANq0-9OND5p2-NTtqHfqnJnfd3GvXPfwSpaRX2HMKaKp5reBNciISHZvZaImCEnbnB2f2K61cBE6omFJB5uJkVZYPtjndkwy-c71a1Is_-UM04DuleDnDlX6noiCMUMQ90ieHIjpewZOXVYb5NUwc~",
+    "securityId": "IxLAWpIgJqUx_-K1Pd9jhcNaJnEJcygG61muDqVl6n-vyyIWUaclP5gYJpkLLUNsUChpkSKUeTalLtFt5cJ28z0DkxJBa88c7FtAZmM_-xXm72IDGkUpvzz1utLmwIV5nEVoJUDEQxwBaQHCfPjjtRbTypEdXhxVIb62pCnh4hL9kafzk4k~",
     "showTopPosition": false,
     "skills": [
         "PLM",
@@ -61,19 +61,18 @@
         "CRM"
     ],
     "welfareList": [
-        "交通补助",
-        "零食下午茶",
-        "带薪年假",
-        "通讯补贴",
-        "团建聚餐",
-        "底薪加提成",
-        "员工旅游",
-        "年终奖",
-        "生日福利",
-        "节日福利",
+        "定期体检",
         "绩效奖金",
-        "五险一金",
+        "带薪年假",
+        "团建聚餐",
         "餐补",
-        "定期体检"
+        "通讯补贴",
+        "员工旅游",
+        "交通补助",
+        "节日福利",
+        "底薪加提成",
+        "生日福利",
+        "年终奖",
+        "零食下午茶"
     ]
 }

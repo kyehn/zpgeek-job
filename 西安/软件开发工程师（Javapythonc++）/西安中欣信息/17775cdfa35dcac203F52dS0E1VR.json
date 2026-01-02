@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 84,
+    "itemId": 69,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,24 +43,24 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5vNPTaiQviE.search.84",
+    "lid": "1sNJo4ulIZM.search.69",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K·14薪",
-    "securityId": "vV7ZfDbxxv6pr-a1FijNf70iAApKNiItpqJgPFxM023ZEcp6yRXx72KOBbXiC8BKYSTpmbymc35oFz69yPAqpqb_rrBTJ9F2-KIfzgpsBBY4z80VCfXhHQoRpj9Tbi_gmQEybZFhX1uBKOk~",
+    "securityId": "osR3FmaVulNjK-r1K6OFiD8iD_JFvgHicX9y_7VvZvd2VWwhIpjCefveOdh1CmcQDZbGBN58kMeJf2soLPjSCUUyCh50aJOx6KJE__VrdnShiMzBVLgiBKJ6A2M-5MMjR5FjM7e-2icpMBc~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "Python",
         "C++",
-        "Spring",
-        "SpringCloud",
         "不接受居家办公",
+        "SpringCloud",
         "MySQL",
         "Redis",
-        "Oracle"
+        "Spring",
+        "Oracle",
+        "Python"
     ],
     "welfareList": []
 }

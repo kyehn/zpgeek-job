@@ -7,14 +7,14 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250321/607f1f3d68754fd0f889abb63e0df9d217a2e59efc18b52490247b85f000e3e04c82f06b130c2358_s.jpg.webp",
     "bossCert": 3,
     "bossName": "程女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "云萃智创",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "张庄路",
+    "businessDistrict": "南辛庄",
     "city": 101120100,
     "cityName": "济南",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 36.66544311458237,
-        "longitude": 116.8957864438869
+        "latitude": 36.649588,
+        "longitude": 116.976299
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 8,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7FllBLsigUh.search.11",
+    "lid": "1r8UbcWHXA9.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "G83aLaWRSn_y2-Z1Mm8XPkMeYTbkEe1IoVNfZYjvKdttd5ZRbLWFji1hxqf8sWq7wUqbHo7oFn2Oh4kNPTJ5i-gqiXMNkTy79ixMmmvAkSpZsI66lWjowdaZp5ahdTKvkbox_RKo0Uwj6mLPxf2OtP3RPGJUyc48uKwCUdCavGjjNpz8XA~~",
+    "securityId": "VlVv5ibA62PnW-X11Jh2A9Ixg1BlgJzlTAfTjPG8HGDlBkdiSeN8VanOT59C-DntuaF-dfBA0BlNdij4FFLfbMXEsPRWwnTKp1OnoMdrvDriF_Zjt_jWubLlhw0Ic7gt9LSa5qpauvRIgQ~~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -57,19 +57,15 @@
         "Python"
     ],
     "welfareList": [
-        "年终奖",
-        "五险一金",
-        "全勤奖",
         "绩效奖金",
-        "定期体检",
+        "年终奖",
+        "全勤奖",
+        "保底工资",
+        "零食下午茶",
+        "团建聚餐",
+        "底薪加提成",
         "生日福利",
         "有无线网",
-        "零食下午茶",
-        "节日福利",
-        "底薪加提成",
-        "团建聚餐",
-        "保底工资",
-        "工龄奖",
-        "包吃"
+        "五险一金"
     ]
 }

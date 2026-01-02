@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/banner/20171031/84ade9701fd02a77fedb6675600a134f33d208e8d6fc287973c46e5cb5346f06.png",
     "bossCert": 3,
     "bossName": "石先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "总经理",
     "brandIndustry": "运营商/增值服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100025,
     "isShield": 0,
-    "itemId": 9,
+    "itemId": 1,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8wnm4YOdwmK.search.9",
+    "lid": "1sTMXhG9zAm.search.1",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "IdWSSbWI8pebG-81R1WUDmT131LBIj1RFyYjbXrAACXplTccX57u5sdiCjbzz_SbUsB1nbU_C4JeXu8PwXRIZstb9BMiv4uBGmmbOr7pYG0n8uIme2Ff2JiEN-Zetrd8-beC0XZIgiuAIg~~",
+    "securityId": "ppASeBoZ7nx9i-41ysTgbEvyaE1imOV3riRETwA_rqC2ECEvWlrOM1xvc_1Ierrg3p3gbzXMw1HdX7Na5yAfv2gfsST71F9hSAXp57V20tv0Mtn2InzrjDVkIO5BcBgBswPUxiPILFRhcuyeHrORO5LF91D2i-8s3WIQXd4hyHzUzkN6Lg~~",
     "showTopPosition": false,
     "skills": [
         "网络运维",
         "系统运维",
-        "实施交付运维"
+        "实施交付运维",
+        "计算机相关专业"
     ],
     "welfareList": []
 }

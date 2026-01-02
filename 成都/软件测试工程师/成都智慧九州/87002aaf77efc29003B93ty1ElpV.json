@@ -22,7 +22,7 @@
     "encryptBossId": "734b09574c97d4140nF_09q1F1JX",
     "encryptBrandId": "daff8d3b56094c9c1XR63N24E1E~",
     "encryptJobId": "87002aaf77efc29003B93ty1ElpV",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.540723,
@@ -32,32 +32,29 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 33,
-    "jobDegree": "本科",
-    "jobExperience": "1年以内",
+    "itemId": 67,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
     "jobLabels": [
-        "1年以内",
-        "本科"
+        "1-3年",
+        "大专"
     ],
     "jobName": "软件测试工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85hs3NwfZhR.search.33",
+    "lid": "1sKFP4vluDZ.search.67",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "zeAOnNJjd1arU-y1_qNacpA9vjEzxsx-z31JlSpswnVrCRqryRFTlJGcLfDo0BufVsqY6-YQg5guLi7eJX_rbdiIGKmq7xvuIQ-nzwMnyw_E1rPNGU-1slr8lB-rsLXpUQxSsbkd5PF_0_U~",
+    "securityId": "lpuU1zM72v7ik-A1_-PCHd2E7Jy72D2UQmBxnUe6molomu1hmVVEffa69Wmo0DTfWSUT9N0zhqvR08Gc0p_PMgV3g_1U_Q2njUqIz5YeGWHcu4rZ0VzaJCqKVHtLqp-qfBO132dABhahlmE~",
     "showTopPosition": false,
     "skills": [
-        "Java",
-        "Shell",
-        "测试工作经验",
-        "MySQL",
         "功能测试",
-        "计算机相关专业"
+        "计算机相关专业",
+        "测试工作经验"
     ],
     "welfareList": [
         "绩效奖金",

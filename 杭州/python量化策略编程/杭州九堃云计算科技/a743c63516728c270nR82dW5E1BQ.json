@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250708/607f1f3d68754fd07290653c4eb1e971b31a2624a72bf96ad7195645f2756a54a0cd63c76af58824_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "齐传仁",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250622/7b5b554d84f9729c97b3d5aeed1502f339ec2c50181ee870d2e85d09bc9b0d9528bb538a6aede62f.png.webp",
+    "brandName": "杭州九堃云计算科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "西溪",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4554404cd31b9c630XZ40t-5GVs~",
+    "encryptBrandId": "ababf8207147838503Vy3dS8GVY~",
+    "encryptJobId": "a743c63516728c270nR82dW5E1BQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.315361,
+        "longitude": 120.066895
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 34,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "python量化策略编程",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1rdmSqLJVIl.search.34",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-9K",
+    "securityId": "QeUsIAd8eoQxj-w1IigXyDMZuyrChI_tfls7O7lzxPgxs9bXtx-0wb5t085Aw95Z8EuEfnPEHvl_hhwCo9aojPsFFbE7sGicj8rThL1C0LTtaDTGwfgmXkd0ZwN8jqMrZxVpw_3_WioFsQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "有食堂",
+        "有无线网",
+        "带薪年假",
+        "全勤奖"
+    ]
+}

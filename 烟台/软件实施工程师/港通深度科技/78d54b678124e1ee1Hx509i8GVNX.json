@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
-    "bossName": "李女士",
+    "bossName": "李凤",
     "bossOnline": false,
     "bossTitle": "行政",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "cdfec108deea98470XRy396-E1Y~",
     "encryptBrandId": "841803150cc7e3220X153Ny5FQ~~",
     "encryptJobId": "78d54b678124e1ee1Hx509i8GVNX",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 37.577872,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 79,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "12mJgKFkozF.search.11",
+    "lid": "1sIWPEKhnxf.search.79",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "FRWZWchOofPZg-P1i38BpBrmWA6ptwFvvVZiSuumr0qzjYZcYkaqDtoyAu-nuGocmMO7k0_JqAFeNHw7lxXt8YAK7aO9mXhM5DDg5-VmY1GD79cH7w~~",
+    "securityId": "fZLxG0kzPwC6L-c1m1jGfkHr4NkJ1H4wiQyMB7v900ZZ_tELUDvSzbgzu5Q9Wgc0aidltyA0PBnS0ZH9PqxiUqYQcTy0RkB-JKjjwegImQa6S7SyqqH5Wdama3GPLlum4rLRsXFTlipx",
     "showTopPosition": false,
     "skills": [
         "软件实施"

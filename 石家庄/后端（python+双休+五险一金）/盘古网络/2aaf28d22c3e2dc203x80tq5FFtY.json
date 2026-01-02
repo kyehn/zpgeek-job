@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 16,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7IUtUAbYnCG.search.11",
+    "lid": "1sNJo4ulIZM.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "VCpkKNPi6FF0j-X1r8YxqqNloOjgulbX5-ocLblK6blGYAECP3haVskBukdUHPw6uukH9jDx3F0AxZKiXUBFkiJNATpVEpjzwnf9zH5uHea4aACjzmtCtoSi5-cCGuRh76LOmQ9Wm-W3zA~~",
+    "securityId": "-0tGNliRhfyTm-31jruNIn3lR0WohmOpd558QFtXVxW862HaRRBEfSsVyaGdljfcrijOdhaDqX8aJIVz3wpZrmqeevhnvCxlm2Famz3lg1-zwtPWdOM0X7g-_rrQOvipwgcyOgo3yKNwQA~~",
     "showTopPosition": false,
     "skills": [
-        "Python",
-        "Flask",
+        "爬虫经验",
         "MySQL",
-        "爬虫经验"
+        "Python",
+        "Flask"
     ],
     "welfareList": [
         "生日福利",

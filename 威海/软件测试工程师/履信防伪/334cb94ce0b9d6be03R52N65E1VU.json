@@ -14,7 +14,7 @@
     "brandName": "履信防伪",
     "brandScaleName": "20-99人",
     "brandStageName": "天使轮",
-    "businessDistrict": "齐鲁商城",
+    "businessDistrict": "九龙城",
     "city": 101121300,
     "cityName": "威海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 37.420276,
-        "longitude": 122.172788
+        "latitude": 37.41775309748035,
+        "longitude": 122.17523725507176
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 40,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5tNrkQQjPQN.search.74",
+    "lid": "1sMdoCTFtWT.search.40",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "W0kaNjveCcwE9-a15B9s7HaqDYavGKvLLLvYKiyP0bspCO3t17xfPaZK9Dm-YjMOFp_91UO79oH8ZKwLp0_jo7N31e80_dZZ7Lj_Al3n8kxTK7RQBR5_OPP4QqNJYq83XNqkwAN6xRLxMw~~",
+    "securityId": "lDP0HbH5485uz-w11OoYHSnCR10JEV5P_A2ebTXZ1O0ysmQw7SpGRLf7hZOizd9EgyCGKUsjFCW35NFt87u2Cmg1t-W-oVkBDEJA8FBzeNreovw5wwD3NLocyB0vNJw37Opdi6mUo53ykQ~~",
     "showTopPosition": false,
     "skills": [
         "iOS/Android测试经验",

@@ -22,7 +22,7 @@
     "encryptBossId": "b8cfa8243c1578810nZ42Ni5ElM~",
     "encryptBrandId": "60bb098a7cea15291nFy39--FVQ~",
     "encryptJobId": "f1898d7a0d34a8f71HZ-2N24ElZW",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 38.925881,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 85,
+    "itemId": 65,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9SSmPcNee7v.search.85",
+    "lid": "1rfKQ5RbXdc.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "GCDY6o2ngS5w8-81Ba76QID6kKJ-KC-4nRVL69IIXRfBLum00xy0-BqwIQM0iRWt8Bm6YwootdNkB8KC48fR4LlFNf2imoHPS7QFlcJB2QBFtN_6IRsx1pj9ZcCJAeedrKtmRJkEgq6TYw~~",
+    "securityId": "rZ_nnumceKmdy-H1u-iAD9AJIKi17p0DPeXDJXfFEADkbvJzM_SYOKP-sBqPyXGMqUVG1icy7wwDtn7jfCuOLMjGOd9XJAQYJYN3375UytFA-IFwImCU_YrNT19a1b4aFP7r7WdCaqsm9Q~~",
     "showTopPosition": false,
     "skills": [
         "系统运维",
@@ -63,10 +63,10 @@
         "有开发经验"
     ],
     "welfareList": [
-        "年终奖",
+        "带薪年假",
+        "节日福利",
+        "节假日加班费",
         "五险一金",
-        "餐补",
-        "交通补助",
-        "通讯补贴"
+        "加班补助"
     ]
 }

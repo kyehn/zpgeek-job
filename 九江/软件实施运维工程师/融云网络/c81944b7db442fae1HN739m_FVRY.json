@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 29.670048,
-        "longitude": 115.98859
+        "latitude": 29.68718582770458,
+        "longitude": 115.98915588856458
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 164,
+    "itemId": 86,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5d68V0swbZg.search.164",
+    "lid": "1sIWPEKhnxf.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "a7R3-A25p6K7N-e1lYbayylAioy332oPwUW-0UD9Hu2HpLEcBYyZVSdGnAf4umjHaRTfJtBkmgKpGNgJUO8l9IGQ-R4CKkf521pAUoVHwvE5zwmNc0YUNiKlZNKXORcaypnIuR2a8NIE",
+    "securityId": "KpmhBEQweb3jB-L1pp-WblRltHOP-A9K8abWQPYV62_4Ez7p71LvtwkewaQ6U3KGKNAMSqhjxBpX6_Yj05uqXqZQlgOrR_x4-TmHd0FWgoo5Cefvo-LbxjzVYA6x2GTPKs8PJFcWSZ5S",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",

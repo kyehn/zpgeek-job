@@ -32,29 +32,29 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 87,
+    "itemId": 40,
     "jobDegree": "大专",
-    "jobExperience": "1年以内",
+    "jobExperience": "1-3年",
     "jobLabels": [
-        "1年以内",
+        "1-3年",
         "大专"
     ],
     "jobName": "软件实施专员",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6ImxngwBloa.search.87",
+    "lid": "1sIWPEKhnxf.search.40",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "kiUwysfsaKK0--V185Nb1SwqqgBj19OcqHQ-4oVfpQ4zzia_085FsQKpIS9dh3PesWRkTEpDCkuuKo0FPVMqY8iHWwwNPNCc9cy6IdDLMYpxn26W6fxPjNq2GlUeIroNBgCd0auOcLCu",
+    "securityId": "hQF8_1FNRG2FN-51hPI-rrwsXy8pRZlmLOQoeKegLbBqD66L1lGFP1B3dyUcQJFUQw1u4ge8o7mgYAeXsDMHm9-n9dFfpREgfU9X-ZaCKUq163Vu2yGMdb2hJ9FpceNCFNgnal2Yuipl",
     "showTopPosition": false,
     "skills": [
-        "数据库",
+        "软件实施",
         "网络应用",
-        "软件实施"
+        "数据库"
     ],
     "welfareList": [
         "五险一金",

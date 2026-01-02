@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170327/e921fd388da83666fe66a2edce0312ef930645dc8ac33455f757afe5eda2ee8b_s.jpg",
     "bossCert": 3,
     "bossName": "朱璐",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人力资源经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190704/ccd864a935e87deaf1885568fec5ccb9d24782d5a5c7bef96552ab8c6182bdcd.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 88,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7ugmlx5rF3V.search.74",
+    "lid": "1sMdoCTFtWT.search.88",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "LXC9OUxzlXVVx-Y1woJ9-40BdUXkQ7FwgukUYH3xqTiO9f7VSx9J_nDFEDilfbFjvIwtZU3ZZ1DCIpxrnDiQqyAYpPgtHrB21cfdrsmIg2jxLUuOiRgzYWWdKQff8tmnDjay_NsBNtJ5qqaFWepWpZWP69sRgdAw_yC15LAPWo_0gDg~",
+    "securityId": "EvyCey0XRBdq2-31DRFzA7gD8YnrfGeDPYw3-87Jn-KwKDY8gr-hvY2a5Wfy4FLciciUsqsauwk2vB4W0uZNiTdgiL8ec3DAWcW5tTvkU9k6kqfbzude8r377k_E68iFyH287w1aA_4~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

@@ -22,7 +22,7 @@
     "encryptBossId": "1c98a7e00a7040d31HR429u9FVM~",
     "encryptBrandId": "f61780335a03181b1XF93t-5",
     "encryptJobId": "84d47769c053312003x-0tW8E1pV",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.42914386119739,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100913,
     "isShield": 0,
-    "itemId": 15,
+    "itemId": 53,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3nHHbjsvMN6.search.15",
+    "lid": "1sTMXhG9zAm.search.53",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-7K·15薪",
-    "securityId": "7JJyfsYFZLGH_-O1q08MJeKBs5ncCVI_U4eZ7JsORxiAww1H3vQZNVbTogCnmldvn1Ncg-s4_rCm_XKAM54r7KhsWxKzCcONSQg6MWHkpuni2yo7",
+    "securityId": "qNGyAAqWZwFVo-Z1VWAJGSkMSQ0c24CUBUzGKo811xm2JAFqoXEu84IWTMmJRWNOD_ykw_ojVRGoURo6EhA4rz0TAZGfZP6brlvWebiXId98nvKlq2rhFnTlsJnOktiJy2rO6ezAzlA~",
     "showTopPosition": false,
     "skills": [
         "环境搭建部署",

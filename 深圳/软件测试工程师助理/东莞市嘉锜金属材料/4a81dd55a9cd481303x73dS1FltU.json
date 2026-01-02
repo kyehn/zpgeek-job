@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100916,
     "isShield": 0,
-    "itemId": 68,
+    "itemId": 79,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,14 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6Im1NG24bkX.search.68",
+    "lid": "1r8UbcWHXA9.search.79",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K",
-    "securityId": "e6zXm2uaZN0Mm-C1r4H3ldWdcSbAecZ6cDAq-edEmr-enZv7XJ8LZodU89V82d6ryXC554c80-71YKPcm4Cb-z8inmF13qwJtk7u-pqkZYoRt0iSSergmiL4SeVNgkwPLUmM2fNJC8hIxw~~",
+    "securityId": "tsUIvM7rVE155-w1PlnuEuEWHD0BLab1UblWY9OvLYTaMvBegtq5xOfjmmaOvI7e5GCssWckGU5AciFuCxHot8U0xrnnfXmqtWlGZxKk1orD3E1yxId6m7QD8SIjMJrcUnOXfdLujPqNSw~~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "性能测试",
+        "计算机相关专业"
+    ],
     "welfareList": []
 }
