@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 20,
+    "itemId": 65,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5vONxaAupvt.search.20",
+    "lid": "1R1BlrmMz8e.search.65",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K·14薪",
-    "securityId": "grLZjSDk3vWix-C1N3DXwi0l07la2kY6BZY4qVOqjhUeNJF-OBOxNGs-L4XV6XPTSKicPE7dHxUAqKlod0-oZIzwVwxbS6v46ziye7vrBhmoFkzphz979lXvue121J2LHoE5zE-7ceQ~",
+    "securityId": "njVPRlyykK99O-L1u9MM5FRSQkFxnCu1K_OTrhuxeUAfvS_7UZaHXEpmqjngTx9rf03Ir_K65CFsxcxaJldbzyEngA9uOZEAzA17mlVItBCnDu72TemQYcr5J6TjEckE_2mWsIBGaAY~",
     "showTopPosition": false,
     "skills": [
         "运维开发/DevOps",
+        "运维开发经验",
         "计算机相关专业",
-        "运维经验",
-        "运维开发经验"
+        "运维经验"
     ],
     "welfareList": [
         "股票期权",

@@ -14,7 +14,7 @@
     "brandName": "竟策",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "徐汇滨江",
+    "businessDistrict": "龙华",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.165012,
-        "longitude": 121.457537
+        "latitude": 31.181114303614766,
+        "longitude": 121.45593715517353
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 45,
+    "itemId": 48,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,23 +43,23 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gX2reoU62X.search.45",
+    "lid": "1RkIa9ffKO4.search.48",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·16薪",
-    "securityId": "xUXdIdMaVYuwD-s1t_-wC8l7Fu10-5yzNuboN3xci1nMcW5QFOy1GeivLankcPjeONgo5tychPmYFhBj1k5RVBdVnZQ3LBbYslT2dZXEzFB9IsL_hg1MUVCO601qhQjh3xZKYGZ3R2KwVkw~",
+    "securityId": "oU3Q_XQOkVTco-a1xrhbmSU5tCLkeCWrxujB0r5HGeMfcEaCa7B47nCHpY1ZeT0khkHH4INCd8zk5tfGuNl1nXi5lgBk8cRmCaBEqt7cw9okp22MCBz0dIh_Hz2RBpOQmzeriL8m-28jsYw~",
     "showTopPosition": false,
     "skills": [
-        "Python",
-        "Flask",
         "Nginx",
-        "PostgreSQL",
-        "MongoDB",
-        "Redis",
         "Hive",
-        "Spark"
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "Spark",
+        "Python",
+        "Flask"
     ],
     "welfareList": [
         "带薪年假",

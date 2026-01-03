@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250206/607f1f3d68754fd0f79e2b89431785455eb60bcad45609520b0928ab6976c6e614d15493780e5370_s.png.webp",
+    "bossCert": 3,
+    "bossName": "杨金霞",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "电气机械/器材",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "上海翰翰智能科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "陆家嘴",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3774d72fa67134fc0X1729W-GFBU",
+    "encryptBrandId": "ded1b1657a3fc92d03V93N60GFY~",
+    "encryptJobId": "bf23f2f51e4cf7000nR82di1FVFU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.234619,
+        "longitude": 121.513895
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100908,
+    "isShield": 0,
+    "itemId": 8,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "Python",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1RkIa9ffKO4.search.8",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-14K",
+    "securityId": "TOAhjssKQhuUU-e1Ug2RtT6Nbbn_RFTgPizYrjSB-JrOVfYDQ8xbY_gEKFbgyoRf2YHBPWptGzZb5-Ytz-u5tdp3inwq36Si_G2verh57e3R4MZcvbMkupFLuc2ebk5moe5s_aOCPSP1YpM~",
+    "showTopPosition": false,
+    "skills": [
+        "Django",
+        "MySQL",
+        "Python"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ]
+}

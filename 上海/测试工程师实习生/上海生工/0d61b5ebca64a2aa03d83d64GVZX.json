@@ -7,13 +7,13 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180904/ff46e9a399c2d1417d2059b58d51f95c27432c7b81653732ba95c95552265840_s.jpg",
     "bossCert": 3,
     "bossName": "陆女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "生物/制药",
-    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180904/dff48451f1c199cf879cc156fc58e7aecfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250619/7bf6f160950405e940a6faf6aadcd80d94f9012b4092780b80afd2724bcce3bfc3a6a7842fac77dc.png.webp",
     "brandName": "上海生工",
     "brandScaleName": "1000-9999人",
-    "brandStageName": "已上市",
+    "brandStageName": "A轮",
     "businessDistrict": "车墩",
     "city": 101020100,
     "cityName": "上海",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100401,
     "isShield": 0,
-    "itemId": 63,
+    "itemId": 28,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5vKUuXYm0m4.search.63",
+    "lid": "1RhCqMLHIgC.search.28",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "jmSaByDmMWNUe-A1jK6iI9TpxSZqk9XgWCKM7W0qB_XyUHsPWLUP--sNy68CQekQGt30JHAv2jDgQ678uBwQ2529r3Pohf0rCgVXu-S4LopxmvefxPA8Mh0zANBL3Ld4ZS4h3BVnmY6Dq5oUwffdh-2r6v-cJM5qXB5ZCS2ipinvg09d",
+    "securityId": "GtdXN0fs8qCnk-j1CNkJyY1Z32ZBy5uRmHtPn2aPa_oZKOY_A9NnAwEEJwGWeBpSpCSVnyjtiFfBe9VwGbVH9pByQ2yRmSOd2hyhsMq_4deMlBlAEAYOwjlk19uoWoi8QUpf27REkJZb",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -59,9 +59,8 @@
         "Python"
     ],
     "welfareList": [
-        "定期体检",
-        "五险一金",
         "餐补",
-        "带薪年假"
+        "带薪年假",
+        "五险一金"
     ]
 }

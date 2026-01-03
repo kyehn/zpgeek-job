@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250410/607f1f3d68754fd06d9b62b35009922922a363d89ca933bb4c456975cba36d77d0d7315d5cec874a_s.png.webp",
+    "bossCert": 3,
+    "bossName": "胡女士",
+    "bossOnline": false,
+    "bossTitle": "HRBP",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240221/7bf6f160950405e92cc98006676693cd17a2c801e7d9c4200b0e824f987c19804497672f64efaad9.png.webp",
+    "brandName": "敬博",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "康桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f82195717d51f5cd0nJ53NS6EQ~~",
+    "encryptBrandId": "6d1733c70cfd274c1n1_0tq7EVI~",
+    "encryptJobId": "c38f81dea3c75f08031939q0FFNX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.126183,
+        "longitude": 121.538131
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 25,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "初级python工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1RkIa9ffKO4.search.25",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "hsF6r5PfTwGrg-J1NCQlUX9TdQUtFQR3_TkU_liDyISUvFn8yQXSjzG4aBhgyc6sRTW699Dj7D4zJqP-uVLVnItE6Tf5DzM8OpvVdsiEkUSRYgat0XyVI9mbmfmMpA_UKDVDxAlhNgog",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

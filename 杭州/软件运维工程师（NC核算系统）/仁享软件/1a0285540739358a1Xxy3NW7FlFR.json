@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
     "bossCert": 3,
     "bossName": "余女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事行政经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210721/4dbd6f7cd84a38622919d9ce7cece71ccc6bd3922860acb6cef6e7b346ddd07d.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "72e8c391650653241HR53tq4FFU~",
     "encryptBrandId": "92eb41eb03dc6f491Xd429W_FA~~",
     "encryptJobId": "1a0285540739358a1Xxy3NW7FlFR",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.337171,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 3,
+    "itemId": 13,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1er4UVtEzJK.search.3",
+    "lid": "1RbZOxuWonm.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "lc8VKHaBRfOTa-F1bSxulrZ6ZUgkexkZsIrS3g2im_mo8ui95AHuY7ZpCvPSuTKAAFU8a8i62a3uEGG6UFXFAF8rK-0uv8Jr40DprLge9Innd5HUB5GiCYrIMAbb5imaXrSCOCLFQVRHPh3mO3nw-rzpUdfCPOM_9MjPX0u8zzRq_dSB",
+    "securityId": "6KrtdVOEpx_Ws-719ziSFx2Vd9dwShUqLyhMGH8XMT_RCmRoNIOB3xH9K3KaX9PVf4KQzEamdZT_L6j71KmdqiwVSWDz4vsbNBiEBYSCRGBwh8Vk4Bh6IOUd3MgMHosDg9eaJ17bpSs5",
     "showTopPosition": false,
     "skills": [
         "MySQL/Oracle"

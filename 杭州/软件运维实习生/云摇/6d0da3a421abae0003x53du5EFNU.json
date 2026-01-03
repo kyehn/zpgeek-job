@@ -6,8 +6,8 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230427/607f1f3d68754fd0ca392415e7a699ce2851c7b95168270500d1946cda85ec15939f9e8a5855f253_s.png",
     "bossCert": 3,
-    "bossName": "俞佳敏",
-    "bossOnline": true,
+    "bossName": "俞女士",
+    "bossOnline": false,
     "bossTitle": "人事助理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240403/7bf6f160950405e9eec9072964ab8564f18ac9cb956ac68ce375c9b62ace6c250c040dd9d9b6e11c.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 3,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,17 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5tMt98QSevQ.search.2",
+    "lid": "1Rdi7p5beml.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "NUVpn3dh4FIHD-21ztUU_3IH9b_VHV9U7VFtmyC4M08eY_MuDw9iKoIxCXgJ66kS6OtW8aCfhWgjZNZ195inSjWjzH_CkOpBYOQpxOFKgqoatUNgdFWJMh_VgiUBJ7XAcKzuQx17jYEYo6DQGCSjqDdP2DqrRNx-4Ew_ueGMYA86YMqAqDg~",
+    "securityId": "088HJciAXdQbS-B1HgA-FpCNweVb9y83H6aReZXRDVHXhGf4Z-TR-LSxKgvCPwF2oHaShDUP4U1djRzBMlwOGnK9a3wNqFEJp5Ujzy661jJwa61zoj-ekuy4g9aScGNn1WqqzsMIwSQUmiU~",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [
+        "五险一金",
+        "生日福利",
+        "股票期权",
+        "定期体检",
         "带薪年假",
-        "五险一金"
+        "节日福利"
     ]
 }

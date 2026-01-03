@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "闵行区",
+    "areaDistrict": "浦东新区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
@@ -14,7 +14,7 @@
     "brandName": "韬湉科技",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "莘庄",
+    "businessDistrict": "临港",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.12338960263803,
-        "longitude": 121.3650664981327
+        "latitude": 30.94385651404757,
+        "longitude": 121.9154863954989
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100608,
     "isShield": 0,
-    "itemId": 3,
+    "itemId": 31,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "99YAJJmG9X4.search.3",
+    "lid": "1RgvwfgqeCL.search.31",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-11K",
-    "securityId": "SVJlmWKEV6z9U-019ozLOgO-QiLmPZVO-VYXVaFVyEM22q1MWrYEccq75H-Zv-eYLa-KzwqJQxUqFs3A5NWgGk5C2CgNqf_a0js0Lx04KWVyXWXri3pX4mYsMk8qtlq1Up1lcTBT1ZbT1zY~",
+    "securityId": "6mQCDuPMucEvT-O1EgF1MU7lup5tPl7eCChCybNXmWrmxQCaGjafnaaooGkipgR4ej-OLz1O_C1CIfse3E5wXv5UAGQ8wJs4USDZQ7sFNa4NX5rG26p-uMGroTtxz73n0Q4SHjNXK0oSFeM~",
     "showTopPosition": false,
     "skills": [
         "性能测试",

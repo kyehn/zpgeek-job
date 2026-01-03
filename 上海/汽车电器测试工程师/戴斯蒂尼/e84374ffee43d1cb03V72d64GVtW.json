@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "郦先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "行政人事",
     "brandIndustry": "汽车零部件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220919/7bf6f160950405e9913f1a09db5c48be23b9b17af8d7cacc51a1954461c7eb4ab8d3f9376a818dfe.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100802,
     "isShield": 0,
-    "itemId": 28,
+    "itemId": 62,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gVk5qwxSGN.search.28",
+    "lid": "1RizgBk8bg7.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "m4PnaWwbloTfG-M12xXK8O1gN4_1w-EX0oVNF8VnYuyTKtx3fXVFjOAg2kjcI3aeNEXiyUyScPyMJYURVekIvN1C1naeYYWHgMiTmwQ8RcSgyKgFCFQGQgSxi3nkhjSqzL4UJ_3GA0rlBLGK_UqglWfxBLYHga3IioNYF0EzR8Rhlu-2IF8~",
+    "securityId": "ernpMprtBbImE-M18wP2jGIz_Pwy3OGCiQ0f4okqyHZpOnsC3tzeCqGVquSpDqRReWCJtPmGOOHq80tc3Fnf8PEcL9c57qAfSEp5xXVavUEWg8DVuvRHTbUfunJb-dpsOTgLLp829X_GXwo~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
     "bossName": "黄翠萍",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事专员",
     "brandIndustry": "通信/网络设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190322/5cf7fae1a4304c5295cec9dfa12ba2b6a4bfe42ae0379ad153cdfd6c4673b796_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 89,
+    "itemId": 41,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gVk5qwxSGN.search.89",
+    "lid": "1RizgBk8bg7.search.41",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "y9rvqkzK4h5cV-J16tPEQtp7YVyqMDOmvp5BRVJNEtZxD6ARFgnb6ADAU86d2q8-bY-BT6Om2yGltPf5cvJuL6SsCUzVSExxU3Wug_KPSBK1ZFXzUUO0l6LWuqo15wn-NAeajwep83pkHAr2Ym66Nr7kfrjmHTMFxYpR3NiJOuNq-zHY",
+    "securityId": "FhiFMFShD290r-R1PKU-U-M2KuSGuBclhqZUAgp-IllA0eq4APUUERqwbiSnFNW1lRWH_DeI7dp8jLVk0nxJkOEwvbwXny0FU78VwLclhX-oqtODfKbcrqdzx3eepkhJ3c-cWs101WrD",
     "showTopPosition": false,
     "skills": [
         "camera测试"

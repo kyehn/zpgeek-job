@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 56,
+    "itemId": 32,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gPZ4IT8bE1.search.56",
+    "lid": "1RbZOxuWonm.search.32",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "12JaLzA2TjrL8-01SkvY0hZNvbV1_oSfsxQShn9poy15VlITzdRwf2tv1jOm8g6JxUo5tpRw3ueGKQ1PwADwyKGgTTUuNnrSLcVJCrvVnJBwQQXgM51K6Wh2103E6JObXBVlrvIA3lSkyg~~",
+    "securityId": "VChufh3TYLwMM-413I0APtKG4XVpV295A7JhAMgHPrPEefpll-e2k3GGMpnuLwqzVq1f-PA5ZoiKy_E9Z7WLpkB6enmp_d9ORB2XPwuMTndBRBUxqXfV4R8gX4efp1x1bWda4QxX1GqozQ~~",
     "showTopPosition": false,
     "skills": [
-        "MySQL/Oracle",
-        "服务器虚拟化"
+        "MySQL/Oracle"
     ],
     "welfareList": [
-        "补充医疗保险",
-        "五险一金",
-        "零食下午茶"
+        "年终奖",
+        "零食下午茶",
+        "节日福利",
+        "员工旅游",
+        "意外险",
+        "五险一金"
     ]
 }

@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "99WBtXWhMtY.search.2",
+    "lid": "1RjvIhBLf5h.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "5WlEY6Ii1dtRG-o1j6a4UELQyCtsG9klN1c70iCVU9UkoHgBHDYvqGM43XtCvC-ffVqfKIUw5Zfri58ajYdV14769cDBliBJV9XcF9S207kdvi1AnX_oNCh_gm2PDXoDT-bnXx7CgQaA",
+    "securityId": "PHdTzhwyN1UGv-i1rO95RNbEDvlKHtOqLmvaF8E0LstFaRGprn5pkViz-dSBWapx6oNHuLXdhYXEZ-zFJzxiXAEfj7Hp0iBRPWVgnZCdvfWXX6Udr_jUT4sDn0ujxmSvMyrvobRrl1MA",
     "showTopPosition": false,
     "skills": [
         "Golang",
@@ -62,14 +62,25 @@
         "Python"
     ],
     "welfareList": [
-        "团建聚餐",
+        "节假日加班费",
+        "节日福利",
+        "加班补助",
+        "定期体检",
+        "员工旅游",
         "绩效奖金",
+        "带薪年假",
         "五险一金",
+        "夜班补助",
+        "保底工资",
+        "意外险",
+        "工龄奖",
+        "团建聚餐",
         "生日福利",
         "零食下午茶",
         "年终奖",
-        "节日福利",
-        "定期体检",
-        "带薪年假"
+        "企业年金",
+        "股票期权",
+        "底薪加提成",
+        "补充医疗保险"
     ]
 }

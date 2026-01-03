@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "历城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "项目经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250813/7b5b554d84f9729c6aed717a8ac81f79349afecd5e82dd7b02ab4074803a0ec73d154805737086a0.png.webp",
+    "brandName": "开元云",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "经十东路",
+    "city": 101120100,
+    "cityName": "济南",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1c2dda05d301346e0XN43920FlJZ",
+    "encryptBrandId": "3c3d232a0c9e4d641XV93d--F1c~",
+    "encryptJobId": "c8f8d88fc722b9f5031z09y4F1ZQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.676692,
+        "longitude": 117.225681
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 67,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "golang开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1R1BlrmMz8e.search.67",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K",
+    "securityId": "CbF7VXssXTIjW-Y1mhzjt96xh42RXEl_vmFBW1Qt8H9nNLRDWKahRlmfCvjZXl9EGyFtRwu867Rgyjl717HltJcEAXVQsKLL729I-ROKR60iZb15xOYRbPPbW4fIdhvN3y0Lua88YcqFDAM~",
+    "showTopPosition": false,
+    "skills": [
+        "Golang"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

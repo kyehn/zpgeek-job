@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 38,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6IiITLj9p5C.search.74",
+    "lid": "1NOcPgakIzP.search.38",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "dcl0hcQy3O2CU-N1ePPbjHFUCAfeFC4EQ1w7jRRVNo_p5vuVTSWABro5fc8qnpo-miGI3JAnzjVvuSfi_X6nOrKlUrLo1Q36zDbZpQSgsJDU6s5XEPrp1yPrGwXkBrbpcJgCedk0X8PpeMk~",
+    "securityId": "YJZUIZTTxbwEi-l1rZWCCcOoJ4o8BUZ2SlcEwpgM8_YdicYrwjElREX32iPDkD9fhJajzo3h6ZQS3ESkhdF15prqdP-MIE7_axQeSTAPsp6TV2SVqbOlXBWRJoE53XeZgnRcBpg8WsPGQhM~",
     "showTopPosition": false,
     "skills": [
         "后端EDA工具",
@@ -58,18 +58,19 @@
         "Python"
     ],
     "welfareList": [
-        "宿舍有空调",
-        "员工旅游",
-        "定期体检",
-        "加班补助",
-        "团建聚餐",
-        "保底工资",
-        "餐补",
-        "零食下午茶",
-        "法定节假日三薪",
         "五险一金",
+        "加班补助",
+        "零食下午茶",
+        "团建聚餐",
+        "交通补助",
         "节日福利",
+        "法定节假日三薪",
+        "节假日加班费",
         "底薪加提成",
-        "生日福利"
+        "生日福利",
+        "定期体检",
+        "保底工资",
+        "绩效奖金",
+        "员工旅游"
     ]
 }

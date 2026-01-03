@@ -32,31 +32,31 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 35,
-    "jobDegree": "本科",
+    "itemId": 83,
+    "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
         "1-3年",
-        "本科"
+        "大专"
     ],
     "jobName": "测试工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8bS9vr7NbOX.search.35",
+    "lid": "1RgvwfgqeCL.search.83",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-9K",
-    "securityId": "5vXWURhRl0uTy-_1t1AD941p_AxNvg2ClB6Sy_L_WrSZ5Wf3uKXzcNLTngAX7HEkp8VbikZCu3KGSDZknvQVN_98yL2BLxfgssk7vZ8LLvJs9O_LFjQjGX8lunGiljiSyyJz6rDXlA38",
+    "salaryDesc": "7-12K",
+    "securityId": "W5C0ILuQ1nxzE-K1DlyqWpS2U7QFOsNzWkyaO_J_9msXwWNKev2WMc4FbJE4TSeIlhCbeetuferoGqfp8fcOSsGLtaQa50KOpvwmWm83NOTC2qRHP44KYhYOUbCNiYL7dzXD26n0gUlp",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
-        "自动化测试",
-        "Python",
-        "测试工作经验",
-        "蓝牙"
+        "闻泰",
+        "蓝牙",
+        "华勤",
+        "WIFI",
+        "龙旗"
     ],
     "welfareList": [
         "五险一金"

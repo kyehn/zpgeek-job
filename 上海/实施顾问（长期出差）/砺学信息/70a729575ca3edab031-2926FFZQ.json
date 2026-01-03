@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "徐汇区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210830/607f1f3d68754fd0daf700037a3960c965ba0550193de7ac61ea60e28486958df4c3ff9a1048f521_s.jpg",
+    "bossCert": 3,
+    "bossName": "吴晖",
+    "bossOnline": false,
+    "bossTitle": "人事主管",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190812/c8a7686e8ce7279b07b458419efaf2643622179ae444a749927d9266a5eb4ed1_s.jpg",
+    "brandName": "砺学信息",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "漕河泾",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a28d40d7a7315eb01nR-2Ny_E1ZU",
+    "encryptBrandId": "4d8dec221eba56990nB839i8",
+    "encryptJobId": "70a729575ca3edab031-2926FFZQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.170538,
+        "longitude": 121.410887
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 51,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "实施顾问（长期出差）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1Reo0d3VHOn.search.51",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-11K",
+    "securityId": "PScpHQGJR8Era-p15SLlKFvMF06xbRUWKTs6BDsa7mqykUEDVLOP6gWTZb_PVL4RGjlg9YNf9lW-Qi3DLiHBOXLmQJZtBm-dmUNzuzkusp9ESBY_TU89I5XLvZcgfNjo59lZTviGclZs",
+    "showTopPosition": false,
+    "skills": [
+        "ERP",
+        "可适应出差"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金",
+        "补充医疗保险"
+    ]
+}

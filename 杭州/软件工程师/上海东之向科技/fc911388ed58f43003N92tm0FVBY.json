@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250911/607f1f3d68754fd0419c071a61368784ec7d1da5f2ec3d8f081733bc06683a88b93cb2b994f702af_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "袁子意",
+    "bossOnline": true,
+    "bossTitle": "招聘者",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250910/7bf6f160950405e96f29677016f5ba64c18a44574556ce436fff0d7278d7a0f32dc73314f92390e6.png.webp",
+    "brandName": "上海东之向科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "西溪",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9bea1ca9010d87f70X153967FlpT",
+    "encryptBrandId": "4ac1c607dcc83a8e03dy39u_E1E~",
+    "encryptJobId": "fc911388ed58f43003N92tm0FVBY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.27293687435535,
+        "longitude": 120.12560991532771
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 60,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1RbZOxuWonm.search.60",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "XoCVk8n0uRZUo-b1fhPpyBhGVO_BnLQbhh6UPd_HJB83SIeJTEQsYB5X91Ad5uX-H9G7uBeOYg9HMRCNBlCWXLwpw1rP7z_1xM8ePAlHUoXtGbSvRwBAO1H6Io-DoBQ9iIzIq7nCA7Y1md5AwQYLBdJWM7x5y0P7TK74YKb2KfJxFrQdjKQ~",
+    "showTopPosition": false,
+    "skills": [
+        "不接受居家办公"
+    ],
+    "welfareList": [
+        "五险一金",
+        "意外险",
+        "定期体检",
+        "补充医疗保险"
+    ]
+}

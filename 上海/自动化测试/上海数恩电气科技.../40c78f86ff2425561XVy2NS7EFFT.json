@@ -9,11 +9,11 @@
     "bossName": "俞晓华",
     "bossOnline": false,
     "bossTitle": "人事行政经理",
-    "brandIndustry": "新能源",
-    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandIndustry": "其他新能源",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20251118/7bf6f160950405e9ecf015166c5123f3034a2f25e58c8a0bc6634ca281c15c462dfa2afabb089182.png.webp",
     "brandName": "上海数恩电气科技...",
     "brandScaleName": "20-99人",
-    "brandStageName": "",
+    "brandStageName": "未融资",
     "businessDistrict": "小昆山",
     "city": 101020100,
     "cityName": "上海",
@@ -30,9 +30,9 @@
     },
     "iconFlagList": [],
     "iconWord": "",
-    "industry": 101206,
+    "industry": 101212,
     "isShield": 0,
-    "itemId": 12,
+    "itemId": 37,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "99XVwuK9l1z.search.12",
+    "lid": "1RjvIhBLf5h.search.37",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "mY2rjjZkUNXuZ-11Ffx6GmjzBccILXCYLZred-cCA1_aa78SsVtT88iqfRJy7DfRePqpuKSvmN3Ns5vK3jVDTbVu1gr1fNdIOTo3fFcIt6-jA90akvRuDzWyTsa8TJsmO-D3CLVBlWT5MCg~",
+    "securityId": "L1XfGEQcvyzYl-v1hHlb0_hzV9yQcWurPM0K4t9GfzeeVdyK9_aTzlnROhet8xaNSUVv5s_5eCCHK0b1K6MS-dlgMM_h_ZARGNELkp4o04-lwKL14Kvj71_P62i9A2EMFzKd0bS-wAo8p3I~",
     "showTopPosition": false,
     "skills": [
         "自动化测试",
         "整机测试",
         "变频器"
     ],
-    "welfareList": []
+    "welfareList": [
+        "全勤奖",
+        "节假日加班费",
+        "加班补助",
+        "五险一金"
+    ]
 }

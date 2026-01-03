@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 48,
+    "itemId": 88,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gI2FyQLb1M.search.48",
+    "lid": "1UREGO0HTIS.search.88",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "3hKjkygzTyhck-g1z5e2mifWME_aNhIkSf687AC0bRSCp6KPmfy9w80ImQcQEPEpprx-8s3aqP8aA7JvcOn1_4cjf43pIQFJpEHvT-zDlD0JbTLabw801qL3JTSTKsrjHkPyw_ra5q158w~~",
+    "securityId": "sgEyWiKqq7ZMr-P1GQhZ2Dp5VuLiu-Q3a0vBejc_v8-87nfTi_pZo9LPR1qepM4SObEhqDc06hFyoj9_R3pKJp7cLZIfnec6e6d08Meb-9PWD4Tgxt_-UEvdq6c9kMB1BQJBaFWyS2dUBw~~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维",
@@ -62,16 +62,12 @@
         "运维经验"
     ],
     "welfareList": [
+        "零食下午茶",
         "节日福利",
-        "股票期权",
-        "年终奖",
-        "补充医疗保险",
-        "生日福利",
         "五险一金",
-        "每年两次调薪",
         "员工旅游",
-        "带薪年假",
-        "定期体检",
-        "零食下午茶"
+        "周末双休",
+        "年终奖",
+        "五险一金"
     ]
 }

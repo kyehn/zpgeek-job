@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
     "bossCert": 3,
     "bossName": "任先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人力行政总监",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220730/7bf6f160950405e94da215e3562ad5accdb20054014edb2a06eb8d19b9534faf7a5cee1bee03791c.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 15,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "rZOwIFRiCe.search.13",
+    "lid": "1V7WIkoCfKl.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "79ZRj7pGxJ63c-X1zOc69Xfb6vrtriF5aLUUynNzzqIwjveC3qBkbGoyyqFoBccu_ErN7_C1NX6W9m8bvbFIG2qwFxEpPQ9Ws_fFzEy5PiZo01HEFw~~",
+    "securityId": "RD6hmOnhutYYQ-W1TT3tGrEIHasHhSUOEAgTNV7ex82X8kVjPor2dadL6h9LbuFB7ef_Cr3Nmt97MZv4kDveiU0PiyytmC4qDExZ4ya7vIF6PtRxGq5tHsLqXGACw65bulcnCdkE9uFiBqKwvNAgAw~~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业",
-        "可适应出差",
-        "接受实习/在校生投递"
+        "可适应出差"
     ],
     "welfareList": [
         "带薪年假",

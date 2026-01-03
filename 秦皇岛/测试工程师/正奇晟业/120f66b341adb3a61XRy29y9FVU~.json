@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 44,
+    "itemId": 48,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4ocuXknWq6K.search.44",
+    "lid": "1ULvB856OV3.search.48",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "leDA7MAcA7Lu5-g1nnKeLJ4UEvmLN8LbSP5qDjuiGCHT6dz-iZAarZcipj3DmfmcQf46F4ooEh_MXjq05Y9qpMDoYiLSOOCPowcTb0lIgpv2OvNeaCXMHol6FyYZ7V2pUqSYKSq1_g~~",
+    "securityId": "gf8dLi3HvOWWP-g1SmfaMzrA5U-dJ5G5QyJac0cP7ANICtNue-EJe3Hik9pzMPa6GTW7t1OYcIae-KcGH9ATRH6SYxm_wRipukSdNSgioclNbqdKS9ublk6-R_0X_hYgfFAF3lAtKg~~",
     "showTopPosition": false,
     "skills": [
         "web测试",
@@ -62,8 +62,16 @@
         "小程序测试"
     ],
     "welfareList": [
+        "绩效奖金",
+        "年终奖",
+        "底薪加提成",
         "节日福利",
+        "员工旅游",
         "带薪年假",
-        "员工旅游"
+        "补充医疗保险",
+        "保底工资",
+        "五险一金",
+        "团建聚餐",
+        "意外险"
     ]
 }

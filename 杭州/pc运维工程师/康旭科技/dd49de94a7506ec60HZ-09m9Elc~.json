@@ -22,7 +22,7 @@
     "encryptBossId": "899b4676fba21e2333R52ty-Flc~",
     "encryptBrandId": "4d3f7647ce40be0f1n1-2du0GA~~",
     "encryptJobId": "dd49de94a7506ec60HZ-09m9Elc~",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.281736,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 61,
+    "itemId": 85,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1D552Asar0f.search.61",
+    "lid": "1Rdi7p5beml.search.85",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K·13薪",
-    "securityId": "rY-Jhf0irVxGM-r1Tm5zdPNRkMxEPpZvq-KjszLCj6NT4pu2h8nt_fxv83IO9fTixaoPYxZplfDY5gJ5TgRR-NMliTKXOVGi4aZ1P0JvH6Z3C9vYGdZTUOl_Y5VHnaXO5czFj51deO8~",
+    "securityId": "L3PCY4OU3gcSZ-Q16zojpUQI5CTd-uur5lQhdtpy2rY3JnJBhxPM47vYEIcQ8hSbXcuLa4RJdwFTnVYJuMulK7z7UEN4WoEefd8h4HdtnHZj-Hmf7aqfe2F9W6Ytoh5j2kFve2PjNFM~",
     "showTopPosition": false,
     "skills": [
         "计算机软件",
@@ -77,6 +77,6 @@
         "纪念日关怀",
         "补充医疗保险",
         "商业保险",
-        "零食下午茶"
+        "包吃"
     ]
 }

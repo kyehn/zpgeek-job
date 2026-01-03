@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "嘉定区",
+    "areaDistrict": "浦东新区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220226/607f1f3d68754fd083f8e5fece2dacadaa3eb7f2c2aca8b940d3c4dbabf473d145601b91a3e63ac4_s.jpg",
@@ -14,7 +14,7 @@
     "brandName": "华依",
     "brandScaleName": "500-999人",
     "brandStageName": "已上市",
-    "businessDistrict": "嘉定镇",
+    "businessDistrict": "川沙",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.414123,
-        "longitude": 121.208902
+        "latitude": 31.157059,
+        "longitude": 121.712075
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100801,
     "isShield": 0,
-    "itemId": 23,
+    "itemId": 25,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "99YAJJmG9X4.search.23",
+    "lid": "1RizgBk8bg7.search.25",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "9-14K·13薪",
-    "securityId": "eubcyUMzfhRau-M18pBHLJH8a3kcs7S7e9c1nrTduNMzsS2nLxldWs9LVFyCNx4q6rD8AsDD0dHoBScwSxUx3Jf3mZwhUi8sVPJkc0VRoCU8U6d2G-ENT2kNy_bICQdR63JRBORHh6K5Dg~~",
+    "salaryDesc": "8-11K·13薪",
+    "securityId": "T8KWRgeMNemLr-219qq1Jgk1cDE2XSC_zKifDMh74CwNL3GyQmIs_mnFO4_XtGNCnBteFTfhFJX97bx9rHAE7vIXGOYEjJ5hMUq432dmb-0Ay8ZQiaTyRPIAbdlV_np7MSLTbPpJkDn7nQ~~",
     "showTopPosition": false,
     "skills": [
         "自动化测试",

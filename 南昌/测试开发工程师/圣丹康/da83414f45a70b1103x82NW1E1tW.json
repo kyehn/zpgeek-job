@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100403,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 55,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,14 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7IUtUAbYnCG.search.35",
+    "lid": "1UME1bB7yZI.search.55",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K·13薪",
-    "securityId": "qUpuV4N3iVAzJ-W1bRHLuTX9zwRg7ebti4f0UyeJHQ6JgFbjI5JTRMx5Ayke6ydyYPQwDsItKhMa0MgkIpoF--yASFpjgo6qArWM1hnfmI-g7xZ1M5aSE253-z40-cVPKBuyzKy58GfwZQ~~",
+    "securityId": "BzZWqgZFp6m6J-c19k6euNZ28WpfrwaeZSxYoU9yonorf9emB0mzc9aP3jxXLS0uCeqjt5ce2OgrLQT-DVP_M-uaoR4c0T_Evs11WCZMjJXkQajdSLoiCMeBVUZcs46jcFG8BeRGan0MNA~~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "自动化测试经验",
+        "测试工作经验",
+        "通信相关专业",
+        "性能测试",
+        "功能测试",
+        "计算机相关专业"
+    ],
     "welfareList": []
 }

@@ -4,7 +4,7 @@
     "areaDistrict": "浦东新区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230825/607f1f3d68754fd0e801ef35d56adcbb9d037314c22c5a813c7446608d752fd3cadaa60a2d407bde_s.jpg.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20251208/607f1f3d68754fd076016845df66395a9611fd5df1e4d8743c7446608d752fd3cadaa60a2d407bde_s.jpg.webp",
     "bossCert": 3,
     "bossName": "王女士",
     "bossOnline": false,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 67,
+    "itemId": 33,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "99XVwuK9l1z.search.67",
+    "lid": "1RhCqMLHIgC.search.33",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "1RXYyypH1sum2-M1V3GP0wk_L-K5clHwDsAlz8RXSJZEnwI3Z_VD-MJ4D9Dfy-4hZAlbMz_1stIeqVzhtfEcQnrABwnYwn3aza6OgDGzRwi2NMqtzM-WNOYBozWWM6nFH0zMwOCCV6voleU~",
+    "securityId": "wwn4neDn4CtmL-_1aGwwQuuP3Hxn7-WZXAzbNzUR8Rsb0Emzq_OuGolfmj7d5tg_G_sBJMeVq5jmhE2RjXnxgBmL8j98tlLM32jctuI-F_AQkADMgqF2DvRS6RWm1ARt2v7jEW_oe1a5bXM~",
     "showTopPosition": false,
     "skills": [
         "游戏测试经验"
     ],
     "welfareList": [
         "五险一金",
+        "节日福利",
         "带薪年假"
     ]
 }

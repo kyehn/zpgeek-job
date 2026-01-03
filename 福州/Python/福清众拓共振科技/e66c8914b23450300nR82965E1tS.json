@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "台江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "刘欢欢",
+    "bossOnline": false,
+    "bossTitle": "总经理",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "福清众拓共振科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "工业路",
+    "city": 101230100,
+    "cityName": "福州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6243890ba0700c2f0Hdy3du-F1VR",
+    "encryptBrandId": "c8f39bfb8fc5942003F_3di9FlA~",
+    "encryptJobId": "e66c8914b23450300nR82965E1tS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 26.061363,
+        "longitude": 119.277962
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 83,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "Python",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1NOcPgakIzP.search.83",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-11K",
+    "securityId": "Fiof-d32yZjEB-b1hG3Sw1Vf-kJzOvGO_7QNwk50nZPzGq-uSdj8B-NyLYOGd-b9RdpdWrrn553VzXpDMF3mPOO0dSi7mHgkE5SqRqiZUSbx3uTyqg-Vjv7jJ1YxzimogOq7hEbzI0Zcy2Q~",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "C++"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

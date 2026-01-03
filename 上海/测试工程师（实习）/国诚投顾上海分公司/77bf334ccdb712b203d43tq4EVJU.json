@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "浦东新区",
+    "areaDistrict": "",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250518/607f1f3d68754fd0002d4da7680c6a0567c154dff77d4c5e6ea5a05ac288a8e096556fe90f5676ff_s.jpg.webp",
@@ -14,7 +14,7 @@
     "brandName": "国诚投顾上海分公司",
     "brandScaleName": "500-999人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "洋泾",
+    "businessDistrict": "",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.248547,
-        "longitude": 121.543809
+        "latitude": 31.24894841710933,
+        "longitude": 121.54447587491437
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100203,
     "isShield": 0,
-    "itemId": 79,
+    "itemId": 46,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,24 +43,24 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9a2ICSy2ihp.search.79",
+    "lid": "1RgvwfgqeCL.search.46",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K",
-    "securityId": "fOFru8zOCc11w-w1aNwSzh-bOc7LvU0tp_UzqW1Fezftmou9LmGNy0Z7odTXwTbRTe1eR29j3oN4XrfP3pH6odo4hjMf_aMla1QnTUY6_n2PKHtBEshHPizW3S5mk1YOrn0d6XSaPxvh",
+    "securityId": "EPK3keacSguAn-V1M8owF9AvJ6-DD37SPbGbqx78Ov2gOa0CC6cjOK9YEsDte-xditWqfxAdoMikgra2WrTCNQDdUlATXcZI716FRpNFj7u4dOBpiH7nJO3qcWBBbc34J5yncDm-3Ooy",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
+        "自动化测试经验",
+        "Java",
+        "测试工作经验",
         "自动化测试",
         "压力测试",
-        "Java",
-        "JMeter",
+        "功能测试",
         "Selenium",
         "计算机相关专业",
-        "测试工作经验",
-        "自动化测试经验"
+        "JMeter"
     ],
     "welfareList": [
         "交通补助",

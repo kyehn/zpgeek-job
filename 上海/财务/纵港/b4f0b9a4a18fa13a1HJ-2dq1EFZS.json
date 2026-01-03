@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "",
+    "areaDistrict": "奉贤区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221022/607f1f3d68754fd033394a083607c0319c6f6c34cc0eb60567424cd2cc875af05386bd4216b1a294_s.png",
@@ -14,7 +14,7 @@
     "brandName": "纵港",
     "brandScaleName": "500-999人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "",
+    "businessDistrict": "庄行",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.072136,
-        "longitude": 121.355693
+        "latitude": 30.957927,
+        "longitude": 121.390795
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100504,
     "isShield": 0,
-    "itemId": 82,
+    "itemId": 75,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9SHQEVBSqGe.search.82",
+    "lid": "1RhCqMLHIgC.search.75",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "R337bIFRWNnZW-61WMbbm2JZo1IRP5DdSyC0-R6Ap1OLJRzcbwzzLY6sko8Tb8h5Yf09T-VpkcmfI8pDpbhJLTHtiSS0S2dvUsLeqjPA68jIC8l4jnXbmY4S4Pey29tJcDp2enuHXytU",
+    "securityId": "Z1HzSN7sEFiPG-21Pk8Mr3e1Vqno1ujUhDsIMAS-hNGmZIr-o3UNO2gJIdceLlR8sMSieJY70jkKvuGIiNtjHd7Wlgyji5HjGOozliBVpefwt4LUSG_HYSMvIcgV6pLGPzfr3tiR9_rJ",
     "showTopPosition": false,
     "skills": [
         "成本",

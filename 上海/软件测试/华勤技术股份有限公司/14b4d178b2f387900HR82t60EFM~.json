@@ -14,7 +14,7 @@
     "brandName": "华勤技术股份有限公司",
     "brandScaleName": "10000人以上",
     "brandStageName": "已上市",
-    "businessDistrict": "张江",
+    "businessDistrict": "北蔡",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -22,17 +22,17 @@
     "encryptBossId": "30e113aa0c7bfa003nx72dy6EVs~",
     "encryptBrandId": "94f82accc69184cf1nd729S-FVE~",
     "encryptJobId": "14b4d178b2f387900HR82t60EFM~",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.204899,
-        "longitude": 121.590161
+        "latitude": 31.173647,
+        "longitude": 121.576753
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 85,
+    "itemId": 50,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1eoZ0Sj45qF.search.85",
+    "lid": "1RgvwfgqeCL.search.50",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·15薪",
-    "securityId": "36XVmBD1Rqs84-611Bf7LHvvlny-KLGffP5wm7rTZ2ThWkG6qdF7-C7xNQlM-HAs--ESlsU-o40d1GSvRas6dQf_pm6QThOFW7Yg2L_Hu6JpOX2kACe8ESMt7uc2ggn6rVPiiWfOYMJ_",
+    "securityId": "jXsi7M1mSVoQW-q1IOFRjK9KY3Pko5zlL8jHkPD4vn9ujmjH-9Wa4oWqKzbnz5JJvvLjIHJR-KIOg0eIyhRPglQyIKl1wk3U3xXbM-AZyMHX9UC5KY5wQOITw6AKtkbdmNelKojRc6Zw",
     "showTopPosition": false,
     "skills": [
-        "测试工程师",
-        "软件测试"
+        "软件测试",
+        "测试工程师"
     ],
     "welfareList": [
         "股票期权",

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "静安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250402/607f1f3d68754fd018ab45d6504d61308bc3bb22f2c89d148854a77a3c1a91cdbe2d86b26870595b_s.png.webp",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250102/7bf6f160950405e949491aa0c856860994275257d7b71fa18854a77a3c1a91cdbe2d86b26870595b.png.webp",
+    "brandName": "掌信科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "西藏北路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "044eb37a9e5ef9bd0XB509-5GFNX",
+    "encryptBrandId": "1476cdda91ca74691n1z2ty5EVo~",
+    "encryptJobId": "20d1adb3da3b23d603x929S4E1tR",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.258583,
+        "longitude": 121.462385
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 54,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Python",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1RkIa9ffKO4.search.54",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-11K",
+    "securityId": "uRCqkI0fgfZlo-x1zbgUZ9vGLVU9FRUg5-QJnPV3JQwARWuS7tI1ltujEAoN6rCZ2-G-7tGZEJfh1qxaE746piJl5rPjaOB9F3KNiBiNtAFtqUY9ogHJ37tISG-NWOc5fuLxJmOXS7uf9LU~",
+    "showTopPosition": false,
+    "skills": [
+        "Django",
+        "MySQL",
+        "AI",
+        "Python"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

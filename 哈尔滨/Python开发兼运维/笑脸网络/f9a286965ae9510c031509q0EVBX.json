@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "南岗区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171127/d756368a958668477da7dae2675d0cc42513fd3f3a17bb692cab854241f8e13b_s.jpg",
+    "bossCert": 3,
+    "bossName": "孙海娇",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "笑脸网络",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "宣化街",
+    "city": 101050100,
+    "cityName": "哈尔滨",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "543acd7242ada15903N82dy1Fw~~",
+    "encryptBrandId": "9be1ec021ccf369b1HZz3tW-EVA~",
+    "encryptJobId": "f9a286965ae9510c031509q0EVBX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 45.755542,
+        "longitude": 126.647774
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 73,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "Python开发兼运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1UP6C91jIbG.search.73",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "0dphoepBldiMn-j1Gw4VkdcNgfMtXd4H3uRIrhm4XZg0qfkVB-02WJCW6250eqcSZBd6CxJ_k3PQrRLcM9JHQSpOewgpDaBCfhMO-vBOIzq_gpUicAOVTeF4Klegr1Fxm6htsuVhrgx-",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "Flask",
+        "MySQL"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ]
+}

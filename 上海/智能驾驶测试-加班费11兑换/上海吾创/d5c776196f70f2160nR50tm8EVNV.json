@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "嘉定区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250908/607f1f3d68754fd08a2edfff8f8119456a520b0c9a878a0bb96848c8efa9189906c4b19ee6a6b6ee_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "何女士",
+    "bossOnline": false,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190929/a8649e5f54b661874b1b6441c90a2b912933f948b518f38f4fbc4e6536e67432_s.jpg",
+    "brandName": "上海吾创",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "安亭",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6bb82318bd3df87c0HZ639W6GFNX",
+    "encryptBrandId": "958e66e432c8ff3e1nZ80tu9",
+    "encryptJobId": "d5c776196f70f2160nR50tm8EVNV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.282606,
+        "longitude": 121.169848
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 53,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "智能驾驶测试-加班费1:1兑换",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1RizgBk8bg7.search.53",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K",
+    "securityId": "z6gpHPVif4OJ9-71QOi20xvJTYFqjAPMpcnCnbPJgMyKFDH8oUC6gTM4yhDWwilsMHEtKlyDFEVpbCKIcjsfVaow4g4BduRl3Raf7rR0E-smxcZFH6L7_GpzYknuJCOIE4bBmh0MR-b5",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试",
+        "ADAS"
+    ],
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "餐补"
+    ]
+}

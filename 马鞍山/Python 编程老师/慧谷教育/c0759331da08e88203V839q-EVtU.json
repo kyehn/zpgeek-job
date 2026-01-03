@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
     "bossCert": 3,
     "bossName": "韩志新",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "在线教育",
     "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100012,
     "isShield": 0,
-    "itemId": 47,
+    "itemId": 42,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1sSoxzGL3Lh.search.47",
+    "lid": "1UQg6dieOIf.search.42",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "Y4OQ2TvEmkkcx-m17CIq5wBGpHOb4E5wVofqFqP0GIgLNhpWHRcp0VZdQ9hPAc-RhybubJ0RC1PWeLPSRBAPFg1cHC7vBWhAQQ9EBGujosXnrDxO4xxdWfMbn5e8INEZndIz_EfkTT4Q",
+    "securityId": "zZgLLPxjVPEPQ--1JGfyvSr5_RyREEu1p_8ed6vh0rOCmSEBpZVmLwQ01FhDNH4MY3z2B-sbzwQdlRBGdPwvtvfZFahkistCsj4XSc4scMpXTsurGwte3z21W7UKCotliRVB_1GI-MWl6ybJbC9_Ab3zN3VpJJvLqp9BNqFm64AGvUVh",
     "showTopPosition": false,
     "skills": [
         "Python"

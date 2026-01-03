@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 19,
+    "itemId": 48,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9a4eUQJjt3e.search.19",
+    "lid": "1Reo0d3VHOn.search.48",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K",
-    "securityId": "aHGzcGnCjhzX4-N1ofnK2AoBX1pl21q5ct_HJDRNZOWDCEqW2McLL7S8IUBuowzwyKSdk-xZC1VejwlAIDO55Mxm60JEYONcdwEgmympB8TbYEPDhjRK0-vZy3pTM_1xr9Bfj537-M8w",
+    "securityId": "bzrFZtz1HQhIQ-11yOFMfjrvWb03SCv3FkyDqb2OzvaKJfOz9IS2RSvorpOwzDQMBJiPMLlO5gdUvCE1PxUFCkE8lgaeHWjHZqD27q63Wi1RuA10MvEbhuxK7SHhH2f4n68pSKWFZDCi",
     "showTopPosition": false,
     "skills": [
+        "软件实施经验",
         "ERP",
         "SAP",
-        "财务相关专业",
-        "软件实施经验"
+        "财务相关专业"
     ],
     "welfareList": [
         "带薪年假",

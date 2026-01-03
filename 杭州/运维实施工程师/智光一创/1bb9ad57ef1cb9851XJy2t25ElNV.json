@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20210712/0d58a3b5bdea760ef67d1488d1b86521ce8633f9e3304c6688577a02cfd2acc4_s.jpg",
     "bossCert": 3,
     "bossName": "黄女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "计算机服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200925/c3fae638f2cafbbaf5f9ef39d5e5c13ece8633f9e3304c6688577a02cfd2acc4_s.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 80,
+    "itemId": 86,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7wmwmBy44Cz.search.80",
+    "lid": "1RbZOxuWonm.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K·13薪",
-    "securityId": "B8pWeKlQszEwy-Q1HHKIGHuJkKMS1nzSs0umhFsf-5p-c3O3HfJA0xg5qXVF4OmEh3GQP5bIWftTc64mWWvFSDBt2ahp9zS3vI3qZQEIWIGZxrUJI_x1Hx9R0kYU8maUXgrpzc9AcniAlDZyL3dM0LD4HHblefhff5ZYYfuyKmlXOoL5ut4~",
+    "securityId": "dUOypYdcLXv8U-613dxB2F8whofWHF2dTrKpOMo0g-UDI3_mjxl5g1m-T-URlFBBBvwSmyXzEbII0W2fHOvZODZpbSZRB4e-g-lPuL_Q0fVK_f_pOwQxQ6PyZG3ltBalkFbkYZ2LxBdM_ZM~",
     "showTopPosition": false,
     "skills": [
         "Linux"

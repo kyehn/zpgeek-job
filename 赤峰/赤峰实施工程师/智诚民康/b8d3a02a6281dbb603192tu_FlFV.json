@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "松山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210525/b5b0137b4d485753eea34c99286f05e5d80d098a6a7e96461b5ff17545e45700_s.png",
+    "bossCert": 3,
+    "bossName": "金先生",
+    "bossOnline": false,
+    "bossTitle": "部门经理",
+    "brandIndustry": "医疗健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170314/5d54226ef0b7b40825e8cfd2c9587556e96f0bab4451e4fc188f7410bebec001.jpg",
+    "brandName": "智诚民康",
+    "brandScaleName": "100-499人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "木兰街",
+    "city": 101080500,
+    "cityName": "赤峰",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d77fe53497e2af511XJ_3tu9EFA~",
+    "encryptBrandId": "05f4a2ec98ef007e0nB83NS4",
+    "encryptJobId": "b8d3a02a6281dbb603192tu_FlFV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 42.283777,
+        "longitude": 118.933362
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100006,
+    "isShield": 0,
+    "itemId": 31,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "赤峰实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1UJ3nLI0PlB.search.31",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "AJzQtjy12wO8e-c1pkDnBn4R4gUvG2jKKSy5Dh8vh2mocbQescyxNwga-VkJ9Nof7gIdryvdvYiJ6B705zIiDkkqI-F4KtDVRjDP5UKW_lXywqK01EkopM-AsxRVe41xr7C4F-dBdWU~",
+    "showTopPosition": false,
+    "skills": [
+        "sql"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "住房补贴"
+    ]
+}

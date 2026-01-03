@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "静安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250210/607f1f3d68754fd0fed59b9cb080f8f839e4ed0845fd7ddbb3079ee94f1c43daf75be4caec58ccfd_s.png.webp",
+    "bossCert": 3,
+    "bossName": "杨先生",
+    "bossOnline": true,
+    "bossTitle": "人力资源部",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210803/af0ecebd9434d2ff73b3521db901e1e2b3079ee94f1c43daf75be4caec58ccfd.png",
+    "brandName": "荟宸信息",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "西藏北路",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f81bb5eef60a9c531nVy3NS8F1o~",
+    "encryptBrandId": "25175c24c791be4d1nx_2tu0Elc~",
+    "encryptJobId": "3f56f0c4678256221HV90t24F1ZQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.262789,
+        "longitude": 121.467634
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 72,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "应用系统运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1RkIa9ffKO4.search.72",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-10K",
+    "securityId": "CBdiBQv6laZqQ-g1p7VZBxnu3BZx5_dw-k_TItB5tpLubojQ0pCzB37EFg2N0DoJFPGHUjeEJE8ljZidIaIB6iOsrerXaQN_AkC2ilQCuh9aTriinGnwFCKFKxh3CBnGmGzZw4LWf9U1DMvPdzq53IiCHhy04_2eRuV9HnNvIUooi6hfqg~~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

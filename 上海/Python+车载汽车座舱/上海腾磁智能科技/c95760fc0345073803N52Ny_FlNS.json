@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "闵行区",
+    "areaDistrict": "嘉定区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201024/112778357207d4413f35d4b428f039f50b18c18590a343d7073cb8041ffb93aa_s.jpg",
@@ -14,7 +14,7 @@
     "brandName": "上海腾磁智能科技",
     "brandScaleName": "100-499人",
     "brandStageName": "",
-    "businessDistrict": "莘庄",
+    "businessDistrict": "安亭",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.12873568388891,
-        "longitude": 121.3606404354594
+        "latitude": 31.28260584535482,
+        "longitude": 121.1698480983089
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100805,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 59,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "99XhFZjpUEv.search.35",
+    "lid": "1RkIa9ffKO4.search.59",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-7K",
-    "securityId": "Dshj9VNr0PkGQ-z1Ssdews5oRYjM6Q9EERVhB-54yDnYX60502-_dRK8kNUJC46MVfZ170OzVVnyboRUC4utz9y8_mTC42Ybbm4VgWnuSK-bkcyu7U_NZQJb_NFHX2KIzef7tBla29ipuRI~",
+    "securityId": "RktNmgtfu2Mj6-W12DWlyuv1VSz3JVPz1U0S5HHxDWLbUqgK8pGiWXqOKUBS5RwCPOGfVFe606hTaWjxCEyZztVDZwQDtVwplag9U584mPUccFzYNwqTe-ZfxIM5CSesUf8wdbfJBUxg6xw~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "其他",
-        "架构设计经验"
+        "架构设计经验",
+        "Python"
     ],
     "welfareList": []
 }

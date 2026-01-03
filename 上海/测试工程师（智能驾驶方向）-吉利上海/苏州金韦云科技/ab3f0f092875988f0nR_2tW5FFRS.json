@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "嘉定区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250924/607f1f3d68754fd0e9ccab47c14c63697d3896cb63983ce95cf03248bb8d98d6addd029d68d54564_s.png.webp",
+    "bossCert": 3,
+    "bossName": "曾燕红",
+    "bossOnline": false,
+    "bossTitle": "招聘主管",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240911/7bf6f160950405e93ca2b5b0adf2bd1aabd373b84fede82df8a848436912d3b4f9d9e104bfe57d81.png.webp",
+    "brandName": "苏州金韦云科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "江桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d6538fde15a6a3e31XV-2Nq-FlM~",
+    "encryptBrandId": "32f940bdb08e94e71HZ53N-7FVU~",
+    "encryptJobId": "ab3f0f092875988f0nR_2tW5FFRS",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.230288,
+        "longitude": 121.317621
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 32,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试工程师（智能驾驶方向）-吉利上海",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1RizgBk8bg7.search.32",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "guOTg1QmZBGOv-81c4sSkuvzGgI55k1o7d82pma7R12Ap77_62UIo_UO7-lh8Cfq4AWuvwdpGhvAckJs9I_KBk2e1zlWKf2TGpKBCMGBxmyfsjgJpjlCG6UB2nLVZvxBCKfiHi995DBF1Q~~",
+    "showTopPosition": false,
+    "skills": [
+        "Python"
+    ],
+    "welfareList": [
+        "定期体检",
+        "意外险",
+        "五险一金"
+    ]
+}

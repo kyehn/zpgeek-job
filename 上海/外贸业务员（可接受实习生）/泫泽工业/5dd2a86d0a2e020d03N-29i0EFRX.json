@@ -32,31 +32,31 @@
     "iconWord": "",
     "industry": 101304,
     "isShield": 0,
-    "itemId": 25,
-    "jobDegree": "大专",
+    "itemId": 41,
+    "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
         "在校/应届",
-        "大专"
+        "本科"
     ],
     "jobName": "外贸业务员（可接受实习生）",
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85C6TE2EkOi.search.25",
+    "lid": "1RjvIhBLf5h.search.41",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "50sXC0ZHFrYAE-w14ewjtYJgNJxEJdYTkUIvS5nEdY0mVgBsXf7BjNVUD_BuRWItD5eQH9Td3H5UMapNJL7fnvahXMcapYfGpLT4AS7snTVls_1pMPAoVP7XaMavdonDLCAHt8majDg~",
+    "securityId": "bSqGox0RnSEvK-z1j7DSeIju09nDSKwo7r4dG2hlYzHSZy8lkhXsHhxxt9eMMrObIMojjUhruz6VsvXHeOO581rFCuRaiu9RYc9PtaR2BwKgITP5VbaJzKoO4qtzg7sWGiL8t7ZO3Eg~",
     "showTopPosition": false,
     "skills": [
         "其他产品",
-        "英语可用于工作",
         "国际贸易专业",
-        "熟悉跨境平台操作",
-        "每周双休"
+        "每周双休",
+        "英语可用于工作",
+        "熟悉跨境平台操作"
     ],
     "welfareList": [
         "股票期权",

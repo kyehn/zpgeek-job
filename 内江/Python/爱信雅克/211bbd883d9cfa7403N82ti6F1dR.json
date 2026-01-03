@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 1,
+    "itemId": 2,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8wl7X4H920r.search.1",
+    "lid": "1UME1bB7yZI.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "llQaXyVNfWwPh-u11OmlMdju8P7tRA2G8zU_fpGpHd5nCHg6LJgRfT3g4d80173sP2jHqv54eoi7it_ADiANSuEDhE5rreh6YR5ZD2d0Rh0X3bsrvDeVAAGMJAi_2gpJd-aZFXXoJeIJtA~~",
+    "securityId": "pu1hWw7uJjUma-T1asuIVy0QIO2nbvHO7IWhEKWSnt_B6DbcjiOTru2CLKuH_3idejYjD7HRfpqBxe2s79B4tWLIca2Wy4f_x1QTwK5OUY1L4FtN775PRnkpE9HDHo4D8b87Q3emL3LRxQ~~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "Java",
-        "Oracle",
+        "爬虫经验",
         "MySQL",
-        "爬虫经验"
+        "Oracle",
+        "Python"
     ],
     "welfareList": [
         "五险一金",

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100609,
     "isShield": 0,
-    "itemId": 88,
+    "itemId": 52,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "99YAJJmG9X4.search.88",
+    "lid": "1RizgBk8bg7.search.52",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "329uoNcLaRLM7-Y15L36ST77c4Wpc4C6GBSV_We7FPQvnv6wPdnh2vFI1U7JI6Fch-bz2CiA5r7deMJpgN-Q5jM2Quuf0EyhJhv7bjp1Hcp0VyfugIMcsNAChOTiJwZJ8ZqKVEKzKtr_NDI~",
+    "securityId": "5MuMjPtx5lIfT-w1TLMhJKM3TW27AKaSykTAZJNiJ8ch4-u7GHMpQwujVmOuJxUzCtNdPS9v52s2vJF1jx_ms4gxZIqP1DVjrEDIH2X-fywFuyrCcXHH_wWH8m3GeWtQPmEoCZSMfOwf1UQ~",
     "showTopPosition": false,
     "skills": [
-        "性能测试",
+        "渗透测试",
         "测试工作经验",
-        "SEM蔡司电镜"
+        "SEM蔡司电镜",
+        "失效分析 SEM"
     ],
     "welfareList": []
 }

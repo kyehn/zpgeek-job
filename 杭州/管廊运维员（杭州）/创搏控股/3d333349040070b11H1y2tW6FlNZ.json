@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
     "bossCert": 3,
     "bossName": "艾聪",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "物联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100030,
     "isShield": 0,
-    "itemId": 48,
+    "itemId": 8,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1sQHHcXdQnu.search.48",
+    "lid": "1RbZOxuWonm.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "xtxDhdsGqh71p-j1aMpxKTjgl95wPddQli5t4VauVcUIhQZxySWGBSVowKQvyQ0imUycNwmK5ZZBzzISa_GG0eeIK1o-3ARvDMLrcKvAjeb_aM2kC-UX5P3BcnRTCVQYXOWV-EIEpAsTy4MAv_r7BgJUE-kTdTaTMVRFB42lOdw5s10BwYk~",
+    "securityId": "ok54IAcyxNXe5-c1OAIXlchYd1jbpTusiJPs22it-UNdUq2kS7xezwJUL4aJgdQ_4AqVkD3OmJRA0wDSNAPgMFeNQXGISKh3CLBl8dRc6ieUeJA-dPd6T44-p-4hlaQ9T0i7bkTUBS-KhAc~",
     "showTopPosition": false,
     "skills": [
         "综合管廊运营管理"

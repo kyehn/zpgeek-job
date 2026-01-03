@@ -8,7 +8,7 @@
     "bossCert": 3,
     "bossName": "王先生",
     "bossOnline": false,
-    "bossTitle": "高级招聘HR",
+    "bossTitle": "人事经理",
     "brandIndustry": "汽车零部件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/admin/20241009/7a57a5a743894a0e61db0c9f94e55da3789b92c168491f5575a8c6cfd5eed090fc41aa91be88d106.png.webp",
     "brandName": "安徽瀚盛汽车检验...",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100802,
     "isShield": 0,
-    "itemId": 89,
+    "itemId": 85,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9a2ICSy2ihp.search.89",
+    "lid": "1RgvwfgqeCL.search.85",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "8CHkXE4Y22l1y-N1ha6M3J9wSIiHdCVUfk2mDC446e3o9iDy8XllF7uYyHxAcc6J7oawO5xMDub9D4Bz-2bRwTAnJmMgeB1fm-Lhq34oPmxVBFzis6VPqWichmGHllHbjynxW8vqkdX6WA~~",
+    "securityId": "gPIklVZx7xBsn-51Km7LPCU0g4gxDHS-KzS9zxLsIY3Hz6FJce9uEpxZfGbBBgSXYc9q9QMAatTXA7_JE6gZLWfGGNW6S4nF_VnvLjQsFV_QqwlwFGvrbKkfy9I3kMpk6y2R1DIsvrJvAA~~",
     "showTopPosition": false,
     "skills": [
         "Python"
