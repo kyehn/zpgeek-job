@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "南开区",
+    "areaDistrict": "西青区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181107/fbd3ea8904b9bcbfa278fdd67e7c14bb13256193dc79d2ddf2065f270d0a73b4_s.jpg",
@@ -14,7 +14,7 @@
     "brandName": "天津天财",
     "brandScaleName": "500-999人",
     "brandStageName": "未融资",
-    "businessDistrict": "天拖",
+    "businessDistrict": "侯台",
     "city": 101030100,
     "cityName": "天津",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 39.12488,
-        "longitude": 117.179364
+        "latitude": 39.088345,
+        "longitude": 117.125605
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 62,
+    "itemId": 90,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "zqkdAHTbgE.search.62",
+    "lid": "2hZ3uH80S3K.search.90",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "8aS6JGIvgcwou-m1RNSt3z5LNIZODrwwmvgJQ5uavxtthXqy9x_6yUa85uYA3jH2J9oHabVMqMGhv43Vk-oN0JCTnDjKSR7iwK4HMv_eWoTphw0UUtShVqvePAXJuNVefUeOTVlbN2EE0N7JGosN3CVh-evN2kns3VC-RGYJ5heG2S6WhA~~",
+    "securityId": "y8KUihgtSKV2o-01Smt9vqaxTIp2w_lPc-UWtTpHtOg4cOLcZMSDQhOgdUUm4NZCtDQXauEtxiahT3uVdAbS05Af-EHasT4oB3hqjZBuZ9kh3A7MPqnKHXhSuS2bas5AZS1bfrR7nWGmuE2ExtS2acuW9lcZCbKpOqK_WkvkCY5l1Ewb1g~~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

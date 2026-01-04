@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101406,
     "isShield": 0,
-    "itemId": 48,
+    "itemId": 84,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,18 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6kLiiwwqexh.search.48",
+    "lid": "2quCNv5vJ5m.search.84",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K·13薪",
-    "securityId": "IPN0mo504Yv0r-U1YZwjhrb41aSuTOgFYKqBAMQqdt5D_YF6AvbBOg0GxxJ3gS7Efc3QjGtc9-_sOMtJisEu2xMDGuD23r526fPL1COh6G_QoO0GHhmmisyPdolzjawgWw39l1w3y-RuSyo~",
+    "securityId": "XYmB-Rvrcb5K4-41b5wWcMflUWAEMleTkm_kXVI54sAVU71TQ3uBxDzFg6FxnpjihYcS-Ww74Z0GVYR2lQdCf1HPOCEuT2sZasplhv8oB4S4I4ZKgInl8V8XR0-Jw84V6D1uiWvx14xjY9s~",
     "showTopPosition": false,
     "skills": [
+        "不接受居家办公",
         "Java",
         "Python",
-        "不接受居家办公"
+        "需要穿无尘衣"
     ],
     "welfareList": [
         "工龄奖",

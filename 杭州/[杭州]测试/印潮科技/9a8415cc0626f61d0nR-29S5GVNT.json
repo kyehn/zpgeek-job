@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "郑女士",
+    "bossOnline": true,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "印潮科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "65bff1c51be3ecbf0XB-3dq7E1NX",
+    "encryptBrandId": "f8d5043374e182141XRy39q1F1o~",
+    "encryptJobId": "9a8415cc0626f61d0nR-29S5GVNT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.18922,
+        "longitude": 120.185358
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 84,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "[杭州]测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2nUjsB6QT6O.search.84",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-8K",
+    "securityId": "vosk-oh6W6-mr-J1LvpqGwY4KMbnDT6rm5K0FrqJXxB-Ahf_6v_eRHwS9sv-nGuKRBLFj5BOH7knw5LU3wloA4uRGYuKeQSpWOmd7ruqya3Zzx-lSlRW5WC4SoByLRKySUF5bTZJjqoZXISsPqdE6fZztsijB2I8nsd2CVDseMkvgr88bUw~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业",
+        "测试工作经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "夜班补助",
+        "保底工资"
+    ]
+}

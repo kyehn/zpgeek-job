@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100504,
     "isShield": 0,
-    "itemId": 55,
+    "itemId": 62,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8dgW9JvjOxa.search.55",
+    "lid": "2j5H5Lzh6PU.search.62",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "PYfk1odl12mN2-y1IxUfYd5B7_L8uwvwB0lrYJ2uRRg0PdKxK7cXifov4TR92wPg6SwFluJg0iEtGLxzxRVc1hu92Ut3kQ-BCuBcRUqspaudqw5BeGn2X6uvYjXzjfDa-M4JSMtCSOn9wlehPOAhQ02S2dQc0ypllQS-Xy9R78bzGr3H",
+    "securityId": "ibjOA1TuI7SXB-Z1MME2ZBzqy-DkOndwFknJMavxPLAB7CQly5Hw0CJBiwGQV0CC4XYgvz9wJyqiEs9Kz4ysVe9GyZlTQPJV6stGsj4OyNTt50ULWHdDMsktTgHFsC4b_gA6zCOVkspUXZLjQiaJDltXAITRpnOBVIPfqnPtGa261rSY",
     "showTopPosition": false,
     "skills": [
         "实施交付运维",
@@ -60,14 +60,19 @@
         "运维经验"
     ],
     "welfareList": [
-        "员工旅游",
-        "股票期权",
         "项目奖金",
-        "免费班车",
-        "年终奖",
-        "五险一金",
-        "定期体检",
         "节日福利",
-        "员工餐厅"
+        "五险一金",
+        "包住",
+        "年终奖",
+        "定期体检",
+        "免费班车",
+        "员工餐厅",
+        "股票期权",
+        "宿舍有空调",
+        "绩效奖金",
+        "员工旅游",
+        "生日福利",
+        "高温补贴"
     ]
 }

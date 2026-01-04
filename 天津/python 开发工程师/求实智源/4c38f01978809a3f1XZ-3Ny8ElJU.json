@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101205,
     "isShield": 0,
-    "itemId": 37,
+    "itemId": 55,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1sNJo4ulIZM.search.37",
+    "lid": "2quCNv5vJ5m.search.55",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "ssVyZppg3Y12v-i10ordOrpg_uBHMNzWGRJXVrCN6b77P6GftK5K02lDWknh1tHGGZZwTWDwnGz70sT5gXYbHWBh8ECQow-bdyb-pXiZF0qzARAg7dWHliLE8hGjzK22j0sSK-8CXmT1",
+    "securityId": "LBMpF1wz7YPJL-L1avjY1AqiPZfsNGW-mKh_jrLWprE97Vm7JHy6xlRbX9sr3hDVJk4sNFzEc1HgnOoaaMOkSu11sa-yVYtYUAXSCqsuaMSOzNN1Ut_flqbOn1nkR2YF5dGMr_BU9FVg",
     "showTopPosition": false,
     "skills": [
         "算法基础"

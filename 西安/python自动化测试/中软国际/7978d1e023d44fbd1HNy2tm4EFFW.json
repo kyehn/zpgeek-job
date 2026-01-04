@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250731/607f1f3d68754fd03dc1b332c1a8385dab58388b845111a16cbf9bccc917c4951bbc104f9cd60034_s.png.webp",
     "bossCert": 3,
     "bossName": "杨女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "高级招聘专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20251029/7bf6f160950405e9ac4f8cdda606cef7f2582ab95c0f40e66304d5b44c39a7afd22923ace459f643.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 11,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3svKri4lvn7.search.7",
+    "lid": "2tjBw3vSWIl.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "1fzEG9nTB1gGq-71cBgYMoF8Tek6OqCHVXGN-_3d1_QCSTLMUYo2Dri-opXw6B2ruaQqq_KlZKnM224_zKC3BG5JX2OCy-h9aQVaH4UKA9wbfC7qLkPXZzxG59_die-_KNbrZ4bdeTx1DBXBT8u5OTk~",
+    "securityId": "Q9Ll3aDffsEZT-N1vZfT6iEmoHmkKYC_DC6grKUvyXsnLKh6xpyI-dyFtZ9vBKmO66ipbsAL0o7OBzqECs2ZYyoa32p2wHW-lJalIey-pFgvvIWY0XM~",
     "showTopPosition": false,
     "skills": [
         "Python"

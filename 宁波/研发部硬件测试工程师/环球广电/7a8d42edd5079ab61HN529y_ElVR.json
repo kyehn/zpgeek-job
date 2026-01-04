@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101406,
     "isShield": 0,
-    "itemId": 62,
+    "itemId": 33,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "i3nlxVhHLK.search.62",
+    "lid": "2quCNv5vJ5m.search.33",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K·15薪",
-    "securityId": "q3mN3fYIR1CUc-81P53GUsoPvfVf-ZNoP2jANH4SChblqGDIrRgcy5P1m9Eq_iK8P27rqRjTycSXfm8pGHGsj6VSrGGAWDbdgKLHk8xqrl8nzpO1Ku3eKbrzvVrt5strPLZVTXe24lMhfA~~",
+    "securityId": "QWvlCLtgzGBK5--1SgZMlbclBHA_siZUxHdprXFzrltKTDiatfae86Lh72fiUK13yXDxId09AUQmGsZNtJ8rz8V0XvHRBNyp4kiwzDT0n0OHBpetldg5zZSvX_wNVMQD8YWrH3kl0wtZ0A~~",
     "showTopPosition": false,
     "skills": [
         "通信相关专业",
@@ -57,5 +57,13 @@
         "软件测试经验",
         "智能硬件类"
     ],
-    "welfareList": []
+    "welfareList": [
+        "加班补助",
+        "生日福利",
+        "餐补",
+        "五险一金",
+        "带薪年假",
+        "节日福利",
+        "免费班车"
+    ]
 }

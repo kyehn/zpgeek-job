@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 6,
+    "itemId": 10,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7Fip6MKUAlZ.search.6",
+    "lid": "2qw56d1reV4.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-9K",
-    "securityId": "0s72QfYwixAb_-r1JhTyVmFcZFheFMwCNiXgneNghEHmZcdYAwqlYHNrletVxZBRjH7CSE-dC1Z1ye-zQ77WuBc-DgIi6XyhRiOd7FM0yfhIKYrRQ2og31PNWg2Kc-G7xXeWBU0P6RcQ",
+    "securityId": "f6rY1trTxvjfh-01TajyDdWgJA0zQT2BvNkxPdE58JLvz-e5zdQf7RXh55B9aOX0y3VKTsvTQRKBnSZpEFV179HJBZ7ywbMh7jIAG-AJ1i1Gq31CcAIEpkbp-AUpUn1GKi1qHmTvdVFh",
     "showTopPosition": false,
     "skills": [
-        "Python",
-        "Selenium",
+        "爬虫经验",
         "MySQL",
-        "爬虫经验"
+        "Selenium",
+        "Python"
     ],
     "welfareList": [
         "绩效奖金",

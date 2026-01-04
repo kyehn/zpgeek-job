@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240628/607f1f3d68754fd0da1750c5eae681b7b47d575668f85bf1729c29220f4b211ccc9cee8ecddc196a_s.jpg.webp",
     "bossCert": 3,
     "bossName": "陈女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HRBP组长",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/87505199cef130db85c81bd1070f2995cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 29.655829511694886,
-        "longitude": 91.10339215767081
+        "latitude": 29.6433605920231,
+        "longitude": 91.13842227660355
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 61,
+    "itemId": 87,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8wnm4YOdwmK.search.61",
+    "lid": "2qxoqHYqQ8c.search.87",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "6TcoM9AhUtMWH-11mWCAaDjq3VWjkZnbS8ct2AxFtTP0SuNY5_N9Dzt8za42yv4-zHxz9NrjGZVvmgXK0tCarrBs5mKzogWp6r5RsD0hzqsFELeyQwVRVbfENBT4oXASyAaCyTW38TQ~",
+    "securityId": "JtA99CLCdEsmF-21w5pj-sC0z-z40s_NLSzCdPupcckRg5EJ238bfdnhpMwUyTfUafTbQew9yAXnAui7A19nTJ1KTDeObrWO7RVEYyvXaf2CifUXpxec7aySBrZaoREwWh-l75CVterEgbepcbBTjTIx-sixsXHWp4w7oJ7im_2uiS4~",
     "showTopPosition": false,
     "skills": [
-        "系统运维",
         "实施交付运维",
         "MySQL/Oracle",
+        "系统运维",
         "计算机相关专业",
         "运维经验",
         "财务"

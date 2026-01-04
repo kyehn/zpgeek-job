@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "南明区",
+    "areaDistrict": "云岩区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
@@ -14,7 +14,7 @@
     "brandName": "聚汇达科技",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "遵义路",
+    "businessDistrict": "东山",
     "city": 101260100,
     "cityName": "贵阳",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 26.57053,
-        "longitude": 106.68983
+        "latitude": 26.603706,
+        "longitude": 106.723028
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 38,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7P57KZ5u1Cz.search.25",
+    "lid": "2j43gWKMOBL.search.38",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "GrGqzBBL0TAy3-I1PrcHw_vNYUqzIpsZXUZjaEEoLKWbH1_uqOk_toI_6m83XKPBtNV3R8WlM_JsEpPRwtELUNkUSVmMwgtSqJwCoC7rd7alF9zZkd4OlLzmDK4O7yvlypJnQpA0W6uNBAY~",
+    "securityId": "4beUQ9DEJ6TT9-F10mVmgxa1DMyC3l40_96DQmgoZm5Q-P0WRyhZHjS9hqAF1TprP1lGBxJ2l5pZ8o8r_s01L4m_HO3hGVItASC5uNywYBLYXsSYKh3xdklmimpdYZ6UQa1omHVW1PHXMZM~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "Shell",
-        "JMeter",
         "LoadRunner",
-        "Selenium"
+        "Selenium",
+        "JMeter",
+        "Python"
     ],
     "welfareList": []
 }

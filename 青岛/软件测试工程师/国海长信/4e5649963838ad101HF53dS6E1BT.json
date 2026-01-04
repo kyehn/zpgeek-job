@@ -14,7 +14,7 @@
     "brandName": "国海长信",
     "brandScaleName": "100-499人",
     "brandStageName": "A轮",
-    "businessDistrict": "崂山风景区",
+    "businessDistrict": "松岭路",
     "city": 101120200,
     "cityName": "青岛",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 36.196132,
-        "longitude": 120.519919
+        "latitude": 36.147069,
+        "longitude": 120.480824
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 101406,
     "isShield": 0,
-    "itemId": 55,
+    "itemId": 82,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1NLLxIIAkNu.search.55",
+    "lid": "2qtbCVcP66R.search.82",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K·13薪",
-    "securityId": "Oj299pZ5M3lya-A1eI8hoQugCs-8OMWDUNBZv7ON-ubS4WDH9Rbj-ds9ONF7UTyXxAHOndjQTvw1ataEGj8sfYhIpNWGsq6nwMw6pq5HglRsvUUhGmlBSka7WHJUY-N-GyqJN0Meu4iTHw~~",
+    "securityId": "IS7iH3qTltAFY-V1DfDZtlzXOoAQdK2jeMbMd4zbVj-1SRaPDXbK5ux7VYLHAV_0fB-aBIgKaqUCVsM9-8Rk9Brc89kLkoHzn9Jjbbci9ys3OvxQr564WE9u1Aoz1w-QuUIO8EgnZ9T5IQ~~",
     "showTopPosition": false,
     "skills": [
         "软件测试"

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 70,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1RbZOxuWonm.search.13",
+    "lid": "2qxoqHYqQ8c.search.70",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "6KrtdVOEpx_Ws-719ziSFx2Vd9dwShUqLyhMGH8XMT_RCmRoNIOB3xH9K3KaX9PVf4KQzEamdZT_L6j71KmdqiwVSWDz4vsbNBiEBYSCRGBwh8Vk4Bh6IOUd3MgMHosDg9eaJ17bpSs5",
+    "securityId": "_dXZNcNmpSogT-P1I1HKxeGyFL1P3pEQzyDp1amvfNdzpmOq92ZpaKkSHBnPIslZrytBje544GdPiLULIgYXhcDKWMGoi4kGo-3yfLRl92c_oF-Lax6IdTPMYDI71KH2UwExiGb5OgkN",
     "showTopPosition": false,
     "skills": [
         "MySQL/Oracle"

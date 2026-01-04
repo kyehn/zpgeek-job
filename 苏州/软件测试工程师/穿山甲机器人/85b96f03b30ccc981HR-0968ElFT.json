@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 37,
+    "itemId": 80,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,23 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5tNW1s5frvO.search.37",
+    "lid": "2j26aeZeae9.search.80",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "LsCFCR8jeZwW5-m1hGyPGJdp_pekl0mtDF0Mqh48ac8_6zSyrL8KYQ4HC5rPtXo5Hd0usk20mA4bOQcyGQ_x21FxUzt8CQ1WyQTXDyZfGdMobAs8TPaA86A9DHZkoSlfawFeNuPnli64KF2bMCtbnaHyU-23wK0YnGMRjXC3HfrjmPM~",
+    "securityId": "Tvp99lFXGr-VD-21rKuIdPhdaFhWD7ubETHGMTdZps3tlb97k886vCEcrUlM78jb9fuq7OTx2FUEOVbs14GrxAZKTKHR4K_tU8MzKduDlYNVkPcFiIVvtT4eyBfBdiPoFI3s2Voau4M8KsN4LZ6AWzOqthjmbNvWwmrwbIFrV1l6m_w~",
     "showTopPosition": false,
     "skills": [
         "功能测试",
         "性能测试"
     ],
     "welfareList": [
-        "全勤奖",
-        "带薪年假",
-        "股票期权",
         "加班补助",
-        "五险一金"
+        "五险一金",
+        "股票期权",
+        "全勤奖",
+        "带薪年假"
     ]
 }

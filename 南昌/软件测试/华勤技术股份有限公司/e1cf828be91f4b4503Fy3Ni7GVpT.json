@@ -43,14 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6Im1NG24bkX.search.35",
+    "lid": "2qtbCVcP66R.search.35",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "MQMeVY8vLPqlf-P1ZnYbjIUq4vbAXRWsF-EUcTQfQsOnMBErEf4u7t7YttWX4r5sGZ6DWpIrmVIlAiISPboZAsT2ddrwBu7mglcy6iPuVE-ddxKYRfhzettWVsYYdw41Q3MV5UfblRJABUU~",
+    "securityId": "tU6for-FvjLQP-31_-Ec4qGyd9C_nieaoNR1xubq5M1pBvBo8rBSBqL4vu8Vg7AEQW4sVg9O_xOMh5SMXkbBewdsZSut4dJNYJII6jF29_xoR0453ct3ZIM4pOACbVNWsL3RcMHNtI174g4~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "自动化测试",
+        "压力测试",
+        "手表",
+        "手机",
+        "手环"
+    ],
     "welfareList": []
 }

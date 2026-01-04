@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
-    "bossName": "周国和",
+    "bossName": "周先生",
     "bossOnline": false,
     "bossTitle": "总经理",
     "brandIndustry": "信息安全",
@@ -22,7 +22,7 @@
     "encryptBossId": "e5ec2b2c38dfa8500nV-29m4ElBV",
     "encryptBrandId": "f1db31595700e90b03d_3ti5FA~~",
     "encryptJobId": "316766b5c8398dc01nZ62Ni-FlBX",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.06027,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 60,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1UQg6dieOIf.search.60",
+    "lid": "2qYhCH8K91V.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "GPEz16Y10WH85-h1aOv0ouNwV7k9P5Za7HO7NHTXab9u7nDolD_ux1GJEBCrWQOoJ99xLzcP85Q8ElkZVjdqGincWVurNkzyhj-RLb9Aa9cQkcmdFMKSw1SymfEQBVAe0cLnWLmjanMX5w~~",
+    "securityId": "jxlbEBwYkuHtZ-M1-WrQx93l1iYmHJmKfk2VLfvmfCbFu2rqt7oGZuYgH4stoI3eyFGNiJOuI4FaYZ_nzQul969x5dbrzgnUNxBifPtlg6zvDIv6oWg~",
     "showTopPosition": false,
     "skills": [
         "PYTHON开发"

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100005,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 30,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "i1aDorYNEC.search.2",
+    "lid": "2qvrVkyiNr2.search.30",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "2DZ7RcyzCzOrr-f1RbcI_LUGywd-pWNtLKhyfzFDgzy-tILVHkZQgTST8oQbzX4WRjB9vU64LG-JblshUzGpUegS-kKXBQNBt0MTW9MHySz6lvg86OKSPaqE48RWxhUUCKGa472ak1Bv",
+    "securityId": "WsAYu5gsq1Yn_-91FZwmuCbeYjp_bSCRnaUu_ItgKyZNzu2BB1fOV_nutCsHGBBpKis8I1F8FcqVTkUYLHnden-Cvyhs1UNT_-widPq0ULsx8e739n2SQtYycJYvxZFVBtPjLIKmNMJy",
     "showTopPosition": false,
     "skills": [
         "PostgreSQL"

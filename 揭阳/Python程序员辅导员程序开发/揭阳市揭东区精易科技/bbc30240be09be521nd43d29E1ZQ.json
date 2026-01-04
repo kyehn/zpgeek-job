@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 40,
+    "itemId": 59,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5LDZmrdjrCt.search.40",
+    "lid": "2nVxuLnqZNg.search.59",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "oWwTTXAtoU1Sk-_13n4ZD3S8kk4PCp7T96sfTyyPTxHmpr76bD2uuTkQa9wijXZrnvE2q8p38l7I2WLlAozgk9l-xMorOYC1G1ZkWr3W1BoS7R4cBJFnP7gdn2OUDvtL4Qw_LFVooUxAPL8~",
+    "securityId": "jtTEVj_EZOrzS-g1c4xxYT8DO3EWGamjPMyiJCQfk0y1rEaEu_LQPNTq0MR4ZyMt0fc8fv3Agr_1sr9407KGccGRHhcp967DDu5esh4zWQMRHZOno6tLSroPlX7IP0shikMIar3Uutzj6RQ~",
     "showTopPosition": false,
     "skills": [
         "Django",
@@ -62,14 +62,18 @@
         "软件工程师"
     ],
     "welfareList": [
-        "加班补助",
-        "包吃",
-        "绩效奖金",
-        "包住",
-        "定期体检",
         "补充医疗保险",
-        "全勤奖",
         "包住",
-        "带薪年假"
+        "绩效奖金",
+        "加班补助",
+        "全勤奖",
+        "定期体检",
+        "有无线网",
+        "宿舍有空调",
+        "带薪年假",
+        "包住",
+        "意外险",
+        "包吃",
+        "节日福利"
     ]
 }

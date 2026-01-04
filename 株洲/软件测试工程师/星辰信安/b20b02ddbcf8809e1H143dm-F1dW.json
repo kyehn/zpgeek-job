@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
     "bossName": "汤波",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘主管",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 76,
+    "itemId": 54,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,21 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5DVVAaeSQLz.search.76",
+    "lid": "2j26aeZeae9.search.54",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-8K",
-    "securityId": "PMm3w16nVkDyi-21i5cfURWppjBvh20xY8dEU9ME1jKXdGboc2gengT9UB57wL-g-V0mjv8jYzHr1GYK3lcb0jo5TKW_SabQEj6EQMCLJSe9cTTf3X-6zdxbOX0yStZkf0gNzJxLkNYj5Ts~",
+    "salaryDesc": "8-10K",
+    "securityId": "N4GL5kJI6C9cT-315AUFaGup3kn7pKdXHwYQhzb-kDyUL6Q6qGiI83xpmyWaXZehJUBJvsa7-_Ux9j15AoEqI8t00cUY5D3SvVpvPZbJ7vAD72BSxDAI4YELJvWjzhvevmFFAY4BPjrikaBmTJta7_qZ4Qr5Tsvyhxp8p2v-k_v5AXlF__0~",
     "showTopPosition": false,
     "skills": [
-        "自动化测试经验",
+        "功能测试",
         "自动化测试",
         "性能测试",
-        "功能测试",
+        "自动化测试经验",
         "掌握软件测试理论和流程",
-        "计算机相关专业"
+        "计算机相关专业",
+        "mess",
+        "ERP"
     ],
     "welfareList": []
 }

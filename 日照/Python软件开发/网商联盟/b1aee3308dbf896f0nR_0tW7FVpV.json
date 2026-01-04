@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 13,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1UNNXw7ZN5a.search.10",
+    "lid": "2qvrVkyiNr2.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "ydZOq9VXLxrsd-K1F-O9qF3GeyVy3W5EMGsXcc4Y0pJnhDBEYun6O3_GUWCOPrhRQ1h4btuWuKj_IxWaCz1sjamXwYTenJwm3M44wN-DiZ5MSQkHC9yEtdRWuFnZdOdubG3R7wRoLMohIjg~",
+    "securityId": "-u5whiHrImDWF-u1NHv7wfI9ueotZHq-h4vc2z2QYYAKtDiI_SmgCdEbidjRh5J5yIpPIVBok4rZFkEJO2KvMgxkbC45Dl6ZHt--uQWW7NvuP2-WllxIKJPaU_6uHnniVFdj6eFEyHSLyiI~",
     "showTopPosition": false,
     "skills": [
         "Python"

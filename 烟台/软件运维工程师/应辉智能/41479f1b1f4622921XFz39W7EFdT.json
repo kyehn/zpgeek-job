@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220727/607f1f3d68754fd01fc4c82666bba24b71b9cc652386f94efe837c19337e37393c516ed9d23b390f_s.png",
     "bossCert": 3,
-    "bossName": "汤宁",
+    "bossName": "汤女士",
     "bossOnline": false,
     "bossTitle": "人力资源部",
     "brandIndustry": "互联网",
@@ -22,7 +22,7 @@
     "encryptBossId": "eca25f70d2b2ba371XN80t27GFY~",
     "encryptBrandId": "1d4b4a411f0bb4531nd43dq9EFU~",
     "encryptJobId": "41479f1b1f4622921XFz39W7EFdT",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 37.480662,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 71,
+    "itemId": 9,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1UREGO0HTIS.search.71",
+    "lid": "2tlbRaEpdU0.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K",
-    "securityId": "jbvLH5ChHEhjs-11jQ8uVpfcD05tnlE7h77e0onjMuNMtpg_icGhfKLTrdjSu5yvXjk1C_wUwWlurikP45wv2h64gv9jNnxb6MDM92vmlilTtCA1kAuJDLQ7NfIpskIjFoIpWrytZ7lfjw~~",
+    "securityId": "H38Gt9xsklGlm-915xs2ctIShBF_b_QmTaVkw9d-ce-xvjcYn8cD3i3tt_lkbY-KeJNENaJCozJWt8eX1pjGP1puBUcBvgUEDxd5ZRpmGFBtBc42PN4~",
     "showTopPosition": false,
     "skills": [
         "系统运维"

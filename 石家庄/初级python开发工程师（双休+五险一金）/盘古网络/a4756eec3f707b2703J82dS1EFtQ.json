@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 16,
+    "itemId": 13,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,24 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7Y41PsGem5U.search.16",
+    "lid": "2nUjsB6QT6O.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "RCLDIYpMf8B9Q-x12Zd54DAvI9L78uTzHVi2_lJArlutcRYfBIHgGbaXIH72QLRHXhmU9P3k-YZiJ0qX7oU_qXDDfpwVdX1BDEGbQUPsvccsphkMKnS5QcWQe4yOp03HEalpXHVH76PBWAU~",
+    "securityId": "R5KCqkkIZ2pey-f1wd_2OJmlar0XgWsadpAqKCLCVAIlvrS9DnEgvMoRnNOLNe5OR2N8a6hTCLjq5Oxzij1UGj--6e52y5U13KguMIKarpfQ4aayn0BuIcHCP4Q355T3G4KOb1znHU0FvyU~",
     "showTopPosition": false,
     "skills": [
         "Python",
-        "Java",
         "PHP",
-        "Django",
-        "Kubernetes",
         "Nginx",
         "MySQL",
-        "Oracle",
-        "Redis"
+        "Redis",
+        "爬虫经验"
     ],
     "welfareList": [
         "生日福利",

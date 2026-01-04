@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101405,
     "isShield": 0,
-    "itemId": 53,
+    "itemId": 47,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7sIcIsii2TN.search.53",
+    "lid": "2j2XC9CVhL0.search.47",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "XzUEXLoA-yltD-o1WAQj_38K0yWVzLxPJVEK5q7vtFtbx9CbJ5qM6bE8b1AMoF-VS1lMg-UaBkMxvq6O2gpajZf9l6ujkAyxlz-kfl9XbZJhzR68RrtlExClsV0H5FejvDcXdRQ7vG09EilW6INOqIqv04PkgMVtIPQb8LOrYtu-SVwJJkI~",
+    "securityId": "tO83-9SG30a8Z-T1Gks40bnk9ar-gMOkV2GptjawDn1hE8HMpdT8dNzeSGJAbFr7oGg7hhnHaZRp4u-9bSK8av7zIKHXdd0tRmAIsXI37rbV5LQ55MCjl4DUDo556ta0rliUQa3Hkbbdc-uMvYNNCY3EDhC6EK4a6F-Mk8DdwVLXaRYTBVc~",
     "showTopPosition": false,
     "skills": [
         "C#",
@@ -66,16 +66,17 @@
         "ERP开发经验"
     ],
     "welfareList": [
-        "五险一金",
-        "节日福利",
-        "绩效奖金",
-        "宿舍有空调",
-        "加班补助",
-        "包住",
-        "餐补",
         "底薪加提成",
-        "带薪年假",
+        "宿舍有空调",
+        "法定假",
+        "团建聚餐",
+        "节日福利",
         "有无线网",
-        "团建聚餐"
+        "绩效奖金",
+        "加班补助",
+        "带薪年假",
+        "五险",
+        "餐补",
+        "包住"
     ]
 }

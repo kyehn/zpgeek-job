@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250924/607f1f3d68754fd0e9ccab47c14c63697d3896cb63983ce95cf03248bb8d98d6addd029d68d54564_s.png.webp",
     "bossCert": 3,
     "bossName": "曾燕红",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘主管",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240911/7bf6f160950405e93ca2b5b0adf2bd1aabd373b84fede82df8a848436912d3b4f9d9e104bfe57d81.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 47,
+    "itemId": 50,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1RgvwfgqeCL.search.47",
+    "lid": "2j43gWKMOBL.search.50",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "dZQGLDO5BR0tj-H1UuBnE21ryM4l7O3uzq9vctn3TXjkCMwnV6MtUQJTOJi3Gqs8B1TSAfCG7yCkD44dLyB70HKL2spA2TLfXVnglhUST8UOUrdrlRVsyFOY8Pmnvq1c9vJQRmf1aURsSA~~",
+    "securityId": "r7Hbmqg5suYt4-816Gi-yQ9vdN42vbv7dFm9ZKKuKXTS_r_rwxfcqfp4y5V44Z7dzwjo_8ibMYn_sEJ4TJjvYOicSkuiGpD8nS0HqrDIlLdpG_cSuhae5unrU_rYClbBUg7Zkaqm7w7nYEMr2fn7dgWj-nvlrhutrm9687593A_Dp2ryhQ~~",
     "showTopPosition": false,
     "skills": [
         "Python"

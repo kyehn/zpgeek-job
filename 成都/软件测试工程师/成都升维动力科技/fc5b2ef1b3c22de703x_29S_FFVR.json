@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.53565,
-        "longitude": 104.05843
+        "latitude": 30.535674315823893,
+        "longitude": 104.05842523871908
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100028,
     "isShield": 0,
-    "itemId": 75,
+    "itemId": 60,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7Fip6MKUAlZ.search.75",
+    "lid": "2j26aeZeae9.search.60",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "sCYjBhnEKXlHv-e1-aA9dCTVD7eHX3qX1KnS7_9Agyz-7qtwxfGFxiLVZBpCfeem7YXdelPOQp-WZgxU1SNEKRIPZJMlZhZswfMy9xyF2X8nDNwWPxvWEvYIL9JM_P1ONim2yO6Fj1IX7RhcnYcT81mfbpnSCMx2NpFGuhY1_3GdU9PRUg~~",
+    "securityId": "IvUmw0Pgpp53P-l1qvonynKfYyP5kPLbyuO60qZkGbhvF6w3u5QKOgOSdyu2XSLgGBoKMArUTvpxVFm8OOWq3LVPgBQlA5DK_ZTpNxrV5SPSUFEnd9laldr0IGZtyINN_oAv_HTvknPazax0pbUcbAvEoJLPu_Q8N7CjMf8IuC_PEVWIyA~~",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [
-        "五险一金"
+        "带薪年假",
+        "五险一金",
+        "团建聚餐",
+        "零食下午茶"
     ]
 }

@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200404/9b43d96d2c317582afd7a48ae37f17afd72dd1c7e161eb7b1e0e5232c817ec6f_s.png",
     "bossCert": 3,
-    "bossName": "熊先生",
+    "bossName": "熊兵",
     "bossOnline": false,
     "bossTitle": "总经理",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "917c32302a9db8bf1nR42Ni8GFtW",
     "encryptBrandId": "ae1060984b7382a80HN-2920Fw~~",
     "encryptJobId": "0cb69fc92d85a14003J-0ty4E1JX",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.843945,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 14,
+    "itemId": 86,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1V7WIkoCfKl.search.14",
+    "lid": "2qrMwRPKTmM.search.86",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "JfRC4xKuy6Du8-41D_c5ZDHHy9pQyW6-gkLXGm8Ek-0ABfGgy_cD1eqvMrv8qq2dyaAvvZHsnw7xy1gO163mlTQH6R7_hba5RkHj5JXkpw6IjDJAE8c~",
+    "securityId": "hhipETppM9doy-L1QEcP-ab1-KT5qKQru90YP0nOnu-MscYxJUHGpBHt1KgQX9T44XMDyGA1RrLPmQin9Ey3SNZPQ8PTUvwxbkQy0WScBm8b_IEYSP2s66k4_UedQyRFpituG4Ea2uL40g~~",
     "showTopPosition": false,
     "skills": [
         "ERP"

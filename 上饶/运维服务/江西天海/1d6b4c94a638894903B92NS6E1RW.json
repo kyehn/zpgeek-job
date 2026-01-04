@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100802,
     "isShield": 0,
-    "itemId": 76,
+    "itemId": 51,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7P7aLIvHG99.search.76",
+    "lid": "2qxoqHYqQ8c.search.51",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "K9C9xkWR-W2tG-C12ZqckRIyUz_4ygQSGcqb-gAmiJgn4OHI5G07bywjTAOZlMpj8S3ttzJb1UyEDuKzrWz-PUB-HoB-tUPTFmVS4iSfAL1dnUlB27dkGwBUNXDJuc-CUrPr18hbErE-b9M~",
+    "securityId": "9rEKlMYctP_3Z-T1BAT6-eyzcCkvsD2-iCdgKyGprvg55tnJ_F_wo2e7qxEM2eM6TFrVGswe8oelY3Tw4OK__BPsOBIq6cBygt4PXfi0I5cwssB3fhstXMh1Dd9ncwxX_c3cmuPIZ5bWWZA~",
     "showTopPosition": false,
     "skills": [
         "系统运维",
-        "IDC机房运维",
+        "汽车零部件",
         "电子/电气/自动化相关专业",
         "运维经验",
         "打印机/复印机维修经验",
-        "汽车零部件"
+        "IDC机房运维"
     ],
     "welfareList": []
 }

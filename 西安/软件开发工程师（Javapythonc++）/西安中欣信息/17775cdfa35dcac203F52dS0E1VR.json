@@ -10,10 +10,10 @@
     "bossOnline": false,
     "bossTitle": "招聘负责人",
     "brandIndustry": "互联网",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20260104/7b5b554d84f9729c3f257eb851cc9a7d73eabe8a085cebcd500d03ac0903d266d145664a15fe377e.jpg.webp",
     "brandName": "西安中欣信息",
     "brandScaleName": "100-499人",
-    "brandStageName": "",
+    "brandStageName": "天使轮",
     "businessDistrict": "高新路",
     "city": 101110100,
     "cityName": "西安",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 80,
+    "itemId": 35,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1NOcPgakIzP.search.80",
+    "lid": "2quCNv5vJ5m.search.35",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K·14薪",
-    "securityId": "NUcESmBJNmkbV-c1ch70IpmRdUjKK6FcCEkBzuQc4jECF_-KqSeU8QetVS34F4dXeBx5DmFSbPLRw53SBpS2AqLhstbL7kxmZVEACPiMu2sUVak1P5-_Vk55mBv0Y3a-j_KJI335IyBdArs~",
+    "securityId": "NwYAlnYGyk50K-D1OaG5WNPlUEEixSwQTC7_gqcYAB96yrg_KtOA-dCZ5fAR23cALsRifk34RMVDwU80jAsZ62TAwPKv-wSBYsomjLTQlcxyjBaPuqqYIDpZknS6YnGfqO4qhuDnqrAaPJU~",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -62,5 +62,12 @@
         "Oracle",
         "Python"
     ],
-    "welfareList": []
+    "welfareList": [
+        "五险一金",
+        "底薪加提成",
+        "补充医疗保险",
+        "年终奖",
+        "绩效奖金",
+        "加班补助"
+    ]
 }

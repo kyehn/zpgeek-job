@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "张店区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "李娟",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181207/9ebe71f60051394b8264545868bfcb5a183bf83a8221f78fe6df88c522f8d1e6.jpg",
+    "brandName": "山东双百",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "中润大道",
+    "city": 101120300,
+    "cityName": "淄博",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "87eab8681f44c3c21X1-2Nu6GFU~",
+    "encryptBrandId": "fbd029eabb0eef2733R63t6_",
+    "encryptJobId": "469e80451ee240601XZ52d29GFZX",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.842359,
+        "longitude": 118.051153
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 82,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2j6uLIrUdbD.search.82",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "-DCdSycUaqyAz-81zZjNo8EFhZomtfyMAp6eDcj_f_NbG0wnRxPoHuE1g2EAX2emZPAYk1nfi9x0-G0STZWK-8NzLWwoOLN5JIlXgBQW6tYXrM-EZtVK_J6v8QYwXZz0yFLuzreU0E8~",
+    "showTopPosition": false,
+    "skills": [
+        "Linux",
+        "系统运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

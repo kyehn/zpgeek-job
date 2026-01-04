@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "江北区",
+    "areaDistrict": "鄞州区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20251104/607f1f3d68754fd0c0dd8d0351ad515f2645f3f425114cc5c9af0367c739c350fe92fe15600ced2f_s.jpg.webp",
@@ -14,7 +14,7 @@
     "brandName": "浙江欣欣布谷",
     "brandScaleName": "100-499人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "老外滩",
+    "businessDistrict": "百丈",
     "city": 101210400,
     "cityName": "宁波",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 29.879169,
-        "longitude": 121.561029
+        "latitude": 29.86757431576829,
+        "longitude": 121.56505008672802
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 71,
+    "itemId": 26,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1UJ3nLI0PlB.search.71",
+    "lid": "2qsuVLo18Hl.search.26",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K·13薪",
-    "securityId": "XRpTiIilvGHl5-o1819MfdV2UzwQA00R79ZkbZVZ34ruxZzujQGMD9c5UkrGvu4HwCMRaCkmyZJPHrAlQLtVjcse4tHflku0AtzYxd0YA1DQIBBJ6BbkZlEfbnBuLXprGttltwicJNk~",
+    "securityId": "wQCRzJCUWhY1--81ETCGUGauDSq0RxLvy5wiGQhkvtdePQCSkym33AK8yGhayPWG_GXYGYmYrOfkzDmzTW_uCJuXk1AIYApD3-TywgA6KFi4NMLyI0uvUhy_OMiZllCoPYzinCxh4QQ~",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [
