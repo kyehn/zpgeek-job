@@ -6,8 +6,8 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200403/be0d519b08548cfac1f69d496ee3d8061935c7cbb361ef6c70e75cb5200139af_s.jpg",
     "bossCert": 3,
-    "bossName": "杨少华",
-    "bossOnline": false,
+    "bossName": "杨女士",
+    "bossOnline": true,
     "bossTitle": "招聘经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180413/5c3447ac6c46c9307be4b02322524e81.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "75e5c93739c7d2071H1z2d-7EVY~",
     "encryptBrandId": "25646ac411c16be71XV_3dq-",
     "encryptJobId": "dec1cbe731dae7fb3nJ72NW6ElU~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.951961,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 52,
+    "itemId": 7,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85Aym6MA5EP.search.52",
+    "lid": "39tKBXBOG84.search.7",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·13薪",
-    "securityId": "2R3zv0sRaFCtm-11juKokbkLEsdRDoFhUZIhunW2RVrPmWOJ6fgZgL88y6MCdzJ0CFdjkoH9le8fEebqmG4UZVTDrG3D6s7woeXM6-HZccsj1HNyhi2t3oFBXCra3y4Gnw9oPGG75A~~",
+    "securityId": "A0fTNzLeeTW3G-e1c8JEOGmkeG2cr8SNsfUCZeIvNzNH77PEsBmlgRh-YmxLvFCv-OTgN7iR8mIhJ5dXOrKEvw2X6Xot9ohoKlgQqhb6UlpEvXnRBk6vwIgRZ9XncId-DbotI6D0guAzVBYCk8M~",
     "showTopPosition": false,
     "skills": [
         "会计",
@@ -57,15 +57,12 @@
         "实施顾问"
     ],
     "welfareList": [
-        "免费班车",
-        "股票期权",
-        "五险一金",
-        "餐补",
-        "员工旅游",
-        "定期体检",
         "节日福利",
+        "员工旅游",
         "带薪年假",
+        "股票期权",
         "年终奖",
-        "通讯补贴"
+        "定期体检",
+        "五险一金"
     ]
 }
