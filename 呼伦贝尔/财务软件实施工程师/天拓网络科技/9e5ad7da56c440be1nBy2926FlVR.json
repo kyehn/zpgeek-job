@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 88,
+    "itemId": 24,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5tOrXhEg4dR.search.88",
+    "lid": "3ATU3ZrEooW.search.24",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K",
-    "securityId": "JrSstRAhhj4B8-k1lmyRyELCPlUQxLosb0JN0o9nCrhPUv8310SLmfPAsnwyayL2VetkhY1SW2t6kveFn2aTqO7KrOEkDJT8W0Wpk8emH2CZ6-oyvUA89TQhu1bxfrijxBn7zx3aJYHnBw~~",
+    "securityId": "n1HhrHl2q0w6T-p1CYTLr8oj8zhAyRKa2tw6CLS6bSxA2mm2yebAo5YU7nzdczATvWb3zuT_cL0jtGBV_yVbbWATpFWlCPdiI9KpowtaZNm5ZXY9zChGbFJ2ka0gDovh2dCpHGtZuDjjWA~~",
     "showTopPosition": false,
     "skills": [
         "软件应用培训",
@@ -64,15 +64,17 @@
         "用友"
     ],
     "welfareList": [
-        "定期体检",
-        "带薪年假",
-        "团建聚餐",
-        "绩效奖金",
         "通讯补贴",
-        "年终奖",
-        "员工旅游",
-        "节日福利",
         "五险一金",
-        "全勤奖"
+        "底薪加提成",
+        "员工旅游",
+        "全勤奖",
+        "团建聚餐",
+        "带薪年假",
+        "绩效奖金",
+        "定期体检",
+        "节日福利",
+        "保底工资",
+        "年终奖"
     ]
 }

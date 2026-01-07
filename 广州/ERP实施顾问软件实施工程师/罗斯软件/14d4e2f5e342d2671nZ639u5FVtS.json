@@ -22,7 +22,7 @@
     "encryptBossId": "6cbbda3b8995d0711Hd_29m7FFs~",
     "encryptBrandId": "591e3f8a02c4ffe71XZ60tm1",
     "encryptJobId": "14d4e2f5e342d2671nZ639u5FVtS",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.16616,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100007,
     "isShield": 0,
-    "itemId": 73,
+    "itemId": 9,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5tP2g2WVg73.search.73",
+    "lid": "3MzheqrwFRt.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "xwsPCYXmWq1XJ-S1zEZarxDmyAv0XlMFsvy2C911T5r86B2QuJUG4wTPksUKTyiKXVJ8XrGxX6u2X4WqWC0LwcALnHXqg4Hx4f4I4CmaEXol3esfzDtAPaEbSYxfdo3n0khDi8e9S00~",
+    "securityId": "szP9bDdlQZxDi-o1FUz8o-c5S5btZHGwI6l7SIUUh8Lsi-M9FJBjvrwRU1JCczKue_CgZYzuew0IQa0_VIZhG8CXZWsOAT1anzVNS5bc2N32nvqw",
     "showTopPosition": false,
     "skills": [
         "SAP",

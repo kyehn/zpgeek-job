@@ -22,7 +22,7 @@
     "encryptBossId": "81d0325dcf2547a41nd62tS-ElM~",
     "encryptBrandId": "558fde65217e10aa1HJ60tq5",
     "encryptJobId": "e4df2f8fa5bed4991XJ939-9FVI~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 40.058677,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 12,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "99QUjjE549N.search.90",
+    "lid": "3LP3LU2IkWG.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "DOuWhCyh64Rde-110yjnvsScw6hcMpq8IuwNMoB1HUcOkwqW8lAkBPI9j_cDG_mS6y9LAKKHcd3zY2eEBrKt2MrulLe93CrTk_yyUrNulSHagKEQ1Xw1UkG6w0XvRmx1nN3jZAQo9g~~",
+    "securityId": "S8YytobLS0LN2-w1oVwoofmfofhHE4nBC88rnkWYeT5p8pUzK1GoTpk-METsWr2Y_axda-rjPg1fbFZwnt1w8s1sz_Pfqb5SxUYs85tabLwiFjc~",
     "showTopPosition": false,
     "skills": [
         "免费班车",

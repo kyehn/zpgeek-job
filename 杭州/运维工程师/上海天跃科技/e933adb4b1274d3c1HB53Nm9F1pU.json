@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201013/cb346a9085cb497200596991d2a94616e7a63e0c0a93405d00757b994a57b626_s.png",
     "bossCert": 3,
-    "bossName": "彭鑫",
+    "bossName": "彭先生",
     "bossOnline": false,
     "bossTitle": "技服主管",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "ea3f35afcf3bb8d90nR50tS7FFFR",
     "encryptBrandId": "7d6b995e084ac8750XB80929",
     "encryptJobId": "e933adb4b1274d3c1HB53Nm9F1pU",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.23748,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 32,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1D552Asar0f.search.32",
+    "lid": "3LhZ77bTqzS.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "YN1KI2FGKN8Ht-l1cPnbGd84ZmRuiNxhIQ8K9sGEq-JqdvT4igPbjgVXcOgj0pFIhPIqxKcgz9A-tb0gwYZM8VAHg8v4mAnX8w-Hzpvr1HLy_ybkKFGUgrhPQPzwsFtAcw7bxHnFL1Gi",
+    "securityId": "h642AB7SWI09B--1056isc-CiKuD3xjZ-pk5sztHkkKFQFnEpkGBk5I4b6wmImWp-tBRWRS35QeQyD4DM_IOzz9c25MJCcnWq3P_n65A8IMIzqTsAg~~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维"

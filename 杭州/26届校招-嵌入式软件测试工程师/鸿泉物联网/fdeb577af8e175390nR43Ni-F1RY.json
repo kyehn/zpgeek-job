@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "董媛",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "智能硬件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/73afa733b70e7f2d46840a52da1728aecfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 19,
+    "itemId": 43,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2nUjsB6QT6O.search.19",
+    "lid": "3AVRN3v8UTo.search.43",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-10K·14薪",
-    "securityId": "iWGFpK20tIU1W-e1lI15zjrpRfkbYY1zNqfwzKk9Jo0PwRJ36k4CaJuGyDAY2TbfpDaBrZWZYgYMc3sh7mYJWcmfJCc3JUta8NfvjIPCQfmL5VBy0wjy5kUEubhB5l5QXwKtK4nb2t3ELQ~~",
+    "securityId": "sbIKY0sZINzxm-81hM-67QyokjHWVXn-lDAu0eoe6YfJ5ci8SD5-CtU3J3b2kWkPqPTgJud8rKXJgXTF_26sq93D42jWBbhCUQKJI0dVeBtjf8OyfOWQ6Hl7U8w0vSml8HdtsYdByzxFbnhfV_gmMqrj1UdoMpX5luQWKldD9EU8D9lvPg~~",
     "showTopPosition": false,
     "skills": [
         "汽车电子"

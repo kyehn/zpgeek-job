@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
     "bossCert": 3,
-    "bossName": "耿国",
+    "bossName": "耿先生",
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "af2bf62891d3f23b0nx83d2_E1tZ",
     "encryptBrandId": "ee94f23c2888bafa03R53ty6GFQ~",
     "encryptJobId": "dd7942e482261d2803Z80926GFJT",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.34001,
@@ -32,30 +32,30 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 16,
+    "itemId": 5,
     "jobDegree": "本科",
-    "jobExperience": "1年以内",
+    "jobExperience": "1-3年",
     "jobLabels": [
-        "1年以内",
+        "1-3年",
         "本科"
     ],
     "jobName": "软件开发",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7SWhzf0iag7.search.16",
+    "lid": "3MZdDhWsbLl.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "3-8K",
-    "securityId": "dXyTABHzHIjdF-Y1ZgswuIZmu9vNOuSuUnBGQOBA4kGqRdJ3GlLuxJJgor2tLdaC5eaOOudZruHYZ3KK9jCezYnnACTirJfvcskjDO_lOd_3OwImRSDOx2HRjrL15yOhwWGa3eTHj89t2PA~",
+    "salaryDesc": "4-9K",
+    "securityId": "BsBk68hFsogCl-31EWX2sY5uSbTAnZdsxx34WwfZmgmj6BZsq9gyfFPu6mnniWv5mNHTxulEAWQ7hO_bHg8gCUF6ubyg2X5ALfLIUpJI8jIR3wJ6qSQ0",
     "showTopPosition": false,
     "skills": [
-        "C#",
-        "Java",
-        "MySQL",
-        "Spring"
+        "不接受居家办公",
+        "软件开发",
+        "低代码开发",
+        "软件测试"
     ],
     "welfareList": []
 }

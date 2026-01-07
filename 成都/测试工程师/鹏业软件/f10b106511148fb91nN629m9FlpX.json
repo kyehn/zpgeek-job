@@ -22,7 +22,7 @@
     "encryptBossId": "c6dcbd51619aa04c03V83dy6E1M~",
     "encryptBrandId": "ea92ba86931352e91Hd72tm7Eg~~",
     "encryptJobId": "f10b106511148fb91nN629m9FlpX",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.586143,
@@ -32,24 +32,24 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 45,
+    "itemId": 14,
     "jobDegree": "本科",
-    "jobExperience": "1年以内",
+    "jobExperience": "1-3年",
     "jobLabels": [
-        "1年以内",
+        "1-3年",
         "本科"
     ],
     "jobName": "测试工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85eqXZAzOIC.search.45",
+    "lid": "3McVNMpXgyD.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K·13薪",
-    "securityId": "JnlGfYES_59BO-h1cENbaJ0W_Gv7oy4X72qERONshRD44oM6eZuz3ZwjlJRsRV0lrUTrcjVVcWcgbI06l2o94HbaiWGZFWLj6ChrZypQsqlrBK5_YADvMetVzCaJpbQUXiIhWmS-30UG",
+    "securityId": "AQz0NPvyqO-TX-v1WoozJTTaFyfpa1whfotxncvTgEBl2uFjHnel2G9a2QIZ87_dehPe6jiZ62yc6KyqSUq5KGUb4h4P3CdmfdcTmSGguhRtENJ5cw~~",
     "showTopPosition": false,
     "skills": [
         "性能测试",
@@ -57,16 +57,16 @@
         "功能测试"
     ],
     "welfareList": [
-        "年终奖",
-        "五险一金",
-        "团建聚餐",
-        "节日福利",
-        "餐补",
         "高温补贴",
-        "带薪年假",
         "生日福利",
-        "定期体检",
         "意外险",
-        "补充医疗保险"
+        "带薪年假",
+        "餐补",
+        "定期体检",
+        "团建聚餐",
+        "年终奖",
+        "节日福利",
+        "补充医疗保险",
+        "五险一金"
     ]
 }

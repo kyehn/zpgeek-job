@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200914/01882b2300416b5c91f74cbb7bfce1edb0685de631ccf05b65d77ae91764670f_s.jpg",
     "bossCert": 3,
-    "bossName": "严文倩",
+    "bossName": "严女士",
     "bossOnline": false,
     "bossTitle": "招聘主管",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "b1a50b341243901d0Hx92dW7GVY~",
     "encryptBrandId": "79c5fb1547ee2c221HZz098~",
     "encryptJobId": "b0ef2bc236d5887a03V43NS-GFZU",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.54156,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 82,
+    "itemId": 11,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,27 +43,28 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1DQ1QGodFwQ.search.82",
+    "lid": "3McxtenNFkC.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "5F-WzhZ84iwME-81qkiuOf--sECHvoV02to-F8aEWtCYo6kdmDFno-k42o-Cfx78zCZ6cNc7sTPkEiUPan_snQFVYVrEUbtW8J6HWshldX5W_BU_2b8hhDkzxjXN9uoN0gnGYLFzdA~~",
+    "securityId": "5P-zSABxKgmL_-51eWAHoNUn3L80zQdfqfJfACauXKGr-rUEWI4a9V38dsRjO42jUy9PMFS_W3d88SHKJ3z5s7Hb-V8obHHMQR5WCbzEV2EhxiI~",
     "showTopPosition": false,
     "skills": [
         "自动化测试",
+        "性能测试",
         "功能测试",
         "Python"
     ],
     "welfareList": [
-        "节日福利",
-        "股票期权",
-        "补充医疗保险",
-        "加班补助",
         "五险一金",
         "定期体检",
+        "节日福利",
         "带薪年假",
-        "年终奖"
+        "生日福利",
+        "零食下午茶",
+        "补充医疗保险",
+        "加班补助"
     ]
 }

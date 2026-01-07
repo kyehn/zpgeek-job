@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "西湖区",
+    "areaDistrict": "",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250708/607f1f3d68754fd07290653c4eb1e971b31a2624a72bf96ad7195645f2756a54a0cd63c76af58824_s.jpg.webp",
@@ -14,7 +14,7 @@
     "brandName": "杭州九堃云计算科技",
     "brandScaleName": "20-99人",
     "brandStageName": "",
-    "businessDistrict": "西溪",
+    "businessDistrict": "",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.315361,
-        "longitude": 120.066895
+        "latitude": 30.244922,
+        "longitude": 120.247008
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 25,
+    "itemId": 77,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2nVxuLnqZNg.search.25",
+    "lid": "3AX4eWZFjBb.search.77",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K",
-    "securityId": "EHtYWR0CWj3to-n1tcNUo8cSiLI2Ntg3IfY4hJgaKvneBvjTl4-kWw7MDtw3K9IqJ8NjRa6-dsJ-cEShdaWvyhvUqRTgQGNxuO9TvYl5Mg7VTqdngVzNvHOMjpVlKz-8eOoffCKD55WFVQ~~",
+    "securityId": "A8vfJ7nQ_8nbo-O17mQdUay4OozQZVafmRD4cXdve4h2nNLsOI3xkGoFtaGUD0MhHjC8sfLS-8L7DWhpnbtXP6ppMS2RbBkXCZRu_Sr5cSd2Un9rDFVwPfpDE_PUnad9X40jrh7fqbONMw~~",
     "showTopPosition": false,
     "skills": [
         "Python"

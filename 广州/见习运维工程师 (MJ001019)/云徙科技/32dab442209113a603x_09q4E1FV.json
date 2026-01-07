@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
     "bossName": "曾女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HRBP",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20251201/7bf6f160950405e94f899d6efbed59f5fd687389b066a091f2bab2935f8d774f3d5399db9dc1ef7e.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 15,
+    "itemId": 2,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "rWHlz6QG1m.search.15",
+    "lid": "3NhmXc6cks1.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "NTGQJcKiQfLej-91u8J_VrnaVB95VQePt6dtr2JqCScoY25xG9Di5iBbhcyTpWMx3vL7vDdOAQGEET7sEaVNYzCYijFsU-ixq5EdwKN-mNGjwNzc73cco2FUThOjlIguIB2h1pBsG36IKVYA0JUiYw~~",
+    "securityId": "I33buxGbbXbJ3-h1zoNrGYFybx_0Lq1KAM5WTBEdIgJhI35j-9DcQXhZ8rlIC-sjaLefDBZp5xeqvErMAUma7fF1eXvPluu-D1Baf1zXJVdwUwwa4A~~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维"

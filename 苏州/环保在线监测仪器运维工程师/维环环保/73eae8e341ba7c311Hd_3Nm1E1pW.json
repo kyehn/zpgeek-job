@@ -22,7 +22,7 @@
     "encryptBossId": "fdf2826617a1cf640nd909y6FVZV",
     "encryptBrandId": "def80bbb2242783403F42di4FQ~~",
     "encryptJobId": "73eae8e341ba7c311Hd_3Nm1E1pW",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.307539,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101207,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 1,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8taB6dWTtHo.search.7",
+    "lid": "3MZdDhWsbLl.search.1",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "B58XEcPYntk23-T1tJOOLufUErYU-12dMvqc8AUED5GHIWVbsdE4i-DwdJZCWf3Pz8eZFf3_mSIkAENLrhGuLdotUHn8I_Fj_PKARnpj4SPEksJuM_8LoPc51gIvZUS6bQrEVJtWcGFTTg~~",
+    "securityId": "6nlelhMiIEw5f-81PFFooRGxMQMIUDl8XJZxIxCaDsfrrjOP-mOvhUeeDKM87AfVU5B9mqQuXwwT0_ZHE7yoIDtGcm_qITAvKb8H65fwozBrZGSKpjE~",
     "showTopPosition": false,
     "skills": [
         "接受无设备维保经验",

@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_12.png",
     "bossCert": 3,
-    "bossName": "乔静",
+    "bossName": "乔女士",
     "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "3ba428ef88e6b4040nR70t-_GFE~",
     "encryptBrandId": "2ae44b6338fdf7bf0Xdy29S1FQ~~",
     "encryptJobId": "18356580713175861Hd92Nq5EVZQ",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.257766,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 29,
+    "itemId": 14,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8ta6ByHiGjG.search.29",
+    "lid": "3MYOwWsnUKz.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "l5HwjsZvfJYRM-P1rF-c9qOw033oeddT8cd1fK38U04OCWclNImtnW3q3upucX4kIzY80QiG0oIvj6zBa9ujs8Pnd3QPmE803TVxpAOvLNl_r7qEDi4GzWOP8jEMEWZuFOSPeU51yU5y",
+    "securityId": "9l3iUp3j0Bzui-y1LihOLRsZd-uAl0vljUBYiIxgvDa5dsw49R_3MBCm1zp6RivBA70I2U7_syYFpiL7G8AiLbQwLLj189ajv9_kWZOSUpxTCneXBg~~",
     "showTopPosition": false,
     "skills": [
         "测试工作经验"

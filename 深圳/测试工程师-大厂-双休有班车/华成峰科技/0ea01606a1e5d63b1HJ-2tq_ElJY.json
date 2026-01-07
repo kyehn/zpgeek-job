@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221115/607f1f3d68754fd046ac3747accd4dbc99812e9e5eb2c90162abb640be7cfc6cff11b2632f3f3ad4_s.png",
     "bossCert": 3,
     "bossName": "刘女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20161031/b0ec88849b8ea678c9229e31f1c0e2dc52f5c68ef489b4af1dc81d4520bf4342.jpg",
@@ -22,17 +22,17 @@
     "encryptBossId": "ac2757772e4674761Xx609q7GVM~",
     "encryptBrandId": "aa857de4e8f3b0bb03R-3N66",
     "encryptJobId": "0ea01606a1e5d63b1HJ-2tq_ElJY",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.528523,
-        "longitude": 113.951307
+        "latitude": 22.540547,
+        "longitude": 113.933736
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 85,
+    "itemId": 11,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,32 +43,27 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7Qo0F2DN8Bt.search.85",
+    "lid": "3MKhAVbxXgO.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "9-11K",
-    "securityId": "ytcLm6gzltFFX-G1LM1_Xk9FpTzIgqU5lQ4yplHzFNl2AxFjoQiBLKjkJ7OBqqwtNYT8iczbkvyEXqVRbuDMxDAu-JKKRuaho1KPrdOzkGLLvvOz7EGIiWUYX4l43B4WNyz7BXLhvkZfpuR7s1UOeb_Z_GrncJuZJshK5liPsUpzNiQ~",
+    "salaryDesc": "8-10K",
+    "securityId": "0HqK2SejeMuhF-J1CMsxY5UmVzLJFufmxwgo8htG1R8AGOvKsGLIveitZ3HclRRzcAuF1yi1Nk3M2b14x-vNKZSwsMSpPV0CcGOGcPe_6Y46G377",
     "showTopPosition": false,
     "skills": [
-        "大厂",
-        "自动化测试",
-        "音频测试",
-        "Python"
+        "功能测试"
     ],
     "welfareList": [
-        "五险一金",
-        "加班补助",
-        "补充医疗保险",
-        "员工旅游",
-        "餐补",
-        "带薪年假",
-        "通讯补贴",
         "交通补助",
-        "定期体检",
         "零食下午茶",
-        "年终奖",
-        "节日福利"
+        "节日福利",
+        "员工旅游",
+        "通讯补贴",
+        "补充医疗保险",
+        "定期体检",
+        "带薪年假",
+        "加班补助",
+        "五险一金"
     ]
 }

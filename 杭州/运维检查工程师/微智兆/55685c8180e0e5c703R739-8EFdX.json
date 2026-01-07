@@ -22,7 +22,7 @@
     "encryptBossId": "7c4bc6b85a2898f833R82dW5EVE~",
     "encryptBrandId": "5a7e3c70906a8e5e1nRy0ty7EA~~",
     "encryptJobId": "55685c8180e0e5c703R739-8EFdX",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.34072,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 21,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1RbZOxuWonm.search.21",
+    "lid": "3NlkyisvifE.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K·13薪",
-    "securityId": "8QbhXADL686Fq-a1XSlA1cxtdSXRheEXXmYxbOyjMa3gqAHI2RyCBYfnPB7xViboPnYRUNTjPhf4fTuEYNK-rJZCbpjaHOM8-SjsvbNgH7Qv49gWnmnfZj_I8PiD_4UKQmgDlDMSvutI",
+    "securityId": "bTVru0t4FRBwK-H1c_ttZkJ7D_g7igCyt8bdLo3S2THo-GIJ6ihGSRHPx68ZnAZRLOAtE1azfmDFcGcCKKpyk777NVW-Ni0xBo-gQetdTtUQy5-68g~~",
     "showTopPosition": false,
     "skills": [
         "水运维",

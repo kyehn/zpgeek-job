@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
-    "bossName": "代女士",
+    "bossName": "金女士",
     "bossOnline": false,
     "bossTitle": "人事经理",
     "brandIndustry": "电子商务",
@@ -22,7 +22,7 @@
     "encryptBossId": "93c56049592c3b071XV73tW9EVo~",
     "encryptBrandId": "44fd195f7a8daed11HF729S8Fw~~",
     "encryptJobId": "b6f06c5af38f4c5f1XB939W5FlVS",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.336203,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 22,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t9BJD0aBYO.search.22",
+    "lid": "3MYqwsf4D3Q.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "v1c8dNBCVSu2Y-v17_GjPPjY3SBNNO93cJNpHIYVpCmOodzuqW8MaN5rOkj4rBcUHpMe_3wTwOx1l3nUx00f1LIxbv9JgZTtXJoThhxLssoJvnl3w9MSVnunYEDs1csgG1E85DNKBCLr",
+    "securityId": "oun4uwES2S_uf-s1DaRT6cL-g0t2sR8GKrKPLXcNUaNoYhiEdtliTLzgWvdFz9swBrT4ao3q5X7xhsEypoR4tctxHHmUwIgDTY8vpMTiPT23Y8hEYA~~",
     "showTopPosition": false,
     "skills": [
-        "餐饮",
-        "零售",
         "选址开发经验",
         "品牌管理经验",
-        "门店运营经验"
+        "门店运营经验",
+        "零售",
+        "餐饮"
     ],
     "welfareList": []
 }

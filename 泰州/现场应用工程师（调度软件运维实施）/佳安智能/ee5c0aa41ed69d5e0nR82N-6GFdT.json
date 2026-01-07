@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240229/607f1f3d68754fd024cf3916fc0134e1bc051031a98dfa8dbfb54f4ba24bf26cda628dbb75b7b140_s.jpg.webp",
     "bossCert": 3,
     "bossName": "王女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事经理HR",
     "brandIndustry": "自动化设备",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220830/7bf6f160950405e9d5d96f4c77dfa7226989debd62e17651bc538d57ffc674fd58bb3106925b5e24.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100914,
     "isShield": 0,
-    "itemId": 6,
+    "itemId": 7,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2j7mFhFmOc8.search.6",
+    "lid": "3AYgGS93XFN.search.7",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K",
-    "securityId": "PTZvfZlmNs1Zu-_1GbU4knQmSvd4LpuNkkRAoqCqduJ02Ts1I1CrM6Lcn69VjtDWD_CTCLBAIKQdG-ZapgmNOI3EcAKtsSIjGsIkjxvegbB6JomfQWChhHLQnbZqy-iz6_MTVkrfm_mF",
+    "securityId": "YWCxH3Q2tCp6Z-Z1cqY8hy7b8ELAryVLs15dZa0wmVOFipPPWrPYQymO1r_WhQonrDZZZiRXNP0_53KFcmqTa0AI_0A8QYcK52ArBvqPOBTfld6bx1G0y4Ml0s30WVbhT2iHJZ5hcnYJhI1bbe3lg9n6yhSvX54RmzZiVQy6vrg_0ic1",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

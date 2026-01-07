@@ -22,37 +22,37 @@
     "encryptBossId": "50a1c3b5c52cb1020nN73du1F1c~",
     "encryptBrandId": "5c8d48711a9f0dbe1Hx-09y0GA~~",
     "encryptJobId": "32edcc1aff5d6e4b1XVy0ty_FlVW",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.207359,
-        "longitude": 121.614247
+        "latitude": 31.210452,
+        "longitude": 121.628251
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 48,
+    "itemId": 12,
     "jobDegree": "本科",
-    "jobExperience": "1年以内",
+    "jobExperience": "1-3年",
     "jobLabels": [
-        "1年以内",
+        "1-3年",
         "本科"
     ],
     "jobName": "软件测试工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1NkLIh9kn5u.search.48",
+    "lid": "3Nn9J4m5Vn5.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-10K",
-    "securityId": "UZmjV8rFhU4F_-e18zA5suNP_sI_X2q9x--tLHNGt-w1ko8UNdZQas9uYjGy0YRfN5AqjiPEl4J026838tQnHLK-ZLnu7ZgXJm4PWauz9QcnYwlMDKpoQvlBHczJYeVVe8OTtyOIMHvG",
+    "salaryDesc": "5-9K",
+    "securityId": "QCO10HbAliNJj-s1TOvJrwO66ZRZJeRYe7a6HjQ5GtzQlyu4yRDD86VUh6Fb5EWuOkV3fVMwml4Wv5Jnu1orfqswN16YNPXdLZSumSPH0EreMJYLeg~~",
     "showTopPosition": false,
     "skills": [
-        "稳定性"
+        "相机"
     ],
     "welfareList": [
         "补充医疗保险",

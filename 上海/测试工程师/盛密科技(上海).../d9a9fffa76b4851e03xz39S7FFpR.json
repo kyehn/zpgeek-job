@@ -22,7 +22,7 @@
     "encryptBossId": "7ed6e12bb21d90df03Zz29u4E1Y~",
     "encryptBrandId": "fe6ca40d383dd0d60HNy39i8EA~~",
     "encryptJobId": "d9a9fffa76b4851e03xz39S7FFpR",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.40581,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101405,
     "isShield": 0,
-    "itemId": 53,
+    "itemId": 10,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1RhCqMLHIgC.search.53",
+    "lid": "3NorYa90BtD.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "Aeywfdk97aV4K-S1WlzomAp_nFCbN4j3Q_2Dd1unDnKEYMs5sJhFXMlzIZsNS_lMpKTw__nNJzakEgdoSpJsWgjOwPX5L6qFksl9XyfAE_Dv9AzgEzQokymbnUUyoRjqq_kyIos3-RwU",
+    "securityId": "ExJe9OM4WOnOc-J1WezJYh4GRHljpVcsdPSi3P44plGpJKjPgOfB9ac6e3aH9YfDsovEkxARepQRGFsrgrXwyVw72-wDJItfHuLiWbsPQj6PFqFIlw~~",
     "showTopPosition": false,
     "skills": [
         "仪器仪表",

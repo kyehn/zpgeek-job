@@ -22,7 +22,7 @@
     "encryptBossId": "cd510d9443c897203nd-2N-_EVQ~",
     "encryptBrandId": "a3cf0a499b7d26f30nZ73N65",
     "encryptJobId": "c05bef5b8f71970a03Jz29i_GFVX",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.461746,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 81,
+    "itemId": 9,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9ixNDCnSCN0.search.81",
+    "lid": "3MNHLzMK3L3.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-7K",
-    "securityId": "J7HkwAAUV0-b9-g14ck0euFTXgLog1Ycahy6WRE4gYY3jsY3SkwYVLisJxqikUkQKC1fMVMt8MJJ9eIH-wlLM3ZGBgwWbzXEriUoDbbUPlLgc5toWRzNgvU62p28daImUdBiWw_pvAg~",
+    "salaryDesc": "6-8K",
+    "securityId": "MRYpVW_VMTp6I-51eCyCM7PPONL1YipgsWHBiPx86Qs9c0sQUIB1sbyRbfTRSYLnfXL80E5BajV746-9m_u7qzKuDD9rtXq-PtYPKonR-3tU-Hj1",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
-        "自动化测试",
-        "Python",
         "Java",
         "Shell",
-        "测试工作经验"
+        "测试工作经验",
+        "自动化测试",
+        "功能测试",
+        "Python"
     ],
     "welfareList": [
         "交通补助",

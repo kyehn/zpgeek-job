@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171225/8bde5a8cbd2bfe00ceb2fa54c0e04037877a0cae6127b9eb2f67f7a5a88c783b_s.jpg",
     "bossCert": 3,
-    "bossName": "王思聪",
+    "bossName": "王先生",
     "bossOnline": false,
     "bossTitle": "产品经理",
     "brandIndustry": "电子商务",
@@ -22,7 +22,7 @@
     "encryptBossId": "f4da26374e3dedee1XJ_3di0FlE~",
     "encryptBrandId": "5afb3e53b697bea10XV60t-4",
     "encryptJobId": "4b4e93068e4873e91Hx60tW9F1U~",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.456149,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 73,
+    "itemId": 15,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85iUkLsOwla.search.73",
+    "lid": "3Nv8MIg5gK7.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "-21IMRdKh57U_-y19LFQ4YBndwcyp4TMrI7QxDuQdFMfkSGCrKs58tsfNbiuhNqciePRwFuZIDc-vR-9VKHOgl8AxzfsUEgrAd_4RKtJ2fLgP-2lxodxwmEeiXTf1t7z5briqTVbOA~~",
+    "securityId": "yf8w6O4d0gWDA-l1bLRXOXdNvH9QgK97wncQLL400RuQW2a5KpcmvbZsd-kcTl96DfQ-HpC-rFw27qSGS1XAolndvXbY7D2A1iJJINqFx3NFW-8~",
     "showTopPosition": false,
     "skills": [
         "测试"

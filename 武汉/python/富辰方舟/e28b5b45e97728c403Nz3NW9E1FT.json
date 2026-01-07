@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
     "bossName": "黄女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "投资/融资",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180305/12df1245ef081087de137676f63853f63080739e8dd4adf18a8417b41480c4d8.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "09eab5954a3dc8fa0XR93dq6F1pU",
     "encryptBrandId": "69a914a222c8dd461nF-3ty1FA~~",
     "encryptJobId": "e28b5b45e97728c403Nz3NW9E1FT",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.558336,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100207,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 1,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2i6WeVhN0qj.search.74",
+    "lid": "3NwSxFmA7Ft.search.1",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "kx9HG4CbBNd2i-r19VQocjmSMpJw7-_Kz6CRE6gH0nPhdC6YDrNs7cFWx3OkARGxTU3S5bn9RckLTMFfARKsGiiHJtb9pGQJmNq1KjXSwWIQf-lZoTn10c-L7I_lH3iOyZ91uX1VC5s5i8Fr1GAgP2q1NY2NaJs3oahoDLGTq-hefPBLzw~~",
+    "securityId": "fr1n8xzvzj17l-r1nidxAfBd1h4NrMgXO_v7lpysD00VPa2e06f2XGyUh3HbunjZ0sh1cDD_IHAr6qWq7t0KMABgyANVecoS5lmLv-bITDvZ8uS5EXo~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "Java",
         "Docker",
         "MySQL",
-        "Redis"
+        "Redis",
+        "Python"
     ],
     "welfareList": [
         "五险一金"

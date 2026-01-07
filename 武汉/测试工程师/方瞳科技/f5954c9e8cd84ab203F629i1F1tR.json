@@ -22,7 +22,7 @@
     "encryptBossId": "7017459331249f4833d509--GVQ~",
     "encryptBrandId": "dca134cba0f965201nN_0tW0Fls~",
     "encryptJobId": "f5954c9e8cd84ab203F629i1F1tR",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.506733,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 53,
+    "itemId": 12,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85iUkLsOwla.search.53",
+    "lid": "3Nw1awc3Zyf.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "0CfgPDxiMKl6I-Q1J-GpQu9qDgGif4bYJCp4p4EvTUIJbpAOTKOG_EP2hBGE55xmBoq-SS-5yLrFOl7Z1i1HWma8pWsXA4neGOp8l2womsDMWz0Diih1UzvQbpD1BU5yl2rVN7w2WhX2nw~~",
+    "securityId": "No-gT09CqRmr--Q1pgzfaGOb3kwRpnN2sBCjHuYdz_IF86-Hjb-wqL-bQK_cy50qMePFR5jWpnMuxUhFTTedoaK_NkqTsWBGtMOI4NP-vCncuS9XNA8~",
     "showTopPosition": false,
     "skills": [
         "禅道",
@@ -61,10 +61,13 @@
         "Jira"
     ],
     "welfareList": [
-        "生日福利",
-        "有无线网",
-        "年终奖",
+        "带薪年假",
         "定期体检",
-        "五险一金"
+        "节日福利",
+        "生日福利",
+        "五险一金",
+        "年终奖",
+        "团建聚餐",
+        "绩效奖金"
     ]
 }

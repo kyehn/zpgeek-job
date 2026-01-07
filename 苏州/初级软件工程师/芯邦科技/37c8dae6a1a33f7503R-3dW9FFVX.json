@@ -22,7 +22,7 @@
     "encryptBossId": "d6db3893c739c9f80nR_09m1EFFT",
     "encryptBrandId": "3e4fc1f6579f1aa903Rz2tq-FFQ~",
     "encryptJobId": "37c8dae6a1a33f7503R-3dW9FFVX",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.305611,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 86,
+    "itemId": 9,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cFXiYkj6Oh.search.86",
+    "lid": "3MZdDhWsbLl.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "U0JR70I5rCoyx-T1O5eOZxM9GqbOOwfGLYCb0xjcHyFKu1cbfcDJBQl7Swn_rgvZb0-vOqOQ_SL9p6M_oYl97JUKV0_xUWYzPedU7PAg4RoSz08mnDNaGI5AxFWJMMKE2Iw273nr3JSYNvc~",
+    "securityId": "P0VMoWA5sgvDx-u1ntHyZPUctrjGuZtqChu8IjHTIktOGjXAcCoBeRFVdUSVjXYRgc37p0UE4sfqW9XdbXtQxInFdbNBRh1Nvg3R5jGR4BZdRH7JzTcm",
     "showTopPosition": false,
     "skills": [
         "MES开发经验",

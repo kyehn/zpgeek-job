@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180622/0689fa72f7adaf429a66a89430915ad156db1ad7c344705799fc5802020d5978_s.jpg",
     "bossCert": 3,
-    "bossName": "王紫彤",
+    "bossName": "王先生",
     "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "158795560e35fb5a03Rz29i1EFo~",
     "encryptBrandId": "acc7f0430427f1e71nVy3N2_EVA~",
     "encryptJobId": "df145c0efe1d0d2f1nR82ty_GFFT",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 40.201697,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 84,
+    "itemId": 9,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "99QUjjE549N.search.84",
+    "lid": "3LOabYPQZQn.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "k2d0YCmDDt_iy-y1-hXfJwGDRL-kvvhPutISZ00rOUeF9EA_6ZolWssld7lgApGEhDIae0KNecCXoxv6QJ21LY7Ut1zHysVvpvTFak4gKonY5NKbXfWkJOZAQ-JJbjl6Go9WHAu8hKh4qA~~",
+    "securityId": "MUEnRiOzPm1V0-11lEZaH3t7SZh-8BEy0K1JHj0H7P6sKZG3m7iB2RLZJFYZ9v5kDK5Kcha7maBG-r5DMXQQKJDYZcPLkPnoVHnpYIRgABZUgD9vJXk~",
     "showTopPosition": false,
     "skills": [
         "实施工程师/顾问"

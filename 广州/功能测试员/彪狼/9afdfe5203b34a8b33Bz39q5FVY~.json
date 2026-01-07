@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200629/5dc6448fd83100b16aae595faff446a2792125628cc6fedeb3cce7e3bdaffc4c_s.jpg",
     "bossCert": 3,
-    "bossName": "黎春燕",
+    "bossName": "黎女士",
     "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "电子/半导体/集成电路",
@@ -22,7 +22,7 @@
     "encryptBossId": "b74ee4b86c5218201nV_2dW0FFtZ",
     "encryptBrandId": "d4b9c8f5d9bbe87f0H1z2ty7Eg~~",
     "encryptJobId": "9afdfe5203b34a8b33Bz39q5FVY~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.953263,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100026,
     "isShield": 0,
-    "itemId": 67,
+    "itemId": 15,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nkB0qUcyfE.search.67",
+    "lid": "3K9uQblTs9F.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "GYPQeafJPDtnZ-I1RhBbhpapWVbjvGPm2eNldiDeROiFxDBUsQYjfkSzyLpzblvDwv7gQ-O32OmptYjhMH4nPJDJN8kolbhx2DadfNtKetDXGHWC1R-8q9H4FW-MayvWp4TBTtQPv-uy",
+    "securityId": "a2Ck-bAoI5J7T-I14Vwd3t2-vu8ZmCw5ueKQR33mB8-YqOm-hlMxeHHcRVn9qwYPQ3xPqxJm2jj8fCjMNZFZx_cjxfUg1-62UKk_uhK5qJtKNVdghg~~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

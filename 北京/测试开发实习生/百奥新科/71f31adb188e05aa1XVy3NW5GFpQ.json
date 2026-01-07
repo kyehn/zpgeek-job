@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
-    "bossName": "阮建国",
+    "bossName": "阮先生",
     "bossOnline": false,
     "bossTitle": "人事主管 HR",
     "brandIndustry": "互联网",
@@ -22,7 +22,7 @@
     "encryptBossId": "d093d600adc50b8e0nZy3NS9EVFU",
     "encryptBrandId": "d3234c28f808a89e1nFz2tm7E1Q~",
     "encryptJobId": "71f31adb188e05aa1XVy3NW5GFpQ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 40.037141,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 29,
+    "itemId": 13,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "971dsGYkUXw.search.29",
+    "lid": "3LPWGcke0nK.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "VRJt3Taw9Q29T-_1hj9k9WCCafyICIgqKSSpUvF86i-Rg_OwFRq6dvki4xCyR2-Q6OUocdZrUIg4Pv-8ZQre0ve9YgctaRwXpJI42dLVlQmK-nEXYz-FO86P17FpJnZMrfWC_-J9R-Yk0Ls~",
+    "securityId": "njQqPfBKdaPDf-j1qH8Rq_wS8fPi2laGYOLhr8oXq8COmMFFC331fJnOwmR3JZT9YOhjYI_Tvv3TbQ71MmW3b1yok0d6Dnef5WCKp0aKEsPeFxNmLwVp",
     "showTopPosition": false,
     "skills": [
         "Python"

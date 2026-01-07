@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "",
+    "areaDistrict": "武侯区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20210521/c930d126b6c438791c8028bc8c72a10df59dcd36971738d363ae73a2a00625af_s.jpg",
@@ -14,7 +14,7 @@
     "brandName": "华西公用",
     "brandScaleName": "100-499人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "",
+    "businessDistrict": "华西",
     "city": 101270100,
     "cityName": "成都",
     "contact": false,
@@ -22,17 +22,17 @@
     "encryptBossId": "879a1c83c3b0cc2a1XN50961FFM~",
     "encryptBrandId": "57d4d15d1486c4d21nxy2d24FQ~~",
     "encryptJobId": "94f4242c64ce383b1nJ63dq6E1FV",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.58237,
-        "longitude": 104.066006
+        "latitude": 30.640951,
+        "longitude": 104.059386
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 34,
+    "itemId": 5,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "859LUjxmkAs.search.34",
+    "lid": "3MezI8NS7RP.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-6K·13薪",
-    "securityId": "VmM7rD8VhAkou-L1OtMaZu3w8nJGl1-voZHv128eszTD6M03t58u3xwIYUpb2t2meAw86nAJMOgpJB9i34j0CGfJ_utVvT_d15MF6phGvXH892_hb9lM-R5Z5g0zRvLoqXZiXgylvviJ",
+    "salaryDesc": "4-6K",
+    "securityId": "UNNdvPIcs2pXK-11NI_RCDAQo073o6lM9T8Vbub4Z3bN6chXrtkpsT3RfEPKdu86H3YpCz91enseL9M8M02Bdu18hqP8GFw7pF495a8lPPpCQcwSNg~~",
     "showTopPosition": false,
     "skills": [
         "桌面运维"

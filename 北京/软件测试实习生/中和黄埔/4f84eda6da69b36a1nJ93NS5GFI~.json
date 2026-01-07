@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210930/607f1f3d68754fd09936bdcfd8ffc53846a4cf0eb03308d8483cd5391db0c75c396762acae8e24d5_s.jpg",
     "bossCert": 3,
-    "bossName": "李威赫",
+    "bossName": "李先生",
     "bossOnline": false,
     "bossTitle": "hr",
     "brandIndustry": "企业服务",
@@ -22,7 +22,7 @@
     "encryptBossId": "72201a75b6fad6a71X1z09-_EVI~",
     "encryptBrandId": "31a48959b800632e1nV43du0GA~~",
     "encryptJobId": "4f84eda6da69b36a1nJ93NS5GFI~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.90818,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 74,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "应届生",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "972CEznkAGo.search.74",
+    "lid": "3LP3LU2IkWG.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "CKPe50uvmxQo--e1_lGVsozJdU90JKMdJEbjGfxgvNHKQRA8H9bqJuDKDsH6CHmKoTPF3DK6_m7tm2NzUBBL56IwhJmVFTv9JDkxXSwCUP9k9fsp5SBqXZilzgixBdzml7bSabfqSOI~",
+    "securityId": "8aKTUG_Ny5-GU-g1DqNb4ASdVZ384FFMv52Sq7rMBIoA52QsAXuUpotp4-Q4SmXiE2s1KdY9_CybAJx3K3NnBiQrXn8n0R_QPI-ZnT-koQIcng4C",
     "showTopPosition": false,
     "skills": [
         "实习生"

@@ -22,7 +22,7 @@
     "encryptBossId": "6f2ffab42cd702590nF-3928E1BY",
     "encryptBrandId": "082c6a8652f7a08e1Hxz39W7FFc~",
     "encryptJobId": "6bb7e80f988603a703dy3tm7E1JV",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.490199,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 64,
+    "itemId": 4,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "fSlYJRPpJE.search.64",
+    "lid": "3MNHLzMK3L3.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "ayywh34GHTBJE-N1WmKNJV2m1XW7G0PyuylgFJOQzTqD2CJ5ycROQKh7uylh82XsTXGDK8aIeWLUPnB8ijGw5kH4gTQbgdL_W2K366HgTo_dcA5Ed2XAflrA8SDlBvyYzc9b-RF9Vy0nG4Y~",
+    "securityId": "TifMRuOZltvab-g1aM491cn9O8Oa1-6DZ15pT61j14BDby27hjfJJHIGqj0YnrA1se_jKip3_mOs7LSVl_SKsxLOHXP9wj0TpUM1Inl4apEDqXfzWRt_",
     "showTopPosition": false,
     "skills": [
         "自动化测试经验",

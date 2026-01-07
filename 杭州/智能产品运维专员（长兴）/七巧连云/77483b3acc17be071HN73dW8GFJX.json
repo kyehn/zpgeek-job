@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
     "bossCert": 3,
-    "bossName": "章佳丽",
+    "bossName": "章女士",
     "bossOnline": false,
     "bossTitle": "行政人事",
     "brandIndustry": "大数据",
@@ -22,7 +22,7 @@
     "encryptBossId": "75b99e6e4bfd6d0103Fy3968FFc~",
     "encryptBrandId": "6ea4c228b996a6e31XR82dW5FVM~",
     "encryptJobId": "77483b3acc17be071HN73dW8GFJX",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.200758,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100005,
     "isShield": 0,
-    "itemId": 69,
+    "itemId": 9,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1D552Asar0f.search.69",
+    "lid": "3NlPVREyHKu.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "Dh51IyDGp3jTN-L1Rwp8nRnd7IzYDgZPGdK2Vcz6mDYVKbaG9z3Wqze9e8Xw0LdYDPd19iEQwFl3FtNCql2PG5uWRRDNicHdmDiH7s4jfoblW8Zo88FyfBb6Ougxxape0iSmDP-PYD2B-g~~",
+    "securityId": "2pPgYvITTft91-s1s58ajRgm0rJ08JuXu7cu3ybq2dwhro6j7YSvtIRRbXh2LIPPGHCqfEE6SnNaXlRiLZ8umzg1BJ67lep5dWVMQ0Jt5lFsOe7Sj6g~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维"

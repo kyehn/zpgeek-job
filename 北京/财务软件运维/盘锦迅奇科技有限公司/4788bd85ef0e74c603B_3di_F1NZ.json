@@ -22,7 +22,7 @@
     "encryptBossId": "291d9667665fa8c31nR52d-_GFtX",
     "encryptBrandId": "6149010abaa031431HNy09y1FFM~",
     "encryptJobId": "4788bd85ef0e74c603B_3di_F1NZ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.95460666198444,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 56,
+    "itemId": 4,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8ngf2u8JXxO.search.56",
+    "lid": "3Myoyebn4g0.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-11K",
-    "securityId": "k0cIKOOkfHFn_-V1UPkiAzEZzonLqq9d4tWIU7avlCRhvOKxZcaREPjz4ACGjHiwi2bCRQxpE8DBpZt0WkQ-UJQ1-8-Ot76GFpViALHIcxy7uZufitR2Z3uzNUefUoKzCgdc2IKcy-p5gAQ~",
+    "securityId": "5zh1wWZ1-ozU9-n162anqSIZKLT99XiZeDLTgWxleGoJr9FKZDlnJ1p6gpIy9A_8F0LOCPVIxnJv8g0KjrQbJZ_7FAo3HMUG6345j6K3VlOr6BvjgV94",
     "showTopPosition": false,
     "skills": [
+        "实施交付运维",
         "ERP",
         "SAP",
         "财务管理",
-        "税务"
+        "税务",
+        "SQL"
     ],
     "welfareList": [
         "年终奖",

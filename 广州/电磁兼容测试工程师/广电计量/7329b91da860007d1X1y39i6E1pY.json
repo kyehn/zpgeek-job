@@ -22,7 +22,7 @@
     "encryptBossId": "22cd16b22296d8c70XN72Nu1GQ~~",
     "encryptBrandId": "a4669c49e8cb4b961HJy2Nq7Elo~",
     "encryptJobId": "7329b91da860007d1X1y39i6E1pY",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.951683,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101304,
     "isShield": 0,
-    "itemId": 57,
+    "itemId": 8,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nm8yQxOi4B.search.57",
+    "lid": "3Ngs5b1fh91.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "9NftyY3O8e-uP-f18QspbE29_kCyYlztzC7S6Lm-o13-nE8yPpgyNTMk90rQkqoQz97Z2nqs-MwCx5NrprRpuQfOUUGS8uhE4ddixsbRT7KfvUPhDgr0pKYpT27ITJ5yaU7GIMbMjw52",
+    "securityId": "aGL4gnQEAMj4Y-m1DjhlHPzmj_waQa-pH1NJQ99v9G2upjdw3WG4dblGAcmHxYO3AqVvg1tuSiQQ0uoM0qdGfcHoDRx5sOp-MJlLQ60AhBtELmhXSA~~",
     "showTopPosition": false,
     "skills": [
         "电磁兼容测试",

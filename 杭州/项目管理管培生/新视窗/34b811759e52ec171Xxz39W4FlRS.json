@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250619/607f1f3d68754fd0b443e858925f66e9d468b40089872537d1c1d76369aa4c5ac929f5edf4411d30_s.png.webp",
     "bossCert": 3,
-    "bossName": "黄梦婷",
+    "bossName": "黄女士",
     "bossOnline": false,
     "bossTitle": "人事行政专员",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "2740f741788e84050nV_2tu7EltW",
     "encryptBrandId": "2d049cd66f686e480nRy3Nu4",
     "encryptJobId": "34b811759e52ec171Xxz39W4FlRS",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.290273,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 12,
+    "itemId": 11,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1DdHL6tDCc5.search.12",
+    "lid": "3MFPGSjKGKg.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "-9gE8hJ4f1RFr-I10UKB7bl5Und58ihOzBYGGRbKURqhLpOLNPzTX8bU_57ttnusBVxr2G1DzJX2obNLNozbq_fFb5qYIfllEh9vWQys2QsXerYH_WD1RM4MtTesu_6j_grxF9T_1YaE",
+    "securityId": "wsjG3uk8mMu7s-21U8TYX0o4947QniwQd1MtYAw9cpCSJGtkQ4gGuVdu-QDnJMLfsbJ7bbjuysHwVLgvGN8KRedEwCjyYo0psNPYVV70aSa2zEfgtQ~~",
     "showTopPosition": false,
     "skills": [
         "软件实施"

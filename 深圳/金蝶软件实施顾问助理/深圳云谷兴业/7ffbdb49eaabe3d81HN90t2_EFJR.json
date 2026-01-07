@@ -22,7 +22,7 @@
     "encryptBossId": "b01904a334b027330XV42ti4EFpR",
     "encryptBrandId": "12bc55fef346470d1Xxz0ty-GVU~",
     "encryptJobId": "7ffbdb49eaabe3d81HN90t2_EFJR",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.64392,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 56,
+    "itemId": 3,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85mKunhQhfs.search.56",
+    "lid": "3Nj7njvX5o7.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "42apHpiAwtdn5-A18G_BfX79KcP7UrNxFKe08w0N8bxAvTldGhODlFv-rS8dm8FFYj9iGsj2jT_F2vlZwUEyj4xq99yq-ljxXOsnQ49JIYaTnf5Cv2yntgqrG4p3_bHDsV5eesqIrB4-sum6f-d7-_vgjhjlUFX8d8SHsPBIGmdvJMzIVo0~",
+    "securityId": "09CKk9zh2NBr9-u1MNCKuAaEc9L6WQo7_NxkPOCdrWJ1wfv3xwI5Hm_RN1kp0RfSaQ7r5FDAfym-Be0u7mwyjJfYdxz1KJCugECpBh3tS8D5NnLMqreWxl1xPyR22MHNuyN_fmErobrAOvax-ycCsOPV",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
@@ -58,20 +58,19 @@
         "计算机相关专业"
     ],
     "welfareList": [
-        "意外险",
-        "带薪年假",
+        "有无线网",
+        "节假日加班费",
         "工龄奖",
+        "带薪年假",
         "年终奖",
-        "绩效奖金",
-        "零食下午茶",
-        "全勤奖",
+        "五险一金",
         "保底工资",
+        "全勤奖",
+        "绩效奖金",
         "底薪加提成",
         "团建聚餐",
         "节日福利",
-        "节假日加班费",
-        "加班补助",
-        "员工旅游",
-        "五险一金"
+        "零食下午茶",
+        "员工旅游"
     ]
 }

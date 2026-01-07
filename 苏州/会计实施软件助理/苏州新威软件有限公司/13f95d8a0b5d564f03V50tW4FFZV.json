@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250522/607f1f3d68754fd0dbac8c7bc974386d6d4425687650e0bc966c425c0899b6b29c30c85481a4d834_s.jpg.webp",
     "bossCert": 3,
-    "bossName": "华爱春",
+    "bossName": "华先生",
     "bossOnline": false,
     "bossTitle": "经理",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "e5de9ce6183dc2510nd539m8EFBU",
     "encryptBrandId": "4d2fda57fafef3af1nJ72dy5FlM~",
     "encryptJobId": "13f95d8a0b5d564f03V50tW4FFZV",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.250297,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 14,
+    "itemId": 9,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "858LDCqDNrc.search.14",
+    "lid": "3MeZktgy4VS.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "NDTgHdxME29iI-i1laB383YHLIdp13anmm14a5FARrc7QrThERd9MWNsnm9DZuYokS2CJEZu_8sf5HYPgVJ_eVvvm-ujLd2X7Rg5pl3rJ3IkQTIbx-_YgkRS_a5JtMGEKVSiK2dLwy3nrao~",
+    "securityId": "n0oJrSC70kEAw-K1SEJ-zs4wfkRoszx74K5vPGP0jJ75RlJAaKjb-5lbN8eLhb2ZxZOXzIrIA_Foy-ifgNGqEc9D1MyzwHXEQe4rTojwgTTV_TR9byPB",
     "showTopPosition": false,
     "skills": [
         "财务相关专业"

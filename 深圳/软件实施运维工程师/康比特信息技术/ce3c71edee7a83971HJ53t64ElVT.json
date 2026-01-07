@@ -22,7 +22,7 @@
     "encryptBossId": "270de3d74642192e0nN93di6FVBX",
     "encryptBrandId": "152b6045fb4fc8531nx93Ni1Fg~~",
     "encryptJobId": "ce3c71edee7a83971HJ53t64ElVT",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.558449,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 80,
+    "itemId": 2,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8mTz92nG1Sy.search.80",
+    "lid": "3MM16sqncFx.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-10K",
-    "securityId": "McMSZcNMOB-6q-D1-qxpmvpTHBH_tcKEfQsHUL9pThgZBH58Pe4sDD7e9Z5CEut50ZisozYZcMD-VFhok16thfKj5bFWnggNww99itER0uxmsFjLcqpOQfjfqm-DH-zH8TweRvOxoGzRNA~~",
+    "securityId": "nNEtAh98YhDYm-A1mKLuFeeaevxZItJ8ONv45woUVCazVF_qejfILKw-0DWMf19FaCVKzxG8nXMNmVBKSgAFqQPo5ga-tQoKByN9L_tBghce5dlXGH4~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维"

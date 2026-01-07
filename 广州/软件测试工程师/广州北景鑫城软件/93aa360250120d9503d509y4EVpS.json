@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240108/607f1f3d68754fd029f5857ec94c7f052c01664d65bf5143d9951a933dd084786bc13605af690afc_s.png.webp",
     "bossCert": 3,
-    "bossName": "潘才俊",
+    "bossName": "潘先生",
     "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "互联网",
@@ -14,7 +14,7 @@
     "brandName": "广州北景鑫城软件",
     "brandScaleName": "20-99人",
     "brandStageName": "天使轮",
-    "businessDistrict": "南村",
+    "businessDistrict": "祈福",
     "city": 101280100,
     "cityName": "广州",
     "contact": false,
@@ -22,17 +22,17 @@
     "encryptBossId": "6f21176ff4d4af800Xd70ti4GVZV",
     "encryptBrandId": "66939d2e877d68451XF_3Ny1FFU~",
     "encryptJobId": "93aa360250120d9503d509y4EVpS",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
-        "latitude": 23.005908,
-        "longitude": 113.346308
+        "latitude": 22.971278874461685,
+        "longitude": 113.33456184492277
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 176,
+    "itemId": 8,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,27 +43,30 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1IqyCWII4ha.search.176",
+    "lid": "3MB11RbCd6a.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-7K",
-    "securityId": "8Foe9nzHHBEO_-A1e4CI7I_-7O3dj5QZLznXlFcj6FM2qQi7rz0uzGSaQhW7vzLWu_jcbyzzmBRgX1UeJAVJY82hvzDLMzfyf-ywSHpnVRdy-DtZ_SEcMuUGwIS62rmqBmtwGIzgAxqlLdA~",
+    "salaryDesc": "7-10K",
+    "securityId": "x7LI4j5ZianG4-r1PBTKEY1QoUlSyOJQhQoRzxnHBrYsqio7nf1YpIVyYbEVYypoYe-LLvQAURN--sucKmAG5ia4niCkUqIUfkaBv-JVW7UdXYMeAtBV",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",
-        "压力测试",
+        "自动化测试",
+        "性能测试",
         "功能测试",
         "计算机相关专业",
-        "掌握软件测试理论和流程"
+        "业务功能测试",
+        "Python"
     ],
     "welfareList": [
         "全勤奖",
-        "团建聚餐",
-        "零食下午茶",
-        "定期体检",
         "节日福利",
-        "带薪年假"
+        "零食下午茶",
+        "加班补助",
+        "带薪年假",
+        "团建聚餐",
+        "定期体检"
     ]
 }

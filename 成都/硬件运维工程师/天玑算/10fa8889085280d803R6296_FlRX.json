@@ -4,9 +4,9 @@
     "areaDistrict": "郫都区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240204/607f1f3d68754fd02d81a9ba83bd50fcda02a9995771ab83a1275398a4b5cf49d216b79534218698_s.jpg.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20251211/607f1f3d68754fd065bb336920db3af6b74dbd1708c8703fa1275398a4b5cf49d216b79534218698_s.png.webp",
     "bossCert": 3,
-    "bossName": "刘璐",
+    "bossName": "刘女士",
     "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "学术/科研",
@@ -22,7 +22,7 @@
     "encryptBossId": "464c496a3d4f22f00nF50ty0GFFV",
     "encryptBrandId": "db91ac8922d813e91nBz2ti4EFU~",
     "encryptJobId": "10fa8889085280d803R6296_FlRX",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.760272,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100304,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 8,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t3IziUSQkB.search.36",
+    "lid": "3MdlnfBr1Zr.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-11K·13薪",
-    "securityId": "QFQEQMD4dqJPT-61se90FXqeAMBlW88M7QSb6u-GFQteQc0vXcweaCcsbzYShGzu2XI2TVAlxKw98SCsVn_Ojryr33jFXYc1bIoxpHcPN8-T1lwP_oaUcMwjR52-QkULwtcMbPdgZu5MXDA~",
+    "salaryDesc": "8-9K·13薪",
+    "securityId": "ksnqrtteAczx1-h1ihFDwVEkZKV2SF7xZK-Xl5F30ennAgjLVIYYQNh12Q9WEEteJz35Le3fRUOGjdRTiYrYqcZUnBiFdiUKHpSSRgNUysWizy-fqrnV",
     "showTopPosition": false,
     "skills": [
+        "实施交付运维",
         "系统运维",
-        "IDC机房运维",
-        "实施交付运维"
+        "IDC机房运维"
     ],
     "welfareList": [
         "保底工资",

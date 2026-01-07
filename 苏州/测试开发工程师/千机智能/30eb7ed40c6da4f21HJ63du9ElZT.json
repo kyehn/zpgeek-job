@@ -22,7 +22,7 @@
     "encryptBossId": "9fb29455c49777611H172t-7FVs~",
     "encryptBrandId": "90bf841f9210c9461Xdz2di-Fw~~",
     "encryptJobId": "30eb7ed40c6da4f21HJ63du9ElZT",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.458165,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 56,
+    "itemId": 1,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "247JaorJvEL.search.56",
+    "lid": "3MXdb3nzoPs.search.1",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "h87wgJgVQrdAD-Y1B9-j6PM0CT-iS6TQlmXrH4yoB4phJHb2rMmw9bC0OZTnlCZmJL88tyy4zbG3gRgeE91vZBTy7SGWFzMpGMpckiZV0J_-AuXrlQGQfXiaCByCeO-7DA_9b_pvBjPN",
+    "securityId": "GlFZXhjjCs_23-l10nd8e2sebkptXtaYQlKfouCAMPjgh-f6gy3GKcLqhvVNw1stpMCAmj7WRUPwZkQjIuosu5ELITzmiE8KVireWxcc-12FQcmZHQ~~",
     "showTopPosition": false,
     "skills": [
         "测试开发"

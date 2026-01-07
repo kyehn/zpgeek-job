@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210603/145e92d5e1e90e5d85850372de70f0ce4e50ba5d37fff968498da1d139a0e240_s.jpg",
     "bossCert": 3,
-    "bossName": "吴国伟",
+    "bossName": "吴先生",
     "bossOnline": false,
     "bossTitle": "招聘经理",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "651f5ec2164c42d20nV-29S8FlRX",
     "encryptBrandId": "0da41a42c5975e901nZ80tq5E1s~",
     "encryptJobId": "6470a72afc1aa92303Z42dq1EFVS",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.198453175168684,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 5,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1BSAgRLh7L2.search.5",
+    "lid": "3MHzvVPuz3A.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "55PwHXOSj8JeO-K1wUU8PYc4YIkIl6a5SrK4uZCZsRQXKy2OSSthKEdQn-I2oh5bw12QMyTpG8NfKNl2HBhQMn9oYNyxz53Eal0lluz_B5tM7qOGIwac5xXNgUZZYcMP8vN5oDZECG_D49w~",
+    "securityId": "xeBHgrq25sJiK-C1RauFZfjGORPxvsvpPUws1fryhZRYN68ne71yhhAwODwv6PVhmuLAQDKCeBczNsytPWv2ZS_-oAOH0Ru2BN6R3zRiFFdNQIPHsaJv",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",
-        "功能测试",
+        "自动化测试",
         "性能测试",
-        "自动化测试"
+        "功能测试"
     ],
     "welfareList": [
         "五险一金",

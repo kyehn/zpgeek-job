@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
-    "bossName": "王珍",
+    "bossName": "王女士",
     "bossOnline": false,
     "bossTitle": "质量部经理",
     "brandIndustry": "仪器仪表",
@@ -22,7 +22,7 @@
     "encryptBossId": "cc1c10fc4d225fe70nd50ty-FFZQ",
     "encryptBrandId": "79ff438351f0316a1nB629-4FVU~",
     "encryptJobId": "4c9c514a2ba3f9861nFz3dm_EFFW",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.241454,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100913,
     "isShield": 0,
-    "itemId": 24,
+    "itemId": 8,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5IuHBpwggLg.search.24",
+    "lid": "3MGH2edvkXx.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "QiaGczRxkCmZW-Z1j0cVtZ0m7uL_0au1TKM9_6W3FHS4nYHFGg3JRkLju3cMNTqhxtv4tW64WqXXNxPcFwuTlwybG07Fya6hpMoKX-i8h_SwR7my1kh_7yM8hqOaXAtHIW3gxUSqYm1VREI~",
+    "securityId": "3e_XL9WROT8Ed-w1N9oIeRtp3K2t9tnsxgP1qhQpWM-IvLkVrdLgj0WrAk57pAYj7klqSh2reXGGu1lPjsVpk6GzpvY840kvSuT-W_uhOmaFhCGVeSKN",
     "showTopPosition": false,
     "skills": [
         "软件测试"

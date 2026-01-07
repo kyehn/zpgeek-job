@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
     "bossCert": 3,
     "bossName": "金泳奕",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "生活服务(O2O)",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180420/1659e30859ef899eddbcade9c0666252cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100007,
     "isShield": 0,
-    "itemId": 29,
+    "itemId": 53,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1Reo0d3VHOn.search.29",
+    "lid": "3ATdokwJDOA.search.53",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "sVUIFFNFSTFxI-91fqaeIpE-_oNOvkWBL40V_gnN9cEqbbe0loHnorV4px4nAtJ9t6OuAUPjp1PSOpJBaK7H3Pu3wim4d0wug2saR0onqvtvT880Mchg9rE4LbyyPobgjQexIIv0DmoQ",
+    "securityId": "vmI9oiJKiJ6Ka-L1xWL9M3BnJUiR02O1ihNn0WUBpuOFGVxO8gJ5eRhklKVYdur9Rnq_l4kI39-Mnhe_J9fBH7wQ29vs84DQxjin7__DHHdyi3dOhjS14KdBYxe0abBpvuAKxArKaqdsEUlvpPOwrCYG8v9dbdFRB_5dxc90gEt4V--5",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

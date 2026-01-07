@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "经理",
     "brandIndustry": "家用电器",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20251209/7bf6f160950405e91b1e744872936c934c4c0eae7076df07b53803f4db20f836f5f89eb211a9018c.png.webp",
     "brandName": "亚检宏科检测认证",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
@@ -22,7 +22,7 @@
     "encryptBossId": "e725a675d6236b550HNz3d-6FVc~",
     "encryptBrandId": "4aa09cb8ecee3fbb1HZ53t6_GVs~",
     "encryptJobId": "8c532f563e71e95a03Vz0ti5FFtQ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.684336,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101010,
     "isShield": 0,
-    "itemId": 89,
+    "itemId": 11,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cXUJHUmg9S.search.89",
+    "lid": "3MKJLTsMqQ7.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "yhsXZnoNvx1bL-81U5aQr1YFbY_MFksJnT8iyxIPHvf5_1VhkNSwK6OfivtBCOAzcFgYxj6YQm13b5PYku5zqR8FuLwJgWnIWTtt8G_PeRQXOlFQ9K0xG-1vtTr288nACQWsx30itJ7siQ~~",
+    "securityId": "3gJ7QfSKyFJ8Q-p1fiajTs6wheBKTStiCQ4UWwkvk_Zhhf41tmoPSH9TI_A0qZ7Bi0RzyFkcGx2t_gL7lmEPJ6-hObnO4uHwofNgc79nz9CNVP2bbB0~",
     "showTopPosition": false,
     "skills": [
         "安规测试"
     ],
     "welfareList": [
+        "包住",
+        "带薪年假",
+        "节假日加班费",
+        "节日福利",
         "有无线网"
     ]
 }

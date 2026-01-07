@@ -10,10 +10,10 @@
     "bossOnline": false,
     "bossTitle": "人事HRM",
     "brandIndustry": "智能硬件/消费电子",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20251218/7b5b554d84f9729c7a379e206c0cd180e2c25ee2308a1c7705e3ad51a6ddb67491f9229df96c18e1.jpg.webp",
     "brandName": "杭州芯锐特科技",
     "brandScaleName": "20-99人",
-    "brandStageName": "",
+    "brandStageName": "未融资",
     "businessDistrict": "金桥街",
     "city": 101210100,
     "cityName": "杭州",
@@ -22,7 +22,7 @@
     "encryptBossId": "af8401a9743a55710nR60960F1pU",
     "encryptBrandId": "c0fb6efc11293fbd03d92Nq-GFU~",
     "encryptJobId": "7dea80d4be6bfba703Nz0t2_EltX",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.332538006682388,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101401,
     "isShield": 0,
-    "itemId": 18,
+    "itemId": 15,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9fux70iPfYI.search.18",
+    "lid": "3MHzvVPuz3A.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "cH-NjEUO9gMQv-t1TVsuVS_wcDuIBTOGSkiuq4Fns9YMhfXqWtMbfyTEfF0PvbwNLqLJkuU9EY9rTFsnW2cUpqopbEfVaDZTpX_9zrJPIhgye9X44VgqF3UTLLlW_FEGClZkBqdzkr7b_Sg~",
+    "securityId": "G7ZBJ43EWrJTa-616cayxAJiDhMle7IzvGAKW9daKEqsFcL_tWT5L0rvfKzK-WiYdGQWkPQZzEC3_L-VKf4WJXjwp5Ax9UtiFNJa_CcCg0X4pgPWBsKW",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",
@@ -61,5 +61,15 @@
         "计算机相关专业",
         "掌握软件测试理论和流程"
     ],
-    "welfareList": []
+    "welfareList": [
+        "零食下午茶",
+        "保底工资",
+        "餐补",
+        "节日福利",
+        "底薪加提成",
+        "年终奖",
+        "生日福利",
+        "绩效奖金",
+        "加班补助"
+    ]
 }

@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 40,
+    "itemId": 2,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8hlk9es1p10.search.40",
+    "lid": "3LOabYPQZQn.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "1HmfPUYoxJKLD--1hpsDCvASOQLdM01WrJdapwAMqd6IKqeFiIUKib4vqliZG-3UKNBUb87eLmRMsfDHcsuG4gWiFJMAGNFlBNp-BNa9ij15zCrAnA~~",
+    "securityId": "C6DcvBuvVNpwX-l1f5zZOMSqHyVKmMsgDYWRXjLn37gaRioNZxQ6DEqVqgwBwU_VR729LCkf32Kh85oi-1ynDDMF0dJTZvdxa24HE4Grsmz2aaQXmg~~",
     "showTopPosition": false,
     "skills": [
+        "软件实施经验",
         "ERP",
         "OA",
-        "计算机相关专业",
         "财务相关专业",
-        "软件实施经验"
+        "计算机相关专业"
     ],
     "welfareList": [
         "交通补助",

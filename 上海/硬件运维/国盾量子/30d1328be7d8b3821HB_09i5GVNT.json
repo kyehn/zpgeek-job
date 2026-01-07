@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220507/607f1f3d68754fd0ae8d58ec9b9cda0ee7600da721aa993015ea67580b2c038abde4b379f2bcb6b2_s.jpg",
     "bossCert": 3,
-    "bossName": "李丽",
+    "bossName": "李女士",
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "通信/网络设备",
@@ -22,7 +22,7 @@
     "encryptBossId": "2be0ef08c6a0b2a503d93Nm1FVo~",
     "encryptBrandId": "69f51a27111e12401XB-3NW1GA~~",
     "encryptJobId": "30d1328be7d8b3821HB_09i5GVNT",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.123451,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 12,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1Ng4Z6aInNe.search.90",
+    "lid": "3NoRfh2xHj7.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K",
-    "securityId": "rM5xFLi7cpYFr-R18RToUIOAJ7WM0XXXC0uaUXA3D9YkYPcm88qtM0ItKhKshMB9O5XnnCqO52FfjaaAy24YQHCmE_7FhuYa2KPSNLwkVDKY_ZDJWs4IO6leo49eJCg7R7ZG9wQ0THjo",
+    "securityId": "GdWHQkGXA5aW7-b1NwTADQ3hyoIoZ9MAD3lSVNBRctmV4SAv55zNYlE0dPCwGtWj6c8SudCtqTiq8eHi5K_Y27ddfdxnrz6Wgdho-bToapanD_hT0A~~",
     "showTopPosition": false,
     "skills": [
         "电子/电气/自动化相关专业"

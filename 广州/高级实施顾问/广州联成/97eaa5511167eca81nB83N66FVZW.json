@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
-    "bossName": "吴玉春",
+    "bossName": "吴先生",
     "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "e348421180c294980nZ80tm1E1pQ",
     "encryptBrandId": "925d4ad8c33752581nF_3du7GVM~",
     "encryptJobId": "97eaa5511167eca81nB83N66FVZW",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.035638,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 6,
+    "itemId": 13,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,19 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nhUL0yfvgU.search.6",
+    "lid": "3NhOt7TVotj.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K·13薪",
-    "securityId": "a0AsqEVi_QgW--X1bcXr0iTzBi5MtOwAaPHKsoWljHP49_Z372cDdMPcyItkUtItMB0r9CJoOohzLv0UOLdiDrDfQGl9RnWCyIX3Oemt3tcYXakFA1rS69sD1MwMGFfyyddGQrrKDEQh5E4~",
+    "securityId": "y9qRyJJzdK8I7-J19xpXh5axLUTgDWbaWRvxrkFZPOZmi6cCPgfnHntvNhZI9ix6-ZDY9dtXHrEPB9gdIncz0tMzrbobYvmrxLy8fLbfiVkQm8rDu8fc",
     "showTopPosition": false,
     "skills": [
-        "HR",
+        "MongoDB/Redis",
+        "MySQL/Oracle",
         "实施",
         "运维",
-        "软件"
+        "软件",
+        "HR",
+        "计算机/网络系统工程师"
     ],
     "welfareList": [
         "全勤奖",

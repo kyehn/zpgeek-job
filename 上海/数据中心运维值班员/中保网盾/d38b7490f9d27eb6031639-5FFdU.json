@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "浦东新区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "艾女士",
+    "bossOnline": false,
+    "bossTitle": "HRBP",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190626/c770eb6ef10c152b57c223e5373cf8bb12dfc5631c022c7757004bdb42abf9aa.png",
+    "brandName": "中保网盾",
+    "brandScaleName": "500-999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "金桥",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "883fb80b53fc89c60XB_0tm-EVZT",
+    "encryptBrandId": "9000e4e32974374a1nd52d2-Fw~~",
+    "encryptJobId": "d38b7490f9d27eb6031639-5FFdU",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.253409072893746,
+        "longitude": 121.619733345617
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 14,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "数据中心运维值班员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3LMicDYYhe3.search.14",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-7K",
+    "securityId": "4VWhb1mhLcp0--41cjudsIDrN1jQAtSLAVN9X4M_KUYr8ZpITYHkG15IiSgoARJrqQhhsSpqI18nLP1kbHfrwXQSAJcBIiV-ERJo7f9nXTi5XSiqGes~",
+    "showTopPosition": false,
+    "skills": [
+        "IDC机房运维"
+    ],
+    "welfareList": [
+        "定期体检",
+        "年终奖",
+        "通讯补贴",
+        "交通补助"
+    ]
+}

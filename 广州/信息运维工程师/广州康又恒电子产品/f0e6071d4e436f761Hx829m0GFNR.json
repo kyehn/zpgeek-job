@@ -22,7 +22,7 @@
     "encryptBossId": "b62c6fd469e40f350XN82N-6E1JY",
     "encryptBrandId": "a5861f53f1b1180d1HN52d26GFs~",
     "encryptJobId": "f0e6071d4e436f761Hx829m0GFNR",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.126915,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 69,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85rFRCfoYnx.search.69",
+    "lid": "3NhmXc6cks1.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "3-7K",
-    "securityId": "Q0bwoVEHKb8FM-P11bnxmIXrqipaL-sHQSOPK7DClcIb6GGS0tkjQxA9IPjdX48Ozf4uWD7shK5WHQw_Uwr5EbSTDx_lyVtZZeLo8Nrp7QXuEvEPrB2BTxBPRJ7GmfNot3LcLTPRCeWjZtI~",
+    "salaryDesc": "4-7K",
+    "securityId": "1e3WDGoyJygSN-z1cLkn8EBH0mCgZSJ_7ef2w35yqts7K2SZ9lShMQ8x04QLTYYxMdGrJIZGt9mkTdXj5Mvh2tEislrrNWkIH-CNu_CZbfAoGqLtq0wx",
     "showTopPosition": false,
     "skills": [
         "桌面运维",
@@ -57,5 +57,24 @@
         "运维经验",
         "打印机/复印机维修经验"
     ],
-    "welfareList": []
+    "welfareList": [
+        "有无线网",
+        "绩效奖金",
+        "节日福利",
+        "员工旅游",
+        "住房补贴",
+        "保底工资",
+        "年终奖",
+        "带薪年假",
+        "零食下午茶",
+        "节假日加班费",
+        "加班补助",
+        "五险一金",
+        "定期体检",
+        "免费班车",
+        "团建聚餐",
+        "底薪加提成",
+        "意外险",
+        "交通补助"
+    ]
 }

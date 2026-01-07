@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
-    "bossName": "张雷",
+    "bossName": "张先生",
     "bossOnline": false,
     "bossTitle": "IT",
     "brandIndustry": "生活服务(O2O)",
@@ -22,7 +22,7 @@
     "encryptBossId": "6fba6c31fc91513d03F_3d2-GFc~",
     "encryptBrandId": "f5459f8f93341e461nZ92N6-",
     "encryptJobId": "e3eef9c63be19f941XN809m7GFdQ",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.59688,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100007,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 10,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85lNtMSjUHO.search.13",
+    "lid": "3MMreG0qJrR.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "QOVKq3YjAQtiy-z1XiKnLKjCLh2-mYpTa1rTbBqde2zJAJwCwIpv3Nw2drCT_kcvMHL1QiqYIp28Bc1iFObnrh2qPK1eZ-8y6Y7DJ3q7c9Zhn2HOWq8V-Qck729FQdcNOdgzw2-GITk~",
+    "securityId": "qseXDnHub9lFj-p1sRBHvB2oIVDxxGszcd5JrLg76Ogb9x2wHNAyVY4JWtSfn54OaeiZaQBmgA97U3NpvP3riz7Ikrrl25Q1Ev_1MW2wTl7Q8wzO",
     "showTopPosition": false,
     "skills": [
         "桌面运维",
@@ -59,10 +59,10 @@
     ],
     "welfareList": [
         "工龄奖",
+        "包吃",
         "有无线网",
         "免费工装",
-        "节日福利",
         "带薪年假",
-        "生日福利"
+        "节日福利"
     ]
 }

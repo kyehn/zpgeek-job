@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "金牛区",
+    "areaDistrict": "成华区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
@@ -14,7 +14,7 @@
     "brandName": "芯云科技",
     "brandScaleName": "20-99人",
     "brandStageName": "天使轮",
-    "businessDistrict": "天回",
+    "businessDistrict": "龙潭",
     "city": 101270100,
     "cityName": "成都",
     "contact": false,
@@ -22,17 +22,17 @@
     "encryptBossId": "49be3691e5920cf203Zz39u9EVI~",
     "encryptBrandId": "d4bf0ff9091a0e431n182dW5EFo~",
     "encryptJobId": "945e2e3dfb2b28cb03Z82ti1GVRR",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.774041,
-        "longitude": 104.097149
+        "latitude": 30.6920140019078,
+        "longitude": 104.16348968194828
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 10,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "859LUjxmkAs.search.10",
+    "lid": "3MezI8NS7RP.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "ABOuLH89QJdAd-119F6xqZ-ct5Nl5H6G4ElaXuKZ4sQ5FPCuWaPhG8eCwrgRl0RHpvfYer4m8C1ohiBwZI_1Cog0zERDxA6qJO16IhLKM9JrjK44A9Z9IQ8t2lsXPnWBcqegk1iXDMJofQ~~",
+    "securityId": "vl0avUjzDIh3t-t1NR2QqZvH_pjTJ2htG4iBYlc5C0s09TtS0SwcvKE_3Wj816H3oZR-aHX6KS_4h0gbw-E8EYkkbrPUsnb94WFC5WUp4i4lS7YsyF8~",
     "showTopPosition": false,
     "skills": [
         "安全运维"

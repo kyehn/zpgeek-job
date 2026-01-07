@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
     "bossCert": 3,
     "bossName": "郑先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 69,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,15 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2qxoqHYqQ8c.search.90",
+    "lid": "3AYgGS93XFN.search.69",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-9K·13薪",
-    "securityId": "uO8B-IGPXq5DJ-D1qjNAnTP5Lrg9PuMu6uB2qPWBDRuTy72mYswYzsBKjlfkAKSSwaefvQpvWQTrqmYCF_KXQ2AasxQ_lucLyvBtqSvyS6-MzJoDEpDb9U01XksukX8k0C0Xot8fciJM1A~~",
+    "securityId": "es_RdIJs2NaAG-K1QChdDOsNjsdnA2WqTfFpzGh_-4w_36JQtk4KFt64NJHY3lVTyKbt14WI31zM0LuDd35glw5KI_OMvmhPoRwaKA6rQX4VcgvaE2_3T09-rFtiKqh-3ZBmoEFFJ1mnAgIr5GDpDwYBjlXEOzse8X-vtAmB9AYiAUebnw~~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "银行"
+    ],
     "welfareList": [
         "定期体检",
         "五险一金",

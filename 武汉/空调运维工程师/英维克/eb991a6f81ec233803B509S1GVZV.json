@@ -22,7 +22,7 @@
     "encryptBossId": "acd0f0b0741336330nB_2Nu-EFNV",
     "encryptBrandId": "56a7eeb974f31ce10XVz2tm_",
     "encryptJobId": "eb991a6f81ec233803B509S1GVZV",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.417836,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101304,
     "isShield": 0,
-    "itemId": 60,
+    "itemId": 13,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8sY3R63qMZm.search.60",
+    "lid": "3LBIFnARE5j.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "8dEdQV3aIFpfq-B1k7mem1QsCrYeR6fttMjMUE06dBzZXFAdAjpwVBllZ3JwYw-Q1pXAXtfvIJ5Wg1Ky9D_XJ01bWciIJLR514QuQjFRedz8jas2UTlwdpMmVPS8zGhlB7w9komvssD1",
+    "securityId": "imvrnvjmmD5TV-p1m5Bgg1_3rZo5C7fBaypizD50KFQ7TM3Ec6x8I9ltKTXGEvrcQH5p6drYw1bVwl20Po5DXDRYxvVvnLT1nVrFTXt9KOxqhIuo8Q~~",
     "showTopPosition": false,
     "skills": [
         "IDC机房运维",

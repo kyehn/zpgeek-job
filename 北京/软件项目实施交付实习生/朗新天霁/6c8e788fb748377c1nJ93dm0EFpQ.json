@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
-    "bossName": "余佳",
+    "bossName": "余女士",
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "d65fbea5bed09acc1HZy0tW1FVE~",
     "encryptBrandId": "da404f1e44eeb1f31nZ72dW7Ew~~",
     "encryptJobId": "6c8e788fb748377c1nJ93dm0EFpQ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 40.036538,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 46,
+    "itemId": 13,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "99Sp16pATEr.search.46",
+    "lid": "3LOabYPQZQn.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "lTQ6rH182iWg4-s17z8Gb7N62wkhScwTxtUrpxnbEYY5ODrXYFSBMiC2fUJ2yR0IKScJUaDAGsA5XN0Smiqla-bq4k7cEc2aFcdX7E7qRaQfwQqlmcDYUeGTsA-suqIMYs9OAj-7XSMo",
+    "securityId": "A4NkqhslBIU5K-l16wzRuqmhAa_jIjL1A_t3s8k9Kti3r6K_QpyMvVy8njp9TG8bPP2WQz_TJRbz5_flqkp_nU9lI3wZ0IUE8Bej2FiBmBw6lgEH-A~~",
     "showTopPosition": false,
     "skills": [
         "实施工程师/顾问"

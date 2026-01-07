@@ -22,7 +22,7 @@
     "encryptBossId": "29c880e2687cfcb00nR639q9F1JW",
     "encryptBrandId": "aa857de4e8f3b0bb03R-3N66",
     "encryptJobId": "2a534fbaf9586d3203N52NW7GVFX",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.090020882646996,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 81,
+    "itemId": 2,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,22 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85u7tui7enu.search.81",
+    "lid": "3MB11RbCd6a.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K",
-    "securityId": "WSAf1ojjTj-Iw-I12I7rP7LRNWshQWGd0j0NeF99oOfDRFhPPDYkpEAWCVrQPOn7rBvQHYsmvq5hWGVvAPFO0MAy7f4EKsLg3kTZmmOjp6juCj-dC8eW_R9_cMH0Zz1h9p-Y98FLTZ3c",
+    "securityId": "0gHIU9GIcJ7MH-n1X0E26g49hTW5cVJCrtS9BeQzfwxbCk-iA5FdOrbYVMJ1OBxoUmkRVaVJWhR-u5tnZPsq7JcPcAaKA0VLzAiRD41dB_jieWrJvg~~",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
-        "性能测试",
-        "自动化测试",
-        "Python",
-        "MySQL",
         "iOS/Android测试经验",
-        "计算机相关专业"
+        "自动化测试",
+        "性能测试",
+        "MySQL",
+        "功能测试",
+        "计算机相关专业",
+        "Python"
     ],
     "welfareList": [
         "五险一金",

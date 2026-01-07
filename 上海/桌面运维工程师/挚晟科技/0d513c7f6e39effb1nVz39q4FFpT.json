@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.dianzhangzhipin.com/blueapp/header/images/image/20171128/0d2d261fbc722087530ee0bacf045d02_s.jpg",
     "bossCert": 3,
-    "bossName": "胡咏杰",
+    "bossName": "胡女士",
     "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "智能硬件",
@@ -22,7 +22,7 @@
     "encryptBossId": "1377ee76770f230c1H19098~",
     "encryptBrandId": "7cef7d5a1c0c8cb11nVy29W1Eg~~",
     "encryptJobId": "0d513c7f6e39effb1nVz39q4FFpT",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.217223,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 12,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1Nfc7C8pF8B.search.12",
+    "lid": "3JGCmju3Lmb.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "-5vCGM-b_6yEl-R1NoQFDk4fsSO4WBg1zFqFAlzMIRpffLbVakrKfwF2RJGdj3ci0czdKkMbmSkQCo_2OaNH2eQ3m7MQ0R2MOPLlXfGWO61TYCZbVqlLQ4Qa8u-voXcic_m_m38r",
+    "securityId": "WbhwBsjrU7VNm-Q1NAE0X2imTDqfa4Ks_H6ZzbiQbHYs6uesu5mNyjtkqULnz-pjGwp7Fq3wSidqaTlA81r-t463cEuh45j5DA-9YFSmpBXLJA~~",
     "showTopPosition": false,
     "skills": [
         "计算机软件"

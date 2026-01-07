@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
-    "bossName": "张银翡",
+    "bossName": "张女士",
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "通信/网络设备",
@@ -22,7 +22,7 @@
     "encryptBossId": "451af28e349fc2160nZ62d27F1M~",
     "encryptBrandId": "f8cfeb6f1186dc480HN53t2-",
     "encryptJobId": "bd3d59c58feb60ef1nF72N24F1RR",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.357761,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 23,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1D552Asar0f.search.23",
+    "lid": "3K4peMxLJWp.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "gSqenLNkmZgtv-q1V7qkws2MqfczTvq2-njTIfi_mu7tu9BF5FU6dduTL07dV41weFWGtDdTj41hOpC3BU73IAJKjWI11ENjum9sjVxcbSkZTYZx2bBlBR9DSb6hovaqMOV4KtKLS4Y~",
+    "securityId": "l2bKnymwN368t-H1DDnt9jiZrT_NKNq9zsACMYV5KF0_BZVDX0u8e-S-Jf_HALgSxF1MeMQlDATy8CxDKvfGBkpeLn6KW7pgJ-rBjWE5tIOemyWT",
     "showTopPosition": false,
     "skills": [
         "机房运维"

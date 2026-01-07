@@ -22,7 +22,7 @@
     "encryptBossId": "b0345da42a899c730XJ_39y5ElA~",
     "encryptBrandId": "8d1de5af75ce2fb31nx-0ti9EVE~",
     "encryptJobId": "615684d41b65fc431HN-2tq_FVBZ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.238735,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100015,
     "isShield": 0,
-    "itemId": 52,
+    "itemId": 12,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1RbZOxuWonm.search.52",
+    "lid": "3NlkyisvifE.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-12K",
-    "securityId": "ABFFxWN7sgPch-m1dxSz8jVhUTONGLG2lDjofNd0D2ez470v82KA_TnmyqJ2X8M_mmU-xYXagQsyJ5vtWCjxyiLtQr2Ktqg1qJL256bIDmYMyNOSZUPFnKCl-9RJaxuO3W9gJTceE2FW_w~~",
+    "securityId": "sDSYTXeaCJP0P-Y1bRPol9ODc1wHEW8u2oKeQmmkQoTWGuqZfZySat4JttHu9b4RnyvP5JIPXIk39b_GJ1Cm8wcS6JhvzfbfX8W_aFBsPrFQ25G242Y~",
     "showTopPosition": false,
     "skills": [
         "电子/电气/自动化相关专业",

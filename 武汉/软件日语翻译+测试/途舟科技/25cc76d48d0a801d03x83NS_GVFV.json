@@ -6,8 +6,8 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250221/607f1f3d68754fd09d04fe8f60c52fd7d4830a65a4e4dbf57cb433400bdfc1147ab545a2320c7dc0_s.jpg.webp",
     "bossCert": 3,
-    "bossName": "李硕",
-    "bossOnline": true,
+    "bossName": "李先生",
+    "bossOnline": false,
     "bossTitle": "CEO",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200817/1948902d216cd8b32c2f62d5005be22a7cb433400bdfc1147ab545a2320c7dc0_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "d860468969691e401XJ639-7Flc~",
     "encryptBrandId": "3d7d9b268a79e5c71nR539u1EFs~",
     "encryptJobId": "25cc76d48d0a801d03x83NS_GVFV",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.487205,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 62,
+    "itemId": 9,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6mzKKBHatDu.search.62",
+    "lid": "3Nv8MIg5gK7.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "ZsyotmSktlXZ_-91R-xBNhCzP4NzTO18ivGCCav54t5Zn920zKeV94YBuJjkM3BTJcG1PvyRRXbeOhlsyYQ5Yn_a09-d0sZ36ix6_W6u-cYE3c45fPB4uuOPGp37wdZCMjeDA46koZ7Zi37C5RDkiep_7FfZmDLeRmXpzxzSAcngfS0Oaw~~",
+    "securityId": "THzy5QQAa7tel-e1R4KSYF-1iEi1Op-TYRir2v8tYpd4VSAESfjUOJ7FGbSGldrlvLEv_L5K6Yk98GAEyzd5ozU0WyzFhFwA-Im-pYhlnFiEMDXrcmo~",
     "showTopPosition": false,
     "skills": [
         "功能测试",
         "性能测试",
-        "日语N2"
+        "日语N2",
+        "日语四六级"
     ],
     "welfareList": [
         "五险一金",

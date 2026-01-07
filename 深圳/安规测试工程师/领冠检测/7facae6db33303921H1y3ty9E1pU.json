@@ -4,12 +4,12 @@
     "areaDistrict": "坪山区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250522/607f1f3d68754fd0ec00d06987f00b2bbe68d3f136b826e155e7b94591009e84611546bea1433244_s.jpg.webp",
     "bossCert": 3,
     "bossName": "谢女士",
     "bossOnline": false,
     "bossTitle": "人事",
-    "brandIndustry": "检测/认证",
+    "brandIndustry": "检测/认证/知识产权",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220428/7b5b554d84f9729c76a732399bdd5400f0810cb28e7bbb2355e7b94591009e84611546bea1433244.jpg",
     "brandName": "领冠检测",
     "brandScaleName": "20-99人",
@@ -22,7 +22,7 @@
     "encryptBossId": "39f6c9a2f00c08df0nx539S6FlA~",
     "encryptBrandId": "5fdce31b6715a3891XR70tm_EVY~",
     "encryptJobId": "7facae6db33303921H1y3ty9E1pU",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.749098,
@@ -30,9 +30,9 @@
     },
     "iconFlagList": [],
     "iconWord": "",
-    "industry": 100606,
+    "industry": 100609,
     "isShield": 0,
-    "itemId": 119,
+    "itemId": 10,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "r5wmZkLNV9.search.119",
+    "lid": "3KOYwTtqzcl.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "cLat-jgXZ7ujk-B1uP4sHsAMJ_zKLe_YhI1YWbLZKgLoPNmt-ZoGmHuSbJFpm4HbT5DjuvXqKxoN7LdBa1WiqFaFdwjcC9SdepP-c-LCIZLL5C8N6PDmhL8EhtsYe99jjCVjS9OTtg76Xg~~",
+    "securityId": "R26BDfykpcAo3-31Y0qG1WIwQj_OzukMf_sXh4ewyZ5UQ4XjQdcVmLWCybJMyTqxR9KqC4MBlbhs8roWSDZMKdE9wFRDBYmnhTwZkjNqt8GmeZVnugI~",
     "showTopPosition": false,
     "skills": [
         "家用电器",
@@ -59,11 +59,10 @@
         "电子产品"
     ],
     "welfareList": [
+        "五险一金",
         "带薪年假",
         "住房补贴",
-        "员工旅游",
         "节日福利",
-        "五险一金",
-        "全勤奖"
+        "员工旅游"
     ]
 }

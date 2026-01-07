@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231106/607f1f3d68754fd0e14d0a135d356e0fc7facd998a00a85c9b1428a52683e462d49a4ca420398e5f_s.jpg.webp",
     "bossCert": 3,
-    "bossName": "陈虎",
+    "bossName": "陈先生",
     "bossOnline": false,
     "bossTitle": "项目经理",
     "brandIndustry": "互联网",
@@ -22,7 +22,7 @@
     "encryptBossId": "2e204a25296f363e0nV-2dW5F1U~",
     "encryptBrandId": "74b8aa5554bd3e4d03B93t2_",
     "encryptJobId": "f7333debb9db8b5903dz09u8FVA~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.245243,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 12,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1RjvIhBLf5h.search.90",
+    "lid": "3NorYa90BtD.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K",
-    "securityId": "XPix1JYnOwPVr-E1izXuRQn6HihXs8HR8SRv-vDCUZXgWRECxJNDTdnC5wxXdat1rfUF59_oX9C-SQl9fwSO6Mjmm8P4O881oaIKFlFDCO9GX9jfeOhO4ZRVATHPqL2Zq_CtJCOl4g~~",
+    "securityId": "g5YE4jeVxkav8-21ZSY51JpLOqTgB44_h2E1S1PkRqiTMplGnffa5nL0Mh_guA0S_RWWLO-QHSkcxkbNPYbc3GSkouK8p0cy3Ne5fIXhZOuomG8~",
     "showTopPosition": false,
     "skills": [
         "Office"

@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240629/607f1f3d68754fd0d6855aad1132c70e0b5a63a40b04c1432a6b81808f8b42768d56b1ecf64d675e_s.png.webp",
     "bossCert": 3,
-    "bossName": "方芳",
+    "bossName": "方女士",
     "bossOnline": false,
     "bossTitle": "人事主管",
     "brandIndustry": "新材料",
@@ -22,7 +22,7 @@
     "encryptBossId": "397ef6c159a96df41nZ-2d-9ElJY",
     "encryptBrandId": "d4957c33fb42d96e1Hd83ti0ElI~",
     "encryptJobId": "23a7c09089680fbb1HN52di8E1JT",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.416332,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100916,
     "isShield": 0,
-    "itemId": 43,
+    "itemId": 8,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,20 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "rjYSrl1dfL.search.43",
+    "lid": "3MWNOgK0BJW.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-6K",
-    "securityId": "xoyozT-bsvMkN-Z1Y-uLR4ACLtL6RVxjrgt2eqSO_EjNt4EgyI-1yPEU95I8jqI7064Hj2bouZyfR_5dF-EUMpvWtitk83zwkuLQPhmc6TclaKuseLCG1t6NRPg-AbPCwDztkgGdg47cnSs~",
+    "salaryDesc": "4-7K·13薪",
+    "securityId": "ZY52SGTF4kgKO-l1wUHSo_MwcfZ8DiNd8biUZQSzQHy-nzK2xB3cAV6FV1uI5YeQ9q7R0ekmrStl4LNYrxe0gTYpJW1qgSER1bSz8F-sb0K4Nwc3YqDa",
     "showTopPosition": false,
     "skills": [
         "功能测试经验",
         "测试工作经验",
+        "化学专业",
         "测试员",
         "研发实验员",
-        "化学专业"
+        "新能源行业",
+        "五险，工作餐提供住宿"
     ],
     "welfareList": [
         "包吃",

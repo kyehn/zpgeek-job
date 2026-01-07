@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180418/6d0b978ebbe2a33515bfc4e7e8c60f95cfcd208495d565ef66e7dff9f98764da_s.jpg",
     "bossCert": 3,
-    "bossName": "方毅",
+    "bossName": "方先生",
     "bossOnline": false,
     "bossTitle": "总监",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "43926a15f86f08fc1HN82Ni4E1M~",
     "encryptBrandId": "de5e24bccd25ea4a1nNz2NS-EA~~",
     "encryptJobId": "4cdef4b06cc424be03R-3tW5FVU~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.260842,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 32,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1Rfv5UsgJg8.search.32",
+    "lid": "3NmJ4TSQkdA.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-6K",
-    "securityId": "7bIT-m4ChNMef-G1fFP7j4iy1YS8Ditti1kmQWxHmX7GfGU0zt_EoNphgYAO-LdnWeMFRVxHcKDNWWRYl9jEADD_nNhjjQshbAiM-GRl3zbcGGVapQWER4COCWZrIGmUZoxCkr6i9SE~",
+    "securityId": "bhwAGc9tzrHOX-S1FjB6giZtBFd2fvZ-CqwkVu4y9P1Sp-Yy1o0oELLevsKTY47Rw2s13g26jshvC_zeVlmQuLKmKDpqS8F24oii72kQrTkWx2Eu",
     "showTopPosition": false,
     "skills": [
         "实施"

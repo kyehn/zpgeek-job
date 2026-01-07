@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190531/e7d005b03bb56ccc76b3ed9819a50c74cdeefc039ccc1d80e8a09989343de2ea_s.png",
     "bossCert": 3,
-    "bossName": "安丰胜",
+    "bossName": "安先生",
     "bossOnline": false,
     "bossTitle": "测试经理",
     "brandIndustry": "互联网",
@@ -22,7 +22,7 @@
     "encryptBossId": "dfe70a5f4c560c51031y2N-_E1o~",
     "encryptBrandId": "908beea02bf2a25533R-",
     "encryptJobId": "4f6abb98914f9bd61HR92tS9E1Q~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.97707,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 64,
+    "itemId": 5,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2qtVAFjLDt5.search.64",
+    "lid": "3LP3LU2IkWG.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "vRRdOswGGasAu-c1QRvSWpFJPGD7oL2BgRGmGx0l3JbZObcU-Im5v0v5_kWfzokPsVEOcBMtkvFoPmBE7ZDzT3MXV4fbZVpBeGJ1vUmlt0omt5XsvpWWlagGO87sTfh56-wyWA~~",
+    "securityId": "wOmWph6UvlQkG-K1jvMAbL9-h2-PVVCw8xPI4Tk1fFuHB92I8mC3rI-QONwXwWLi78Jjw_5pLWFcx91grMzMcYPI4iJ_wPrGQ7Nnqx9f3_w~",
     "showTopPosition": false,
     "skills": [
         "软件测试"

@@ -22,7 +22,7 @@
     "encryptBossId": "b01904a334b027330XV42ti4EFpR",
     "encryptBrandId": "12bc55fef346470d1Xxz0ty-GVU~",
     "encryptJobId": "6af26ae19b8fd3f21Hx709-_FVtX",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.64392,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 3,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nxyOyiyWKB.search.7",
+    "lid": "3Kc04wWa2CU.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "JzqbxFqRvAuxA-l13HfUTSiMk9m30mdWGoG3TLRh5IeTAOd1Cv-DOdihRMk-W-MgHNbeMf178k-pwCcdjOKa23i0QWdXiWvE52XgxeaUFOMOpurno6ybCBsZiC3eir4LyKU7rwYdd1ftXeVYO-UdNYY-0BGjDWofKMEIq3BiOJinW0FgsG4~",
+    "securityId": "Ms-G6vaDPFaGI-_15RifHHJgOvr8boXDNzmC_XHDn-sKzWte7nzVJyvA8cH1BS4Mr0fr9UMZzl3eLU8cyU56cjugqWwtslohvSwKnBypQOz9rcY4Zbiuocw__QPK9D_iBYF6kuz8e1mq_DEopol_vcb9",
     "showTopPosition": false,
     "skills": [
         "ERP",
@@ -62,20 +62,19 @@
         "金蝶erp软件"
     ],
     "welfareList": [
+        "底薪加提成",
+        "节假日加班费",
+        "零食下午茶",
+        "全勤奖",
         "五险一金",
         "团建聚餐",
-        "绩效奖金",
-        "员工旅游",
-        "意外险",
-        "全勤奖",
-        "节日福利",
-        "零食下午茶",
-        "加班补助",
-        "带薪年假",
         "保底工资",
-        "节假日加班费",
+        "节日福利",
+        "工龄奖",
+        "有无线网",
+        "员工旅游",
+        "绩效奖金",
         "年终奖",
-        "底薪加提成",
-        "工龄奖"
+        "带薪年假"
     ]
 }

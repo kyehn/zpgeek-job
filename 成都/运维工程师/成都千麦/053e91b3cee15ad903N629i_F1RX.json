@@ -22,7 +22,7 @@
     "encryptBossId": "cf0c5c02f3529dda0nJ73928GVJQ",
     "encryptBrandId": "9543377494604a671nd439y-GFA~",
     "encryptJobId": "053e91b3cee15ad903N629i_F1RX",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.610537,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100402,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 7,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "859LUjxmkAs.search.8",
+    "lid": "3MezI8NS7RP.search.7",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "eVfUqrooGgmIS-z1YTl0ZXJUiifduUTxfqxDGiDZ8pqnKS_c5Q-DfdXe0kn48S89wovNC1T-YqLKllJxyTMaxjuI0qtE8h0J1b0xQF1MaEO3scPWI_uXB4UkzbQsHr3sQwPdeto3Id_gl8s~",
+    "securityId": "GYqTlFLnkTdj9-21yYjWSbgo-ykrr5_UTUXCtB5oBk2-UrRQQtsM0N4TAOOse2Jn-FR4a0JCaQtuj3Ydet9Qe1XYg0lWdezV5TYGc3oWrlCddPLF0_d5",
     "showTopPosition": false,
     "skills": [
+        "oracle",
+        "大数据运维经验",
         "系统运维",
         "计算机相关专业",
         "运维经验",
-        "大数据运维经验",
-        "SqlServer",
-        "oracle"
+        "SqlServer"
     ],
     "welfareList": [
         "意外险",

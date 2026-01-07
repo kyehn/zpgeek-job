@@ -22,7 +22,7 @@
     "encryptBossId": "5e07685e3d2c56b40nd939q5FVtS",
     "encryptBrandId": "19b055130a5a388c1H172t6_GQ~~",
     "encryptJobId": "475e272dd1954f1b1Xdz3dW7ElNX",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.503375,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 3,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85klEWWBwZG.search.2",
+    "lid": "3MNgHP3f4cl.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "GN24-pvR9ZlPY-Q1Bh_YjgD2a4IZ0MPhZd1WHC2nFGzEVViORgoV7veQZ8AKcq0ngXHtYnCfP9nx05KNIAvtTzkRf8Ii5dkD7dDlW7oGh14kGrr7a0kOfAZ7iv0Z4r3YWjkeJklSlAUmQw~~",
+    "securityId": "_kF97p6Z8ZQz6-81XbD1wsk57w6r3civg-AqP4Ep9qTltdTX7MbTboz3y2hruWrJULUEEcIVVK5uki7ln3kxQW1b_cXmtbEfSnmXI7sp3xFh1htm0Pg~",
     "showTopPosition": false,
     "skills": [
         "CRM"

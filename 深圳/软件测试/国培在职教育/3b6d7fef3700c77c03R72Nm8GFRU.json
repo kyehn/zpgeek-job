@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
     "bossCert": 3,
-    "bossName": "涂立高",
+    "bossName": "涂先生",
     "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "培训/辅导机构",
@@ -22,7 +22,7 @@
     "encryptBossId": "e47e5e9b072076690Xx-2NW9GVBT",
     "encryptBrandId": "4524f08b98c82da50nN62d-5Fw~~",
     "encryptJobId": "3b6d7fef3700c77c03R72Nm8GFRU",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.621186,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100303,
     "isShield": 0,
-    "itemId": 40,
+    "itemId": 4,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nsKqOFmLjD.search.40",
+    "lid": "3NjXTXjLQKK.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "iq3XSb6OkAeLx-41-hNSKQIbmlwNVtWEnrRbBNnKHjGoa3yV1IFNE8ShR4ZSrElx18QoHPvHCwoBS9a_iOCsrJohcKOZhGR2sfPkKJX_5C3pqUFvYxMItYOyQxURIob3fOB8UJa_wO7HhA~~",
+    "securityId": "e7aGmxuRQ62vf-31xOkfVOHBpbAiVIJ0T0OKWeDup9fzhANgoenPBgcQo0y6oC_RJYJ82GjstkDPt6ze3ZsvJfgifUGwOj0ObkmjL0E9U2D3IIkNQk0~",
     "showTopPosition": false,
     "skills": [
         "性能测试"

@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180725/9cca65629ef7afe4f3504db7d9c37576745bec376177173fa0f3910df4e6a915_s.jpg",
     "bossCert": 3,
-    "bossName": "张宝乾",
+    "bossName": "张先生",
     "bossOnline": false,
     "bossTitle": "副总，工程总监",
     "brandIndustry": "互联网",
@@ -22,7 +22,7 @@
     "encryptBossId": "c056dc65898268ed03d53tq7Els~",
     "encryptBrandId": "1a77ab4c7912acde3n153tS4",
     "encryptJobId": "397e79856dc7a8b11XJ639y1GVdZ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.659664,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 61,
+    "itemId": 12,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nxyOyiyWKB.search.61",
+    "lid": "3MMreG0qJrR.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "AFMIoCYfBHRhT-O1qIHVqxZHKjceWlD8skIiJg1UceVxnCPYXQEWWs6HsyP0ShaOTITAZsvEB_ZhVD-Aq_NpVxyaPW5Eo4wtr6K0Ate72riW6EApG5ncTzcKnYSc5zBgvIj58xXSZrM~",
+    "securityId": "09VirFAGeSvcG-616S98735-x6h-mEnWi9VzJ_PzJmkaLwfA4r4YnBPB16JrhBoafe2QZVf3OiCifmZyA9n1wJkg3WkYdAmC_TDjcXvvc7VtL2UH",
     "showTopPosition": false,
     "skills": [
         "桌面运维"

@@ -22,7 +22,7 @@
     "encryptBossId": "17537c950fd8f7b703xz39-6ElQ~",
     "encryptBrandId": "81c6e9525f67ce9c1XF_39S8FlE~",
     "encryptJobId": "21c165877761ef181Hx83Nq4EVBU",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.978787,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101406,
     "isShield": 0,
-    "itemId": 45,
+    "itemId": 11,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,34 +43,34 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9cUmxVvp7TD.search.45",
+    "lid": "3MA7vQewz0u.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-9K·13薪",
-    "securityId": "7kUwxPXMOdgLk-O12rVT42V2MxZNgnxWzwWgA0J3lZS47p4Q8qLUCcTy0nOnCpsi3FQGzBSv1t_cv09dwIpNkR-w-D9WJm_jagXVhvwOETvoK_rvpNFjhgb8ZG6yQvcX1EFOdg1Ywy0tCjw5VFqQzGlKhxqlaMAgPbJ6GDygreCdmQzyOg~~",
+    "salaryDesc": "6-8K",
+    "securityId": "2j3pzXyHUzxgv-a1KlWI9muzelcUeettsri0U-qufbWh7ACTATEYIZK1AlVymazYco6wvX6pN3mRfscxPFSut5nkD4xVaWxMBn4wxSclh8ntN8PoZSvGK8s0ex7i6Vsa9_EUry-1QewOf84MRLeRSRg~",
     "showTopPosition": false,
     "skills": [
+        "系统测试",
         "功能测试",
-        "软件测试",
-        "系统测试"
+        "软件测试"
     ],
     "welfareList": [
         "股票期权",
-        "宿舍有空调",
+        "住房补贴",
         "员工旅游",
         "免费班车",
         "带薪年假",
         "年终奖",
         "健身房",
-        "餐补",
+        "团建聚餐",
         "绩效奖金",
         "生日福利",
-        "团建聚餐",
+        "宿舍有空调",
         "工龄奖",
         "节日福利",
-        "包吃",
+        "餐补",
         "五险一金"
     ]
 }

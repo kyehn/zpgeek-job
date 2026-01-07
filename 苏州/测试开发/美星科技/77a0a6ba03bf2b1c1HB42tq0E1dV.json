@@ -22,7 +22,7 @@
     "encryptBossId": "6060e1589a2a07300XZ_39u9FFo~",
     "encryptBrandId": "d83d9c2534074b1b1Hd60ty8FVE~",
     "encryptJobId": "77a0a6ba03bf2b1c1HB42tq0E1dV",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.304541,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101402,
     "isShield": 0,
-    "itemId": 60,
+    "itemId": 13,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2quCNv5vJ5m.search.60",
+    "lid": "3MXdb3nzoPs.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K·13薪",
-    "securityId": "8kxl1f7t50TqZ-F1sbdX_PXD4Vx2fpi1EkgdFp-dNgY1MnuhJRU-rQXkQ-7XS82wq6kyRqnhawpNwLS2yjAArDVSJUOe19YmicZIdEQGfOUKEyr_qulRgrYosrzs6VrUH_LZxFIQdRwL8w~~",
+    "securityId": "Ix3DXvUklCZqz-a1scO1jJg1whA8xoOXdedqEtECUtbwUD0fsibITTaiVZP07hpvD6Jtzz1qqN1bGgWUPgY9MCOwWjlUzGoHUfcpvMGm0Mr50JWZ5vw~",
     "showTopPosition": false,
     "skills": [
         "matlab",

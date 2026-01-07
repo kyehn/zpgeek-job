@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240321/607f1f3d68754fd0080f7af554fe8c78bcfa0b5feef8accc758f6f33a6ae19e5fbb9694a04c46eee_s.jpg.webp",
     "bossCert": 3,
     "bossName": "张阳",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220113/7bf6f160950405e907557ca349f58d0afe97eb11aac09ac05c0f8e51bc575fc81d7e51757f9dd0c7.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 47,
+    "itemId": 16,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9TnifLbuNZt.search.47",
+    "lid": "3AVdq4vGw1j.search.16",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "5qI6QOQuWkcKg-E13zvZ_qCBtcOzRsrnYTSNLdKhGVK2XxA7fQDFP0KDYQwNNjzLnR4Fp323VQuP2jQJXaTUg4B4x3BiRjhFQ6SYOaOuTzqm4gH7s_kc7b0faP3jpBXJlQxBiiTW4N38WAU~",
+    "securityId": "5y4kGpXKZkJjB-l1eOqQIjljVgo2yoDYXtOFWgjarB_iK7XAghRixpdmFGP8YlwrqZkW3TBst4kTunKroPgV1VMk6TcoiIoa7PlMI4YM2ZMqHDpkxoY3m5VAe5oKVs5jqRmaxgHE2cqxTIsqVN4RtCuZEKC4JtncisvcA4HSaIwP1HQbG2Q~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

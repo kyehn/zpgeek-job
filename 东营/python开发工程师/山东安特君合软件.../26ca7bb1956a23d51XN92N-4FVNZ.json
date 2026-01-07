@@ -8,7 +8,7 @@
     "bossCert": 3,
     "bossName": "周洪辉",
     "bossOnline": false,
-    "bossTitle": "部门主管",
+    "bossTitle": "事业部总裁",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210513/625aa1e2a12546048de24f8f72a93bf120b907d7ec8bac3ea3f7641757cf4795.jpg",
     "brandName": "山东安特君合软件...",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 20,
+    "itemId": 67,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,31 +43,27 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8FiGFx5nkhw.search.20",
+    "lid": "3AX4eWZFjBb.search.67",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-11K·13薪",
-    "securityId": "zB7XTBcStA5rT-u1zTFpO-MWf3DqAA-RzHzv_dsTjIbNNruoL0swuKAlAuVi0xF099T_BxUpV8srh6AbVzmB2zWrD4ZsWf1e0NyOSDZt0srxjy9qZgavBg0q-0dyrEvj8X7my_yFq8GxZiY~",
+    "salaryDesc": "6-7K·13薪",
+    "securityId": "2A_u4CdLq3Aoo-o1uXt705CYb_Fs1BD5fMw97XDYVgiExI5P9DUzlRso10YxgaUCmTO1vWlonzmXN3dKq5tGELjtrV0oJGzSIU1l7YsoOQzkVNNumYDk_zi2VSVbRmppCzx1Xf1bCtRN9jg~",
     "showTopPosition": false,
     "skills": [
-        "后端",
-        "Python",
-        "MySQL",
-        "计算机相关专业"
+        "Python"
     ],
     "welfareList": [
         "交通补助",
-        "餐补",
-        "加班补助",
-        "股票期权",
-        "年终奖",
+        "带薪年假",
         "五险一金",
-        "住房补贴",
-        "员工旅游",
+        "餐补",
         "节日福利",
-        "通讯补贴",
-        "带薪年假"
+        "员工旅游",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "通讯补贴"
     ]
 }

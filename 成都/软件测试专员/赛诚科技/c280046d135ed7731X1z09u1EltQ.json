@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
     "bossCert": 3,
-    "bossName": "廖昂",
+    "bossName": "廖先生",
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "互联网",
@@ -22,7 +22,7 @@
     "encryptBossId": "d81e5dfa1d0a57600nd52N28EFRX",
     "encryptBrandId": "b7bef4926a0553cb1nN70ty9F1I~",
     "encryptJobId": "c280046d135ed7731X1z09u1EltQ",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.624581,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 68,
+    "itemId": 12,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85dYdePdsS4.search.68",
+    "lid": "3Mc6GseYwpA.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "0na21u4jiE3fn-C1Pde9WoWcL62dJubl1iUmFCw4ztVPqu-aSaW4mBthm0u0w9xTwGvPtfHryksu9ZbFqn0WsaUoisPZTBQ5mC9XuCinOyuCPj-8HrnzLazCNyDR21hqavnpkxdRHJR7AyA~",
+    "securityId": "ev5n388tEeoPI-Q1TxfT4Y6d_ZfYZLIhP_LANksBlLSlWp8Idsz0t-11k8aVvVZ99AN5zdEcvzoYAPqWc38UStFLU5wCS8fCZamCtO5Km2j6pwImTNC1",
     "showTopPosition": false,
     "skills": [
         "功能测试"

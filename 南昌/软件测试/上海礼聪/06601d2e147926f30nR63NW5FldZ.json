@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "程其颖",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事招聘专员",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 31,
+    "itemId": 29,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2qtbCVcP66R.search.31",
+    "lid": "3AUzNMnrTmq.search.29",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K",
-    "securityId": "bgemLTSixBo5v-O1DOKk85ps61MhYRdVPOMzgJrB8R5Qxv48mOw6ZCn2EaBnS96MlV3SL84y2JfaPT4zUmp7b1k-JWnryxtj9R3rUMXibZKBsafWkgm-owJLrJGeplIoRSuvLGb8daHZoyA~",
+    "securityId": "1vjHHcTGA4N3I-m1oggj1H3TSkUeLlS6Z7NELTTEHsfuk1rBsglP2YHnTAoZocmpfY7ST69OL8rO2UCEsLPk_yfphLFrtAf8OxAKEAUNfzassYfpCULN-UdsA7WQ3ojDu2Tqj9lNYbbgx5qHaZ6UbKxbiZdnOYZm7fXSXHT6KODIDibaL4E~",
     "showTopPosition": false,
     "skills": [
         "笔电"

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250314/607f1f3d68754fd059c0bc1ac23579f5ad4835f7b6e54364fbda438a867f6bb9e9dbde02d1708591_s.jpg.webp",
     "bossCert": 3,
     "bossName": "苏先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事主管",
     "brandIndustry": "电子商务",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 20,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2qvrVkyiNr2.search.13",
+    "lid": "3AWtDMbcC2R.search.20",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "-u5whiHrImDWF-u1NHv7wfI9ueotZHq-h4vc2z2QYYAKtDiI_SmgCdEbidjRh5J5yIpPIVBok4rZFkEJO2KvMgxkbC45Dl6ZHt--uQWW7NvuP2-WllxIKJPaU_6uHnniVFdj6eFEyHSLyiI~",
+    "securityId": "_rJvssL7MtMAp-a1MLBBx9y8eIUqNd-1qENuPLEqEA3DLzKqBFk0mYKQLwpV9dqbkNKNy0co-cghSoTd9gIPukHyixjS0fLEwdEeNuOKFtQPS6C7LhANZQFYKxiSu70H2g-mJAjxgyduZIwg_CoMlRHPk0b5zVH4_g7ssG9EoX1CGEf85w0~",
     "showTopPosition": false,
     "skills": [
         "Python"

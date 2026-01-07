@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
     "bossCert": 3,
-    "bossName": "谢红华",
+    "bossName": "谢先生",
     "bossOnline": false,
     "bossTitle": "人事部经理",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "ba87a937b041440c0nd629S1FVY~",
     "encryptBrandId": "38846b2c60e36aae1HB40t60GA~~",
     "encryptJobId": "b2f227576c3a65db1Hd82tS4GVc~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.280175,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 53,
+    "itemId": 8,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5IvKpNp61w7.search.53",
+    "lid": "3MGh3MjqRqS.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "_nlO4tCsH6fro-o1i0th5dIylBpBj16uscPFWF99PEHNS23SUZeaUzn6yKSteHctuTo4S0HM_jeaFL4vU3uVFoIJW0I6OGyW0YyPuFR59n7H88RWEcQmpfEtykLVgFG4621uY_-XdNY~",
+    "securityId": "NDAGphxNRrry0-41ft7lV4TVD2mdiwO9AA9QM3HJgw9Gi94gIW3Ua9uPux41IKYrgi9yAYE6a7fY1SyYManU08MkDQFpsPZMWiuVd3fgwHqe1i_1",
     "showTopPosition": false,
     "skills": [
         "功能测试",
@@ -57,14 +57,15 @@
         "软件测试"
     ],
     "welfareList": [
-        "五险一金",
-        "定期体检",
-        "高温补贴",
-        "节日福利",
-        "加班补助",
         "员工旅游",
-        "带薪年假",
+        "五险一金",
+        "高温补贴",
         "零食下午茶",
-        "年终奖"
+        "带薪年假",
+        "节日福利",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "补充医疗保险"
     ]
 }

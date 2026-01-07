@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_16.png",
     "bossCert": 3,
-    "bossName": "谢崴崴",
+    "bossName": "谢先生",
     "bossOnline": false,
     "bossTitle": "项目经理",
     "brandIndustry": "运营商/增值服务",
@@ -14,7 +14,7 @@
     "brandName": "维谛技术",
     "brandScaleName": "100-499人",
     "brandStageName": "",
-    "businessDistrict": "西兴",
+    "businessDistrict": "宁围",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -22,17 +22,17 @@
     "encryptBossId": "c5a131b23b1325550nZ52dq8GFRW",
     "encryptBrandId": "7257c947b36960dd1nN409i5Flc~",
     "encryptJobId": "85f3478856391d891HNy3dW4EFFZ",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.204534,
-        "longitude": 120.238736
+        "latitude": 30.226613,
+        "longitude": 120.314227
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100025,
     "isShield": 0,
-    "itemId": 203,
+    "itemId": 9,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4WrX1lHAkCp.search.203",
+    "lid": "3MIs0wDrMyb.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-6K",
-    "securityId": "h1mRTF_CsBqri-R14B_rzSZvAJ1CtN8C2gHN-b9xcdnEHRQP04APH7mjS6o6uZgSGdqE7kV2L_3UOhV9x9hI5956hWq1stPbtvkl36Y-2_pAbSwUjiyfsxn5ojQblBjlQV7Zsk6nRJ3dwu4~",
+    "salaryDesc": "4-5K",
+    "securityId": "OWD7D0NFlErHK-z18FQ1pUAhm-IwuoNUQXvoB-_bNaINIe7kP-fBmCwt8zf8Q6Rr40hPic6BI2SgpSo-Mhr1J-Qm1Tqs9ugQQHFaPUZmyWnNwm0ZAnMX",
     "showTopPosition": false,
     "skills": [
-        "IDC机房运维",
+        "IDC运维",
         "电子/电气/自动化相关专业",
         "运维经验",
-        "数据中心",
-        "IDC运维"
+        "IDC机房运维",
+        "数据中心"
     ],
     "welfareList": []
 }

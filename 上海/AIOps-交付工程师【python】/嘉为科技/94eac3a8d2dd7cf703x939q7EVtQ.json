@@ -22,7 +22,7 @@
     "encryptBossId": "921a97f6ec6823350XZy09W8FlBR",
     "encryptBrandId": "f7c41892953469e81n1z3Nu_FQ~~",
     "encryptJobId": "94eac3a8d2dd7cf703x939q7EVtQ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.163737,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 45,
+    "itemId": 2,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7KnHpESa9yx.search.45",
+    "lid": "3NoRfh2xHj7.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "44-aWzkJWVhMr-c1eonVTaVGeOfpVhJhUEOKsqyrMa2I31q3ZUaaL7tDKgZpbg4g_VZcdW28upFYtnMk2R2YyMfEYblxOSVCiDS9b1c0fH1_M7P9mNac0fUZEikYKqpHy4Tiot8QTEmglg~~",
+    "securityId": "Een7QQ18aDzXT-B1iUz-bqV3Ow2xb3FHUmIgAkTarZH4b5a0MXCFeRxKUxuMT8FiRrawCenDZCyVzmr9UpvBVaGh0lD4y5baDlX-CQpWWLfSi3p-xuU~",
     "showTopPosition": false,
     "skills": [
         "运维开发/DevOps",

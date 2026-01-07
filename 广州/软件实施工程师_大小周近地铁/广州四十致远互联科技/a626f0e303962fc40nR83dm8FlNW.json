@@ -22,7 +22,7 @@
     "encryptBossId": "d18d71ebe7afffca0nN63N-6FltY",
     "encryptBrandId": "394eb0a14f570d9f1H1z2du0FFM~",
     "encryptJobId": "a626f0e303962fc40nR83dm8FlNW",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.218565142468147,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 72,
+    "itemId": 7,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,15 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2cSRb7Etgmo.search.72",
+    "lid": "3MzheqrwFRt.search.7",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-10K",
-    "securityId": "n2dXvxG4W6H5y-21SYXY74dI7QVLD3RJBD5JfpZyukjaCdhEpq5gLT7dUr_QJ4sZcwwfIlgLfNEzAlEOJnCxwpe0irM03NLFH8In5XlBlAct-jAe8oydz0ar0Fpgmzxn7mlYW5InQ4N12uw~",
+    "salaryDesc": "7-10K",
+    "securityId": "BR6OxEZxjiMse-S1-BO8ekMpKZy78LBIfNt6WnOfFJ9borEgXPqUczQLThBQUByv4AFEcl4uhP973NrJgeETPmTaBLPWZHKR1nlkx9BZHQsc36V0vnX3",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "跨境电商",
+        "跨境电商管理系统",
+        "ERP",
+        "亚马逊"
+    ],
     "welfareList": [
         "底薪加提成",
         "保底工资"

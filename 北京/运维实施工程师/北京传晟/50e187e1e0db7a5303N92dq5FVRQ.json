@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20210331/9e8425aaf4e6bf275ec6aabe1538b1817732d27de92c799ab0e3af622f9ec5a9_s.jpg",
     "bossCert": 3,
-    "bossName": "何女士",
+    "bossName": "邱女士",
     "bossOnline": false,
     "bossTitle": "人事行政专员",
     "brandIndustry": "计算机服务",
@@ -22,7 +22,7 @@
     "encryptBossId": "73e489bf4fb1dbaf03N_2NS5F1M~",
     "encryptBrandId": "bdf3f6e9854d12681XV62Ny0FlU~",
     "encryptJobId": "50e187e1e0db7a5303N92dq5FVRQ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.878019,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 23,
+    "itemId": 13,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "96ZTOuVUqxS.search.23",
+    "lid": "3MxXaSTtzWL.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "XN8ACyMHfRvmC-z1_Z8Y9N7cYgCsJkuNtrfcSvKgPy0Q7NzRpIdg7-wqPMHCXroitAznXkNnD-tf8yXBc1AO6l9FD4WWzNU9ahGjloo3QhVkAvbISEwsXOxTHuQKcKuuUxyRwjkXz_2_6w~~",
+    "securityId": "yCaIDR0Zu6DCe-i1XkSml1AQyFHbz5kl4QNFZQt_srik0MDA3WyDTM8N3GmlyFQvU8oTNbbnVD4HCylVVjPmQ5WakT8ycka7ztdwPuMoCuRrbLNU7CU~",
     "showTopPosition": false,
     "skills": [
         "运维经验"

@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
-    "bossName": "魏德斌",
+    "bossName": "魏先生",
     "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "65fade1268c983390nB92tq7GVdY",
     "encryptBrandId": "6848c02e42412da51XV93961F1E~",
     "encryptJobId": "fd14460b0ee73cd61Hx-2ty0FVdU",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.704442,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 37,
+    "itemId": 3,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nwLJSaG5qN.search.37",
+    "lid": "3MM16sqncFx.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "Ff859t11YtVAy-V1GK_mlai-EeYrzJfXr_QSWNArnGPVWyAhRnvy1r2NQ0IJCQzYDmIYRmVD5MDfbwKPFyPFG1whxKrzfKXbbYKSkumScHBmC_aKRB7N-Pper0G3Hv1PduJoaL5Oys7rPHM~",
+    "securityId": "wAZlaTmLwvixG-S1ttnLI30Dr-59138G3VR1JJtbiZiXs1E3N9rdOFrb8CPYcH6LQFv1Nn2wlDTKCdWObwhKcfjIaSf9NHrPp-ljNSauEknknb0nYAod",
     "showTopPosition": false,
     "skills": [
         "OA 电子政务 运维"
     ],
-    "welfareList": []
+    "welfareList": [
+        "带薪年假",
+        "保底工资",
+        "五险一金"
+    ]
 }

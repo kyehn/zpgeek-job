@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180709/b511f71192f990776baf401c9750d2288ee9929d4559b36e4c433f2e017ffd4b_s.jpg",
     "bossCert": 3,
-    "bossName": "董猛",
+    "bossName": "董先生",
     "bossOnline": false,
     "bossTitle": "经理",
     "brandIndustry": "仪器仪表",
@@ -22,7 +22,7 @@
     "encryptBossId": "50ad0313ea86f34903Z529u1Els~",
     "encryptBrandId": "0a2999023efd8b361Xd52dy4Fg~~",
     "encryptJobId": "6a3439ea99fd475f1n180968F1BV",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.972749,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100913,
     "isShield": 0,
-    "itemId": 59,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nm8yQxOi4B.search.59",
+    "lid": "3Ngs5b1fh91.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "DgzxtLohENf06-d1e5nhbSfrLTShY8PnqNXv4p4X5xmE4M6MqSHwWLBROkdc58ghBVXgVzWn2M6YMMVsVDjgYtUbFLj8Mm4X_Fu_o4JZ07IqH58pnxIthAoHiC1XacBwtjRWvgzm2C_-",
+    "securityId": "X4IJcXO7aH-L2-N1B48xs8MDmhORtwO1WGFLnkX5T9-w51zlupOEA_6RI9bJqICXGAKx8-grGxwV4E-aSrU8zazwMNd31jRNwqU7BU47ZTodhVxTkQ~~",
     "showTopPosition": false,
     "skills": [
         "功能测试"
