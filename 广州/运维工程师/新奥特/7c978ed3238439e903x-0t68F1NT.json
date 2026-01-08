@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海珠区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "付先生",
+    "bossOnline": false,
+    "bossTitle": "招聘",
+    "brandIndustry": "广播/影视",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160421/429a6e6f395104b6cf6413e46059f8ce2f02cd3d410a14520460d30e77906e3a.jpg",
+    "brandName": "新奥特",
+    "brandScaleName": "100-499人",
+    "brandStageName": "已上市",
+    "businessDistrict": "赤岗",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "330bc4d45c49fe1b1HN92Ny4GVA~",
+    "encryptBrandId": "643a24827c6a49771nRz09y7",
+    "encryptJobId": "7c978ed3238439e903x-0t68F1NT",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.10597,
+        "longitude": 113.321939
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100103,
+    "isShield": 0,
+    "itemId": 15,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3YuaI0yncYX.search.15",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "r9WaYIuQm79L7-V1ZSilJLQZZqH6kYDPpIyWJCxleG6ORBpAD5GZ6AYNNwXe3rzoxMGR7dFbhwbB-jEKTg-Zt0HCkc-xtLsNU-EhzOtVBNOoVKNT",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金",
+        "带薪年假"
+    ]
+}

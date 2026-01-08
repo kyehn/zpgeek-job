@@ -22,7 +22,7 @@
     "encryptBossId": "ce048105ce02057e1nV90t-9GVQ~",
     "encryptBrandId": "90add33842469f9c03Z639S4",
     "encryptJobId": "5cf83a7fad85e4221HR-0965GFRU",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.295814,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 46,
+    "itemId": 5,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "i7uSRE8SST.search.46",
+    "lid": "421stSytWsq.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "kOnDI4FKyoksz-g1GFwDovjNX9MmcB_CFGH-vzGv7k39u7h98mbXuYNEElFN5VkXfOfkAfQ5R4DYD8AhBWeiHCRvgFzDUEpLdXQt7w5Wq9B0d-RF7lUaKMJOqUoNQjo7iProb9tMhF8igxv_qO00W0T6t_LT95abz0iMfhSZGEnL1Hk~",
+    "securityId": "oo2hdjALSBEVH-e14FBxDyJAWtrxXOzQwrNDFUb-IN9gxq9xGBNFXbON9MrIr3RPEzwW07vasfmQl03h0anLsUKKuBUSM-KivZRsokgR-rUOdb7nRnSz4PvHvZZaKdqxB58l9Sx7UiaWdoobM7Dm",
     "showTopPosition": false,
     "skills": [
         "性能测试",
@@ -57,9 +57,9 @@
     ],
     "welfareList": [
         "股票期权",
-        "带薪年假",
-        "全勤奖",
         "五险一金",
-        "加班补助"
+        "加班补助",
+        "带薪年假",
+        "全勤奖"
     ]
 }

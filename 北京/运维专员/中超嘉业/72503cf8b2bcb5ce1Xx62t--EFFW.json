@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3MxXaSTtzWL.search.3",
+    "lid": "4cLFgHwguJx.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "0CYg75nuiLihj-21n1hScEgv3anyAUGfwFOYlgxJQ0n7jCnNxMrF-ernryDZdzzcgFC_sql2dRw7kZzWhsef_hd_h9fBgC3CiylRyjasQ-cPEQ~~",
+    "securityId": "LfyWJQhm9ppbo-r1B6B60rBUFQ0qUxADWaoeG8cBw-P5tqFevb2GBaRwA5jdpgw4yXGp1LRKRpJcGAVtaez_6fUbS0pl7LLc2sAYMe5OcO-ysg~~",
     "showTopPosition": false,
     "skills": [
         "网络运维",
@@ -59,14 +59,24 @@
         "IDC机房运维"
     ],
     "welfareList": [
+        "年终奖",
         "绩效奖金",
-        "底薪加提成",
-        "团建聚餐",
-        "补充医疗保险",
-        "定期体检",
         "意外险",
-        "五险一金",
+        "企业年金",
+        "节假日加班费",
+        "零食下午茶",
+        "补充医疗保险",
+        "员工旅游",
+        "工龄奖",
+        "带薪年假",
+        "餐补",
         "保底工资",
-        "年终奖"
+        "法定节假日三薪",
+        "底薪加提成",
+        "全勤奖",
+        "定期体检",
+        "团建聚餐",
+        "加班补助",
+        "夜班补助"
     ]
 }

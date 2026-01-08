@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250716/607f1f3d68754fd05a45c29d99a9479508154576e76a532197e6a82945d341ae6b530681306fc30d_s.jpg.webp",
     "bossCert": 3,
     "bossName": "李女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "行政人事专员",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20200317/08126e14f548ae993dc1175477915572be1bd4a3bd2a63f070bdbdada9aad826.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 2,
+    "itemId": 4,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3NBZzshaLvd.search.2",
+    "lid": "3W41wqXKCFV.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "3JovQBh2O6u5S-B1ilUb2rpYuxhAMeB_CNAJaj-Uh9bqx7M8j2dQjZWwGm5DU9Ea4VjnBt4PSuAexTXFgyf3AO7Z9bf_GfggJMGhkZWxRuQdeAMbpvY~",
+    "securityId": "wpa1RI-WP6LCR-C1Zvh_e0opKzipZAIi_UUcXlDDlE0mS8HL2SxToL94HjeJnUl_6EF3DRMs1QTCN-Qs_Cv1fETnKvAeoNWrSukyeatssT70BELq3h8eE-JI02ah_QP3-z_OdSxbQ76zQQ-DAd1OZ1c~",
     "showTopPosition": false,
     "skills": [
         "Oracle"

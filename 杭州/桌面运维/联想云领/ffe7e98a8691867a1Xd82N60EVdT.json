@@ -22,17 +22,17 @@
     "encryptBossId": "0f78d3e5d6128f2333dz29i8EVI~",
     "encryptBrandId": "28198df443fb896b1HZy39m9Fw~~",
     "encryptJobId": "ffe7e98a8691867a1Xd82N60EVdT",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.21006,
-        "longitude": 120.223093
+        "latitude": 30.207191,
+        "longitude": 120.231075
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100022,
     "isShield": 0,
-    "itemId": 83,
+    "itemId": 4,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5ItE0ITxQYY.search.83",
+    "lid": "3Zan8WgIAzp.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K",
-    "securityId": "71soyAvoGvSQG-C1StFYRgBmTT53-WtySOfq01o6SCiIyeMhjxmugRGMeIZIMa0SCTPz5Ne-EYM8_iYHVi6uYdfEjaz0xJw9czGQmT825Qf7VhgZqN4W7u36sNVrnXLZbkD78FjSE5UW",
+    "salaryDesc": "4-5K",
+    "securityId": "uSuEo5Z2K1yoj-p1eZNyRNj3eAgdyRphmOvgDG6wV9ZXXnqSCBgmBAvLmSMjblfJks2iqhZz_N1kyBqLfyrEpmyE3KnK7UyRiwORur2pEa2Mc1vC2g~~",
     "showTopPosition": false,
     "skills": [
         "桌面运维"

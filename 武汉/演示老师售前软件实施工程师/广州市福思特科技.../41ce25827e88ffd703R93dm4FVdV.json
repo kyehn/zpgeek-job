@@ -22,7 +22,7 @@
     "encryptBossId": "35b22a87324c706d0XJ-3Ny7E1s~",
     "encryptBrandId": "ff3d805259cd49970nR509i4FA~~",
     "encryptJobId": "41ce25827e88ffd703R93dm4FVdV",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.541995,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 48,
+    "itemId": 15,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9d0mL38IV2Z.search.48",
+    "lid": "3ZMiZ9Po27t.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "3pqtfLRkFpRob-K1tRUjWosRlMDY1f-2jWSZxl2_f9XVtSVcy_HfEWpBFBounTKFuEJ84VEembHrZvTP4u5WVzyfj76117rYt1yk3D4_N2Z9af9Fhr6uHOxZ1F0_J5NalQ_2Qldu7gU-er11WLd3gdgh_Dx2_NnMyFQ_rA7vyBINUCVS",
+    "securityId": "9PDHRFXSo4uKS-i1Istkwfel6lo-mKvVuWX8ybR0JBX-fNVoJOijnV-sviJ3hRF4hzgcJgQjtCqUudUy3v_JhuqV37dWcQBkvzG1oSzlw9qz2Yt-equwkwVXlDOW83JVto5GEeGEQm5mQ16frsSZWw~~",
     "showTopPosition": false,
     "skills": [
         "高校教育软件",
@@ -57,10 +57,10 @@
         "沟通表达能力"
     ],
     "welfareList": [
-        "节日福利",
-        "年终奖",
-        "带薪年假",
         "五险一金",
-        "通讯补贴"
+        "通讯补贴",
+        "带薪年假",
+        "节日福利",
+        "年终奖"
     ]
 }

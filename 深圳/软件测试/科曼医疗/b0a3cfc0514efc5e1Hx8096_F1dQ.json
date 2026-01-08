@@ -22,7 +22,7 @@
     "encryptBossId": "548b15ddd09e09430nx439u8GFo~",
     "encryptBrandId": "0c5c44afcd8208b01Xdy3924",
     "encryptJobId": "b0a3cfc0514efc5e1Hx8096_F1dQ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.766164,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 132,
+    "itemId": 8,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "13wnjOm3G2R.search.132",
+    "lid": "4e8TxXHaSZB.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·15薪",
-    "securityId": "gUGdpOvJWMTXb-s1QaB0GvUFxGz7pkmbIGRo9QwS2loNoVZVlvQD6OJa5Yg_rx_63NpamNmXkpW3c5N1ZA-oOHNSQBteOtKJEQ-ONveXsqc3nU3qFrD9YOWd_vArsDvTKizSLKJxfcQ~",
+    "securityId": "nx2XWTCj6mGJT-W1v63IQunxAwI_-G7BIrfift8KA-qcI9LWcvBtL29ftOZhf_B3SslbKetUBMTiDlsosEhS4uPLTlgGDx_VqdQLF13x4EzFlGv1",
     "showTopPosition": false,
     "skills": [],
     "welfareList": [
-        "带薪年假",
-        "员工旅游",
-        "年终奖",
         "加班补助",
-        "五险一金"
+        "五险一金",
+        "员工旅游",
+        "带薪年假"
     ]
 }
