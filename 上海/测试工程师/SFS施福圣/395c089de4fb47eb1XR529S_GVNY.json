@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250403/607f1f3d68754fd0125958c7efa33a8eec96586bf149bc2056a204bb1c78a3287fe0afbff825fc2d_s.jpg.webp",
     "bossCert": 3,
-    "bossName": "仲艳",
+    "bossName": "仲女士",
     "bossOnline": false,
     "bossTitle": "人事经理",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "058e2d34392da4170nd439q4EFVR",
     "encryptBrandId": "7b05bb846e6e39c81nJ83di_F1o~",
     "encryptJobId": "395c089de4fb47eb1XR529S_GVNY",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.263431,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 24,
+    "itemId": 11,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1enXQvAKwoo.search.24",
+    "lid": "4qDf85NLoPi.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "Ewm8_l5pEZ-w2--1Obx1obiHVL4wpLps6fsBR4yj8AinynwoMry0J_WELYWURuqSWZZUn67IWdsiv5XmbUKOBiJ-ZvBlRKmr32GwoYosWzprGsFl464t51bvX8rC8BQ0XdArziqq01FFpRc~",
+    "securityId": "zMMvRloqmUSrs-m1K3wfgdseR5ESUA6S466Q1H204ahv0nBndpccIVWWccbb_keZkS1CqMHyI0bAYZFIXyJXciUb9T8BEr7P5e08CmotXCGGNPXXhysF",
     "showTopPosition": false,
     "skills": [
         "Java"

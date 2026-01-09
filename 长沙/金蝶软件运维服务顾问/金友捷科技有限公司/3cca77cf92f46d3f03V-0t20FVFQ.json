@@ -22,7 +22,7 @@
     "encryptBossId": "03fa19932636aa081nVy2NW6E1BZ",
     "encryptBrandId": "a2d19422c0def54533dy29u_GQ~~",
     "encryptJobId": "3cca77cf92f46d3f03V-0t20FVFQ",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.137236,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 73,
+    "itemId": 5,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1Df5uxnyyyz.search.73",
+    "lid": "4xlJvYJiz4k.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K·13薪",
-    "securityId": "H8ohjHkCqapC8-s19I4xWXLss7w7DhcRy85V2x1Oa7jlj9--nS-oNEONuJpNBd5ogppcQD0hxeOszIJZMZN3YJsLD8nthLnJjAc0o7X3RgWRopk_tsfcEM8XRUDQx0PZqbHKRmz_Rvn2Mw~~",
+    "securityId": "tkWCsL6YIkJGd-d1p9k_SDJPXx3ES8ohFTy8_JIhoybF6-dKFDjGnX_rrreKnkEE7PMlEB52S8zdQM8_1gJ4edL8ZSIumOkZyRTwRwOEIx-bYqfqbSg~",
     "showTopPosition": false,
     "skills": [
         "系统运维",

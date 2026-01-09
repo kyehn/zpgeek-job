@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
-    "bossName": "吴海波",
+    "bossName": "吴女士",
     "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "建筑设计",
@@ -22,7 +22,7 @@
     "encryptBossId": "ecdefbd406b825e433d60ty7F1s~",
     "encryptBrandId": "dd6ee722c39d86b61nd52t-0ElU~",
     "encryptJobId": "749ebc2e398b321603Z52du-EVFU",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.196781,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100703,
     "isShield": 0,
-    "itemId": 56,
+    "itemId": 7,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1JDzuAR4BnV.search.56",
+    "lid": "4xlJvYJiz4k.search.7",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "RAhrlz8K7R3pb-81pV7lKf-FZYGUOKLga5CE5-1_gXQVD7gkM5ow-GLcfkQOHdCG_f4CmtgrOwtLV9dID-Sq2bWEFaOv4saKHIB-gArQbELSH4PWGfbLIZFaT2DzXQwEUNewk7tfNDb6rQ~~",
+    "securityId": "v2kFdh2Xa5lJg-o1etS81dXMHQWQIj0CkPP38wuhNhIM6ThCNBmIgq-scb3jB5P-P8Aqt4UcMfeucXNN8k1JRCfwnn0xPmLI4hoOqSyWBouMOc76uPs~",
     "showTopPosition": false,
     "skills": [
         "网络运维",
         "系统运维"
     ],
     "welfareList": [
-        "包吃",
-        "五险",
-        "包住"
+        "五险"
     ]
 }
