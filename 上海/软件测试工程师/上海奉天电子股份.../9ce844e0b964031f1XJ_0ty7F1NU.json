@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
     "bossCert": 3,
     "bossName": "徐先生",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘经理",
     "brandIndustry": "汽车零部件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210529/a144782577b9c45771f4097e4a3cf752d0cdbda2ab05d76f58a00d60a797f189.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100802,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 15,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4qCrHt516iM.search.11",
+    "lid": "4RUmTJyjZlK.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K·13薪",
-    "securityId": "mMUkX7jdDmuYP-d1BGsjiQqQWSYLkBL0LWh-k253DYnXiaX-xi1IoJuaOeFOkQGWMEWU1hIMFESXx5jG2bqu31BN6CkUBkOCu97lGca2Mi6Z-9arUcBkXj8gnvwtgZgfh8pAQf47RzfpOuKCcGmBnEo~",
+    "securityId": "ttWqmX9wF0vVv-m1IpddEsF9NIPa9nKT8q5VEsY8eFRqW6B7CdLdF5nFt210dUFeKWYudSrV0PVYmFuq5IELIqynPi-xANN3Hxnv1VnnIvT0p17fkl0~",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业"

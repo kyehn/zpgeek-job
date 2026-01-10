@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "岳麓区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "杜先生",
+    "bossOnline": false,
+    "bossTitle": "经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210811/54bd87150931af5a831761ea20f8915053256a5ea2a9ab0f59952223c7dddda3.png",
+    "brandName": "正粮科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "麓谷",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8a6d03de913c8ec00n1-2dW5E1I~",
+    "encryptBrandId": "cff1ba6af5f73cee03R80t21FQ~~",
+    "encryptJobId": "a099769118d6125503R93dW_FVI~",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.209528,
+        "longitude": 112.890351
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 14,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4OQHs9XLPi8.search.14",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-8K",
+    "securityId": "gWoVogC0c5zbD-c1Zv4z4ZHIz5thebk9oPLXe8yhQgSQId8lt9bvaoTgs6O_4Wj9T9b_Y3ahaJ1jRazrl3PNmBDRQPIADWrdBb85KiKCtscEocUB",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "软件测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

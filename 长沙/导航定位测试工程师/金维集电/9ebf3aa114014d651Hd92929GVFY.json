@@ -9,11 +9,11 @@
     "bossName": "王女士",
     "bossOnline": false,
     "bossTitle": "人事经理",
-    "brandIndustry": "电子/半导体/集成电路",
-    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandIndustry": "半导体/芯片",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250815/7bf6f160950405e93432efb3b53729c498c8c12e566b385e8497ac84fd76f741561d97f530ab115a.png.webp",
     "brandName": "金维集电",
     "brandScaleName": "100-499人",
-    "brandStageName": "",
+    "brandStageName": "C轮",
     "businessDistrict": "麓谷",
     "city": 101250100,
     "cityName": "长沙",
@@ -22,7 +22,7 @@
     "encryptBossId": "ae2f59ad2863fa680nF909-0E1RU",
     "encryptBrandId": "97b892f6c1dfb8741HZ609W4E1c~",
     "encryptJobId": "9ebf3aa114014d651Hd92929GVFY",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.232849,
@@ -30,9 +30,9 @@
     },
     "iconFlagList": [],
     "iconWord": "",
-    "industry": 100026,
+    "industry": 101405,
     "isShield": 0,
-    "itemId": 49,
+    "itemId": 9,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,28 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "26mjMiCPqKg.search.49",
+    "lid": "4ORzQMHv5FD.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K",
-    "securityId": "jWKZ_J7WPYyD9-O1GxbyTCM5rwmk_RAXzyzdXT3X5Ka-JkojXkAo3QONe608r_bXhRRYMfIbuO7m7rKMCqiz3f-w2Zd0yGOFzjO0BxkeOdOWsJIbAdIZnNJxu2EqdmPknSvJL5Voq4OewXo~",
+    "securityId": "fbzSHmT8yJSkm-Z17ETgETga7svHDpYxc_h1jysrXXUmxmRmPrxMJGcWM2qwnQgBFYBPkFuN3U42lEbkvA0UZy-sGrKhqmZ6CLg41KdL5XX74RShFDUa",
     "showTopPosition": false,
     "skills": [
         "性能测试",
         "功能测试"
     ],
-    "welfareList": []
+    "welfareList": [
+        "餐补",
+        "节日福利",
+        "高温补贴",
+        "团建聚餐",
+        "定期体检",
+        "五险一金",
+        "绩效奖金",
+        "年终奖",
+        "带薪年假",
+        "生日福利"
+    ]
 }
