@@ -1,73 +1,73 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "吴中区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221109/607f1f3d68754fd0cfc82ae6cb9013731d0a0b434be02b6a0d3fd2850d6fcd98d63e410512c3e03a_s.jpg",
-  "bossCert": 3,
-  "bossName": "朱女士",
-  "bossOnline": true,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220316/7bf6f160950405e9282fe33181a1523803562870c4e2cc4a242ac4eb7bbd10d1694083156ab76fdb.jpg",
-  "brandName": "阿里巴巴集团",
-  "brandScaleName": "10000人以上",
-  "brandStageName": "已上市",
-  "businessDistrict": "李公堤",
-  "city": 101190400,
-  "cityName": "苏州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "a03200e088e1f0ba1nVz29-7EVRZ",
-  "encryptBrandId": "5d627415a46b4a750nJ9",
-  "encryptJobId": "7e81d834fac33f1703V72Ny9EFNX",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.6737,
-    "latitude": 31.315496
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 80,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "阿里大麦-硬件系统维护",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "2a1DMfRNSb2.search.80",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "6-7K",
-  "securityId": "Co4LiymSlJZDc-x1dkRM27kWDON1rQu7AlgJkeKhMA5ZoqQ8PZfjGAduZVxUrlGc37QNeeRma9pFFM3G_wI4zoiIfGlxrC5OHMHsFV4SXIYSWVu-S2vvw8A2El4bv1DRaugcx5yJ1p19x_-P-A~~",
-  "showTopPosition": false,
-  "skills": [
-    "实施交付运维"
-  ],
-  "welfareList": [
-    "节日福利",
-    "年终奖",
-    "餐补",
-    "员工旅游",
-    "五险一金",
-    "补充医疗保险",
-    "交通补助",
-    "免费班车",
-    "零食下午茶",
-    "股票期权"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "吴中区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221109/607f1f3d68754fd0cfc82ae6cb9013731d0a0b434be02b6a0d3fd2850d6fcd98d63e410512c3e03a_s.jpg",
+    "bossCert": 3,
+    "bossName": "朱女士",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220316/7bf6f160950405e9282fe33181a1523803562870c4e2cc4a242ac4eb7bbd10d1694083156ab76fdb.jpg",
+    "brandName": "阿里巴巴集团",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "李公堤",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a03200e088e1f0ba1nVz29-7EVRZ",
+    "encryptBrandId": "5d627415a46b4a750nJ9",
+    "encryptJobId": "7e81d834fac33f1703V72Ny9EFNX",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.315496,
+        "longitude": 120.6737
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "阿里大麦-硬件系统维护",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2a1DMfRNSb2.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "6-7K",
+    "securityId": "Co4LiymSlJZDc-x1dkRM27kWDON1rQu7AlgJkeKhMA5ZoqQ8PZfjGAduZVxUrlGc37QNeeRma9pFFM3G_wI4zoiIfGlxrC5OHMHsFV4SXIYSWVu-S2vvw8A2El4bv1DRaugcx5yJ1p19x_-P-A~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维"
+    ],
+    "welfareList": [
+        "节日福利",
+        "年终奖",
+        "餐补",
+        "员工旅游",
+        "五险一金",
+        "补充医疗保险",
+        "交通补助",
+        "免费班车",
+        "零食下午茶",
+        "股票期权"
+    ]
 }

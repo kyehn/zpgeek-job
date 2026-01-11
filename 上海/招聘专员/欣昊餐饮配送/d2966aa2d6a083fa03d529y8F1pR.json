@@ -1,20 +1,20 @@
 {
-  "areaDistrict": "闵行区",
-  "bossName": "依先生",
-  "bossTitle": "人事专员",
-  "brandIndustry": "餐饮",
-  "brandName": "欣昊餐饮配送",
-  "brandScaleName": "100-499人",
-  "businessDistrict": "浦江",
-  "cityName": "上海",
-  "contact": false,
-  "encryptJobId": "d2966aa2d6a083fa03d529y8F1pR",
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobName": "招聘专员",
-  "salaryDesc": "4-8K",
-  "skills": [
-    "公司人力资源部门",
-    "不接受居家办公"
-  ]
+    "areaDistrict": "闵行区",
+    "bossName": "依先生",
+    "bossTitle": "人事专员",
+    "brandIndustry": "餐饮",
+    "brandName": "欣昊餐饮配送",
+    "brandScaleName": "100-499人",
+    "businessDistrict": "浦江",
+    "cityName": "上海",
+    "contact": false,
+    "encryptJobId": "d2966aa2d6a083fa03d529y8F1pR",
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobName": "招聘专员",
+    "salaryDesc": "4-8K",
+    "skills": [
+        "公司人力资源部门",
+        "不接受居家办公"
+    ]
 }

@@ -52,11 +52,11 @@
     "securityId": "NDLe61e7PfTQT-81zg0rT6CZ12QY6VMSRJVmFo9G633yli0ElEmX1tMeAlvp1h5_pPFCw_03XfOxtchT0J76ryk6b89xVi-cWAHGXbW9evRVvegOn0AO43O8Tgw69wQLbbtNryYKbGeRow~~",
     "showTopPosition": false,
     "skills": [
-        "来料检验（IQC）",
-        "制程检验（IPQC）",
-        "出货检验（OQC）",
+        "来料检验(IQC)",
+        "制程检验(IPQC)",
+        "出货检验(OQC)",
         "传感器",
-        "成品检验（FQC）"
+        "成品检验(FQC)"
     ],
     "welfareList": [
         "年终奖",

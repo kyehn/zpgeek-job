@@ -1,74 +1,74 @@
 {
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240315/607f1f3d68754fd0daaa81f35a7098f2f165a61b1ca489938af1be6ddf6cc9aa56f80816e3921000_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "陈女士",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "计算机软件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某中型自动驾驶技术公司",
-  "brandScaleName": "100-499人",
-  "brandStageName": "C轮",
-  "businessDistrict": "",
-  "city": 101010100,
-  "cityName": "北京",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "ade31bd6e969fb830nJ72d-9EFBZ",
-  "encryptBrandId": "",
-  "encryptJobId": "933a279a8e9abda303R62di_FVZZ",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 116.314852,
-    "latitude": 39.978368
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100021,
-  "isShield": 0,
-  "itemId": 151,
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "本科"
-  ],
-  "jobName": "感知测试专员",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "6Aloie3EIYF.search.151",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "7-8K",
-  "securityId": "pKofZFyRXB188-v1wzyytCq9EquEyXRSu2DAumUGQrjp-lKuu7pDJkk3G5rnlDEdFrq6BrUdBVvAHnpyNjAn4Qq6jdVVyIfehuBf07zdLlRnq6JZ-B9kGhSaWlvqoCDW2diWGE01PjgkTg~~",
-  "showTopPosition": false,
-  "skills": [
-    "自动驾驶"
-  ],
-  "welfareList": [
-    "节日福利",
-    "年终奖",
-    "零食下午茶",
-    "包吃",
-    "员工旅游",
-    "定期体检",
-    "团建聚餐",
-    "股票期权",
-    "补充医疗保险",
-    "带薪年假",
-    "五险一金"
-  ],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240315/607f1f3d68754fd0daaa81f35a7098f2f165a61b1ca489938af1be6ddf6cc9aa56f80816e3921000_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某中型自动驾驶技术公司",
+    "brandScaleName": "100-499人",
+    "brandStageName": "C轮",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ade31bd6e969fb830nJ72d-9EFBZ",
+    "encryptBrandId": "",
+    "encryptJobId": "933a279a8e9abda303R62di_FVZZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.978368,
+        "longitude": 116.314852
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 151,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "感知测试专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6Aloie3EIYF.search.151",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "7-8K",
+    "securityId": "pKofZFyRXB188-v1wzyytCq9EquEyXRSu2DAumUGQrjp-lKuu7pDJkk3G5rnlDEdFrq6BrUdBVvAHnpyNjAn4Qq6jdVVyIfehuBf07zdLlRnq6JZ-B9kGhSaWlvqoCDW2diWGE01PjgkTg~~",
+    "showTopPosition": false,
+    "skills": [
+        "自动驾驶"
+    ],
+    "welfareList": [
+        "节日福利",
+        "年终奖",
+        "零食下午茶",
+        "包吃",
+        "员工旅游",
+        "定期体检",
+        "团建聚餐",
+        "股票期权",
+        "补充医疗保险",
+        "带薪年假",
+        "五险一金"
+    ]
 }

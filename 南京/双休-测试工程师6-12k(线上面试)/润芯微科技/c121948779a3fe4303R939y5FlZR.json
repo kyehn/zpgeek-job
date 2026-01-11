@@ -1,74 +1,74 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "雨花台区",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230207/607f1f3d68754fd070171dce4d2c2888ec19d3ab481bd8fb76d7c56b5671d98e16d1cb8bc0420b2f_s.png",
-  "bossCert": 3,
-  "bossName": "陆女士",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "智能硬件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211211/7b5b554d84f9729c3068b8c3101a3240131d93b69e608e42d0ce106ae889880c4ef3fe0011833f08.png",
-  "brandName": "润芯微科技",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "未融资",
-  "businessDistrict": "宁南",
-  "city": 101190100,
-  "cityName": "南京",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "f5bddf43243eec540nB_2dm1E1Y~",
-  "encryptBrandId": "ab7577d1d5fcb5161n1z3Ni0F1A~",
-  "encryptJobId": "c121948779a3fe4303R939y5FlZR",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 118.769616,
-    "latitude": 31.961481
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100018,
-  "isShield": 0,
-  "itemId": 164,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "双休-测试工程师6-12k(线上面试)",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "6h6odi396yX.search.164",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "6-11K",
-  "securityId": "NtKkc83yUz_mE-71SgywNZaJsHAsCxpGdpvM3fokR71lygHn95bHaWyDoWZztJMb6f6jgpR8L-irpVZ8JrHA9aIM87ozOG2WgJMTiPSN4cRD27Cqjp3dpggYSYIstFpIqfc7exCO9Y2ehA~~",
-  "showTopPosition": false,
-  "skills": [
-    "自动化测试经验",
-    "测试工作经验",
-    "iOS/Android测试经验",
-    "功能测试经验"
-  ],
-  "welfareList": [
-    "年终奖",
-    "全勤奖",
-    "员工旅游",
-    "带薪年假",
-    "定期体检",
-    "餐补",
-    "五险一金",
-    "补充医疗保险"
-  ],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "雨花台区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230207/607f1f3d68754fd070171dce4d2c2888ec19d3ab481bd8fb76d7c56b5671d98e16d1cb8bc0420b2f_s.png",
+    "bossCert": 3,
+    "bossName": "陆女士",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211211/7b5b554d84f9729c3068b8c3101a3240131d93b69e608e42d0ce106ae889880c4ef3fe0011833f08.png",
+    "brandName": "润芯微科技",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "宁南",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f5bddf43243eec540nB_2dm1E1Y~",
+    "encryptBrandId": "ab7577d1d5fcb5161n1z3Ni0F1A~",
+    "encryptJobId": "c121948779a3fe4303R939y5FlZR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.961481,
+        "longitude": 118.769616
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 164,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "双休-测试工程师6-12k(线上面试)",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6h6odi396yX.search.164",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "6-11K",
+    "securityId": "NtKkc83yUz_mE-71SgywNZaJsHAsCxpGdpvM3fokR71lygHn95bHaWyDoWZztJMb6f6jgpR8L-irpVZ8JrHA9aIM87ozOG2WgJMTiPSN4cRD27Cqjp3dpggYSYIstFpIqfc7exCO9Y2ehA~~",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试经验",
+        "测试工作经验",
+        "iOS/Android测试经验",
+        "功能测试经验"
+    ],
+    "welfareList": [
+        "年终奖",
+        "全勤奖",
+        "员工旅游",
+        "带薪年假",
+        "定期体检",
+        "餐补",
+        "五险一金",
+        "补充医疗保险"
+    ]
 }

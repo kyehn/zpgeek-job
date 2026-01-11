@@ -43,22 +43,22 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4RSt68MBrvd.search.3",
+    "lid": "5h76i76Ld8Q.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "mZNpjparV86uF-91MeB2kNRl_5qhDSqskRmcz96SJ_8uKXu1_9QyxqjB1-T3p21RWjkb_8-XlBvLor8kDg6YSxh4vPJP3zHy-HQdJ48WkT_fEzmf8Q~~",
+    "securityId": "P1u9WtBixgjuH-V1JN7lgM4GXUOmxQHOLYJQjtYSmqgQGP4OOM0pN9dE4nqOqtMxHD05tHYUOfDxZL_qCbyMe9OBv9nAlBlb5FwMB5glpK7eiOFX2g~~",
     "showTopPosition": false,
     "skills": [
         "Java",
-        "Python/Shell",
-        "MySQL/Oracle",
         "网络运维",
-        "运维开发/DevOps",
         "实施交付运维",
-        "管理经验"
+        "MySQL/Oracle",
+        "管理经验",
+        "运维开发/DevOps",
+        "Python/Shell"
     ],
     "welfareList": [
         "生日福利",

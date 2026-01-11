@@ -1,71 +1,71 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "江夏区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181029/f47a33db882e28b1d01bb449337915337568a9f588d57618da9ebb247a9f5d96_s.jpg",
-  "bossCert": 3,
-  "bossName": "李冰卓",
-  "bossOnline": true,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "计算机软件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240709/7bf6f160950405e95d0bf93328864ed074521fbb7073a1a30b6972a2c384aa184ded46a25ce50bd0.png.webp",
-  "brandName": "鑫燃科技",
-  "brandScaleName": "100-499人",
-  "brandStageName": "未融资",
-  "businessDistrict": "流芳",
-  "city": 101200100,
-  "cityName": "武汉",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "7d3f964607d0e70d03x43ty-F1Q~",
-  "encryptBrandId": "04b15aab882f57c31HZ50966ElA~",
-  "encryptJobId": "f5a06bdc06c1e5bb03Rz2t25EVFT",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 114.450201,
-    "latitude": 30.454898
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100021,
-  "isShield": 0,
-  "itemId": 290,
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "本科"
-  ],
-  "jobName": "Function测试",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "5OkgP9idfDY.search.290",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "5-8K",
-  "securityId": "YFd8BRYCAPuKZ-h1y5Vl58a3nOPzNWdjAgPaBbZL46XVMrDuDOI6PEXUMHVAhMGEJ2JL2T7W6QvC2yDpwEEnGy2E96CbxWrBq9qTlHrYDthQZJbB0B1Usyjv9je0I9oB45anH48ylRT9pyTHgorRIEQUBKyyP6yokvQJFNaR2EjqDVVW2Q~~",
-  "showTopPosition": false,
-  "skills": [
-    "功能测试",
-    "整机测试、手机测试",
-    "华为",
-    "小米",
-    "日语"
-  ],
-  "welfareList": [
-    "年终奖",
-    "五险一金",
-    "夜班补助",
-    "加班补助"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江夏区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181029/f47a33db882e28b1d01bb449337915337568a9f588d57618da9ebb247a9f5d96_s.jpg",
+    "bossCert": 3,
+    "bossName": "李冰卓",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240709/7bf6f160950405e95d0bf93328864ed074521fbb7073a1a30b6972a2c384aa184ded46a25ce50bd0.png.webp",
+    "brandName": "鑫燃科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "流芳",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "7d3f964607d0e70d03x43ty-F1Q~",
+    "encryptBrandId": "04b15aab882f57c31HZ50966ElA~",
+    "encryptJobId": "f5a06bdc06c1e5bb03Rz2t25EVFT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.454898,
+        "longitude": 114.450201
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 290,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Function测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5OkgP9idfDY.search.290",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "5-8K",
+    "securityId": "YFd8BRYCAPuKZ-h1y5Vl58a3nOPzNWdjAgPaBbZL46XVMrDuDOI6PEXUMHVAhMGEJ2JL2T7W6QvC2yDpwEEnGy2E96CbxWrBq9qTlHrYDthQZJbB0B1Usyjv9je0I9oB45anH48ylRT9pyTHgorRIEQUBKyyP6yokvQJFNaR2EjqDVVW2Q~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "整机测试、手机测试",
+        "华为",
+        "小米",
+        "日语"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "夜班补助",
+        "加班补助"
+    ]
 }

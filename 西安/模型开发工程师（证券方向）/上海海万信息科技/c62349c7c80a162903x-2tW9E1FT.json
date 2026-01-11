@@ -39,7 +39,7 @@
         "1-3年",
         "本科"
     ],
-    "jobName": "模型开发工程师（证券方向）",
+    "jobName": "模型开发工程师(证券方向)",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
@@ -52,7 +52,7 @@
     "securityId": "VNkeithnS2loY-O1OjqPSWECiSKJJwerFw-5gfqQf_8thde1_HWxdSHI77yleJqgwoaBl5LjAUvk1J-eZwcn0YIXZCzF-Orue8OaiDVa4XcmLCFRGonEknaaPExU49LxjGyDIrnfT4A_uw~~",
     "showTopPosition": false,
     "skills": [
-        "pandas，numpy，linux",
+        "pandas,numpy,linux",
         "大模型算法",
         "多模态算法",
         "算法工程化经验",

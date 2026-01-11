@@ -1,65 +1,65 @@
 {
-  "anonymous": 20,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210131/9ce9309c4d88adf5688fe220971b6909edb529022183c44dff1ddfb6b042acb7_s.jpg",
-  "bossCert": 3,
-  "bossName": "邓叔海",
-  "bossOnline": true,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某知名互联网公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "B轮",
-  "businessDistrict": "",
-  "city": 101250100,
-  "cityName": "长沙",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "f2e6983b23264aa90nV-09W8FVdV",
-  "encryptBrandId": "",
-  "encryptJobId": "077035814e6af2b71HJ809W-EFtQ",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 112.95124,
-    "latitude": 28.227964
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 131,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "招聘专员/兼职",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "8f7rZH9zIvQ.search.131",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "2-4K",
-  "securityId": "E4fjZ27p2twz8-41W7LTxeIfDDr240vN8-plP73FqGOT5t44atIynIKhCk0BgUGVJr51Mx1Cr7RsYwDR4dFqapCHFdNWo3KVgahk8FgTHdZR8wYpGUqXhZE4CMTpui7KSwqx3mSraJsPkrQvtSg-t5pVBoNtQNmY9_7he_TeTCe27iqPROc~",
-  "showTopPosition": false,
-  "skills": [
-    "招聘",
-    "人事",
-    "HRBP",
-    "行政"
-  ],
-  "welfareList": [
-    "节日福利",
-    "零食下午茶",
-    "五险一金"
-  ]
+    "anonymous": 20,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210131/9ce9309c4d88adf5688fe220971b6909edb529022183c44dff1ddfb6b042acb7_s.jpg",
+    "bossCert": 3,
+    "bossName": "邓叔海",
+    "bossOnline": true,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某知名互联网公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "B轮",
+    "businessDistrict": "",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f2e6983b23264aa90nV-09W8FVdV",
+    "encryptBrandId": "",
+    "encryptJobId": "077035814e6af2b71HJ809W-EFtQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.227964,
+        "longitude": 112.95124
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 131,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "招聘专员/兼职",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8f7rZH9zIvQ.search.131",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "2-4K",
+    "securityId": "E4fjZ27p2twz8-41W7LTxeIfDDr240vN8-plP73FqGOT5t44atIynIKhCk0BgUGVJr51Mx1Cr7RsYwDR4dFqapCHFdNWo3KVgahk8FgTHdZR8wYpGUqXhZE4CMTpui7KSwqx3mSraJsPkrQvtSg-t5pVBoNtQNmY9_7he_TeTCe27iqPROc~",
+    "showTopPosition": false,
+    "skills": [
+        "招聘",
+        "人事",
+        "HRBP",
+        "行政"
+    ],
+    "welfareList": [
+        "节日福利",
+        "零食下午茶",
+        "五险一金"
+    ]
 }

@@ -56,7 +56,7 @@
         "Django",
         "PostgreSQL",
         "MySQL",
-        "gRPC（微服务）",
+        "gRPC(微服务)",
         "Celery(任务调度)",
         "Flink流式数据处理",
         "TypeHits类型注解",

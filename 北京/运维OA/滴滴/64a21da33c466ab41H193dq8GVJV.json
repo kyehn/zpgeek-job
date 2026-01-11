@@ -1,65 +1,65 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "海淀区",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
-  "bossCert": 3,
-  "bossName": "贾先生",
-  "bossOnline": true,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "移动互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20201205/25965fbe2c0440e760df2b6a6b81d7c2be1bd4a3bd2a63f070bdbdada9aad826.png",
-  "brandName": "滴滴",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "D轮及以上",
-  "businessDistrict": "上地",
-  "city": 101010100,
-  "cityName": "北京",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "3b1046049b176a3e0nF62d28EFFY",
-  "encryptBrandId": "8548fadc0b5c265403V93t61EQ~~",
-  "encryptJobId": "64a21da33c466ab41H193dq8GVJV",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 116.283096,
-    "latitude": 40.049843
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 100019,
-  "isShield": 0,
-  "itemId": 179,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "运维OA",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "46CPPyN0F7b.search.179",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "9-10K",
-  "securityId": "yMRjMFjnnS7c5-x1ZuVLOZ0gb8nZpWYKNUVZF3QoQv_yPhkQG3JoeEVtotjBqt8DoB8ipHVZB5aOdxuEkPks_QeKkjgyCCC8Ns9Cxa20h-jzcBX8GW_QJ1BYBYBnx23E2H4PlDLV23ThOXCQTUgGlT7b1xpAV90lFFWUN_6Il1lONDzRXw~~",
-  "showTopPosition": false,
-  "skills": [
-    "系统运维",
-    "运维开发经验",
-    "应用系统运维",
-    "苹果设备运维加分"
-  ],
-  "welfareList": [
-    "补充医疗保险",
-    "定期体检",
-    "五险一金"
-  ]
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "bossName": "贾先生",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "移动互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/20201205/25965fbe2c0440e760df2b6a6b81d7c2be1bd4a3bd2a63f070bdbdada9aad826.png",
+    "brandName": "滴滴",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "D轮及以上",
+    "businessDistrict": "上地",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3b1046049b176a3e0nF62d28EFFY",
+    "encryptBrandId": "8548fadc0b5c265403V93t61EQ~~",
+    "encryptJobId": "64a21da33c466ab41H193dq8GVJV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.049843,
+        "longitude": 116.283096
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100019,
+    "isShield": 0,
+    "itemId": 179,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维OA",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "46CPPyN0F7b.search.179",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "9-10K",
+    "securityId": "yMRjMFjnnS7c5-x1ZuVLOZ0gb8nZpWYKNUVZF3QoQv_yPhkQG3JoeEVtotjBqt8DoB8ipHVZB5aOdxuEkPks_QeKkjgyCCC8Ns9Cxa20h-jzcBX8GW_QJ1BYBYBnx23E2H4PlDLV23ThOXCQTUgGlT7b1xpAV90lFFWUN_6Il1lONDzRXw~~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "运维开发经验",
+        "应用系统运维",
+        "苹果设备运维加分"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "定期体检",
+        "五险一金"
+    ]
 }

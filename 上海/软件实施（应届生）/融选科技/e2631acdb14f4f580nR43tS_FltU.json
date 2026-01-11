@@ -8,7 +8,7 @@
     "bossCert": 3,
     "bossName": "沈志伟",
     "bossOnline": false,
-    "bossTitle": "副总经理，CTO",
+    "bossTitle": "副总经理,CTO",
     "brandIndustry": "计算机服务",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "融选科技",
@@ -39,7 +39,7 @@
         "在校/应届",
         "本科"
     ],
-    "jobName": "软件实施（应届生）",
+    "jobName": "软件实施(应届生)",
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",

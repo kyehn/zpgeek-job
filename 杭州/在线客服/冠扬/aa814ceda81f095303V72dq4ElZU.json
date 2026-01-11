@@ -1,65 +1,65 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "萧山区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
-  "bossCert": 3,
-  "bossName": "刘熙",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "汽车零部件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
-  "brandName": "冠扬",
-  "brandScaleName": "500-999人",
-  "brandStageName": "",
-  "businessDistrict": "西兴",
-  "city": 101210100,
-  "cityName": "杭州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "8171b74752f4c1450nFz3tW1FlJR",
-  "encryptBrandId": "82e1053cb225f5bb1nVy09y1FFE~",
-  "encryptJobId": "aa814ceda81f095303V72dq4ElZU",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.253528,
-    "latitude": 30.237229
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100802,
-  "isShield": 0,
-  "itemId": 273,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "在线客服",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "1YKaCRrrvEx.search.273",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "4-7K",
-  "securityId": "DfnbRuWr5uWaX-g13hU7J4kIk79Tez20ImAKdHxQinYJcSXwPJyNJ4IMevgLbOUanWMOVdi5yZt5zuR30smmg_hz4uYHxLmJQd_4Olm70En57PlwVotI",
-  "showTopPosition": false,
-  "skills": [
-    "不含销售的客服工作",
-    "线上客服",
-    "倒班工作制",
-    "汽车经验"
-  ],
-  "welfareList": []
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "萧山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "刘熙",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "汽车零部件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "冠扬",
+    "brandScaleName": "500-999人",
+    "brandStageName": "",
+    "businessDistrict": "西兴",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8171b74752f4c1450nFz3tW1FlJR",
+    "encryptBrandId": "82e1053cb225f5bb1nVy09y1FFE~",
+    "encryptJobId": "aa814ceda81f095303V72dq4ElZU",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.237229,
+        "longitude": 120.253528
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100802,
+    "isShield": 0,
+    "itemId": 273,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "在线客服",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1YKaCRrrvEx.search.273",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "4-7K",
+    "securityId": "DfnbRuWr5uWaX-g13hU7J4kIk79Tez20ImAKdHxQinYJcSXwPJyNJ4IMevgLbOUanWMOVdi5yZt5zuR30smmg_hz4uYHxLmJQd_4Olm70En57PlwVotI",
+    "showTopPosition": false,
+    "skills": [
+        "不含销售的客服工作",
+        "线上客服",
+        "倒班工作制",
+        "汽车经验"
+    ],
+    "welfareList": []
 }

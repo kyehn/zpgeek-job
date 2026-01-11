@@ -1,64 +1,64 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 20,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
-  "bossCert": 3,
-  "bossName": "刘先生",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "计算机软件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某计算机软件公司",
-  "brandScaleName": "20-99人",
-  "brandStageName": "",
-  "businessDistrict": "",
-  "city": 101180100,
-  "cityName": "郑州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "45c4add33514943e0Xx73Ny5EVRQ",
-  "encryptBrandId": "",
-  "encryptJobId": "fe0805dda46cde081H1_3t2_FlFQ",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 113.668996,
-    "latitude": 34.719869
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100021,
-  "isShield": 0,
-  "itemId": 39,
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "大专"
-  ],
-  "jobName": "软件测试+车载测试工程师助理+双休",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "2cHrAnn3sVA.search.39",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "7-12K",
-  "securityId": "170QS6ynsYt6K-p124ST42zffbLAeutntw0Ljbeu86Q5InMX9gpprAI61JPFi0EtjotSdswu_E6V4vTXOFTiLRmh-KNSNOw8lnqGC8pcyGvRTN8WuzLS",
-  "showTopPosition": false,
-  "skills": [
-    "功能测试",
-    "性能测试",
-    "计算机相关专业"
-  ],
-  "welfareList": []
+    "afterNameIcons": [],
+    "anonymous": 20,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "bossName": "刘先生",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某计算机软件公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101180100,
+    "cityName": "郑州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "45c4add33514943e0Xx73Ny5EVRQ",
+    "encryptBrandId": "",
+    "encryptJobId": "fe0805dda46cde081H1_3t2_FlFQ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 34.719869,
+        "longitude": 113.668996
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 39,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件测试+车载测试工程师助理+双休",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2cHrAnn3sVA.search.39",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "7-12K",
+    "securityId": "170QS6ynsYt6K-p124ST42zffbLAeutntw0Ljbeu86Q5InMX9gpprAI61JPFi0EtjotSdswu_E6V4vTXOFTiLRmh-KNSNOw8lnqGC8pcyGvRTN8WuzLS",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "计算机相关专业"
+    ],
+    "welfareList": []
 }

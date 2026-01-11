@@ -1,23 +1,23 @@
 {
-  "areaDistrict": "龙岗区",
-  "bossName": "殷丹丹",
-  "bossTitle": "业务主管",
-  "brandIndustry": "电子商务",
-  "brandName": "深圳昊天星辰科技",
-  "brandScaleName": "20-99人",
-  "businessDistrict": "坂田",
-  "cityName": "深圳",
-  "contact": false,
-  "encryptJobId": "10defc475ffa9fcf1H153d69GVZU",
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobName": "业务助理",
-  "salaryDesc": "4-6K",
-  "skills": [
-    "文字功底扎实",
-    "物品采购/领用",
-    "具备人力经验",
-    "固定资产管理",
-    "具备财务经验"
-  ]
+    "areaDistrict": "龙岗区",
+    "bossName": "殷丹丹",
+    "bossTitle": "业务主管",
+    "brandIndustry": "电子商务",
+    "brandName": "深圳昊天星辰科技",
+    "brandScaleName": "20-99人",
+    "businessDistrict": "坂田",
+    "cityName": "深圳",
+    "contact": false,
+    "encryptJobId": "10defc475ffa9fcf1H153d69GVZU",
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobName": "业务助理",
+    "salaryDesc": "4-6K",
+    "skills": [
+        "文字功底扎实",
+        "物品采购/领用",
+        "具备人力经验",
+        "固定资产管理",
+        "具备财务经验"
+    ]
 }

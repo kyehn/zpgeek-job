@@ -1,71 +1,71 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "姑苏区",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240624/607f1f3d68754fd08039e8aa2cf01b0257e8d53d3466e62fca93b7365bfff0718540356d8d8df90e_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "李女士",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "智能硬件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200930/6316165d491811ccacba5b40bb0018756f2d2142da1fa684d33673612a5c3dd3_s.jpg",
-  "brandName": "亿嘉和",
-  "brandScaleName": "500-999人",
-  "brandStageName": "已上市",
-  "businessDistrict": "盘门",
-  "city": 101190400,
-  "cityName": "苏州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "803db82c0c65af340nR43di-GVNZ",
-  "encryptBrandId": "96d1c6fea5551a3c03R40ty1EQ~~",
-  "encryptJobId": "eecc7aa583d6947303R839u-ElFV",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.598156,
-    "latitude": 31.296916
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100018,
-  "isShield": 0,
-  "itemId": 8,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "充电桩运维工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "3PC3dCCVRtU.search.8",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "4-8K",
-  "securityId": "Xg1wNa8iImFvd-h1EhNeP5apb_Nttkwa-dE0GjmNe6j7hEr7hEEchOf_uNrLDgFHueQrrghAgjJ8YRZX26tckrxFqEO76RHfIiUcJKyv-xR-3WhbFJ619md3MzvzE5lr2xs96FM3EW0-Hw~~",
-  "showTopPosition": false,
-  "skills": [
-    "电子/电气/自动化相关专业",
-    "运维经验"
-  ],
-  "welfareList": [
-    "带薪年假",
-    "员工旅游",
-    "定期体检",
-    "补充医疗保险",
-    "股票期权",
-    "年终奖",
-    "五险一金"
-  ],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "姑苏区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240624/607f1f3d68754fd08039e8aa2cf01b0257e8d53d3466e62fca93b7365bfff0718540356d8d8df90e_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200930/6316165d491811ccacba5b40bb0018756f2d2142da1fa684d33673612a5c3dd3_s.jpg",
+    "brandName": "亿嘉和",
+    "brandScaleName": "500-999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "盘门",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "803db82c0c65af340nR43di-GVNZ",
+    "encryptBrandId": "96d1c6fea5551a3c03R40ty1EQ~~",
+    "encryptJobId": "eecc7aa583d6947303R839u-ElFV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.296916,
+        "longitude": 120.598156
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 8,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "充电桩运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3PC3dCCVRtU.search.8",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "4-8K",
+    "securityId": "Xg1wNa8iImFvd-h1EhNeP5apb_Nttkwa-dE0GjmNe6j7hEr7hEEchOf_uNrLDgFHueQrrghAgjJ8YRZX26tckrxFqEO76RHfIiUcJKyv-xR-3WhbFJ619md3MzvzE5lr2xs96FM3EW0-Hw~~",
+    "showTopPosition": false,
+    "skills": [
+        "电子/电气/自动化相关专业",
+        "运维经验"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "员工旅游",
+        "定期体检",
+        "补充医疗保险",
+        "股票期权",
+        "年终奖",
+        "五险一金"
+    ]
 }

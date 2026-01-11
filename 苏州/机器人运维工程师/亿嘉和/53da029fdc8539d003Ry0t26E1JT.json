@@ -1,74 +1,74 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "姑苏区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240624/607f1f3d68754fd08039e8aa2cf01b0257e8d53d3466e62fca93b7365bfff0718540356d8d8df90e_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "李女士",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "智能硬件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200930/6316165d491811ccacba5b40bb0018756f2d2142da1fa684d33673612a5c3dd3_s.jpg",
-  "brandName": "亿嘉和",
-  "brandScaleName": "500-999人",
-  "brandStageName": "已上市",
-  "businessDistrict": "南门",
-  "city": 101190400,
-  "cityName": "苏州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "803db82c0c65af340nR43di-GVNZ",
-  "encryptBrandId": "96d1c6fea5551a3c03R40ty1EQ~~",
-  "encryptJobId": "53da029fdc8539d003Ry0t26E1JT",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.601573,
-    "latitude": 31.293576
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100018,
-  "isShield": 0,
-  "itemId": 89,
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "大专"
-  ],
-  "jobName": "机器人运维工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "3PCQeiAorJJ.search.89",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "4-8K",
-  "securityId": "9K_X7gQVJMDkF-N1rlug_Kw_2e1KWE-qSoFM5pBYkfKN6DSNEgkD8oOOgjbSbCm_Xek2Yw00VAMA4t3QpuPFfn6fNlbsdPbU4ZBpOxdcQf0C_ZfscGr8oS6prwlsdLV5-iD_j6Zne0cL7g~~",
-  "showTopPosition": false,
-  "skills": [
-    "系统运维",
-    "实施交付运维",
-    "计算机相关专业",
-    "电子/电气/自动化相关专业",
-    "运维经验"
-  ],
-  "welfareList": [
-    "五险一金",
-    "年终奖",
-    "定期体检",
-    "带薪年假",
-    "员工旅游",
-    "股票期权",
-    "补充医疗保险"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "姑苏区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240624/607f1f3d68754fd08039e8aa2cf01b0257e8d53d3466e62fca93b7365bfff0718540356d8d8df90e_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200930/6316165d491811ccacba5b40bb0018756f2d2142da1fa684d33673612a5c3dd3_s.jpg",
+    "brandName": "亿嘉和",
+    "brandScaleName": "500-999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "南门",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "803db82c0c65af340nR43di-GVNZ",
+    "encryptBrandId": "96d1c6fea5551a3c03R40ty1EQ~~",
+    "encryptJobId": "53da029fdc8539d003Ry0t26E1JT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.293576,
+        "longitude": 120.601573
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 89,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "机器人运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3PCQeiAorJJ.search.89",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "4-8K",
+    "securityId": "9K_X7gQVJMDkF-N1rlug_Kw_2e1KWE-qSoFM5pBYkfKN6DSNEgkD8oOOgjbSbCm_Xek2Yw00VAMA4t3QpuPFfn6fNlbsdPbU4ZBpOxdcQf0C_ZfscGr8oS6prwlsdLV5-iD_j6Zne0cL7g~~",
+    "showTopPosition": false,
+    "skills": [
+        "系统运维",
+        "实施交付运维",
+        "计算机相关专业",
+        "电子/电气/自动化相关专业",
+        "运维经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "定期体检",
+        "带薪年假",
+        "员工旅游",
+        "股票期权",
+        "补充医疗保险"
+    ]
 }

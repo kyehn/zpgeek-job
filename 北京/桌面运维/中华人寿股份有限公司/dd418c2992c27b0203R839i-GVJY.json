@@ -1,73 +1,73 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
-  "bossCert": 3,
-  "bossName": "祁祥",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "互联网金融",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170821/5142f96165360ed76d83ad933464af0c8c7dd922ad47494fc02c388e12c00eac.jpg",
-  "brandName": "中华人寿股份有限公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "不需要融资",
-  "businessDistrict": "",
-  "city": 101010100,
-  "cityName": "北京",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "3488e2c5f9186b6a0nF62Ny9FFFT",
-  "encryptBrandId": "96fb3f5723af64c90XJ73d27",
-  "encryptJobId": "dd418c2992c27b0203R839i-GVJY",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 116.410768,
-    "latitude": 39.967119
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 100206,
-  "isShield": 0,
-  "itemId": 258,
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "大专"
-  ],
-  "jobName": "桌面运维",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "6R70ikqPf6k.search.258",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "6-7K·13薪",
-  "securityId": "bTOI5012kFjve-Y1Cz9BiG_K80Lwz5Y82tOShx7HlwCRFnY26xF0t9P1CmicikzzQHigLNARMQzKbzMzl92Rbdoq5Jj2tKbD2yz0WsQAC4O-cQ1vslEq8lyWSMFFDjF1YJ-az76DkAn6",
-  "showTopPosition": false,
-  "skills": [
-    "桌面运维",
-    "运维经验",
-    "打印机/复印机维修经验",
-    "计算机相关专业"
-  ],
-  "welfareList": [
-    "全勤奖",
-    "年终奖",
-    "带薪年假",
-    "包吃",
-    "加班补助",
-    "住房补贴",
-    "餐补"
-  ],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "祁祥",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "互联网金融",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170821/5142f96165360ed76d83ad933464af0c8c7dd922ad47494fc02c388e12c00eac.jpg",
+    "brandName": "中华人寿股份有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "3488e2c5f9186b6a0nF62Ny9FFFT",
+    "encryptBrandId": "96fb3f5723af64c90XJ73d27",
+    "encryptJobId": "dd418c2992c27b0203R839i-GVJY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.967119,
+        "longitude": 116.410768
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100206,
+    "isShield": 0,
+    "itemId": 258,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "桌面运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6R70ikqPf6k.search.258",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "6-7K·13薪",
+    "securityId": "bTOI5012kFjve-Y1Cz9BiG_K80Lwz5Y82tOShx7HlwCRFnY26xF0t9P1CmicikzzQHigLNARMQzKbzMzl92Rbdoq5Jj2tKbD2yz0WsQAC4O-cQ1vslEq8lyWSMFFDjF1YJ-az76DkAn6",
+    "showTopPosition": false,
+    "skills": [
+        "桌面运维",
+        "运维经验",
+        "打印机/复印机维修经验",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "包吃",
+        "加班补助",
+        "住房补贴",
+        "餐补"
+    ]
 }

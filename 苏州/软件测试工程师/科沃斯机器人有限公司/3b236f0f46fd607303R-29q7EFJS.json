@@ -1,73 +1,73 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "吴中区",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240709/607f1f3d68754fd0c044a0ddb1afc8edc9456cff0b82dada2c029525d3c2fcadcb762949460242bd_s.png.webp",
-  "bossCert": 3,
-  "bossName": "王冰冰",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "其他行业",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/a0d73c1fe77715b3c7da55b2a258155fcfcd208495d565ef66e7dff9f98764da.jpg",
-  "brandName": "科沃斯机器人有限公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "已上市",
-  "businessDistrict": "越溪",
-  "city": 101190400,
-  "cityName": "苏州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "0a0060e4bcffa8fd0Xdy2du8GVBR",
-  "encryptBrandId": "f6cc6ecc88b89dc91HF53tq1",
-  "encryptJobId": "3b236f0f46fd607303R-29q7EFJS",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.598334,
-    "latitude": 31.188305
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 101304,
-  "isShield": 0,
-  "itemId": 80,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "软件测试工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "2t9NwVqQ5MH.search.80",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "6-8K",
-  "securityId": "Z45omy0IKq-rf-U11oqR9Ab5Z3c0GK4uwX87KtQJBePSrOqSbSnOSiTr-eHrjXSFwvo0nUSuxvDdsVGi1S0Z8qH3TYnbpgHZI8pQ7a9qOpJ7Gib7pw~~",
-  "showTopPosition": false,
-  "skills": [
-    "计算机相关专业",
-    "扫地机器人",
-    "软件测试"
-  ],
-  "welfareList": [
-    "交通补助",
-    "免费班车",
-    "带薪年假",
-    "五险一金",
-    "节日福利",
-    "定期体检",
-    "年终奖",
-    "餐补"
-  ],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "吴中区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240709/607f1f3d68754fd0c044a0ddb1afc8edc9456cff0b82dada2c029525d3c2fcadcb762949460242bd_s.png.webp",
+    "bossCert": 3,
+    "bossName": "王冰冰",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/a0d73c1fe77715b3c7da55b2a258155fcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "科沃斯机器人有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "越溪",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0a0060e4bcffa8fd0Xdy2du8GVBR",
+    "encryptBrandId": "f6cc6ecc88b89dc91HF53tq1",
+    "encryptJobId": "3b236f0f46fd607303R-29q7EFJS",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.188305,
+        "longitude": 120.598334
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 80,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2t9NwVqQ5MH.search.80",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "6-8K",
+    "securityId": "Z45omy0IKq-rf-U11oqR9Ab5Z3c0GK4uwX87KtQJBePSrOqSbSnOSiTr-eHrjXSFwvo0nUSuxvDdsVGi1S0Z8qH3TYnbpgHZI8pQ7a9qOpJ7Gib7pw~~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业",
+        "扫地机器人",
+        "软件测试"
+    ],
+    "welfareList": [
+        "交通补助",
+        "免费班车",
+        "带薪年假",
+        "五险一金",
+        "节日福利",
+        "定期体检",
+        "年终奖",
+        "餐补"
+    ]
 }

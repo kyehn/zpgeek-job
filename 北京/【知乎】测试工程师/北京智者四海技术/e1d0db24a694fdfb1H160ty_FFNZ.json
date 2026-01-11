@@ -1,65 +1,65 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "海淀区",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231010/607f1f3d68754fd00a6a9fcba90846b72693677f2c223d00882c6b6f70c63f2534828f4540d400c0_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "兰女士",
-  "bossOnline": true,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "社交网络",
-  "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-  "brandName": "北京智者四海技术",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "",
-  "businessDistrict": "学院路",
-  "city": 101010100,
-  "cityName": "北京",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "087aea82e845c9911nV63Nm5E1VX",
-  "encryptBrandId": "57f7fbe4e7e704df1XN73NS7EVc~",
-  "encryptJobId": "e1d0db24a694fdfb1H160ty_FFNZ",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 116.350666,
-    "latitude": 40.008219
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 100013,
-  "isShield": 0,
-  "itemId": 32,
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "大专"
-  ],
-  "jobName": "【知乎】测试工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "5J4x4FST2TB.search.32",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "8-11K",
-  "securityId": "E9XzsPaytYlld-Z1oIaSP8Dj19ptz_HpIS7p8yGzDmtn577xVbg13DuP1j9cDtJAg0P1G4qbokpLJEQHep9YABmzm0K8t8Mti27QuToLVojFuVf879j9iiFjE0wGwHYxKxoI2vgMKphJHKHk1gH4jbhJ-cNzl3s9B_0FKiEOlN2lPhW8iZM~",
-  "showTopPosition": false,
-  "skills": [
-    "自动化测试经验",
-    "测试工作经验",
-    "MySQL",
-    "功能测试经验"
-  ],
-  "welfareList": [],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海淀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231010/607f1f3d68754fd00a6a9fcba90846b72693677f2c223d00882c6b6f70c63f2534828f4540d400c0_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "兰女士",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "社交网络",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "北京智者四海技术",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "",
+    "businessDistrict": "学院路",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "087aea82e845c9911nV63Nm5E1VX",
+    "encryptBrandId": "57f7fbe4e7e704df1XN73NS7EVc~",
+    "encryptJobId": "e1d0db24a694fdfb1H160ty_FFNZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.008219,
+        "longitude": 116.350666
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100013,
+    "isShield": 0,
+    "itemId": 32,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "【知乎】测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5J4x4FST2TB.search.32",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "8-11K",
+    "securityId": "E9XzsPaytYlld-Z1oIaSP8Dj19ptz_HpIS7p8yGzDmtn577xVbg13DuP1j9cDtJAg0P1G4qbokpLJEQHep9YABmzm0K8t8Mti27QuToLVojFuVf879j9iiFjE0wGwHYxKxoI2vgMKphJHKHk1gH4jbhJ-cNzl3s9B_0FKiEOlN2lPhW8iZM~",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试经验",
+        "测试工作经验",
+        "MySQL",
+        "功能测试经验"
+    ],
+    "welfareList": []
 }

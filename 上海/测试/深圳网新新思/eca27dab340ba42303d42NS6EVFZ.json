@@ -1,19 +1,19 @@
 {
-  "areaDistrict": "浦东新区",
-  "bossName": "李先生",
-  "bossTitle": "招聘专员",
-  "brandIndustry": "计算机软件",
-  "brandName": "深圳网新新思",
-  "brandScaleName": "1000-9999人",
-  "businessDistrict": "陆家嘴",
-  "cityName": "上海",
-  "contact": false,
-  "encryptJobId": "eca27dab340ba42303d42NS6EVFZ",
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobName": "测试",
-  "salaryDesc": "8-9K",
-  "skills": [
-    "功能测试"
-  ]
+    "areaDistrict": "浦东新区",
+    "bossName": "李先生",
+    "bossTitle": "招聘专员",
+    "brandIndustry": "计算机软件",
+    "brandName": "深圳网新新思",
+    "brandScaleName": "1000-9999人",
+    "businessDistrict": "陆家嘴",
+    "cityName": "上海",
+    "contact": false,
+    "encryptJobId": "eca27dab340ba42303d42NS6EVFZ",
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobName": "测试",
+    "salaryDesc": "8-9K",
+    "skills": [
+        "功能测试"
+    ]
 }

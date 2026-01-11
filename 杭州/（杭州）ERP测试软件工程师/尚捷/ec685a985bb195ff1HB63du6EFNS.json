@@ -8,7 +8,7 @@
     "bossCert": 3,
     "bossName": "陈瑶",
     "bossOnline": false,
-    "bossTitle": "人事经理，业务经理",
+    "bossTitle": "人事经理,业务经理",
     "brandIndustry": "服装/纺织",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
     "brandName": "尚捷",
@@ -39,7 +39,7 @@
         "1-3年",
         "本科"
     ],
-    "jobName": "（杭州）ERP测试软件工程师",
+    "jobName": "(杭州)ERP测试软件工程师",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",

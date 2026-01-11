@@ -1,65 +1,65 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 20,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240220/607f1f3d68754fd08de6d284bc29eca4ef4205ccf9a8fbfe72f9b3826689caedc7df3508d948c11e_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "刘佳敏",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某知名互联网公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "",
-  "businessDistrict": "",
-  "city": 101190400,
-  "cityName": "苏州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "cfab0ba04be134f803150t-_FFM~",
-  "encryptBrandId": "",
-  "encryptJobId": "9dcef4af3412185e1H183du_ElFV",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.614642,
-    "latitude": 31.22639
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 247,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "机器人软硬件测试",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "6ElH80rUgO7.search.247",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "5-6K",
-  "securityId": "NKX59gAAQtA2y-T1Wb2A1FBWoT3ytXlXT_fxYh6BGKe7h8TeqVEeeCayHy7_te5slk4ceDtJ3J0LQ31Oa9fafn7sAWUsLRG6IWilfCWGCk8NtBKmyAkXa4LHwyVc43WNkU3AAhBTLQ~~",
-  "showTopPosition": false,
-  "skills": [
-    "机器人",
-    "性能测试",
-    "硬件测试",
-    "功能测试"
-  ],
-  "welfareList": []
+    "afterNameIcons": [],
+    "anonymous": 20,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240220/607f1f3d68754fd08de6d284bc29eca4ef4205ccf9a8fbfe72f9b3826689caedc7df3508d948c11e_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "刘佳敏",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某知名互联网公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "cfab0ba04be134f803150t-_FFM~",
+    "encryptBrandId": "",
+    "encryptJobId": "9dcef4af3412185e1H183du_ElFV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.22639,
+        "longitude": 120.614642
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 247,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "机器人软硬件测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6ElH80rUgO7.search.247",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "5-6K",
+    "securityId": "NKX59gAAQtA2y-T1Wb2A1FBWoT3ytXlXT_fxYh6BGKe7h8TeqVEeeCayHy7_te5slk4ceDtJ3J0LQ31Oa9fafn7sAWUsLRG6IWilfCWGCk8NtBKmyAkXa4LHwyVc43WNkU3AAhBTLQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "机器人",
+        "性能测试",
+        "硬件测试",
+        "功能测试"
+    ],
+    "welfareList": []
 }

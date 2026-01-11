@@ -1,62 +1,62 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/cy4fi6cada1655206055291.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240313/607f1f3d68754fd08bde00b678ef17dc75402f36d84fe2d24504f47ddb9f84dd17bfb71ed85851bc_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "李先生",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "人力资源服务",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某大型人力资源服务公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "",
-  "businessDistrict": "",
-  "city": 101280600,
-  "cityName": "深圳",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "f6c6c092ceaf4b771nR43dS_EFpS",
-  "encryptBrandId": "",
-  "encryptJobId": "ccfc82598c2a102403V63ti-GVBX",
-  "expectId": 0,
-  "goldHunter": 1,
-  "gps": {
-    "longitude": 114.059362,
-    "latitude": 22.65073
-  },
-  "iconFlagList": [
-    8
-  ],
-  "iconWord": "",
-  "industry": 100014,
-  "isShield": 0,
-  "itemId": 12,
-  "jobDegree": "本科",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "本科"
-  ],
-  "jobName": "软件测试",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "Iez8kKyNcZ.search.12",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "21-35K·14薪",
-  "securityId": "zaot0qNGHrVEA-I1ePygwyB0_GLiu6FtaWFaspsZYbsLna1-6Qmzp_e_0Sza7rIYi8z2axXkxIHdKtw_OfcjPvie_-dBnmZHdQmFazLiJvHylxIxZQ~~",
-  "showTopPosition": false,
-  "skills": [
-    "功能测试"
-  ],
-  "welfareList": []
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/cy4fi6cada1655206055291.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240313/607f1f3d68754fd08bde00b678ef17dc75402f36d84fe2d24504f47ddb9f84dd17bfb71ed85851bc_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "李先生",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "人力资源服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某大型人力资源服务公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f6c6c092ceaf4b771nR43dS_EFpS",
+    "encryptBrandId": "",
+    "encryptJobId": "ccfc82598c2a102403V63ti-GVBX",
+    "expectId": 0,
+    "goldHunter": 1,
+    "gps": {
+        "latitude": 22.65073,
+        "longitude": 114.059362
+    },
+    "iconFlagList": [
+        8
+    ],
+    "iconWord": "",
+    "industry": 100014,
+    "isShield": 0,
+    "itemId": 12,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "软件测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "Iez8kKyNcZ.search.12",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "21-35K·14薪",
+    "securityId": "zaot0qNGHrVEA-I1ePygwyB0_GLiu6FtaWFaspsZYbsLna1-6Qmzp_e_0Sza7rIYi8z2axXkxIHdKtw_OfcjPvie_-dBnmZHdQmFazLiJvHylxIxZQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试"
+    ],
+    "welfareList": []
 }

@@ -1,24 +1,24 @@
 {
-  "areaDistrict": "金牛区",
-  "bossName": "朱女士",
-  "bossTitle": "成都-HR主管",
-  "brandIndustry": "互联网",
-  "brandName": "创客匠人",
-  "brandScaleName": "500-999人",
-  "businessDistrict": "西南交大",
-  "cityName": "成都",
-  "contact": false,
-  "encryptJobId": "9bcff7c239b0ad8403d62Ni4F1RY",
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobName": "SaaS软件用户运营/主管/经理",
-  "salaryDesc": "7-12K",
-  "skills": [
-    "TO B",
-    "B端用户运营",
-    "会员体系运营",
-    "社群用户运营",
-    "企业运营",
-    "软件销售运营"
-  ]
+    "areaDistrict": "金牛区",
+    "bossName": "朱女士",
+    "bossTitle": "成都-HR主管",
+    "brandIndustry": "互联网",
+    "brandName": "创客匠人",
+    "brandScaleName": "500-999人",
+    "businessDistrict": "西南交大",
+    "cityName": "成都",
+    "contact": false,
+    "encryptJobId": "9bcff7c239b0ad8403d62Ni4F1RY",
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobName": "SaaS软件用户运营/主管/经理",
+    "salaryDesc": "7-12K",
+    "skills": [
+        "TO B",
+        "B端用户运营",
+        "会员体系运营",
+        "社群用户运营",
+        "企业运营",
+        "软件销售运营"
+    ]
 }

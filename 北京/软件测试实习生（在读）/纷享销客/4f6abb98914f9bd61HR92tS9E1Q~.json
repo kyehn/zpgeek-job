@@ -32,24 +32,24 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 5,
+    "itemId": 4,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
         "经验不限",
         "本科"
     ],
-    "jobName": "软件测试实习生（在读）",
+    "jobName": "软件测试实习生(在读)",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4Wom6zipnvs.search.5",
+    "lid": "5hKnGpzC8ze.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "YEm3EyBB6BGA7-a18loxqwsLNhDiYbxnTCjGDmcSLPxlKvDJWKY2IrzkSu1ltggq87rXYyDQBMfmxEl4w8sWEdEfMjOZ713qz4Fg21QeFow~",
+    "securityId": "PUirCuVwXQO0O-X13oYrJhOiclfAQxR8XCGM_VxZVj_jc8X40zLX-7rVa_oJbgxEpsh9JwTwx_Gy2Jz1V0Ukj2RHPS7BczZPUnGlWPeMgio~",
     "showTopPosition": false,
     "skills": [
         "软件测试"

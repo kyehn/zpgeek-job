@@ -1,65 +1,65 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "洪山区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
-  "bossCert": 3,
-  "bossName": "王女士",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "婚庆/摄影",
-  "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-  "brandName": "百度在线网络技术",
-  "brandScaleName": "20-99人",
-  "brandStageName": "",
-  "businessDistrict": "关山",
-  "city": 101200100,
-  "cityName": "武汉",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "8e34403a7fcd7e4c0XV_0926ElZX",
-  "encryptBrandId": "a36bc61149787a8d1X1_0tm0EVo~",
-  "encryptJobId": "5440c42194d6626403Ry3N20FVdS",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 114.404057,
-    "latitude": 30.475014
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 101105,
-  "isShield": 0,
-  "itemId": 201,
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "本科"
-  ],
-  "jobName": "测试工程师(武汉)",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "7IDF17wJWUL.search.201",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "9-10K",
-  "securityId": "fvmC3Uf3Nif2p-r1smRTpa2xq7lVa0DP2nxJDY2xNO53IWPBJk8TmnapfnJeeJFQUiHS_aFDuU5WypfcYDq4WNLKbgi5ITy_FGljaE9AZRqsmluJNpslqBQGgCUpe2WlAVC_OPcLLpEjSo8~",
-  "showTopPosition": false,
-  "skills": [
-    "功能测试",
-    "性能测试",
-    "自动化测试",
-    "测试工作经验"
-  ],
-  "welfareList": []
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "洪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "婚庆/摄影",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "百度在线网络技术",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "关山",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8e34403a7fcd7e4c0XV_0926ElZX",
+    "encryptBrandId": "a36bc61149787a8d1X1_0tm0EVo~",
+    "encryptJobId": "5440c42194d6626403Ry3N20FVdS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.475014,
+        "longitude": 114.404057
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 101105,
+    "isShield": 0,
+    "itemId": 201,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师(武汉)",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7IDF17wJWUL.search.201",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "9-10K",
+    "securityId": "fvmC3Uf3Nif2p-r1smRTpa2xq7lVa0DP2nxJDY2xNO53IWPBJk8TmnapfnJeeJFQUiHS_aFDuU5WypfcYDq4WNLKbgi5ITy_FGljaE9AZRqsmluJNpslqBQGgCUpe2WlAVC_OPcLLpEjSo8~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "自动化测试",
+        "测试工作经验"
+    ],
+    "welfareList": []
 }

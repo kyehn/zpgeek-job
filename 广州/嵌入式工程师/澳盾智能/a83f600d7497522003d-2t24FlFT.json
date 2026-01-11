@@ -52,11 +52,11 @@
     "securityId": "Egl1qq0iNRWsr-M1IMnRNsJ_caN1LMQNJhjEy6Sf1buLqva7aU20h5BhPOGbh08LnUrei4lR6hStEZm4FGO2Vmg44HRl4CoG2T5eA-PVZrZ0K9SeOt1qX_g-ou51lI1jJUyuE0r6VvMF",
     "showTopPosition": false,
     "skills": [
-        "C/C++，STM32，单片机",
+        "C/C++,STM32,单片机",
         "linux操作系统",
         "USART、GPIO",
         "嵌入式开发",
-        "tcp/ip，http"
+        "tcp/ip,http"
     ],
     "welfareList": [
         "节日福利",

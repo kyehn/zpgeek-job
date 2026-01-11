@@ -1,72 +1,72 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "雨花台区",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241012/607f1f3d68754fd09847f2f08501adda0925ec227e3085aa63df588c70f68ca5a5864528dd46fa54_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "殷雅兰",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "智能硬件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211211/7b5b554d84f9729c3068b8c3101a3240131d93b69e608e42d0ce106ae889880c4ef3fe0011833f08.png",
-  "brandName": "润芯微科技",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "未融资",
-  "businessDistrict": "宁南",
-  "city": 101190100,
-  "cityName": "南京",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "a797c8c3efc67d4b0XZ829S9ElVY",
-  "encryptBrandId": "ab7577d1d5fcb5161n1z3Ni0F1A~",
-  "encryptJobId": "682a32f609901d2203R939y6FVZW",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 118.769616,
-    "latitude": 31.961481
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100018,
-  "isShield": 0,
-  "itemId": 122,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "性能测试工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "5LnEAuuQ3MI.search.122",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "5-10K",
-  "securityId": "1Yu4fA6wazzVL-p1Ddkx187N8pmia1f82hSWx1DKfzG73XK_F3_mWKMCI0my_8p-itOrmMKgGBT2-hbPZ-KdcXJs-mXFJIyTaadv86HJTdRB37GP7iVf9Bg7ca2NEIMqNlzvA0LfvBEO6rQ~",
-  "showTopPosition": false,
-  "skills": [
-    "性能测试",
-    "测试工作经验"
-  ],
-  "welfareList": [
-    "全勤奖",
-    "餐补",
-    "员工旅游",
-    "五险一金",
-    "年终奖",
-    "定期体检",
-    "带薪年假",
-    "补充医疗保险"
-  ],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "雨花台区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241012/607f1f3d68754fd09847f2f08501adda0925ec227e3085aa63df588c70f68ca5a5864528dd46fa54_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "殷雅兰",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211211/7b5b554d84f9729c3068b8c3101a3240131d93b69e608e42d0ce106ae889880c4ef3fe0011833f08.png",
+    "brandName": "润芯微科技",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "宁南",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a797c8c3efc67d4b0XZ829S9ElVY",
+    "encryptBrandId": "ab7577d1d5fcb5161n1z3Ni0F1A~",
+    "encryptJobId": "682a32f609901d2203R939y6FVZW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.961481,
+        "longitude": 118.769616
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 122,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "性能测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5LnEAuuQ3MI.search.122",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "5-10K",
+    "securityId": "1Yu4fA6wazzVL-p1Ddkx187N8pmia1f82hSWx1DKfzG73XK_F3_mWKMCI0my_8p-itOrmMKgGBT2-hbPZ-KdcXJs-mXFJIyTaadv86HJTdRB37GP7iVf9Bg7ca2NEIMqNlzvA0LfvBEO6rQ~",
+    "showTopPosition": false,
+    "skills": [
+        "性能测试",
+        "测试工作经验"
+    ],
+    "welfareList": [
+        "全勤奖",
+        "餐补",
+        "员工旅游",
+        "五险一金",
+        "年终奖",
+        "定期体检",
+        "带薪年假",
+        "补充医疗保险"
+    ]
 }

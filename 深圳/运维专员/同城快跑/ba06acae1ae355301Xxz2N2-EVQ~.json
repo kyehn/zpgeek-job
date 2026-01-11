@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171114/feb9a4d4b5edec6934d9689235ad243678c86517698d2f7cc6be286b1da82ae5_s.jpg",
     "bossCert": 3,
-    "bossName": "朱明东",
+    "bossName": "朱先生",
     "bossOnline": false,
     "bossTitle": "经理",
     "brandIndustry": "电子商务",
@@ -22,7 +22,7 @@
     "encryptBossId": "0c9f89a8390af9791HZ_2tq-E1s~",
     "encryptBrandId": "2f28bb75de73946e1HN609S9",
     "encryptJobId": "ba06acae1ae355301Xxz2N2-EVQ~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.53339,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 38,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nxyOyiyWKB.search.38",
+    "lid": "5jWf9lj2trB.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "ZScFlvTMcWjpX-y1KQU6VKFB3fhXBUUzhgT-IzqWd8ZuHKe4XC7wRNdm76NejW8M3UodEcg5y6pWna2J12KVU-CJ4r80n1xP_MjtH0it_mDjDNwb2LSnkQ3suvDEr6mAS6qdCepSnQ~~",
+    "securityId": "3msPRfYv-cht0-_1Vg2K3vHv0K0Ofdxo0oz_-WSL4OIa01zchxTE5wHqoU_Iv5Ok5aQGoHfQk1RmCbIRwQQ7ALmBipw_UZc50TAc5n8EsaZLlI0~",
     "showTopPosition": false,
     "skills": [
         "运维"

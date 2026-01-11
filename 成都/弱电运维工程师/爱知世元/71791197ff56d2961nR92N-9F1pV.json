@@ -1,19 +1,19 @@
 {
-  "areaDistrict": "双流区",
-  "bossName": "韩亚楠",
-  "bossTitle": "行政人事",
-  "brandIndustry": "旅游",
-  "brandName": "爱知世元",
-  "brandScaleName": "20-99人",
-  "businessDistrict": "华阳",
-  "cityName": "成都",
-  "contact": false,
-  "encryptJobId": "71791197ff56d2961nR92N-9F1pV",
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobName": "弱电运维工程师",
-  "salaryDesc": "6-8K",
-  "skills": [
-    "弱电工程师"
-  ]
+    "areaDistrict": "双流区",
+    "bossName": "韩亚楠",
+    "bossTitle": "行政人事",
+    "brandIndustry": "旅游",
+    "brandName": "爱知世元",
+    "brandScaleName": "20-99人",
+    "businessDistrict": "华阳",
+    "cityName": "成都",
+    "contact": false,
+    "encryptJobId": "71791197ff56d2961nR92N-9F1pV",
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobName": "弱电运维工程师",
+    "salaryDesc": "6-8K",
+    "skills": [
+        "弱电工程师"
+    ]
 }

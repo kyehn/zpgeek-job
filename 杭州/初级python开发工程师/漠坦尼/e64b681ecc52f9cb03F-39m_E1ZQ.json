@@ -8,7 +8,7 @@
     "bossCert": 3,
     "bossName": "俞魏霞",
     "bossOnline": false,
-    "bossTitle": "h r",
+    "bossTitle": "h r",
     "brandIndustry": "信息安全",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230306/7bf6f160950405e958e91a258b36947ba615cbb2d78ea35f5ac552248af3a843f3ea73db0024f5d6.jpg",
     "brandName": "漠坦尼",
@@ -55,11 +55,11 @@
         "Python",
         "Docker",
         "MySQL",
-        "Celery（任务调度）",
-        "Async（异步）",
-        "gRPC（微服务）",
-        "Flink（流式数据处理",
-        "TypeHits（类型注解）"
+        "Celery(任务调度)",
+        "Async(异步)",
+        "gRPC(微服务)",
+        "Flink(流式数据处理",
+        "TypeHits(类型注解)"
     ],
     "welfareList": [
         "团建聚餐",

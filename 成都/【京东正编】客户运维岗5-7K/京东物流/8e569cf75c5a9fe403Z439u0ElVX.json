@@ -1,25 +1,25 @@
 {
-  "areaDistrict": "武侯区",
-  "bossName": "杨女士",
-  "bossTitle": "招聘HR",
-  "brandIndustry": "快递",
-  "brandName": "京东物流",
-  "brandScaleName": "10000人以上",
-  "businessDistrict": "双楠",
-  "cityName": "成都",
-  "contact": false,
-  "encryptJobId": "8e569cf75c5a9fe403Z439u0ElVX",
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobName": "【京东正编】客户运维岗/5-7K",
-  "salaryDesc": "5-7K",
-  "skills": [
-    "不含销售的客服工作",
-    "线上客服",
-    "电话客服",
-    "办公室坐班",
-    "企业内部客服",
-    "电商客服",
-    "售后客服"
-  ]
+    "areaDistrict": "武侯区",
+    "bossName": "杨女士",
+    "bossTitle": "招聘HR",
+    "brandIndustry": "快递",
+    "brandName": "京东物流",
+    "brandScaleName": "10000人以上",
+    "businessDistrict": "双楠",
+    "cityName": "成都",
+    "contact": false,
+    "encryptJobId": "8e569cf75c5a9fe403Z439u0ElVX",
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobName": "【京东正编】客户运维岗/5-7K",
+    "salaryDesc": "5-7K",
+    "skills": [
+        "不含销售的客服工作",
+        "线上客服",
+        "电话客服",
+        "办公室坐班",
+        "企业内部客服",
+        "电商客服",
+        "售后客服"
+    ]
 }

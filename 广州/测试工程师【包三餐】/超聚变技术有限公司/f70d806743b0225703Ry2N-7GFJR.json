@@ -1,68 +1,68 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "海珠区",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230706/607f1f3d68754fd04b90b48d33d68e598fce43928b291859672cb8586669749969fd9ba82893cad8_s.png",
-  "bossCert": 3,
-  "bossName": "姚女士",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "通信/网络设备",
-  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220528/7bf6f160950405e9ea0696a3e3ebe0d55e3a2e4a7523c09964252d795e98e9fbc36d56f85a889e8c.jpg",
-  "brandName": "超聚变技术有限公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "未融资",
-  "businessDistrict": "琶洲",
-  "city": 101280100,
-  "cityName": "广州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "98fce23352655f090XN92d-_EVI~",
-  "encryptBrandId": "e2fe28e0d540d3241n1z29y0E1s~",
-  "encryptJobId": "f70d806743b0225703Ry2N-7GFJR",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 113.349167,
-    "latitude": 23.104344
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 100024,
-  "isShield": 0,
-  "itemId": 131,
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "本科"
-  ],
-  "jobName": "测试工程师【包三餐】",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "25LjawnMpEP.search.131",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "9-11K",
-  "securityId": "kq4lKJVwqg3an-21aPEoOlEaAu-GKC0I1zAM2U-f9FlMWm4Ix9Qw5AQ-TvrhWbdUxnzUpJomwR6fnKWOZxrjMur0YxMWn601VdvsI9zqERWyrvGxGeQ~",
-  "showTopPosition": false,
-  "skills": [
-    "测试工作经验"
-  ],
-  "welfareList": [
-    "年终奖",
-    "带薪年假",
-    "节日福利",
-    "五险一金",
-    "定期体检"
-  ],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海珠区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230706/607f1f3d68754fd04b90b48d33d68e598fce43928b291859672cb8586669749969fd9ba82893cad8_s.png",
+    "bossCert": 3,
+    "bossName": "姚女士",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220528/7bf6f160950405e9ea0696a3e3ebe0d55e3a2e4a7523c09964252d795e98e9fbc36d56f85a889e8c.jpg",
+    "brandName": "超聚变技术有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "琶洲",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "98fce23352655f090XN92d-_EVI~",
+    "encryptBrandId": "e2fe28e0d540d3241n1z29y0E1s~",
+    "encryptJobId": "f70d806743b0225703Ry2N-7GFJR",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.104344,
+        "longitude": 113.349167
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 131,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师【包三餐】",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "25LjawnMpEP.search.131",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "9-11K",
+    "securityId": "kq4lKJVwqg3an-21aPEoOlEaAu-GKC0I1zAM2U-f9FlMWm4Ix9Qw5AQ-TvrhWbdUxnzUpJomwR6fnKWOZxrjMur0YxMWn601VdvsI9zqERWyrvGxGeQ~",
+    "showTopPosition": false,
+    "skills": [
+        "测试工作经验"
+    ],
+    "welfareList": [
+        "年终奖",
+        "带薪年假",
+        "节日福利",
+        "五险一金",
+        "定期体检"
+    ]
 }

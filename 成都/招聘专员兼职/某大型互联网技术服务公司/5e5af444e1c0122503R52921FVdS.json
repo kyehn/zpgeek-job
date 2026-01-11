@@ -1,64 +1,64 @@
 {
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210131/9ce9309c4d88adf5688fe220971b6909edb529022183c44dff1ddfb6b042acb7_s.jpg",
-  "bossCert": 3,
-  "bossName": "邓叔海",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某大型互联网技术服务公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "B轮",
-  "businessDistrict": "",
-  "city": 101270100,
-  "cityName": "成都",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "f2e6983b23264aa90nV-09W8FVdV",
-  "encryptBrandId": "",
-  "encryptJobId": "5e5af444e1c0122503R52921FVdS",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 104.15421,
-    "latitude": 30.601812
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 61,
-  "jobDegree": "本科",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "本科"
-  ],
-  "jobName": "招聘专员/兼职",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "8Cseh3QUe8j.search.61",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "1-2K",
-  "securityId": "8z2O-lomXnP8_-O1KTzYiODUGbmGG0RmuWczZxNPIehUmOYhx3FvZwqtjMDU6YbBNCssjYSY5-G9pIoIGtfUgbqV8ruhtf0tdlqlPeJuDDfzW3fBPReVH0XngFqEr49fWaomLlwRFU0f4QY~",
-  "showTopPosition": false,
-  "skills": [
-    "人事",
-    "招聘",
-    "行政前台"
-  ],
-  "welfareList": [
-    "节日福利",
-    "零食下午茶",
-    "五险一金"
-  ]
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210131/9ce9309c4d88adf5688fe220971b6909edb529022183c44dff1ddfb6b042acb7_s.jpg",
+    "bossCert": 3,
+    "bossName": "邓叔海",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某大型互联网技术服务公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "B轮",
+    "businessDistrict": "",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f2e6983b23264aa90nV-09W8FVdV",
+    "encryptBrandId": "",
+    "encryptJobId": "5e5af444e1c0122503R52921FVdS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.601812,
+        "longitude": 104.15421
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 61,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "招聘专员/兼职",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8Cseh3QUe8j.search.61",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "1-2K",
+    "securityId": "8z2O-lomXnP8_-O1KTzYiODUGbmGG0RmuWczZxNPIehUmOYhx3FvZwqtjMDU6YbBNCssjYSY5-G9pIoIGtfUgbqV8ruhtf0tdlqlPeJuDDfzW3fBPReVH0XngFqEr49fWaomLlwRFU0f4QY~",
+    "showTopPosition": false,
+    "skills": [
+        "人事",
+        "招聘",
+        "行政前台"
+    ],
+    "welfareList": [
+        "节日福利",
+        "零食下午茶",
+        "五险一金"
+    ]
 }

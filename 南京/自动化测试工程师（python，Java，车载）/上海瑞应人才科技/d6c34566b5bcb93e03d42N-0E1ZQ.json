@@ -39,7 +39,7 @@
         "1-3年",
         "大专"
     ],
-    "jobName": "自动化测试工程师（python，Java，车载）",
+    "jobName": "自动化测试工程师(python,Java,车载)",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
@@ -54,10 +54,10 @@
     "skills": [
         "自动化测试",
         "Python",
-        "Pcan，CANoe",
+        "Pcan,CANoe",
         "CAN/ETH协议测试",
         "冒烟自动化",
-        "MTBF，专项场景",
+        "MTBF,专项场景",
         "车控"
     ],
     "welfareList": [

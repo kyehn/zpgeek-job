@@ -1,22 +1,22 @@
 {
-  "areaDistrict": "龙岗区",
-  "bossName": "何仁刚",
-  "bossTitle": "总经理",
-  "brandIndustry": "广告营销",
-  "brandName": "鬼石国际",
-  "brandScaleName": "100-499人",
-  "businessDistrict": "横岗",
-  "cityName": "深圳",
-  "contact": false,
-  "encryptJobId": "3caf6f66650289b11HV92d66FFtY",
-  "jobDegree": "大专",
-  "jobExperience": "1年以内",
-  "jobName": "画册设计助理",
-  "salaryDesc": "4-6K",
-  "skills": [
-    "包装设计",
-    "平面设计",
-    "广告设计",
-    "不接受居家办公"
-  ]
+    "areaDistrict": "龙岗区",
+    "bossName": "何仁刚",
+    "bossTitle": "总经理",
+    "brandIndustry": "广告营销",
+    "brandName": "鬼石国际",
+    "brandScaleName": "100-499人",
+    "businessDistrict": "横岗",
+    "cityName": "深圳",
+    "contact": false,
+    "encryptJobId": "3caf6f66650289b11HV92d66FFtY",
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobName": "画册设计助理",
+    "salaryDesc": "4-6K",
+    "skills": [
+        "包装设计",
+        "平面设计",
+        "广告设计",
+        "不接受居家办公"
+    ]
 }

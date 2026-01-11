@@ -1,64 +1,64 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "",
-  "atsDirectPost": true,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210511/378dab5fb28757d9f44c959aa1bed395fb8bf8b26d080c8ab1323b5724a0ff82_s.png",
-  "bossCert": 3,
-  "bossName": "杜云彩",
-  "bossOnline": false,
-  "bossTitle": "校招顾问",
-  "brandIndustry": "计算机软件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-  "brandName": "英诺达",
-  "brandScaleName": "20-99人",
-  "brandStageName": "",
-  "businessDistrict": "",
-  "city": 101270100,
-  "cityName": "成都",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "674c4a8a506058e00nd72du8FFdZ",
-  "encryptBrandId": "b3049819db9f83551nFy2926EVY~",
-  "encryptJobId": "6d63df43283ca1fc1HN93ti-E1ZU",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 104.086183,
-    "latitude": 30.508433
-  },
-  "iconFlagList": [
-    2,
-    38
-  ],
-  "iconWord": "",
-  "industry": 100021,
-  "isShield": 0,
-  "itemId": 245,
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "本科"
-  ],
-  "jobName": "EDA软件测试工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "252AI7Q9JiC.search.245",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "8-13K·13薪",
-  "securityId": "g9LN1dlbkweGL-t1Z3MUulfNRG6KNjQ5FH9iTpt4HKkm-hy7-0W5Dsm_3zRQffdK27p32hCmnvxzGt-2huinog5fc_hwm8nu5EaQmhW6qFP1B6JzZA1C",
-  "showTopPosition": false,
-  "skills": [
-    "EDA软件测试工程师"
-  ],
-  "welfareList": [],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png",
-    "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": true,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png",
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210511/378dab5fb28757d9f44c959aa1bed395fb8bf8b26d080c8ab1323b5724a0ff82_s.png",
+    "bossCert": 3,
+    "bossName": "杜云彩",
+    "bossOnline": false,
+    "bossTitle": "校招顾问",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "英诺达",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "674c4a8a506058e00nd72du8FFdZ",
+    "encryptBrandId": "b3049819db9f83551nFy2926EVY~",
+    "encryptJobId": "6d63df43283ca1fc1HN93ti-E1ZU",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.508433,
+        "longitude": 104.086183
+    },
+    "iconFlagList": [
+        2,
+        38
+    ],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 245,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "EDA软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "252AI7Q9JiC.search.245",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "8-13K·13薪",
+    "securityId": "g9LN1dlbkweGL-t1Z3MUulfNRG6KNjQ5FH9iTpt4HKkm-hy7-0W5Dsm_3zRQffdK27p32hCmnvxzGt-2huinog5fc_hwm8nu5EaQmhW6qFP1B6JzZA1C",
+    "showTopPosition": false,
+    "skills": [
+        "EDA软件测试工程师"
+    ],
+    "welfareList": []
 }

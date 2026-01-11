@@ -1,20 +1,20 @@
 {
-  "areaDistrict": "",
-  "bossName": "彭先生",
-  "bossTitle": "招聘者",
-  "brandIndustry": "新能源",
-  "brandName": "亿享特来电",
-  "brandScaleName": "20-99人",
-  "businessDistrict": "",
-  "cityName": "深圳",
-  "contact": false,
-  "encryptJobId": "cb4251886e47a4b31XZ_3Nm6GFVW",
-  "jobDegree": "大专",
-  "jobExperience": "在校/应届",
-  "jobName": "运维工程师",
-  "salaryDesc": "5-6K",
-  "skills": [
-    "机电",
-    "电气"
-  ]
+    "areaDistrict": "",
+    "bossName": "彭先生",
+    "bossTitle": "招聘者",
+    "brandIndustry": "新能源",
+    "brandName": "亿享特来电",
+    "brandScaleName": "20-99人",
+    "businessDistrict": "",
+    "cityName": "深圳",
+    "contact": false,
+    "encryptJobId": "cb4251886e47a4b31XZ_3Nm6GFVW",
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobName": "运维工程师",
+    "salaryDesc": "5-6K",
+    "skills": [
+        "机电",
+        "电气"
+    ]
 }

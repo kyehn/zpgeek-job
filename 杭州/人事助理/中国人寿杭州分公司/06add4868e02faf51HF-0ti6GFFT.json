@@ -1,63 +1,63 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "西湖区",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240319/607f1f3d68754fd0822a6a1cd4439224304efca018f0a105e2179a9ac8300ec19d15067f84bd8fe5_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "王女士",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "互联网金融",
-  "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-  "brandName": "中国人寿杭州分公司",
-  "brandScaleName": "10000人以上",
-  "brandStageName": "",
-  "businessDistrict": "西溪",
-  "city": 101210100,
-  "cityName": "杭州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "bf4918aba3c42bc50n172ti_EVpX",
-  "encryptBrandId": "36cb66459ea7805b0nN92Ni4FA~~",
-  "encryptJobId": "06add4868e02faf51HF-0ti6GFFT",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.135359,
-    "latitude": 30.277471
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100206,
-  "isShield": 0,
-  "itemId": 180,
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "大专"
-  ],
-  "jobName": "人事助理",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "54vkWrVezwD.search.180",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "4-7K",
-  "securityId": "mLnrvyxxXw9Fq-31-opD7HhyLVSg4J1F8gBpPI8sgwk2mVyQTU_SbidtfnxkSzbvv2cLrewqBLCUhKg_0LVaNtWpNh9AUu3G2wXw3YtUIAeXx6R9_QOW2SzuhoTa3bf5GrL_11md3_t3nA~~",
-  "showTopPosition": false,
-  "skills": [
-    "团队搭建经验",
-    "智力残疾"
-  ],
-  "welfareList": [],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "西湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240319/607f1f3d68754fd0822a6a1cd4439224304efca018f0a105e2179a9ac8300ec19d15067f84bd8fe5_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "互联网金融",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "中国人寿杭州分公司",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "",
+    "businessDistrict": "西溪",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "bf4918aba3c42bc50n172ti_EVpX",
+    "encryptBrandId": "36cb66459ea7805b0nN92Ni4FA~~",
+    "encryptJobId": "06add4868e02faf51HF-0ti6GFFT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.277471,
+        "longitude": 120.135359
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100206,
+    "isShield": 0,
+    "itemId": 180,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "人事助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "54vkWrVezwD.search.180",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "4-7K",
+    "securityId": "mLnrvyxxXw9Fq-31-opD7HhyLVSg4J1F8gBpPI8sgwk2mVyQTU_SbidtfnxkSzbvv2cLrewqBLCUhKg_0LVaNtWpNh9AUu3G2wXw3YtUIAeXx6R9_QOW2SzuhoTa3bf5GrL_11md3_t3nA~~",
+    "showTopPosition": false,
+    "skills": [
+        "团队搭建经验",
+        "智力残疾"
+    ],
+    "welfareList": []
 }

@@ -1,74 +1,74 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "静安区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
-  "bossCert": 3,
-  "bossName": "刘司陶",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://c-res.zhipin.com/jrs/3_c862f0ddedce9a4bdc00f1ea55e30484.jpg",
-  "brandName": "科大讯飞股份有限公司",
-  "brandScaleName": "10000人以上",
-  "brandStageName": "已上市",
-  "businessDistrict": "静安寺",
-  "city": 101020100,
-  "cityName": "上海",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "d75baeaebdd87b510nF83N29FFJR",
-  "encryptBrandId": "407f0b5b8513a4681Xx42925Ew~~",
-  "encryptJobId": "7196e3465a0d248403Rz296_GVVZ",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 121.442273,
-    "latitude": 31.230292
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 7,
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "本科"
-  ],
-  "jobName": "技术运维",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "7FdLswA2tHi.search.7",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "8-9K",
-  "securityId": "pPsO17N99Kjzu-Q1m2DZWyqqFIxLJHzqqU94BIswmreYzqNNbIiTQk4rOmJOIjRfESDJ-6wYNcTq2iwduubj2RaeqRMIzlGtFP_jWkdEUlQ7sQ1TYWFLenLF7BY-nwdr2CzfU5BH3sgYtg~~",
-  "showTopPosition": false,
-  "skills": [
-    "桌面运维",
-    "MySQL/Oracle",
-    "运维经验",
-    "运维开发经验",
-    "Centos",
-    "Redhat"
-  ],
-  "welfareList": [
-    "交通补助",
-    "免费班车",
-    "餐补",
-    "带薪年假",
-    "年终奖",
-    "五险一金"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "静安区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "bossName": "刘司陶",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://c-res.zhipin.com/jrs/3_c862f0ddedce9a4bdc00f1ea55e30484.jpg",
+    "brandName": "科大讯飞股份有限公司",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "静安寺",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d75baeaebdd87b510nF83N29FFJR",
+    "encryptBrandId": "407f0b5b8513a4681Xx42925Ew~~",
+    "encryptJobId": "7196e3465a0d248403Rz296_GVVZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.230292,
+        "longitude": 121.442273
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 7,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "技术运维",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7FdLswA2tHi.search.7",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "8-9K",
+    "securityId": "pPsO17N99Kjzu-Q1m2DZWyqqFIxLJHzqqU94BIswmreYzqNNbIiTQk4rOmJOIjRfESDJ-6wYNcTq2iwduubj2RaeqRMIzlGtFP_jWkdEUlQ7sQ1TYWFLenLF7BY-nwdr2CzfU5BH3sgYtg~~",
+    "showTopPosition": false,
+    "skills": [
+        "桌面运维",
+        "MySQL/Oracle",
+        "运维经验",
+        "运维开发经验",
+        "Centos",
+        "Redhat"
+    ],
+    "welfareList": [
+        "交通补助",
+        "免费班车",
+        "餐补",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+    ]
 }

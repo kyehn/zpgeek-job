@@ -52,10 +52,10 @@
     "securityId": "VQApAGmpyMc4x-k1xKRTTS-e5iDyy3W0qK9m0sj8gW6MaaVmBT-jFy1e5Wp431jSDWyqU8oYYX0vvXyHMwF63tPgBl7NV_0mKHDIp0X5_YjIhVXOAt4iUeVXAijnqs37Nici8MRa4aJfgQ~~",
     "showTopPosition": false,
     "skills": [
-        "来料检验（IQC）",
-        "制程检验（IPQC）",
-        "出货检验（OQC）",
-        "成品检验（FQC）"
+        "来料检验(IQC)",
+        "制程检验(IPQC)",
+        "出货检验(OQC)",
+        "成品检验(FQC)"
     ],
     "welfareList": []
 }
