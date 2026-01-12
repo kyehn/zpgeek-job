@@ -1,20 +1,20 @@
 {
-  "areaDistrict": "龙华区",
-  "bossName": "陆女士",
-  "bossTitle": "易企赢人事经理",
-  "brandIndustry": "财务/审计/税务",
-  "brandName": "易企赢财税",
-  "brandScaleName": "20-99人",
-  "businessDistrict": "龙华",
-  "cityName": "深圳",
-  "contact": false,
-  "encryptJobId": "856594099c864e911Hx52tq9FFdQ",
-  "jobDegree": "大专",
-  "jobExperience": "1年以内",
-  "jobName": "会计助理/双休+五险",
-  "salaryDesc": "4-5K",
-  "skills": [
-    "不可兼职",
-    "代理记账公司"
-  ]
+    "areaDistrict": "龙华区",
+    "bossName": "陆女士",
+    "bossTitle": "易企赢人事经理",
+    "brandIndustry": "财务/审计/税务",
+    "brandName": "易企赢财税",
+    "brandScaleName": "20-99人",
+    "businessDistrict": "龙华",
+    "cityName": "深圳",
+    "contact": false,
+    "encryptJobId": "856594099c864e911Hx52tq9FFdQ",
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobName": "会计助理/双休+五险",
+    "salaryDesc": "4-5K",
+    "skills": [
+        "不可兼职",
+        "代理记账公司"
+    ]
 }

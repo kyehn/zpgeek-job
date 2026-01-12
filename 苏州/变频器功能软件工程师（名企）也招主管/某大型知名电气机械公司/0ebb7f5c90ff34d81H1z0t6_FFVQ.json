@@ -1,63 +1,63 @@
 {
-  "anonymous": 20,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240605/607f1f3d68754fd010bdfaeddf0c171363495a10f6f4ab28b2a14844f593e975dd60817f0289e5f4_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "陶文军",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "电气机械/器材",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某大型知名电气机械公司",
-  "brandScaleName": "10000人以上",
-  "brandStageName": "未融资",
-  "businessDistrict": "",
-  "city": 101190400,
-  "cityName": "苏州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "77e8ba4fd4e386390XB539S7FVFQ",
-  "encryptBrandId": "",
-  "encryptJobId": "0ebb7f5c90ff34d81H1z0t6_FFVQ",
-  "expectId": 0,
-  "goldHunter": 1,
-  "gps": {
-    "longitude": 120.723343,
-    "latitude": 31.324036
-  },
-  "iconFlagList": [
-    8
-  ],
-  "iconWord": "",
-  "industry": 100908,
-  "isShield": 0,
-  "itemId": 6,
-  "jobDegree": "本科",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "本科"
-  ],
-  "jobName": "变频器功能软件工程师（名企）也招主管",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "2O9mZ5XNVav.search.6",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "40-70K",
-  "securityId": "z4-XBGresxSxl-C1kaplPyNVYbgEO-RC4iWYoRkICtvdeW1CpmWPNM0hlEy18oL2fc3U2rkxp1KaqbdJWdBTmQy95vtYtRgXy_HQ2Byf2nrxSCVToQ~~",
-  "showTopPosition": false,
-  "skills": [
-    "变频器",
-    "伺服"
-  ],
-  "welfareList": [
-    "带薪年假",
-    "年终奖",
-    "五险一金"
-  ]
+    "anonymous": 20,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240605/607f1f3d68754fd010bdfaeddf0c171363495a10f6f4ab28b2a14844f593e975dd60817f0289e5f4_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "陶文军",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "电气机械/器材",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某大型知名电气机械公司",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "77e8ba4fd4e386390XB539S7FVFQ",
+    "encryptBrandId": "",
+    "encryptJobId": "0ebb7f5c90ff34d81H1z0t6_FFVQ",
+    "expectId": 0,
+    "goldHunter": 1,
+    "gps": {
+        "latitude": 31.324036,
+        "longitude": 120.723343
+    },
+    "iconFlagList": [
+        8
+    ],
+    "iconWord": "",
+    "industry": 100908,
+    "isShield": 0,
+    "itemId": 6,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "变频器功能软件工程师（名企）也招主管",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2O9mZ5XNVav.search.6",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "40-70K",
+    "securityId": "z4-XBGresxSxl-C1kaplPyNVYbgEO-RC4iWYoRkICtvdeW1CpmWPNM0hlEy18oL2fc3U2rkxp1KaqbdJWdBTmQy95vtYtRgXy_HQ2Byf2nrxSCVToQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "变频器",
+        "伺服"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+    ]
 }

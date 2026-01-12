@@ -1,73 +1,73 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "吴中区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230511/607f1f3d68754fd0b9c1245d52ec87fe247306d7ba689ee7acccd4cae9c6e777d848fc8f45669df3_s.png",
-  "bossCert": 3,
-  "bossName": "唐先生",
-  "bossOnline": true,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "其他行业",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/a0d73c1fe77715b3c7da55b2a258155fcfcd208495d565ef66e7dff9f98764da.jpg",
-  "brandName": "科沃斯机器人有限公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "已上市",
-  "businessDistrict": "越溪",
-  "city": 101190400,
-  "cityName": "苏州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "974d9b21a5e264d91nV809m5F1pR",
-  "encryptBrandId": "f6cc6ecc88b89dc91HF53tq1",
-  "encryptJobId": "4d53715d5990e1e203Vz3tm6F1dR",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.598892,
-    "latitude": 31.187625
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 101304,
-  "isShield": 0,
-  "itemId": 177,
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "大专"
-  ],
-  "jobName": "合规测试助理工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "aGTwSs0jqJ2.search.177",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "4-5K",
-  "securityId": "xSlvmIG7UU6T--K1KZ-5EAMiCj_GwLisEJ4xJTRhXLY7ew_CZuAP9U3YQM3NZcoG44mS9Xr1YdBdZQB7s8FjX4Vt0vRt3UnQf9yTmX2yFHUk2x_TM3XX_SDjxHz76qyFNWtXR4Bdq26voDyN8NwJaw~~",
-  "showTopPosition": false,
-  "skills": [
-    "测试工作经验",
-    "计算机相关专业",
-    "通信相关专业"
-  ],
-  "welfareList": [
-    "年终奖",
-    "定期体检",
-    "五险一金",
-    "带薪年假",
-    "免费班车",
-    "餐补",
-    "节日福利",
-    "交通补助"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "吴中区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230511/607f1f3d68754fd0b9c1245d52ec87fe247306d7ba689ee7acccd4cae9c6e777d848fc8f45669df3_s.png",
+    "bossCert": 3,
+    "bossName": "唐先生",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/a0d73c1fe77715b3c7da55b2a258155fcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "科沃斯机器人有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "越溪",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "974d9b21a5e264d91nV809m5F1pR",
+    "encryptBrandId": "f6cc6ecc88b89dc91HF53tq1",
+    "encryptJobId": "4d53715d5990e1e203Vz3tm6F1dR",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.187625,
+        "longitude": 120.598892
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 177,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "合规测试助理工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "aGTwSs0jqJ2.search.177",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "4-5K",
+    "securityId": "xSlvmIG7UU6T--K1KZ-5EAMiCj_GwLisEJ4xJTRhXLY7ew_CZuAP9U3YQM3NZcoG44mS9Xr1YdBdZQB7s8FjX4Vt0vRt3UnQf9yTmX2yFHUk2x_TM3XX_SDjxHz76qyFNWtXR4Bdq26voDyN8NwJaw~~",
+    "showTopPosition": false,
+    "skills": [
+        "测试工作经验",
+        "计算机相关专业",
+        "通信相关专业"
+    ],
+    "welfareList": [
+        "年终奖",
+        "定期体检",
+        "五险一金",
+        "带薪年假",
+        "免费班车",
+        "餐补",
+        "节日福利",
+        "交通补助"
+    ]
 }

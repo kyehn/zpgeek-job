@@ -1,64 +1,64 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "通州区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221019/607f1f3d68754fd00115e0e9c9bf8d45bb9e9febb2221c26673bb5ffee946a6c1e17c4950085e26b_s.png",
-  "bossCert": 3,
-  "bossName": "左先生",
-  "bossOnline": true,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "房地产开发经营",
-  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220721/7bf6f160950405e9c49f6b4281d3a61d76fe194d8ee2d09c082a6044c205bc63f465d3927b945ab6.jpg",
-  "brandName": "联东集团",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "未融资",
-  "businessDistrict": "次渠",
-  "city": 101010100,
-  "cityName": "北京",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "8760bb1d8261ba620nJ93d-9GFI~",
-  "encryptBrandId": "1b5967890b6967a11nV53Nu0E1E~",
-  "encryptJobId": "c80220bb139862f403Rz3tm_ElNQ",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 116.555908,
-    "latitude": 39.810763
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 100701,
-  "isShield": 0,
-  "itemId": 57,
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "本科"
-  ],
-  "jobName": "数据标注(会一些功能测试)",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "6AidaFBkDKS.search.57",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "8-10K",
-  "securityId": "1Srap0EvCeJhV-G1ZkvuR-UhZrErwbeCvA9rPoZvNQHlYpQ9pQBh7jw38JxJYZs2Kr21Sr2Ye2-hexs4LzmJnIA7ry0M3v7vEaeB-gC1av1H0YtGlNU_Yc24RyFIg5PnIZ7Bv6CHp_Q7WNoQdwbDcmOh9sLJgfS5F01bZZ4fmFla9_v-wg~~",
-  "showTopPosition": false,
-  "skills": [
-    "数据标注",
-    "文本标注",
-    "语音标注"
-  ],
-  "welfareList": []
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "通州区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221019/607f1f3d68754fd00115e0e9c9bf8d45bb9e9febb2221c26673bb5ffee946a6c1e17c4950085e26b_s.png",
+    "bossCert": 3,
+    "bossName": "左先生",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "房地产开发经营",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220721/7bf6f160950405e9c49f6b4281d3a61d76fe194d8ee2d09c082a6044c205bc63f465d3927b945ab6.jpg",
+    "brandName": "联东集团",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "次渠",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8760bb1d8261ba620nJ93d-9GFI~",
+    "encryptBrandId": "1b5967890b6967a11nV53Nu0E1E~",
+    "encryptJobId": "c80220bb139862f403Rz3tm_ElNQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.810763,
+        "longitude": 116.555908
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100701,
+    "isShield": 0,
+    "itemId": 57,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "数据标注(会一些功能测试)",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6AidaFBkDKS.search.57",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "8-10K",
+    "securityId": "1Srap0EvCeJhV-G1ZkvuR-UhZrErwbeCvA9rPoZvNQHlYpQ9pQBh7jw38JxJYZs2Kr21Sr2Ye2-hexs4LzmJnIA7ry0M3v7vEaeB-gC1av1H0YtGlNU_Yc24RyFIg5PnIZ7Bv6CHp_Q7WNoQdwbDcmOh9sLJgfS5F01bZZ4fmFla9_v-wg~~",
+    "showTopPosition": false,
+    "skills": [
+        "数据标注",
+        "文本标注",
+        "语音标注"
+    ],
+    "welfareList": []
 }

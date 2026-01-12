@@ -1,63 +1,63 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241020/607f1f3d68754fd093710c83ccba11f755b011dbd9ecf5dea8dee252630f10d858652c7ae0ec949c_s.png.webp",
-  "bossCert": 3,
-  "bossName": "程女士",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "医疗器械",
-  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230110/7bf6f160950405e9f45813d398bc4d37f18e3834a87f7a5370eb09c3ffb7f870d6fb774685552d56.jpg",
-  "brandName": "明理医疗",
-  "brandScaleName": "100-499人",
-  "brandStageName": "B轮",
-  "businessDistrict": "",
-  "city": 101200100,
-  "cityName": "武汉",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "f1ac4a9c2dc08e5a0XNz3Nq9GFNR",
-  "encryptBrandId": "e56c24e3bfa2dca30HJ939S_GA~~",
-  "encryptJobId": "91efbb9613ca4e6d03R-3NS7F1ZT",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 114.483711,
-    "latitude": 30.492999
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 100403,
-  "isShield": 0,
-  "itemId": 228,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "明理医疗招聘质检员",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "8tM7YS9cRUy.search.228",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "8-13K",
-  "securityId": "jOvVfaFMGSU5R--1xgaJg5uQr9o5tDQjR-xo29rTKoL3vrd29m2iasyDV-Mx9yduveOFjTpGn3F9vHblrrzHaKyqZl87Cxx_Jti27j9rElHDgT4e7oirKk658l5ekZJMPbjJ7_wC849PMw~~",
-  "showTopPosition": false,
-  "skills": [
-    "医疗器械"
-  ],
-  "welfareList": [
-    "五险一金",
-    "年终奖",
-    "绩效奖金",
-    "员工旅游"
-  ]
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241020/607f1f3d68754fd093710c83ccba11f755b011dbd9ecf5dea8dee252630f10d858652c7ae0ec949c_s.png.webp",
+    "bossCert": 3,
+    "bossName": "程女士",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "医疗器械",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230110/7bf6f160950405e9f45813d398bc4d37f18e3834a87f7a5370eb09c3ffb7f870d6fb774685552d56.jpg",
+    "brandName": "明理医疗",
+    "brandScaleName": "100-499人",
+    "brandStageName": "B轮",
+    "businessDistrict": "",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f1ac4a9c2dc08e5a0XNz3Nq9GFNR",
+    "encryptBrandId": "e56c24e3bfa2dca30HJ939S_GA~~",
+    "encryptJobId": "91efbb9613ca4e6d03R-3NS7F1ZT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.492999,
+        "longitude": 114.483711
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100403,
+    "isShield": 0,
+    "itemId": 228,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "明理医疗招聘质检员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "8tM7YS9cRUy.search.228",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "8-13K",
+    "securityId": "jOvVfaFMGSU5R--1xgaJg5uQr9o5tDQjR-xo29rTKoL3vrd29m2iasyDV-Mx9yduveOFjTpGn3F9vHblrrzHaKyqZl87Cxx_Jti27j9rElHDgT4e7oirKk658l5ekZJMPbjJ7_wC849PMw~~",
+    "showTopPosition": false,
+    "skills": [
+        "医疗器械"
+    ],
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "绩效奖金",
+        "员工旅游"
+    ]
 }

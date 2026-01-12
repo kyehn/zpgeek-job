@@ -1,22 +1,22 @@
 {
-  "areaDistrict": "",
-  "bossName": "郑林军",
-  "bossTitle": "招聘者",
-  "brandIndustry": "智能硬件",
-  "brandName": "贝艾尔",
-  "brandScaleName": "20-99人",
-  "businessDistrict": "",
-  "cityName": "苏州",
-  "contact": false,
-  "encryptJobId": "469e363323499d1303d629u-GFpU",
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobName": "运维工程师",
-  "salaryDesc": "6-8K",
-  "skills": [
-    "系统运维",
-    "运维开发经验",
-    "电子/电气/自动化相关专业",
-    "运维经验"
-  ]
+    "areaDistrict": "",
+    "bossName": "郑林军",
+    "bossTitle": "招聘者",
+    "brandIndustry": "智能硬件",
+    "brandName": "贝艾尔",
+    "brandScaleName": "20-99人",
+    "businessDistrict": "",
+    "cityName": "苏州",
+    "contact": false,
+    "encryptJobId": "469e363323499d1303d629u-GFpU",
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobName": "运维工程师",
+    "salaryDesc": "6-8K",
+    "skills": [
+        "系统运维",
+        "运维开发经验",
+        "电子/电气/自动化相关专业",
+        "运维经验"
+    ]
 }

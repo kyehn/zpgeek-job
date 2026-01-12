@@ -1,65 +1,65 @@
 {
-  "anonymous": 20,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221031/607f1f3d68754fd0a8514bb3c025610dc6ad431f9f66068cff52c45044824f426b46bd807fa7eab2_s.jpg",
-  "bossCert": 3,
-  "bossName": "狄女士",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某知名互联网公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "",
-  "businessDistrict": "",
-  "city": 101190400,
-  "cityName": "苏州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "20da2865ffd1b2741Hd53N-7FFY~",
-  "encryptBrandId": "",
-  "encryptJobId": "59ef6983cd4e3a6403R63NW5F1NZ",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.598334,
-    "latitude": 31.188305
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 222,
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "大专"
-  ],
-  "jobName": "软件测试助理",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "3PAJzMqPKed.search.222",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "5-6K",
-  "securityId": "7inofmxLTM6lV-B1__osy8WcmQYJx_dDE6-FEv8jNMYHL50BsXSggpAkWbbBXFLKaw18cc0jgnTH-wH-t6HWiyoE0UQchWcbsYqpn-f5SctZQ6gHID_Kzjj2WN1o0duciyI_XTSTUg~~",
-  "showTopPosition": false,
-  "skills": [
-    "功能测试",
-    "性能测试",
-    "机器人",
-    "测试助理"
-  ],
-  "welfareList": [],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 20,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221031/607f1f3d68754fd0a8514bb3c025610dc6ad431f9f66068cff52c45044824f426b46bd807fa7eab2_s.jpg",
+    "bossCert": 3,
+    "bossName": "狄女士",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某知名互联网公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "20da2865ffd1b2741Hd53N-7FFY~",
+    "encryptBrandId": "",
+    "encryptJobId": "59ef6983cd4e3a6403R63NW5F1NZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.188305,
+        "longitude": 120.598334
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 222,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件测试助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3PAJzMqPKed.search.222",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "5-6K",
+    "securityId": "7inofmxLTM6lV-B1__osy8WcmQYJx_dDE6-FEv8jNMYHL50BsXSggpAkWbbBXFLKaw18cc0jgnTH-wH-t6HWiyoE0UQchWcbsYqpn-f5SctZQ6gHID_Kzjj2WN1o0duciyI_XTSTUg~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "机器人",
+        "测试助理"
+    ],
+    "welfareList": []
 }

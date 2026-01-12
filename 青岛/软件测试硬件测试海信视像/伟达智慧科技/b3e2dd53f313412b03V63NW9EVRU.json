@@ -1,74 +1,74 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "崂山区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
-  "bossCert": 3,
-  "bossName": "隋先生",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201014/3e284e554a72e722da848fecbbb0c05ca5b209b0915f918ee201986b319ce6ec_s.jpg",
-  "brandName": "伟达智慧科技",
-  "brandScaleName": "100-499人",
-  "brandStageName": "天使轮",
-  "businessDistrict": "崂山风景区",
-  "city": 101120200,
-  "cityName": "青岛",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "92af2447a53442710XR_39-0EVVU",
-  "encryptBrandId": "380f0cb1ba0a08a11nZ52di0GVU~",
-  "encryptJobId": "b3e2dd53f313412b03V63NW9EVRU",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.523311,
-    "latitude": 36.198593
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 79,
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "大专"
-  ],
-  "jobName": "软件测试/硬件测试/海信视像",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "2yDXIx4YwER.search.79",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "8-12K",
-  "securityId": "ALByI5UhVBygY-41RD9ZHb2ge5bcgf9Te33zj-U1K7NkYm0AJEjlDUMdMU-T5WZsYWgzGI3dIpDNARC38aeUnjcNr1aDBKTuxTqhBRB-zbenPerM5BWO",
-  "showTopPosition": false,
-  "skills": [
-    "通信设备类",
-    "智能硬件类",
-    "手机/电脑硬件类",
-    "软件测试经验",
-    "硬件测试经验"
-  ],
-  "welfareList": [
-    "五险一金",
-    "定期体检",
-    "年终奖",
-    "节日福利",
-    "员工旅游",
-    "带薪年假",
-    "免费班车"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "崂山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "bossName": "隋先生",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201014/3e284e554a72e722da848fecbbb0c05ca5b209b0915f918ee201986b319ce6ec_s.jpg",
+    "brandName": "伟达智慧科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "天使轮",
+    "businessDistrict": "崂山风景区",
+    "city": 101120200,
+    "cityName": "青岛",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "92af2447a53442710XR_39-0EVVU",
+    "encryptBrandId": "380f0cb1ba0a08a11nZ52di0GVU~",
+    "encryptJobId": "b3e2dd53f313412b03V63NW9EVRU",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 36.198593,
+        "longitude": 120.523311
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 79,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "软件测试/硬件测试/海信视像",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2yDXIx4YwER.search.79",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "8-12K",
+    "securityId": "ALByI5UhVBygY-41RD9ZHb2ge5bcgf9Te33zj-U1K7NkYm0AJEjlDUMdMU-T5WZsYWgzGI3dIpDNARC38aeUnjcNr1aDBKTuxTqhBRB-zbenPerM5BWO",
+    "showTopPosition": false,
+    "skills": [
+        "通信设备类",
+        "智能硬件类",
+        "手机/电脑硬件类",
+        "软件测试经验",
+        "硬件测试经验"
+    ],
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "免费班车"
+    ]
 }

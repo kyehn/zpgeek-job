@@ -1,71 +1,71 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "吴中区",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240709/607f1f3d68754fd0c044a0ddb1afc8edc9456cff0b82dada2c029525d3c2fcadcb762949460242bd_s.png.webp",
-  "bossCert": 3,
-  "bossName": "王冰冰",
-  "bossOnline": true,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "其他行业",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/a0d73c1fe77715b3c7da55b2a258155fcfcd208495d565ef66e7dff9f98764da.jpg",
-  "brandName": "科沃斯机器人有限公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "已上市",
-  "businessDistrict": "郭巷",
-  "city": 101190400,
-  "cityName": "苏州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "0a0060e4bcffa8fd0Xdy2du8GVBR",
-  "encryptBrandId": "f6cc6ecc88b89dc91HF53tq1",
-  "encryptJobId": "fd9d6b39f146000303R40tm8F1NS",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.72498,
-    "latitude": 31.214123
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 101304,
-  "isShield": 0,
-  "itemId": 183,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "SQC（供应商质量）工程师助理",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "6eO3QONhnm7.search.183",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "4-6K",
-  "securityId": "jqATLt1sy8mJt-X1FBKGNvAUoJd3R7o2eVGncSaNkymAra7XGf1A0xm20DhZFzYzaVvbqEBK7ei2d6bYT74I6typwt2naQgwjw88nv-4kSbubBFg1y3MOy4VFzO_rqOtZv3W44eiPTY5jBDnqEGF5CjlxiVb7cl2pYx3FLmfbb0dDpbw",
-  "showTopPosition": false,
-  "skills": [
-    "产品供应商"
-  ],
-  "welfareList": [
-    "五险一金",
-    "餐补",
-    "年终奖",
-    "带薪年假",
-    "免费班车",
-    "节日福利",
-    "交通补助",
-    "定期体检"
-  ],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "吴中区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240709/607f1f3d68754fd0c044a0ddb1afc8edc9456cff0b82dada2c029525d3c2fcadcb762949460242bd_s.png.webp",
+    "bossCert": 3,
+    "bossName": "王冰冰",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/a0d73c1fe77715b3c7da55b2a258155fcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "科沃斯机器人有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "郭巷",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0a0060e4bcffa8fd0Xdy2du8GVBR",
+    "encryptBrandId": "f6cc6ecc88b89dc91HF53tq1",
+    "encryptJobId": "fd9d6b39f146000303R40tm8F1NS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.214123,
+        "longitude": 120.72498
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 183,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "SQC（供应商质量）工程师助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6eO3QONhnm7.search.183",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "4-6K",
+    "securityId": "jqATLt1sy8mJt-X1FBKGNvAUoJd3R7o2eVGncSaNkymAra7XGf1A0xm20DhZFzYzaVvbqEBK7ei2d6bYT74I6typwt2naQgwjw88nv-4kSbubBFg1y3MOy4VFzO_rqOtZv3W44eiPTY5jBDnqEGF5CjlxiVb7cl2pYx3FLmfbb0dDpbw",
+    "showTopPosition": false,
+    "skills": [
+        "产品供应商"
+    ],
+    "welfareList": [
+        "五险一金",
+        "餐补",
+        "年终奖",
+        "带薪年假",
+        "免费班车",
+        "节日福利",
+        "交通补助",
+        "定期体检"
+    ]
 }

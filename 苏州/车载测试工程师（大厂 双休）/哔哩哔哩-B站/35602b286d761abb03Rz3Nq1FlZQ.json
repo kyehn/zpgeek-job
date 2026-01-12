@@ -1,71 +1,71 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211130/607f1f3d68754fd0fbaeda88f40e5409b4243d0bff0b5317fd976c79f7593d1d38e09f51fbe2b0a6_s.jpg",
-  "bossCert": 3,
-  "bossName": "梁女士",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/41319.jpg",
-  "brandName": "哔哩哔哩-B站",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "已上市",
-  "businessDistrict": "",
-  "city": 101190400,
-  "cityName": "苏州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "ca25f1be515e7ab90nd529-9EFZV",
-  "encryptBrandId": "7cf08ef4b0f688c103V52tQ~",
-  "encryptJobId": "35602b286d761abb03Rz3Nq1FlZQ",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.777492,
-    "latitude": 31.293049
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 115,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "车载测试工程师（大厂 双休）",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "3n7BEbeBCtf.search.115",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "7-9K",
-  "securityId": "1WoU7GvKbBQJ2-H16q6jXHqFfbwUaX50dx90xG9yH1k_AsitxWGPHawLY0UvKxXZh6DWNo25sj-Ylg4WppBCTY55p5FcIUbFtwP4Uq8-DQ1WxiUl",
-  "showTopPosition": false,
-  "skills": [
-    "功能测试",
-    "Jira"
-  ],
-  "welfareList": [
-    "定期体检",
-    "五险一金",
-    "补充医疗保险",
-    "全勤奖",
-    "年终奖",
-    "带薪年假",
-    "节日福利"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211130/607f1f3d68754fd0fbaeda88f40e5409b4243d0bff0b5317fd976c79f7593d1d38e09f51fbe2b0a6_s.jpg",
+    "bossCert": 3,
+    "bossName": "梁女士",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/41319.jpg",
+    "brandName": "哔哩哔哩-B站",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ca25f1be515e7ab90nd529-9EFZV",
+    "encryptBrandId": "7cf08ef4b0f688c103V52tQ~",
+    "encryptJobId": "35602b286d761abb03Rz3Nq1FlZQ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.293049,
+        "longitude": 120.777492
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 115,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "车载测试工程师（大厂 双休）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3n7BEbeBCtf.search.115",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "7-9K",
+    "securityId": "1WoU7GvKbBQJ2-H16q6jXHqFfbwUaX50dx90xG9yH1k_AsitxWGPHawLY0UvKxXZh6DWNo25sj-Ylg4WppBCTY55p5FcIUbFtwP4Uq8-DQ1WxiUl",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "Jira"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金",
+        "补充医疗保险",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+    ]
 }

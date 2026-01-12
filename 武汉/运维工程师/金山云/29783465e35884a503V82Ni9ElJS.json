@@ -1,21 +1,21 @@
 {
-  "areaDistrict": "洪山区",
-  "bossName": "郑女士",
-  "bossTitle": "招聘顾问",
-  "brandIndustry": "互联网",
-  "brandName": "金山云",
-  "brandScaleName": "1000-9999人",
-  "businessDistrict": "流芳",
-  "cityName": "武汉",
-  "contact": false,
-  "encryptJobId": "29783465e35884a503V82Ni9ElJS",
-  "jobDegree": "本科",
-  "jobExperience": "1年以内",
-  "jobName": "运维工程师",
-  "salaryDesc": "7-8K·15薪",
-  "skills": [
-    "网络路由",
-    "CDN运维",
-    "边缘云计算"
-  ]
+    "areaDistrict": "洪山区",
+    "bossName": "郑女士",
+    "bossTitle": "招聘顾问",
+    "brandIndustry": "互联网",
+    "brandName": "金山云",
+    "brandScaleName": "1000-9999人",
+    "businessDistrict": "流芳",
+    "cityName": "武汉",
+    "contact": false,
+    "encryptJobId": "29783465e35884a503V82Ni9ElJS",
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobName": "运维工程师",
+    "salaryDesc": "7-8K·15薪",
+    "skills": [
+        "网络路由",
+        "CDN运维",
+        "边缘云计算"
+    ]
 }

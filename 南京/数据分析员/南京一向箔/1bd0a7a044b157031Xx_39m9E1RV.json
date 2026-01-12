@@ -1,23 +1,23 @@
 {
-  "areaDistrict": "雨花台区",
-  "bossName": "印女士",
-  "bossTitle": "人事助理",
-  "brandIndustry": "互联网",
-  "brandName": "南京一向箔",
-  "brandScaleName": "20-99人",
-  "businessDistrict": "铁心桥",
-  "cityName": "南京",
-  "contact": false,
-  "encryptJobId": "1bd0a7a044b157031Xx_39m9E1RV",
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobName": "数据分析员",
-  "salaryDesc": "3-5K",
-  "skills": [
-    "数学/统计相关专业",
-    "数据分析/挖掘经验",
-    "电商/零售行业数据相关经验",
-    "双休",
-    "六险一金"
-  ]
+    "areaDistrict": "雨花台区",
+    "bossName": "印女士",
+    "bossTitle": "人事助理",
+    "brandIndustry": "互联网",
+    "brandName": "南京一向箔",
+    "brandScaleName": "20-99人",
+    "businessDistrict": "铁心桥",
+    "cityName": "南京",
+    "contact": false,
+    "encryptJobId": "1bd0a7a044b157031Xx_39m9E1RV",
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobName": "数据分析员",
+    "salaryDesc": "3-5K",
+    "skills": [
+        "数学/统计相关专业",
+        "数据分析/挖掘经验",
+        "电商/零售行业数据相关经验",
+        "双休",
+        "六险一金"
+    ]
 }

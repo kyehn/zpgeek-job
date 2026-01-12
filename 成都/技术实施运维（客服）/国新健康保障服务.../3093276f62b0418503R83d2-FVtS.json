@@ -1,64 +1,64 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "青羊区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230724/607f1f3d68754fd04fd2d54d1b690f16d740cca443d1d4efd64fdb1ad006ce608f5e3e7568d463f3_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "王女士",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "政府/公共事业",
-  "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-  "brandName": "国新健康保障服务...",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "",
-  "businessDistrict": "天府广场",
-  "city": 101270100,
-  "cityName": "成都",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "0dd06653391211401nV43tu9EVtW",
-  "encryptBrandId": "08558759a0f30a7f1XR_2NS7EVQ~",
-  "encryptJobId": "3093276f62b0418503R83d2-FVtS",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 104.08071,
-    "latitude": 30.667235
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 101301,
-  "isShield": 0,
-  "itemId": 38,
-  "jobDegree": "大专",
-  "jobExperience": "1年以内",
-  "jobLabels": [
-    "1年以内",
-    "大专"
-  ],
-  "jobName": "技术实施运维（客服）",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "3QmAN8BvX3V.search.38",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "4-5K",
-  "securityId": "wfsqJUuHUlixg-p1sE4272yKqpX9JwArCVL0ix9Y1p1usxTeW_Sb9q_ZiN4kPgc5Mb8AB1jmFtn1InCCHy94Rdx8xzMeLDcuwdb3sSZuFTyUar8MGRSDGG4L0HvgxiCuSYdrCasKWhe_YgU~",
-  "showTopPosition": false,
-  "skills": [
-    "网络运维",
-    "计算机相关专业",
-    "运维经验"
-  ],
-  "welfareList": []
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "青羊区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230724/607f1f3d68754fd04fd2d54d1b690f16d740cca443d1d4efd64fdb1ad006ce608f5e3e7568d463f3_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "政府/公共事业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "国新健康保障服务...",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "",
+    "businessDistrict": "天府广场",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0dd06653391211401nV43tu9EVtW",
+    "encryptBrandId": "08558759a0f30a7f1XR_2NS7EVQ~",
+    "encryptJobId": "3093276f62b0418503R83d2-FVtS",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.667235,
+        "longitude": 104.08071
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 101301,
+    "isShield": 0,
+    "itemId": 38,
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobName": "技术实施运维（客服）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3QmAN8BvX3V.search.38",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "4-5K",
+    "securityId": "wfsqJUuHUlixg-p1sE4272yKqpX9JwArCVL0ix9Y1p1usxTeW_Sb9q_ZiN4kPgc5Mb8AB1jmFtn1InCCHy94Rdx8xzMeLDcuwdb3sSZuFTyUar8MGRSDGG4L0HvgxiCuSYdrCasKWhe_YgU~",
+    "showTopPosition": false,
+    "skills": [
+        "网络运维",
+        "计算机相关专业",
+        "运维经验"
+    ],
+    "welfareList": []
 }

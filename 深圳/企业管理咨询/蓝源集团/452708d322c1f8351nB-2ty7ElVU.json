@@ -1,19 +1,19 @@
 {
-  "areaDistrict": "龙华区",
-  "bossName": "郭燕华",
-  "bossTitle": "招聘者",
-  "brandIndustry": "咨询",
-  "brandName": "蓝源集团",
-  "brandScaleName": "20-99人",
-  "businessDistrict": "民治",
-  "cityName": "深圳",
-  "contact": false,
-  "encryptJobId": "452708d322c1f8351nB-2ty7ElVU",
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobName": "企业管理咨询",
-  "salaryDesc": "4-9K",
-  "skills": [
-    "企业咨询服务"
-  ]
+    "areaDistrict": "龙华区",
+    "bossName": "郭燕华",
+    "bossTitle": "招聘者",
+    "brandIndustry": "咨询",
+    "brandName": "蓝源集团",
+    "brandScaleName": "20-99人",
+    "businessDistrict": "民治",
+    "cityName": "深圳",
+    "contact": false,
+    "encryptJobId": "452708d322c1f8351nB-2ty7ElVU",
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobName": "企业管理咨询",
+    "salaryDesc": "4-9K",
+    "skills": [
+        "企业咨询服务"
+    ]
 }

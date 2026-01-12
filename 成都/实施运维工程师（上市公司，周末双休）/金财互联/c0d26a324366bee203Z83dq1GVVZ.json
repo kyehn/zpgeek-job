@@ -1,20 +1,20 @@
 {
-  "areaDistrict": "成华区",
-  "bossName": "陈女士",
-  "bossTitle": "招聘经理",
-  "brandIndustry": "大数据",
-  "brandName": "金财互联",
-  "brandScaleName": "1000-9999人",
-  "businessDistrict": "建设路",
-  "cityName": "成都",
-  "contact": false,
-  "encryptJobId": "c0d26a324366bee203Z83dq1GVVZ",
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobName": "实施运维工程师（上市公司，周末双休）",
-  "salaryDesc": "6-9K",
-  "skills": [
-    "实施交付运维",
-    "运维经验"
-  ]
+    "areaDistrict": "成华区",
+    "bossName": "陈女士",
+    "bossTitle": "招聘经理",
+    "brandIndustry": "大数据",
+    "brandName": "金财互联",
+    "brandScaleName": "1000-9999人",
+    "businessDistrict": "建设路",
+    "cityName": "成都",
+    "contact": false,
+    "encryptJobId": "c0d26a324366bee203Z83dq1GVVZ",
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobName": "实施运维工程师（上市公司，周末双休）",
+    "salaryDesc": "6-9K",
+    "skills": [
+        "实施交付运维",
+        "运维经验"
+    ]
 }

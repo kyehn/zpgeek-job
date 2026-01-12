@@ -1,63 +1,63 @@
 {
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241209/607f1f3d68754fd0a85adf91486789e4bab7bbd727e7c7d4cefa5195ae9693b401a2321ef4e4a91a_s.png.webp",
-  "bossCert": 3,
-  "bossName": "林艺哲",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "社交网络与媒体",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某大型社交网络与媒体公司",
-  "brandScaleName": "10000人以上",
-  "brandStageName": "",
-  "businessDistrict": "",
-  "city": 101280100,
-  "cityName": "广州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "87a406dc572e96740XN-29S7FlFU",
-  "encryptBrandId": "",
-  "encryptJobId": "1557cf89b7c1782a1H1z39u_GFNU",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 113.33389,
-    "latitude": 22.993999
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100003,
-  "isShield": 0,
-  "itemId": 152,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "8-12k（可谈）/测试工程师/上市企业/双休",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "47oSDmS7UlP.search.152",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "8-12K",
-  "securityId": "sxU3DF-1bSrkU-k13gWZKgjCoQm7ET7YkWXrVVheJ68eiOqS0TCmMvorTheh2pRHAj29wffYFsHnjMx0zAKhTcsUVZcD5OkS18AtdVA2EloKRC_xENzLFdwWI3gv8LiFs10qj99kGxg4aw~~",
-  "showTopPosition": false,
-  "skills": [
-    "测试工作经验",
-    "app/web/pc"
-  ],
-  "welfareList": [],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241209/607f1f3d68754fd0a85adf91486789e4bab7bbd727e7c7d4cefa5195ae9693b401a2321ef4e4a91a_s.png.webp",
+    "bossCert": 3,
+    "bossName": "林艺哲",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "社交网络与媒体",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某大型社交网络与媒体公司",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "87a406dc572e96740XN-29S7FlFU",
+    "encryptBrandId": "",
+    "encryptJobId": "1557cf89b7c1782a1H1z39u_GFNU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.993999,
+        "longitude": 113.33389
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100003,
+    "isShield": 0,
+    "itemId": 152,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "8-12k（可谈）/测试工程师/上市企业/双休",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "47oSDmS7UlP.search.152",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "8-12K",
+    "securityId": "sxU3DF-1bSrkU-k13gWZKgjCoQm7ET7YkWXrVVheJ68eiOqS0TCmMvorTheh2pRHAj29wffYFsHnjMx0zAKhTcsUVZcD5OkS18AtdVA2EloKRC_xENzLFdwWI3gv8LiFs10qj99kGxg4aw~~",
+    "showTopPosition": false,
+    "skills": [
+        "测试工作经验",
+        "app/web/pc"
+    ],
+    "welfareList": []
 }

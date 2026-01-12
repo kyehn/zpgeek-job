@@ -1,74 +1,74 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "雨花台区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241012/607f1f3d68754fd09847f2f08501adda0925ec227e3085aa63df588c70f68ca5a5864528dd46fa54_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "殷雅兰",
-  "bossOnline": true,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "智能硬件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211211/7b5b554d84f9729c3068b8c3101a3240131d93b69e608e42d0ce106ae889880c4ef3fe0011833f08.png",
-  "brandName": "润芯微科技",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "未融资",
-  "businessDistrict": "宁南",
-  "city": 101190100,
-  "cityName": "南京",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "a797c8c3efc67d4b0XZ829S9ElVY",
-  "encryptBrandId": "ab7577d1d5fcb5161n1z3Ni0F1A~",
-  "encryptJobId": "448e9ce463883bc903Ry2N-6EFZT",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 118.769616,
-    "latitude": 31.961481
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100018,
-  "isShield": 0,
-  "itemId": 163,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "手表蓝牙测试工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "7w96Ri0tize.search.163",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "5-9K",
-  "securityId": "DcbG6ijp16VdI-71VGV2sVYQ2qrv7AWVOupg3-iN5VQ1pZt38p2u-ZjfqdBHoTN-ZTyNtmuf-kTdGc5HzrwS0Nq_6HKmtI7suF7PLvuLUwqfMnMcjOQseEfEakeojc4xMhw_D0Sablq8OSoEiKwsVLETAvcWL4rrby9Optc7a1DPN2ZbfYs~",
-  "showTopPosition": false,
-  "skills": [
-    "Jira",
-    "计算机相关专业",
-    "通信相关专业",
-    "测试工作经验"
-  ],
-  "welfareList": [
-    "带薪年假",
-    "补充医疗保险",
-    "员工旅游",
-    "全勤奖",
-    "年终奖",
-    "五险一金",
-    "定期体检",
-    "餐补"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "雨花台区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241012/607f1f3d68754fd09847f2f08501adda0925ec227e3085aa63df588c70f68ca5a5864528dd46fa54_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "殷雅兰",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211211/7b5b554d84f9729c3068b8c3101a3240131d93b69e608e42d0ce106ae889880c4ef3fe0011833f08.png",
+    "brandName": "润芯微科技",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "宁南",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a797c8c3efc67d4b0XZ829S9ElVY",
+    "encryptBrandId": "ab7577d1d5fcb5161n1z3Ni0F1A~",
+    "encryptJobId": "448e9ce463883bc903Ry2N-6EFZT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.961481,
+        "longitude": 118.769616
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 163,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "手表蓝牙测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7w96Ri0tize.search.163",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "5-9K",
+    "securityId": "DcbG6ijp16VdI-71VGV2sVYQ2qrv7AWVOupg3-iN5VQ1pZt38p2u-ZjfqdBHoTN-ZTyNtmuf-kTdGc5HzrwS0Nq_6HKmtI7suF7PLvuLUwqfMnMcjOQseEfEakeojc4xMhw_D0Sablq8OSoEiKwsVLETAvcWL4rrby9Optc7a1DPN2ZbfYs~",
+    "showTopPosition": false,
+    "skills": [
+        "Jira",
+        "计算机相关专业",
+        "通信相关专业",
+        "测试工作经验"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "补充医疗保险",
+        "员工旅游",
+        "全勤奖",
+        "年终奖",
+        "五险一金",
+        "定期体检",
+        "餐补"
+    ]
 }

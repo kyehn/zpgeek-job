@@ -1,74 +1,74 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
-  "bossCert": 3,
-  "bossName": "王先生",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "广州某中型互联网OTO平台已融资公司",
-  "brandScaleName": "500-999人",
-  "brandStageName": "C轮",
-  "businessDistrict": "",
-  "city": 101250100,
-  "cityName": "长沙",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "cdc33209ff13e7270XV_3Ni-FlZZ",
-  "encryptBrandId": "",
-  "encryptJobId": "3334619d5013f8c403Rz09y6EVNU",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 113.096132,
-    "latitude": 28.240499
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 2,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "自动化测试",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "5KLHB2TWXBd.search.2",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "9-13K",
-  "securityId": "Uge1rq9jeeTDM-s1b25zQHxQZsf6ET_ETqDunWTQCM-CISf-f7zurNfTW9w7Jm5F-TAYiEV3ANzCxvC49tvCY5KnfnimwvEW37ODKyML67vDUu9YCap7YqwDgmLWOEoRb0s3aTIiZXZIHw~~",
-  "showTopPosition": false,
-  "skills": [
-    "Python",
-    "测试工作经验",
-    "自动化测试经验"
-  ],
-  "welfareList": [
-    "年终奖",
-    "零食下午茶",
-    "定期体检",
-    "团建聚餐",
-    "节日福利",
-    "带薪年假",
-    "五险一金",
-    "交通补助",
-    "股票期权"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "王先生",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "广州某中型互联网OTO平台已融资公司",
+    "brandScaleName": "500-999人",
+    "brandStageName": "C轮",
+    "businessDistrict": "",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "cdc33209ff13e7270XV_3Ni-FlZZ",
+    "encryptBrandId": "",
+    "encryptJobId": "3334619d5013f8c403Rz09y6EVNU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.240499,
+        "longitude": 113.096132
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 2,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "自动化测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5KLHB2TWXBd.search.2",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "9-13K",
+    "securityId": "Uge1rq9jeeTDM-s1b25zQHxQZsf6ET_ETqDunWTQCM-CISf-f7zurNfTW9w7Jm5F-TAYiEV3ANzCxvC49tvCY5KnfnimwvEW37ODKyML67vDUu9YCap7YqwDgmLWOEoRb0s3aTIiZXZIHw~~",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "测试工作经验",
+        "自动化测试经验"
+    ],
+    "welfareList": [
+        "年终奖",
+        "零食下午茶",
+        "定期体检",
+        "团建聚餐",
+        "节日福利",
+        "带薪年假",
+        "五险一金",
+        "交通补助",
+        "股票期权"
+    ]
 }

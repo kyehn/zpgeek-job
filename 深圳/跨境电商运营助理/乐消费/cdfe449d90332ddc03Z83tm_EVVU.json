@@ -1,21 +1,21 @@
 {
-  "areaDistrict": "福田区",
-  "bossName": "刘坤霞",
-  "bossTitle": "人事行政经理/招聘者",
-  "brandIndustry": "电子商务",
-  "brandName": "乐消费",
-  "brandScaleName": "20-99人",
-  "businessDistrict": "车公庙",
-  "cityName": "深圳",
-  "contact": false,
-  "encryptJobId": "cdfe449d90332ddc03Z83tm_EVVU",
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobName": "跨境电商运营助理",
-  "salaryDesc": "4-5K",
-  "skills": [
-    "电商店铺运营",
-    "不接受居家办公",
-    "接受无跨境电商运营经验"
-  ]
+    "areaDistrict": "福田区",
+    "bossName": "刘坤霞",
+    "bossTitle": "人事行政经理/招聘者",
+    "brandIndustry": "电子商务",
+    "brandName": "乐消费",
+    "brandScaleName": "20-99人",
+    "businessDistrict": "车公庙",
+    "cityName": "深圳",
+    "contact": false,
+    "encryptJobId": "cdfe449d90332ddc03Z83tm_EVVU",
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobName": "跨境电商运营助理",
+    "salaryDesc": "4-5K",
+    "skills": [
+        "电商店铺运营",
+        "不接受居家办公",
+        "接受无跨境电商运营经验"
+    ]
 }

@@ -1,64 +1,64 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200622/308858aaf8ab79d8e24aac29c31464669bf0116180fff2d26627b8a94e2b2b86_s.jpg",
-  "bossCert": 3,
-  "bossName": "段女士",
-  "bossOnline": true,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "机械设备/机电/重工",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "武汉某大型机械设备公司",
-  "brandScaleName": "10000人以上",
-  "brandStageName": "",
-  "businessDistrict": "",
-  "city": 101200100,
-  "cityName": "武汉",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "e0c513bc5a0a3dea33R43dm6E1o~",
-  "encryptBrandId": "",
-  "encryptJobId": "4107d94dbf893f3e03V729-5GVVT",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 114.449723,
-    "latitude": 30.454673
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100901,
-  "isShield": 0,
-  "itemId": 202,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "硬件测试",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "35hLjfOVrXa.search.202",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "7-10K",
-  "securityId": "-VXrSJ0MX6J5s-C1G6wCjAhDVjqNLdljumEbg-LuI5MmtpKUcFzyYQ9vjUhI55JD_hM8QQnhVNMBtg6SGPXHxpsHVE8J0UKk1hNwdrVnJVAlcLZK2dY6OooVXyI7INOGg4mErSVnznCO8imGRrhdWFM~",
-  "showTopPosition": false,
-  "skills": [
-    "硬件测试经验",
-    "计算机相关经验",
-    "手机/电脑硬件类"
-  ],
-  "welfareList": []
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200622/308858aaf8ab79d8e24aac29c31464669bf0116180fff2d26627b8a94e2b2b86_s.jpg",
+    "bossCert": 3,
+    "bossName": "段女士",
+    "bossOnline": true,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "机械设备/机电/重工",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "武汉某大型机械设备公司",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e0c513bc5a0a3dea33R43dm6E1o~",
+    "encryptBrandId": "",
+    "encryptJobId": "4107d94dbf893f3e03V729-5GVVT",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.454673,
+        "longitude": 114.449723
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100901,
+    "isShield": 0,
+    "itemId": 202,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "硬件测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "35hLjfOVrXa.search.202",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "7-10K",
+    "securityId": "-VXrSJ0MX6J5s-C1G6wCjAhDVjqNLdljumEbg-LuI5MmtpKUcFzyYQ9vjUhI55JD_hM8QQnhVNMBtg6SGPXHxpsHVE8J0UKk1hNwdrVnJVAlcLZK2dY6OooVXyI7INOGg4mErSVnznCO8imGRrhdWFM~",
+    "showTopPosition": false,
+    "skills": [
+        "硬件测试经验",
+        "计算机相关经验",
+        "手机/电脑硬件类"
+    ],
+    "welfareList": []
 }

@@ -1,63 +1,63 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "番禺区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
-  "bossCert": 3,
-  "bossName": "赵先生",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160507/aaee940f6e6543eef481898192a4176d57865f6f294caeea8474bfb335148b51.jpg",
-  "brandName": "YY inc.",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "已上市",
-  "businessDistrict": "长隆",
-  "city": 101280100,
-  "cityName": "广州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "8bbe6b6cfae1cd620nB92tm7EltT",
-  "encryptBrandId": "105953999a35749a33Z509Q~",
-  "encryptJobId": "88d2783ed4dd6e101HV50t60FFdX",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 113.347754,
-    "latitude": 23.003676
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 180,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "项目管理助理",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "1JZtB1WCIdF.search.180",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "4-5K",
-  "securityId": "HZIVO5JKP17K5-41TV0K8qUTiu8WfVqCUhHg038sv9Pp_QP7grfP2XuW-XY_3LHmUO6Z3wmGhJ882YNh_Vxd5-Yx4kK8jfvgvsn_3EniiCkfxv1j",
-  "showTopPosition": false,
-  "skills": [
-    "数据报表输出",
-    "数据整理"
-  ],
-  "welfareList": []
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "番禺区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "bossName": "赵先生",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160507/aaee940f6e6543eef481898192a4176d57865f6f294caeea8474bfb335148b51.jpg",
+    "brandName": "YY inc.",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "长隆",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8bbe6b6cfae1cd620nB92tm7EltT",
+    "encryptBrandId": "105953999a35749a33Z509Q~",
+    "encryptJobId": "88d2783ed4dd6e101HV50t60FFdX",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.003676,
+        "longitude": 113.347754
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 180,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "项目管理助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1JZtB1WCIdF.search.180",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "4-5K",
+    "securityId": "HZIVO5JKP17K5-41TV0K8qUTiu8WfVqCUhHg038sv9Pp_QP7grfP2XuW-XY_3LHmUO6Z3wmGhJ882YNh_Vxd5-Yx4kK8jfvgvsn_3EniiCkfxv1j",
+    "showTopPosition": false,
+    "skills": [
+        "数据报表输出",
+        "数据整理"
+    ],
+    "welfareList": []
 }

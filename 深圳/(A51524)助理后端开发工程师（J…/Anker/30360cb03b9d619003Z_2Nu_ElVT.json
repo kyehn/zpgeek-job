@@ -1,73 +1,73 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250310/607f1f3d68754fd061fca9400fd7eeffe352ecf4a18cd8153c7e586ed6034694962df1e9550e762b_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "周先生",
-  "bossOnline": true,
-  "bossTitle": "HR",
-  "brandIndustry": "电子商务",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/eccf87304cf817c6d52b80861b29f56bcfcd208495d565ef66e7dff9f98764da.png",
-  "brandName": "Anker",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "已上市",
-  "businessDistrict": "",
-  "city": 101280600,
-  "cityName": "深圳",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "549f131d3f710bef1Hx52Ni7FVU~",
-  "encryptBrandId": "57325b9cf168bd441XB72d61",
-  "encryptJobId": "30360cb03b9d619003Z_2Nu_ElVT",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 113.953341,
-    "latitude": 22.569204
-  },
-  "iconFlagList": [
-    38
-  ],
-  "iconWord": "",
-  "industry": 100001,
-  "isShield": 0,
-  "itemId": 290,
-  "jobDegree": "本科",
-  "jobExperience": "在校/应届",
-  "jobLabels": [
-    "在校/应届",
-    "本科"
-  ],
-  "jobName": "(A51524)助理后端开发工程师（J…",
-  "jobType": 5,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "3iZJudjTkkp.search.290",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 0,
-  "proxyType": 0,
-  "salaryDesc": "面议",
-  "securityId": "lzvHezbcU17wa-C1N3IzDTML7LtJ7CmQRTlcQ91alWKfrXW-FlriAmKbVqXkLMekmVBTtRqKkgzUQCEiuM7mTbSqrojLWIUL77DnFcLquNJ83TfFShBA7ghjKiNFQV6rWLDLuiaoN2BQ_A8W7ukWOh9uZPLu099DtOjKmyQWmGk1xM4~",
-  "showTopPosition": false,
-  "skills": [
-    "校招"
-  ],
-  "welfareList": [
-    "定期体检",
-    "补充医疗保险",
-    "包吃",
-    "年终奖",
-    "带薪年假",
-    "员工旅游",
-    "五险一金",
-    "节日福利",
-    "零食下午茶",
-    "企业滴滴打车"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250310/607f1f3d68754fd061fca9400fd7eeffe352ecf4a18cd8153c7e586ed6034694962df1e9550e762b_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "周先生",
+    "bossOnline": true,
+    "bossTitle": "HR",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/eccf87304cf817c6d52b80861b29f56bcfcd208495d565ef66e7dff9f98764da.png",
+    "brandName": "Anker",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "549f131d3f710bef1Hx52Ni7FVU~",
+    "encryptBrandId": "57325b9cf168bd441XB72d61",
+    "encryptJobId": "30360cb03b9d619003Z_2Nu_ElVT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.569204,
+        "longitude": 113.953341
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 290,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "(A51524)助理后端开发工程师（J…",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3iZJudjTkkp.search.290",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "lzvHezbcU17wa-C1N3IzDTML7LtJ7CmQRTlcQ91alWKfrXW-FlriAmKbVqXkLMekmVBTtRqKkgzUQCEiuM7mTbSqrojLWIUL77DnFcLquNJ83TfFShBA7ghjKiNFQV6rWLDLuiaoN2BQ_A8W7ukWOh9uZPLu099DtOjKmyQWmGk1xM4~",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "定期体检",
+        "补充医疗保险",
+        "包吃",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "五险一金",
+        "节日福利",
+        "零食下午茶",
+        "企业滴滴打车"
+    ]
 }

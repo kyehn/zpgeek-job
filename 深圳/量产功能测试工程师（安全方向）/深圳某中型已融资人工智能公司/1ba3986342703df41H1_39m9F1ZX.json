@@ -1,70 +1,70 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/cy4fi6cada1655206055291.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180413/13794c8176c809f0b45d830782b5db36cfcd208495d565ef66e7dff9f98764da_s.jpg",
-  "bossCert": 3,
-  "bossName": "李强",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "人工智能",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "深圳某中型已融资人工智能公司",
-  "brandScaleName": "500-999人",
-  "brandStageName": "C轮",
-  "businessDistrict": "",
-  "city": 101280600,
-  "cityName": "深圳",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "8372f66a44f5d97b1XV409S9ElU~",
-  "encryptBrandId": "",
-  "encryptJobId": "1ba3986342703df41H1_39m9F1ZX",
-  "expectId": 0,
-  "goldHunter": 1,
-  "gps": {
-    "longitude": 114.053279,
-    "latitude": 22.503651
-  },
-  "iconFlagList": [
-    8
-  ],
-  "iconWord": "",
-  "industry": 100028,
-  "isShield": 0,
-  "itemId": 3,
-  "jobDegree": "本科",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "本科"
-  ],
-  "jobName": "量产功能测试工程师（安全方向）",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "Iez8kKyNcZ.search.3",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "25-50K·15薪",
-  "securityId": "mNW7Xn0JdPPgC-e1xumtOtRK7q3rFsqYEGppWiic4lC7QMCbUgxZ6yTMT60aY2S3bf10ymsCIpl8pLIzFui5J4XYN5-BDbXhCJKGJL9OtalguqCmGQ~~",
-  "showTopPosition": false,
-  "skills": [
-    "功能测试",
-    "测试工作经验"
-  ],
-  "welfareList": [
-    "包吃",
-    "节日福利",
-    "定期体检",
-    "五险一金",
-    "带薪年假",
-    "年终奖"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/cy4fi6cada1655206055291.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180413/13794c8176c809f0b45d830782b5db36cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "bossName": "李强",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "深圳某中型已融资人工智能公司",
+    "brandScaleName": "500-999人",
+    "brandStageName": "C轮",
+    "businessDistrict": "",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8372f66a44f5d97b1XV409S9ElU~",
+    "encryptBrandId": "",
+    "encryptJobId": "1ba3986342703df41H1_39m9F1ZX",
+    "expectId": 0,
+    "goldHunter": 1,
+    "gps": {
+        "latitude": 22.503651,
+        "longitude": 114.053279
+    },
+    "iconFlagList": [
+        8
+    ],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 3,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "量产功能测试工程师（安全方向）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "Iez8kKyNcZ.search.3",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "25-50K·15薪",
+    "securityId": "mNW7Xn0JdPPgC-e1xumtOtRK7q3rFsqYEGppWiic4lC7QMCbUgxZ6yTMT60aY2S3bf10ymsCIpl8pLIzFui5J4XYN5-BDbXhCJKGJL9OtalguqCmGQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "测试工作经验"
+    ],
+    "welfareList": [
+        "包吃",
+        "节日福利",
+        "定期体检",
+        "五险一金",
+        "带薪年假",
+        "年终奖"
+    ]
 }

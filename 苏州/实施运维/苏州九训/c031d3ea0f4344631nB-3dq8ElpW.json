@@ -1,24 +1,24 @@
 {
-  "areaDistrict": "",
-  "bossName": "乔先生",
-  "bossTitle": "人事",
-  "brandIndustry": "企业服务",
-  "brandName": "苏州九训",
-  "brandScaleName": "20-99人",
-  "businessDistrict": "",
-  "cityName": "苏州",
-  "contact": false,
-  "encryptJobId": "c031d3ea0f4344631nB-3dq8ElpW",
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobName": "实施运维",
-  "salaryDesc": "5-10K",
-  "skills": [
-    "实施交付运维",
-    "Linux",
-    "服务器配置",
-    "自动化运维",
-    "Windows",
-    "运维经验"
-  ]
+    "areaDistrict": "",
+    "bossName": "乔先生",
+    "bossTitle": "人事",
+    "brandIndustry": "企业服务",
+    "brandName": "苏州九训",
+    "brandScaleName": "20-99人",
+    "businessDistrict": "",
+    "cityName": "苏州",
+    "contact": false,
+    "encryptJobId": "c031d3ea0f4344631nB-3dq8ElpW",
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobName": "实施运维",
+    "salaryDesc": "5-10K",
+    "skills": [
+        "实施交付运维",
+        "Linux",
+        "服务器配置",
+        "自动化运维",
+        "Windows",
+        "运维经验"
+    ]
 }

@@ -1,23 +1,23 @@
 {
-  "areaDistrict": "南山区",
-  "bossName": "柏杨",
-  "bossTitle": "HRBP",
-  "brandIndustry": "移动互联网",
-  "brandName": "飞之度",
-  "brandScaleName": "20-99人",
-  "businessDistrict": "科技园",
-  "cityName": "深圳",
-  "contact": false,
-  "encryptJobId": "876691e90a571e1e03Z83t21FFBT",
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobName": "客户端开发工程师",
-  "salaryDesc": "8-13K",
-  "skills": [
-    "Java",
-    "andorid",
-    "js前端",
-    "逆向能力",
-    "Python"
-  ]
+    "areaDistrict": "南山区",
+    "bossName": "柏杨",
+    "bossTitle": "HRBP",
+    "brandIndustry": "移动互联网",
+    "brandName": "飞之度",
+    "brandScaleName": "20-99人",
+    "businessDistrict": "科技园",
+    "cityName": "深圳",
+    "contact": false,
+    "encryptJobId": "876691e90a571e1e03Z83t21FFBT",
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobName": "客户端开发工程师",
+    "salaryDesc": "8-13K",
+    "skills": [
+        "Java",
+        "andorid",
+        "js前端",
+        "逆向能力",
+        "Python"
+    ]
 }

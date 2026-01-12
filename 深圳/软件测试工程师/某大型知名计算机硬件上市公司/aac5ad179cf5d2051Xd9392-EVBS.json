@@ -1,62 +1,62 @@
 {
-  "anonymous": 20,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221014/607f1f3d68754fd038facb569c20e71b01ad45dc2ce59ea09fe619789f83441b998790c56151b0b3_s.png",
-  "bossCert": 3,
-  "bossName": "李先生",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "计算机硬件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某大型知名计算机硬件上市公司",
-  "brandScaleName": "10000人以上",
-  "brandStageName": "已上市",
-  "businessDistrict": "",
-  "city": 101280600,
-  "cityName": "深圳",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "85f7b13e76e092c50nx-3966FFo~",
-  "encryptBrandId": "",
-  "encryptJobId": "aac5ad179cf5d2051Xd9392-EVBS",
-  "expectId": 0,
-  "goldHunter": 1,
-  "gps": {
-    "longitude": 113.947951,
-    "latitude": 22.539056
-  },
-  "iconFlagList": [
-    8
-  ],
-  "iconWord": "",
-  "industry": 100022,
-  "isShield": 0,
-  "itemId": 20,
-  "jobDegree": "本科",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "本科"
-  ],
-  "jobName": "软件测试工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "1UI8pKwcuxU.search.20",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "15-25K·13薪",
-  "securityId": "sZZ0Gv42kBwLR-M1qZyjsCNhJl8tx1vsI8aYr09Gwg9IZHBJp0DMRXJHPHDJArAlFX63FxxiVZeTn2pl53drLqTm_xD0O4eNlX3Bt47dzb0gNe7Sjw~~",
-  "showTopPosition": false,
-  "skills": [
-    "功能测试",
-    "性能测试",
-    "自动化测试"
-  ],
-  "welfareList": [
-    "五险一金"
-  ]
+    "anonymous": 20,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221014/607f1f3d68754fd038facb569c20e71b01ad45dc2ce59ea09fe619789f83441b998790c56151b0b3_s.png",
+    "bossCert": 3,
+    "bossName": "李先生",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "计算机硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某大型知名计算机硬件上市公司",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "85f7b13e76e092c50nx-3966FFo~",
+    "encryptBrandId": "",
+    "encryptJobId": "aac5ad179cf5d2051Xd9392-EVBS",
+    "expectId": 0,
+    "goldHunter": 1,
+    "gps": {
+        "latitude": 22.539056,
+        "longitude": 113.947951
+    },
+    "iconFlagList": [
+        8
+    ],
+    "iconWord": "",
+    "industry": 100022,
+    "isShield": 0,
+    "itemId": 20,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1UI8pKwcuxU.search.20",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "15-25K·13薪",
+    "securityId": "sZZ0Gv42kBwLR-M1qZyjsCNhJl8tx1vsI8aYr09Gwg9IZHBJp0DMRXJHPHDJArAlFX63FxxiVZeTn2pl53drLqTm_xD0O4eNlX3Bt47dzb0gNe7Sjw~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "自动化测试"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
 }

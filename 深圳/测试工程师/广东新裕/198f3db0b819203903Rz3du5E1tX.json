@@ -1,64 +1,64 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "罗湖区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
-  "bossCert": 3,
-  "bossName": "黎文杰",
-  "bossOnline": true,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "计算机软件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-  "brandName": "广东新裕",
-  "brandScaleName": "20-99人",
-  "brandStageName": "未融资",
-  "businessDistrict": "东门",
-  "city": 101280600,
-  "cityName": "深圳",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "2909ca6a853abb720XN739q0EFFQ",
-  "encryptBrandId": "a00c89a1007103dc1XRy2tW8EVU~",
-  "encryptJobId": "198f3db0b819203903Rz3du5E1tX",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 114.141716,
-    "latitude": 22.543543
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100021,
-  "isShield": 0,
-  "itemId": 72,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "测试工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "2utZoIVQi1g.search.72",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "7-9K·13薪",
-  "securityId": "MFZPo1Qe2vxLt-p1TJoblcbgBUdPffFUYQfqTXCGvsrMRZRDQvs1EWux27ajoZlvKzOBwJYrsYF5R9dr6unJMyMswhCk01pkkPqqEArpFnRMdwnhGYXX3dC2TreS1rpVIwbYmz0yd8qo2iYQ2FAQd_Nb",
-  "showTopPosition": false,
-  "skills": [
-    "功能测试",
-    "自动化测试",
-    "计算机相关专业"
-  ],
-  "welfareList": []
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "罗湖区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "bossName": "黎文杰",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "广东新裕",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "东门",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2909ca6a853abb720XN739q0EFFQ",
+    "encryptBrandId": "a00c89a1007103dc1XRy2tW8EVU~",
+    "encryptJobId": "198f3db0b819203903Rz3du5E1tX",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.543543,
+        "longitude": 114.141716
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 72,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2utZoIVQi1g.search.72",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "7-9K·13薪",
+    "securityId": "MFZPo1Qe2vxLt-p1TJoblcbgBUdPffFUYQfqTXCGvsrMRZRDQvs1EWux27ajoZlvKzOBwJYrsYF5R9dr6unJMyMswhCk01pkkPqqEArpFnRMdwnhGYXX3dC2TreS1rpVIwbYmz0yd8qo2iYQ2FAQd_Nb",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "自动化测试",
+        "计算机相关专业"
+    ],
+    "welfareList": []
 }

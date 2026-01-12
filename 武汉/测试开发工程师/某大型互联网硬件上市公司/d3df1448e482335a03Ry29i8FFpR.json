@@ -1,75 +1,75 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210916/607f1f3d68754fd090d948d514d19dabbd14c919e3b386920bfa28ff21bec8d2a16d47eb31c4fc2e_s.jpg",
-  "bossCert": 3,
-  "bossName": "秦菲",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某大型互联网硬件上市公司",
-  "brandScaleName": "10000人以上",
-  "brandStageName": "已上市",
-  "businessDistrict": "",
-  "city": 101200100,
-  "cityName": "武汉",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "d694acd7de90c42533d70ty4F1c~",
-  "encryptBrandId": "",
-  "encryptJobId": "d3df1448e482335a03Ry29i8FFpR",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 114.450201,
-    "latitude": 30.454898
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 176,
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "本科"
-  ],
-  "jobName": "测试开发工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "2bVkkm1TGsB.search.176",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "8-10K",
-  "securityId": "YMc3anj2wqZcJ-119Bdftr5vp2jadNsDLhIwuPiwJG7-kyWjhMVKK6Dtswym5f9PeHePhz3xlx6AIP8EtVrIqL9d8Otfw43laHM1DdQxcAGv1FA~",
-  "showTopPosition": false,
-  "skills": [
-    "硬件测试经验",
-    "手机/电脑硬件类"
-  ],
-  "welfareList": [
-    "五险一金",
-    "加班补助",
-    "餐补",
-    "带薪年假",
-    "节日福利",
-    "定期体检",
-    "补充医疗保险",
-    "免费班车",
-    "年终奖",
-    "全勤奖",
-    "包吃"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210916/607f1f3d68754fd090d948d514d19dabbd14c919e3b386920bfa28ff21bec8d2a16d47eb31c4fc2e_s.jpg",
+    "bossCert": 3,
+    "bossName": "秦菲",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某大型互联网硬件上市公司",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d694acd7de90c42533d70ty4F1c~",
+    "encryptBrandId": "",
+    "encryptJobId": "d3df1448e482335a03Ry29i8FFpR",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.454898,
+        "longitude": 114.450201
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 176,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2bVkkm1TGsB.search.176",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "8-10K",
+    "securityId": "YMc3anj2wqZcJ-119Bdftr5vp2jadNsDLhIwuPiwJG7-kyWjhMVKK6Dtswym5f9PeHePhz3xlx6AIP8EtVrIqL9d8Otfw43laHM1DdQxcAGv1FA~",
+    "showTopPosition": false,
+    "skills": [
+        "硬件测试经验",
+        "手机/电脑硬件类"
+    ],
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "餐补",
+        "带薪年假",
+        "节日福利",
+        "定期体检",
+        "补充医疗保险",
+        "免费班车",
+        "年终奖",
+        "全勤奖",
+        "包吃"
+    ]
 }

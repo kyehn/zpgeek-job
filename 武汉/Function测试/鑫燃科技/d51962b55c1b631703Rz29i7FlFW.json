@@ -1,69 +1,69 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "江夏区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230713/607f1f3d68754fd0273fc72b5033b772cd339d631d1a5e8f6c92342febf342ecb38afc846a1c4477_s.png.webp",
-  "bossCert": 3,
-  "bossName": "吴先利",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "计算机软件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240709/7bf6f160950405e95d0bf93328864ed074521fbb7073a1a30b6972a2c384aa184ded46a25ce50bd0.png.webp",
-  "brandName": "鑫燃科技",
-  "brandScaleName": "100-499人",
-  "brandStageName": "未融资",
-  "businessDistrict": "流芳",
-  "city": 101200100,
-  "cityName": "武汉",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "48efb9533c807b801XR73tu_FlI~",
-  "encryptBrandId": "04b15aab882f57c31HZ50966ElA~",
-  "encryptJobId": "d51962b55c1b631703Rz29i7FlFW",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 114.450201,
-    "latitude": 30.454898
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100021,
-  "isShield": 0,
-  "itemId": 284,
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "本科"
-  ],
-  "jobName": "Function测试",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "6wqehRjymn9.search.284",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "5-8K",
-  "securityId": "cInYtUOyjnS1K-a1xTQjSJTBGr5ieoDuLKQWxJgx6byFoVwKKZ-ySvy2Pkog3fNlhqGQ4imIsIGSHg8ajrhV1EL2kJ5oeivlU6h4eRJh-0h36VZZ9FW5O6tGXWqjsZXAh7kCvkT1-lRhNw~~",
-  "showTopPosition": false,
-  "skills": [
-    "功能测试",
-    "测试工作经验",
-    "日语"
-  ],
-  "welfareList": [
-    "夜班补助",
-    "加班补助",
-    "年终奖",
-    "五险一金"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江夏区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230713/607f1f3d68754fd0273fc72b5033b772cd339d631d1a5e8f6c92342febf342ecb38afc846a1c4477_s.png.webp",
+    "bossCert": 3,
+    "bossName": "吴先利",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240709/7bf6f160950405e95d0bf93328864ed074521fbb7073a1a30b6972a2c384aa184ded46a25ce50bd0.png.webp",
+    "brandName": "鑫燃科技",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "流芳",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "48efb9533c807b801XR73tu_FlI~",
+    "encryptBrandId": "04b15aab882f57c31HZ50966ElA~",
+    "encryptJobId": "d51962b55c1b631703Rz29i7FlFW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.454898,
+        "longitude": 114.450201
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 284,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Function测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6wqehRjymn9.search.284",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "5-8K",
+    "securityId": "cInYtUOyjnS1K-a1xTQjSJTBGr5ieoDuLKQWxJgx6byFoVwKKZ-ySvy2Pkog3fNlhqGQ4imIsIGSHg8ajrhV1EL2kJ5oeivlU6h4eRJh-0h36VZZ9FW5O6tGXWqjsZXAh7kCvkT1-lRhNw~~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "测试工作经验",
+        "日语"
+    ],
+    "welfareList": [
+        "夜班补助",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+    ]
 }

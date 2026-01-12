@@ -1,62 +1,62 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "建邺区",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240624/607f1f3d68754fd08039e8aa2cf01b0257e8d53d3466e62fca93b7365bfff0718540356d8d8df90e_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "李女士",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "企业服务",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
-  "brandName": "省监测监控公司",
-  "brandScaleName": "100-499人",
-  "brandStageName": "",
-  "businessDistrict": "西善桥",
-  "city": 101190100,
-  "cityName": "南京",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "803db82c0c65af340nR43di-GVNZ",
-  "encryptBrandId": "cb5f74d527959cdc1XR439W5EVY~",
-  "encryptJobId": "b2b369845b5a3ee61HZ83dS4FVdX",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 118.735997,
-    "latitude": 31.97935
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100015,
-  "isShield": 0,
-  "itemId": 165,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "水质运维工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "3P72b8Rtfv1.search.165",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "5-10K",
-  "securityId": "i5rjGizkH0xNW-x16SxBllzsZQ66sg9AxHJ_TnfL6bLeUSfuaq65Z_xlC0oD6U5QtAh_N7XHw4jBLPlucpSNzj-ODJ1Vw9VVSRaCsbfuP4ZQSSI0MFzdRxldwkSk4ap4sLUpTFACYbE3hUE~",
-  "showTopPosition": false,
-  "skills": [
-    "运维经验"
-  ],
-  "welfareList": [],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "建邺区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240624/607f1f3d68754fd08039e8aa2cf01b0257e8d53d3466e62fca93b7365bfff0718540356d8d8df90e_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "企业服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+    "brandName": "省监测监控公司",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "西善桥",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "803db82c0c65af340nR43di-GVNZ",
+    "encryptBrandId": "cb5f74d527959cdc1XR439W5EVY~",
+    "encryptJobId": "b2b369845b5a3ee61HZ83dS4FVdX",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.97935,
+        "longitude": 118.735997
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100015,
+    "isShield": 0,
+    "itemId": 165,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "水质运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3P72b8Rtfv1.search.165",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "5-10K",
+    "securityId": "i5rjGizkH0xNW-x16SxBllzsZQ66sg9AxHJ_TnfL6bLeUSfuaq65Z_xlC0oD6U5QtAh_N7XHw4jBLPlucpSNzj-ODJ1Vw9VVSRaCsbfuP4ZQSSI0MFzdRxldwkSk4ap4sLUpTFACYbE3hUE~",
+    "showTopPosition": false,
+    "skills": [
+        "运维经验"
+    ],
+    "welfareList": []
 }

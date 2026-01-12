@@ -1,72 +1,72 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "吴中区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221124/607f1f3d68754fd0e27734f3b7216e38d11377145652c0a851a5c176b97dc507d3e7e77bf0db1097_s.jpg",
-  "bossCert": 3,
-  "bossName": "耿女士",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "其他行业",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/a0d73c1fe77715b3c7da55b2a258155fcfcd208495d565ef66e7dff9f98764da.jpg",
-  "brandName": "科沃斯机器人有限公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "已上市",
-  "businessDistrict": "越溪",
-  "city": 101190400,
-  "cityName": "苏州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "978da437ebb235860nJz29S9F1JS",
-  "encryptBrandId": "f6cc6ecc88b89dc91HF53tq1",
-  "encryptJobId": "2f727c492b5cc61703V609u1FlRX",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.598334,
-    "latitude": 31.188305
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 101304,
-  "isShield": 0,
-  "itemId": 141,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "可靠性工程师助理",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "2t8kP26Pzeg.search.141",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "4-6K",
-  "securityId": "9tGCQjGPRj14E-a1u5GsKtKYZsJwnlVfyz-a-DM9dzWEveZSNtx8Wx6JAssB5pgjPqE9ve7vo6E9pPJp_EdwBmQpvDdNyWgwpknxH8KjeGGg8L815A~~",
-  "showTopPosition": false,
-  "skills": [
-    "手机/电脑硬件类",
-    "智能硬件类"
-  ],
-  "welfareList": [
-    "年终奖",
-    "五险一金",
-    "交通补助",
-    "餐补",
-    "带薪年假",
-    "节日福利",
-    "定期体检",
-    "免费班车"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "吴中区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221124/607f1f3d68754fd0e27734f3b7216e38d11377145652c0a851a5c176b97dc507d3e7e77bf0db1097_s.jpg",
+    "bossCert": 3,
+    "bossName": "耿女士",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/a0d73c1fe77715b3c7da55b2a258155fcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "科沃斯机器人有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "越溪",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "978da437ebb235860nJz29S9F1JS",
+    "encryptBrandId": "f6cc6ecc88b89dc91HF53tq1",
+    "encryptJobId": "2f727c492b5cc61703V609u1FlRX",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.188305,
+        "longitude": 120.598334
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 141,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "可靠性工程师助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "2t8kP26Pzeg.search.141",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "4-6K",
+    "securityId": "9tGCQjGPRj14E-a1u5GsKtKYZsJwnlVfyz-a-DM9dzWEveZSNtx8Wx6JAssB5pgjPqE9ve7vo6E9pPJp_EdwBmQpvDdNyWgwpknxH8KjeGGg8L815A~~",
+    "showTopPosition": false,
+    "skills": [
+        "手机/电脑硬件类",
+        "智能硬件类"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "交通补助",
+        "餐补",
+        "带薪年假",
+        "节日福利",
+        "定期体检",
+        "免费班车"
+    ]
 }

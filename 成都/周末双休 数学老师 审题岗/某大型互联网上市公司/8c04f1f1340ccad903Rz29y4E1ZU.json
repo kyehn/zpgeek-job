@@ -1,73 +1,73 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240301/607f1f3d68754fd080f9ac96308cd68781543432bd448ca382b3b2929ebbe9478be3f2208660a8be_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "田先生",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某大型互联网上市公司",
-  "brandScaleName": "10000人以上",
-  "brandStageName": "已上市",
-  "businessDistrict": "",
-  "city": 101270100,
-  "cityName": "成都",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "151bbf17a5d73a4403J62dW6F1Q~",
-  "encryptBrandId": "",
-  "encryptJobId": "8c04f1f1340ccad903Rz29y4E1ZU",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 104.006554,
-    "latitude": 30.719799
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 200,
-  "jobDegree": "本科",
-  "jobExperience": "1年以内",
-  "jobLabels": [
-    "1年以内",
-    "本科"
-  ],
-  "jobName": "周末双休 数学老师 审题岗",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "5CJ3S4NBi2Y.search.200",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "4-6K",
-  "securityId": "9cbt5FijdLR1J-e17fQt2lA2YdpOSH7H4uUjD2f63lw6rG0DA-JohnLtdaxgSGpA_6Zal0LSc26UJkhE9Csd6KwEedEDgdV4q2sl2rsuGyaps3pfPv6uCqUr_tx8gIikH2_aXHy0Sd7g",
-  "showTopPosition": false,
-  "skills": [
-    "K12教育",
-    "大型教育教育",
-    "线上教育",
-    "数学老师",
-    "学科应用"
-  ],
-  "welfareList": [
-    "交通补助",
-    "免费班车",
-    "餐补",
-    "带薪年假",
-    "年终奖",
-    "五险一金"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240301/607f1f3d68754fd080f9ac96308cd68781543432bd448ca382b3b2929ebbe9478be3f2208660a8be_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "田先生",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某大型互联网上市公司",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "151bbf17a5d73a4403J62dW6F1Q~",
+    "encryptBrandId": "",
+    "encryptJobId": "8c04f1f1340ccad903Rz29y4E1ZU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.719799,
+        "longitude": 104.006554
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 200,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "周末双休 数学老师 审题岗",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5CJ3S4NBi2Y.search.200",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "4-6K",
+    "securityId": "9cbt5FijdLR1J-e17fQt2lA2YdpOSH7H4uUjD2f63lw6rG0DA-JohnLtdaxgSGpA_6Zal0LSc26UJkhE9Csd6KwEedEDgdV4q2sl2rsuGyaps3pfPv6uCqUr_tx8gIikH2_aXHy0Sd7g",
+    "showTopPosition": false,
+    "skills": [
+        "K12教育",
+        "大型教育教育",
+        "线上教育",
+        "数学老师",
+        "学科应用"
+    ],
+    "welfareList": [
+        "交通补助",
+        "免费班车",
+        "餐补",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+    ]
 }

@@ -1,71 +1,71 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "天河区",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240325/607f1f3d68754fd00c2ce9a9840785cb30579de33c7470887fa56b88d23677052d1e5b14b1fa2095_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "沈女士",
-  "bossOnline": true,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "信息安全",
-  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201118/d85d59825c47aff361765a4bd5b04623e220db335b9491de5972348fd718f36c.jpg",
-  "brandName": "章和技术",
-  "brandScaleName": "20-99人",
-  "brandStageName": "未融资",
-  "businessDistrict": "东圃",
-  "city": 101280100,
-  "cityName": "广州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "d21d50076418c5240nRz39u1E1FT",
-  "encryptBrandId": "ca8a6aa9396e1aae1HV_3Ni4EA~~",
-  "encryptJobId": "91eaa542137deb331HN9092-ElZQ",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 113.412619,
-    "latitude": 23.172632
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 100016,
-  "isShield": 0,
-  "itemId": 132,
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "本科"
-  ],
-  "jobName": "测试工程师（初级）",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "3VaaBC7CHRm.search.132",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "6-8K",
-  "securityId": "s4AwcT-m3wW9--I1KkoqtSSDb3EFuxe-xSC0brOZQIlGTy7Q5ldhHIhag4_O-zAhRN-BKFeA80VhyYp_gzHB6WJpHcR0b4QDTmeCQzQ8OtwDs045iFUCnRU8i0HAXR_N48qAUJ-GRMv63kKmSnO8ZdNi4QjO5Edq_zB0Uf5BzT8uXxF-Fw~~",
-  "showTopPosition": false,
-  "skills": [
-    "MySQL"
-  ],
-  "welfareList": [
-    "年终奖",
-    "员工旅游",
-    "定期体检",
-    "补充医疗保险",
-    "节日福利",
-    "零食下午茶",
-    "五险一金",
-    "带薪年假"
-  ],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "天河区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240325/607f1f3d68754fd00c2ce9a9840785cb30579de33c7470887fa56b88d23677052d1e5b14b1fa2095_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "沈女士",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "信息安全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201118/d85d59825c47aff361765a4bd5b04623e220db335b9491de5972348fd718f36c.jpg",
+    "brandName": "章和技术",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "东圃",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d21d50076418c5240nRz39u1E1FT",
+    "encryptBrandId": "ca8a6aa9396e1aae1HV_3Ni4EA~~",
+    "encryptJobId": "91eaa542137deb331HN9092-ElZQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.172632,
+        "longitude": 113.412619
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100016,
+    "isShield": 0,
+    "itemId": 132,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "测试工程师（初级）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3VaaBC7CHRm.search.132",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "6-8K",
+    "securityId": "s4AwcT-m3wW9--I1KkoqtSSDb3EFuxe-xSC0brOZQIlGTy7Q5ldhHIhag4_O-zAhRN-BKFeA80VhyYp_gzHB6WJpHcR0b4QDTmeCQzQ8OtwDs045iFUCnRU8i0HAXR_N48qAUJ-GRMv63kKmSnO8ZdNi4QjO5Edq_zB0Uf5BzT8uXxF-Fw~~",
+    "showTopPosition": false,
+    "skills": [
+        "MySQL"
+    ],
+    "welfareList": [
+        "年终奖",
+        "员工旅游",
+        "定期体检",
+        "补充医疗保险",
+        "节日福利",
+        "零食下午茶",
+        "五险一金",
+        "带薪年假"
+    ]
 }

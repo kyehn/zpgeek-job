@@ -1,21 +1,21 @@
 {
-  "areaDistrict": "宝安区",
-  "bossName": "常金枝",
-  "bossTitle": "人事",
-  "brandIndustry": "工程施工",
-  "brandName": "新怡海",
-  "brandScaleName": "20-99人",
-  "businessDistrict": "新安",
-  "cityName": "深圳",
-  "contact": false,
-  "encryptJobId": "d27d5fd4865baae31X173tW6FldQ",
-  "jobDegree": "大专",
-  "jobExperience": "1年以内",
-  "jobName": "售前售后技术支持",
-  "salaryDesc": "4-8K",
-  "skills": [
-    "计算机相关专业",
-    "可适应出差",
-    "弱电、综合布线、网络"
-  ]
+    "areaDistrict": "宝安区",
+    "bossName": "常金枝",
+    "bossTitle": "人事",
+    "brandIndustry": "工程施工",
+    "brandName": "新怡海",
+    "brandScaleName": "20-99人",
+    "businessDistrict": "新安",
+    "cityName": "深圳",
+    "contact": false,
+    "encryptJobId": "d27d5fd4865baae31X173tW6FldQ",
+    "jobDegree": "大专",
+    "jobExperience": "1年以内",
+    "jobName": "售前售后技术支持",
+    "salaryDesc": "4-8K",
+    "skills": [
+        "计算机相关专业",
+        "可适应出差",
+        "弱电、综合布线、网络"
+    ]
 }

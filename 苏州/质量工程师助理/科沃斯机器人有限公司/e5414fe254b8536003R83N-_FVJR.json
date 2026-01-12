@@ -1,71 +1,71 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "吴中区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221124/607f1f3d68754fd0e27734f3b7216e38d11377145652c0a851a5c176b97dc507d3e7e77bf0db1097_s.jpg",
-  "bossCert": 3,
-  "bossName": "耿女士",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "其他行业",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/a0d73c1fe77715b3c7da55b2a258155fcfcd208495d565ef66e7dff9f98764da.jpg",
-  "brandName": "科沃斯机器人有限公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "已上市",
-  "businessDistrict": "郭巷",
-  "city": 101190400,
-  "cityName": "苏州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "978da437ebb235860nJz29S9F1JS",
-  "encryptBrandId": "f6cc6ecc88b89dc91HF53tq1",
-  "encryptJobId": "e5414fe254b8536003R83N-_FVJR",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.72498,
-    "latitude": 31.214123
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 101304,
-  "isShield": 0,
-  "itemId": 147,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "质量工程师助理",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "4qnFEd7ykmw.search.147",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "4-6K",
-  "securityId": "5p0SyOKO_vBif-B1HZVZkYs4lS3ads50GCCUFlLmpzXAMmKpueZwDKklcBRV3qt8Ti_oguSRNtbyWgSBmzH0duqqL-OAHtCVd7vhN058_pGBVOynVYSUe-J11U0P-JFQJjd532-PpOFE",
-  "showTopPosition": false,
-  "skills": [
-    "SQE工作经验"
-  ],
-  "welfareList": [
-    "年终奖",
-    "节日福利",
-    "交通补助",
-    "带薪年假",
-    "定期体检",
-    "餐补",
-    "五险一金",
-    "免费班车"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "吴中区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221124/607f1f3d68754fd0e27734f3b7216e38d11377145652c0a851a5c176b97dc507d3e7e77bf0db1097_s.jpg",
+    "bossCert": 3,
+    "bossName": "耿女士",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/a0d73c1fe77715b3c7da55b2a258155fcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "科沃斯机器人有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "郭巷",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "978da437ebb235860nJz29S9F1JS",
+    "encryptBrandId": "f6cc6ecc88b89dc91HF53tq1",
+    "encryptJobId": "e5414fe254b8536003R83N-_FVJR",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.214123,
+        "longitude": 120.72498
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 147,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "质量工程师助理",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4qnFEd7ykmw.search.147",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "4-6K",
+    "securityId": "5p0SyOKO_vBif-B1HZVZkYs4lS3ads50GCCUFlLmpzXAMmKpueZwDKklcBRV3qt8Ti_oguSRNtbyWgSBmzH0duqqL-OAHtCVd7vhN058_pGBVOynVYSUe-J11U0P-JFQJjd532-PpOFE",
+    "showTopPosition": false,
+    "skills": [
+        "SQE工作经验"
+    ],
+    "welfareList": [
+        "年终奖",
+        "节日福利",
+        "交通补助",
+        "带薪年假",
+        "定期体检",
+        "餐补",
+        "五险一金",
+        "免费班车"
+    ]
 }

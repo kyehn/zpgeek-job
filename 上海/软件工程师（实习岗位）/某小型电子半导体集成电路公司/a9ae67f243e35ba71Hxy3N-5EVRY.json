@@ -1,64 +1,64 @@
 {
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190714/8c6a0128e5b723c2da9e53bda9b388da29d2fd6a833be5031dc6355a9d803dbe_s.png",
-  "bossCert": 3,
-  "bossName": "杜佳伟",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "电子/半导体/集成电路",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某小型电子/半导体/集成电路公司",
-  "brandScaleName": "20-99人",
-  "brandStageName": "",
-  "businessDistrict": "",
-  "city": 101020100,
-  "cityName": "上海",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "0d5c1bd8ed886ae40X192d29EVE~",
-  "encryptBrandId": "",
-  "encryptJobId": "a9ae67f243e35ba71Hxy3N-5EVRY",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 121.477659,
-    "latitude": 31.220862
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100026,
-  "isShield": 0,
-  "itemId": 43,
-  "jobDegree": "本科",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "本科"
-  ],
-  "jobName": "软件工程师（实习岗位）",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "5Pxp57waixb.search.43",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "3-4K",
-  "securityId": "53NzChAEKOH8i-L1zAg0iq2srZGYbfpfDkcOf4MLaqf966maPNQw2NkXWI17eS7NrZjBUnKoPb1DGQ_y0V652jPsu1yKzege6GBI5MNlq9LNGURwGmyH68H711jTh4eg5kw-bmfyBIlCIA~~",
-  "showTopPosition": false,
-  "skills": [
-    "单片机设计经验",
-    "计算机相关专业",
-    "电子相关专业"
-  ],
-  "welfareList": [],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190714/8c6a0128e5b723c2da9e53bda9b388da29d2fd6a833be5031dc6355a9d803dbe_s.png",
+    "bossCert": 3,
+    "bossName": "杜佳伟",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某小型电子/半导体/集成电路公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0d5c1bd8ed886ae40X192d29EVE~",
+    "encryptBrandId": "",
+    "encryptJobId": "a9ae67f243e35ba71Hxy3N-5EVRY",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.220862,
+        "longitude": 121.477659
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100026,
+    "isShield": 0,
+    "itemId": 43,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "软件工程师（实习岗位）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "5Pxp57waixb.search.43",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "3-4K",
+    "securityId": "53NzChAEKOH8i-L1zAg0iq2srZGYbfpfDkcOf4MLaqf966maPNQw2NkXWI17eS7NrZjBUnKoPb1DGQ_y0V652jPsu1yKzege6GBI5MNlq9LNGURwGmyH68H711jTh4eg5kw-bmfyBIlCIA~~",
+    "showTopPosition": false,
+    "skills": [
+        "单片机设计经验",
+        "计算机相关专业",
+        "电子相关专业"
+    ],
+    "welfareList": []
 }

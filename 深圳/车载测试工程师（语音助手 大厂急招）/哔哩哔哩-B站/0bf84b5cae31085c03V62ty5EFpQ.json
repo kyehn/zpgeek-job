@@ -1,71 +1,71 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "坪山区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211130/607f1f3d68754fd0fbaeda88f40e5409b4243d0bff0b5317fd976c79f7593d1d38e09f51fbe2b0a6_s.jpg",
-  "bossCert": 3,
-  "bossName": "梁女士",
-  "bossOnline": true,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/41319.jpg",
-  "brandName": "哔哩哔哩-B站",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "已上市",
-  "businessDistrict": "坪山",
-  "city": 101280600,
-  "cityName": "深圳",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "ca25f1be515e7ab90nd529-9EFZV",
-  "encryptBrandId": "7cf08ef4b0f688c103V52tQ~",
-  "encryptJobId": "0bf84b5cae31085c03V62ty5EFpQ",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 114.358663,
-    "latitude": 22.675425
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 107,
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "大专"
-  ],
-  "jobName": "车载测试工程师（语音助手 大厂急招）",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "3V3k1WFwcPl.search.107",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "9-11K",
-  "securityId": "QpZqLzJKmgMsV--1IAL5Ps7A6qKcB0mG6nuA3jy8trZRBJPRhtvDRfKP3ysh80FrTTqo7UmqAFEJcV--Ke_CKTPJB9zNZgUVFBWenWiV9SAWKC-57vyq4VOe3z7L-AAFoBOMZZoRdz2sOp-5vSvdJq5fuWAsynXcikP3n1_LKRzMTJc~",
-  "showTopPosition": false,
-  "skills": [
-    "功能测试",
-    "Jira"
-  ],
-  "welfareList": [
-    "年终奖",
-    "定期体检",
-    "补充医疗保险",
-    "节日福利",
-    "五险一金",
-    "全勤奖",
-    "带薪年假"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "坪山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211130/607f1f3d68754fd0fbaeda88f40e5409b4243d0bff0b5317fd976c79f7593d1d38e09f51fbe2b0a6_s.jpg",
+    "bossCert": 3,
+    "bossName": "梁女士",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/bar/brand/41319.jpg",
+    "brandName": "哔哩哔哩-B站",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "坪山",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ca25f1be515e7ab90nd529-9EFZV",
+    "encryptBrandId": "7cf08ef4b0f688c103V52tQ~",
+    "encryptJobId": "0bf84b5cae31085c03V62ty5EFpQ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.675425,
+        "longitude": 114.358663
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 107,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "车载测试工程师（语音助手 大厂急招）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3V3k1WFwcPl.search.107",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "9-11K",
+    "securityId": "QpZqLzJKmgMsV--1IAL5Ps7A6qKcB0mG6nuA3jy8trZRBJPRhtvDRfKP3ysh80FrTTqo7UmqAFEJcV--Ke_CKTPJB9zNZgUVFBWenWiV9SAWKC-57vyq4VOe3z7L-AAFoBOMZZoRdz2sOp-5vSvdJq5fuWAsynXcikP3n1_LKRzMTJc~",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "Jira"
+    ],
+    "welfareList": [
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "节日福利",
+        "五险一金",
+        "全勤奖",
+        "带薪年假"
+    ]
 }

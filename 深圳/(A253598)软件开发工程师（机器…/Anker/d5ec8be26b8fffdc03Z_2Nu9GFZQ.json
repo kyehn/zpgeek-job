@@ -1,73 +1,73 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250310/607f1f3d68754fd061fca9400fd7eeffe352ecf4a18cd8153c7e586ed6034694962df1e9550e762b_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "周先生",
-  "bossOnline": false,
-  "bossTitle": "HR",
-  "brandIndustry": "电子商务",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/eccf87304cf817c6d52b80861b29f56bcfcd208495d565ef66e7dff9f98764da.png",
-  "brandName": "Anker",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "已上市",
-  "businessDistrict": "",
-  "city": 101280600,
-  "cityName": "深圳",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "549f131d3f710bef1Hx52Ni7FVU~",
-  "encryptBrandId": "57325b9cf168bd441XB72d61",
-  "encryptJobId": "d5ec8be26b8fffdc03Z_2Nu9GFZQ",
-  "expectId": 1014042683,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 113.953341,
-    "latitude": 22.569204
-  },
-  "iconFlagList": [
-    38
-  ],
-  "iconWord": "",
-  "industry": 100001,
-  "isShield": 0,
-  "itemId": 180,
-  "jobDegree": "本科",
-  "jobExperience": "在校/应届",
-  "jobLabels": [
-    "在校/应届",
-    "本科"
-  ],
-  "jobName": "(A253598)软件开发工程师（机器…",
-  "jobType": 5,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "76i5Vfhtily.search.180",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 0,
-  "proxyType": 0,
-  "salaryDesc": "面议",
-  "securityId": "khx146MidSSGI-l1Q8rnWtGBSIcCeCkaRN9iAjko_9p9VE74t84bwxuuMH29LPCnguREbA6jP62hngqXKLU305RqlLygDLMCPko5AQVjzjEgCVsK9FtIa_H1iz4Mt0POgRr1QXsMTiY~",
-  "showTopPosition": false,
-  "skills": [
-    "校招"
-  ],
-  "welfareList": [
-    "节日福利",
-    "包吃",
-    "员工旅游",
-    "年终奖",
-    "定期体检",
-    "带薪年假",
-    "零食下午茶",
-    "补充医疗保险",
-    "五险一金",
-    "企业滴滴打车"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250310/607f1f3d68754fd061fca9400fd7eeffe352ecf4a18cd8153c7e586ed6034694962df1e9550e762b_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "周先生",
+    "bossOnline": false,
+    "bossTitle": "HR",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/eccf87304cf817c6d52b80861b29f56bcfcd208495d565ef66e7dff9f98764da.png",
+    "brandName": "Anker",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "549f131d3f710bef1Hx52Ni7FVU~",
+    "encryptBrandId": "57325b9cf168bd441XB72d61",
+    "encryptJobId": "d5ec8be26b8fffdc03Z_2Nu9GFZQ",
+    "expectId": 1014042683,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.569204,
+        "longitude": 113.953341
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 180,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "(A253598)软件开发工程师（机器…",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "76i5Vfhtily.search.180",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "khx146MidSSGI-l1Q8rnWtGBSIcCeCkaRN9iAjko_9p9VE74t84bwxuuMH29LPCnguREbA6jP62hngqXKLU305RqlLygDLMCPko5AQVjzjEgCVsK9FtIa_H1iz4Mt0POgRr1QXsMTiY~",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "节日福利",
+        "包吃",
+        "员工旅游",
+        "年终奖",
+        "定期体检",
+        "带薪年假",
+        "零食下午茶",
+        "补充医疗保险",
+        "五险一金",
+        "企业滴滴打车"
+    ]
 }

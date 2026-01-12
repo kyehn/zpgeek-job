@@ -1,74 +1,74 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230315/607f1f3d68754fd08f064cdcac0149b58fa73f7780e875ff6c6ac1926aba81c000849ff5fe7d652f_s.jpg",
-  "bossCert": 3,
-  "bossName": "耿女士",
-  "bossOnline": true,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "北京某小型互联网人形机器人研发公司",
-  "brandScaleName": "20-99人",
-  "brandStageName": "A轮",
-  "businessDistrict": "",
-  "city": 101010100,
-  "cityName": "北京",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "076ed0f22693afc20nZy29-7EVNR",
-  "encryptBrandId": "",
-  "encryptJobId": "cdfe3e899879a48d03Z-0tW6FFJX",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 116.358002,
-    "latitude": 40.036883
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 91,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "测试工程师（一年短期 机器人研发平台）",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "aEGGhMxn3Ii.search.91",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "6-7K",
-  "securityId": "Ft3wMELItF7mx-D1Y-FDLo06bkFj1MV02FD3OdDxbmcKFb-g3yZdM2OgGWbO5i5G3hdZNzbdkmegyQxWFS7HdLYbnin96fUh71L6Bd28h_fDt_cuT3bk114-QjMZ5ncHlLxG4Kp9EOUWaYsMqgT1kENj",
-  "showTopPosition": false,
-  "skills": [
-    "计算机相关专业",
-    "通信相关专业",
-    "测试工作经验",
-    "机器人",
-    "硬件测试"
-  ],
-  "welfareList": [
-    "年终奖",
-    "节日福利",
-    "团建聚餐",
-    "股票期权",
-    "带薪年假",
-    "午餐",
-    "五险一金"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230315/607f1f3d68754fd08f064cdcac0149b58fa73f7780e875ff6c6ac1926aba81c000849ff5fe7d652f_s.jpg",
+    "bossCert": 3,
+    "bossName": "耿女士",
+    "bossOnline": true,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "北京某小型互联网人形机器人研发公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "076ed0f22693afc20nZy29-7EVNR",
+    "encryptBrandId": "",
+    "encryptJobId": "cdfe3e899879a48d03Z-0tW6FFJX",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 40.036883,
+        "longitude": 116.358002
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 91,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试工程师（一年短期 机器人研发平台）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "aEGGhMxn3Ii.search.91",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "6-7K",
+    "securityId": "Ft3wMELItF7mx-D1Y-FDLo06bkFj1MV02FD3OdDxbmcKFb-g3yZdM2OgGWbO5i5G3hdZNzbdkmegyQxWFS7HdLYbnin96fUh71L6Bd28h_fDt_cuT3bk114-QjMZ5ncHlLxG4Kp9EOUWaYsMqgT1kENj",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业",
+        "通信相关专业",
+        "测试工作经验",
+        "机器人",
+        "硬件测试"
+    ],
+    "welfareList": [
+        "年终奖",
+        "节日福利",
+        "团建聚餐",
+        "股票期权",
+        "带薪年假",
+        "午餐",
+        "五险一金"
+    ]
 }

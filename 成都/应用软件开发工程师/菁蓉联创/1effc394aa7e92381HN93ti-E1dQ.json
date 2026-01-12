@@ -1,74 +1,74 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "",
-  "atsDirectPost": true,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210511/378dab5fb28757d9f44c959aa1bed395fb8bf8b26d080c8ab1323b5724a0ff82_s.png",
-  "bossCert": 3,
-  "bossName": "杜云彩",
-  "bossOnline": false,
-  "bossTitle": "校招顾问",
-  "brandIndustry": "计算机软件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220816/7bf6f160950405e97be44ae4f922f5df8f1b45fcd09ca0c3d938d7889fea93abeeefb9dc705e5ebf.jpg",
-  "brandName": "菁蓉联创",
-  "brandScaleName": "20-99人",
-  "brandStageName": "A轮",
-  "businessDistrict": "",
-  "city": 101270100,
-  "cityName": "成都",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "674c4a8a506058e00nd72du8FFdZ",
-  "encryptBrandId": "cffc6246958759111nd52t29F1o~",
-  "encryptJobId": "1effc394aa7e92381HN93ti-E1dQ",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 104.070821,
-    "latitude": 30.54465
-  },
-  "iconFlagList": [
-    2,
-    38
-  ],
-  "iconWord": "",
-  "industry": 100021,
-  "isShield": 0,
-  "itemId": 57,
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "本科"
-  ],
-  "jobName": "应用软件开发工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "252AI7Q9JiC.search.57",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "6-10K",
-  "securityId": "UlWWjXHm-JehD-31Th559KciIHTEXQUiGbDZHuNNsdy5FiDh2k_dDM5wgFSthyujHkDLp6GzObdY7zd0aSMP5ZxwCSrgFV78oHWogGNXePLGRg6_1VIH",
-  "showTopPosition": false,
-  "skills": [
-    "应用软件开发工程师"
-  ],
-  "welfareList": [
-    "带薪年假",
-    "团建聚餐",
-    "节日福利",
-    "免费工装",
-    "全勤奖",
-    "零食下午茶",
-    "年终奖",
-    "生日福利",
-    "定期体检"
-  ],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png",
-    "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": true,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png",
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210511/378dab5fb28757d9f44c959aa1bed395fb8bf8b26d080c8ab1323b5724a0ff82_s.png",
+    "bossCert": 3,
+    "bossName": "杜云彩",
+    "bossOnline": false,
+    "bossTitle": "校招顾问",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220816/7bf6f160950405e97be44ae4f922f5df8f1b45fcd09ca0c3d938d7889fea93abeeefb9dc705e5ebf.jpg",
+    "brandName": "菁蓉联创",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "",
+    "city": 101270100,
+    "cityName": "成都",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "674c4a8a506058e00nd72du8FFdZ",
+    "encryptBrandId": "cffc6246958759111nd52t29F1o~",
+    "encryptJobId": "1effc394aa7e92381HN93ti-E1dQ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.54465,
+        "longitude": 104.070821
+    },
+    "iconFlagList": [
+        2,
+        38
+    ],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 57,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "应用软件开发工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "252AI7Q9JiC.search.57",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "6-10K",
+    "securityId": "UlWWjXHm-JehD-31Th559KciIHTEXQUiGbDZHuNNsdy5FiDh2k_dDM5wgFSthyujHkDLp6GzObdY7zd0aSMP5ZxwCSrgFV78oHWogGNXePLGRg6_1VIH",
+    "showTopPosition": false,
+    "skills": [
+        "应用软件开发工程师"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "团建聚餐",
+        "节日福利",
+        "免费工装",
+        "全勤奖",
+        "零食下午茶",
+        "年终奖",
+        "生日福利",
+        "定期体检"
+    ]
 }

@@ -1,63 +1,63 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "青山区",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220217/607f1f3d68754fd0cdb632b14c0616223658958e1592cd50599785f47ade603728c0d23b748ec988_s.png",
-  "bossCert": 3,
-  "bossName": "李先生",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "仪器仪表/工业自动化",
-  "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-  "brandName": "武汉宝信",
-  "brandScaleName": "500-999人",
-  "brandStageName": "",
-  "businessDistrict": "厂前",
-  "city": 101200100,
-  "cityName": "武汉",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "1f754b1b770851e81nRz3dq1EVNX",
-  "encryptBrandId": "3317ae44c6c520531n142d26EFA~",
-  "encryptJobId": "22d3a84dbec078c61H143d21FlFT",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 114.437462,
-    "latitude": 30.620239
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 100902,
-  "isShield": 0,
-  "itemId": 187,
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "大专"
-  ],
-  "jobName": "自动化电气运维工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "1XNjTTx3uNT.search.187",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "7-9K",
-  "securityId": "R1dh0XOEO8iyN-K11EaxUNP_sacivxv9bArj6eXuVsdoyLkxBYBiiCqQxP6U7tLIKpxjWUvuphVoqLiJiJDo6SJRL3fxt3k_AlVSexRfbzw-iOtgEHaO",
-  "showTopPosition": false,
-  "skills": [
-    "PLC工程师",
-    "万用表"
-  ],
-  "welfareList": [],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "青山区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220217/607f1f3d68754fd0cdb632b14c0616223658958e1592cd50599785f47ade603728c0d23b748ec988_s.png",
+    "bossCert": 3,
+    "bossName": "李先生",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "武汉宝信",
+    "brandScaleName": "500-999人",
+    "brandStageName": "",
+    "businessDistrict": "厂前",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1f754b1b770851e81nRz3dq1EVNX",
+    "encryptBrandId": "3317ae44c6c520531n142d26EFA~",
+    "encryptJobId": "22d3a84dbec078c61H143d21FlFT",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.620239,
+        "longitude": 114.437462
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100902,
+    "isShield": 0,
+    "itemId": 187,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "自动化电气运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1XNjTTx3uNT.search.187",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "7-9K",
+    "securityId": "R1dh0XOEO8iyN-K11EaxUNP_sacivxv9bArj6eXuVsdoyLkxBYBiiCqQxP6U7tLIKpxjWUvuphVoqLiJiJDo6SJRL3fxt3k_AlVSexRfbzw-iOtgEHaO",
+    "showTopPosition": false,
+    "skills": [
+        "PLC工程师",
+        "万用表"
+    ],
+    "welfareList": []
 }

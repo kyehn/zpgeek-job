@@ -1,72 +1,72 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "吴中区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240306/607f1f3d68754fd09635a744064304cd8cf98f13c00e298ac2c47248a15ed392bd26d76426c44171_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "张晓恺",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "其他行业",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/a0d73c1fe77715b3c7da55b2a258155fcfcd208495d565ef66e7dff9f98764da.jpg",
-  "brandName": "科沃斯机器人有限公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "已上市",
-  "businessDistrict": "越溪",
-  "city": 101190400,
-  "cityName": "苏州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "2c15d5ff7ae95cf00nJ_3dy6GFVY",
-  "encryptBrandId": "f6cc6ecc88b89dc91HF53tq1",
-  "encryptJobId": "2411a8b4ed38347503V639q-FFpT",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.598334,
-    "latitude": 31.188305
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 101304,
-  "isShield": 0,
-  "itemId": 8,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "软件测试助理工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "4qrnn8EJFu0.search.8",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "4-5K",
-  "securityId": "xdL9PBaUI6Ob5-n1NME4hkwCd01Hjtuu8CwZGcVMI88WltilffN483rgiLMeQXyxaEvYmTDYDztx0WVafu1OVxn9WR5F5RtZ2nQSQq0LPQBySDg6uw02xArZwzxXXkmCLBvsY_v4Ajg_",
-  "showTopPosition": false,
-  "skills": [
-    "功能测试",
-    "性能测试"
-  ],
-  "welfareList": [
-    "五险一金",
-    "节日福利",
-    "交通补助",
-    "带薪年假",
-    "年终奖",
-    "餐补",
-    "定期体检",
-    "免费班车"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "吴中区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240306/607f1f3d68754fd09635a744064304cd8cf98f13c00e298ac2c47248a15ed392bd26d76426c44171_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "张晓恺",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "其他行业",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/a0d73c1fe77715b3c7da55b2a258155fcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "科沃斯机器人有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "越溪",
+    "city": 101190400,
+    "cityName": "苏州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "2c15d5ff7ae95cf00nJ_3dy6GFVY",
+    "encryptBrandId": "f6cc6ecc88b89dc91HF53tq1",
+    "encryptJobId": "2411a8b4ed38347503V639q-FFpT",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.188305,
+        "longitude": 120.598334
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 101304,
+    "isShield": 0,
+    "itemId": 8,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试助理工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4qrnn8EJFu0.search.8",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "4-5K",
+    "securityId": "xdL9PBaUI6Ob5-n1NME4hkwCd01Hjtuu8CwZGcVMI88WltilffN483rgiLMeQXyxaEvYmTDYDztx0WVafu1OVxn9WR5F5RtZ2nQSQq0LPQBySDg6uw02xArZwzxXXkmCLBvsY_v4Ajg_",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "性能测试"
+    ],
+    "welfareList": [
+        "五险一金",
+        "节日福利",
+        "交通补助",
+        "带薪年假",
+        "年终奖",
+        "餐补",
+        "定期体检",
+        "免费班车"
+    ]
 }

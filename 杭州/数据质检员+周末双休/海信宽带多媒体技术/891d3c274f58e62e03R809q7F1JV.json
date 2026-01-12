@@ -1,65 +1,65 @@
 {
-  "anonymous": 0,
-  "areaDistrict": "滨江区",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
-  "bossCert": 3,
-  "bossName": "陈博",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "仪器仪表/工业自动化",
-  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201117/65a0a8f2c47bd4df05be429fcac4dcccac96b4c9a8e9f6a248e7d018a8802a31.png",
-  "brandName": "海信宽带多媒体技术",
-  "brandScaleName": "10000人以上",
-  "brandStageName": "已上市",
-  "businessDistrict": "长河",
-  "city": 101210100,
-  "cityName": "杭州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "6ddb33de335d7f030XJ83NS8EVVR",
-  "encryptBrandId": "15be4c14c3e4ca461nZz296_E1U~",
-  "encryptJobId": "891d3c274f58e62e03R809q7F1JV",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.206548,
-    "latitude": 30.192655
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 100902,
-  "isShield": 0,
-  "itemId": 124,
-  "jobDegree": "本科",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "本科"
-  ],
-  "jobName": "数据质检员+周末双休",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "1YIzJrJqff8.search.124",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "4-5K",
-  "securityId": "P3S2j8asfQUvE-X1r0qZRBz-eswWl4FAXmlrwNh_HW3M_acEsUeCRu8-h5nC6XcZerfvplDsvUfagoGely5w1wgCQaLfI3dyoepFjzC4GQBVhPZ-5bru",
-  "showTopPosition": false,
-  "skills": [
-    "接受无数仓开发经验",
-    "计算机",
-    "数据质检",
-    "python"
-  ],
-  "welfareList": [],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "bossName": "陈博",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201117/65a0a8f2c47bd4df05be429fcac4dcccac96b4c9a8e9f6a248e7d018a8802a31.png",
+    "brandName": "海信宽带多媒体技术",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "6ddb33de335d7f030XJ83NS8EVVR",
+    "encryptBrandId": "15be4c14c3e4ca461nZz296_E1U~",
+    "encryptJobId": "891d3c274f58e62e03R809q7F1JV",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.192655,
+        "longitude": 120.206548
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100902,
+    "isShield": 0,
+    "itemId": 124,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "数据质检员+周末双休",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "1YIzJrJqff8.search.124",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "4-5K",
+    "securityId": "P3S2j8asfQUvE-X1r0qZRBz-eswWl4FAXmlrwNh_HW3M_acEsUeCRu8-h5nC6XcZerfvplDsvUfagoGely5w1wgCQaLfI3dyoepFjzC4GQBVhPZ-5bru",
+    "showTopPosition": false,
+    "skills": [
+        "接受无数仓开发经验",
+        "计算机",
+        "数据质检",
+        "python"
+    ],
+    "welfareList": []
 }

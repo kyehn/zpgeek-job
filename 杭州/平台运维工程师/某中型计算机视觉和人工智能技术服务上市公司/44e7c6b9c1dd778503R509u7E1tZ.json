@@ -1,75 +1,75 @@
 {
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220209/607f1f3d68754fd001b4e5ae42813886d27efca97bfb990d9350c7c946f8976ae9bc22aa680e7448_s.jpg",
-  "bossCert": 3,
-  "bossName": "李女士",
-  "bossOnline": true,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "计算机软件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某中型计算机视觉和人工智能技术服务上市公司",
-  "brandScaleName": "500-999人",
-  "brandStageName": "已上市",
-  "businessDistrict": "",
-  "city": 101210100,
-  "cityName": "杭州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "e395e38bc892fca81HF53tW0EFE~",
-  "encryptBrandId": "",
-  "encryptJobId": "44e7c6b9c1dd778503R509u7E1tZ",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.206742,
-    "latitude": 30.192733
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100021,
-  "isShield": 0,
-  "itemId": 87,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "平台运维工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "7ur30odiIMI.search.87",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "7-12K",
-  "securityId": "PDjW8wHfBibAT--1U7mFZA7CnxdpNGTK3-RUsQAqi06zQVYn1UBlFBP5C-rUMEdn8CIhmFEpTVokpUDp5HiwpWRO897-rt9J8fvp35wJuPfMEGzanAzrNARG7DAsBkS4niwD4ZooSGFj2o0ghQABpOUZtQC_aEO5-8dOMkBt4_YwlWW6",
-  "showTopPosition": false,
-  "skills": [
-    "IDC机房运维",
-    "运维经验"
-  ],
-  "welfareList": [
-    "带薪年假",
-    "定期体检",
-    "生日福利",
-    "股票期权",
-    "餐补",
-    "高温补贴",
-    "节日福利",
-    "团建聚餐",
-    "年终奖",
-    "补充医疗保险",
-    "五险一金"
-  ],
-  "afterNameIcons": [],
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220209/607f1f3d68754fd001b4e5ae42813886d27efca97bfb990d9350c7c946f8976ae9bc22aa680e7448_s.jpg",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": true,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某中型计算机视觉和人工智能技术服务上市公司",
+    "brandScaleName": "500-999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "e395e38bc892fca81HF53tW0EFE~",
+    "encryptBrandId": "",
+    "encryptJobId": "44e7c6b9c1dd778503R509u7E1tZ",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.192733,
+        "longitude": 120.206742
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 87,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "平台运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7ur30odiIMI.search.87",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "7-12K",
+    "securityId": "PDjW8wHfBibAT--1U7mFZA7CnxdpNGTK3-RUsQAqi06zQVYn1UBlFBP5C-rUMEdn8CIhmFEpTVokpUDp5HiwpWRO897-rt9J8fvp35wJuPfMEGzanAzrNARG7DAsBkS4niwD4ZooSGFj2o0ghQABpOUZtQC_aEO5-8dOMkBt4_YwlWW6",
+    "showTopPosition": false,
+    "skills": [
+        "IDC机房运维",
+        "运维经验"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "定期体检",
+        "生日福利",
+        "股票期权",
+        "餐补",
+        "高温补贴",
+        "节日福利",
+        "团建聚餐",
+        "年终奖",
+        "补充医疗保险",
+        "五险一金"
+    ]
 }

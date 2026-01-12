@@ -1,75 +1,75 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "黄浦区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
-  "bossCert": 3,
-  "bossName": "覃路",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220518/7bf6f160950405e9d414589b770d05b60f3346e5dcc71fc14e5f10961250af4f5fda1bc9a28e11f6.jpg",
-  "brandName": "携程集团",
-  "brandScaleName": "10000人以上",
-  "brandStageName": "已上市",
-  "businessDistrict": "人民广场",
-  "city": 101020100,
-  "cityName": "上海",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "941a9bf9d902829a0XJ42929GFtY",
-  "encryptBrandId": "ef2ede3e92bf51f91nV72966ElM~",
-  "encryptJobId": "690499ff36d37b7703Ry2N6_FlpW",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 121.475164,
-    "latitude": 31.228816
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 253,
-  "jobDegree": "大专",
-  "jobExperience": "在校/应届",
-  "jobLabels": [
-    "在校/应届",
-    "大专"
-  ],
-  "jobName": "酒店实习生（包吃包住）可转正，线上面试",
-  "jobType": 5,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "7SGuzCamxhN.search.253",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "3-4K",
-  "securityId": "yqkojHOC4hlhe-r1j6sDutMZkYW23GUWjN5qRv8lqeI3yhajb8fb00gChDHROTotKyfdfKf83nbaZ-pUboqy8NmI5O83wK9Yil2QQ-SRQsZnItFTvXqSUvbrR0T4B4bpzpYGXJWgRNU9Ygg~",
-  "showTopPosition": false,
-  "skills": [
-    "接待/外联",
-    "普通话标准",
-    "熟悉商务礼仪",
-    "亲和力强"
-  ],
-  "welfareList": [
-    "带薪年假",
-    "五险一金",
-    "混合办公",
-    "股票期权",
-    "定期体检",
-    "年终奖",
-    "补充医疗保险",
-    "员工旅游",
-    "节日福利"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "黄浦区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "bossName": "覃路",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220518/7bf6f160950405e9d414589b770d05b60f3346e5dcc71fc14e5f10961250af4f5fda1bc9a28e11f6.jpg",
+    "brandName": "携程集团",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "人民广场",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "941a9bf9d902829a0XJ42929GFtY",
+    "encryptBrandId": "ef2ede3e92bf51f91nV72966ElM~",
+    "encryptJobId": "690499ff36d37b7703Ry2N6_FlpW",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.228816,
+        "longitude": 121.475164
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 253,
+    "jobDegree": "大专",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobName": "酒店实习生（包吃包住）可转正，线上面试",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "7SGuzCamxhN.search.253",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "3-4K",
+    "securityId": "yqkojHOC4hlhe-r1j6sDutMZkYW23GUWjN5qRv8lqeI3yhajb8fb00gChDHROTotKyfdfKf83nbaZ-pUboqy8NmI5O83wK9Yil2QQ-SRQsZnItFTvXqSUvbrR0T4B4bpzpYGXJWgRNU9Ygg~",
+    "showTopPosition": false,
+    "skills": [
+        "接待/外联",
+        "普通话标准",
+        "熟悉商务礼仪",
+        "亲和力强"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "五险一金",
+        "混合办公",
+        "股票期权",
+        "定期体检",
+        "年终奖",
+        "补充医疗保险",
+        "员工旅游",
+        "节日福利"
+    ]
 }

@@ -1,74 +1,74 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/cy4fi6cada1655206055291.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220519/607f1f3d68754fd01892139bbcf14e957dd83cffa3fdc5610706e8f441c1d7760d954870898b39c5_s.png",
-  "bossCert": 3,
-  "bossName": "石亮峰",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "智能硬件/消费电子",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某大型跨国智能硬件公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "未融资",
-  "businessDistrict": "",
-  "city": 101210100,
-  "cityName": "杭州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "b942f746d51ecfd11nV809W1E1JU",
-  "encryptBrandId": "",
-  "encryptJobId": "b213b844512353bd03R-2dq4GVVZ",
-  "expectId": 0,
-  "goldHunter": 1,
-  "gps": {
-    "longitude": 120.247718,
-    "latitude": 30.203515
-  },
-  "iconFlagList": [
-    8
-  ],
-  "iconWord": "",
-  "industry": 101401,
-  "isShield": 0,
-  "itemId": 29,
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "大专"
-  ],
-  "jobName": "资深软件工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "54l3TMzIMZx.search.29",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "25-30K·15薪",
-  "securityId": "ZviJMwo6dwCTo-_1ZQ9telAUYGXycm4U6NRgzcuSoFAtm89ZWmobaKMPCl9jp_G-GxOoutE2_xzZGiLuPQ7Je6oqft7lfuIYY1RTz4_myi-nGUG6kA~~",
-  "showTopPosition": false,
-  "skills": [
-    "C",
-    "C++"
-  ],
-  "welfareList": [
-    "免费班车",
-    "节日福利",
-    "提供住宿",
-    "五险一金",
-    "夏季高温费",
-    "带薪年假",
-    "员工旅游",
-    "定期体检",
-    "年终奖",
-    "包吃"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/cy4fi6cada1655206055291.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220519/607f1f3d68754fd01892139bbcf14e957dd83cffa3fdc5610706e8f441c1d7760d954870898b39c5_s.png",
+    "bossCert": 3,
+    "bossName": "石亮峰",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "智能硬件/消费电子",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某大型跨国智能硬件公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b942f746d51ecfd11nV809W1E1JU",
+    "encryptBrandId": "",
+    "encryptJobId": "b213b844512353bd03R-2dq4GVVZ",
+    "expectId": 0,
+    "goldHunter": 1,
+    "gps": {
+        "latitude": 30.203515,
+        "longitude": 120.247718
+    },
+    "iconFlagList": [
+        8
+    ],
+    "iconWord": "",
+    "industry": 101401,
+    "isShield": 0,
+    "itemId": 29,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "资深软件工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "54l3TMzIMZx.search.29",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "25-30K·15薪",
+    "securityId": "ZviJMwo6dwCTo-_1ZQ9telAUYGXycm4U6NRgzcuSoFAtm89ZWmobaKMPCl9jp_G-GxOoutE2_xzZGiLuPQ7Je6oqft7lfuIYY1RTz4_myi-nGUG6kA~~",
+    "showTopPosition": false,
+    "skills": [
+        "C",
+        "C++"
+    ],
+    "welfareList": [
+        "免费班车",
+        "节日福利",
+        "提供住宿",
+        "五险一金",
+        "夏季高温费",
+        "带薪年假",
+        "员工旅游",
+        "定期体检",
+        "年终奖",
+        "包吃"
+    ]
 }

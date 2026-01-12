@@ -1,75 +1,75 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "玄武区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240418/607f1f3d68754fd0a907e5a2c01d43737144eb08fcccdbc91e9620fef19af90899b32e1b4e3de3cc_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "李女士",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "电子商务",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170428/6d0d6edbd66dc41353f0c642e1bf34596ea56edc4b11252e3b20975853f88e16.jpg",
-  "brandName": "苏宁易购",
-  "brandScaleName": "10000人以上",
-  "brandStageName": "已上市",
-  "businessDistrict": "",
-  "city": 101190100,
-  "cityName": "南京",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "992e392a8c9f5b180nJ63ti0F1BR",
-  "encryptBrandId": "5725deeef84262de1nJz2A~~",
-  "encryptJobId": "af9a5c03fa9b8b391HJ609i4ElBT",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 118.8866,
-    "latitude": 32.09003
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 100001,
-  "isShield": 0,
-  "itemId": 256,
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "大专"
-  ],
-  "jobName": "订单运营专员",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "29LfakHVkFA.search.256",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "4-6K",
-  "securityId": "yTqu4kHlIqL4I-Z1ttDAW_7wCNqOO2VJ7_t17sIhPz1Mqha3KIdEqjy1tz9TmR1e_pviAK-0VSqioStx0mU2rFcsGb9vF7aE4uCbgdPAiTX78EE~",
-  "showTopPosition": false,
-  "skills": [
-    "订单客服",
-    "售后客服",
-    "熟练使用办公软件",
-    "不含销售的客服工作",
-    "正常工作制"
-  ],
-  "welfareList": [
-    "加班补助",
-    "带薪年假",
-    "年终奖",
-    "五险一金",
-    "餐补",
-    "通讯补贴",
-    "交通补助",
-    "节日福利"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "玄武区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240418/607f1f3d68754fd0a907e5a2c01d43737144eb08fcccdbc91e9620fef19af90899b32e1b4e3de3cc_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "李女士",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "电子商务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170428/6d0d6edbd66dc41353f0c642e1bf34596ea56edc4b11252e3b20975853f88e16.jpg",
+    "brandName": "苏宁易购",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "992e392a8c9f5b180nJ63ti0F1BR",
+    "encryptBrandId": "5725deeef84262de1nJz2A~~",
+    "encryptJobId": "af9a5c03fa9b8b391HJ609i4ElBT",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 32.09003,
+        "longitude": 118.8866
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100001,
+    "isShield": 0,
+    "itemId": 256,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "订单运营专员",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "29LfakHVkFA.search.256",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "4-6K",
+    "securityId": "yTqu4kHlIqL4I-Z1ttDAW_7wCNqOO2VJ7_t17sIhPz1Mqha3KIdEqjy1tz9TmR1e_pviAK-0VSqioStx0mU2rFcsGb9vF7aE4uCbgdPAiTX78EE~",
+    "showTopPosition": false,
+    "skills": [
+        "订单客服",
+        "售后客服",
+        "熟练使用办公软件",
+        "不含销售的客服工作",
+        "正常工作制"
+    ],
+    "welfareList": [
+        "加班补助",
+        "带薪年假",
+        "年终奖",
+        "五险一金",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+    ]
 }

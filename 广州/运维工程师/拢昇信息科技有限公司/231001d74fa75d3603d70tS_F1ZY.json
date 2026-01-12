@@ -1,21 +1,21 @@
 {
-  "areaDistrict": "番禺区",
-  "bossName": "练女士",
-  "bossTitle": "人事专员",
-  "brandIndustry": "互联网金融",
-  "brandName": "拢昇信息科技有限公司",
-  "brandScaleName": "100-499人",
-  "businessDistrict": "大石",
-  "cityName": "广州",
-  "contact": false,
-  "encryptJobId": "231001d74fa75d3603d70tS_F1ZY",
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobName": "运维工程师",
-  "salaryDesc": "7-10K",
-  "skills": [
-    "Python/Shell",
-    "计算机相关专业",
-    "cloudflard"
-  ]
+    "areaDistrict": "番禺区",
+    "bossName": "练女士",
+    "bossTitle": "人事专员",
+    "brandIndustry": "互联网金融",
+    "brandName": "拢昇信息科技有限公司",
+    "brandScaleName": "100-499人",
+    "businessDistrict": "大石",
+    "cityName": "广州",
+    "contact": false,
+    "encryptJobId": "231001d74fa75d3603d70tS_F1ZY",
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobName": "运维工程师",
+    "salaryDesc": "7-10K",
+    "skills": [
+        "Python/Shell",
+        "计算机相关专业",
+        "cloudflard"
+    ]
 }

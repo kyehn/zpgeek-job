@@ -1,72 +1,72 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240617/607f1f3d68754fd0bd466c80f62293005837e7e1c4a4689c6d29928808363221f867a383e0449e95_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "郑思俊",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某中型互联网灵活用工服务平台公司",
-  "brandScaleName": "100-499人",
-  "brandStageName": "A轮",
-  "businessDistrict": "",
-  "city": 101020100,
-  "cityName": "上海",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "d25f82fbb17881c00XFz39S-FlNX",
-  "encryptBrandId": "",
-  "encryptJobId": "ed6b27ddc3e2208203d63dy5FFpQ",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 121.409616,
-    "latitude": 31.17985
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100020,
-  "isShield": 0,
-  "itemId": 89,
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "大专"
-  ],
-  "jobName": "上海充电站值守人员短期兼职（2天）",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "aG2apEmfLFc.search.89",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "3-4K",
-  "securityId": "ktZu_2J4XeqN3-k1ozyIs5zn7g9J27AtmFrMTjZrefy7dfRaaeUzmP-umd5JBj9B4ZzrYT6CWr5Yt_LNDFOMLhIvRnpT3OZ0hCyls1OLzb09UZnEYqSx",
-  "showTopPosition": false,
-  "skills": [
-    "对充电桩了解"
-  ],
-  "welfareList": [
-    "定期体检",
-    "保底工资",
-    "团建聚餐",
-    "带薪年假",
-    "底薪加提成",
-    "节日福利",
-    "绩效奖金",
-    "生日福利",
-    "五险一金"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240617/607f1f3d68754fd0bd466c80f62293005837e7e1c4a4689c6d29928808363221f867a383e0449e95_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "郑思俊",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某中型互联网灵活用工服务平台公司",
+    "brandScaleName": "100-499人",
+    "brandStageName": "A轮",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "d25f82fbb17881c00XFz39S-FlNX",
+    "encryptBrandId": "",
+    "encryptJobId": "ed6b27ddc3e2208203d63dy5FFpQ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.17985,
+        "longitude": 121.409616
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 89,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "上海充电站值守人员短期兼职（2天）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "aG2apEmfLFc.search.89",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "3-4K",
+    "securityId": "ktZu_2J4XeqN3-k1ozyIs5zn7g9J27AtmFrMTjZrefy7dfRaaeUzmP-umd5JBj9B4ZzrYT6CWr5Yt_LNDFOMLhIvRnpT3OZ0hCyls1OLzb09UZnEYqSx",
+    "showTopPosition": false,
+    "skills": [
+        "对充电桩了解"
+    ],
+    "welfareList": [
+        "定期体检",
+        "保底工资",
+        "团建聚餐",
+        "带薪年假",
+        "底薪加提成",
+        "节日福利",
+        "绩效奖金",
+        "生日福利",
+        "五险一金"
+    ]
 }

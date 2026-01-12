@@ -1,73 +1,73 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
-  "bossCert": 3,
-  "bossName": "易登峰",
-  "bossOnline": true,
-  "bossTitle": "校招经理",
-  "brandIndustry": "医疗健康",
-  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220117/7bf6f160950405e9db0515c5f9cc974d3c88a601678c7b80ce77b500d49fd518a5f6a332d57a3bb2.jpg",
-  "brandName": "九州通",
-  "brandScaleName": "10000人以上",
-  "brandStageName": "已上市",
-  "businessDistrict": "",
-  "city": 101210100,
-  "cityName": "杭州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "8fc0f2c2376291b70nB_39S8GFZX",
-  "encryptBrandId": "001925259bd2e5b41XR42d24GVs~",
-  "encryptJobId": "5d77e8dcaee7555303Z_29i1F1NV",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.081968,
-    "latitude": 30.302257
-  },
-  "iconFlagList": [
-    38
-  ],
-  "iconWord": "",
-  "industry": 100006,
-  "isShield": 0,
-  "itemId": 270,
-  "jobDegree": "本科",
-  "jobExperience": "在校/应届",
-  "jobLabels": [
-    "在校/应届",
-    "本科"
-  ],
-  "jobName": "(376331)采购业务岗（浙江）",
-  "jobType": 5,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "6Q1okgbzNiB.search.270",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 0,
-  "proxyType": 0,
-  "salaryDesc": "面议",
-  "securityId": "e6RvrYqSoIYBP-o1wkbf9BQSsSkzFzmN6ko13FAL-UOxDdr5Y8Es8Rf6NEOWuezvPOCbehVJEP0ZkaEP3bHejzfsGOtImHNclP-cpacmJEZIy7Fov3gj_k31yDzBrrwjp8dptwzt-4Y6qUj945tS0QSj8lCxq4OmXKC_bf83FJDuhoiSXM8~",
-  "showTopPosition": false,
-  "skills": [
-    "校招"
-  ],
-  "welfareList": [
-    "年终奖",
-    "带薪年假",
-    "节日福利",
-    "定期体检",
-    "交通补助",
-    "包吃",
-    "通讯补贴",
-    "股票期权",
-    "绩效奖金",
-    "五险一金"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "bossName": "易登峰",
+    "bossOnline": true,
+    "bossTitle": "校招经理",
+    "brandIndustry": "医疗健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220117/7bf6f160950405e9db0515c5f9cc974d3c88a601678c7b80ce77b500d49fd518a5f6a332d57a3bb2.jpg",
+    "brandName": "九州通",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "8fc0f2c2376291b70nB_39S8GFZX",
+    "encryptBrandId": "001925259bd2e5b41XR42d24GVs~",
+    "encryptJobId": "5d77e8dcaee7555303Z_29i1F1NV",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.302257,
+        "longitude": 120.081968
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 100006,
+    "isShield": 0,
+    "itemId": 270,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "(376331)采购业务岗（浙江）",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "6Q1okgbzNiB.search.270",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "面议",
+    "securityId": "e6RvrYqSoIYBP-o1wkbf9BQSsSkzFzmN6ko13FAL-UOxDdr5Y8Es8Rf6NEOWuezvPOCbehVJEP0ZkaEP3bHejzfsGOtImHNclP-cpacmJEZIy7Fov3gj_k31yDzBrrwjp8dptwzt-4Y6qUj945tS0QSj8lCxq4OmXKC_bf83FJDuhoiSXM8~",
+    "showTopPosition": false,
+    "skills": [
+        "校招"
+    ],
+    "welfareList": [
+        "年终奖",
+        "带薪年假",
+        "节日福利",
+        "定期体检",
+        "交通补助",
+        "包吃",
+        "通讯补贴",
+        "股票期权",
+        "绩效奖金",
+        "五险一金"
+    ]
 }

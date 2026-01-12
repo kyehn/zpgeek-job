@@ -1,74 +1,74 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "越秀区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201105/d6fee97d3243b0b7188fe0ad5e8e0ba608ffb990407475d4f3d950b3a5b17648_s.jpg",
-  "bossCert": 3,
-  "bossName": "陈天宇",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "电力/热力/燃气/水利",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
-  "brandName": "南方电网",
-  "brandScaleName": "100-499人",
-  "brandStageName": "",
-  "businessDistrict": "东风中路",
-  "city": 101280100,
-  "cityName": "广州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "16c9ba166a8751ae0nR839q7EFdQ",
-  "encryptBrandId": "ea823880cb453ac21nF63tS1EVc~",
-  "encryptJobId": "f761e3f6e6cd567d03Zz3d6_FVNX",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 113.30593,
-    "latitude": 23.130838
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 101205,
-  "isShield": 0,
-  "itemId": 240,
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "本科"
-  ],
-  "jobName": "软件性能评测岗（6-9k+六险一金+补贴）",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "aGTuOQNTa96.search.240",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "6-9K",
-  "securityId": "aKcOQCyWRGeQP-c14XfHQdwo027EVJLSVR7UCiOOxrGAJLDkZwHdrFQqypz8ARQ0d_y4Q1d3EoCBT_fcgKiTfNVBfLen97Bsf9s5EyTxf0nPpozMBL2I",
-  "showTopPosition": false,
-  "skills": [
-    "性能测试",
-    "测试工作经验",
-    "自动化测试经验",
-    "了解电力设备及相关",
-    "软件自动化测试建设",
-    "软件测试经验优先"
-  ],
-  "welfareList": [
-    "定期体检",
-    "餐补",
-    "加班补助",
-    "五险一金",
-    "住房补贴",
-    "补充医疗保险"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "越秀区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201105/d6fee97d3243b0b7188fe0ad5e8e0ba608ffb990407475d4f3d950b3a5b17648_s.jpg",
+    "bossCert": 3,
+    "bossName": "陈天宇",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "电力/热力/燃气/水利",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "南方电网",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "东风中路",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "16c9ba166a8751ae0nR839q7EFdQ",
+    "encryptBrandId": "ea823880cb453ac21nF63tS1EVc~",
+    "encryptJobId": "f761e3f6e6cd567d03Zz3d6_FVNX",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.130838,
+        "longitude": 113.30593
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 101205,
+    "isShield": 0,
+    "itemId": 240,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件性能评测岗（6-9k+六险一金+补贴）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "aGTuOQNTa96.search.240",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "6-9K",
+    "securityId": "aKcOQCyWRGeQP-c14XfHQdwo027EVJLSVR7UCiOOxrGAJLDkZwHdrFQqypz8ARQ0d_y4Q1d3EoCBT_fcgKiTfNVBfLen97Bsf9s5EyTxf0nPpozMBL2I",
+    "showTopPosition": false,
+    "skills": [
+        "性能测试",
+        "测试工作经验",
+        "自动化测试经验",
+        "了解电力设备及相关",
+        "软件自动化测试建设",
+        "软件测试经验优先"
+    ],
+    "welfareList": [
+        "定期体检",
+        "餐补",
+        "加班补助",
+        "五险一金",
+        "住房补贴",
+        "补充医疗保险"
+    ]
 }

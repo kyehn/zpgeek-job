@@ -1,73 +1,73 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "滨江区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230412/607f1f3d68754fd0249ff876623a3c50b56efe49cbb5ec66e0dfb6fb351854db9d0dc84f50508001_s.png",
-  "bossCert": 3,
-  "bossName": "周女士",
-  "bossOnline": true,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "游戏",
-  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220121/7bf6f160950405e908a058c59395b3392235e91c99eb81bbeec95391b79e2fe0a937976dad7154a6.jpg",
-  "brandName": "游卡",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "不需要融资",
-  "businessDistrict": "长河",
-  "city": 101210100,
-  "cityName": "杭州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "9aac3a6975e31b190nF83NW0GFU~",
-  "encryptBrandId": "9d6aee416ea608a01XF43tm-",
-  "encryptJobId": "ab674280dbc3778903Ry3N2_FlVQ",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 120.205266,
-    "latitude": 30.195259
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100002,
-  "isShield": 0,
-  "itemId": 11,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "软件测试",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "35J6LPH53eX.search.11",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "8-12K·13薪",
-  "securityId": "kwTY2vWiv37gB-v1hXFTpF4h8U5ybQ0WegJffOn8dyP51bIrDaSnFP_MRwFGIObmaySYavjsmPrjTsXFct1sz1-ZBkLuJFVv1MwVTslKYtwTDDcPeiffqFMJEzdmD6dL3JtVDw5e-pRPBqNYBxUM",
-  "showTopPosition": false,
-  "skills": [
-    "功能测试",
-    "计算机相关专业"
-  ],
-  "welfareList": [
-    "补充医疗保险",
-    "年终奖",
-    "定期体检",
-    "零食下午茶",
-    "员工旅游",
-    "节日福利",
-    "带薪年假",
-    "餐补",
-    "五险一金"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230412/607f1f3d68754fd0249ff876623a3c50b56efe49cbb5ec66e0dfb6fb351854db9d0dc84f50508001_s.png",
+    "bossCert": 3,
+    "bossName": "周女士",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "游戏",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220121/7bf6f160950405e908a058c59395b3392235e91c99eb81bbeec95391b79e2fe0a937976dad7154a6.jpg",
+    "brandName": "游卡",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9aac3a6975e31b190nF83NW0GFU~",
+    "encryptBrandId": "9d6aee416ea608a01XF43tm-",
+    "encryptJobId": "ab674280dbc3778903Ry3N2_FlVQ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.195259,
+        "longitude": 120.205266
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100002,
+    "isShield": 0,
+    "itemId": 11,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "软件测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "35J6LPH53eX.search.11",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "8-12K·13薪",
+    "securityId": "kwTY2vWiv37gB-v1hXFTpF4h8U5ybQ0WegJffOn8dyP51bIrDaSnFP_MRwFGIObmaySYavjsmPrjTsXFct1sz1-ZBkLuJFVv1MwVTslKYtwTDDcPeiffqFMJEzdmD6dL3JtVDw5e-pRPBqNYBxUM",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "年终奖",
+        "定期体检",
+        "零食下午茶",
+        "员工旅游",
+        "节日福利",
+        "带薪年假",
+        "餐补",
+        "五险一金"
+    ]
 }

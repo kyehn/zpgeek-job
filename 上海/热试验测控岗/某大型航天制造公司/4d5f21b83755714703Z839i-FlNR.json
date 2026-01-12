@@ -1,62 +1,62 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 23,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.dianzhangzhipin.com/dz/file/dz_head_stand_def_woman@3x.png?x-oss-process=image/resize,w_200",
-  "bossCert": 3,
-  "bossName": "郭辛茹",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "铁路/船舶/航空/航天制造",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某大型航天制造公司",
-  "brandScaleName": "100-499人",
-  "brandStageName": "",
-  "businessDistrict": "",
-  "city": 101020100,
-  "cityName": "上海",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "008e8068d5f970370nB72tW-GFRQ",
-  "encryptBrandId": "",
-  "encryptJobId": "4d5f21b83755714703Z839i-FlNR",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 121.392798,
-    "latitude": 31.016519
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100905,
-  "isShield": 0,
-  "itemId": 17,
-  "jobDegree": "本科",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "本科"
-  ],
-  "jobName": "热试验测控岗",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "aFEouGZQG6Q.search.17",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "6-10K·13薪",
-  "securityId": "lVgQ4iZZtNXFE-K16hlbQr8coeb-scg75wM0q42_5ZySBuypQIObu8CxT4-C-u_AmyPUzDn6UaxH0_FptLfwG4qDWqidPgSbV6iS271jM654WgWfmWT8",
-  "showTopPosition": false,
-  "skills": [
-    "试验岗位"
-  ],
-  "welfareList": []
+    "afterNameIcons": [],
+    "anonymous": 23,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.dianzhangzhipin.com/dz/file/dz_head_stand_def_woman@3x.png?x-oss-process=image/resize,w_200",
+    "bossCert": 3,
+    "bossName": "郭辛茹",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "铁路/船舶/航空/航天制造",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某大型航天制造公司",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "008e8068d5f970370nB72tW-GFRQ",
+    "encryptBrandId": "",
+    "encryptJobId": "4d5f21b83755714703Z839i-FlNR",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.016519,
+        "longitude": 121.392798
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100905,
+    "isShield": 0,
+    "itemId": 17,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "热试验测控岗",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "aFEouGZQG6Q.search.17",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "6-10K·13薪",
+    "securityId": "lVgQ4iZZtNXFE-K16hlbQr8coeb-scg75wM0q42_5ZySBuypQIObu8CxT4-C-u_AmyPUzDn6UaxH0_FptLfwG4qDWqidPgSbV6iS271jM654WgWfmWT8",
+    "showTopPosition": false,
+    "skills": [
+        "试验岗位"
+    ],
+    "welfareList": []
 }

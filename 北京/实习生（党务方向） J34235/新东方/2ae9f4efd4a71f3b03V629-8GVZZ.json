@@ -1,72 +1,72 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200212/1c938a225dd883cbd6bda43a618772c5547f79fcd0c9291cd752db1fa67273b6_s.jpg",
-  "bossCert": 3,
-  "bossName": "胡女士",
-  "bossOnline": false,
-  "bossTitle": "招聘者",
-  "brandIndustry": "在线教育",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/41792219759e470776e4f7d43f2303dacfcd208495d565ef66e7dff9f98764da.jpg",
-  "brandName": "新东方",
-  "brandScaleName": "10000人以上",
-  "brandStageName": "已上市",
-  "businessDistrict": "",
-  "city": 101010100,
-  "cityName": "北京",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "1f9a2abd79d23b0a1XF73NW5Ew~~",
-  "encryptBrandId": "78d37a40ee3fb9150HVz39S5Ew~~",
-  "encryptJobId": "2ae9f4efd4a71f3b03V629-8GVZZ",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 116.312032,
-    "latitude": 39.980907
-  },
-  "iconFlagList": [
-    38
-  ],
-  "iconWord": "",
-  "industry": 100012,
-  "isShield": 0,
-  "itemId": 265,
-  "jobDegree": "本科",
-  "jobExperience": "在校/应届",
-  "jobLabels": [
-    "在校/应届",
-    "本科"
-  ],
-  "jobName": "实习生（党务方向） J34235",
-  "jobType": 5,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "fm87jJqtbP.search.265",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 0,
-  "proxyType": 0,
-  "salaryDesc": "3-4K",
-  "securityId": "o6hKIAb48nmuv-i19gfgFYt4DiY7p9P06kXPfEiLkVRLQSwU1_k92U9wUNlEtP-i9R6uHa_x0SuTwsEh9yEXgbx3Lii7WBOA2sLB_hrB82JjAA9V",
-  "showTopPosition": false,
-  "skills": [
-    "教育培训",
-    "公众号/朋友圈运营",
-    "后期剪辑"
-  ],
-  "welfareList": [
-    "年终奖",
-    "定期体检",
-    "五险一金",
-    "带薪年假",
-    "节日福利",
-    "餐补",
-    "员工旅游"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2024/qziab57bh71734430084277.png.webp"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200212/1c938a225dd883cbd6bda43a618772c5547f79fcd0c9291cd752db1fa67273b6_s.jpg",
+    "bossCert": 3,
+    "bossName": "胡女士",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "在线教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/41792219759e470776e4f7d43f2303dacfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "新东方",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "已上市",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "1f9a2abd79d23b0a1XF73NW5Ew~~",
+    "encryptBrandId": "78d37a40ee3fb9150HVz39S5Ew~~",
+    "encryptJobId": "2ae9f4efd4a71f3b03V629-8GVZZ",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.980907,
+        "longitude": 116.312032
+    },
+    "iconFlagList": [
+        38
+    ],
+    "iconWord": "",
+    "industry": 100012,
+    "isShield": 0,
+    "itemId": 265,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "实习生（党务方向） J34235",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "fm87jJqtbP.search.265",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "o6hKIAb48nmuv-i19gfgFYt4DiY7p9P06kXPfEiLkVRLQSwU1_k92U9wUNlEtP-i9R6uHa_x0SuTwsEh9yEXgbx3Lii7WBOA2sLB_hrB82JjAA9V",
+    "showTopPosition": false,
+    "skills": [
+        "教育培训",
+        "公众号/朋友圈运营",
+        "后期剪辑"
+    ],
+    "welfareList": [
+        "年终奖",
+        "定期体检",
+        "五险一金",
+        "带薪年假",
+        "节日福利",
+        "餐补",
+        "员工旅游"
+    ]
 }

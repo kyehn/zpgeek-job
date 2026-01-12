@@ -1,63 +1,63 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "蔡甸区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240828/607f1f3d68754fd076c9657601819eaff9feeb2f70cb63dd693e8296b2b26af7238adde54e697ee9_s.jpg.webp",
-  "bossCert": 3,
-  "bossName": "陈女士",
-  "bossOnline": false,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "计算机软件",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
-  "brandName": "北京百度在线网络技术",
-  "brandScaleName": "100-499人",
-  "brandStageName": "",
-  "businessDistrict": "沌口",
-  "city": 101200100,
-  "cityName": "武汉",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "ed585c8dc1766c020XZ80ty1GFRZ",
-  "encryptBrandId": "0190af05b4c18f941XB_29W_FVA~",
-  "encryptJobId": "52f10589398fb7a403V729W_GVBU",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 114.161696,
-    "latitude": 30.452481
-  },
-  "iconFlagList": [
-    3
-  ],
-  "iconWord": "",
-  "industry": 100021,
-  "isShield": 0,
-  "itemId": 294,
-  "jobDegree": "大专",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "大专"
-  ],
-  "jobName": "车载测试工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "35cng51irRu.search.294",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 3,
-  "salaryDesc": "6-7K",
-  "securityId": "kOVbMXi0naCfH-n13oK8U5wKBi7XK8NWYrVYSM7zlv9x4IScSbqBCbjt9ZwpxvJ9trxoUjuXWpg6j1JoU45qEFXIqxoPPxYryherPMatmnNI73kZOoj2",
-  "showTopPosition": false,
-  "skills": [
-    "Python",
-    "数据分析"
-  ],
-  "welfareList": []
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "蔡甸区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/6zb0e7e8qm1655206107975.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240828/607f1f3d68754fd076c9657601819eaff9feeb2f70cb63dd693e8296b2b26af7238adde54e697ee9_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "陈女士",
+    "bossOnline": false,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandName": "北京百度在线网络技术",
+    "brandScaleName": "100-499人",
+    "brandStageName": "",
+    "businessDistrict": "沌口",
+    "city": 101200100,
+    "cityName": "武汉",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ed585c8dc1766c020XZ80ty1GFRZ",
+    "encryptBrandId": "0190af05b4c18f941XB_29W_FVA~",
+    "encryptJobId": "52f10589398fb7a403V729W_GVBU",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.452481,
+        "longitude": 114.161696
+    },
+    "iconFlagList": [
+        3
+    ],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 294,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "车载测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "35cng51irRu.search.294",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 3,
+    "salaryDesc": "6-7K",
+    "securityId": "kOVbMXi0naCfH-n13oK8U5wKBi7XK8NWYrVYSM7zlv9x4IScSbqBCbjt9ZwpxvJ9trxoUjuXWpg6j1JoU45qEFXIqxoPPxYryherPMatmnNI73kZOoj2",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "数据分析"
+    ],
+    "welfareList": []
 }

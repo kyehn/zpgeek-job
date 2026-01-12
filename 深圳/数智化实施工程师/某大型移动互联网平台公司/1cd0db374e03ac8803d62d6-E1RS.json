@@ -1,65 +1,65 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
-  "bossCert": 3,
-  "bossName": "李珠琳",
-  "bossOnline": true,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "移动互联网",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某大型移动互联网平台公司",
-  "brandScaleName": "10000人以上",
-  "brandStageName": "",
-  "businessDistrict": "",
-  "city": 101280600,
-  "cityName": "深圳",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "0ca7eba7d3d6a65a0HR60tS6FFdR",
-  "encryptBrandId": "",
-  "encryptJobId": "1cd0db374e03ac8803d62d6-E1RS",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 114.109823,
-    "latitude": 22.543432
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100019,
-  "isShield": 0,
-  "itemId": 56,
-  "jobDegree": "本科",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "本科"
-  ],
-  "jobName": "数智化实施工程师",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "aPFW2RXf9Mx.search.56",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "6-11K·13薪",
-  "securityId": "vuHXtnCTjPXcy-Y1rrCgT8BMVdJfv0mLmydCYjXLpvTbOVgqjWs7Mol7kz0n0rwR6Vp72k_cIPquZlF88XaH1mv6xy2IAte7w2KWsmLUqxZ-Ra53HVqQkKj5ir21eI8RXWNRvepJXwZMJpue5cEAaQ~~",
-  "showTopPosition": false,
-  "skills": [
-    "ERP",
-    "CRM",
-    "计算机相关专业",
-    "软件实施经验"
-  ],
-  "welfareList": []
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "李珠琳",
+    "bossOnline": true,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "移动互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某大型移动互联网平台公司",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0ca7eba7d3d6a65a0HR60tS6FFdR",
+    "encryptBrandId": "",
+    "encryptJobId": "1cd0db374e03ac8803d62d6-E1RS",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.543432,
+        "longitude": 114.109823
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100019,
+    "isShield": 0,
+    "itemId": 56,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "数智化实施工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "aPFW2RXf9Mx.search.56",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "6-11K·13薪",
+    "securityId": "vuHXtnCTjPXcy-Y1rrCgT8BMVdJfv0mLmydCYjXLpvTbOVgqjWs7Mol7kz0n0rwR6Vp72k_cIPquZlF88XaH1mv6xy2IAte7w2KWsmLUqxZ-Ra53HVqQkKj5ir21eI8RXWNRvepJXwZMJpue5cEAaQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "ERP",
+        "CRM",
+        "计算机相关专业",
+        "软件实施经验"
+    ],
+    "welfareList": []
 }

@@ -1,21 +1,21 @@
 {
-  "areaDistrict": "双流区",
-  "bossName": "马女士",
-  "bossTitle": "人事行政",
-  "brandIndustry": "企业服务",
-  "brandName": "企云方",
-  "brandScaleName": "100-499人",
-  "businessDistrict": "新兴",
-  "cityName": "成都",
-  "contact": false,
-  "encryptJobId": "03f6cce3a84593ad1HB_0ti0GFBQ",
-  "jobDegree": "本科",
-  "jobExperience": "经验不限",
-  "jobName": "财务实施顾问",
-  "salaryDesc": "9-14K",
-  "skills": [
-    "计算机相关专业",
-    "财务相关专业",
-    "软件实施经验"
-  ]
+    "areaDistrict": "双流区",
+    "bossName": "马女士",
+    "bossTitle": "人事行政",
+    "brandIndustry": "企业服务",
+    "brandName": "企云方",
+    "brandScaleName": "100-499人",
+    "businessDistrict": "新兴",
+    "cityName": "成都",
+    "contact": false,
+    "encryptJobId": "03f6cce3a84593ad1HB_0ti0GFBQ",
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobName": "财务实施顾问",
+    "salaryDesc": "9-14K",
+    "skills": [
+        "计算机相关专业",
+        "财务相关专业",
+        "软件实施经验"
+    ]
 }

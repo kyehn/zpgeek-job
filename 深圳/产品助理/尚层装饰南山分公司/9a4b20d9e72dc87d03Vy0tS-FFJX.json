@@ -1,21 +1,21 @@
 {
-  "areaDistrict": "南山区",
-  "bossName": "陈女士",
-  "bossTitle": "设计师",
-  "brandIndustry": "装修装饰",
-  "brandName": "尚层装饰南山分公司",
-  "brandScaleName": "1000-9999人",
-  "businessDistrict": "科技园",
-  "cityName": "深圳",
-  "contact": false,
-  "encryptJobId": "9a4b20d9e72dc87d03Vy0tS-FFJX",
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobName": "产品助理",
-  "salaryDesc": "2-5K",
-  "skills": [
-    "接受实习/在校生投递",
-    "用户产品",
-    "细心 负责"
-  ]
+    "areaDistrict": "南山区",
+    "bossName": "陈女士",
+    "bossTitle": "设计师",
+    "brandIndustry": "装修装饰",
+    "brandName": "尚层装饰南山分公司",
+    "brandScaleName": "1000-9999人",
+    "businessDistrict": "科技园",
+    "cityName": "深圳",
+    "contact": false,
+    "encryptJobId": "9a4b20d9e72dc87d03Vy0tS-FFJX",
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobName": "产品助理",
+    "salaryDesc": "2-5K",
+    "skills": [
+        "接受实习/在校生投递",
+        "用户产品",
+        "细心 负责"
+    ]
 }

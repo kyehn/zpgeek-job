@@ -1,63 +1,63 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20201207/c57a767e6ddd5b7b6873ec06169d843de6052d420f232dff20c8beabff9eaca3_s.jpg",
-  "bossCert": 3,
-  "bossName": "王洋硕",
-  "bossOnline": true,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "半导体/芯片",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某中型半导体/芯片公司",
-  "brandScaleName": "500-999人",
-  "brandStageName": "",
-  "businessDistrict": "",
-  "city": 101010100,
-  "cityName": "北京",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "fbf0971b43619b050HF_2t20F1U~",
-  "encryptBrandId": "",
-  "encryptJobId": "fd077851dfb0b34103V60924GFZU",
-  "expectId": 1077417861,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 116.502802,
-    "latitude": 39.963298
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 101405,
-  "isShield": 0,
-  "itemId": 124,
-  "jobDegree": "本科",
-  "jobExperience": "1年以内",
-  "jobLabels": [
-    "1年以内",
-    "本科"
-  ],
-  "jobName": "招投标实习生",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "3RDmyf6odNK.search.124",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "3-6K",
-  "securityId": "JfqUTNOgkJcUD-M10_br1d2lGAVUEoQ7S5MYvAfDSEIwDW4Iqv-PKerDFQwR1aixnpq9XNleiJH799H72i50WpJevhSlGM8x1pKAUvHxV0lIZvtz5sbq8CCSO7PzQI-Oc5nITsVNIkKkS257F22p-JJ1q80GmGn4uD5zvFCJxGiyr3Oc4A~~",
-  "showTopPosition": false,
-  "skills": [
-    "招投标",
-    "实习"
-  ],
-  "welfareList": []
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20201207/c57a767e6ddd5b7b6873ec06169d843de6052d420f232dff20c8beabff9eaca3_s.jpg",
+    "bossCert": 3,
+    "bossName": "王洋硕",
+    "bossOnline": true,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "半导体/芯片",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某中型半导体/芯片公司",
+    "brandScaleName": "500-999人",
+    "brandStageName": "",
+    "businessDistrict": "",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fbf0971b43619b050HF_2t20F1U~",
+    "encryptBrandId": "",
+    "encryptJobId": "fd077851dfb0b34103V60924GFZU",
+    "expectId": 1077417861,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.963298,
+        "longitude": 116.502802
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 101405,
+    "isShield": 0,
+    "itemId": 124,
+    "jobDegree": "本科",
+    "jobExperience": "1年以内",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobName": "招投标实习生",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "3RDmyf6odNK.search.124",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "3-6K",
+    "securityId": "JfqUTNOgkJcUD-M10_br1d2lGAVUEoQ7S5MYvAfDSEIwDW4Iqv-PKerDFQwR1aixnpq9XNleiJH799H72i50WpJevhSlGM8x1pKAUvHxV0lIZvtz5sbq8CCSO7PzQI-Oc5nITsVNIkKkS257F22p-JJ1q80GmGn4uD5zvFCJxGiyr3Oc4A~~",
+    "showTopPosition": false,
+    "skills": [
+        "招投标",
+        "实习"
+    ],
+    "welfareList": []
 }

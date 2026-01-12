@@ -1,75 +1,75 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 101,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211206/607f1f3d68754fd0be70554d56e87b9b4b89a7bad8e773747fa59242c6ed44034447c205c7241cc7_s.jpg",
-  "bossCert": 3,
-  "bossName": "王琪琪",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "人力资源服务",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "上海某大型人力资源服务公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "D轮及以上",
-  "businessDistrict": "",
-  "city": 101020100,
-  "cityName": "上海",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "9925fe6f23dbc2ce0nR_3di_E1ZS",
-  "encryptBrandId": "",
-  "encryptJobId": "25e8c6167d1d94b003Z82Nu-F1FU",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 121.360095,
-    "latitude": 31.219374
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100604,
-  "isShield": 0,
-  "itemId": 26,
-  "jobDegree": "本科",
-  "jobExperience": "1-3年",
-  "jobLabels": [
-    "1-3年",
-    "本科"
-  ],
-  "jobName": "JAVA开发/龙头企业",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "aFEgkEa3UoX.search.26",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "9-12K·13薪",
-  "securityId": "rpuMPQvI6AoYW-C1EgAGXE5d4LGpKxohJ51NGIC02U3yDjXNtBrpSR9S_9jyjWUjg_96uKTroUOhne4HmdwjPq0cq4aqTc6-AYlu1kxL1Ox7P4KHeTDK",
-  "showTopPosition": false,
-  "skills": [
-    "Java",
-    "Tomcat",
-    "Oracle"
-  ],
-  "welfareList": [
-    "五险一金",
-    "补充医疗保险",
-    "员工旅游",
-    "通讯补贴",
-    "股票期权",
-    "零食下午茶",
-    "全勤奖",
-    "定期体检",
-    "年终奖",
-    "节日福利"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 101,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211206/607f1f3d68754fd0be70554d56e87b9b4b89a7bad8e773747fa59242c6ed44034447c205c7241cc7_s.jpg",
+    "bossCert": 3,
+    "bossName": "王琪琪",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "人力资源服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "上海某大型人力资源服务公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "D轮及以上",
+    "businessDistrict": "",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "9925fe6f23dbc2ce0nR_3di_E1ZS",
+    "encryptBrandId": "",
+    "encryptJobId": "25e8c6167d1d94b003Z82Nu-F1FU",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.219374,
+        "longitude": 121.360095
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100604,
+    "isShield": 0,
+    "itemId": 26,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "JAVA开发/龙头企业",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "aFEgkEa3UoX.search.26",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "9-12K·13薪",
+    "securityId": "rpuMPQvI6AoYW-C1EgAGXE5d4LGpKxohJ51NGIC02U3yDjXNtBrpSR9S_9jyjWUjg_96uKTroUOhne4HmdwjPq0cq4aqTc6-AYlu1kxL1Ox7P4KHeTDK",
+    "showTopPosition": false,
+    "skills": [
+        "Java",
+        "Tomcat",
+        "Oracle"
+    ],
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "员工旅游",
+        "通讯补贴",
+        "股票期权",
+        "零食下午茶",
+        "全勤奖",
+        "定期体检",
+        "年终奖",
+        "节日福利"
+    ]
 }

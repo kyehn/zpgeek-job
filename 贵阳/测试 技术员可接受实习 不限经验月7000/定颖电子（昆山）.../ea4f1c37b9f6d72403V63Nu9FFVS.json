@@ -1,75 +1,75 @@
 {
-  "afterNameIcons": [],
-  "anonymous": 0,
-  "areaDistrict": "乌当区",
-  "atsDirectPost": false,
-  "beforeNameIcons": [
-    "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
-  ],
-  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191211/9226cb8f2db021ba0ddb58355f4fe38a2052f28e5ceb7eea100d3a6232eb478a_s.jpg",
-  "bossCert": 3,
-  "bossName": "张女士",
-  "bossOnline": true,
-  "bossTitle": "人才经纪人",
-  "brandIndustry": "电子/半导体/集成电路",
-  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180711/5eecd31eb2734154e4ca3702db2b1fbdcfcd208495d565ef66e7dff9f98764da.jpg",
-  "brandName": "定颖电子（昆山）...",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "未融资",
-  "businessDistrict": "新添寨",
-  "city": 101260100,
-  "cityName": "贵阳",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "b0024dbe9e5a291b0nx92dm4EVM~",
-  "encryptBrandId": "9582f0e83aeea3631Xd62NS1Fw~~",
-  "encryptJobId": "ea4f1c37b9f6d72403V63Nu9FFVS",
-  "expectId": 0,
-  "goldHunter": 0,
-  "gps": {
-    "longitude": 106.787369,
-    "latitude": 26.633955
-  },
-  "iconFlagList": [
-    2
-  ],
-  "iconWord": "",
-  "industry": 100026,
-  "isShield": 0,
-  "itemId": 159,
-  "jobDegree": "大专",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "大专"
-  ],
-  "jobName": "测试 技术员/可接受实习 不限经验月7000",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "28cP6Ohm6wx.search.159",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "7-8K",
-  "securityId": "iTkVI3k4KJGDt-U15HV62LK7pvhxw-GnXQO4a3GTFgcVc6KTbX39MsdnfyrnFhafmc7eVqnMGaSxCHWh06SUquzCAcIh4VBgA93GSQZs3vWxOSJGsLvuSkdy02uXhWKlzNdIdW8n883jjIm3SRgNSg~~",
-  "showTopPosition": false,
-  "skills": [
-    "接受实习/在校生投递",
-    "四人间",
-    "五险一金"
-  ],
-  "welfareList": [
-    "包吃",
-    "节日福利",
-    "员工旅游",
-    "住房补贴",
-    "五险一金",
-    "餐补",
-    "加班补助",
-    "年终奖",
-    "带薪年假",
-    "定期体检"
-  ]
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "乌当区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [
+        "https://img.bosszhipin.com/static/file/2022/pvmr2v0l8i1655206532429.png"
+    ],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191211/9226cb8f2db021ba0ddb58355f4fe38a2052f28e5ceb7eea100d3a6232eb478a_s.jpg",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": true,
+    "bossTitle": "人才经纪人",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180711/5eecd31eb2734154e4ca3702db2b1fbdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "定颖电子（昆山）...",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "新添寨",
+    "city": 101260100,
+    "cityName": "贵阳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "b0024dbe9e5a291b0nx92dm4EVM~",
+    "encryptBrandId": "9582f0e83aeea3631Xd62NS1Fw~~",
+    "encryptJobId": "ea4f1c37b9f6d72403V63Nu9FFVS",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 26.633955,
+        "longitude": 106.787369
+    },
+    "iconFlagList": [
+        2
+    ],
+    "iconWord": "",
+    "industry": 100026,
+    "isShield": 0,
+    "itemId": 159,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "测试 技术员/可接受实习 不限经验月7000",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "28cP6Ohm6wx.search.159",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "7-8K",
+    "securityId": "iTkVI3k4KJGDt-U15HV62LK7pvhxw-GnXQO4a3GTFgcVc6KTbX39MsdnfyrnFhafmc7eVqnMGaSxCHWh06SUquzCAcIh4VBgA93GSQZs3vWxOSJGsLvuSkdy02uXhWKlzNdIdW8n883jjIm3SRgNSg~~",
+    "showTopPosition": false,
+    "skills": [
+        "接受实习/在校生投递",
+        "四人间",
+        "五险一金"
+    ],
+    "welfareList": [
+        "包吃",
+        "节日福利",
+        "员工旅游",
+        "住房补贴",
+        "五险一金",
+        "餐补",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "定期体检"
+    ]
 }

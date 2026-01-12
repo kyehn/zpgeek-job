@@ -1,64 +1,64 @@
 {
-  "anonymous": 20,
-  "areaDistrict": "",
-  "atsDirectPost": false,
-  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
-  "bossCert": 3,
-  "bossName": "张女士",
-  "bossOnline": false,
-  "bossTitle": "猎头顾问",
-  "brandIndustry": "汽车研发/制造",
-  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
-  "brandName": "某知名汽车研发公司",
-  "brandScaleName": "1000-9999人",
-  "brandStageName": "未融资",
-  "businessDistrict": "",
-  "city": 101280100,
-  "cityName": "广州",
-  "contact": false,
-  "daysPerWeekDesc": "",
-  "encryptBossId": "275d431837b1080c1XJy09i-FVE~",
-  "encryptBrandId": "",
-  "encryptJobId": "2bd73a4b3f2c2ef31H170tS_EFdT",
-  "expectId": 0,
-  "goldHunter": 1,
-  "gps": {
-    "longitude": 113.166207,
-    "latitude": 23.385075
-  },
-  "iconFlagList": [
-    8
-  ],
-  "iconWord": "",
-  "industry": 100801,
-  "isShield": 0,
-  "itemId": 3,
-  "jobDegree": "本科",
-  "jobExperience": "经验不限",
-  "jobLabels": [
-    "经验不限",
-    "本科"
-  ],
-  "jobName": "软件测试",
-  "jobType": 0,
-  "jobValidStatus": 1,
-  "leastMonthDesc": "",
-  "lid": "907P12PMYIh.search.3",
-  "optimal": 0,
-  "outland": 0,
-  "proxyJob": 1,
-  "proxyType": 1,
-  "salaryDesc": "15-25K",
-  "securityId": "QHzucTa7ypgdP-11bTTSvVtCAUJFWw52fWVp4tWHq1TpMnCiUqNPZOpUNP7MpUjI12J5k52DlDgzeir0oyAQz19vizFKDo3_5odg1JBQCo1GuGhK",
-  "showTopPosition": false,
-  "skills": [
-    "功能测试",
-    "自动化测试",
-    "汽车行业",
-    "车身电子",
-    "域控制器"
-  ],
-  "welfareList": [
-    "五险一金"
-  ]
+    "anonymous": 20,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": false,
+    "bossTitle": "猎头顾问",
+    "brandIndustry": "汽车研发/制造",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/n-af8dd288f86448d9eaaf3a4b0fd60b27.png",
+    "brandName": "某知名汽车研发公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "275d431837b1080c1XJy09i-FVE~",
+    "encryptBrandId": "",
+    "encryptJobId": "2bd73a4b3f2c2ef31H170tS_EFdT",
+    "expectId": 0,
+    "goldHunter": 1,
+    "gps": {
+        "latitude": 23.385075,
+        "longitude": 113.166207
+    },
+    "iconFlagList": [
+        8
+    ],
+    "iconWord": "",
+    "industry": 100801,
+    "isShield": 0,
+    "itemId": 3,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "软件测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "907P12PMYIh.search.3",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 1,
+    "proxyType": 1,
+    "salaryDesc": "15-25K",
+    "securityId": "QHzucTa7ypgdP-11bTTSvVtCAUJFWw52fWVp4tWHq1TpMnCiUqNPZOpUNP7MpUjI12J5k52DlDgzeir0oyAQz19vizFKDo3_5odg1JBQCo1GuGhK",
+    "showTopPosition": false,
+    "skills": [
+        "功能测试",
+        "自动化测试",
+        "汽车行业",
+        "车身电子",
+        "域控制器"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
 }
