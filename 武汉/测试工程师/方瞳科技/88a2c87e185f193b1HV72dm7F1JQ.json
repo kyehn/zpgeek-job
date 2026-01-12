@@ -22,7 +22,7 @@
     "encryptBossId": "8b83fda607a0ca5d0nx92d60EVVV",
     "encryptBrandId": "dca134cba0f965201nN_0tW0Fls~",
     "encryptJobId": "88a2c87e185f193b1HV72dm7F1JQ",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.506722,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 297,
+    "itemId": 13,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3Ikm84XB21k.search.297",
+    "lid": "5Rv6aSWLKMn.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "8g57JwxNynUYd-o1_r7asU1_xTvLuRIPWBfz-LvJdL7ab7Ah5Px_tA6-8GfhzHdVJVliAMZAXDXfXJ2KIkkC38II-V3Je6BXz_3uVGDmf3XSnVZlfqDOnFgkZe2XWp0IPv_kUzwLXjs0Rm9gXoKd66gtG-3ft49Kvnluns7E7zTkxryBj3M~",
+    "securityId": "kOnXGwPt_aT8W-w1AdI5X-SNeF5pk8AZHkpH8fTORQsjTnpScfvVm2Uc6Ic898GKK4yhjccTguzFDnZYhDNPiwFSS7dwKrpNqILBLMlnJehVNyr0gLYDm7TiluZ5pM_AhoBr-NGpeklqhfaVaRuQs6d2",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",
@@ -60,9 +60,12 @@
     ],
     "welfareList": [
         "生日福利",
-        "有无线网",
-        "五险一金",
+        "绩效奖金",
+        "团建聚餐",
+        "定期体检",
+        "节日福利",
         "年终奖",
-        "定期体检"
+        "带薪年假",
+        "五险一金"
     ]
 }

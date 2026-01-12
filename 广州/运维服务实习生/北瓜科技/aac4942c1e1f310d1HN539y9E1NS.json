@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240105/607f1f3d68754fd080cf47bc938580a91a6efb19a2cb03da8f93ad6b6a249f349ae8661d3e475839_s.jpg.webp",
     "bossCert": 3,
     "bossName": "何女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230206/7bf6f160950405e9d8759c2a13a88a4d186956535f7b695804cc1075539f0a49b7c27bb5f08c81f8.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,27 +43,28 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4sA96fjv4S9.search.7",
+    "lid": "5Q3rOh6Izm9.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "UOyyHw-Vc8Jwx-k1tSOVDQdnvssAb4fv48Ha-3ioQYILKcZey64ls6YyoUt5zWB7aV_x7pYhYyhoJUcf_BvTuvNr3U4UUYvbaNtXVgYlTA6LXMqkaSfD0AAy3bs40gWixwjrWUt116RMHWumcydA9sc~",
+    "securityId": "lEpatXB8HKL7V-i1KkcZjT3qms0lzLW39aPbBi8pQYZrVGfo_Ws_40pZ4WK-szvPW0RYa4kz1r0-y6UpUJnTlixYk6rZ_RVp6Okdvy6z6Ri3zapvSSo~",
     "showTopPosition": false,
     "skills": [
         "系统运维"
     ],
     "welfareList": [
-        "意外险",
         "生日福利",
-        "团建聚餐",
         "零食下午茶",
-        "绩效奖金",
+        "团建聚餐",
         "带薪年假",
-        "年终奖",
-        "全勤奖",
         "五险一金",
-        "节日福利"
+        "意外险",
+        "保底工资",
+        "绩效奖金",
+        "节日福利",
+        "年终奖",
+        "全勤奖"
     ]
 }

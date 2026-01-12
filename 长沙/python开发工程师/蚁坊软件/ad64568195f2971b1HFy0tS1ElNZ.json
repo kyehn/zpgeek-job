@@ -1,7 +1,9 @@
 {
+    "afterNameIcons": [],
     "anonymous": 0,
     "areaDistrict": "岳麓区",
     "atsDirectPost": false,
+    "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240226/607f1f3d68754fd04db4762919a92ad1aac811f497f079fe463596104940303b68b04a11387a1032_s.jpg.webp",
     "bossCert": 3,
     "bossName": "彭女士",
@@ -22,12 +24,15 @@
     "encryptJobId": "ad64568195f2971b1HFy0tS1ElNZ",
     "expectId": 0,
     "goldHunter": 0,
-    "gps": null,
+    "gps": {
+        "latitude": 28.230876,
+        "longitude": 112.875279
+    },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 176,
+    "itemId": 14,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -38,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2jytoUFlPPV.search.176",
+    "lid": "4ORzQMHv5FD.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "ENNhUTwjQQRfk-C1h803mx1qDjtumC5HXb2vOeDAhbXC7yxOtifPxYqWmR8qxP2Y0yIt_dWEJ5fOX-xrtUuhrqBXDU9aRXN5nhoK5rHw7KHvSw~~",
+    "securityId": "uzpQEd6bLRXb4-b1CX84rngqECFWbFVgkQzxrfam99EzywjEkbTidJFsleshRgEWTKvLviYEo1-A1oDEg6d4o6_wZ6iuUX0L5RmYpwxrQmGLrA~~",
     "showTopPosition": false,
     "skills": [
-        "Python",
-        "分布式经验"
+        "分布式经验",
+        "Python"
     ],
     "welfareList": [
         "带薪年假",

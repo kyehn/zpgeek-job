@@ -4,10 +4,10 @@
     "areaDistrict": "江夏区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240821/607f1f3d68754fd02b801de88cd79a83165a6636fd4618e1aa1bf2ff58d440d081f824d4662188bb_s.png.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250814/607f1f3d68754fd023efd7890f18b0d947c91fde8dde8602aa1bf2ff58d440d081f824d4662188bb_s.png.webp",
     "bossCert": 3,
-    "bossName": "唐涛",
-    "bossOnline": true,
+    "bossName": "唐先生",
+    "bossOnline": false,
     "bossTitle": "hr",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "c18af8b6f74a3d610XV92dm7F1NU",
     "encryptBrandId": "879cece58f6a7e7d1XR929W0",
     "encryptJobId": "117233213bcfdb6603d52N67E1BW",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.452116,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 84,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7qqQphs3Zjj.search.84",
+    "lid": "5L3NmRyzuyE.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "-0Rm0K2S8T4e3-X1lKdrEiG2F1gNlodRDm71nXVW2R168MGq3wss9pv2b_284uzCdXnoDJlJymir3JuvEToFRzyDuC4iUJa4QA-k8YCZf-xZI3WixwQrpEk1iqixCnTHsi_J0FppR8mWy2b1iX8mjEw8f9tCZnuyYFGwZBeK6giUyOSw",
+    "securityId": "y5DtD3lE-fXVp-s10D29MylOGiuKkIAx1qM8U_ypZSmy3BrIAgt8qa2cMNd__zlMeEnv9SNvYIht6gB3jTFP2JUqTQIW3gxDUuhVC3ZDy6QNtSKEkg~~",
     "showTopPosition": false,
     "skills": [
         "系统测试",
         "计算机相关专业"
     ],
-    "welfareList": [
-        "五险一金",
-        "交通补助",
-        "节日福利"
-    ]
+    "welfareList": []
 }

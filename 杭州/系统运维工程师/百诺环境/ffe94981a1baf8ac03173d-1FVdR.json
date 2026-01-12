@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250402/607f1f3d68754fd0aaeb7b3e3261b7d7ed476f844567d9006f1873c438151cb774b627f167f6dd67_s.jpg.webp",
     "bossCert": 3,
     "bossName": "杨女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "环保",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230130/7bf6f160950405e9e9edb41fc5079965a3912e27a864286143e741af8feeb3fa9162d341565a8dbb.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101207,
     "isShield": 0,
-    "itemId": 5,
+    "itemId": 7,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3Wr6lHGuIdJ.search.5",
+    "lid": "5gxQyicHJFn.search.7",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-8K",
-    "securityId": "vJEIt30Wmz_zR-p1EwTNLQuumWFXNgGZYpWuiGeotUh1IDzW1b2vS5el6ZZbtKsvb9hJW_YgR0_hOBEFVc-I-jlVy6q7wPFfNIg5ewZdbfsFHW-7puUBUfdqegDPONj-Mwej2SKtPGDa2wuA3J9emBg~",
+    "securityId": "qOKTor_mniBI6-B1Kx-7Pe-ZCg7dJ89AJzjadpzSRuh3kRd0Me017EqLqQMJb5hsaMhw571OCuy4OmRMElv5GhYhrNarw4hK3DaEMhSJoGlza78QaEg~",
     "showTopPosition": false,
     "skills": [
         "系统运维"

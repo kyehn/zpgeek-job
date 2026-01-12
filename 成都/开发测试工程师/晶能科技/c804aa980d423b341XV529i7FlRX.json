@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180720/d3a945606e158f615087e4255616d8d7ccef86aa4885cf73e3d0700061c6733d_s.jpg",
     "bossCert": 3,
-    "bossName": "王秀洪",
+    "bossName": "王女士",
     "bossOnline": false,
     "bossTitle": "人事经理",
     "brandIndustry": "游戏",
@@ -22,7 +22,7 @@
     "encryptBossId": "6a815f1820ccfc2103d63Nu5F1Y~",
     "encryptBrandId": "3d5e715fc8b9cf9c1XR_29y9ElA~",
     "encryptJobId": "c804aa980d423b341XV529i7FlRX",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.756538,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 22,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85eqXZAzOIC.search.22",
+    "lid": "5Sg9xlCvCbR.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "WhuS_o5CtedD1-a1kvo2uWr8ocNtLShV3g_duBnymyYMvNJbFjjmYCTn8_TZz9gbCpYtkErTz9e2ilMQaqHmw3_0LpgW8UKdrXZCW1CiEb2iLJmwFN62K0JbqXMNirjuGM_htO5xlPbatA~~",
+    "securityId": "L6diRg2LJIHji-p1Vu7OlHF7KjNuli3d8UeCiU5DEnN4VkBBrCFbgqqHpzpqSDv6_LmWrpoC8LrBaIMPNK2ncg3wskGNoEU41zk4ngSBu_XC7rtfO10~",
     "showTopPosition": false,
     "skills": [
         "测试开发"

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220329/607f1f3d68754fd034a7d4475f6c88377128126b42f457c112fc0f60f780af7e6b4081e394838d6b_s.jpg",
     "bossCert": 3,
     "bossName": "王女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘顾问",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210830/7b5b554d84f9729cb81dae6da87b9eddbf6e3e481ce34ae8c7421cffdbdea8d6f11cda4aeefd5586.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 6,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4goveudFVLa.search.7",
+    "lid": "5Muh5WWIGNn.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K",
-    "securityId": "TnEAuoo4hhrbs--1V2xlPPDJRl1G2DBN5zjutUdDCh-KGP2e_-vPNBJym07yrti29a6Whii0Z1J1P1wqWQa5ymjRGBDOLGCnKdK5S0ZD_vqCbN-U7Sc~",
+    "securityId": "uQr3XdHev4ec5-51w59iRdDFNlWF8hwZsFJS7FOKqn8A1N8Be9sM7EnkPqeO86wD1mZyO-k7WKZg2DgSa6dYcQZZY4jyf2DDMidXOiBP7xu5sPkma6SqsZYJ21cdJ_S2nmY0VlV5VIio6qoKlyNWfpY~",
     "showTopPosition": false,
     "skills": [
         "自动化测试"

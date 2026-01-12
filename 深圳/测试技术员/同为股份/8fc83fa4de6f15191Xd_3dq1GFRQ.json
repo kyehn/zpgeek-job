@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220303/607f1f3d68754fd0ba894f3f85082fd49650f2e7592f2a57f7b6ee9e7ae52a4997cb83779160c045_s.png",
     "bossCert": 3,
-    "bossName": "邓勤波",
+    "bossName": "邓先生",
     "bossOnline": true,
     "bossTitle": "测试经理",
     "brandIndustry": "通信/网络设备",
@@ -22,7 +22,7 @@
     "encryptBossId": "9442e4e48070aa2a0nZy2925FlFW",
     "encryptBrandId": "4d3b87bbf71b72031nV82dS4Fw~~",
     "encryptJobId": "8fc83fa4de6f15191Xd_3dq1GFRQ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.531673,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nsKqOFmLjD.search.90",
+    "lid": "5Q58YVXcCkU.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K·14薪",
-    "securityId": "XqhVL35p80cB7-R1hs6YCSnMMHYMJ3XwTq9O62bcKVg64ULhTlin2gHMGAK48hPs6PRXiR39I34NXDGteRkeD3mnkcqDVMbpvgNDbu-0KhhmjIGX7CIsoKKGgCLL1WMtf6XiHE9cOdULz3bq_EDWgRjjrY4lhM0SKwZkQUxDQ-2Z1QE2zg~~",
+    "securityId": "Y6KBK7bNOA0hI-_1u2FipUBozRedlHmio_1nw5zOcEqxt3mDC7kmpU39cmEP2G_0gSlh0BgEn3JSzRV-wmp4O_SavU_gv0SIlw4bZz6sDXGcW-6RfDCmyUCF2tg616IOIVtG5Z80eG5PALPZNmoY0AM~",
     "showTopPosition": false,
     "skills": [
         "软硬件长稳测试"

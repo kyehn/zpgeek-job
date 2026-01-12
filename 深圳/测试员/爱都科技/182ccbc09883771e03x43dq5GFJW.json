@@ -22,7 +22,7 @@
     "encryptBossId": "6a642a7ae7890bf003R72tS9GVM~",
     "encryptBrandId": "7d8e38914939f8761XB93di5",
     "encryptJobId": "182ccbc09883771e03x43dq5GFJW",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.685592,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,16 +43,18 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nuoQsLgkQC.search.13",
+    "lid": "5bo8hr5Yal8.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-6K",
-    "securityId": "ZPgon5C861z0n-s10vzOil_229iTRxRPMbR0pPZ1JPrjoqWL8HTBRxA5NPqC8KpZuQikIQ2qig_Ti_sek9Xy1suOGWP6R-8ghDuigz3Y4Sa3hMPCONuQTYyeLmzAQmLA-L0Mrkk_v08~",
+    "salaryDesc": "3-6K",
+    "securityId": "UWZ9ppfyQOFu4-f1c0l0Ci9-ZjQEtYabIX_GSOyRwsdN7sKuX1bSZHxChCFd9nVXZRvJUAGz2sEl0uRbIPijLfWbxMXsdwJtL8iw1RuH_3k1Kzr6",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",
+        "计算机相关专业",
+        "掌握软件测试理论和流程",
         "Jira"
     ],
     "welfareList": [

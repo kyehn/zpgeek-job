@@ -22,7 +22,7 @@
     "encryptBossId": "6789e8baca7653921nR52d64EFVS",
     "encryptBrandId": "3c7e8e41b2b620c10Hx739i8Fw~~",
     "encryptJobId": "f1aa17363a57d1be1HBz39y5EFpY",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.581526,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100802,
     "isShield": 0,
-    "itemId": 35,
+    "itemId": 15,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t8yjrRftAH.search.35",
+    "lid": "5ubeEpG5HN6.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "PGDGKG4iTAUIx-c1bqtFt1xOH5Fa0psXX13s_bBlYJKeYzB1v_0_cHAoOCz4wWfkMUBlGiOmi0OW21SIMtjoJcSmSQvTAh0CK9_rQFN2Pn64iFhMLlYS8cz8n4CxEzhtmkD-K0OyodGIdg~~",
+    "securityId": "f9flyzNpRHlh6-r1jKqd0eAZ6O4JyrXnTQXI4BFeAblgXQl-WzKH9PrH81jGCoKWgJWKPgRTevzo8k2dzMMbT81q57FJk2S6cldqdsNqiIldHT7IwRk~",
     "showTopPosition": false,
     "skills": [
         "氢能源阀测试方向"

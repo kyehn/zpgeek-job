@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "CEO",
     "brandIndustry": "互联网",
-    "brandLogo": "https://c-res.zhipin.com/jrs/7_c3d411944b6e19e6ae7aacf8d0328774.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20250714/7b5b554d84f9729c1b9411fd62f1adf1d2a7a82a1066cb826bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
     "brandName": "长沙数趣科技",
     "brandScaleName": "100-499人",
     "brandStageName": "不需要融资",
@@ -22,7 +22,7 @@
     "encryptBossId": "941cb242545cf4e91HFy3tq7GVY~",
     "encryptBrandId": "a126d4590c43d4481nBy3Ni7GVY~",
     "encryptJobId": "9f68a3e9153166fb1HJ63926GFFY",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.230535,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 91,
+    "itemId": 13,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "HZv0gRO1Bh.search.91",
+    "lid": "4OSoITsr2eA.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "ImP9qB9CpBdr5-a1H-bhjal4XiSeFOVrfUluwTC1jbkmXlumJLGx64NINsWb5gPYLxqxmNT_tAuysJua6thHv4sfH3YOWU_a6GeIf84bNa5uKnywwPW1g0jquI4zOGleULzdDIeHxLCNuQ~~",
+    "securityId": "zfZ5Pq473NhJp-L1RQlzdWLZIUHC4OXD_IcLmUttQ-DIMt_bG1w1Xuyio7g92zli_aZCVwauqAAODuGIyDOc9Z9GJzRrkmkRv5lRWNwXVuAbtYwBXc4~",
     "showTopPosition": false,
     "skills": [
         "Java"

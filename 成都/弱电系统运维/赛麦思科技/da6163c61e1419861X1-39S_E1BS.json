@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210226/81d354d9059923be61eb79a2a0a57d36ac70409609b685e983b2ef8fdb702d3e_s.png",
     "bossCert": 3,
-    "bossName": "靳亚敏",
+    "bossName": "靳女士",
     "bossOnline": false,
     "bossTitle": "项目总监",
     "brandIndustry": "医疗器械",
@@ -22,7 +22,7 @@
     "encryptBossId": "999bc6f11d6fba990nV92Nm-EldZ",
     "encryptBrandId": "523c5327e853a92e1nB40ty5FFM~",
     "encryptJobId": "da6163c61e1419861X1-39S_E1BS",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.337626,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100403,
     "isShield": 0,
-    "itemId": 48,
+    "itemId": 9,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85cY0JENx0O.search.48",
+    "lid": "5Sh0T5ek6kI.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K·13薪",
-    "securityId": "JVPrxPtKD3qFJ-a1u89tetiLSJbRraUgw89UYi3eFDUI6l3OksUdH1jlYcgjwSNFasXA6-JtJ1YAK5vXEzPtLYYSxaE3M7lZ3GCzRPgH5r1z5xp5qpetozuPBMYyvrZiIRa6HQX-qhpXNfY~",
+    "securityId": "LptrXC8K8LbL5-61iqMHlo1sqGv8mej9Sr7n_nKcWzebNCMUZ2Ib0FCmsZr5Mxtnd2rEOzzMf7Lx8jcSzAyBdfACuKexGdEggej84rXJa77FCFNFB0gv",
     "showTopPosition": false,
     "skills": [
         "运维经验"

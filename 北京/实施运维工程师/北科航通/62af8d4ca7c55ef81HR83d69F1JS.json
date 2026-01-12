@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20201207/5cbce80ce47127f3f972d79002ece0715cb5cc24aef63eafa08456a717410cb8_s.jpg",
     "bossCert": 3,
-    "bossName": "刘婧",
+    "bossName": "刘女士",
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "f7dc1888e464a3ad0nRz09y_FFdT",
     "encryptBrandId": "19f2d9c496574a461nd42tq6FVQ~",
     "encryptJobId": "62af8d4ca7c55ef81HR83d69F1JS",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.529086,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 76,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "96YqQZZcuoo.search.76",
+    "lid": "5nLTymhIIuO.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "ojLTGYGCTXcFW-C1DnTCYAjqBoZx-_WfM6V2vBf1qhK1L8KgtK9GFeYt9pX7JU8I5VxV2AAsvWuOdXn9OFiZ2zVoDsAg1j6BOCwKAOUAxurZcznzYgysa0EDoiRnVd_RJ9tnrYltbgWhL0E~",
+    "securityId": "ZI16bToMGqx7--m1glbmENxcizQR7kVimvMELOJ7o9RdC2S46-MyYdnHIcuVtXXxcAAl5MA3GcPZDHDZeYs7fdrJWEDg_BI3sv3t_YhvAvcUxDPeERkZ",
     "showTopPosition": false,
     "skills": [
         "实施交付运维"

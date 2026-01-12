@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
     "bossCert": 3,
-    "bossName": "刘茜",
+    "bossName": "刘女士",
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "通信/网络设备",
@@ -22,7 +22,7 @@
     "encryptBossId": "5e2f0e63e460d2b10XZz09u5F1RS",
     "encryptBrandId": "c78cb63767117e5d1HZ63dS8FFs~",
     "encryptJobId": "3f45126755bbb3f71HZy2di_FFdU",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.121602,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 67,
+    "itemId": 7,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "26siypxMtJx.search.67",
+    "lid": "4OSMRSKBCdJ.search.7",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "9RZfvrOhZh1qO-k1r8jYMgMWTzXgOEUHOlvQfIP7NUA7zz2fFvmQa3UD7oLgChe-LGkKH6xHcF3V5UEiaTTzmACaZIC6jyPkmpJNyCHCRASyQrscY2D2639CvW6Mg3JFFKlfnBS9WzjUq2k~",
+    "securityId": "CtRe_RXY2PCnS--1naHNgXjgwlid3p6DUyOj8Ibx2L4N1IV4Nl8cWwWcqMKbdrPNziGgpzaQSsh2nrpe98HwBPrv7F2guM1QdT4cjXefNTazwDPAO1Gk",
     "showTopPosition": false,
     "skills": [
-        "工程师",
+        "服务器运维工程师",
         "运维工程师",
-        "服务器运维工程师"
+        "工程师"
     ],
     "welfareList": []
 }

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250922/607f1f3d68754fd0def82b10a3f52186aa08687eec9525965ff97f03e5037ecf66d637915fe83aab_s.png.webp",
     "bossCert": 3,
     "bossName": "张女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "人事经理",
     "brandIndustry": "批发/零售",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250624/7bf6f160950405e9bfbef161e89f1f2728f8733791c2848b5ff97f03e5037ecf66d637915fe83aab.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101011,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 10,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3Wr6lHGuIdJ.search.11",
+    "lid": "5gxQyicHJFn.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-10K·13薪",
-    "securityId": "eScqXg7f6gkTN-A1iA6njIm0j0iEiV65f1I1r_ImPmHDNzhYP12QzIbwE8c3qw9_Tg3gni8E4JFV6AYKBASX5AHDeMEG5l9GvlUNcl3YBgZNOr9SjkEeVfMUdjo1sCUA83SsQrE_MZttW_b27EOsWAES",
+    "securityId": "pVUZE1DNTS31f-G1ZXqhrwO-Gx4Aq6N0C73MtsJ7heOFQw7GOypXIEZVUoKW97pQeFhUo2ZUjqWLeITYykolUZXUBm-X06o2uAOPYH8GIXMScPm49xkC",
     "showTopPosition": false,
     "skills": [
         "Java",
@@ -61,20 +61,21 @@
         "运维开发经验"
     ],
     "welfareList": [
-        "团建聚餐",
-        "生日福利",
-        "节日福利",
+        "带薪年假",
         "零食下午茶",
         "高温补贴",
-        "保底工资",
-        "绩效奖金",
-        "五险一金",
-        "带薪年假",
         "底薪加提成",
+        "保底工资",
+        "五险一金",
         "有无线网",
+        "绩效奖金",
+        "团建聚餐",
+        "餐补",
+        "生日福利",
         "员工旅游",
         "年终奖",
+        "包吃",
         "定期体检",
-        "餐补"
+        "节日福利"
     ]
 }

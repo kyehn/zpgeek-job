@@ -22,7 +22,7 @@
     "encryptBossId": "d4d102f704393cf71nV73dq4GVdW",
     "encryptBrandId": "2914dcae4431873e1nx_3t21ElY~",
     "encryptJobId": "8e07077aa4c125061XBz2968EVVZ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.238968,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 15,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1JhvRsdhP3o.search.11",
+    "lid": "4ORalOzqu8V.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "cwav5BPXaLiXH-m12s28ooBYqx1RRlTjDyl7098aK_-6SKlPE-M6_GkOlX16XjqeV8lNSqvvjpvkxHR1NYEojPiV3uP6iUm_gDT4t8Gozdtnv5zCLxFTscre7h2lbpa0zU5RwGMvHP0J5XU~",
+    "securityId": "al5hCx2qXS6Ja-81cRagBKMZT8HSZUARVYAqtDUkwgL6zqovEFBGy_zzJvkahzZrzgg-r7Rb0_VbZEgNZ6klljNZxVbQj0hViuwy1i5PIJXMTu6Qh3E5",
     "showTopPosition": false,
     "skills": [
         "功能测试",
@@ -62,13 +62,16 @@
         "卡牌游戏"
     ],
     "welfareList": [
-        "年终奖",
-        "带薪年假",
+        "定期体检",
         "餐补",
-        "五险一金",
-        "加班补助",
+        "团建聚餐",
         "零食下午茶",
         "节日福利",
-        "全勤奖"
+        "带薪年假",
+        "全勤奖",
+        "加班补助",
+        "年终奖",
+        "生日福利",
+        "五险一金"
     ]
 }

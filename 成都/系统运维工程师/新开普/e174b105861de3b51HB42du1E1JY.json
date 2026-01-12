@@ -22,7 +22,7 @@
     "encryptBossId": "10506af02c38faba1nRz2dW_EVBZ",
     "encryptBrandId": "b14b8fa6780ea4501XBz29g~",
     "encryptJobId": "e174b105861de3b51HB42du1E1JY",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.627443,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 69,
+    "itemId": 14,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,24 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "859LUjxmkAs.search.69",
+    "lid": "53qVkTO2EmH.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "meMkmk1WTBkvT-81xiiBLC-Cy8r-mGxTEQmyQxobfUmu1oSa4_H9L2BbIu2qGpzff0b-3TZ1MwN6NAQay0BtuBBHDDIZ_g8m5WRGcKsnwJGO1z0BHoA_YWWUq48EzG0FVRI4EghpdTE~",
+    "securityId": "5IFrVayXcagB8-w12jA8OLwXqz0joPacVtV60ZQjw0Tq0ax1DOd_HtUpsUpKLlfEFOQqWJ7V4TYegUyRWjC_gOJJsr0HGp5SiUHyXDx3ne6z-eAL",
     "showTopPosition": false,
     "skills": [
-        "系统运维",
+        "Nginx",
+        "实施交付运维",
         "MySQL/Oracle",
         "Docker",
+        "系统运维",
+        "Redis",
         "计算机相关专业",
-        "运维经验"
+        "运维经验",
+        "Kubernetes"
     ],
     "welfareList": [
         "交通补助",

@@ -6,10 +6,10 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
     "bossCert": 3,
-    "bossName": "覃申永",
+    "bossName": "覃先生",
     "bossOnline": false,
     "bossTitle": "长沙技术负责人",
-    "brandIndustry": "互联网金融",
+    "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160803/620c8dfb78f5ac9e6e150303d7bd8f988adff86022b09fe28784a25789b7c19c.jpg",
     "brandName": "石云科技",
     "brandScaleName": "100-499人",
@@ -22,7 +22,7 @@
     "encryptBossId": "d28de65f2075b6711nZ939i-FFc~",
     "encryptBrandId": "a589981dcdb6a46a1Hd42tm1",
     "encryptJobId": "38a11b09d47edc5c1nF93tS9FVVW",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.228258,
@@ -30,9 +30,9 @@
     },
     "iconFlagList": [],
     "iconWord": "",
-    "industry": 100206,
+    "industry": 100021,
     "isShield": 0,
-    "itemId": 40,
+    "itemId": 10,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "26lIs5P3Wab.search.40",
+    "lid": "4ORZo6DRr9T.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "Gk_mScliMDHr7-71s1Bu9AupC03ewGzZw_fYuZ_8T0VCfCRCd3PGBjulcw1t6DAQpcCvwT2pA_lwauocE7GT2MEfMRiodR9H-VjUNMGciofp0B6kltbU2_gq5F_oS4Y4sxo2CUTsbb8~",
+    "securityId": "UotNegahklOD0-K1a0JmRFjhMOqzrfUMOx6vJQKaYKjDu5UltUAjZT-VbhtABNWTUoX0yvbQWv-dWKIwizLVbMU3cGvLsHYd3rBSG99bOxZjSW2Q",
     "showTopPosition": false,
     "skills": [
         "软件测试",
@@ -58,9 +58,10 @@
         "PC测试"
     ],
     "welfareList": [
-        "五险一金",
         "补充医疗保险",
-        "加班补助",
-        "年终奖"
+        "绩效奖金",
+        "年终奖",
+        "五险一金",
+        "加班补助"
     ]
 }

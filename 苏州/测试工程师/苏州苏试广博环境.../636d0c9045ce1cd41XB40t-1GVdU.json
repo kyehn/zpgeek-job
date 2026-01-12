@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220823/607f1f3d68754fd00ee1e2c167be60ffb17b92c23c970d28b6e1c0a72aa4ad9769e059f9e67a18a6_s.jpg",
     "bossCert": 3,
-    "bossName": "卫玲",
+    "bossName": "卫女士",
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "检测/认证/知识产权",
@@ -22,7 +22,7 @@
     "encryptBossId": "9e8220673708f7fa0nF83N6_GFpT",
     "encryptBrandId": "8668fa3b423da5c81XV42NW1FFo~",
     "encryptJobId": "636d0c9045ce1cd41XB40t-1GVdU",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.317348,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100609,
     "isShield": 0,
-    "itemId": 54,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cAjt8blAIl.search.54",
+    "lid": "5T6cYqW04lN.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "lpZ9IqBrLemkZ-r1MRwLrz0KGdfUrG_KG0EY9s5FpBkZiFj305Wo3tRzs2rX4dg6_kbDJID8kuY_3UpX7aC2iE0zIfVUmbsCSd16dLPypfS3VcKvRKn8Fytkk_5PEJP3xd7Oyb3ZYqroxOo~",
+    "securityId": "bC_AFbrY5cnEN-w1i_6JXPsrTeaQ5VxoQYpp0KR_PU_l73zUmDYsXJh7wCkMKAD68ZhKn9SzdYCK5wCfrRFWHCfwSrqWYoAVXi8ieF4CjG5hdejpahXZ",
     "showTopPosition": false,
     "skills": [
         "性能测试"

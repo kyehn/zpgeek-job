@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200607/1b972c5e256fe46910bac903e5c82117b9269b9cca58c2b36744fc701f90cae4_s.jpg",
     "bossCert": 3,
-    "bossName": "唐倩男",
+    "bossName": "唐女士",
     "bossOnline": false,
     "bossTitle": "人事助理",
     "brandIndustry": "大数据",
@@ -22,7 +22,7 @@
     "encryptBossId": "3f625bf6a94ca57e1HV52N6_F1I~",
     "encryptBrandId": "9ca09504090e7a561nRy3N64GQ~~",
     "encryptJobId": "34fe84d75098778a1nB-2Nq9GFE~",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.569452,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100005,
     "isShield": 0,
-    "itemId": 73,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85lNtMSjUHO.search.73",
+    "lid": "5QIH3vFLFFo.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "8sjvzzwilco4t-y1hDzyLvmfxUbw5r2kzCwiYZMsAvihQyzf89UDkGmcZwq4AYU6dM2XWPscIwTcbnx20C7bia5UGXgJ-rtLKwUlPMlBdtAR881fjqGoOhc-ktu23RgWNSnj9y_5M1Q~",
+    "securityId": "Gobm04wxhAePC-m1YllV7EZxtWEpBaejxs-NZ2Oe5lMgEKRfzZSIlZucjmN9gFabXd8lWo2Bs9EKQ1hT6srXmzBoj758sc3D7qP5GvbDovkYbltV",
     "showTopPosition": false,
     "skills": [
         "Linux"

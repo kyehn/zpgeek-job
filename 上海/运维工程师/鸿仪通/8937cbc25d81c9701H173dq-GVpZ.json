@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "青浦区",
+    "areaDistrict": "浦东新区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210227/9236e34836dac72d04ab23acb01c5415f8408760e1084252fe755bea20271c6f_s.png",
@@ -14,7 +14,7 @@
     "brandName": "鸿仪通",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
-    "businessDistrict": "徐泾",
+    "businessDistrict": "张江",
     "city": 101020100,
     "cityName": "上海",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 0,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.185176,
-        "longitude": 121.308144
+        "latitude": 31.243891,
+        "longitude": 121.623298
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 12,
+    "itemId": 11,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "43FmM5IgPFw.search.12",
+    "lid": "5hHdPy1fvyr.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K·13薪",
-    "securityId": "_A2KlqhQ16PS2-W1wbHjaDisrADajwhpm9ov1YGcMtPFLM1mCM2D7IF19b5oG1olGp28fWrsiPnXqJdBqyp5CNwfo0rtuJE-tNxfqLDauJyEcg~~",
+    "securityId": "8ZM9pb08zkWvh-_1OFH0YvJ9tlBJRotXtwjAAzMyM4FfrvvvPsf1sHQx20pndDmR1eHW14htURaTQEA8pvaAFz5kWhK3qzawBARKFoiTAoCi3w~~",
     "showTopPosition": false,
     "skills": [
         "Nginx",

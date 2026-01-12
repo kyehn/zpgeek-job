@@ -22,7 +22,7 @@
     "encryptBossId": "20ecf86d748987e50nV939q1GFRY",
     "encryptBrandId": "1a3ccbc892194fb31nx92925GFs~",
     "encryptJobId": "5a9a381b81d431d503V92N60ElRY",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.462339,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 66,
+    "itemId": 15,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8sYE1qXmOPG.search.66",
+    "lid": "5sI7K1vRm4n.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·13薪",
-    "securityId": "oiDkB5dYpKL9q-Q1AmH1j31VIOQS1sUmHBapgCxd61kDYAwWaF-lpqWZ1a9UHmR34tqfyTsoZWwwsyhB3jnEH-Ul4EX4Xuk_-QQlrjzAAkDgE4RyR4bgH4aD_nvuLeaJbbRL38zRJPwBtM4~",
+    "securityId": "-g_5WoGf2hD4x-E1Vfh3SStiUHNvtxqsyiMQVutLMPeDJbj6RMyfJcIsX0B9TckCtdhfmSLn3ylH0IXgsM8idyLv13hRGAH_hiyjoH2RoEo6I_T8Pb2A",
     "showTopPosition": false,
     "skills": [
         "网络运维",

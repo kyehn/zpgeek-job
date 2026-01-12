@@ -22,7 +22,7 @@
     "encryptBossId": "6bd0147f8e64d2760nx93t29FFA~",
     "encryptBrandId": "cbe8e62684d4a3901H1z2NS7EQ~~",
     "encryptJobId": "78af26263ee2f2891n142NS_EVNV",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.228052,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100022,
     "isShield": 0,
-    "itemId": 17,
+    "itemId": 13,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4RGbNuUIdGO.search.17",
+    "lid": "5bli8x1aFta.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-10K",
-    "securityId": "XlHs69Qxh4Zss-S1J67wEdOgrtxucJz7MAfBn3uJJxD6ZTXJ_EbeAytOf4DWRDb-PlhSE48da74erFC9LAUYu5IvDP7h5WRitzGsoMATAQuiCxmj-onNDXZnBTDd58O7CRCE6iuqGQ4g",
+    "securityId": "CnkqrcvB5Ub5J-g17fHPp81bBTQqUWTjUIO9duZ-5qkOwILKgocjLmORxSJhCdPUInYBo5cwNZMLHb0U9hXHGeMgAmq_YaiJqVLgOEY9tJX39GrR4Q~~",
     "showTopPosition": false,
     "skills": [
         "系统管理员",

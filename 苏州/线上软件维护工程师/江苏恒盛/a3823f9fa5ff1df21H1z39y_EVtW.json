@@ -1,10 +1,12 @@
 {
+    "afterNameIcons": [],
     "anonymous": 0,
     "areaDistrict": "",
     "atsDirectPost": false,
+    "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
     "bossCert": 3,
-    "bossName": "王怡",
+    "bossName": "王女士",
     "bossOnline": false,
     "bossTitle": "人事专员",
     "brandIndustry": "计算机服务",
@@ -20,7 +22,7 @@
     "encryptBossId": "cfc98331971a5a221HV-2N66GVE~",
     "encryptBrandId": "c48fbc4759686f731HZ60t-7FFQ~",
     "encryptJobId": "a3823f9fa5ff1df21H1z39y_EVtW",
-    "expectId": 1014042683,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.344964,
@@ -30,7 +32,7 @@
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 21,
+    "itemId": 3,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -41,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6jQLfOq6nSr.search.21",
+    "lid": "5T7TbBhy0kZ.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "-Eb7VAK0r6FiD-h10NOJ_CFBxMOSjYJYN9G2TNAoT8DuMvWSNWHdstGDvtQTMKOd8ZYBTs8_7f-QMeec-XdMu5QjS9rhy8xnwcbVwNHhemBBm5ffxI8ZV1FubE4zJ9V1DxFcC9AzT_nbbg~~",
+    "securityId": "GaJOON3j6Rgh3-E1q90yNt1Z6kRlIrzR0OCw_4w1xJaxO9J6IbTdqSdxJM_4JAUrqgrmtXRBo4eQX4Ym8W8IsdrEOkSkjDccuxe5x8Ng5P6ftG-RP8s~",
     "showTopPosition": false,
     "skills": [
         "MySQL/Oracle",
@@ -55,5 +57,7 @@
         "计算机相关专业",
         "运维经验"
     ],
-    "welfareList": []
+    "welfareList": [
+        "带薪年假"
+    ]
 }

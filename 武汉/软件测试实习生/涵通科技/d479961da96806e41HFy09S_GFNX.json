@@ -1,7 +1,9 @@
 {
+    "afterNameIcons": [],
     "anonymous": 0,
     "areaDistrict": "洪山区",
     "atsDirectPost": false,
+    "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161116/a82b85827a123e8f0915868ef04ccd308c7dd922ad47494fc02c388e12c00eac_s.jpg",
     "bossCert": 3,
     "bossName": "卢女士",
@@ -22,12 +24,15 @@
     "encryptJobId": "d479961da96806e41HFy09S_GFNX",
     "expectId": 0,
     "goldHunter": 0,
-    "gps": null,
+    "gps": {
+        "latitude": 30.485546,
+        "longitude": 114.509226
+    },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 101401,
     "isShield": 0,
-    "itemId": 4,
+    "itemId": 5,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -38,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1obsWKRYcNb.search.4",
+    "lid": "5RuaPgNZeGk.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "2-4K",
-    "securityId": "L0ncsmeARCzAJ-h1lMyCJZygSnX8xFV-TP1e7nd82yY6XgXyb3Lz1pLMADODGE78zVq2Ewlcb2RqhEN1VUpX0rYCT8IoHUF5TwBQJKuBL1FTJxcCo58~",
+    "securityId": "Fl7i8Ltkh6Rxn-u1pKG3HMd1SReiiSApVEpDqiYzW7mPJo963NNvXIfOnJiDoe8ToVIT6mxG1gSy6n8ZzdZo-gv3uEDHlccLkMqBYbtvmS11DbXoWso~",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
+        "C++",
+        "通信相关专业",
         "性能测试",
         "压力测试",
-        "C++",
-        "计算机相关专业",
-        "通信相关专业"
+        "功能测试",
+        "计算机相关专业"
     ],
     "welfareList": [
         "加班补助",

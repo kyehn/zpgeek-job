@@ -32,34 +32,33 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 244,
-    "jobDegree": "大专",
+    "itemId": 8,
+    "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
         "经验不限",
-        "大专"
+        "本科"
     ],
     "jobName": "测试工程师-外派",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2TBWlNkly1f.search.244",
+    "lid": "5jUXGPEQaLY.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-9K",
-    "securityId": "DnZB0jkSSlBnD-F1mPbRmHczUUEoLdLuGfq29nKyvDAaETeclZbNQMg_eAUGbdnHYAICCNwk_l7P82s17drPweOyhIbw-0RPJkV2hHap3wLMXC7m",
+    "securityId": "yyHFonidzkAUO-N1zHouvrT4qIa7AscvJ8sdihG0v0oyY-hrjg8lJrZUWLRC8BbpDY1XQt_YtQ8lFNyeDO9jdplDYiM6v_sFZ79Q_ZAPAr7UYHnX",
     "showTopPosition": false,
     "skills": [
+        "自动化测试",
         "Python",
-        "Java",
         "测试工作经验",
-        "自动化测试经验",
         "计算机相关专业",
-        "iOS/Android测试经验",
-        "掌握软件测试理论和流程",
-        "自动化测试"
+        "自动化测试经验",
+        "软件开发经验",
+        "web"
     ],
     "welfareList": [
         "零食下午茶",

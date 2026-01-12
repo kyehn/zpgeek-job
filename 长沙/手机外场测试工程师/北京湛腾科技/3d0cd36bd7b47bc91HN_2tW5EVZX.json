@@ -1,7 +1,9 @@
 {
+    "afterNameIcons": [],
     "anonymous": 0,
     "areaDistrict": "芙蓉区",
     "atsDirectPost": false,
+    "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
     "bossName": "张女士",
@@ -10,7 +12,7 @@
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/50139ad459d4c5dd363182fe891a3da6cfcd208495d565ef66e7dff9f98764da.jpg",
     "brandName": "北京湛腾科技",
-    "brandScaleName": "500-999人",
+    "brandScaleName": "1000-9999人",
     "brandStageName": "未融资",
     "businessDistrict": "马王堆",
     "city": 101250100,
@@ -20,14 +22,17 @@
     "encryptBossId": "9888b161f410c4450XR43d-0F1M~",
     "encryptBrandId": "830973d7d345e15a1nRy2tu4",
     "encryptJobId": "3d0cd36bd7b47bc91HN_2tW5EVZX",
-    "expectId": 975728182,
+    "expectId": 0,
     "goldHunter": 0,
-    "gps": null,
+    "gps": {
+        "latitude": 28.193581,
+        "longitude": 112.99865
+    },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 98,
+    "itemId": 14,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -38,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8kD0VpLT90l.search.98",
+    "lid": "4ORZo6DRr9T.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "7rFqUJvElGfva-c19v6NUdFZLys7N8njIZj2Wxnnm5nKgw73UElwUS3YcmahrglccRevbQsloOXPfilUOgANR192Es-H6_tnLHyq0jCeIIsbrAHIfZXjBgcaXOet0bpVO4o8mWEfZQ~~",
+    "securityId": "-JHeN9WqI1QJG-01hdXp1PDguoyolPG9jtEo0GRiZh5HqA0PoePcl3iw1Fl7Wt73t_4cM73ib4C5E2TBAVdmSmro7r8NRV4G8v3-PO7EsZfPAYJx",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
+        "自动化测试",
         "性能测试",
-        "自动化测试"
+        "功能测试"
     ],
     "welfareList": [
         "加班补助",

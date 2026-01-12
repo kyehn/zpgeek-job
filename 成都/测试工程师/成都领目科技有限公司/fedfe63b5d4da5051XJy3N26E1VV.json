@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
-    "bossName": "马建锋",
+    "bossName": "马女士",
     "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "18c5cbf962ff99e41nR-3dm7GFVW",
     "encryptBrandId": "70848411ade746341XV-39u1Flo~",
     "encryptJobId": "fedfe63b5d4da5051XJy3N26E1VV",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.556249,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 76,
+    "itemId": 12,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85eqXZAzOIC.search.76",
+    "lid": "5Sg9xlCvCbR.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K·13薪",
-    "securityId": "VkrPRrtyRFLNE-f1dEjYCTWeIrQoorrzHX3PGlUrWfDBuvhcMoIT89dNfztXj9oPGmH_a3l0u6Pn_8U--A5DqNjgTAADc4YU4h62umOXEVc5-N0bEEyFVqneolIzUaU4Q8S2-Ef3uc6jYW4~",
+    "securityId": "4wnGpTD6dTpgh-c1sNtDEzeeWUPLIJoo4kUaRLn7ydExQOwbI9tSNmjzJbFUM4GO-2X5_xci7Ntd1YaZWT2Vz4lUUUQFqnCyB3aNzmnlcvl3JwTzH4o6",
     "showTopPosition": false,
     "skills": [
         "硬件测试"
