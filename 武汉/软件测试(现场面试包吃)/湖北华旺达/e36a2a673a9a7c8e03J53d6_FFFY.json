@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250205/607f1f3d68754fd0e902a6603c3cf62fea445c1c622167a49bfd9966b699f49fab14949510baaca2_s.jpg.webp",
     "bossCert": 3,
     "bossName": "章女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘主管",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/03f34f254d0d59802485171da592aed0cfcd208495d565ef66e7dff9f98764da.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 11,
+    "itemId": 12,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5QKNVH5A2lo.search.11",
+    "lid": "5VITJHsqRhO.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K",
-    "securityId": "uG7VQtrOQIEIJ-I1gVLwNkaGdCx_AmrHGApFfoqtRnZJqPTGGkmyPJXZJ_DGI_HX1jsyuFdjqGaj-huuyQMtmZ3xo8hjjQNQe_6YzG6Hrm3iu-qxfuthY6I4Y5jhehsR1JGj1qzYLYkGhScpo18E",
+    "securityId": "uuvPr4aokohjA-p1-sVFokJAx5s1WACd24omqfrKsWGT81Y3Rz_A8oXwSEQ10G-lso81tT39ZAKUJziimzdE8h9QPhL_RUW0DLA46sBwKSIVwSzl",
     "showTopPosition": false,
     "skills": [
         "功能测试"

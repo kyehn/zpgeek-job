@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180109/7556b3be6b30a4505179bc5d4f1f9e650ad529d9008730158fc9cd70e622102c_s.jpg",
     "bossCert": 3,
     "bossName": "李女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事主管",
     "brandIndustry": "游戏",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211129/7bf6f160950405e96a0d55eb72cbd295ba9ef1b540583d4d0ad529d9008730158fc9cd70e622102c.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 13,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5nOyBcHe2EB.search.13",
+    "lid": "5UehUUpseKK.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "ifui5p1Duf9aI-u1znaLk0heCxA4DbHJCt1o_DmOe6PqWI6kQY7iD5glbg52ViZuZrUxEYBWpHDOOioNKiFusv4qd6bleMN1xjoF9Y6I0HC9xaURFg~~",
+    "securityId": "5XZfGgco_965H-G1kPXGL1P97u1ECOvsl7O0u9CJK6GoZEqwSD6Xc8zCBUO6CYR1j57-VtC6RESutlNIB2hoHSWuGsO0Qfr7Q3SYx6uOMEY-1hBXosoZyKpWlSxj9L82g_5qBrqGxI4p_2DWl7B3WA~~",
     "showTopPosition": false,
     "skills": [
         "手游测试经验"

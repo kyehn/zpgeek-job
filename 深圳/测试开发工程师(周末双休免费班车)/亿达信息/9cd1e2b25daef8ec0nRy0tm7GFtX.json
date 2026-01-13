@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250224/607f1f3d68754fd0dd4e43bc598e6bec60f2bdbc87dd17bab4734a1f8010b5e3d49847810fb2f74d_s.jpg.webp",
     "bossCert": 3,
     "bossName": "严女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘顾问",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/7f2dc4e1215251fc0c5eca771a97937ecfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 4,
+    "itemId": 2,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5QHm5Kjzy8M.search.4",
+    "lid": "5UY6uTINK3T.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-9K",
-    "securityId": "eq0a1eQzY0NZv-21a05NIlGsVe4AJK7DR0MyEDfOTpJGX3h_Yg4J1k_fBSroxoRcOYmmoE8zeVDEZPkHxPaV1uFtnfbSpoCwN_ct4VFigAMzO6d77nje0E5ZhlxuuOls6XyxyqHkS-o_dYEHbrzT",
+    "securityId": "WHmOScp4UUIRy-V1KNB0b7miVWArHRKiR1hwVf6dDPGX2YzxkqRouSTkkOZv3Vp0GL4WPx9zIidom50mewSL9n4-8hrLZ8-0nyIqEoRKh3aaf95s",
     "showTopPosition": false,
     "skills": [
         "Python"

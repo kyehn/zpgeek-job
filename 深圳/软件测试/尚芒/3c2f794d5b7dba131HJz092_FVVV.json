@@ -25,14 +25,14 @@
     "expectId": 0,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.572892267832106,
-        "longitude": 113.85265007689286
+        "latitude": 22.572715,
+        "longitude": 113.852233
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100002,
     "isShield": 0,
-    "itemId": 12,
+    "itemId": 6,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5jgHm4oliCa.search.12",
+    "lid": "5UXfGUPiMnk.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K·13薪",
-    "securityId": "DSr1WpaMovY0T-M1cmMGTRbza5G9Jj6Plo70dA4nof_kUC-nXmv7yQTXBN3U_VnCIUyrvosj6-xNG17PnjJCtjT3e9C3qDxXXo8uHigxh3iEtt7PCeI~",
+    "securityId": "qFClPklsAN4Y2-W1vJI3aMh04tPCIuECTiDAykdFmUCGcCePlrgIIeycLFVc2kJIYvQrCyxphVFppd-aW4IMVHwarR8ibEe-E-aa-AijLVqOC37iNAA~",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",

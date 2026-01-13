@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230216/607f1f3d68754fd00046ac786916ca5539d5702ea8da45540c6f8199d26d7a886ae8b3068d28a313_s.jpg",
     "bossCert": 3,
     "bossName": "廖女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "招聘",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/f35d1168e7b1c5eb6a955cec24ee8dfdcfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 6,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5Pm3dZOJZ6g.search.7",
+    "lid": "5UdSStV9GSR.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K",
-    "securityId": "y24I9wC1JMhZ2-01BlBFPzqV5c4rN4R6ia79I_RFUUlZNOf-FzD6zjFqOMsEn1tDqB9n2q_cMV8oGDRCtFcz1Mwj63GAMXd7Yg9jYnifwB7KKTgXv6eUl9i4Zu_EWmbxgWEPPeSOj36wY9QJme0P3KM~",
+    "securityId": "DmhffFE6cbSgc-p1aeF_50tTBJkqXX0bQAxqE1l6qi6KDcX97Ziz6HfGOsGpW1v6BoWGsUhROA-31FE7l7JWBAAAyRtGXpHsIrGVChgSTMQenSxk_o0~",
     "showTopPosition": false,
     "skills": [
         "功能测试"
