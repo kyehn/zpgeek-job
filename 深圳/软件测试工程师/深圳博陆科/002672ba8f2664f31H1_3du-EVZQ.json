@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210518/239faa1212b9bdcb1c284a920eedaac313507f155712c57dd32c943f541cb1bb_s.jpg",
     "bossCert": 3,
     "bossName": "陈女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人事行政主管",
     "brandIndustry": "电子/硬件开发",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191029/b148ec0261c18109416366d65b1a81a125f2e49b25fbbc2fabfb7d793a375f36_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "bd9afd6147d2b2530nd42d21EVRR",
     "encryptBrandId": "c5092e471c9277a20Xdy2t25EA~~",
     "encryptJobId": "002672ba8f2664f31H1_3du-EVZQ",
-    "expectId": 1334030427,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.679482,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101406,
     "isShield": 0,
-    "itemId": 39,
+    "itemId": 50,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "85nJyNCVhGg.search.39",
+    "lid": "9nBDXT5RxIf.search.50",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "9-10K",
-    "securityId": "m9CLGgyUbYyRy-716vl80WbuccN6wCYQ7auw2NIdGElVvyqXQBFD4o2bJ1O3uhArz__nL5q-DG8k_4eNAImtGzY6pa35kKmUq2Vju97dWOhbpCJnlgijFJ4-b7TsY0dX2MuTioUB7fIEvA~~",
+    "salaryDesc": "7-9K",
+    "securityId": "87k9nbzTD8lqn-L1cN107KXzS_5HZrZijWz4ZVohCOHZ6LAp7j2LPPT3yhZgobWNI_vuxf2GXiR98qgEXBDsHekH84m9ehqOFPKlvbl-50T214mz-k9dZdftDDOglOCn6FQw4rNbXYQBEEDmKxHijL8oKIzqy0y3qoZHpUFc52A7ey9lAA~~",
     "showTopPosition": false,
     "skills": [
         "耳机"

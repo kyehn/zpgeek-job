@@ -1,7 +1,9 @@
 {
+    "afterNameIcons": [],
     "anonymous": 0,
     "areaDistrict": "岳麓区",
     "atsDirectPost": false,
+    "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20241201/607f1f3d68754fd09151a82fb5d794e1b247810d457b3b33c7cbb07a3485ae831336c15627c28d5d_s.jpg.webp",
     "bossCert": 3,
     "bossName": "王先生",
@@ -20,7 +22,7 @@
     "encryptBossId": "885c3b66e0768f5b1HBy3t68ElY~",
     "encryptBrandId": "5d8c40f5b24b6ef61HJ53Ny0Els~",
     "encryptJobId": "d5146613c75580781Hx93N25E1NQ",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.186312,
@@ -30,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 250,
+    "itemId": 45,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -41,23 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5vQLs8ORPJD.search.250",
+    "lid": "9mS45Elv0W0.search.45",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-10K",
-    "securityId": "g9wwGDREztaos-81zdszugl1-ON5l7HFTM46oI4n-cJeNDhUfZ6UC7rKKz2KMtXA0RO_9K-3bcWJRoewhODmkcp8lnokJB4yOxY4XPkGa4K3o7qmZic~",
+    "salaryDesc": "6-7K",
+    "securityId": "bn_MZnHN65ZPi-N1n-ICaJKHsK7VpWNC0YDREd72ixjTwePXww88EF5PQW6zHmi-aHykamEjXal5WV8QQKzEUFgCEWyF-A5NMMH2PQC8WPSlAhEMNyi_IdFCIkVFpsCvxiFMu580M_B1Rw~~",
     "showTopPosition": false,
     "skills": [
+        "Odoo",
         "Nginx",
         "Docker",
         "PostgreSQL",
-        "MySQL",
+        "Kafka",
         "Redis",
         "Linux开发/部署经验",
-        "Python",
-        "Flask"
+        "Python"
     ],
     "welfareList": [
         "团建聚餐",

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210527/3dc1f9162877bfe052064a454c1d61db45de8cb7225c5b8159f174f6823cbf7b_s.jpg",
     "bossCert": 3,
     "bossName": "陈先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘经理",
     "brandIndustry": "互联网",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/8f5389b84d6daf399fef91564a21e784cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 6,
+    "itemId": 9,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "973j5RrefHD.search.6",
+    "lid": "9Ht2yrebLrr.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-11K",
-    "securityId": "2p-FfdY1gubJ4-m1qNUFS5JxpxDK729Tl54WUGYii_fmco0zBi_h6t-ID5f_q5jbmLRgdF0_eKMGtzexin3ccyEmyLc3XjPCBoE2ZL3cuze-2r9VIz-mwtCCkqtCWCVhMywY97AKq0U12FE~",
+    "securityId": "7S4Gdw8CFTR1Y-31MLGTJ4dvKgORGf-V8lASYAIfngTaZOc8-oqfYcQvXIGs8ogFNd07mWXFEtyttz9o9nRW6sgCtFMHhzps2H4m7UwoujNWyGDiK-PVxsMlUd8xIITl9CIh7xahmLQrP0B0PD1Do5aW0wkyHIhSjkGge4jr8lRjuX-7QE8~",
     "showTopPosition": false,
     "skills": [
         "自动化测试"

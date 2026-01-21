@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "",
+    "areaDistrict": "钱塘区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200819/38de1c7e3db2bf1647077f7cd6b5a0f643bc7698ee82c28d2ee54598a5e9396b_s.jpg",
@@ -14,7 +14,7 @@
     "brandName": "柯铭智能",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "",
+    "businessDistrict": "工业园南",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,31 +25,31 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.30309,
-        "longitude": 120.3723
+        "latitude": 30.303536,
+        "longitude": 120.37193
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100018,
     "isShield": 0,
-    "itemId": 62,
-    "jobDegree": "本科",
+    "itemId": 46,
+    "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
         "经验不限",
-        "本科"
+        "大专"
     ],
     "jobName": "小程序开发实习生",
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5IojAi5UgsX.search.62",
+    "lid": "9oZz1TJghWi.search.46",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "3-8K·13薪",
-    "securityId": "gTmWXwqeAVswM-f1eNCdBS46Cy2uQ16vxTqkdS7C_hqYy7dIPCgaQJMrt54lDKFyYsGLAS4dyDJL71XLLr_SjER6YasLL2DY-LBFFAMP7fW4BFwpFLeM4uUkxKiofOYHNsSJrQGx9A~~",
+    "salaryDesc": "3-4K·13薪",
+    "securityId": "16IC_YlzMRoZn-11Aj8kOFFFctEHRTd6DO7ynsFgC120qQKt8KvWok7kZ2tJJe7m-XPScDp9rFl8IlpbwNmUPmSIIp0sdzvP_u7Ow9uKN1R41UB5lloNzxkb3SKigfCNkRXO251L9w~~",
     "showTopPosition": false,
     "skills": [
         "HTML/CSS"

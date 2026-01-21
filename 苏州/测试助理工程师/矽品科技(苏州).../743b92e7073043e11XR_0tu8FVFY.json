@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
     "bossName": "冯女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "hr",
     "brandIndustry": "电子/半导体/集成电路",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191125/e3073332a6bf543a3d3ffc36b9f989fb1cf4cf80df9b348672cd997fca27db83.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100026,
     "isShield": 0,
-    "itemId": 47,
+    "itemId": 10,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cAjt8blAIl.search.47",
+    "lid": "9O79vvPaJVG.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K·13薪",
-    "securityId": "fNSvZKEXCVFCH-81B0U-twmont0m0Y_5chmA-wPyEYPLP9RXuH2WrhqAk_7ww-9T7NhBrgk7Mk4hqkydf3CJrUEXjhBx_VStskCmE2lruhEb1_lMupC_HhFQWQRsifUCpY8pDX1Mjk_GQQ~~",
+    "securityId": "rHoOec9ALzqYt-V1KdNG9QCclktkmD2zQ16QJ5fcKasMNtOeFBIVQV_RtjHv2S1gcO2xhKLv77tiQeE2wfZwrh5rNtUYD69KqkdWo5Hi8_aLxO4DiFAUnVcwnHnb8JvbNMHXYCvE_vhjRITYq2mIZNvfysjyqwKkgGW2mKQOJKgaKHY3yg~~",
     "showTopPosition": false,
     "skills": [
         "硬件测试"

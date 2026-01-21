@@ -1,0 +1,62 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "栖霞区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240229/607f1f3d68754fd0717bac6b00caffdecf079abc8c65e4ea20ff9eac9de262f277fdfc3a803f2c6d_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "傅先生",
+    "bossOnline": false,
+    "bossTitle": "总经理",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240229/7bf6f160950405e962bd576c8431ba2264ffbb16073f8c4a20ff9eac9de262f277fdfc3a803f2c6d.png.webp",
+    "brandName": "南京新慧团",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "仙林大学城",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a935f5fc9ec55e0e1HZ93dW5FFo~",
+    "encryptBrandId": "08394ca0a6b93bda1nZ80tu5Eg~~",
+    "encryptJobId": "1cd053303a0a0e3b03xz2N-8GFdU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 32.125632,
+        "longitude": 118.962944
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 9,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "实施工程师（需出差）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9OhcMSmhGAX.search.9",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-10K",
+    "securityId": "cbprVtJWUTmOL--1RmzvS-nlLIBV7qpsjlgsytlu7P7aOQS3C6TIFvOH1hTEPJAVJ3q01GZ9QohwzlNzbkgP7_Lp7H9q-rqPaJbhgpXwCY1FyoknxWz19c4CrkCYnROZu4KDAQzJS-kS",
+    "showTopPosition": false,
+    "skills": [
+        "智慧校园",
+        "人工智能",
+        "高校软件"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

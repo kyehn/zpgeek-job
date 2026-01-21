@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250429/607f1f3d68754fd0e8d31d8c84b25b241e986d71fb97cc98e4813626aaf17d8386914685133963ac_s.png.webp",
     "bossCert": 3,
     "bossName": "蒙女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200321/c050d99fa42ed09f7876f6acb4ddbc46274d3802e642167142b5ac7d897536d5_s.jpg",
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.661199,
-        "longitude": 114.070895
+        "latitude": 22.660299,
+        "longitude": 114.068154
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 38,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,29 +43,30 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8nwLJSaG5qN.search.38",
+    "lid": "9nctjyJ22xj.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K",
-    "securityId": "opUe9JpQeTMC2-R1fjD-8teyi_uH-BC_9k7wpkO2BCctfxBjYEowqObC4brtQPrsb55PqIdLa8598jUUOYFiP4R-HwlPu6LsbEy0cpX1c88cO72DIvWOUomjGACbrpk-GODsOtGB1qhT",
+    "salaryDesc": "7-9K",
+    "securityId": "oFmgOF6yrOTuI-I15kGzTNhl5dMNENtL1JtkiDpE8ebLau5ycczL4OuyirXStwvP4hvMrcHBfQGLk7XcKa7P5k46ylZJqnk0FfT9GOTkxlyiJ6gQe6YZflQGPzjCqGLRBqZj9_q8AQUpsKrRMINvHCKLJQFHGNBY8OZ21wEUjoaN3K_c",
     "showTopPosition": false,
     "skills": [
-        "软件实施经验",
         "Oracle EBS/Fusion",
-        "熟练掌握SQL语句",
+        "计算机相关专业",
         "财务相关专业",
-        "计算机相关专业"
+        "软件实施经验",
+        "熟练掌握SQL语句",
+        "PMP"
     ],
     "welfareList": [
-        "五险一金",
-        "补充医疗保险",
-        "加班补助",
-        "带薪年假",
-        "员工旅游",
-        "年终奖",
         "交通补助",
-        "节日福利"
+        "生日福利",
+        "节日福利",
+        "员工旅游",
+        "工龄奖",
+        "通讯补贴",
+        "加班补助",
+        "五险一金"
     ]
 }

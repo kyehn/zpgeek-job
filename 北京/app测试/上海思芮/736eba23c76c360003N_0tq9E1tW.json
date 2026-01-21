@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "朝阳区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210525/2384facbc2ad4128d7a8ed842e990a4c662184c300d3b2cf42684da49bce794e_s.jpg",
+    "bossCert": 3,
+    "bossName": "王雨宁",
+    "bossOnline": true,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/fb9a5ebb96bb4be5b378785d935413bdcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "上海思芮",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "朝阳公园",
+    "city": 101010100,
+    "cityName": "北京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "aade6426ce588efe1HF63t-_EFE~",
+    "encryptBrandId": "3c511ac83da009710XN409i5",
+    "encryptJobId": "736eba23c76c360003N_0tq9E1tW",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 39.957298,
+        "longitude": 116.50445
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 19,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "app测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9Ht2yrebLrr.search.19",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-10K",
+    "securityId": "0ybeHrD0h8jKK-41qBmkSBu9POwARlBnGIG8j3MA3yFG-Uf7-xt0zvi2gRBisQqkV-0FVy4p2VpMzILVlQltKeTIjEsebSevEYaLORKuJ86C98l-5_PWqWOoT3jGMfhWDJwvqtJOntvEZ6uEQiyj5adeWRdfyTtmSn6sIEEN9p3BJbU~",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试",
+        "功能测试",
+        "Python"
+    ],
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金"
+    ]
+}

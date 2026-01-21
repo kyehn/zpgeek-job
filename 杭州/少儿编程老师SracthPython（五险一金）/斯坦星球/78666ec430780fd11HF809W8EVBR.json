@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "余杭区",
+    "areaDistrict": "滨江区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211126/607f1f3d68754fd08f9f6dd06a37abd5af5a35d36c59686c75200d1c10265c5c4c78a36feac66534_s.jpg",
@@ -14,7 +14,7 @@
     "brandName": "斯坦星球",
     "brandScaleName": "500-999人",
     "brandStageName": "B轮",
-    "businessDistrict": "西溪",
+    "businessDistrict": "星光大道",
     "city": 101210100,
     "cityName": "杭州",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.246415,
-        "longitude": 120.04666
+        "latitude": 30.208483,
+        "longitude": 120.208133
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100303,
     "isShield": 0,
-    "itemId": 46,
+    "itemId": 29,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8FiGFx5nkhw.search.46",
+    "lid": "9oUYIDYsbeS.search.29",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-8K",
-    "securityId": "irbrm7vSwh06w-e11YUPa6lPjd-HWB6ihcXL4cRTojAvM0lQfYQG4cG3wy40H6EZWkLNUSqhuryCjoQSo66GPRfwQ-5VwRCQ0ZUVG7_WIhLuEuR4yvbhcugDmThha5K9ZuUDZp1T3s_uYWX1y0M9A2jBLuGOIRm-S88W3CsTaAXp3DA~",
+    "securityId": "1WXS4CIeznFqy-L1kdywNXtk5S0whzoxmsWb54oAcg2tYBloh-gHjN3fOImOn3bJvRmGbhxirj6v-qMqeqhz6lFhzF4gKgMrHue_m7LoZrExQXvGGmG9sgl4dYMJ9Z3TqIzvwmnK9rYNY0ozwmcKyTADRDH7rsPHPD7j43G_HKP8tas~",
     "showTopPosition": false,
     "skills": [
         "竞赛",

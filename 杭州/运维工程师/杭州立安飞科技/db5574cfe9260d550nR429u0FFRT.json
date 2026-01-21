@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250401/607f1f3d68754fd01067b5bafd7f2f7ec90224aeac9545c46ff5805e5871288a3c45aab49e0eae0c_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "朱佳洁",
+    "bossOnline": true,
+    "bossTitle": "行政人事",
+    "brandIndustry": "计算机/通信/其他电子设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240328/7bf6f160950405e9dc64625e7574816ae034e8113482124c41be079010dce4f9bcd2f3e15c87bb3c.png.webp",
+    "brandName": "杭州立安飞科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a1ee9de74ef641091nV929W0ElpQ",
+    "encryptBrandId": "a83da68f85097e171Hdy2969F1c~",
+    "encryptJobId": "db5574cfe9260d550nR429u0FFRT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.279926,
+        "longitude": 119.817057
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100915,
+    "isShield": 0,
+    "itemId": 45,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9p2jJKk8YgV.search.45",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-9K",
+    "securityId": "HQ_ILsyolinBS-O1b5XHgLHu0qAJOeSf2SpNGi7CV7DejdHhmv0RnGzzrT1jpDnuGvGrLyOAkGNPH3ua4TT_EdESiqHzJJITRjCJNi99AVdapfPFnQQPkRF-vBTYpCpxb7RgytwDPIZgnA4yNm_Oj5oQxPH2iFk2tvIxzzGfeeUqXCvKTr0~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "包吃",
+        "绩效奖金"
+    ]
+}

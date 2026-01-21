@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "钱塘区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240812/607f1f3d68754fd05c36539d3aeb51631c76487f9371af6ffe06230d1a351619d7963590556ddec5_s.png.webp",
+    "bossCert": 3,
+    "bossName": "陈德富",
+    "bossOnline": false,
+    "bossTitle": "城市经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20251009/7b5b554d84f9729ceb9d1530cb5d750c9c27899c77eb27db3bf7b5b347337c221c0c47a8f1d57504.png.webp",
+    "brandName": "美团",
+    "brandScaleName": "10000人以上",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "工业园南",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "63c4518fba505d8603d70926GFM~",
+    "encryptBrandId": "35c55b0fd57384791nZ80t-1EVM~",
+    "encryptJobId": "c58c9f29580fefe7031_3t64F1dQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.268118,
+        "longitude": 120.358918
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 8,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "助力车巡检",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9p5barUE1VX.search.8",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-8K",
+    "securityId": "OBRE82KWlcdWN-41J_BUHimWEFGWHekcb9Q_ud2WH7v7NwVbPuDQH0ktAGI9kx2NGIRmUKKOFA4gNcwPKHkU1Id4fUzXN_gQmmutR69uRBIrqVDlMGpsN41ykpUmvB5aqJdwh99aaddhFQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "共享运维"
+    ],
+    "welfareList": [
+        "底薪加提成"
+    ]
+}

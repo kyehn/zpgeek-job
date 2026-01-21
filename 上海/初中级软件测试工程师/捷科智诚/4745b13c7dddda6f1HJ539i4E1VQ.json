@@ -8,7 +8,7 @@
     "bossCert": 3,
     "bossName": "黄女士",
     "bossOnline": false,
-    "bossTitle": "资深招聘专家",
+    "bossTitle": "资深招聘顾问",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240219/7bf6f160950405e9b92a1a50a9c549b2d2bd6b7d05e7636ecdee101b45dff04a2349b3e1e2854892.png.webp",
     "brandName": "捷科智诚",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 29,
+    "itemId": 4,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,16 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1RgvwfgqeCL.search.29",
+    "lid": "9phcE2GUzlY.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-13K",
-    "securityId": "aaT4os8fRkoub-E1EJO4V4r1xGAQJxUW_v8Afe1AfGlPprtdY9VoWJiJbK38P3qXGXtP8Dwk5rfHraoKNWHJBE6nh8sZ_zP8tTXiKdKHEvlMP69xZcXt957iAjEWKBlzCSfOh0n4Jig~",
+    "salaryDesc": "9-13K",
+    "securityId": "0hTN4EgOPgQgq-U1of4jVLw3o_pSV4tin0ZZBElK3LS4zD1LU2kE3cSnWuvaCttvY6Rz1kALtbwcuSbWpwlEcyVSfp3_o7BJnZUgoCKObY0HwZe364R0dpGvPeK6MT4kG4jrMP2cRLk~",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",
-        "自动化测试",
         "功能测试"
     ],
     "welfareList": [

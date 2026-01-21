@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "芙蓉区",
+    "areaDistrict": "",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
@@ -14,7 +14,7 @@
     "brandName": "深圳瑛雄",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "马王堆",
+    "businessDistrict": "",
     "city": 101250100,
     "cityName": "长沙",
     "contact": false,
@@ -22,7 +22,7 @@
     "encryptBossId": "b4aace830b8bdd430nR929y7ElRX",
     "encryptBrandId": "d0fe547c65dcc6201nZ90ti8FVQ~",
     "encryptJobId": "bb1940f69d2e921a1HF42dy9FVZV",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.185775,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100703,
     "isShield": 0,
-    "itemId": 185,
+    "itemId": 32,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "aty8bWszkvB.search.185",
+    "lid": "9mS45Elv0W0.search.32",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "c29jjQthD1aAI-R13jDEZM88oC-_VGV1rzg-qHvkcsGqbk4VFeyUQRzTQGQFZzak0tnAagy_RmHuYJb7w8wcBrofSIxMAPkSqnWuaIHgfYGcJ0nK4pkX_hZq7pCYorTvaZNPoLssn802jq8~",
+    "securityId": "UbUjdwCWJps9e-t1R4Jw1IIJXPNI31KRYHmN7V1brLgHKo0BY2y4Jq5MtHVjh889j7qteVXsQeqN0fD1f2jLW7bW5wi5RijfbZoolBUcwJ4IsaY_6mB1QtsqPIZ6eHP9Lq5SiIKGA4lTMR8~",
     "showTopPosition": false,
     "skills": [
         "Python"
     ],
     "welfareList": [
-        "年终奖",
+        "全勤奖",
+        "团建聚餐",
         "带薪年假",
-        "节日福利"
+        "节日福利",
+        "年终奖",
+        "工龄奖"
     ]
 }

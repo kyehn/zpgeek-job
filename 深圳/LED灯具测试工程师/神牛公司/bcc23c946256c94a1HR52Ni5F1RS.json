@@ -1,7 +1,9 @@
 {
+    "afterNameIcons": [],
     "anonymous": 0,
     "areaDistrict": "宝安区",
     "atsDirectPost": false,
+    "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211104/607f1f3d68754fd0e6347334c07f553479b97eb268b385d98f8226516cee776c39845d1015b962d3_s.png",
     "bossCert": 3,
     "bossName": "段女士",
@@ -20,7 +22,7 @@
     "encryptBossId": "2bc8a15c7481c5d51nVz3ti9ElVS",
     "encryptBrandId": "ac758a7736b202701XB_3ty-Eg~~",
     "encryptJobId": "bcc23c946256c94a1HR52Ni5F1RS",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.698448,
@@ -30,7 +32,7 @@
     "iconWord": "",
     "industry": 100026,
     "isShield": 0,
-    "itemId": 182,
+    "itemId": 60,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -41,20 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1RkDB4DEmSr.search.182",
+    "lid": "9HDzUcEBV4K.search.60",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-12K·13薪",
-    "securityId": "YP3UJfpnPYI0z-A1rLUgYt3FU139SyiOXTyhMs547FdlaIr-TpEi-IC0D8TYfTRB1ZukJvsCVJOnYo17OytIly3x5gAyJeoD1G8bzXXtKg06T9wgLL4_11p_zIzFZ6LRqlOb6R9ob1LZkah62NmnsdU~",
+    "salaryDesc": "8-12K",
+    "securityId": "YZraG4dQfCWpf-j1z7lzmC8_hTZTdulfKghueZwpIpQrw3ZBKgqcbMwmotirK71leXaly-huuMxEGmVe8NHQPLrLGIV78e6uimUkQn8F-dUYHBrvNKm2eGUEimm5us7Etmq0u1e0JAnYKk-Zh7OJpXdFmAMOHyXlsJlxn9okPbrFkLf6Cw~~",
     "showTopPosition": false,
     "skills": [
-        "功能测试",
+        "灯具",
         "性能测试",
-        "LED灯具测试",
+        "功能测试",
+        "照明测试",
         "灯具测试",
-        "照明测试"
+        "LED灯具测试"
     ],
     "welfareList": [
         "免费停车位",

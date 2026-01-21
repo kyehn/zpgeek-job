@@ -1,0 +1,60 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "拱墅区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "bossName": "包淑莉",
+    "bossOnline": false,
+    "bossTitle": "现场主管",
+    "brandIndustry": "信息安全",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "浙江朔昂科技有限公司",
+    "brandScaleName": "20-99人",
+    "brandStageName": "",
+    "businessDistrict": "石桥",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "4990a1c263cd575a0nZ92N68GFVR",
+    "encryptBrandId": "8cddb067c936b4491HV83966ElI~",
+    "encryptJobId": "9d4164a45d921f8f0nRy3Nq9GVNT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.347565,
+        "longitude": 120.197425
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100016,
+    "isShield": 0,
+    "itemId": 29,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "idc运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9p5barUE1VX.search.29",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K·13薪",
+    "securityId": "r9fAZEkK-iN6v-311FUWjnlM0NHzQpTaqB_HNwxXqDPVGcpdxf00nu2_wF_qz5TUoRhoNHk6R6nb3XifuM4NheKtdRTQNOS1UWTALLdZdqt0IMsqoghAcZlp1Kg_s03SC2hsgNAKlqHlokE~",
+    "showTopPosition": false,
+    "skills": [
+        "IDC机房运维"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

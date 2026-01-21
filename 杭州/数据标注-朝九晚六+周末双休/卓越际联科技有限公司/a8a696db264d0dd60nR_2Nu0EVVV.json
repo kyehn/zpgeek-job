@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230811/607f1f3d68754fd0ffe5942a1020cd0244347e57c3a0547f8db97e1bd4985c04f01480a246c407e7_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "尹女士",
+    "bossOnline": true,
+    "bossTitle": "招聘顾问",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240105/7bf6f160950405e9763d940637ab43c1b6bf9ec44707a6cd04c5cab85daa86eb9e7e03c57e4518bb.png.webp",
+    "brandName": "卓越际联科技有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "长河",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "fe0a6798005c6f491Xxy3dW9GFE~",
+    "encryptBrandId": "9a80334346a8f4661XR73Ny1F1Q~",
+    "encryptJobId": "a8a696db264d0dd60nR_2Nu0EVVV",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.189646912797507,
+        "longitude": 120.19031058835503
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 29,
+    "jobDegree": "大专",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobName": "数据标注-朝九晚六+周末双休",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9nW4AdJVTnu.search.29",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-5K",
+    "securityId": "RzsMVTNYy5Q4H-H1QkEvikHXzs9ui8rVM6bBRjW7rChM0MUwyB7zcsLpWrc6VCfoX6ymgyP78O6cGx-0zfBL9CPNTO7k_qmeG8_dKTKF14PQ5THeIzjrEHMYcHKN5QXnaw_l0fAHTmnnCrpenT8cTZJqipOOPIfM98M3aCC1wMqk4Yf1SA~~",
+    "showTopPosition": false,
+    "skills": [
+        "数据标注",
+        "文本标注",
+        "大模型标注",
+        "标注方法优化"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "滨江区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180426/3e8c4f7c19244a18d8b919cd79ac3a23cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "bossName": "汪志君",
+    "bossOnline": false,
+    "bossTitle": "软件开发工程师",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20251112/7bf6f160950405e91378fdb88da43b859087b71bf6522c677df7452741f1619af0b1e8a8a311a3cf.png.webp",
+    "brandName": "有么",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "浦沿",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "48254ce7934687641HB729q9EFY~",
+    "encryptBrandId": "c338824ddd0296131nx92N-0GFQ~",
+    "encryptJobId": "cfce188662bd592e1nF43tS4ElNY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.186074,
+        "longitude": 120.172509
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 21,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "Python初级开发",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9oUYIDYsbeS.search.21",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-13K·13薪",
+    "securityId": "-KwtHzx9aakb1-F1m5nFryJKV6oeC6VvnHb2K3ZaGEJPhF-_NrYODTOR0dz1p18cTHUWZctBG0qylYyteVEO4A9X1y5rHvclGo2UQNNALGT7_kf1yCsxuxzleef0Yxdu5YRUqKSCL2TkHQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "python",
+        "后端"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "股票期权",
+        "五险一金"
+    ]
+}

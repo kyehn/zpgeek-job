@@ -14,7 +14,7 @@
     "brandName": "巨友通科技",
     "brandScaleName": "20-99人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "西乡",
+    "businessDistrict": "时代城",
     "city": 101280600,
     "cityName": "深圳",
     "contact": false,
@@ -22,17 +22,17 @@
     "encryptBossId": "bf83439297ddf52d03F70tq6E1I~",
     "encryptBrandId": "3de1588843cc91511XJ-29-6Fg~~",
     "encryptJobId": "22e39d76b90633171XN42t20FFRS",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.571548,
-        "longitude": 113.852769
+        "latitude": 22.572715,
+        "longitude": 113.852233
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 5,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1d11FkYTw3Q.search.36",
+    "lid": "9nctjyJ22xj.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-13K",
-    "securityId": "E4TJzE2dlbqxO-n1pezoEKG0YJXMWBULQQ-e-gVXR-QHCaK1SndlvnmFHSA5mGfnd627q1bdAl4DodXp-zcvXOsHRSCeE1tckJyquJ3zPqGtRStQ4BPZl9X_ois1bM3gcVtrOA76ekxN9xJznKs8E8dX7PBTf-2AQd3aU-34N5xRbD5n",
+    "salaryDesc": "9-14K",
+    "securityId": "YoDVWlNyCBW9g-l1e87UWen1juBBp4HMeAkHmnYoZfXCICfvSfj7SWrbgEDngGJeScXeRQCckrMc4VZVhrYpnsP7d1YKyoCAFDqge8maJvb2FrAU6WIcazmkdQ5jwfPFuGbRkOpPDKh3xAcbA5x54t7JDn9WAzVwH_cLSyyAhsteO_bo",
     "showTopPosition": false,
     "skills": [
         "ERP",
-        "U9"
+        "U9",
+        "bip"
     ],
     "welfareList": [
         "通讯补贴",

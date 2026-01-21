@@ -43,14 +43,18 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1RgvwfgqeCL.search.12",
+    "lid": "9phcE2GUzlY.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-13K",
-    "securityId": "1N7eRVE90c7OC-i1KGwYrpz3yAWs0u3-JfWh4o8aEKDDJ7m1fBpzWdU7e0Rgt6JRbh8vdSuPTJMvAUcGWET2wxOLGK4GxNmw8pMpQw84oBhhkzkZ6mnfjLD1C0yDXmW8CmzeH_fO0a2FvZU~",
+    "securityId": "HzmB7p98p94YJ-U1_fFOIyG4NwQSQ7QAdwq8lKA8A-psuSZ0NwWUO8KVLDiXTOHkrsfmV0SCRSknDBWLMeJOCC_ZM1lsE-gP4Q4kNj0AjoWmXcfYZHuuZZW8rZwgWEyX1ZUmvK0dxJ1p71I~",
     "showTopPosition": false,
-    "skills": [],
+    "skills": [
+        "自动化测试",
+        "计算机相关专业",
+        "自动化测试经验"
+    ],
     "welfareList": []
 }

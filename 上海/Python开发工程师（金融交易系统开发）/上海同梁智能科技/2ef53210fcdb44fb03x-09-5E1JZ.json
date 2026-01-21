@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "杨浦区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250612/607f1f3d68754fd03945dc3e7362e4c6817aed83cd37015498dacda216aa2cb94e74c38160b4ddfe_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "白先生",
+    "bossOnline": true,
+    "bossTitle": "HRBP专家",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180815/d3a2ee705085ee0768d0525a385133fbcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "上海同梁智能科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "五角场",
+    "city": 101020100,
+    "cityName": "上海",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f2329f19016971370n1-3N-7FFs~",
+    "encryptBrandId": "06581f15c91488c41XF40t27EA~~",
+    "encryptJobId": "2ef53210fcdb44fb03x-09-5E1JZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.281315752817118,
+        "longitude": 121.5074936647965
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 12,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "Python开发工程师（金融交易系统开发）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9MWs5Hqn19N.search.12",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-8K",
+    "securityId": "8iWHtOBIEZEWK-_1SYArQEFnUBpj3gRM6ugQm-G8rR1JUt2-QVMPEPI3OODgdeKEUGChpRK9doh2MYow-3Q-0xU_oUOscqBFXtrXQ_fSUfw_SBtIAsxOAbWQfkPMxyLBzGh8EcXQ71SKUlMMXfL2I2XRnHfwmpy5K6O3a7Ndcj7CU03_",
+    "showTopPosition": false,
+    "skills": [
+        "数据架构"
+    ],
+    "welfareList": [
+        "五险一金",
+        "节日福利"
+    ]
+}

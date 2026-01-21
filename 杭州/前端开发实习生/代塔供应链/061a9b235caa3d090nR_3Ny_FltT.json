@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "上城区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220418/607f1f3d68754fd09bc53438e5073d923a513a4dc37ee6496c45221c46e4b67955788c99e707c77f_s.jpg",
+    "bossCert": 3,
+    "bossName": "汪女士",
+    "bossOnline": true,
+    "bossTitle": "高级HRBP",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250206/7bf6f160950405e975556a483c988cf1ebb3b100d19baec60b3e2ee6db41dbf2aacf8224b54149d3.png.webp",
+    "brandName": "代塔供应链",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "五堡",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "0679f1f60ff845d21nZ43d61F1M~",
+    "encryptBrandId": "72c8ec2691c0df301HJ_2tS5FVI~",
+    "encryptJobId": "061a9b235caa3d090nR_3Ny_FltT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.30972217146423,
+        "longitude": 120.25938682116436
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 31,
+    "jobDegree": "本科",
+    "jobExperience": "经验不限",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobName": "前端开发实习生",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9nW4AdJVTnu.search.31",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "3-4K",
+    "securityId": "WZx40qiNfVz8X-r1LIpSfivUhYS0eZBjRPSKpUwN4PhKtYwV-bEBgZf-UOUCvCoI0kNuaOn8RjMJLPpdsF-bgNVBul85vvcgy3GcziFhjZ8Noo11tbxokmAD9KxqLvRKH9xJRb502oFurrzXUwo1OeBA0aBjWLq2JaJeB8bvbH1kRZ2OvA~~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机/软件工程相关专业",
+        "前端开发经验"
+    ],
+    "welfareList": [
+        "带薪年假",
+        "全勤奖",
+        "五险一金"
+    ]
+}

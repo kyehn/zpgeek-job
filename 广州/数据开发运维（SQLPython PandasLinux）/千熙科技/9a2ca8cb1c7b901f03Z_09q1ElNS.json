@@ -22,7 +22,7 @@
     "encryptBossId": "2c87d41fa67c414a0XJ53Nu4F1I~",
     "encryptBrandId": "3c934b52e53b79251XN839u0GFA~",
     "encryptJobId": "9a2ca8cb1c7b901f03Z_09q1ElNS",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.101777,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 4,
+    "itemId": 32,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4sySaMp93sr.search.4",
+    "lid": "9HyH2ZZNx8G.search.32",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-12K",
-    "securityId": "QSG468rWVKoqc-G1xyZr4JjSza318Wv6IElp-UedB2vi-igxD4ZBQOWgB311wsBC_kKlmqWDlg3fae2_r4e_CJqORIc6jQQeELZgBVfyZcT8qcaIUQY~",
+    "securityId": "hUWTrrK5wnAnI-C1aZVYeO41-weihiTzU0KtL8nX-7zk0BiMGwQCq5uzH23zC8LY15t2-n8GHzZa_xNy7P50IfO2IWqQE85YSdrDU1kJJUSrFhFrsFtXnCbtNlxVe15tQZkAMssNZyofLA~~",
     "showTopPosition": false,
     "skills": [
         "要求数据开发经验",

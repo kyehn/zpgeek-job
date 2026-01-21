@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20260109/607f1f3d68754fd0ee5babe3ef8da682cb6c12a9d8da74870fb93edca75eb4b5deaea14b13adf38b_s.jpg.webp",
     "bossCert": 3,
     "bossName": "蔡女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190215/273a522bc36b73fa2368e31bbc8f76c90af23abdd670490cbf00d0bc8c1a8983.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "2f7235ae54dfe9a60HNy29i7EVY~",
     "encryptBrandId": "627349490b7076341nd80tq_FQ~~",
     "encryptJobId": "d509e3857e8ac0aa0nRy3Nq4FltU",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.538769,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 3,
+    "itemId": 8,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5Wu6PyNWiB2.search.3",
+    "lid": "9NYu6wZuhD2.search.8",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "9-14K·13薪",
-    "securityId": "9WLYHbJzZt2Pj-A1-G0dh1XmqdwIP1sh73CzgXDLz_07GwiA91i44gdtk7GwmHDsCkkZK7iyGdzlMVrnNqMUH19_vrWuvzm5Y8It93iQDpfIS-Un5g~~",
+    "salaryDesc": "6-9K·13薪",
+    "securityId": "GsAWWK3u62AW9-f1u6uIBSK62MMfeTx0ADW-7xKmcMhokwwKwC_7BcDQ4c0LVtV4p6t9-23c6SoBYuic1GQeYHQmCat_fwVzfha9auJ8z66q0kykntj29ldNCONf4pwkOAL7s68ifiViAxvihuCk4Iq9l3kFu9OI3yihpLnlon9HB2Rf",
     "showTopPosition": false,
     "skills": [
+        "软件实施经验",
         "ERP",
         "计算机相关专业",
-        "管理相关专业",
-        "软件实施经验"
+        "管理相关专业"
     ],
     "welfareList": [
         "加班补助",

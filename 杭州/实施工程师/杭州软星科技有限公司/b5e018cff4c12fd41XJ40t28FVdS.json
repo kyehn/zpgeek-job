@@ -22,7 +22,7 @@
     "encryptBossId": "1e8ae76650bec50d0XJ43d2-E1c~",
     "encryptBrandId": "d718b299502d97c00X1_29q0",
     "encryptJobId": "b5e018cff4c12fd41XJ40t28FVdS",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.339203,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 12,
+    "itemId": 26,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,21 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3HurXfUb4MQ.search.12",
+    "lid": "9p5barUE1VX.search.26",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "0zfzQL4104ifX-E1kMYeTgol4ExgXqLTka1-qREI-3VhC9wYS7bghJcUQvXlY7hpjCWLukSm7LMUTyVIWN0Zu-5y0U7RoNUueEdzeMAhlSNaJlKr",
+    "securityId": "UxzlLrpo2XRUm-f1AMcdX-w3bW0SzsENvW9XoYHEnIkoA3UYvbuwYLMjd4voM4A7tDOoEXkTyJW-qO7yXp8gPzbuk92iKzNzf-9yW8g-epjSykRHVKn_SkE8BXiUdJ8XcKJnrVr2s1A~",
     "showTopPosition": false,
     "skills": [
-        "ERP",
-        "CRM",
+        "计算机专业",
         "软件实施经验",
+        "ERP",
         "熟练掌握SQL语句",
-        "可适应出差",
-        "计算机专业"
+        "CRM",
+        "可适应出差"
     ],
     "welfareList": [
         "员工旅游",

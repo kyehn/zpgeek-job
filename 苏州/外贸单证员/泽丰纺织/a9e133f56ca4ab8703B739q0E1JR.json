@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
     "bossCert": 3,
     "bossName": "张敏",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "经理",
     "brandIndustry": "其他制造业",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100917,
     "isShield": 0,
-    "itemId": 75,
+    "itemId": 2,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,16 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cD5zdEZDUj.search.75",
+    "lid": "9O79vvPaJVG.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "LHsV2zReEbiFJ-81EAxaM-DBS3wUq-KbKtbui-WUSMXesSotqEOOqCTRJSBfwYZbxlos-nOdk2RENFDnppET9IeaS5CH01Lm6HK-pWzBqPAuG6QEJ_hWTUNCeLA27LwTSAvlPkv1H6jz2G8~",
+    "securityId": "xgUxVyoOSXqQH-w14wlx5CFuq6qqQ2xVyoHdqNRPk_gniRUXLAP_sdad6BV_s8q8iie3TYyMn76R3Fj75zQX_FTYfdPYLIYei2_zf_fw5YTVLL2oSSpGyf3KmRbJQPZMBJwJ6RgV4E2hya5eFv9FzhAkwZRUTZgxGT3Yzm3Enh32xsY6mOw~",
     "showTopPosition": false,
     "skills": [
-        "英语四级及以上"
+        "英语四级及以上",
+        "报关对接"
     ],
     "welfareList": [
         "绩效奖金",

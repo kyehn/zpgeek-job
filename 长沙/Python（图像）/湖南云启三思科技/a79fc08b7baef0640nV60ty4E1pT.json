@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "岳麓区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250912/607f1f3d68754fd00b4c7b1ae1625593e086233a752f69f9745e10741d693e1866923ffcf5ac5357_s.png.webp",
+    "bossCert": 3,
+    "bossName": "冯女士",
+    "bossOnline": false,
+    "bossTitle": "招聘者",
+    "brandIndustry": "计算机服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandName": "湖南云启三思科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "含浦",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "a774e393161d5a4f1nZ40tq8FVNZ",
+    "encryptBrandId": "3688daaa592b33b203V-2dq8F1o~",
+    "encryptJobId": "a79fc08b7baef0640nV60ty4E1pT",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.111519880156628,
+        "longitude": 112.93815778344523
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100023,
+    "isShield": 0,
+    "itemId": 3,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "Python（图像）",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9NOfTkBhhCu.search.3",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "4-6K",
+    "securityId": "0Z3gQd90ycXAL-m1M39RK_NE8VsO4ZbY2zsR1lNlatxpzbyBKRy8moFheM5oWvtsAEmFG5FhiXV3RzriPxZQ9To6YYLoC9ao0BohPAt4ix4hqrYiNWfRsEfsufLzOU7yEUQWgKcmvZnwqn8~",
+    "showTopPosition": false,
+    "skills": [
+        "Python",
+        "Docker",
+        "MySQL",
+        "opencv"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

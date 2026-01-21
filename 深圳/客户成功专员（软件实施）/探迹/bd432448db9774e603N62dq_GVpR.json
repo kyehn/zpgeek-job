@@ -14,7 +14,7 @@
     "brandName": "探迹",
     "brandScaleName": "1000-9999人",
     "brandStageName": "C轮",
-    "businessDistrict": "西乡",
+    "businessDistrict": "翻身",
     "city": 101280600,
     "cityName": "深圳",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
-        "latitude": 22.577393,
-        "longitude": 113.918687
+        "latitude": 22.57711,
+        "longitude": 113.919631
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 61,
+    "itemId": 9,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2hXby8o92Pd.search.61",
+    "lid": "9nctjyJ22xj.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "po4oxEmeHrLy1-a12v8CYzP3-6HOkkGvUni_vZv2KV294NlgAidd95JARuRI6T2me64hN6HAhtocra-nemY8u1SxsphURXA9um4G_1vUZby6Pn40OmOibTOd0Aj364wTgA21-XHPftKydNnoohCVNGZ_2N3lXISHz36Vah7KZ9PY7gs~",
+    "securityId": "OFhFepW0-H8P9-Z177uNqaxzDzsjB51h1XoQGs4RsUuBcZyyXA5f4vmnpoG8ma-L5vGOEpWfftEmGsNY76Seb79ti9sxfTou02SvujnbYon1DGZVHaa63qm28D0dzbnccDPjfHaXP4Rmuku6xuGtjp7Lm7AKF4WG8tGiI-mOAZFrcYw~",
     "showTopPosition": false,
     "skills": [
+        "客户资源积累",
+        "老客户续费",
+        "培训演讲",
         "服务意识",
-        "培训演讲"
+        "电销面销"
     ],
     "welfareList": [
         "餐补",

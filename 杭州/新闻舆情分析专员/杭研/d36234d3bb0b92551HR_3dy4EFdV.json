@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100016,
     "isShield": 0,
-    "itemId": 60,
+    "itemId": 20,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "6fx2m9W4vu5.search.60",
+    "lid": "9nW4AdJVTnu.search.20",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "a8yX4b7pINuts-A1H5PoXXb6zGWx4DjNx3m9ONDcOfRdkmcMmCUdaimxNZY0cW8dkEMxwe3qSu-eDScseQpbV_sKnajNs3ZCMLZ00sTvIvGXQX6gTosiJspkAI8JqZK5bsnymGKOEeCGRJ01gkf3a9Z5hPaJwcDCsnjzL8oLLWwPq4bJ",
+    "securityId": "efO07Ro7cJiFn-g1hnHwNjF8LrWPOWzSRv8UkjOzBxq3-cEVK-FiOveJCBBSnx2O5AywUDqNVULYPEMZ5MmX2ww8Vw9wAJCC-FBwcj1OGZoep2yHApPz2jUZ04ev1lWFx-PJb2G5wzqsKo11xMX3ZxCA276djQu9j2v6T1ClC02SsvcD",
     "showTopPosition": false,
     "skills": [
+        "英文",
         "新闻传播专业",
-        "舆情分析",
-        "英文"
+        "舆情分析"
     ],
     "welfareList": [
         "节日福利",

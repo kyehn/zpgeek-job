@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230718/607f1f3d68754fd0926850c4a6bcf624f3b895985685577745396d807832f7c5940f80d28bc903be_s.jpg.webp",
     "bossCert": 3,
     "bossName": "周先生",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "半导体/芯片",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240123/7bf6f160950405e9949e2208cd3e6bfddb6b51468227761745396d807832f7c5940f80d28bc903be.png.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101405,
     "isShield": 0,
-    "itemId": 57,
+    "itemId": 34,
     "jobDegree": "本科",
     "jobExperience": "在校/应届",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 5,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9a7WzOIcNfW.search.57",
+    "lid": "9oZz1TJghWi.search.34",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K",
-    "securityId": "htNT3s0MOZf4f-L1bIZ14hVo6G9BVQluBVpPI59hv9kZwvpii3H5_dP4shQ4Fp9NlnN39dKliE_4W3BSUyDIPYY0RcchS0bd3AjRtASZ54erjZW1IaE9mCpbHJOkLSpVkaci2vIs4ycNIY8~",
+    "securityId": "CEzf-03F-XmEi-B1WRgBA4LzD-AZhzH9gm9ByPnYMpsuIiizVGF5qMQLPTsuMWmb7WrBoU2sJNL5KupB8dP7hvLQIVCpzRbhrl35PWxX-Nv4xUDPNH0F8NYE-b9JTDMf9uFwG1fe0rXWTjg6_f_1UT-RaSQNvYhw3SV0E5BwqZRbo-X3ZM0~",
     "showTopPosition": false,
     "skills": [
         "微电子/电子工程相关专业"

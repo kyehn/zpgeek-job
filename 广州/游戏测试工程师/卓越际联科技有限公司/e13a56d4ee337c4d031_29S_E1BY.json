@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "海珠区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230309/607f1f3d68754fd01874295a8475246fcd007d12664dfbd0a575f9a8cb6c3a837ff49f2cdfab2807_s.png",
+    "bossCert": 3,
+    "bossName": "冯蕊",
+    "bossOnline": true,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "互联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240105/7bf6f160950405e9763d940637ab43c1b6bf9ec44707a6cd04c5cab85daa86eb9e7e03c57e4518bb.png.webp",
+    "brandName": "卓越际联科技有限公司",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "琶洲",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "10035b17e513e1d51nR63dm6ElBT",
+    "encryptBrandId": "9a80334346a8f4661XR73Ny1F1Q~",
+    "encryptJobId": "e13a56d4ee337c4d031_29S_E1BY",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.104854648706677,
+        "longitude": 113.34779307857525
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100020,
+    "isShield": 0,
+    "itemId": 37,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "游戏测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9HyH2ZZNx8G.search.37",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "9-10K",
+    "securityId": "0P_IiK0iqlmHl-V1B6JKvm0DDR-BEWr_G53pWhdy_9utuwBKTcqLnCG4k1oW3ljxRKS9kiJVV9flHnchjyekCXf2HUPbfKB9mWGp6kIA0XYBZhyuXW1sUsa-v9CgJJrzcNQoZJ91ZRvsfA2S5RCSHTGtJlOBC6oKmG76Mncnj91PXTpaYPQ~",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业",
+        "手游测试经验",
+        "主机游戏测试经验",
+        "丰富的游戏经验"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

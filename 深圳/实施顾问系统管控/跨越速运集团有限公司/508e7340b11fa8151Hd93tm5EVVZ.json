@@ -22,7 +22,7 @@
     "encryptBossId": "df33f2bc8f1a4c1c1nR83ti0FVJX",
     "encryptBrandId": "6c949a627f59d09433xy0t67FA~~",
     "encryptJobId": "508e7340b11fa8151Hd93tm5EVVZ",
-    "expectId": 1014042683,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 22.629627,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100502,
     "isShield": 0,
-    "itemId": 189,
+    "itemId": 40,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3inUGplqsjy.search.189",
+    "lid": "9nctjyJ22xj.search.40",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "8-9K",
-    "securityId": "iRWV0eyMfxicm-I1GP3UmPyH0NG0VtKEQa-nd7hCJWGQHpBU95aXIILKbdz9ujva8-q9gh-6fYUYFOtxzRb4JVHRQTrfrmt6LcSnbyVYWeK5PENZ7HIuorjiYYlu6Fcbe8Y8COwQ4gWOprg6sKlW_f1TRe5lPD11b1iJ4dade2VUNneZKw~~",
+    "salaryDesc": "8-10K",
+    "securityId": "Bk3fZpIPuHsrA-61gOoDSVDskjNDZOTFxXqBdmK9mHwFskn7Fos7jxL9PGG3mcoqkXw00WhjXYFdb-ZjHMpBXTbF-YqMexzXQbyUJE_l96ytOU4WIhhR1EU3TpCxXeZGgNV9AYs92vd2-0KSr6dYpEds0hPy436_ONLf0xik1AbxiyCEQg~~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
@@ -59,11 +59,13 @@
         "问题排查"
     ],
     "welfareList": [
+        "有无线网",
         "五险一金",
         "团建聚餐",
+        "带薪年假",
+        "年终奖",
         "保底工资",
         "底薪加提成",
-        "绩效奖金",
-        "有无线网"
+        "绩效奖金"
     ]
 }

@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200406/55d6cb1b327152ed46368189cf902b648654097835b0ba981ebee0ca8ba5adaa_s.png",
     "bossCert": 3,
     "bossName": "何女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘主管",
     "brandIndustry": "互联网金融",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181130/5a7f5dfbd4b0ca719f5955ae5c476947cfcd208495d565ef66e7dff9f98764da.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100206,
     "isShield": 0,
-    "itemId": 63,
+    "itemId": 18,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8njBPOvNMcr.search.63",
+    "lid": "9HFtAAsm0RL.search.18",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "9-14K",
-    "securityId": "AJIoItrkzBjxC-31SegIuxFP8eBXC0sV0YZrQRwZMK3vm3X985yTTN3moY6sDQS-N_OAmgEbtahor3p3Fxb5TbGZCOG7sfP_EbgIlodiLjnVJzKlxggZomfZOM8pRK1bEAdI0dDbQf6mog~~",
+    "securityId": "C21aOA7rEKNNl-P1YdqRTSkLQyDX8a6bqd-BJ5vxnh1qXals_oP5Xi-pL9jCaEWKTGrgEqn5EWS3RJygUO1YtLEAbP8fYQJrYFbNeAeMQuNTGos9bqmC-2pGKmL1pKJNfNycJHEpkuFrEZqo4Fvb8qEsThtcJJ8qbcg3yKgOD8ms33z7UA~~",
     "showTopPosition": false,
     "skills": [
         "自动化测试经验",
@@ -60,20 +60,13 @@
         "性能测试经验"
     ],
     "welfareList": [
-        "团建聚餐",
-        "餐补",
         "节日福利",
+        "团建聚餐",
         "员工旅游",
-        "保底工资",
         "绩效奖金",
         "带薪年假",
-        "生日福利",
-        "交通补助",
-        "宿舍有空调",
-        "包吃",
-        "年终奖",
-        "五险一金",
-        "工龄奖",
-        "全勤奖"
+        "保底工资",
+        "餐补",
+        "五险一金"
     ]
 }

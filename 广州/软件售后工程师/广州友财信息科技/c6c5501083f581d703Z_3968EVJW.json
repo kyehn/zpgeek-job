@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211029/607f1f3d68754fd07056d6d32896767d939ce6be4de8365c10a576c8110a03112d467107a35daa4a_s.jpg",
     "bossCert": 3,
     "bossName": "李女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "人力资源经理",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200511/440532813c10c7daf6ee382f01f7fb6e6a0c650cbe0ceeb6029f3307a4440b2b_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "f9d9a5ce3bef30a01HJ52Ni9GVA~",
     "encryptBrandId": "81138a2316a8d5dc1HB509u1GQ~~",
     "encryptJobId": "c6c5501083f581d703Z_3968EVJW",
-    "expectId": 1014042683,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 23.16032,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 189,
+    "itemId": 44,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8RL2nTe65dS.search.189",
+    "lid": "9HFtAAsm0RL.search.44",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K",
-    "securityId": "GN4KdQiMklVxw-G1S4OpPGlcSE8JTE2ii8Wn2TrZyRVtYsX3EHdS2-LM8WBBiZQ7IPCIhPFiweHPoYl6_fKxH4A6ytXQSEyzk8el0nFmWiV7XvDLhn0Xjm-SxdKz3SNdrpBODJXrEWFR",
+    "salaryDesc": "7-9K",
+    "securityId": "HY_oVMXQtMPva-Y1sdCzciaS3hAV9VW1m9vwg0znO53zPqAPWjlafMeaMco85fwF2lrgiW1Pa2WEmwBVfvBcqEgKyj3cFeXKl7Q0iM0tyRkmhJ-Ps52QR8SgqmzEaK4q4d6Am1stEFXVI2IxtM7LgKOgUZ-FdSYrFDWxzwKPfsqq7zkl",
     "showTopPosition": false,
     "skills": [
-        "SQLSERVER",
-        "软件售后"
+        "软件售后",
+        "SQLSERVER"
     ],
     "welfareList": [
         "有无线网",

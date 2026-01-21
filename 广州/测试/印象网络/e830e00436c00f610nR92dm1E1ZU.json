@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "荔湾区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "bossName": "张女士",
+    "bossOnline": true,
+    "bossTitle": "招聘主管",
+    "brandIndustry": "智能硬件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210308/0802996a83379ded78738c8956c4f17297cd2ce5e62dd47e3693559db397672e.png",
+    "brandName": "印象网络",
+    "brandScaleName": "20-99人",
+    "brandStageName": "未融资",
+    "businessDistrict": "芳村",
+    "city": 101280100,
+    "cityName": "广州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "c5924140ff8e17f01nR909u0F1NT",
+    "encryptBrandId": "029b952b52776c951nB_0tm4FFY~",
+    "encryptJobId": "e830e00436c00f610nR92dm1E1ZU",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 23.075692,
+        "longitude": 113.233986
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100018,
+    "isShield": 0,
+    "itemId": 19,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "测试",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9HFtAAsm0RL.search.19",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-9K",
+    "securityId": "ZuUAORzO94Jgu-z1j2lsjM5hJ-nzv4RusYjnV2FOb4eVgmr7KcrfyoaSEeKeYEWMHy7Nng5nRQxQ1HUknxYcsMmDls0L_3-6Ry4sJPPRxsagMu6BoyijFkKixIAqpNJHt1eug9Vz-afyUwPe-_ZMj8Sml1p5IgoYnkkErtup_khe5cvTp-k~",
+    "showTopPosition": false,
+    "skills": [
+        "自动化测试",
+        "订单"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

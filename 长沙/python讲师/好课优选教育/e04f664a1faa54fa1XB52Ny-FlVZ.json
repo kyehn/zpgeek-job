@@ -22,7 +22,7 @@
     "encryptBossId": "9cfbf3a03574d3b90nF72dm0GFRY",
     "encryptBrandId": "7348508a3adc09941XV829S_FlM~",
     "encryptJobId": "e04f664a1faa54fa1XB52Ny-FlVZ",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.236403,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100303,
     "isShield": 0,
-    "itemId": 79,
+    "itemId": 34,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "BIoL6f0yDi.search.79",
+    "lid": "9mS45Elv0W0.search.34",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-11K",
-    "securityId": "6ka0zUIpMy24P-V1QywZUsi7AaYBNNg75loV4zq775-yw-OtP5ZgDxdMaFRq-Z8dTm4cwXW9c__VIGTwYs0kWuiI8umWTNgBO-_EnTGPjlTBKvZNy31s",
+    "securityId": "8M8fMSPdSPSwj-L1uGvM6uDbdp_6wWyM5t793podMx7kNrsYCVUCSdDhXd2sL989QpGoACVNSJwbSEBvGDlAQY-84Vfh0F7ldHGFozgSVRfQqngN0gGjm5h9E0k8hznridjvP6T7-tAVUxg~",
     "showTopPosition": false,
     "skills": [
         "后端",
@@ -60,22 +60,20 @@
         "Java"
     ],
     "welfareList": [
-        "员工旅游",
-        "有无线网",
-        "住房补贴",
-        "定期体检",
+        "零食下午茶",
         "团建聚餐",
-        "带薪年假",
-        "生日福利",
-        "包住",
-        "补充医疗保险",
-        "底薪加提成",
-        "免费工装",
+        "住房补贴",
         "通讯补贴",
         "绩效奖金",
+        "免费工装",
+        "带薪年假",
+        "定期体检",
         "节日福利",
-        "零食下午茶",
-        "宿舍有空调",
-        "保底工资"
+        "保底工资",
+        "有无线网",
+        "生日福利",
+        "员工旅游",
+        "底薪加提成",
+        "补充医疗保险"
     ]
 }

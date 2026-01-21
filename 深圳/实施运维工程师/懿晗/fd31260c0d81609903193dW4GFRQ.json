@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "龙华区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250515/607f1f3d68754fd0d261cd5a7b7b7de4d0e088c3a40843c07c5507958c18431e82b4483d6b77d12c_s.png.webp",
+    "bossCert": 3,
+    "bossName": "熊女士",
+    "bossOnline": true,
+    "bossTitle": "招聘专员",
+    "brandIndustry": "人工智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230712/7bf6f160950405e966ca3f36d8658b4edff74b938bcf59c89072af1b31e9ac0aad9520ff7aa4b324.png",
+    "brandName": "懿晗",
+    "brandScaleName": "20-99人",
+    "brandStageName": "A轮",
+    "businessDistrict": "龙华",
+    "city": 101280600,
+    "cityName": "深圳",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "f4c395056424bcae1nV53NW4E1JW",
+    "encryptBrandId": "293f55626b46bc871XB72dq0Els~",
+    "encryptJobId": "fd31260c0d81609903193dW4GFRQ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 22.687767,
+        "longitude": 114.072899
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100028,
+    "isShield": 0,
+    "itemId": 59,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "实施运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9nctjyJ22xj.search.59",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "8-12K",
+    "securityId": "uXtLAlXgHoOAF-r1Wr396vcH6Jg450heM1Y4IagD9dqUlQf0LbcQ-L9_FUicuYbAwNusEJsmm3pSDhZjthvd50qiChKyM-jORI1ly66juzDZxhp-bx4-VhCZDvNBU9iRyEYXdJC9Xx8Xz6HF1sRUs0zK0GnZeEoZz9uUt3Cew0n4gRDp2-I~",
+    "showTopPosition": false,
+    "skills": [
+        "ERP",
+        "智能制造",
+        "MES",
+        "可适应出差"
+    ],
+    "welfareList": [
+        "五险一金"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "临平区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20251209/607f1f3d68754fd0fa3541a39d6cfe3c437d7285cfcccf2186b17d651eeca64487a19dac92a73ea3_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "宋女士",
+    "bossOnline": false,
+    "bossTitle": "人事",
+    "brandIndustry": "医疗健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250103/7bf6f160950405e90c97bdd132faa2798f9ae21b2db2c58e4c92437e4b8064bf89497809791cd017.png.webp",
+    "brandName": "杭州医智锐科技",
+    "brandScaleName": "20-99人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "九堡",
+    "city": 101210100,
+    "cityName": "杭州",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "5ae9315d38614a0a1XJ53Ny9EFo~",
+    "encryptBrandId": "139141223d0092441Hxz09y7FVQ~",
+    "encryptJobId": "0dc6de9ff009ad990nV639q4FlFZ",
+    "expectId": 1213281944,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 30.328761461555377,
+        "longitude": 120.28551712446922
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100006,
+    "isShield": 0,
+    "itemId": 35,
+    "jobDegree": "大专",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobName": "（双休）一线运维工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "9p2jJKk8YgV.search.35",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "6-7K",
+    "securityId": "a1xDsX0M8tRcd-x1q8E1fLmYCO0Ak5h1qSEeNFPYrfpK6FzAG15xKaIoslJLY4HqifyXrnAnxgj2baV8RidpGFiEG3eNZP1gM2w9SX9yZsLK-Z88a8sbJaRoF6YeW41YJcz9mG-ojUbbrQ~~",
+    "showTopPosition": false,
+    "skills": [
+        "实施交付运维"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
+}

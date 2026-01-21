@@ -9,7 +9,7 @@
     "bossName": "高先生",
     "bossOnline": false,
     "bossTitle": "经理",
-    "brandIndustry": "培训/辅导机构",
+    "brandIndustry": "在线教育",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210616/37ba0700c1e7795ed7d7d8e11b269f45894d1869f75fb66a8076589725a2a3b0.jpg",
     "brandName": "青灯教育",
     "brandScaleName": "20-99人",
@@ -22,7 +22,7 @@
     "encryptBossId": "4faba4193b7759c10nN-2Nq5GFY~",
     "encryptBrandId": "f31dd2ff7bd0fb6b1Hx83ty8EA~~",
     "encryptJobId": "81fd07705403ffae1X1y2967FFdT",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.293289,
@@ -30,9 +30,9 @@
     },
     "iconFlagList": [],
     "iconWord": "",
-    "industry": 100303,
+    "industry": 100012,
     "isShield": 0,
-    "itemId": 179,
+    "itemId": 44,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "aty8bWszkvB.search.179",
+    "lid": "9mS45Elv0W0.search.44",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "Cq5JRbNDIgNJB-t1or_Wl_XlVbZoFMedg8f-mWjkvXVDM2MQz9bqOQQsLLNHh4hFclXYy_FqlqjRiG0aeUzi2lVTdyLSV7-n-W53NccU07-RQRZcDxuh3mNphCDl3PRxfl1ZAYJWL1Iq",
+    "securityId": "38UWlLqFRFhBL-P1JwXeh8kQFpSq9ocN4W77NMhNtxTk4rciIyEmr0aOFFZtPsYPwXK8skdRXNZ7iPEeVDKX8rC2ORdARSZGmjeAan6i8DadWPwCuU12pFSIc4hABmxqRML5GN-mS4ox",
     "showTopPosition": false,
     "skills": [
         "爬虫经验",
@@ -59,13 +59,14 @@
         "Flask"
     ],
     "welfareList": [
-        "通讯补贴",
-        "带薪年假",
-        "包吃",
         "全勤奖",
-        "餐补",
+        "带薪年假",
+        "通讯补贴",
         "五险",
+        "保底工资",
+        "餐补",
         "节日福利",
+        "包吃",
         "零食下午茶"
     ]
 }

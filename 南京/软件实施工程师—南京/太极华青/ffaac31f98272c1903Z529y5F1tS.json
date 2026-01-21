@@ -4,10 +4,10 @@
     "areaDistrict": "鼓楼区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
-    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250221/607f1f3d68754fd0aa4b74491c622109bddbd373307fe18d45813a93eb5d23642c3d2443b05255a6_s.jpg.webp",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250827/607f1f3d68754fd07906b09ad8f49880721f6cab4877a81945813a93eb5d23642c3d2443b05255a6_s.jpg.webp",
     "bossCert": 3,
     "bossName": "关女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210210/5e4a450eb4deecdfabd9e32536b731ba0258941283b6d54d482ce77a51e4783e_s.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "31f705b29d9d55d10nB-392_GFNU",
     "encryptBrandId": "3ae0928aae8051a133B83w~~",
     "encryptJobId": "ffaac31f98272c1903Z529y5F1tS",
-    "expectId": 1077417861,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 32.067195,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 181,
+    "itemId": 11,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "atVkHezmucV.search.181",
+    "lid": "9OhcMSmhGAX.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K",
-    "securityId": "Enb3I6fX01Nhc-41ZLtzkFar6l5GLQo0xc4bheiPkZciapPZoOyLd2CMmRAboKiY3hdn6Zh_REetH_88I-0mPg47RncShk4hMNcqR6GyNETLOQW8ruL50LG3I1lsaUOgKPYduziQjQ~~",
+    "securityId": "kOecJn7R5Jb5F-41EzbMciurm1_jV-9ZGw9zpUzxJlGAI0QGaoPA38sAf3gG9bZ4IbolsyxMq7GDjuSItSYTIEyN9dXHedBw_oyUZ131O1Oa_5cbccfgoI4c5GUFT1bP8nhu1gVSJPt6O3I55hWFm4WVegxLby6Q_iQ_SEscGTcxYA~~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
-        "熟练掌握SQL语句"
+        "熟练掌握SQL语句",
+        "计算机相关专业"
     ],
     "welfareList": [
         "定期体检",
