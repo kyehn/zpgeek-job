@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 22,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1Reo0d3VHOn.search.22",
+    "lid": "a0TFle9lHgf.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-12K",
-    "securityId": "cRYdR735NyHrJ-216h4nAjFfjKq7XM_ZPF1WZzVr80J3ZEvrxFCUrUkF0QL7xPedXypbej2NpQJCFABSeY62S_hxsOg0HJ6gHMT-597L5cQoARozRa36zdQU-2CUlKo1eAA-dqkjJQ~~",
+    "securityId": "FIVJk4o7AK62x-A1VMyj9SPKsJNsQZ6AxCqLbDFJHX-X4kGUWa8YmSO0vHUyTSA4WJCyxKcqnBpNRFF_1bjEX8DorFdgNJ99HvG7JVAtHxf7ZUwqBJ8_HkxgyZGpiGuM3CYhIrBMvw~~",
     "showTopPosition": false,
     "skills": [
         "软件应用培训",
@@ -62,11 +62,15 @@
         "项目验收"
     ],
     "welfareList": [
+        "生日福利",
+        "节日福利",
         "全勤奖",
         "带薪年假",
-        "节日福利",
-        "五险一金",
+        "年终奖",
         "笔记本补贴",
-        "年终奖"
+        "绩效奖金",
+        "团建聚餐",
+        "五险一金",
+        "通讯补贴"
     ]
 }
