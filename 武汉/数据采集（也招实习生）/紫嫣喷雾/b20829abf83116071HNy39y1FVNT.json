@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240607/607f1f3d68754fd08a9f63d125c14e5fc20ec43e4c273220d9ea34bfab3155a56bb6094427be753d_s.jpg.webp",
     "bossCert": 3,
     "bossName": "刘女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "新零售",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100017,
     "isShield": 0,
-    "itemId": 45,
+    "itemId": 13,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,20 +43,20 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cK1qnXw7Bx.search.45",
+    "lid": "9xjGxdrg9Ir.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-8K",
-    "securityId": "axnKahuG58paz-r12WNDXj9GzGLXZoUx9TlgmAIPAXom4wMFX7eZJ4c2_BOy3kBVM60GYxD30O1Zt_VUWjbJimFr6yjRBWJ-30h0MW6NGoVsGyUfNSFtsJiHRbNANttsAucq0p_x7Cf9yQ~~",
+    "securityId": "Qt95V7qZNYYgw-x15iYjqjNvylxRd-i_Ms-tnD-PT8SrVnMsKGCPkFI7lTXMj6IABjkC1k1czezpiSlk6e1DVhzD2x-4mlunAexyEFqaz433IJKVi5YvdLeesTJnzjXpBEiGDrpDOfqX6zXDjKT3xntZlv4krIlQnXqYUYC6PuvkPxnY8w~~",
     "showTopPosition": false,
     "skills": [
+        "数据分析/挖掘经验",
+        "计算机相关专业",
         "Python",
         "SQL",
-        "计算机相关专业",
-        "数学/统计相关专业",
-        "数据分析/挖掘经验"
+        "数学/统计相关专业"
     ],
     "welfareList": [
         "五险",
