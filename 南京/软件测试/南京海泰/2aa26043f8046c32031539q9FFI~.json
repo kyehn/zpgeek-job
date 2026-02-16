@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
     "bossCert": 3,
     "bossName": "耿女士",
-    "bossOnline": true,
+    "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "医疗健康",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221206/7bf6f160950405e9dfab61d7e4d4e8aaa9b273e5648295cd2693c4dbf7090a2eb96b4e31e8c9f4f0.jpg",
@@ -22,7 +22,7 @@
     "encryptBossId": "6101bc29a05ce8751HBy29y9GFQ~",
     "encryptBrandId": "4b35e714cc27100b1HB92tS-",
     "encryptJobId": "2aa26043f8046c32031539q9FFI~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 32.089169,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 85,
+    "itemId": 3,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "7FllBLsigUh.search.85",
+    "lid": "194B4rZxIX3.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K",
-    "securityId": "fgEIP6_z3JGB4-n13LmjwMOtawB-RYf5DNGiVY4xe6xSKVnx9IyQwWS4U2Aczx5Q1gmZYxJeP1mG0ryZoCRcv9bGSUFeHWFhOZI6wdDlGcIuAqznYL8Syz_1oKrBIps9RGgHEY1jkTzfq9CrQ3oH4vF5I1N3En_yIwJmxGAelRr9QA~~",
+    "securityId": "APpzSDWzvPTyI-61yRLiNr5al-JXXZRZzNt3XeGBcqXRjzngExUMAo8IOFGrZv0lnX8l53KZ3sMlbVUKrP8IFbVOZCjLwpep3VAWQKWOK_WFli4~",
     "showTopPosition": false,
     "skills": [
         "软件测试"

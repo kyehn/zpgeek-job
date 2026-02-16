@@ -22,7 +22,7 @@
     "encryptBossId": "4b0b6c69245eebc01XJ_2NW6FVY~",
     "encryptBrandId": "8d038826246b5fb31nV83d4~",
     "encryptJobId": "5f28d44d62f2316a03d52N69E1JV",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.973604,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 6,
+    "itemId": 4,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "28l30uxM3rn.search.6",
+    "lid": "195pfUpcoVW.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-9K·14薪",
-    "securityId": "znJyL26P5YjX5-C1rAJ3jHt_w1XSPUIAF2NmVvkhvogDF5l1b_coec9MF8o0o0NuuU07iyleBgWGnkXn5PPGQF4LOg8vBB42ZC40NxTeaRrY5P2bx1bJwF0gXhkN__wP_W4eYY1g5A~~",
+    "salaryDesc": "5-8K·14薪",
+    "securityId": "0o8Ex934soSFs-l1thCIbSgsSG_Sb6gdsA9OqfOo_L7DONq6zI1QayqHtKCgcqPXRC6SWSfmZZ6S-zkZWbkhZa9PdN_vqIY96uPM2DpT0GNinGk~",
     "showTopPosition": false,
     "skills": [
         "软件实施经验",
-        "OA"
+        "OA",
+        "SAP",
+        "CSM/PSM"
     ],
     "welfareList": [
         "餐补",

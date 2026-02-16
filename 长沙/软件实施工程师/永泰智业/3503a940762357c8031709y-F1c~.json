@@ -22,7 +22,7 @@
     "encryptBossId": "6f60fc6db4385f750nB_2t68EVE~",
     "encryptBrandId": "536cec5c9555b2291HF90tu-GQ~~",
     "encryptJobId": "3503a940762357c8031709y-F1c~",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.15881,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100006,
     "isShield": 0,
-    "itemId": 15,
+    "itemId": 10,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "2qrMwRPKTmM.search.15",
+    "lid": "NOTcnW5mQa.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "-N9JBKhuqQA6n-51bhbh-0IaMDWUi5Upec9Nt2ClKgxkWNM2ksMOPHLYwyaiPMpr4o1vO1OSzeFSTd5IMoRy6akx4Sg1HyR4rfXeZeaA5W4Q94Hyj-rkHsgglYxLLs-rWG8qqxIHHhQ~",
+    "securityId": "ToLWYgpTROUPS-M1gb4B7EcSeoj5R-7e8F53KV1tgs8Co5BwHCQq41tnao0H0S1I7NX05uZBwYtdoRwnxZ5tTHil-hK-jq1dJs9JYnqht_6GoDq7",
     "showTopPosition": false,
     "skills": [
         "现场运维",

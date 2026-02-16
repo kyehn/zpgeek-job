@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
-    "bossName": "林女士",
+    "bossName": "林岳",
     "bossOnline": false,
     "bossTitle": "行政专员",
     "brandIndustry": "互联网",
@@ -22,7 +22,7 @@
     "encryptBossId": "db58aaf84e9b3d411nR-29q5E1dT",
     "encryptBrandId": "028bcd7d07b9a3260nNz09m1",
     "encryptJobId": "cf8877a89792fad91XJ73Nq1EVRV",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.581362,
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5Wvmi2CEAdI.search.15",
+    "lid": "8CNdfjVKtdj.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "bzjAc9mx_UD9w-b1D-KSf51tiDX-fVVIN7EKI9kpBpzfdImLQW1wdkGXXcCPLQ7iZGrwi3S3GntiXhQohQ1Mz5csHqa8O6NybC5z7_4hvbzQjXV4Xw~~",
+    "securityId": "FZnu3xbHOVEfg-21zdxN3pjSAPspyu4qh4IroUX4-wPsvhPdbs6mYhbPRalbqLY-nIJ9_BYl41v9_4dFNDrqq1JJBNn0FUQoxMVqXwyoN5yrkUe--A-BGyicnKVc_tIFExtxiCzbNPmC",
     "showTopPosition": false,
     "skills": [
         "功能测试"

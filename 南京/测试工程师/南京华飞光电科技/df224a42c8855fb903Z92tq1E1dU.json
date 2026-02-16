@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250226/607f1f3d68754fd0112ee87da3c936e6a92111f3b99622f9eafa632b0373a2c3e0443a3f498d1c2d_s.jpg.webp",
     "bossCert": 3,
-    "bossName": "陈铄慧",
+    "bossName": "陈女士",
     "bossOnline": false,
     "bossTitle": "HR",
     "brandIndustry": "半导体/芯片",
@@ -22,7 +22,7 @@
     "encryptBossId": "61af5cadd409e05e0XB73Ni4FVs~",
     "encryptBrandId": "4d1719994a1e44a11nd-3d-8E1I~",
     "encryptJobId": "df224a42c8855fb903Z92tq1E1dU",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 32.03504,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101405,
     "isShield": 0,
-    "itemId": 92,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "27zfneJ4nXZ.search.92",
+    "lid": "O5bRgfLuIh.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "6-8K·13薪",
-    "securityId": "5gjdxWZrOWYx7-Q1mBSyYItGoZ9uwlt3qq8KikRZ-axLhSXEAumLQt-fo-wOKUZYtKUDs3nizL82Dg0DGiYj0E4_OxR3TM-HUg8LPillv772DgwOgKhorzDIUfG5omym4AMwQSnFlBkzCw~~",
+    "salaryDesc": "4-9K·13薪",
+    "securityId": "DFqRmoh4U266W-m15-OySTrpuokP-qbNfAhIHxnDWlsdf074efDZm18r-l2rfLV2x69HHugHBM5plhKOcLeDRxJhLCGA5x7vnSDMydDeElOT6WLQaHc~",
     "showTopPosition": false,
     "skills": [
         "测试工作经验",
@@ -60,14 +60,16 @@
         "软件开发经验"
     ],
     "welfareList": [
-        "定期体检",
         "年终奖",
-        "节日福利",
+        "团建聚餐",
+        "餐补",
+        "加班补助",
+        "有无线网",
+        "五险一金",
         "员工旅游",
         "零食下午茶",
-        "加班补助",
-        "带薪年假",
-        "餐补",
-        "五险一金"
+        "节日福利",
+        "定期体检",
+        "带薪年假"
     ]
 }

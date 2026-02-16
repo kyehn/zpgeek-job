@@ -22,7 +22,7 @@
     "encryptBossId": "18ad73885c6f03660n163du0E1Q~",
     "encryptBrandId": "d84d68c6094bf98003R43di-EQ~~",
     "encryptJobId": "0089968089c7acb403d529-4EFVU",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 32.000246,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100101,
     "isShield": 0,
-    "itemId": 9,
+    "itemId": 5,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "28l30uxM3rn.search.9",
+    "lid": "195pfUpcoVW.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "6-10K·13薪",
-    "securityId": "sUf4_mQ6ImvNB-r1AT5YSkqVp_1NWcABmx2gHKAG3gV7fTS0_zA1BHNOWezqST2xtHC2Rx_ghqEeWFwz_c5rFW95wPZCmIVSUEoJ8v63zJUezy9FAkPamlOESLDQaaM9TFuHas9WQXWv",
+    "securityId": "iHGrwHfdAfGQ6-M1fLkE5QWqij2JqP8x5Ej-Xgb8fAbCozdcibNJyRrKhJg6KK_s-ELqigPnJpzA1eBeBOCzTzcOiKT6XIH0FHOEuQmpbPyQyjUqXA~~",
     "showTopPosition": false,
     "skills": [
+        "软件实施经验",
         "ERP",
         "OA",
-        "计算机相关专业",
-        "软件实施经验"
+        "计算机相关专业"
     ],
     "welfareList": [
         "年终奖",

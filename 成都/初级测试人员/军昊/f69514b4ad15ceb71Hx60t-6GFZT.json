@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210704/af22ec0f594e32a2d0830e9d3d502236aa2799ed23b3ec2328d254dc51341e84_s.jpg",
     "bossCert": 3,
     "bossName": "曹女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "综合部部长",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
@@ -22,7 +22,7 @@
     "encryptBossId": "e4f825cc76fb326e0nNy2du5EVM~",
     "encryptBrandId": "3b6bd3dfbf7f7ddf1nN43tm4ElI~",
     "encryptJobId": "f69514b4ad15ceb71Hx60t-6GFZT",
-    "expectId": 0,
+    "expectId": 1213281944,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.672764,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 15,
+    "itemId": 9,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "53piGlQnvtk.search.15",
+    "lid": "8CNdfjVKtdj.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K",
-    "securityId": "OPk9R13YxWVM5-x1SWfdfvndGslLNNuYiCjGd1Ss9vVWviWwXXixAJAnkeYHUHx3A-8vVdnxCbzXA_bVu6QX3WmEikj58B64-03_h2OzvqKLhatuVsk~",
+    "securityId": "pOSOS0iZwGOU6-A1rvQAixQHv-ry1uvMzy6vDerwf_npTTPglsX8yKqVlczaQF55CeWkx2Hkny-QWLiuO8GwQVe07EVHgON3sL2cbC7i6FfbKY-Em5f_WTbECrx1lF5GBYpSXt1iwBQ6yirkZPZzYl_KkNMcC_71HVKvAmTJoxNP6c_JCg~~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

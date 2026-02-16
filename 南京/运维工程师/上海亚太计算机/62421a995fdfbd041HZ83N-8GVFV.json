@@ -1,7 +1,9 @@
 {
+    "afterNameIcons": [],
     "anonymous": 0,
     "areaDistrict": "鼓楼区",
     "atsDirectPost": false,
+    "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
     "bossCert": 3,
     "bossName": "张女士",
@@ -12,7 +14,7 @@
     "brandName": "上海亚太计算机",
     "brandScaleName": "500-999人",
     "brandStageName": "未融资",
-    "businessDistrict": "建宁路",
+    "businessDistrict": "福建路",
     "city": 101190100,
     "cityName": "南京",
     "contact": false,
@@ -22,12 +24,15 @@
     "encryptJobId": "62421a995fdfbd041HZ83N-8GVFV",
     "expectId": 0,
     "goldHunter": 0,
-    "gps": null,
+    "gps": {
+        "latitude": 32.086166,
+        "longitude": 118.75965
+    },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 29,
+    "itemId": 13,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -38,18 +43,18 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "amFDoNX9yis.search.29",
+    "lid": "NPiPOZt5Py.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "WAtJKRjfR464X-Q1AQCElMFest9DiiRgAX7ZFA0BQTySIINNwqRnqf-Eh7iD8YWKyxGmOrZWrlNeYnglOfn38ne6RO91N82g6WcOrMxCx89e2JCqky0~",
+    "securityId": "pwn9EHLnuAScF-C1Md-MMKU7ut_4bgMGpkP_AGSNVWYj5NqVCTPchW7s2P8n-acyq5y8boK96QVhoRCtyfQ2Z1zxf7qMX7ztu06lAeizNFg6RFrWEVU~",
     "showTopPosition": false,
     "skills": [
-        "系统运维",
         "网络运维",
-        "MySQL/Oracle"
+        "MySQL/Oracle",
+        "系统运维"
     ],
     "welfareList": [
         "五险一金",

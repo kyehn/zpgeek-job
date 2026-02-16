@@ -22,7 +22,7 @@
     "encryptBossId": "670714045eb5cb4e0XRz3d--E1s~",
     "encryptBrandId": "a513f1ac53aa58960HRy2tq9FQ~~",
     "encryptJobId": "1084f87a2a7286c81XV72965F1RZ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 32.068491,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 66,
+    "itemId": 13,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "27ddsAOppoF.search.66",
+    "lid": "195fdFR04Ci.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-6K·13薪",
-    "securityId": "d2xfW54wmtrki-v1v09Bxnz4usrgic1X9AR-Ru_nPQyweLe2AxLCo7PjKj3JQ-xHiaqI-VNElMXZZAwpjkmx3I8JaFwJdw0WqjQKo92LL32lPf48sF2QXLgf0diAs1OpGsqt1_QXhTZo",
+    "securityId": "KktRmmQm_f55Q-71mhVlzol2_fq6kC0e-XkcIay1i17rnZYB-Iyel9N6CE2xylJO_CWx5Syk6-gFAtsITos00GB0izYqbyhFxkNiYB7zbuVpVjJK8A~~",
     "showTopPosition": false,
     "skills": [
         "分布式技术",

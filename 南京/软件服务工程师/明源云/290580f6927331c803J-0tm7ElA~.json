@@ -1,7 +1,9 @@
 {
+    "afterNameIcons": [],
     "anonymous": 0,
     "areaDistrict": "雨花台区",
     "atsDirectPost": false,
+    "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190620/18d1103d8a904ef63a8f0866c90be44ad543a2ba5fe2882b2a18b931171dd9b6_s.png",
     "bossCert": 3,
     "bossName": "刘先生",
@@ -22,12 +24,15 @@
     "encryptJobId": "290580f6927331c803J-0tm7ElA~",
     "expectId": 0,
     "goldHunter": 0,
-    "gps": null,
+    "gps": {
+        "latitude": 31.977007,
+        "longitude": 118.765332
+    },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 229,
+    "itemId": 9,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -38,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9buhOClG56i.search.229",
+    "lid": "NPouuQMz7l.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "lepmeqFmO5DW_-T18Z3yUvPmxa2ODogPVV1E-LNCMB3MlPSUdp-y9r9wcFF7JN-et0usasdsB0qqQelX54s1MO3QxyvinY4R8mGWHPvyUBP_jg~~",
+    "securityId": "njM10f8uXSZT3-B16zu3pIp8wU6N595J4nH4chwo3VqHWbxFVxFzYVdmNkq-BsmKhal9pJfqQ3fcOTg9D_e6E2yTD7O3ftEaVZxFpCxZB-nM5A~~",
     "showTopPosition": false,
     "skills": [
         "售后技术支持",

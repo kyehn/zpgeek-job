@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
-    "bossName": "李晓艳",
+    "bossName": "李女士",
     "bossOnline": false,
     "bossTitle": "面试官",
     "brandIndustry": "其他专业服务",
@@ -22,7 +22,7 @@
     "encryptBossId": "d58085b116e45f8e1nR62NW-FltV",
     "encryptBrandId": "6b62d8d7c73c6eed1XZz2d-1EA~~",
     "encryptJobId": "db7c1705c7afccf333d83Nm1EVE~",
-    "expectId": 1334030427,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.97985,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100608,
     "isShield": 0,
-    "itemId": 42,
+    "itemId": 1,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4ZVLr9DPxA5.search.42",
+    "lid": "195fdFR04Ci.search.1",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "4-8K·13薪",
-    "securityId": "vStH7IEugH5us-P1Q8uda2zwCoXgRJmVWY7XEInAuHDP1Q848rcOhud4dl2BbwKzBLsQD5M3ZmJUmG51M6NNDSFpEGTSEUOtwp0oQHscCZhBparIvNxEkzKKF_hJzyCanQkzlqhaE53b",
+    "salaryDesc": "4-6K",
+    "securityId": "gnNxrGl8iDExB-i1VsbjZruLMbQnUvsCVLJapMO9trp0g38a86aUIFpEUk_JuqApGINzHTFKhbm7oMQYP0-AZZckB-WQBKEfsUVt4o2pGKpwTN0GTg~~",
     "showTopPosition": false,
     "skills": [
         "IT服务"

@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
     "bossCert": 3,
-    "bossName": "何莹莹",
+    "bossName": "何女士",
     "bossOnline": false,
     "bossTitle": "人事经理",
     "brandIndustry": "通信/网络设备",
@@ -22,7 +22,7 @@
     "encryptBossId": "10d21610253655000nNy09W4GVA~",
     "encryptBrandId": "4f2aa6409abd010c1Hxz09S5Eg~~",
     "encryptJobId": "ba7c5774735814521nR72929F1pZ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.937237,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 124,
+    "itemId": 9,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "170Wnmaupkm.search.124",
+    "lid": "194B4rZxIX3.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·14薪",
-    "securityId": "fqrYGwhcHoYZq-L1hdEP7nhIK3i79fXwPbsHJKygiico5j3Ni0gjSCsGwvAtOSu60ftmoZvYz7whKEWDHAQvmgyzjDjE2uARpji_4TFf89Jfg5D1egvrTQt5HK6svXXP-ZBsV_aMWLJp",
+    "securityId": "_4HMIIeenlPCU-E1u1Kb3N1Zb2Yb3Uj3bD4IMXvUp0FmD9EGGj5i4bs6z_bue3hbQg2KtnsdClt_tj1oY5ROFu4AuUWPvlQeTcxL_Muu0AwmhWRmng~~",
     "showTopPosition": false,
     "skills": [
-        "Python",
         "自动化测试",
         "测试",
-        "测试工程师"
+        "测试工程师",
+        "Python"
     ],
     "welfareList": [
         "带薪年假",

@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200628/b56b078ebb6be2761fdd9747be4e4478c43248091344217a9c71054af589a9b3_s.jpg",
     "bossCert": 3,
-    "bossName": "王曦鹏",
+    "bossName": "王先生",
     "bossOnline": false,
     "bossTitle": "HRBP人事主管",
     "brandIndustry": "计算机硬件",
@@ -22,7 +22,7 @@
     "encryptBossId": "c601c42e774f2f2a1nV_2du6FFNZ",
     "encryptBrandId": "9f4f1beb9b45169b3nRy09q7Fw~~",
     "encryptJobId": "8f53cc27770cd63d03Z63N60E1JS",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.970317,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100022,
     "isShield": 0,
-    "itemId": 21,
+    "itemId": 10,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "27THid2k7Ln.search.21",
+    "lid": "NPiPOZt5Py.search.10",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-4K·13薪",
-    "securityId": "2sArmbGlTwgfr-Q1pHzgMt47IKLzyaMdVkUnu1xNjgr_YipGc-eWY__7PhbRYGO7fUmZaUw79m_DHJ3zBSzr0JxeOL5exjYG7qpxWLABhG69ObIGRnlZZ-Drw37Az2YOsUL-zIg7jnuKRw~~",
+    "securityId": "DxDyfdA6x14BF-D1nPBnAcyRH2RztyGqbCkxCh4sCU15pOMMyC0jcfOWTErxW7WcPpbCeJvI--hUkpXUsVKoaAkAnQRRUUHMj7mMcdKcqTELlOgs3rE~",
     "showTopPosition": false,
     "skills": [
         "系统运维"

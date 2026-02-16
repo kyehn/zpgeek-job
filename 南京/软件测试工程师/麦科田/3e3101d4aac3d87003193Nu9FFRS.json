@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "江宁区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250617/607f1f3d68754fd093d22e6c51ff0dec68a96277422df506b7a88d89736b1a549299ff3abcefa399_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "王女士",
+    "bossOnline": false,
+    "bossTitle": "招聘经理",
+    "brandIndustry": "医疗健康",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241106/7bf6f160950405e9a2d6de28ba888c72215571c3dd1da506b7a88d89736b1a549299ff3abcefa399.png.webp",
+    "brandName": "麦科田",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "不需要融资",
+    "businessDistrict": "胜太路",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "90da23a4914e271e0n182965E1RT",
+    "encryptBrandId": "b49e4c27164588801nN_09y8E1Q~",
+    "encryptJobId": "3e3101d4aac3d87003193Nu9FFRS",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.94779,
+        "longitude": 118.814378
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100006,
+    "isShield": 0,
+    "itemId": 6,
+    "jobDegree": "本科",
+    "jobExperience": "在校/应届",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 5,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "194hSmHgNmJ.search.6",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "2-4K",
+    "securityId": "m6OQPlMvSthB7-91o3lpQ4bfXrGdBDd6DxZ_HIS4zlNfIfwFBwPtvCxTgFlzPk0lpeR3UGYIFBL1uWd4tK6PTl4qnpn9Qjwln-QbVP8Wv2cyabNy24tr",
+    "showTopPosition": false,
+    "skills": [
+        "计算机相关专业"
+    ],
+    "welfareList": [
+        "年终奖",
+        "定期体检",
+        "带薪年假",
+        "五险一金"
+    ]
+}

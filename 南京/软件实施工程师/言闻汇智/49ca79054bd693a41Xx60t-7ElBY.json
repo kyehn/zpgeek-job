@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
     "bossCert": 3,
-    "bossName": "朱光亮",
+    "bossName": "朱先生",
     "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "计算机软件",
@@ -22,7 +22,7 @@
     "encryptBossId": "9d024bf26012fea30nVy2du_EVVX",
     "encryptBrandId": "66e7d921f88879341nd62N6_FlQ~",
     "encryptJobId": "49ca79054bd693a41Xx60t-7ElBY",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 32.061142,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 49,
+    "itemId": 4,
     "jobDegree": "本科",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "277dKF3mc4k.search.49",
+    "lid": "195fdFR04Ci.search.4",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "Xix5g5ecm8VQw-Y1hUIXrvS1Sefo1DaNzymN_g-rLY2fwKpeQR5xk7lsfl3Gm5MJ1cm_UNA3wy1cJcaw0i8S7E32_p8KYloNf2DyYP3lgxX5RPZF4ga3QixKzM3u_t69RciWB1_3k66wf8E~",
+    "securityId": "6McAEa1ybkuKx-41Hb9MQSbC0p_WRAkSpm-SOgNN-wLtOaidP1k3TEUd3aGJk4dItckj7hl2r8iT9lD-dJndzJiw3q_wfT9XXH1P8VD4XbEeXb-I9Pdc",
     "showTopPosition": false,
     "skills": [
         "计算机相关专业",
@@ -57,15 +57,14 @@
         "熟练掌握SQL语句"
     ],
     "welfareList": [
-        "加班补助",
-        "五险一金",
         "定期体检",
-        "补充医疗保险",
-        "通讯补贴",
-        "餐补",
-        "全勤奖",
-        "节日福利",
         "股票期权",
-        "年终奖"
+        "补充医疗保险",
+        "餐补",
+        "节日福利",
+        "年终奖",
+        "五险一金",
+        "底薪加提成",
+        "绩效奖金"
     ]
 }

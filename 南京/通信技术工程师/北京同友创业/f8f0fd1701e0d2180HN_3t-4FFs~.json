@@ -22,7 +22,7 @@
     "encryptBossId": "234968a5e0d890ce1Hd-3Nm4F1Y~",
     "encryptBrandId": "9c37f9ec0323fc3f1nN_3NS1EQ~~",
     "encryptJobId": "f8f0fd1701e0d2180HN_3t-4FFs~",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.977007,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 90,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "28qOvZ7OAUB.search.90",
+    "lid": "194hSmHgNmJ.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "T9R1m2vGH32RO-v1yos3EaZ0xEj1bqMdOxOEl5THp_5IcSP_75R92ww81_14RPY184jnokYfEKz0yRaWQ-v3I0Ns7-YDWjQ2QorrNNW8ZR-qtWhjUpmQF1uTKl5vYJBxEaQ9UsWRgbM~",
+    "securityId": "4ch0plS24ovkE-y1sBTsrSLW1kra_uF9NY3r0ev3lFb6zQkbACyWXV-DZ64oryUGSmtQUjsD8pTVb9fC6nGYhLjrnBuz0nwHOcZk3lS1-u4F2Fn_",
     "showTopPosition": false,
     "skills": [
         "无线通信",
