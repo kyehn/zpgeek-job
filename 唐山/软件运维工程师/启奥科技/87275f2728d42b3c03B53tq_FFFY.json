@@ -22,7 +22,7 @@
     "encryptBossId": "06730058417a47a10Xdy2N69EVo~",
     "encryptBrandId": "f917924ae92d5c0403Fy2dq0GA~~",
     "encryptJobId": "87275f2728d42b3c03B53tq_FFFY",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 39.701283,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 56,
+    "itemId": 13,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,19 +43,19 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "9aBcbkMhI66.search.56",
+    "lid": "1qhXY4I2Qf3.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-6K",
-    "securityId": "KPHEY3SXf2VTu-C1fyW-Pfut93iDuv-A46gfgtCxdARuOLh_W3qr1_-xFVMTeaoHkWNXG1S7TxuHCEEFMa2-cIPxM61kaPqm-4NvIsKZFN4mQ_DnMFvb53GI9xE7P4smVQc01I4WWHCK",
+    "securityId": "8THQ_M2FQuTuO-91qPNF5u4hI-sEy6M_dytKEcbQGr77qP2hrBGdIHo-ngWvRkIxd1ryO_uDdNl7thbhIuWPQUijM51B9jRgCnqCAslJeeC6-w0JCw~~",
     "showTopPosition": false,
     "skills": [
-        "实施交付运维",
         "Nginx",
-        "运维经验",
-        "计算机相关专业"
+        "实施交付运维",
+        "计算机相关专业",
+        "运维经验"
     ],
     "welfareList": [
         "节日福利",

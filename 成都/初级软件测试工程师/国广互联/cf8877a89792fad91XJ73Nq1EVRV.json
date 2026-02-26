@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
-    "bossName": "林岳",
+    "bossName": "林女士",
     "bossOnline": false,
     "bossTitle": "行政专员",
     "brandIndustry": "互联网",
@@ -22,7 +22,7 @@
     "encryptBossId": "db58aaf84e9b3d411nR-29q5E1dT",
     "encryptBrandId": "028bcd7d07b9a3260nNz09m1",
     "encryptJobId": "cf8877a89792fad91XJ73Nq1EVRV",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 30.581362,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100020,
     "isShield": 0,
-    "itemId": 15,
+    "itemId": 14,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8CNdfjVKtdj.search.15",
+    "lid": "1KLImr1l4lZ.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "FZnu3xbHOVEfg-21zdxN3pjSAPspyu4qh4IroUX4-wPsvhPdbs6mYhbPRalbqLY-nIJ9_BYl41v9_4dFNDrqq1JJBNn0FUQoxMVqXwyoN5yrkUe--A-BGyicnKVc_tIFExtxiCzbNPmC",
+    "securityId": "xGUoJc7kpwAVz-21Vr9umDAa0zgQUhwccv4XfJV_1-RkIQPrJytYLs-PcdryrDAKUcv0Q_Mdub-AUnm5Az-BYbF8sv-avYE6c5p79W-O6-X_jW098g~~",
     "showTopPosition": false,
     "skills": [
         "功能测试"

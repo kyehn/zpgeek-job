@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211117/607f1f3d68754fd0a5db23454b9d76b0592c3fc6467acd5cf3f3b3f759fdf5bddf98d4b4f5748745_s.png",
     "bossCert": 3,
     "bossName": "吴女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "HR",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180502/edfa5111dec5209bdb5408838bb1910ce186dd76c8039efc03e252bdd673d9e6.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 4,
+    "itemId": 5,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,17 +43,17 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5gvbSODMI4Y.search.4",
+    "lid": "3Gx4KTE6oTm.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K",
-    "securityId": "9jjhlb59YX6DM-s1rwy3KvoIz3a52a74JDoSFgyhBOtH6LqF4Ij0puwttPPNxfmi791zn4QmsHGRY002cXFBAF5Ly9FNR4PEuTNBGSFzmZEwuwp_",
+    "securityId": "ND2rmu7Qcy4mv-a1Wj4nO62CebxVZCtIHIUx3xe5dDDrlgLPAzL7W8VEdIkvpAnehEIlaGaBSYzh4mM2vCwgAfgubo-RHCoRIqhwltzZHAyDDcj08Q3jxxg_pl_U9xGL1JUu5INRSUhIue37G_4k",
     "showTopPosition": false,
     "skills": [
-        "Oracle",
-        "MySQL"
+        "MySQL",
+        "Oracle"
     ],
     "welfareList": [
         "员工旅游",

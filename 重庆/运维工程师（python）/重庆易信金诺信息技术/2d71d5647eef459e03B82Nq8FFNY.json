@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "江北区",
+    "areaDistrict": "两江新区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250507/607f1f3d68754fd0e1385ee159f4e2fa72671e7cd2da0763cd8651c895e80548d1e8cf6f3004a1b7_s.jpg.webp",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100001,
     "isShield": 0,
-    "itemId": 3,
+    "itemId": 2,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "3W74MavbHJH.search.3",
+    "lid": "3GvUaWHBc0d.search.2",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-9K",
-    "securityId": "CeL0Rm5bYFBaB-f19w2tbIRKJ86j0u9FZ3rEvRIsibg4O9oceJgGJ0S7LHUKvhYoFuDw7F5nt0cUTWhVzLik6BvdCa8xNMPancglXzfInAkqi2xrO6OQ",
+    "securityId": "PsrD8NKR2cd1B-H1Gr9D2l_g__E01lQ8cJoQLpnB_0WPz0505kU-YT9jr8gGnRXezBW2m_FYfbCREX1ROl2ZBVdLur77rof82mM6PYamFXFF9Bx1b5mV",
     "showTopPosition": false,
     "skills": [
         "Golang",

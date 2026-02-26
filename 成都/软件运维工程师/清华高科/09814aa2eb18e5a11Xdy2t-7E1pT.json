@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "",
+    "areaDistrict": "武侯区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
@@ -14,7 +14,7 @@
     "brandName": "清华高科",
     "brandScaleName": "100-499人",
     "brandStageName": "不需要融资",
-    "businessDistrict": "",
+    "businessDistrict": "中和",
     "city": 101270100,
     "cityName": "成都",
     "contact": false,
@@ -25,14 +25,14 @@
     "expectId": 0,
     "goldHunter": 0,
     "gps": {
-        "latitude": 30.557248,
-        "longitude": 104.055853
+        "latitude": 30.55727836190617,
+        "longitude": 104.05589320913771
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100023,
     "isShield": 0,
-    "itemId": 3,
+    "itemId": 11,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,19 +43,16 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "5Wxpr0L7qYC.search.3",
+    "lid": "3GwvYmaHfZw.search.11",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "5-8K·13薪",
-    "securityId": "eHCg_vSDS1lu--i1blqHNnaUrwFq1CYN3FvCyTyKD49KW8LVJBIlCiirJqm34NYLvTsojWQUt1TMViMru-wWewyclJZi-6Qw_t5FvpJR_g1d-ce_Fhc~",
+    "salaryDesc": "4-6K·13薪",
+    "securityId": "ny1wOsRy4aGUT-L1Q-3rskz2i1VgI0h8ePCk5hGHg5d-lpu0O8SJlLvMBcUysTRJXB2O-aw-VL28fccyq1JhH6x2RgMo1fsWBjcgPFC3fXtRFKD4rQc~",
     "showTopPosition": false,
     "skills": [
         "MySQL/Oracle",
-        "计算机相关专业",
-        "运维经验",
-        "大数据运维经验",
         "计算机相关专业"
     ],
     "welfareList": [
