@@ -22,7 +22,7 @@
     "encryptBossId": "513b6998f313915603B62d67Elc~",
     "encryptBrandId": "55459970fe1531191nB-3dm-F1E~",
     "encryptJobId": "03d54f2ffcaead151nZ80968GFtT",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.353381,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100606,
     "isShield": 0,
-    "itemId": 76,
+    "itemId": 14,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8t8yjrRftAH.search.76",
+    "lid": "47O4mw7RcvA.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-7K",
-    "securityId": "2P9CUsQ0NPZaz-I1I_iIxISHAYNTe0hamkBU35BuyantWBQc0EsS19J0ROSPGIX65W32SSfIi5MqdL1aGofaEo2aanDjb8Yatz-R4WN0tE9zrcaODCU0WhBFyOnImA9nuRtBT1zUq8ubUA~~",
+    "securityId": "1a5egNRUM7O4p-81llezkoXUmD1EViOrNFCceSGPoVZQGPlfNHf-wg36Ohi9HAvBZ-bQHkkUMQnX19aPazThx8V-3qY2zfH3JLWQi7IySdKtlYJo1ME~",
     "showTopPosition": false,
     "skills": [
         "五险一金",

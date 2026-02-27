@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
     "bossCert": 3,
-    "bossName": "孙政",
+    "bossName": "孙先生",
     "bossOnline": false,
     "bossTitle": "总经理",
     "brandIndustry": "原材料及加工/模具",
@@ -22,7 +22,7 @@
     "encryptBossId": "5c37f699698ec8360nV609i1EVZW",
     "encryptBrandId": "7a6afc67aacd473f1nd53dq1EFQ~",
     "encryptJobId": "cc016ae72dad88bd1HR93dW8FlRT",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.787891,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100903,
     "isShield": 0,
-    "itemId": 36,
+    "itemId": 15,
     "jobDegree": "大专",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cAjt8blAIl.search.36",
+    "lid": "47O4mw7RcvA.search.15",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "9P1a86L30LwqR-K182MKiyqGcq45ZA51E5hEsVXeUXoDQ8cggHwju9XLesTV4xQrOZwsbcPWR4OpwAc1o62vot_1HGrr2grMhzvkUcPNQR2g4a13cTULGduZXZC66ld-_fannUNPvoqKpm8~",
+    "securityId": "gZGuOBdVMvVlr-E1UBed18dRGerdBAZv0f59P9mBUErq9LeuUX3B1E69bXr4LfCRzYrNkt3SN_7JD6_AjnHPpAdc2qgpSUxFgXDhn41_GV4UtqdKtj_z",
     "showTopPosition": false,
     "skills": [
         "测试工作经验"

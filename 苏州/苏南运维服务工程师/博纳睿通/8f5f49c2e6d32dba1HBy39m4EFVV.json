@@ -1,7 +1,9 @@
 {
+    "afterNameIcons": [],
     "anonymous": 0,
     "areaDistrict": "昆山市",
     "atsDirectPost": false,
+    "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231113/607f1f3d68754fd05be2ba07be85f9aec5053d1cbe36c2464d705c1cd73d8ff1affd4bd50e1b31cb_s.jpg.webp",
     "bossCert": 3,
     "bossName": "董女士",
@@ -12,7 +14,7 @@
     "brandName": "博纳睿通",
     "brandScaleName": "100-499人",
     "brandStageName": "A轮",
-    "businessDistrict": "玉山",
+    "businessDistrict": "花桥",
     "city": 101190400,
     "cityName": "苏州",
     "contact": false,
@@ -23,14 +25,14 @@
     "expectId": 0,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.3858,
-        "longitude": 121.025911
+        "latitude": 31.278907,
+        "longitude": 121.072895
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 9,
+    "itemId": 14,
     "jobDegree": "本科",
     "jobExperience": "1年以内",
     "jobLabels": [
@@ -41,22 +43,23 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "8gxgyXYgQw3.search.9",
+    "lid": "47OBXmRTwge.search.14",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-7K·14薪",
-    "securityId": "Hy-te5deeBKW1-Y1AYo7xRmSluSMzG_0jnaHLqlZ8OMxgLg78npyrQYjSjpcBMdvhnwpEDUqB4n0zAs5FLSqYBNmyaqStdPqRJlWnQOk7nHhyEjX09CLEUdgrm_lHUDX7uHPL7lLvguQJTJsPBEG",
+    "securityId": "ibb0dowLPxpC3-_1t5l4T-u-ubNImlVYaFQeuFK1fzWGYZqgsVv6dgbzm8e4De-IyImto6-UkSn-4kETQgSbh7RPfrVniFoZp7eyaLSOe4qdJjbRYs5lr3EVxB3dng_9QnHPglplEKm4Apxb53Ug",
     "showTopPosition": false,
     "skills": [
         "运维"
     ],
     "welfareList": [
+        "年终奖",
+        "节日福利",
+        "带薪年假",
         "五险一金",
         "定期体检",
-        "年终奖",
-        "带薪年假",
-        "节日福利"
+        "绩效奖金"
     ]
 }

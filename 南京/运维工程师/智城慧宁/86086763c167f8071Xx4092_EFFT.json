@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210406/99b44b3d4d0bb6cc3b77af74b05e3e105be26faeb2db25ee8870687d5736ae63_s.png",
     "bossCert": 3,
-    "bossName": "高宁波",
+    "bossName": "高先生",
     "bossOnline": false,
     "bossTitle": "招聘者",
     "brandIndustry": "交通/运输",
@@ -22,7 +22,7 @@
     "encryptBossId": "7c82eb8946b82f661HBy3t-8EVA~",
     "encryptBrandId": "71ec78a847ecf8f41nF-39S8Fls~",
     "encryptJobId": "86086763c167f8071Xx4092_EFFT",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 32.021506,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100501,
     "isShield": 0,
-    "itemId": 31,
+    "itemId": 3,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "27NvVnFXKjk.search.31",
+    "lid": "3YaAo5bv6Q3.search.3",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "QbrtrDx0pZezr-X1jgjuwmCtV8-AnZ3s0y93rCrYcKf4wSc0DFTI2GZ0WDSnl9_YJU0dGmzdh6Ne0cBt115BcEzkrUdzvtQIyNnff6eEygcJ9aWR4XaPNJ-PdQTOElwHThQhFDZFoEkPaw~~",
+    "securityId": "p5gPGS8oZJvK--p1-4a7yycQVear5R4DMYDxIPhQdRbWe7ELfQ1Rjm8CHf-QDR-0282jq-Oln4i0ezT-DqDbY2wRt6oF4s-xMKF8IHIHAcqokGTQrFM~",
     "showTopPosition": false,
     "skills": [
         "实施交付运维"

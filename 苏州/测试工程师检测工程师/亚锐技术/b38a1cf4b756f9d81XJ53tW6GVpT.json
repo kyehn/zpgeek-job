@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
     "bossCert": 3,
-    "bossName": "祁琪",
+    "bossName": "祁女士",
     "bossOnline": false,
     "bossTitle": "人事",
     "brandIndustry": "检测/认证/知识产权",
@@ -22,7 +22,7 @@
     "encryptBossId": "b54ed79b6107b7f11nV83Ny-F1ZX",
     "encryptBrandId": "4172d90bed4357041XR629q-F1M~",
     "encryptJobId": "b38a1cf4b756f9d81XJ53tW6GVpT",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 31.185678,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100609,
     "isShield": 0,
-    "itemId": 60,
+    "itemId": 9,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1cAjt8blAIl.search.60",
+    "lid": "47O4mw7RcvA.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-8K",
-    "securityId": "Vx2SF4vygJcus-31dQiDzW2K5C6nBYqQcZ9gdLFGpLEEVZeSh_pcmoXwoUERk6Bx21z_kl9Yvtr0er7Nh3V0Z8xXtlELEqYfTDbZ8HwrOOy7VrUqmvI1beO3gT4W9KbTQd_w59XaUZtZHCk~",
+    "securityId": "PuxZpazxYNjB0-T1SiWGaEznERx2h85YFdqvtnx1E2hpptvNew-L7bJkSeBODZsVvVM8pK6QM8LZrFPE5JkmJa3_U3h6OQrupW3qD72Uzpx2vhV7ovSR",
     "showTopPosition": false,
     "skills": [
         "测试工程师"

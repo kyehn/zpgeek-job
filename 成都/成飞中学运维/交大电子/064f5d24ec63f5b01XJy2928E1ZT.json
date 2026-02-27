@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
     "bossCert": 3,
     "bossName": "邓女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "hr",
     "brandIndustry": "在线教育",
     "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180508/d0ab0452a33488e386433469fcbf78aac93373636f0498bf157088b6ef735220.jpg",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100012,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 9,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "15iZuA040ba.search.7",
+    "lid": "4bYaw1931xY.search.9",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "3-5K",
-    "securityId": "I5v7_BgS-BsPw-o1mZSZQaYFh9oHda9tY9pw5aoc8lMqfK9-8mdz6eidIDkDDFLPHM8w59Zpi3ahaO63mq1c99dhu4FCOVRqZzxaJAu6FC0xBMHo8A~~",
+    "securityId": "unrg98xS3g7sU-01X3RLhf-xBp3TId-23NmPwkx9lPOTVS7JLd14GziihRIDLqCY5civBuUuZpmMt1kxeJ01lzb6lsYhldF7aIeWyeN3jNN9_jcHQLAlvUacV09C3d2BM_takr-r9-MwVmQV0dhtwg~~",
     "showTopPosition": false,
     "skills": [
         "桌面运维"

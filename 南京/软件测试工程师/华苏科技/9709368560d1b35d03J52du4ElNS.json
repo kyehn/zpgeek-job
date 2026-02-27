@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "雨花台区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20250701/607f1f3d68754fd0075e20bfc7a4e84b0c5144aadc494cce3f3041b34a67ec40687557b9faba9e45_s.jpg.webp",
+    "bossCert": 3,
+    "bossName": "吴女士",
+    "bossOnline": false,
+    "bossTitle": "业务HR",
+    "brandIndustry": "通信/网络设备",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160713/98c003eb5224503231518a69dca5d134d0148a6b6fdb73576ab3057f87ebd668.jpg",
+    "brandName": "华苏科技",
+    "brandScaleName": "1000-9999人",
+    "brandStageName": "已上市",
+    "businessDistrict": "铁心桥",
+    "city": 101190100,
+    "cityName": "南京",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "daeae74cccb157d90XFy0ty9FFdS",
+    "encryptBrandId": "a59bc37f1252d3b41nx72ti4",
+    "encryptJobId": "9709368560d1b35d03J52du4ElNS",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 31.932397,
+        "longitude": 118.753861
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100024,
+    "isShield": 0,
+    "itemId": 15,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件测试工程师",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "47R53V51DAh.search.15",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "7-9K",
+    "securityId": "98iPHLYWGrFJf-j1KFUHefYEEOibUWBdfVT_NyWuPUJ_Ex0E-tfZ_Aat26dIny_4sViiQsLmilKBoxEJhHWCea2P9ezup8rdRNCFOdf6B9mcmjX95g~~",
+    "showTopPosition": false,
+    "skills": [
+        "软件测试"
+    ],
+    "welfareList": [
+        "定期体检",
+        "带薪年假",
+        "五险一金",
+        "节日福利"
+    ]
+}

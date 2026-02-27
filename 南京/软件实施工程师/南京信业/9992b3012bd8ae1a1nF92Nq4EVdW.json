@@ -6,7 +6,7 @@
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
     "bossCert": 3,
-    "bossName": "周丽丽",
+    "bossName": "周女士",
     "bossOnline": false,
     "bossTitle": "人事主管",
     "brandIndustry": "环保",
@@ -22,7 +22,7 @@
     "encryptBossId": "7b9cd6fd1319a3191HR_0t-0FlU~",
     "encryptBrandId": "30909015f251238e1nN-2dy9EA~~",
     "encryptJobId": "9992b3012bd8ae1a1nF92Nq4EVdW",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 32.077437,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101207,
     "isShield": 0,
-    "itemId": 38,
+    "itemId": 1,
     "jobDegree": "大专",
     "jobExperience": "经验不限",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "28gay4QVhHH.search.38",
+    "lid": "47Qdtv94nIn.search.1",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "5-8K",
-    "securityId": "6N49-xgREoUsr-51yXmsdShRs0N5VeW4wldxskxRuyKyOpla9sUxbHSG_srO1a-EPA614rmlgrWCGAgbXM-EFMv9rmejaATkpoVgvZpjae_EujsLCsMcwQ_o14bfFIULM4WAfSYN35Wu",
+    "securityId": "_kzQlV1xFy22H-Y1LMjYKfguUvGw1AK957ztiiojwYc4fIrMCzHswdWkpfejUIUkmjXWBgomoGwijUkIryBmqyOsYDBveesb4EntffLbVLadJQrqGQ~~",
     "showTopPosition": false,
     "skills": [
         "MySQL"

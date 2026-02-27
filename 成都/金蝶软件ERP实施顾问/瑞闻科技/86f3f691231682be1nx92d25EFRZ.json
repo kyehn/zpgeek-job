@@ -7,7 +7,7 @@
     "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200720/db8c9f997d4c1e5b3a17698d026b90630a593af57ef9fad93098dddf1e5d7124_s.png",
     "bossCert": 3,
     "bossName": "蒋女士",
-    "bossOnline": false,
+    "bossOnline": true,
     "bossTitle": "招聘者",
     "brandIndustry": "计算机软件",
     "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190903/0f9203046f624a676f8c8392d0371e3bfef434dd2d5ba4c2e2a9fd7150ac384b.png",
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 7,
+    "itemId": 5,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1KLufzphoAk.search.7",
+    "lid": "4bU7e99CZJy.search.5",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "4-5K",
-    "securityId": "hDiDPVLxOUEu5-v10Qc_JBCFkJxHHzWh8SvRkar03RN5mvUF41lTa_GWZwQlVF6D90sZbRqjZOBG-v--LvFx2qiuN7dCuJUacPMmXNaNe74P6-FoUgM~",
+    "securityId": "xa7pfY1oQK9WN-n1SYB3mfkbQD_8eUpddUHFHwobDdc4Ae3SRD7U7sdpS7Z7-vcy0eMcs4T56mFrZWMQUnzBljvbZB7PhFHYQfTfeHK_hN-7zsdA74rNyFaFjzle5muTMz7I9znaqAKW_k1XQVM4GVA~",
     "showTopPosition": false,
     "skills": [
         "实施工程师/顾问"

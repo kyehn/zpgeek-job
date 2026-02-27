@@ -1,7 +1,7 @@
 {
     "afterNameIcons": [],
     "anonymous": 0,
-    "areaDistrict": "",
+    "areaDistrict": "雨花台区",
     "atsDirectPost": false,
     "beforeNameIcons": [],
     "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
@@ -14,7 +14,7 @@
     "brandName": "晟迅",
     "brandScaleName": "20-99人",
     "brandStageName": "未融资",
-    "businessDistrict": "",
+    "businessDistrict": "安德门",
     "city": 101190100,
     "cityName": "南京",
     "contact": false,
@@ -22,17 +22,17 @@
     "encryptBossId": "3a9f3cdf165f2c650XV40tu0EFM~",
     "encryptBrandId": "c5a550798d034b541nV82Ny8ElY~",
     "encryptJobId": "b764b67b4e6c669503F739S6GVdZ",
-    "expectId": 1213281944,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
-        "latitude": 31.996262,
-        "longitude": 118.601014
+        "latitude": 31.971453,
+        "longitude": 118.772404
     },
     "iconFlagList": [],
     "iconWord": "",
     "industry": 100024,
     "isShield": 0,
-    "itemId": 70,
+    "itemId": 6,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "1eFcGqo8jQH.search.70",
+    "lid": "47R53V51DAh.search.6",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
-    "salaryDesc": "7-9K",
-    "securityId": "pHFfzMqBy6ZOj-E1N5JXf8d2GSLCA2149pO_LpfxogN_nX6uJW14GL9qLXIJLVPw7KXB_dzydevAdkdbW81eTm4cpKgiLKM5GLE3k8peP1W4O65_v981hqbkm96acYFMHqJ9X8uazEz8sQ~~",
+    "salaryDesc": "7-12K",
+    "securityId": "x2DgRkYCJ2KHy-41tTDptRGad4RK806znTb6NeOBblzeQQPDVgED9-PuthVO3b7J3WkAQS4ZhHrtnwrr31m-JJ5i7wPE3UD_1ros3Yi437WUbn1qWTk~",
     "showTopPosition": false,
     "skills": [
         "测试工作经验"
