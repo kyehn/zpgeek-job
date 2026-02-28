@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 100021,
     "isShield": 0,
-    "itemId": 8,
+    "itemId": 12,
     "jobDegree": "大专",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,20 +43,21 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "4OQHs9XLPi8.search.8",
+    "lid": "4yVXbcBMApw.search.12",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "7-9K",
-    "securityId": "KyMu9ZiDPk9TV-U1NZSr0cBdot5JsZ5q9GtxP-ygtJOXwvaxa5bdQVW8GPeyAykGQ1iKSkg7FuVR2CaO7xYpyeNbMdk1b6tGl9XD1TTe2s9WXe4cBw~~",
+    "securityId": "UmolNS1M_Jnva-K1w_Zi4K_6AU6w1XB853plr3P-asMnr6gxDazKmOyOoe3m0TWdfQclZnbDvMf9ibiUnZz1jb10Sro_mR-oFIsoclOiKZJdM5Dpkw~~",
     "showTopPosition": false,
     "skills": [
         "app",
         "Java",
         "C++",
         "自动化测试",
-        "性能测试"
+        "性能测试",
+        "客户端"
     ],
     "welfareList": [
         "五险一金",

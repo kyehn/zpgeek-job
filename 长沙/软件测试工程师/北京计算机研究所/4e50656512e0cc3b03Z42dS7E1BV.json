@@ -10,7 +10,7 @@
     "bossOnline": false,
     "bossTitle": "人事专员",
     "brandIndustry": "其他行业",
-    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170504/e03125b8432c114bcb5a905c3edd5f9199e7f75bef5fe8940d0ee8c2bdd2d8a4.jpg",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20250625/7bf6f160950405e92cadcf72343abe44b55cfeb96e164b17da3f545757ed0260b5e54e2973b675c8.png.webp",
     "brandName": "北京计算机研究所",
     "brandScaleName": "1000-9999人",
     "brandStageName": "不需要融资",
@@ -22,7 +22,7 @@
     "encryptBossId": "e5ab1f56bb7431b60nBy3Nq9FFNR",
     "encryptBrandId": "922dd1ea9669f5c30nBy3dy4",
     "encryptJobId": "4e50656512e0cc3b03Z42dS7E1BV",
-    "expectId": 1077417861,
+    "expectId": 0,
     "goldHunter": 0,
     "gps": {
         "latitude": 28.22421,
@@ -32,7 +32,7 @@
     "iconWord": "",
     "industry": 101304,
     "isShield": 0,
-    "itemId": 47,
+    "itemId": 13,
     "jobDegree": "本科",
     "jobExperience": "1-3年",
     "jobLabels": [
@@ -43,13 +43,13 @@
     "jobType": 0,
     "jobValidStatus": 1,
     "leastMonthDesc": "",
-    "lid": "26mm9rLolqv.search.47",
+    "lid": "4yVXbcBMApw.search.13",
     "optimal": 0,
     "outland": 0,
     "proxyJob": 0,
     "proxyType": 0,
     "salaryDesc": "8-13K·14薪",
-    "securityId": "rwK4qWQhcdscj-q1SHfmgzrkOKJO8W-8b-XkySa3h73ixTyUxLTR_x2FPU_Og4QNtaCsRAt291q5DH_YQlQpQwC2ZeCxk0k-Aey-dCQOo7qLb7PNoP2X_gXgGVPwXc1hsJIbFrhr_biz",
+    "securityId": "TwWr8GlX2DUu0-z1iXEIpoPWF1tchWaH_oPIxbAQGvkvcrww_jICCr65Ka0aNapadFdd6OP6-d8HlXwcbWittieMPjQU3qYkTlp1rfFZNDzICVAbuA~~",
     "showTopPosition": false,
     "skills": [
         "自动化测试"

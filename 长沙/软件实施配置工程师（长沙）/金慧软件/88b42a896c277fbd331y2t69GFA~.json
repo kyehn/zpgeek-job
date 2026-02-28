@@ -1,0 +1,63 @@
+{
+    "afterNameIcons": [],
+    "anonymous": 0,
+    "areaDistrict": "芙蓉区",
+    "atsDirectPost": false,
+    "beforeNameIcons": [],
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_11.png",
+    "bossCert": 3,
+    "bossName": "龙女士",
+    "bossOnline": true,
+    "bossTitle": "人事行政主管",
+    "brandIndustry": "计算机软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170907/c6f03d8c17a8c68e3ed2cf605ba62785cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandName": "金慧软件",
+    "brandScaleName": "100-499人",
+    "brandStageName": "未融资",
+    "businessDistrict": "朝阳街",
+    "city": 101250100,
+    "cityName": "长沙",
+    "contact": false,
+    "daysPerWeekDesc": "",
+    "encryptBossId": "ed7466dc459880001HRz0928GVQ~",
+    "encryptBrandId": "8366950b8ae5d8d21n1y29q-",
+    "encryptJobId": "88b42a896c277fbd331y2t69GFA~",
+    "expectId": 0,
+    "goldHunter": 0,
+    "gps": {
+        "latitude": 28.193583,
+        "longitude": 112.998658
+    },
+    "iconFlagList": [],
+    "iconWord": "",
+    "industry": 100021,
+    "isShield": 0,
+    "itemId": 7,
+    "jobDegree": "本科",
+    "jobExperience": "1-3年",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobName": "软件实施配置工程师（长沙）",
+    "jobType": 0,
+    "jobValidStatus": 1,
+    "leastMonthDesc": "",
+    "lid": "4yUPc7DaOG3.search.7",
+    "optimal": 0,
+    "outland": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "salaryDesc": "5-7K·13薪",
+    "securityId": "06FK3Qxj1zyKg-f1onZTivqTEv0XlRPJKXOyqRBtGgmnRb22IpiVjLfVBkFNcFSqWJTANCztBm0Xs3jEQyZAQYDvjU01xlJjy2MPpKBVd8H1UpYn_EC4LVIzHPcAcnCv52xlikvJLk8k9rmbmhA~",
+    "showTopPosition": false,
+    "skills": [
+        "软件实施",
+        "IT项目管理",
+        "ERP实施"
+    ],
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ]
+}
